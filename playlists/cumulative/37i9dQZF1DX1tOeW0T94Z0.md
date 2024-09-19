@@ -2,9 +2,9 @@
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Massari
 
-143 songs - 9 hr 22 min
+144 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Rap Passion \(feat\. Red One\)](https://open.spotify.com/track/0OKl5o9g4coiF36u9UXCzq) | [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT), [The Red One](https://open.spotify.com/artist/5hXGIlHB5bApAiYvcaEhiP) | [Welcome To The Game](https://open.spotify.com/album/5RUtDILSiQz96aSdNM1a1o) | 4:33 | 2022-07-01 | 2023-06-09 |
 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 | 2022-08-31 |  |
 | [Rubbin'](https://open.spotify.com/track/4bT6qTu5mi5i0ZcZtgcz1Y) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 3:43 | 2022-07-01 | 2023-08-03 |
+| [Rush The Floor](https://open.spotify.com/track/67UnMXVIxzq0h6wr5EI5VT) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:15 | 2024-09-18 |  |
 | [Say About Us? \- Feat\. Jenna](https://open.spotify.com/track/1clvE2lBqwbLsZocPaLZmx) | [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD) | [Say About Us?](https://open.spotify.com/album/3M0txXTWpZxrCoSmAFB2Co) | 3:56 | 2023-06-08 | 2024-05-23 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-07-01 | 2022-12-29 |
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2022-07-01 |  |

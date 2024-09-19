@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,483 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,592 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 16 | [Fast Forward](https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:38 |
 | 17 | [Stellar \- ANNA Remix](https://open.spotify.com/track/3eZAKySvQ3VBUlGdSmI7SD) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Stellar \- ANNA Remix](https://open.spotify.com/album/6QT8IOUeqAPMQ3mmO3uuvg) | 3:32 |
 | 18 | [Dingsi Dongsi](https://open.spotify.com/track/6vdSsl3alKS2uTtOHh3VEe) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Dingsi Dongsi](https://open.spotify.com/album/7dqyPFQOb4omAJ5wkrQHxR) | 5:17 |
-| 19 | [SMM](https://open.spotify.com/track/4YcwYwgfrtBWhnk3gqWA7F) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [BDM](https://open.spotify.com/artist/0xbiMwtVaiUooQYVO7HUhr) | [SMM](https://open.spotify.com/album/2sbH8Z7Y0IdYdvNqrdgnE5) | 4:57 |
+| 19 | [SMM](https://open.spotify.com/track/4YcwYwgfrtBWhnk3gqWA7F) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [SMM](https://open.spotify.com/album/2sbH8Z7Y0IdYdvNqrdgnE5) | 4:57 |
 | 20 | [Say Something](https://open.spotify.com/track/2bpWNHKj3SKFGuqjYOStus) | [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP), [The Upstarters](https://open.spotify.com/artist/6tXlf0FFmrKRkdc8xtMZgF) | [Say Something \(20 Years Systematic\)](https://open.spotify.com/album/42ICGnjxiCIUsk0EgOQMMJ) | 7:49 |
 | 21 | [Not the One](https://open.spotify.com/track/0wVsELktNqS9JISQAwN79y) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Not the One](https://open.spotify.com/album/1Zh1eAZLuGy4YPMMBMlxdp) | 5:42 |
 | 22 | [Within You \- Kölsch Mix](https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Within You \(Kölsch Mix\)](https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4) | 10:15 |

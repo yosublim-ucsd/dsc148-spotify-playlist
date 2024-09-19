@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 234176,
       "name": "Hanggang Sa Buwan",
       "url": "https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY"
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "album": {
         "name": "Nobody Like Us",
         "url": "https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 241466,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr"
@@ -1404,6 +1422,28 @@
       "duration_ms": 234866,
       "name": "Things You Said (feat. Abby Cates)",
       "url": "https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD"
+    },
+    {
+      "album": {
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
     },
     {
       "album": {

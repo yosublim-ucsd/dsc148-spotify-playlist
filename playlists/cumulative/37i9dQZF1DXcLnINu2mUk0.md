@@ -2,7 +2,7 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Jimmy P, Kikimoteleba
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
 
 639 songs - 1 day 10 hr 2 min
 

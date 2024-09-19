@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30264,
+  "num_followers": 30273,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 194977,
       "name": "Rotation Suggesting Permanence",
       "url": "https://open.spotify.com/track/3PdRX3VXcvB5QihiG9AGkn"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
-      },
-      "artists": [
-        {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Racconti mediterranei",
         "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "La Grandiosa",
         "url": "https://open.spotify.com/album/2U163GgbFpiqJLRhNdtRyz"
       },
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
       "artists": [
         {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
         }
       ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1607,34 +1607,46 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
       },
       "artists": [
         {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
         }
       ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+        "name": "Over and again",
+        "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
       "artists": [
         {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+          "name": "Vanessa Tagliabue Yorke",
+          "url": "https://open.spotify.com/artist/5gwZ5aoZkmg5Q3brZ12kD9"
+        },
+        {
+          "name": "Giulio Scaramella",
+          "url": "https://open.spotify.com/artist/0X0ANopk6l3kuEQulQ9neM"
+        },
+        {
+          "name": "Paolo Mappa",
+          "url": "https://open.spotify.com/artist/0lRplDXy27fhzIgndGFmuY"
+        },
+        {
+          "name": "Giulio Corini",
+          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
         }
       ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
+      "duration_ms": 210494,
+      "name": "Over and again",
+      "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1655,6 +1667,22 @@
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1775,34 +1803,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Over and again",
-        "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Tagliabue Yorke",
-          "url": "https://open.spotify.com/artist/5gwZ5aoZkmg5Q3brZ12kD9"
-        },
-        {
-          "name": "Giulio Scaramella",
-          "url": "https://open.spotify.com/artist/0X0ANopk6l3kuEQulQ9neM"
-        },
-        {
-          "name": "Paolo Mappa",
-          "url": "https://open.spotify.com/artist/0lRplDXy27fhzIgndGFmuY"
-        },
-        {
-          "name": "Giulio Corini",
-          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
-        }
-      ],
-      "duration_ms": 210494,
-      "name": "Over and again",
-      "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Facing North",
         "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
       },
@@ -1895,6 +1895,30 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Tati",
+        "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 392266,
+      "name": "Cornettology",
+      "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Integra",
         "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
       },
@@ -1931,30 +1955,6 @@
       "duration_ms": 388693,
       "name": "Lucignolo",
       "url": "https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Tati",
-        "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 392266,
-      "name": "Cornettology",
-      "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
     },
     {
       "added_at": "2024-06-28 00:01:00",

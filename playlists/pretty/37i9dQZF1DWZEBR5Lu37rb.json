@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 72460,
+  "num_followers": 72544,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Soil",
         "url": "https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 246066,
       "name": "Iinkomo",
       "url": "https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Hiyo Lento",
         "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 335840,
       "name": "Sponky Ponky",
       "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 293711,
       "name": "Thojana Ya Thesele",
       "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
     },
     {
       "added_at": "2024-05-22 11:00:00",

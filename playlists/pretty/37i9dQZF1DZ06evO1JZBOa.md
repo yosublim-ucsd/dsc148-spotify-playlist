@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This Is Manu Dibango\. Los temas esenciales, todos en una lista.
+> This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,390 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,392 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [El Manicero](https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 5:44 |
 | 50 | [Nobody Knows 2](https://open.spotify.com/track/3EHNJCNEMOg8PxCUO7gnOT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Merci ! Thank You !, Vol\. 1](https://open.spotify.com/album/2YcPmYfonftIokdUZu2e0Y) | 5:20 |
 
-Snapshot ID: `Zud1AAAAAACakQ4HKoQyYoGlh9VAaLV/`
+Snapshot ID: `Zud1AAAAAAD9pqa8u8BIolYg9wbJxCi6`

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-147 songs - 9 hr 41 min
+148 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [dahan\-dahan](https://open.spotify.com/track/3pT7wGF5w6Jhgj7w08dCeQ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [dahan\-dahan](https://open.spotify.com/album/0xWLRLBLyorsbEwOeWzklC) | 4:24 | 2024-06-05 |  |
 | [Dal'wang Patinig](https://open.spotify.com/track/1RuU3Nuwnv5RZExtG5w94l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Dal'wang Patinig](https://open.spotify.com/album/5e1cXY60hFMJYetPBFl2di) | 3:49 | 2023-11-10 | 2023-12-09 |
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-11-10 | 2024-02-27 |
+| [Dulo](https://open.spotify.com/track/43v06l03KMsOITOSyIYV91) | [Edwin Hurry Jr.](https://open.spotify.com/artist/2u6lI1BGjeacTKudw3Fwkv) | [Dulo](https://open.spotify.com/album/3I2tgqkxcybAbsl0esLMUF) | 4:33 | 2024-09-18 |  |
 | [edsa](https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [edsa](https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y) | 3:28 | 2024-06-05 | 2024-07-11 |
 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 | 2024-04-17 | 2024-07-10 |
 | [Gabi](https://open.spotify.com/track/6bRB6pvgrVRAi1VdFz9TJb) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Sad Songs and Bullshit Part 1](https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv) | 5:17 | 2023-10-18 | 2023-11-21 |
@@ -74,7 +75,7 @@
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2023-10-18 |  |
 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 | 2024-09-02 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 |  |
-| [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 |  |
+| [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 | 2024-09-19 |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-17 | 2024-08-22 |
 | [Love Story Kong Bitin](https://open.spotify.com/track/21sJOwbt6sijf6N59B0LVv) | [Atasha Muhlach](https://open.spotify.com/artist/4ES6et0LYZjJzQSEciWaEu) | [Love Story Kong Bitin](https://open.spotify.com/album/4a2FpSTNye8h9mcnJE0ogQ) | 3:43 | 2024-07-24 | 2024-08-22 |
 | [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-10 | 2024-07-18 |
@@ -132,9 +133,9 @@
 | [sana hindi na lang](https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [sana hindi na lang](https://open.spotify.com/album/1uzlXLSHMKR4lRQMJjJ0Oa) | 3:16 | 2024-07-10 | 2024-07-18 |
 | [Sandal](https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Sandal](https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX) | 3:46 | 2024-09-04 |  |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-18 | 2023-11-11 |
-| [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 | 2024-09-05 |
+| [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 |  |
 | [sige, sayaw!](https://open.spotify.com/track/1oodIcBpmQLOJybpGwv6lw) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [sige, sayaw!](https://open.spotify.com/album/6iWaYp0ISeGnDq5iqvPJaz) | 3:46 | 2024-02-28 | 2024-04-04 |
-| [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-09-04 |  |
+| [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-09-04 | 2024-09-19 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-08 |  |
 | [Something](https://open.spotify.com/track/3hd1QCyMqEunjjR2D6ctPa) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Something](https://open.spotify.com/album/0D6iQ2FcVJK3513qxGATyT) | 3:53 | 2023-11-10 | 2023-12-09 |
 | [Steak frites](https://open.spotify.com/track/5zmqs8CVlOxj8F9bngOXdP) | [Debbie Morena](https://open.spotify.com/artist/5CgL9Wl4tlFzyKklCOPyj4), [sopi](https://open.spotify.com/artist/6HMKJWQB4l8yJx6BX6sY6t) | [Steak frites](https://open.spotify.com/album/1yHhGL19o8ax497zWwi1IZ) | 1:40 | 2024-07-24 | 2024-08-22 |

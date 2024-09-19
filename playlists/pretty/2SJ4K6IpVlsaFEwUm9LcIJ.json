@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile)",
-  "num_followers": 21292,
+  "num_followers": 21311,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAK/duqH3OBRqnAs1dsy+mB/ES6mE3H",
+  "snapshot_id": "AAALA/ACjUzZa53CACtNfl8HG7pM6TEj",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr"
     },
     {
+      "added_at": "2024-09-18 20:01:41",
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+    },
+    {
       "added_at": "2024-09-14 14:37:24",
       "album": {
         "name": "Alien Lanes",
@@ -299,6 +315,70 @@
       "duration_ms": 120333,
       "name": "My Valuable Hunting Knife",
       "url": "https://open.spotify.com/track/4W5xR9p6Qa5kqUuDIcdvKD"
+    },
+    {
+      "added_at": "2024-09-18 20:30:00",
+      "album": {
+        "name": "In The Double",
+        "url": "https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 163568,
+      "name": "Above Your Head",
+      "url": "https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W"
+    },
+    {
+      "added_at": "2024-09-18 22:24:38",
+      "album": {
+        "name": "Eccentric Soul: The Way Out Label",
+        "url": "https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj"
+      },
+      "artists": [
+        {
+          "name": "The Exceptional Three",
+          "url": "https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk"
+    },
+    {
+      "added_at": "2024-09-18 23:30:05",
+      "album": {
+        "name": "\u307f\u7a7a",
+        "url": "https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9"
+      },
+      "artists": [
+        {
+          "name": "\u91d1\u5ef6\u5e78\u5b50",
+          "url": "https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "\u3042\u306a\u305f\u304b\u3089\u9060\u304f\u3078",
+      "url": "https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l"
+    },
+    {
+      "added_at": "2024-09-18 23:32:57",
+      "album": {
+        "name": "Remina Two",
+        "url": "https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9"
+      },
+      "artists": [
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 175454,
+      "name": "Remina Two",
+      "url": "https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w"
     }
   ],
   "unique_name": "what dreams may come",

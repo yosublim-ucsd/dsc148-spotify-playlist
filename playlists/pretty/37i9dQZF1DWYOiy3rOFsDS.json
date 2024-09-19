@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Enjambre en portada.",
-  "num_followers": 536759,
+  "num_followers": 536778,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "La Trenza",
-      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "El Madrile\u00f1o (La Sobremesa)",
         "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 187693,
       "name": "Te Venero",
       "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "La Trenza",
+      "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -559,22 +559,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+        "name": "Florecer Contigo",
+        "url": "https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+      "duration_ms": 167729,
+      "name": "Florecer Contigo",
+      "url": "https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -599,22 +599,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Florecer Contigo",
-        "url": "https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG"
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
       "artists": [
         {
-          "name": "Nasa Histoires",
-          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         },
         {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 167729,
-      "name": "Florecer Contigo",
-      "url": "https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16"
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
-      },
-      "artists": [
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Tambi\u00e9n de dolor se canta",
-        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "Tambi\u00e9n de dolor se canta",
-      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "M\u00e1s Que Ella",
         "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
       },
@@ -1363,6 +1347,38 @@
       "duration_ms": 195789,
       "name": "M\u00e1s Que Ella",
       "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Amor Maldito",
         "url": "https://open.spotify.com/album/6IWvjpOuTtGEx3o7XqxPbo"
       },
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "\u00d3diame",
-        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        },
-        {
-          "name": "Michelle Rodriguez",
-          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Mi Alma Gemela Muri\u00f3",
         "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 195728,
       "name": "Mi Alma Gemela Muri\u00f3",
       "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 191546,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
-        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
-      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
+        "name": "Si T\u00fa Supieras (En Vivo Desde El Teatro Real)",
+        "url": "https://open.spotify.com/album/3yTrEqEPA6T9qjbJUIGCJU"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Si T\u00fa Supieras - En Vivo Desde El Teatro Real",
+      "url": "https://open.spotify.com/track/5X84dG9aZCTtlNx32WHPQD"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
         "name": "Lo esencial de Or\u00edgenes: El Bolero",
         "url": "https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ"
       },
@@ -1763,26 +1763,6 @@
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
-        "name": "Te Tocaba A Ti Llorar",
-        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Te Tocaba A Ti Llorar",
-      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1819,6 +1799,26 @@
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Te Tocaba A Ti Llorar",
+        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Te Tocaba A Ti Llorar",
+      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
     }
   ],
   "unique_name": "Boleros Pop",

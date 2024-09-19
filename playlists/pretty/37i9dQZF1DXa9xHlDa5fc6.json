@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 468339,
+  "num_followers": 468364,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 125830,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 125830,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Indigo Puff",
         "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "PIRATE RADIO*",
-      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "The Fences of Stonehenge",
         "url": "https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 158146,
       "name": "The Fences of Stonehenge",
       "url": "https://open.spotify.com/track/4SJ7yrRxPhwQNgSzgl4xnS"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        },
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "MAGIC",
-      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 171063,
       "name": "Box in a Heart (with renforshort)",
       "url": "https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 214230,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Sea Star",
         "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
         "name": "IFK (i fucking know)",
         "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 223506,
       "name": "Honey",
       "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
+        "name": "Lady Lou",
+        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 277177,
+      "name": "Home for the Weekend",
+      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
         "name": "Killer Queen (What I Need)",
         "url": "https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy"
       },
@@ -2271,22 +2287,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Lady Lou",
-        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 277177,
-      "name": "Home for the Weekend",
-      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "Take A Walk",
         "url": "https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw"
       },
@@ -2299,22 +2299,6 @@
       "duration_ms": 226896,
       "name": "Take A Walk",
       "url": "https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Nervous System",
-      "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
     },
     {
       "added_at": "2024-07-31 16:49:45",
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem"
       },
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2024-07-31 16:49:45",
       "album": {
-        "name": "Mr. 29",
-        "url": "https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR"
-      },
-      "artists": [
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        }
-      ],
-      "duration_ms": 198755,
-      "name": "Mr. 29",
-      "url": "https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl"
-    },
-    {
-      "added_at": "2024-07-31 16:49:45",
-      "album": {
         "name": "I Remember Way Too Much (Acoustic Version)",
         "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 222540,
       "name": "I Remember Way Too Much - Acoustic Version",
       "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
+    },
+    {
+      "added_at": "2024-07-31 16:49:45",
+      "album": {
+        "name": "Mr. 29",
+        "url": "https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        }
+      ],
+      "duration_ms": 198755,
+      "name": "Mr. 29",
+      "url": "https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl"
     },
     {
       "added_at": "2024-07-31 16:49:45",

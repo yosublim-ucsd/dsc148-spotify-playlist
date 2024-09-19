@@ -4,7 +4,7 @@
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-1,106 songs - 2 day 17 hr 19 min
+1,107 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-09-16 |  |
 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 | 2024-09-16 |  |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2024-09-16 |  |
+| [affection](https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/3IIJTTfYV4GU9ST4GbeGhg) | 3:55 | 2024-09-18 |  |
 | [Afro Beat Blues](https://open.spotify.com/track/4xclRUqjOM5HMzDZQyRaPo) | [Ojah](https://open.spotify.com/artist/4BlnK8TML5QzxndhXN2NeJ), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Chisa Years 1965\-1975 \(Rare and Unreleased\)](https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ) | 6:48 | 2024-09-16 |  |
 | [After Hours](https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 6:01 | 2024-09-16 |  |
 | [After Laughter \(Comes Tears\)](https://open.spotify.com/track/1IXa70EPedlpafPL7Ood2z) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter \(Comes Tears\)](https://open.spotify.com/album/6wBfFrmOvBu0cyksWWlp94) | 2:59 | 2024-09-16 |  |

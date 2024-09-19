@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: LOCKED SHUT \| Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: Silly Goose \| Artwork: Nejc Prah
 
-89 songs - 5 hr 20 min
+93 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,13 @@
 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 | 2024-08-07 |  |
 | [Amputated Satisfaction](https://open.spotify.com/track/6VcUENBK5HOJw5XPQT5Gv8) | [CRUCIFICTION](https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS) | [Amputated Satisfaction](https://open.spotify.com/album/7BJC9tg6QeYrXPQDUaTCZq) | 3:24 | 2024-08-07 |  |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-08-07 |  |
+| [Bad Behavior](https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Bad Behavior](https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B) | 3:19 | 2024-09-19 |  |
 | [Bazooka](https://open.spotify.com/track/01VdiTMVpkFzzegz9VpDIh) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bazooka](https://open.spotify.com/album/6CYsi2RE2ThxH068VqqeYg) | 2:49 | 2024-08-07 |  |
 | [Bind](https://open.spotify.com/track/10u2Moizl0LxgYdqE40Qbv) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Bind](https://open.spotify.com/album/59thVU5JwLgrsMlcdObFob) | 2:35 | 2024-08-07 |  |
 | [Blind](https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:59 | 2024-08-21 |  |
 | [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 | 2024-08-07 |  |
 | [Bloodlines](https://open.spotify.com/track/45t1gsyIjBtIEIa3BNTvzB) | [Melted Bodies](https://open.spotify.com/artist/3l1Z9XFIBCJXaxfpussnIZ) | [Bloodlines](https://open.spotify.com/album/6JdG2NGlYNHKcVmx6gK0Im) | 5:10 | 2024-08-21 |  |
-| [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-07 |  |
+| [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-07 | 2024-09-19 |
 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 | 2024-08-21 |  |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-09-04 |  |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-08-07 | 2024-08-29 |
@@ -54,7 +55,7 @@
 | [INFECTED](https://open.spotify.com/track/7gu9O79HBwb3nobL4Jwkje) | [DOGBITE](https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs), [AMOKKOMA](https://open.spotify.com/artist/7kJo3MmlciDTotWsiBS8nY) | [INFECTED](https://open.spotify.com/album/3nLpeqxL8nkAbSI0Kdn9xU) | 4:18 | 2024-08-07 |  |
 | [Inquietude](https://open.spotify.com/track/3pk4zL5pqs45sCE2ZlwPLj) | [Tenue](https://open.spotify.com/artist/4lHTvhSBYET8vaavUNzps0) | [Inquietude](https://open.spotify.com/album/6L5AslxYQ9S5UpjsuqW9CW) | 9:10 | 2024-08-07 |  |
 | [Jawbreaker](https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Jawbreaker](https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd) | 2:09 | 2024-08-07 |  |
-| [LIGHT](https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [LIGHT](https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv) | 3:46 | 2024-08-07 |  |
+| [LIGHT](https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [LIGHT](https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv) | 3:46 | 2024-08-07 | 2024-09-19 |
 | [Loss](https://open.spotify.com/track/4UJoQkPbKV2uLLFYkfcsL0) | [HELL CAN WAIT](https://open.spotify.com/artist/7y4ASsLqvxgWja0ym7SBYs) | [Loss](https://open.spotify.com/album/6wYiWHoSAR4AlsuOKPg67n) | 4:01 | 2024-08-07 |  |
 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 | 2024-08-07 |  |
 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 | 2024-08-07 |  |
@@ -63,10 +64,12 @@
 | [Mugen Train](https://open.spotify.com/track/4HDsM8KEjAnLyUqPK6yj2E) | [Native James](https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3) | [Rebirth](https://open.spotify.com/album/6Df5mvn5BCe7n0OvNEp3Om) | 2:43 | 2024-09-11 |  |
 | [MY.OWN.SKIN](https://open.spotify.com/track/68nFAFfIesp10mYjbalBad) | [InRetrospect](https://open.spotify.com/artist/7IRGSEZoEl2M7KljJVxJuT) | [MY.OWN.SKIN](https://open.spotify.com/album/3qLHWbi29wBOUOZRJJnPgI) | 3:26 | 2024-08-07 | 2024-09-12 |
 | [NGC 3603](https://open.spotify.com/track/4ya7IuXFTYoLQ6wkuRC6fo) | [FOXCULT](https://open.spotify.com/artist/7L6kMvKSw3xxrjQjkHxTVO) | [THE AMETHYST DRIFT](https://open.spotify.com/album/2d6SrrtpLapfAM4sL9DKvS) | 4:16 | 2024-08-07 |  |
+| [No Mercy, No Remorse](https://open.spotify.com/track/7fVuehJJQ7tccou7HcNtCD) | [Heavy//Hitter](https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU) | [No Mercy, No Remorse](https://open.spotify.com/album/4yCPhsLVlRQ1HVA0dH3uXm) | 2:48 | 2024-09-19 |  |
 | [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 | 2024-08-14 |  |
 | [Pastures](https://open.spotify.com/track/0HD2kWKZY5Ao4xv5AGGiRf) | [Bangladeafy](https://open.spotify.com/artist/5iE8aaGPwGBmP4RjGRNftQ) | [Vulture](https://open.spotify.com/album/2wu13uB5EHYk9hbB6dVKmF) | 2:01 | 2024-08-07 | 2024-08-29 |
 | [PLAY2WIN](https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf) | [Winnerz Circle](https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm), [J.O.Y](https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ) | [PLAY2WIN / IMITATION NOT FLATTERY](https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu) | 2:47 | 2024-08-21 |  |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-08-07 |  |
+| [Radiant](https://open.spotify.com/track/1WsNQUIHDgya2psMeRVoG5) | [OBEYER](https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q) | [Second Sun](https://open.spotify.com/album/1OQwuRnYVMlHwZQVDomb8f) | 4:19 | 2024-09-19 |  |
 | [RUIN](https://open.spotify.com/track/5422oh6gdTk5iRElU7mctV) | [Heal The Hurt](https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN) | [RUIN](https://open.spotify.com/album/6HDiybJgkvzTNDcQMr9iPj) | 2:43 | 2024-08-07 |  |
 | [Ruins](https://open.spotify.com/track/7hjb9qCZTDhlQKz1Z4pvar) | [Peer Pressure](https://open.spotify.com/artist/4LjqrkcbfHIV0CXWyjcwtW) | [Ruins](https://open.spotify.com/album/6jfAOq3tMJb1cTVLeBpZRu) | 2:57 | 2024-08-07 |  |
 | [Secret](https://open.spotify.com/track/0H07jl1I7hV10nt6aso2sk) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Secret](https://open.spotify.com/album/261BFyLi15XD4jd24QIF8N) | 3:32 | 2024-08-07 |  |
@@ -84,11 +87,12 @@
 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 | 2024-08-07 |  |
 | [The Riddle](https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [The Riddle](https://open.spotify.com/album/6vhKGLD9LyeAFeoj1PHHPd) | 3:43 | 2024-08-07 |  |
 | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/track/7G2A1TVHR1tXpB13upMe6y) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN) | 3:26 | 2024-08-07 | 2024-09-12 |
-| [The Straw](https://open.spotify.com/track/3sSP1Xg74gX4ICfHLe1SFP) | [Ender](https://open.spotify.com/artist/3ydTs1LJg3SpEbYtin2fwO) | [The Straw](https://open.spotify.com/album/1nILXnhOcHHqtLquYHCfP9) | 3:19 | 2024-08-07 |  |
+| [The Straw](https://open.spotify.com/track/3sSP1Xg74gX4ICfHLe1SFP) | [Ender](https://open.spotify.com/artist/3ydTs1LJg3SpEbYtin2fwO) | [The Straw](https://open.spotify.com/album/1nILXnhOcHHqtLquYHCfP9) | 3:19 | 2024-08-07 | 2024-09-19 |
 | [The Sunken Place](https://open.spotify.com/track/1LNoAG3T5bJXPcvSdJjyI8) | [izzy reign](https://open.spotify.com/artist/2backhV14qzZYlQq4HM8i9) | [The Sunken Place](https://open.spotify.com/album/1jGMs0aXfHpkloG6qVSoVW) | 3:33 | 2024-08-07 |  |
 | [The Unconquerable](https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [The Unconquerable](https://open.spotify.com/album/6eXu91pzHfW5v98wUbIt7q) | 3:16 | 2024-08-21 | 2024-09-12 |
 | [Toothache](https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Toothache](https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2) | 1:54 | 2024-08-21 |  |
-| [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-14 |  |
+| [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-14 | 2024-09-19 |
+| [Twitching On The Cross](https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Twitching On The Cross](https://open.spotify.com/album/6KYwRXq9egHcIp8klVf6J4) | 2:30 | 2024-09-19 |  |
 | [Upon Burdened Hands](https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg) | [Mother of Graves](https://open.spotify.com/artist/2PnaLUVxH8HY0KOZz41ka6) | [Upon Burdened Hands](https://open.spotify.com/album/4GeXj7U1LHfx7Xvi1bw7n0) | 4:59 | 2024-08-28 |  |
 | [VIVE LA DÉCEPTION](https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [VIVE LA DÉCEPTION](https://open.spotify.com/album/387GBSNSWJV8TsjuAYy7of) | 2:58 | 2024-08-07 |  |
 | [Waging War Against God](https://open.spotify.com/track/1DgjkRkiSozHVBvMfb6VGt) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [Waging War Against God](https://open.spotify.com/album/3RYaU51PVjq1M7qLhsHpQX) | 5:43 | 2024-09-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus, Henrique & Juliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,727,249 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,727,551 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 27 | [EU SOU SENTIMENTO](https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [EU SOU SENTIMENTO](https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V) | 3:06 |
 | 28 | [Saudade Butequeira \- Ao Vivo](https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:29 |
 | 29 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 |
-| 30 | [Tudo Ao Contrário \- Ao Vivo](https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Eu, Yasmin Santos \- Vol 01](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 3:09 |
+| 30 | [Tudo Ao Contrário \- Ao Vivo](https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Eu, Yasmin Santos \- Vol 01 \(Ao Vivo\)](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 3:09 |
 | 31 | [Não Deixou De Ser Esquema \- Ao Vivo](https://open.spotify.com/track/1mKOv0zYm26WLPQRLEwRAR) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora UDI, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/2LwT0vZAXJCOciOvTbAZdf) | 2:31 |
 | 32 | [Pulando o Muro \- Ao Vivo](https://open.spotify.com/track/0KDxhAvKeiVFL1bZccQVJs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Intenso, Vol\. 3 \- Ao Vivo](https://open.spotify.com/album/5p2auLiTOfPNkdlKyW5eM8) | 2:32 |
 | 33 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |

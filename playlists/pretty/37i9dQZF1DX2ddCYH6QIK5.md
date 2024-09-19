@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover:  Quicche, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,459 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,477 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [du bleibst](https://open.spotify.com/track/7riZdelgc5zAYScR0s8Aq7) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [du bleibst](https://open.spotify.com/album/42iPVnvfAxk67gW298MDet) | 2:27 |
 | 80 | [viertel nach vier](https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [viertel nach vier](https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7) | 2:33 |
 
-Snapshot ID: `ZuFqIAAAAADpwzURbicy2Vjjeyne3kpU`
+Snapshot ID: `ZuFqIAAAAACMJZpD5P4yq0HzzhLtQ7Xa`

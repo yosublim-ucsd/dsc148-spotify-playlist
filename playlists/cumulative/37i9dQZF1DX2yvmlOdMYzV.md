@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-807 songs - 1 day 19 hr 55 min
+808 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [All In](https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 2](https://open.spotify.com/album/1kKLTqxjORqsUzFeSQGO2J) | 2:30 | 2024-03-29 |  |
 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 | 2023-08-04 |  |
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 | 2024-06-25 |
-| [ALL\-WAYS](https://open.spotify.com/track/6Q3TUkA7ZrOmZm6dzTYVEo) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [ALL\-WAYS](https://open.spotify.com/album/3LHt0fIWXbz3T65CXNSnw3) | 3:36 | 2024-07-26 |  |
+| [ALL\-WAYS](https://open.spotify.com/track/6Q3TUkA7ZrOmZm6dzTYVEo) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [ALL\-WAYS](https://open.spotify.com/album/3LHt0fIWXbz3T65CXNSnw3) | 3:36 | 2024-07-26 | 2024-09-19 |
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2021-12-15 | 2022-09-10 |
 | [Always Love](https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:20 | 2023-06-02 | 2023-08-26 |
 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 | 2023-01-27 | 2024-06-16 |
@@ -210,6 +210,7 @@
 | [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 | 2024-02-23 |  |
 | [Fallin 4 Ya Luv](https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Café Noir](https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI) | 2:20 | 2024-04-26 |  |
 | [Fallin'](https://open.spotify.com/track/3BTFuuXsPukaLonG6fy2kU) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Paperflower](https://open.spotify.com/album/6dZrGhPGx0XdElXGYKX5qR) | 3:02 | 2023-09-29 | 2023-10-30 |
+| [Falling](https://open.spotify.com/track/1QUmhk2HZcfMEkutpIqBE7) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Blush](https://open.spotify.com/album/2rghxhz8ycHykd2NHchzKK) | 3:57 | 2024-09-13 |  |
 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 | 2023-05-05 | 2023-11-11 |
 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 | 2023-09-01 |  |
 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 | 2023-07-14 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125802,
+  "num_followers": 125799,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATAMwG0PhzciA+lJoBLLl2cbmjKRXm",
+  "snapshot_id": "AAATAdNTq20DGQ3XU3Lt9HH4ml51Fs8C",
   "tracks": [
+    {
+      "added_at": "2024-09-18 15:06:16",
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"
+    },
     {
       "added_at": "2024-09-17 14:57:55",
       "album": {

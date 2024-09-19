@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2f0ffZ1gPxazVKo0TossWj">Natalia Nykiel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,774 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,776 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [nie powtórzy się](https://open.spotify.com/track/0GZeHfi7UJg4MgRUmgcea9) | [Ada Nasiadka](https://open.spotify.com/artist/6Wc8Rg2H5cHtSgCKpvbtYw), [Weronika Nowak](https://open.spotify.com/artist/0YUSrKGVayzdN0FSSAxwQs) | [nie powtórzy się](https://open.spotify.com/album/0Dqe60FaBTvBtiIHHaCd0k) | 3:26 |
 | 60 | [Dołącz do mnie](https://open.spotify.com/track/2AnfSfQe5ZH2orLAbc0n7A) | [Pepi](https://open.spotify.com/artist/3JbGY7nLMaWRrhhejWU4jK) | [Dołącz do mnie](https://open.spotify.com/album/46hlrUwk8sZHElOcB9TgYQ) | 2:31 |
 
-Snapshot ID: `ZteHHAAAAAC77Jp7xXXLAwyWvFspFHrg`
+Snapshot ID: `ZteHHAAAAAApU7+RJvjlzpjX8C+AgHty`

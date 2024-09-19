@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Gagan Deep",
+  "description": "Discover new Punjabi artists! Cover: Jujhar",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 204980,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6qk9nXMAD2Sa6ibsYpOBZy"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 181363,
       "name": "Giftaan",
       "url": "https://open.spotify.com/track/28oAiyevDuOXVgJ6NY7HoG"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 287832,
       "name": "jhalli",
       "url": "https://open.spotify.com/track/18xguOX3YQp1LRbIIdwxzQ"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 140525,
       "name": "Jhanjar",
       "url": "https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz"
@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Takkre",
+        "url": "https://open.spotify.com/album/4BR3PsRX5bPbWHsf99N4NE"
+      },
+      "artists": [
+        {
+          "name": "Mauji",
+          "url": "https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129654,
+      "name": "Takkre",
+      "url": "https://open.spotify.com/track/6mk8Crg34K7YadjQbWwFGm"
+    },
+    {
+      "album": {
         "name": "Talks",
         "url": "https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF"
       },
@@ -1699,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Tarjan",
+        "url": "https://open.spotify.com/album/25ZSW5UyngdYXRIqFKYGF6"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/3Yr892YeIjQK1Q2z1QYpZI"
+        },
+        {
+          "name": "Devilo",
+          "url": "https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Tarjan",
+      "url": "https://open.spotify.com/track/5XLdxa9ghxaYnL9MimSZDv"
+    },
+    {
+      "album": {
         "name": "Tera Khayal",
         "url": "https://open.spotify.com/album/5h81rQX3YY2dTGlvWe1NsH"
       },
@@ -1736,6 +1776,28 @@
       "duration_ms": 122352,
       "name": "Tere Sher",
       "url": "https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0tUfjUbeHxRQ6JtihqkXoH"
+      },
+      "artists": [
+        {
+          "name": "Shera Dhaliwal",
+          "url": "https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/1J1gt3A9L8XLUKOYnNvOE5"
     },
     {
       "album": {
@@ -1952,6 +2014,28 @@
       "duration_ms": 155586,
       "name": "Yes/No",
       "url": "https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b"
+    },
+    {
+      "album": {
+        "name": "You're Mine",
+        "url": "https://open.spotify.com/album/0F1S3080cPEneEc5JzMmw5"
+      },
+      "artists": [
+        {
+          "name": "Sheraa",
+          "url": "https://open.spotify.com/artist/6LtWqJcfJaHaHBKJn7PdPf"
+        },
+        {
+          "name": "Dachamp",
+          "url": "https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158695,
+      "name": "You're Mine",
+      "url": "https://open.spotify.com/track/4uR3q4k23PsfQl8NFm8nTJ"
     },
     {
       "album": {

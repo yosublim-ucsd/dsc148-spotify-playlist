@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 732,706 likes - 110 songs - 5 hr 15 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 732,711 likes - 110 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 18 | [Always Be](https://open.spotify.com/track/0aohefgYGm6l5IZACPK8yu) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Always Be](https://open.spotify.com/album/2VVvZpeYiH3cu7tVNyIOjq) | 2:50 |
 | 19 | [RIDE WITH ME](https://open.spotify.com/track/6j1KmYWWWT36MFX84sPldQ) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [RIDE WITH ME](https://open.spotify.com/album/0W7rAsLhun6Ozbbi9WL0AO) | 2:41 |
 | 20 | [EXECUTIONER](https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [EXECUTIONER](https://open.spotify.com/album/47zIUPtRpiGINO2YAbRFi9) | 1:30 |
-| 21 | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/1mm1gwco4OnHXbukzSAwJQ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 |
+| 21 | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/5mmT6NkPjCotEVXbx8Tpi5), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 |
 | 22 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
 | 23 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
 | 24 | [Look No Further](https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Grace Luisa](https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD) | [Look No Further](https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb) | 2:41 |

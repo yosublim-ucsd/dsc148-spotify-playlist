@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,237 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,288 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 39 | [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 |
 | 40 | [Cloud Surfing](https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 2:15 |
 | 41 | [So Superb](https://open.spotify.com/track/6PdMDCt5HyXD8BSH8acXa2) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 3:43 |
-| 42 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \- The Remaster](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
+| 42 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
 | 43 | [The Right To Love Us](https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:51 |
 | 44 | [1 into 2](https://open.spotify.com/track/6wz0RnxaTOeQFO9QSek3T5) | [Jellytoofly](https://open.spotify.com/artist/5CiTexZSB5koj9qCPwZwrY) | [Reels 2 Deals \(Vol.1\)](https://open.spotify.com/album/1MOMQucRyYuqg1vQMFh2Rh) | 1:40 |
 | 45 | [I Smell Pussy](https://open.spotify.com/track/6YTGeOilUBLvOGrpPBZ1OR) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:58 |

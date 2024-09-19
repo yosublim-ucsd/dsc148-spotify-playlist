@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Ivan & The Parazol",
-  "num_followers": 13624,
+  "num_followers": 13623,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "Szeptember V\u00e9g\u00e9n",
         "url": "https://open.spotify.com/album/3FTqXcCmloEXBywwx1YLC8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 153882,
       "name": "Szeptember V\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/6o1xgKQw1RMIJ64MdQ3yDC"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
+        "name": "B\u00e1rcsak",
+        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 146691,
+      "name": "B\u00e1rcsak",
+      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
         "name": "SZORONGOK",
         "url": "https://open.spotify.com/album/2KQ4vDGWOGkYeo8XiFH00m"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 178064,
       "name": "SZORONGOK",
       "url": "https://open.spotify.com/track/6qrJ9qETfaFnn74G5CLfIl"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
-        "name": "B\u00e1rcsak",
-        "url": "https://open.spotify.com/album/0AZMdeT1KElrsIKCSMCDfK"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 146691,
-      "name": "B\u00e1rcsak",
-      "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Diszkomfort",
-        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 155278,
-      "name": "Diszkomfort",
-      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 166000,
       "name": "kavicsok k\u00f6vek",
       "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "Diszkomfort",
+        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 155278,
+      "name": "Diszkomfort",
+      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "K\u00d6NNYCSEPP",
-        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "K\u00d6NNYCSEPP",
-      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 221062,
       "name": "Different",
       "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "K\u00d6NNYCSEPP",
+        "url": "https://open.spotify.com/album/0YgTBhcQzY4PE5MQVZpBvF"
+      },
+      "artists": [
+        {
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "K\u00d6NNYCSEPP",
+      "url": "https://open.spotify.com/track/18YUmErDQnUIetFN2iBoxm"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "SMACKedveltelek",
-        "url": "https://open.spotify.com/album/6xWovGuIbT7C0yzpNxBx7S"
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
       },
       "artists": [
         {
-          "name": "L\u00f3ci J\u00e1tszik",
-          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
         }
       ],
-      "duration_ms": 133874,
-      "name": "SMACKedveltelek",
-      "url": "https://open.spotify.com/track/0yyDCyrYx6CSSZO4uC8UZU"
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+        "name": "SMACKedveltelek",
+        "url": "https://open.spotify.com/album/6xWovGuIbT7C0yzpNxBx7S"
       },
       "artists": [
         {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+          "name": "L\u00f3ci J\u00e1tszik",
+          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
         }
       ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+      "duration_ms": 133874,
+      "name": "SMACKedveltelek",
+      "url": "https://open.spotify.com/track/0yyDCyrYx6CSSZO4uC8UZU"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "El\u00e9g a tenger",
-        "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1z\u00e1r tes\u00f3k",
-          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
-        }
-      ],
-      "duration_ms": 207130,
-      "name": "El\u00e9g a tenger",
-      "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "Ez vagyok \u00e9n",
         "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 97263,
       "name": "Ez vagyok \u00e9n",
       "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "El\u00e9g a tenger",
+        "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1z\u00e1r tes\u00f3k",
+          "url": "https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO"
+        }
+      ],
+      "duration_ms": 207130,
+      "name": "El\u00e9g a tenger",
+      "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
     },
     {
       "added_at": "2024-09-13 12:29:26",

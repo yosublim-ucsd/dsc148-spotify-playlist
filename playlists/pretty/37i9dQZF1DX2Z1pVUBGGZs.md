@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring luvcat  ☁️  art: @doolittleillustrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,800 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,750 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 84 | [Fall Out](https://open.spotify.com/track/4mUUW9VRax0XjJAOL5WFsa) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Fall Out](https://open.spotify.com/album/2pTiYUFcMce0j86I6n6gSE) | 2:56 |
 | 85 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 
-Snapshot ID: `ZuNycAAAAABcKBtDXmllHXOznqNn32Qq`
+Snapshot ID: `ZuNycAAAAAAb6zNYV1F5FlfLQe0bpTYH`

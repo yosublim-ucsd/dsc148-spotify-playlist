@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,121 likes - 163 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,157 likes - 163 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 162 | [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 |
 | 163 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 |
 
-Snapshot ID: `Zt7cHgAAAAB1YfW04A52MbnhHrMTVg/u`
+Snapshot ID: `Zt7cHgAAAAB2hWlwv4NYGexRaYDYAIji`

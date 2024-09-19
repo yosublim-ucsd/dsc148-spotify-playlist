@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,481 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,536 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 82 | [If We Don't \(with Alison Krauss\) \- from the Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 2:28 |
 | 83 | [I Shall Not Be Moved \(with Francesco Turrisi\)](https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 4:58 |
 | 84 | [Bring It On](https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Band of Brothers](https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) | 2:53 |
-| 85 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
-| 86 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 85 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 86 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
 | 87 | [Love Wore A Halo \(Back Before The War\)](https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Love Wore A Halo \(Back Before the War\)](https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS) | 3:40 |
 | 88 | [I Could Have Told You](https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Could Have Told You](https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh) | 3:36 |
 | 89 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 |

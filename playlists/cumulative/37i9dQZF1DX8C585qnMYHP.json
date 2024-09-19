@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Within",
+        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
+      },
+      "artists": [
+        {
+          "name": "AINON",
+          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
+    },
+    {
+      "album": {
         "name": "Air Flows",
         "url": "https://open.spotify.com/album/0WxLQCwh31spbbNsTrTOxU"
       },
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 199285,
       "name": "ANIMAL SEEKING",
       "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
@@ -4191,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Blue Note",
+        "url": "https://open.spotify.com/album/7GENUOcqMkxVUumg6TzSLw"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191124,
+      "name": "Blue Note",
+      "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
+    },
+    {
+      "album": {
         "name": "Blue Rain",
         "url": "https://open.spotify.com/album/49hZ3dPjNaTrIBrh54ccjV"
       },
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 287030,
       "name": "Car Alarm, Turn Signal",
       "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
@@ -7884,7 +7920,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 273373,
       "name": "Do You Bless It?",
       "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
@@ -8090,7 +8126,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 196800,
       "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
       "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
@@ -9164,6 +9200,24 @@
       "duration_ms": 356000,
       "name": "End Scene",
       "url": "https://open.spotify.com/track/1Dmt4yNXdtRymBv5rhL9Rx"
+    },
+    {
+      "album": {
+        "name": "Night of the Endless Beyond",
+        "url": "https://open.spotify.com/album/2alNcpIRzuVOqngGJqNXtG"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471667,
+      "name": "Endless Beyond",
+      "url": "https://open.spotify.com/track/4ub4EbgH4bQAViw3TriseI"
     },
     {
       "album": {
@@ -10798,6 +10852,28 @@
       "duration_ms": 171440,
       "name": "Follow Your Heartbeat",
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+    },
+    {
+      "album": {
+        "name": "My Noise Is Nothing",
+        "url": "https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        },
+        {
+          "name": "Ellen Renton",
+          "url": "https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357818,
+      "name": "For a Burning World",
+      "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
     },
     {
       "album": {
@@ -14554,7 +14630,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 314142,
       "name": "Inaudible",
       "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
@@ -19222,7 +19298,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 298828,
       "name": "Moon Needs The Owl Pt. 1",
       "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
@@ -21451,6 +21527,24 @@
     },
     {
       "album": {
+        "name": "After Image",
+        "url": "https://open.spotify.com/album/299IhhqYpy2GbQDthp08AG"
+      },
+      "artists": [
+        {
+          "name": "HYPER GAL",
+          "url": "https://open.spotify.com/artist/68HIerKvAdzqKH5ayPw2q3"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366920,
+      "name": "OOPARTS",
+      "url": "https://open.spotify.com/track/1cDGNpfKqMqXVDsx9cZcyd"
+    },
+    {
+      "album": {
         "name": "Strands",
         "url": "https://open.spotify.com/album/5SMyZhcjGy4v1VXskIa0hn"
       },
@@ -23652,7 +23746,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 265000,
       "name": "Release +\u03d5",
       "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
@@ -25510,7 +25604,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 131493,
       "name": "She\u2019s All We Have",
       "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
@@ -25676,6 +25770,24 @@
       "duration_ms": 218145,
       "name": "Simulacrima",
       "url": "https://open.spotify.com/track/560pUCDhzM0srmGeg6JLbF"
+    },
+    {
+      "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF"
+      },
+      "artists": [
+        {
+          "name": "Permanent Loss",
+          "url": "https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
       "album": {
@@ -26214,6 +26326,24 @@
       "duration_ms": 320000,
       "name": "Snakepit",
       "url": "https://open.spotify.com/track/1nEVbGLJqvANGEUd6bMcSt"
+    },
+    {
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "album": {
@@ -30926,6 +31056,24 @@
       "duration_ms": 224000,
       "name": "Tropic Air",
       "url": "https://open.spotify.com/track/4zGpxGMoGFZarHUpAzJURL"
+    },
+    {
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "album": {

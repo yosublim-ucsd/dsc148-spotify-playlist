@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Idgitaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,292 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,361 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
+| 1 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 2 | [Watak Utama](https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Watak Utama](https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D) | 2:57 |
 | 3 | [Rahasia \#2](https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Rahasia \#2](https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH) | 3:14 |
 | 4 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > rashid é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,049 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,969 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [MJ DA SHOPEE](https://open.spotify.com/track/7FzfQt9l9vHFwUlUn1r6d3) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Jazzkey](https://open.spotify.com/artist/2FU8GRGYyF795GLAXNHW3u), [MUSIK PALM](https://open.spotify.com/artist/3ru4b4USmKJGk3kYjgLLqz) | [MJ DA SHOPEE](https://open.spotify.com/album/7Dvu5LFfYRQGrJA1q499lY) | 2:30 |
 | 50 | [Lugar de Fala I verso 01](https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp) | [Lugar de Fala I verso 01](https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh) | 1:27 |
 
-Snapshot ID: `ZuOq7AAAAABCqXUTZlnGJo6BFGaIFX7V`
+Snapshot ID: `ZuOq7AAAAAA+Ycys0hDqFicYOtd75ZuA`

@@ -2,9 +2,9 @@
 
 ### [OPM Rising](https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf)
 
-> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Maki
+> Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
 
-151 songs - 9 hr 41 min
+153 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 | 2024-07-02 | 2024-08-24 |
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 |  |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |
+| [hardest part](https://open.spotify.com/track/7mVRAONygdjSsxt83DEbEx) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Lazy McGuire](https://open.spotify.com/artist/1PrWniB1r9Qpk22hKP8opw) | [hardest part](https://open.spotify.com/album/3lnwhZrqett24YdC1Yl2pA) | 2:29 | 2024-09-18 |  |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |
@@ -91,6 +92,7 @@
 | [miss na kita](https://open.spotify.com/track/0p6FNNJvTSSMLrLewHbLvv) | [sean ilada](https://open.spotify.com/artist/5KZB24d3jD5Si9WbQB1PD8) | [miss na kita](https://open.spotify.com/album/2Ke1SfoP27BzMdX2vRACvw) | 4:28 | 2024-08-09 |  |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-07-02 | 2024-08-03 |
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-07-02 | 2024-07-13 |
+| [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 | 2024-09-18 |  |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-02 | 2024-08-31 |
 | [Naliligaw](https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Naliligaw](https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn) | 2:58 | 2024-08-02 |  |
 | [Namimiss Ko Na](https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Namimiss Ko Na](https://open.spotify.com/album/2RAnZVfNBkdjyysTuTq6rL) | 4:10 | 2024-07-02 | 2024-07-19 |

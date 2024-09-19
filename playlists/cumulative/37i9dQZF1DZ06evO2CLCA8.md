@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2CLCA8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2CLCA8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2CLCA8)
 
-### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
+### [This Is Tom Petty and the Heartbreakers ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This Is Tom Petty and the Heartbreakers\. Sus mejores éxitos, todos en una playlist.
+> This is Tom Petty and the Heartbreakers\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
 
 106 songs - 6 hr 43 min
 

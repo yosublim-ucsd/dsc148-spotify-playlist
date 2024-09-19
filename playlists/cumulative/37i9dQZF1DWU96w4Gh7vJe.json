@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 238571,
       "name": "Bawat Kaluluwa",
       "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
@@ -588,6 +588,28 @@
       "duration_ms": 155000,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
+    },
+    {
+      "album": {
+        "name": "hardest part",
+        "url": "https://open.spotify.com/album/3lnwhZrqett24YdC1Yl2pA"
+      },
+      "artists": [
+        {
+          "name": "barb.",
+          "url": "https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33"
+        },
+        {
+          "name": "Lazy McGuire",
+          "url": "https://open.spotify.com/artist/1PrWniB1r9Qpk22hKP8opw"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149632,
+      "name": "hardest part",
+      "url": "https://open.spotify.com/track/7mVRAONygdjSsxt83DEbEx"
     },
     {
       "album": {

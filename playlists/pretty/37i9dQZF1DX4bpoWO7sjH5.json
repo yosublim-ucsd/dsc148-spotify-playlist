@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 34872,
+  "num_followers": 34871,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "Oh, Noche Santa",
+        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
+      },
+      "artists": [
+        {
+          "name": "Alysia",
+          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
+        },
+        {
+          "name": "Joivan Jimenez",
+          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+        }
+      ],
+      "duration_ms": 233296,
+      "name": "Oh, Noche Santa",
+      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "Welcome Home (Este Es Tu Hogar)",
         "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 186792,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Oh, Noche Santa",
-        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
-      },
-      "artists": [
-        {
-          "name": "Alysia",
-          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
-        },
-        {
-          "name": "Joivan Jimenez",
-          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
-        }
-      ],
-      "duration_ms": 233296,
-      "name": "Oh, Noche Santa",
-      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "La Navidad es para Compartir (Por Caminos)",
-        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
-      },
-      "artists": [
-        {
-          "name": "Raya Real",
-          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "La Navidad es para Compartir - Por Caminos",
-      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
         "name": "El Ni\u00f1o Dios Travieso",
         "url": "https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 180010,
       "name": "El Ni\u00f1o Dios Travieso",
       "url": "https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "La Navidad es para Compartir (Por Caminos)",
+        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
+      },
+      "artists": [
+        {
+          "name": "Raya Real",
+          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "La Navidad es para Compartir - Por Caminos",
+      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
+      },
+      "artists": [
+        {
+          "name": "Riosquad",
+          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Navidad",
+      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/5RjKmHfYeZTucKajDk0EuI"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
-      },
-      "artists": [
-        {
-          "name": "Riosquad",
-          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
         "name": "Mi Salvador",
         "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 247330,
       "name": "Mi Salvador",
       "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Miguez",
-          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Hoy Ha Nacido el Salvador",
-        "url": "https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm"
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
       },
       "artists": [
         {
-          "name": "Ivan Diaz",
-          "url": "https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu"
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
         }
       ],
-      "duration_ms": 329640,
-      "name": "Hoy Ha Nacido el Salvador",
-      "url": "https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH"
+      "duration_ms": 181690,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1239,6 +1223,22 @@
       "duration_ms": 264661,
       "name": "Nattyvidad",
       "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "Hoy Ha Nacido el Salvador",
+        "url": "https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm"
+      },
+      "artists": [
+        {
+          "name": "Ivan Diaz",
+          "url": "https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu"
+        }
+      ],
+      "duration_ms": 329640,
+      "name": "Hoy Ha Nacido el Salvador",
+      "url": "https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "Navidad Lleg\u00f3",
+        "url": "https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "Navidad Lleg\u00f3",
+      "url": "https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "Venid Fieles Todos",
         "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 259946,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy"
-      },
-      "artists": [
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
-        }
-      ],
-      "duration_ms": 184448,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy"
+      },
+      "artists": [
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        }
+      ],
+      "duration_ms": 184448,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "En esta navidad",
         "url": "https://open.spotify.com/album/2nAj98jyxcBsNghaKkKnaD"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 220544,
       "name": "En esta navidad",
       "url": "https://open.spotify.com/track/7cpeaa1fqbSNK9K6GQY8nO"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Navidad Lleg\u00f3",
-        "url": "https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Miguez",
-          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "Navidad Lleg\u00f3",
-      "url": "https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u"
     },
     {
       "added_at": "2024-09-12 08:29:55",

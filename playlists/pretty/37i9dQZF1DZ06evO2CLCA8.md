@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2CLCA8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2CLCA8)
 
-### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
+### [This Is Tom Petty and the Heartbreakers ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This Is Tom Petty and the Heartbreakers\. Sus mejores éxitos, todos en una playlist.
+> This is Tom Petty and the Heartbreakers\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
 
 [Spotify](https://open.spotify.com/user/spotify) - 820 likes - 50 songs - 3 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
 | 50 | [Deliver Me](https://open.spotify.com/track/2MAnZuuPH6bayqJO7EdQFs) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:28 |
 
-Snapshot ID: `Zud1AAAAAACotpCZE+Y2eLXK6t6we/JJ`
+Snapshot ID: `Zud1AAAAAABlP3noZwYTa+5/C7Cwdh0k`

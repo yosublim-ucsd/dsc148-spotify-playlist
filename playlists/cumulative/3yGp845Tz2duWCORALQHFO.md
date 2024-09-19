@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-990 songs - 2 day 5 hr 17 min
+991 songs - 2 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [My Love](https://open.spotify.com/track/7eEBF6miPhzP8Ip8ebfpZf) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [My Love](https://open.spotify.com/album/2R1VhIIQyKpX8ieXxvx8Ox) | 2:23 | 2024-08-16 | 2024-08-24 |
 | [My Melody](https://open.spotify.com/track/1K6UnzeflmZbIbKKeZd970) | [Gabriel Robella](https://open.spotify.com/artist/78uCAMO8M98knhIj8CgIBQ), [Miami Alien](https://open.spotify.com/artist/6mqbqro1jWUPm936eNGKpK) | [My Melody](https://open.spotify.com/album/2Adc3IUdjn2mmkAOFAIHC8) | 3:23 | 2024-07-05 | 2024-07-19 |
 | [Mythology](https://open.spotify.com/track/4KEw45Ne9fQu7Han4J6DSP) | [Gordey Tsukanov](https://open.spotify.com/artist/6gjwCkxmmshZ2GmLAL2qqF) | [Mythology](https://open.spotify.com/album/6Z5FClLwZ0GTwxokS0Srv1) | 3:50 | 2024-07-19 | 2024-07-27 |
+| [N.H.I.L](https://open.spotify.com/track/4Yhuhlb6neEsabeoeMUTUJ) | [IF I WAS](https://open.spotify.com/artist/34wP7sE4o53x9UIu9KU0p6) | [N.H.I.L](https://open.spotify.com/album/7Mvk9SsUQLjjg9kmVuL1FD) | 2:24 | 2024-09-18 |  |
 | [Napalm](https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Napalm](https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc) | 3:24 | 2024-08-23 | 2024-08-31 |
 | [Naughty](https://open.spotify.com/track/3ycYMroQB6wIrWyo2frUog) | [Bassium](https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc) | [Naughty](https://open.spotify.com/album/31dhqiBHUWEYzkiD8Y5D4s) | 2:45 | 2024-08-16 | 2024-08-24 |
 | [Naughty](https://open.spotify.com/track/2owB5Va5VGvI4FsUQv6m79) | [C Adct](https://open.spotify.com/artist/5ici3YJkrmWvr4rNCzBPcC) | [Naughty](https://open.spotify.com/album/1KTd5oq3OeqS0DzxsTJD7s) | 2:22 | 2024-07-07 | 2024-07-12 |

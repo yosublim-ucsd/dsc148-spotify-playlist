@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is Biosphere\. Todos os maiores hits em uma só playlist.
+> This is Biosphere\. The essential tracks, all in one playlist.
 
 169 songs - 14 hr 4 min
 

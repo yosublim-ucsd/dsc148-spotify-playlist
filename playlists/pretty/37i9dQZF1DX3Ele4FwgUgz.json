@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 16560,
+  "num_followers": 16571,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-13 18:25:18",
       "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+    },
+    {
+      "added_at": "2024-08-13 18:25:18",
+      "album": {
         "name": "Infinity! Our wings!!",
         "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 216733,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
-    },
-    {
-      "added_at": "2024-08-13 18:25:18",
-      "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2024-08-13 18:25:18",
@@ -448,13 +448,13 @@
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
         }
       ],
-      "duration_ms": 287626,
-      "name": "\u5922\u3078\u306e\u4e00\u6b69",
-      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+      "duration_ms": 270040,
+      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
     },
     {
       "added_at": "2024-08-13 18:25:18",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-08-13 18:25:18",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
-          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 270040,
-      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2024-08-13 18:25:18",
@@ -528,6 +528,22 @@
       },
       "artists": [
         {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "\u5922\u3078\u306e\u4e00\u6b69",
+      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "added_at": "2024-08-13 18:25:18",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
           "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
           "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
         }
@@ -551,22 +567,6 @@
       "duration_ms": 186666,
       "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
       "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
-    },
-    {
-      "added_at": "2024-08-13 18:25:18",
-      "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2024-08-13 18:25:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-13 18:25:18",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Fire Bird",
-      "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
-    },
-    {
-      "added_at": "2024-08-13 18:25:18",
-      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 242933,
       "name": "\u5c0f\u60aa\u9b54LOVE\u2661",
       "url": "https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP"
+    },
+    {
+      "added_at": "2024-08-13 18:25:18",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Fire Bird",
+      "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
     },
     {
       "added_at": "2024-08-13 18:25:18",

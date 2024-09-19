@@ -4,7 +4,7 @@
 
 > La boyband más emblemática de los 90s tiene su playlist en Spotify.
 
-121 songs - 6 hr 56 min
+124 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Downhearted](https://open.spotify.com/track/42XXmVPagWpFTpqYf0Nnyg) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Downhearted](https://open.spotify.com/album/6RZOpXqLyK2ndhSBSeXIEG) | 5:08 | 2022-06-29 | 2024-04-19 |
 | [Drüg](https://open.spotify.com/track/5Q5TNh4wr6CPoXKrI2H6gx) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Drüg](https://open.spotify.com/album/5DElu50apNC3KYyGV6pKmr) | 3:39 | 2022-06-29 | 2024-04-19 |
 | [Drüg](https://open.spotify.com/track/4VvTumh88DI240WO9ej6OV) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Drüg](https://open.spotify.com/album/1ZWQTGYS5yHJVGnzmqwaYu) | 3:39 | 2022-06-29 | 2024-09-08 |
+| [El Cacas](https://open.spotify.com/track/2UIPDAlBwLLTjGWu8GcTIf) | [Niña Perro](https://open.spotify.com/artist/0B4SwRgQaLqORVYYgTiOq6) | [Sad Bichotas](https://open.spotify.com/album/4Yh18HMwUeq25cV4KK77lh) | 1:34 | 2024-09-18 |  |
 | [Emergency](https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 2:49 | 2022-06-29 | 2024-09-08 |
 | [Emta Njawzak Yamma](https://open.spotify.com/track/1R5FqUOpntw0KFKHbzrmt2) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Emta Njawzak Yamma](https://open.spotify.com/album/0Aou0GBXxAfVDnJVimLDqT) | 4:28 | 2022-06-29 | 2024-09-08 |
 | [Enamoradísimo](https://open.spotify.com/track/3aIFhE6Z8OOrYjuVO0VuRr) | [Mercurio](https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV) | [Mercurio](https://open.spotify.com/album/25Gu460hDi0yP8eCXxW06L) | 3:50 | 2024-09-07 |  |
@@ -54,6 +55,7 @@
 | [Falsa Pijamada](https://open.spotify.com/track/4rssyrT6tm6N6J37pcpG7R) | [Spandex](https://open.spotify.com/artist/4EV7HoieXMmrW7pzNz5r2C), [Technoboys](https://open.spotify.com/artist/6KhBUrW0t7fG35NAEAV6YE) | [Falsa Pijamada](https://open.spotify.com/album/6bjwrLBaabiI4MPg3Sanvn) | 1:24 | 2024-09-07 | 2024-09-17 |
 | [Falsa Pijamada](https://open.spotify.com/track/1E3CWsZz9yYhSNbW3zLQSo) | [Technoboys](https://open.spotify.com/artist/6KhBUrW0t7fG35NAEAV6YE), [Spandex](https://open.spotify.com/artist/4EV7HoieXMmrW7pzNz5r2C) | [TECHNOBOYS \- Original Soundtrack](https://open.spotify.com/album/0btNKVrToEgfjBTShDoEnt) | 1:24 | 2024-09-16 |  |
 | [Fiesta](https://open.spotify.com/track/2xl5JXBEbGrIzDa0RUqlPI) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 3:17 | 2024-09-07 |  |
+| [Fiesta Fatale \- Radio Edit](https://open.spotify.com/track/1iuFAukqHoGPSdEDtaqZdf) | [Angel Lamar](https://open.spotify.com/artist/30pnaOhpjN4U0DzmAIbLjG) | [Fiesta Fatale](https://open.spotify.com/album/02OSJvhenKk7HklEtn3RYF) | 3:07 | 2024-09-18 |  |
 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 | 2022-06-29 | 2024-09-08 |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/7mVuCRl3e36TrJuBUBOQZh) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Eclíptica](https://open.spotify.com/album/4BN32ZYVFyGOA7O2VtPV2P) | 3:07 | 2022-06-29 | 2024-04-19 |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/72q51tZkGZeN92UAHca86o) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Eclíptica](https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX) | 3:07 | 2022-06-29 | 2024-09-08 |
@@ -114,6 +116,7 @@
 | [Technoboyfriend](https://open.spotify.com/track/4qVV9nPvL931GnYLpyDJgJ) | [Technoboys](https://open.spotify.com/artist/6KhBUrW0t7fG35NAEAV6YE) | [TECHNOBOYS \- Original Soundtrack](https://open.spotify.com/album/0btNKVrToEgfjBTShDoEnt) | 2:57 | 2024-09-16 |  |
 | [Technoboyfriend](https://open.spotify.com/track/1xSE5fLuooARVRDs2k8JBF) | [Technoboys](https://open.spotify.com/artist/6KhBUrW0t7fG35NAEAV6YE) | [Technoboyfriend](https://open.spotify.com/album/6tzPPjwp4bt9Led1WbqB7u) | 2:58 | 2024-09-07 | 2024-09-17 |
 | [Tiburon](https://open.spotify.com/track/26T9IOS6Bi9iOUjKkcZsZo) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 5:02 | 2024-09-07 |  |
+| [Toda La Noche](https://open.spotify.com/track/1OD1ZYW1evde5HABME5T9w) | [Marc Ferrari](https://open.spotify.com/artist/7FYH7enU7w5FUO1uxI9Gmp), [Michael McGregor](https://open.spotify.com/artist/6BndouHJESYwXzhP6y7BkO), [Carlita Mercedes Penaherrera](https://open.spotify.com/artist/1y6HyPyjXGYeXma2zRUYPn) | [Latin Rock](https://open.spotify.com/album/2Bnc95BBnuVrpkVp8105N9) | 2:42 | 2024-09-18 |  |
 | [Too Hip To Retire](https://open.spotify.com/track/2CFWGKsv0xrNBP8qBNtX9p) | [Tim Simonec](https://open.spotify.com/artist/30CTjVKYHkndVX7S7ItTOm) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6g42oKg0CnLrN7UWZAAj7K) | 3:03 | 2022-06-29 | 2024-09-08 |
 | [Too Hip To Retire](https://open.spotify.com/track/4pSJHktywKsadO7yPdFcpN) | [Tim Simonec](https://open.spotify.com/artist/30CTjVKYHkndVX7S7ItTOm) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 3:04 | 2022-06-29 | 2024-04-19 |
 | [Total All Out Water](https://open.spotify.com/track/4CgDKkCYNY7UVFCBp5KSok) | [Add N To \(X\)](https://open.spotify.com/artist/3pcItz4w7h7fpTDgnTYIUn) | [Loud Like Nature](https://open.spotify.com/album/2zhN7Bz0lSkgXQ5nOYsjL1) | 3:51 | 2022-06-29 | 2024-09-08 |

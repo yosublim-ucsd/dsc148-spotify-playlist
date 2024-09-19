@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 350248,
+  "num_followers": 350328,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "SOLID (Adam Swim Remix)",
+        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+        }
+      ],
+      "duration_ms": 311578,
+      "name": "SOLID - Adam Swim Remix",
+      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Empty Talk",
         "url": "https://open.spotify.com/album/6oH6M6ytYHAVqcFUKcLGeh"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 220800,
       "name": "Sensitive (feat. Lily McKenzie)",
       "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "SOLID (Adam Swim Remix)",
-        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        },
-        {
-          "name": "Adam Swim",
-          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
-        }
-      ],
-      "duration_ms": 311578,
-      "name": "SOLID - Adam Swim Remix",
-      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Say Yes (feat. Rona Ray)",
-        "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         }
       ],
-      "duration_ms": 157134,
-      "name": "Say Yes (feat. Rona Ray)",
-      "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-07-26 09:47:49",

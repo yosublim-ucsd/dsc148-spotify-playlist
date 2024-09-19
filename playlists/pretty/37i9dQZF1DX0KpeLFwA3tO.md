@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Superbloom
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,009 likes - 118 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,053 likes - 118 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 117 | [GET A JOB!](https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GET A JOB!](https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6) | 2:34 |
 | 118 | [Karma Too Close](https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Karma Too Close](https://open.spotify.com/album/1e0UiI1obOMLnuCmfQESyJ) | 2:21 |
 
-Snapshot ID: `ZuNycAAAAAC79qQ+Z0N87FAG+IuVv4Le`
+Snapshot ID: `ZuNycAAAAABZYHENPHEPl0ecajUPungU`

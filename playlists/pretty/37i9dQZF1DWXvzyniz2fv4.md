@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,349 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,358 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 54 | [Mar Azul](https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [SÓ AS BRABA](https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe) | [Mar Azul](https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli) | 1:45 |
 | 55 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 |
 | 56 | [Tudo Começou](https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw) | [Tudo Começou](https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi) | 2:25 |
-| 57 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
-| 58 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 |
+| 57 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 |
+| 58 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
 | 59 | [Girl From Ipanema](https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [NSFS](https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY) | [Girl From Ipanema](https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T) | 3:29 |
 | 60 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
 

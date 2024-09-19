@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9301,
+  "num_followers": 9302,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-09-13 09:07:21",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ"
+    },
+    {
+      "added_at": "2024-09-13 09:07:21",
+      "album": {
         "name": "After a few summers (My love X TOIL, Gist)",
         "url": "https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 177466,
       "name": "After a few summers (My love X TOIL, Gist)",
       "url": "https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP"
-    },
-    {
-      "added_at": "2024-09-13 09:07:21",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ"
     },
     {
       "added_at": "2024-09-13 09:07:21",

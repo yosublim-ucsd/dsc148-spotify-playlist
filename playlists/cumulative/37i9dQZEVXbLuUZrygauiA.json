@@ -18425,6 +18425,24 @@
     },
     {
       "album": {
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
       },
@@ -25118,7 +25136,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 180000,
       "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW"
@@ -37067,6 +37085,24 @@
     },
     {
       "album": {
+        "name": "A Mi M\u00e9xico",
+        "url": "https://open.spotify.com/album/6LwtM7MWghhNhJiapNgiaN"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180306,
+      "name": "Son De La Negra",
+      "url": "https://open.spotify.com/track/0kQ8ZbiPsgVocOfNA5oO1r"
+    },
+    {
+      "album": {
         "name": "Las Canciones Mexicanas Que El Mundo Canta",
         "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
       },
@@ -37078,7 +37114,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 181000,
       "name": "Son De La Negra",
       "url": "https://open.spotify.com/track/14mPMMwXf9GHp1Tw435f2d"
@@ -40418,6 +40454,28 @@
       "duration_ms": 132400,
       "name": "Tortura",
       "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
+    },
+    {
+      "album": {
+        "name": "Tostadita (feat. Potro) - Single",
+        "url": "https://open.spotify.com/album/6DsKyxY2dHcMDsuM7G7Vq7"
+      },
+      "artists": [
+        {
+          "name": "Karime Pindter",
+          "url": "https://open.spotify.com/artist/5tD4Qq3d2M8TfqUrLlpw4c"
+        },
+        {
+          "name": "Potro",
+          "url": "https://open.spotify.com/artist/5dqSxIMAx6tEOASU3XOY32"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196937,
+      "name": "Tostadita (feat. Potro)",
+      "url": "https://open.spotify.com/track/0v8wB6c1zYjuBzDlaZDwAK"
     },
     {
       "album": {
@@ -43922,7 +43980,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

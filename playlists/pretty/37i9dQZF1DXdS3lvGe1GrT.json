@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Keni Titus",
-  "num_followers": 77370,
+  "num_followers": 77575,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuRcIQAAAACmVNmTw5aIDdVilGVkOQvq",
+  "snapshot_id": "Zur5AAAAAACC0Pa4Sn3FYxP3FflPZahq",
   "tracks": [
     {
       "added_at": "2024-09-11 16:51:45",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
     },
     {
-      "added_at": "2024-09-11 16:51:45",
+      "added_at": "2024-09-18 16:00:00",
       "album": {
-        "name": "amy allen",
-        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+        "name": "Smaller",
+        "url": "https://open.spotify.com/album/6qVgYeLlFOUbotEbTGomHV"
       },
       "artists": [
         {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
         }
       ],
-      "duration_ms": 164065,
-      "name": "reason to forgive",
-      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+      "duration_ms": 299126,
+      "name": "Smaller",
+      "url": "https://open.spotify.com/track/4dJ7GtHADpM0zopmsbACZK"
     },
     {
       "added_at": "2024-09-11 16:51:45",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/6A1sfVgXX8XSG1HNxTq0Pk"
+      },
+      "artists": [
+        {
+          "name": "Ky J. Brandes",
+          "url": "https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu"
+        }
+      ],
+      "duration_ms": 245075,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/2JgHL2YfqH5Tp83CYwnNXm"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+    },
+    {
       "added_at": "2024-09-13 15:37:05",
       "album": {
         "name": "friends?",
@@ -71,6 +103,70 @@
       "duration_ms": 236250,
       "name": "friends?",
       "url": "https://open.spotify.com/track/4uLAof3x05z67rTXgJjyAG"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "Call Me Your Angel",
+        "url": "https://open.spotify.com/album/4Vxtc23QtELNlDuAO72QH3"
+      },
+      "artists": [
+        {
+          "name": "Ariella",
+          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
+        }
+      ],
+      "duration_ms": 219084,
+      "name": "Call Me Your Angel",
+      "url": "https://open.spotify.com/track/2ZM3OWnNvj5CiSOSiXzgqy"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "glass house",
+        "url": "https://open.spotify.com/album/0F6N7R0VpH4NebjpQGgzsO"
+      },
+      "artists": [
+        {
+          "name": "Molly Seger",
+          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
+        }
+      ],
+      "duration_ms": 227016,
+      "name": "glass house",
+      "url": "https://open.spotify.com/track/1ajEZMlKBRQ5WY53Tb0LUk"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "Losing Limits",
+        "url": "https://open.spotify.com/album/5CB3lfFp8vtLeExpsdhC0K"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Losing Limits",
+      "url": "https://open.spotify.com/track/4xQBbsy5nIAliLQDfrhCtB"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "looking forward to looking back",
+        "url": "https://open.spotify.com/album/0fHlPmmr1aC35bNofkvGmd"
+      },
+      "artists": [
+        {
+          "name": "Tom Siletto",
+          "url": "https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "good parts",
+      "url": "https://open.spotify.com/track/7xzbOXisjcLhz8ViBhApWi"
     },
     {
       "added_at": "2024-08-21 20:53:22",
@@ -151,6 +247,22 @@
       "duration_ms": 113600,
       "name": "Get-Go",
       "url": "https://open.spotify.com/track/6bg7tfA7D8VHhsDdbhsnuU"
+    },
+    {
+      "added_at": "2024-09-18 16:00:00",
+      "album": {
+        "name": "Lucky #8",
+        "url": "https://open.spotify.com/album/5zuFUIdXcfd7o8MiqMrhb7"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Castle",
+          "url": "https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Lucky #8",
+      "url": "https://open.spotify.com/track/25mWRD3fMSwPxgZzhCAwgN"
     },
     {
       "added_at": "2024-09-11 16:51:45",
@@ -1057,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3FegyjbqT64ujLQmnFBaeH"
     },
     {
-      "added_at": "2024-07-17 16:23:52",
-      "album": {
-        "name": "jane doe",
-        "url": "https://open.spotify.com/album/3z21Bav4umGx2rIaJznTtD"
-      },
-      "artists": [
-        {
-          "name": "Virens",
-          "url": "https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "jane doe",
-      "url": "https://open.spotify.com/track/0cXvxyqgSGgRcIYbvUIre1"
-    },
-    {
       "added_at": "2024-07-24 13:34:16",
       "album": {
         "name": "Red Cedar",
@@ -1173,38 +1269,6 @@
       "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
     },
     {
-      "added_at": "2024-07-24 13:34:16",
-      "album": {
-        "name": "My Own Company",
-        "url": "https://open.spotify.com/album/0Y9PHPEhtZgfuw7pldk74s"
-      },
-      "artists": [
-        {
-          "name": "Kiely Connell",
-          "url": "https://open.spotify.com/artist/5BpcRG30ycCHuNeGtpFMd4"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "Hobo's Dream",
-      "url": "https://open.spotify.com/track/2LR5hvCGwl23TSDiyFybyy"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Firing Sideways",
-        "url": "https://open.spotify.com/album/2CM8zN3hwM0olf8NwNs5ga"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 226849,
-      "name": "Firing Sideways",
-      "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
-    },
-    {
       "added_at": "2024-05-29 12:56:53",
       "album": {
         "name": "The Rock / Magical Thinking",
@@ -1235,22 +1299,6 @@
       "duration_ms": 220240,
       "name": "Ball And Key",
       "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
-    },
-    {
-      "added_at": "2024-07-17 16:23:52",
-      "album": {
-        "name": "You Must Not Feel the Way I Do, Loser",
-        "url": "https://open.spotify.com/album/1yYa1UBNIoMstm8H4H50k2"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Girls",
-          "url": "https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7"
-        }
-      ],
-      "duration_ms": 150120,
-      "name": "you must not feel the way i do",
-      "url": "https://open.spotify.com/track/1NGra7pdhQ8772sqOGtLzL"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -1303,70 +1351,6 @@
       "duration_ms": 283688,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Caramel Midnight",
-        "url": "https://open.spotify.com/album/2kPW8r11vQnVhKUHRUOZyv"
-      },
-      "artists": [
-        {
-          "name": "Jay Ssandri",
-          "url": "https://open.spotify.com/artist/3ATGOsGWIxQIQUwW9XMhsw"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Caramel Midnight",
-      "url": "https://open.spotify.com/track/214abfsbFiou2EuvMSxEIO"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Like a Painting",
-        "url": "https://open.spotify.com/album/5fIUhByL4CWfLwzn8ZOfl3"
-      },
-      "artists": [
-        {
-          "name": "Anna McClellan",
-          "url": "https://open.spotify.com/artist/2Y8G3abt5hRU7X9RNi7dlZ"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Like a Painting",
-      "url": "https://open.spotify.com/track/1jIvP9lBdQK25Xqr9lkw2K"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "nevermind",
-        "url": "https://open.spotify.com/album/4ukiTfQoW4ghQAOih5b4QE"
-      },
-      "artists": [
-        {
-          "name": "Maisyn",
-          "url": "https://open.spotify.com/artist/2SQWrWZ6liOAZtLkcs2P2d"
-        }
-      ],
-      "duration_ms": 200654,
-      "name": "nevermind",
-      "url": "https://open.spotify.com/track/7dqcNwj8ZUkkUMgllYB0US"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Halfway to the Sun",
-        "url": "https://open.spotify.com/album/0GfZCeDWZCpyqKBGqqAZhc"
-      },
-      "artists": [
-        {
-          "name": "Isla Mae",
-          "url": "https://open.spotify.com/artist/1Xnu2OZGZhPWMzUHmbwbiP"
-        }
-      ],
-      "duration_ms": 233197,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/7DNiQFrYEPSHOzENYGJS7u"
     },
     {
       "added_at": "2024-06-19 16:02:06",

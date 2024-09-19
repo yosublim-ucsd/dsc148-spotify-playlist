@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 441465,
+  "num_followers": 441628,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "Shades Of Cool",
+      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "Shades Of Cool",
-      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -251,6 +251,22 @@
       "duration_ms": 187690,
       "name": "Horseness Is The Whatness",
       "url": "https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Cacophony",
         "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 288288,
       "name": "pleaser",
       "url": "https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 302578,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 125893,
       "name": "Le Temple Volant",
       "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 302578,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "May I Comply",
-        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 240551,
-      "name": "May I Comply",
-      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "I, Gemini",
         "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 339173,
       "name": "Deep Six Textbook",
       "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "May I Comply",
+        "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
+      },
+      "artists": [
+        {
+          "name": "Heartworms",
+          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
+        }
+      ],
+      "duration_ms": 240551,
+      "name": "May I Comply",
+      "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Ecstasy Homosexuality",
-        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
-      },
-      "artists": [
-        {
-          "name": "The Irrepressibles",
-          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
-        }
-      ],
-      "duration_ms": 240335,
-      "name": "Ecstasy Homosexuality - Radio Edit",
-      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Ecstasy Homosexuality",
+        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "duration_ms": 240335,
+      "name": "Ecstasy Homosexuality - Radio Edit",
+      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+      },
+      "artists": [
+        {
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+        }
+      ],
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 191860,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Wife Once",
-        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
-      },
-      "artists": [
-        {
-          "name": "Memory of Speke",
-          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
-        }
-      ],
-      "duration_ms": 225036,
-      "name": "Wife Once",
-      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     },
     {
       "added_at": "2024-09-13 13:43:33",

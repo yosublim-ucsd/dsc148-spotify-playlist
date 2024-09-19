@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Seung Joo\(김승주\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-732 songs - 1 day 20 hr 12 min
+734 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Colors of You](https://open.spotify.com/track/35nhfxiAlFeNvKWTQUR5kp) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [In Dreams, In Dreams](https://open.spotify.com/album/4gqNvoIBouPkzQAAusZb6f) | 4:30 | 2022-07-08 | 2022-07-16 |
 | [Come And Find Me](https://open.spotify.com/track/1ftmDIccNyQsik5vs9ZfzF) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [Come And Find Me](https://open.spotify.com/album/1isTxDxhUhKopfY63uGF0G) | 3:19 | 2024-06-07 | 2024-06-20 |
 | [Comes and Goes](https://open.spotify.com/track/0Nld5ohgWfoPueMEtYNbgE) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 3:48 | 2022-07-22 | 2023-04-06 |
-| [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 | 2024-05-09 |  |
+| [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 | 2024-05-09 | 2024-09-19 |
 | [Consolation To You](https://open.spotify.com/track/7i0Z1ID0SxDW71oKO7JjK9) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [Consolation To You](https://open.spotify.com/album/7vI2dIKirgwRLqsxqtfANO) | 3:53 | 2022-09-05 | 2022-10-01 |
 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 | 2022-09-30 | 2022-10-19 |
 | [Convey one's feelings](https://open.spotify.com/track/2nmTLVKaTTIOM2eElmBsbV) | [SOONHO](https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4) | [Convey one's feelings](https://open.spotify.com/album/5yMDSynklNUmFbOCZTd78b) | 2:59 | 2022-06-09 | 2022-06-14 |
@@ -238,7 +238,7 @@
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-24 | 2022-07-29 |
 | [Growing Pain](https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:20 | 2024-05-09 |  |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2022-04-12 | 2023-01-12 |
-| [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 | 2024-09-02 |  |
+| [Guard You](https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:17 | 2024-09-02 | 2024-09-19 |
 | [Guerrilla \- Flag Version](https://open.spotify.com/track/2lhcC5gHaWaxOEcfa1WwgY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:35 | 2024-07-16 | 2024-08-11 |
 | [Guess Who?](https://open.spotify.com/track/7LsHODr3Z7Q3AYgOyuQ2dx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:59 | 2022-06-13 | 2022-07-02 |
 | [Gypsophila](https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Crash Course in Romance OST Part 1](https://open.spotify.com/album/0h2Mo9WsDtc23UqKcY1zUv) | 3:32 | 2023-02-24 | 2023-03-25 |
@@ -246,6 +246,7 @@
 | [Hangman](https://open.spotify.com/track/4547YWizllfrQtsVPkqq8D) | [ChiVee](https://open.spotify.com/artist/3nR6kcQuqyXQAblPOAckih) | [Hangman](https://open.spotify.com/album/46WvBK1tP7Cjla2lgkBaC9) | 3:25 | 2024-04-30 | 2024-05-10 |
 | [HAPPENING](https://open.spotify.com/track/4bvIzUmw8dl9r1PDz6OGZv) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/2I4HYm29uKgBjRtPpiFULg) | 3:44 | 2022-04-12 | 2022-07-26 |
 | [HAPPENING](https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/3C5U9NYko3wIPimlaCaZZz) | 3:44 | 2023-09-20 | 2023-11-10 |
+| [HAPPY](https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:09 | 2024-09-18 |  |
 | [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-04-09 | 2024-05-10 |
 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 | 2024-06-05 |  |
 | [Hate U](https://open.spotify.com/track/4ueUHXReK3sHdgRuxU45uY) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Hate U](https://open.spotify.com/album/1YbnGOAtb3gBTElItID7TJ) | 2:43 | 2022-05-11 | 2022-06-14 |
@@ -321,6 +322,7 @@
 | [Just For Today](https://open.spotify.com/track/033zVZVSRG8hX1nXtdzpIt) | [DEFAULT.](https://open.spotify.com/artist/469xVs93kidKRxcjb2LQe3) | [Like It’s Going To Last](https://open.spotify.com/album/6DX6UtZY1oWHwA2X045o2b) | 4:35 | 2023-02-14 | 2023-02-25 |
 | [just want to sleep 망할 잠](https://open.spotify.com/track/5ZUduLAgYDEx0CnvKJI0tn) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [inspiration](https://open.spotify.com/album/5FtiCb3iXBx8YfdXkmH6Nv) | 3:30 | 2022-04-22 | 2022-04-26 |
 | [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 | 2024-05-09 |  |
+| [KENJI](https://open.spotify.com/track/6GYpTFTsD8nEkCOFHZ6S6i) | [Kim Seung Joo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KENJI](https://open.spotify.com/album/2rGBoestOQnAIjKsmAHo7X) | 3:54 | 2024-09-18 |  |
 | [Knife](https://open.spotify.com/track/0UYcMcJXEFhM0m04i8LIC6) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Knife](https://open.spotify.com/album/0Rm8DxRN9bLmyMoIIs7r5p) | 3:51 | 2024-03-21 | 2024-05-10 |
 | [Knight \(Knight for Fight\)](https://open.spotify.com/track/1GgqaOfzfi0Aa3xWfcFATl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Tales Runner \[Multiverse and Dimension Authority\] O.S.T PART\. 1 Knight \(Knight for Fight\)](https://open.spotify.com/album/2a1E4ATdnm2vvhrliXtg6g) | 3:05 | 2022-12-22 | 2023-01-11 |
 | [kyrie](https://open.spotify.com/track/28cZrg5bm25e5LcZJL8gFi) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 2:59 | 2022-05-03 | 2022-05-12 |

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc584th6KDYBta5SEErtbCPwzeHW5v",
+  "snapshot_id": "AAAc6cDMA/wtDZiXwWxZxSuOwPVYyL5y",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3275,6 +3275,42 @@
       "duration_ms": 211986,
       "name": "Dnt li\u00eb",
       "url": "https://open.spotify.com/track/6SKA4zY0zzYFdM74F2mPq1"
+    },
+    {
+      "added_at": "2024-09-18 20:12:45",
+      "album": {
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Tomorrow 'Til Infinity (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6Zm6fxOVPzyArjrNPx9LRe"
+    },
+    {
+      "added_at": "2024-09-18 21:11:15",
+      "album": {
+        "name": "i5u5we5",
+        "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "VersionF!VE",
+      "url": "https://open.spotify.com/track/4t0Knd6BQpif16OVZXmlcV"
     }
   ],
   "unique_name": "main ",

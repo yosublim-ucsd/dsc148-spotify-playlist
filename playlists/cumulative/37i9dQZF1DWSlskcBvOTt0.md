@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-742 songs - 2 day 19 hr 5 min
+743 songs - 2 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-02-02 |  |
 | [Korowai](https://open.spotify.com/track/5nGwt2oUROQtaW1EYxY9hj) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Korowai](https://open.spotify.com/album/3ByTN078vPgKLFKEbmUSr4) | 8:24 | 2021-04-21 | 2022-04-21 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 |  |
+| [La Casa](https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw) | [Souave](https://open.spotify.com/artist/4UhKvEeSMf3oxPvVlkryJw) | [La Casa](https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV) | 4:38 | 2024-09-13 |  |
 | [La Luz](https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 5:28 | 2021-05-07 | 2023-03-11 |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2023-03-10 | 2023-08-12 |
 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 | 2021-07-16 | 2023-02-11 |
@@ -414,7 +415,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
-| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 |  |
+| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-09-19 |
 | [Medieval \- LP Giobbi Remix](https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Temple Of Dreams \(Remixes Part 3\)](https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR) | 3:41 | 2023-10-27 | 2024-07-13 |
 | [Megatron](https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Megatron EP](https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp) | 5:59 | 2024-06-28 | 2024-07-27 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 | 2023-03-19 |

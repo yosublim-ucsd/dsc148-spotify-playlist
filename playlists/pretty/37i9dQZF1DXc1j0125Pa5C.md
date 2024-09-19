@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,898 likes - 75 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,961 likes - 75 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Me Redimir / Preciso Desabafar / Felina \- Ao Vivo](https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Swing & Simpatia](https://open.spotify.com/artist/07o97MiFEobUUwiIYcspmj) | [DVD Fases Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy) | 4:59 |
 | 75 | [Ainda Existe Amor Em Nós / Vida Que Segue / Só De Olhar](https://open.spotify.com/track/6LJDaZ8J7vq6Nvbt6wYai6) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R) | [Ainda Existe Amor Em Nós / Vida Que Segue / Só De Olhar](https://open.spotify.com/album/3xZnLO16e5aN5kG3vlq5uI) | 4:51 |
 
-Snapshot ID: `ZuOq7AAAAADyUrLU/OIOUphwbOpyV21n`
+Snapshot ID: `ZuOq7AAAAABNhEDHhBWcCt5oVR8U94dX`

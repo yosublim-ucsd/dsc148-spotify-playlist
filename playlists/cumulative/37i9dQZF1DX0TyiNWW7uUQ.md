@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Jailer
 
-167 songs - 10 hr 59 min
+168 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Marakkuma Nenjam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Marakkuma Nenjam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ) | 4:18 | 2022-09-05 | 2022-12-15 |
 | [Maruvaarthai](https://open.spotify.com/track/6A79kP682lpUXnwcl5575F) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45bGofpPXb9IrX5gpp9Lgx) | 5:56 | 2022-01-04 | 2022-07-14 |
 | [Master the Blaster \(From "Master"\)](https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Bjorn Surrao](https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu) | [Master the Blaster \(From "Master"\)](https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL) | 1:32 | 2022-01-04 | 2022-08-23 |
+| [Matta](https://open.spotify.com/track/2hBFfxMw0RtEI5KsCJ7knh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Velu](https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4), [Sam](https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05), [Narayanan Ravishankar](https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD) | [The Greatest Of All Time](https://open.spotify.com/album/7qziZGdxIycvh71Oqjkpqo) | 3:32 | 2024-09-18 |  |
 | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 | 2022-09-14 | 2023-04-28 |
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-27 |  |
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 | 2023-11-17 |

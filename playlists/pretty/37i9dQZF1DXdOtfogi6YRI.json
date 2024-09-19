@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Bisz, KOSA",
-  "num_followers": 17675,
+  "num_followers": 17687,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/26u5KVFp8qYBT5nLY1s1QA"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 228655,
+      "name": "ZG\u0141OWY",
+      "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "brudny moncler",
         "url": "https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm"
       },
@@ -159,6 +175,22 @@
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "chinatown freestyle",
+        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 188047,
+      "name": "chinatown freestyle",
+      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -183,38 +215,6 @@
       "duration_ms": 136046,
       "name": "Bagno",
       "url": "https://open.spotify.com/track/2SkOPVJztkHlwvsXbLBk3x"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "chinatown freestyle",
-        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 188047,
-      "name": "chinatown freestyle",
-      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "ZG\u0141OWY",
-        "url": "https://open.spotify.com/album/26u5KVFp8qYBT5nLY1s1QA"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 228655,
-      "name": "ZG\u0141OWY",
-      "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -315,26 +315,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "co ja wam zrobi\u0142em?",
-        "url": "https://open.spotify.com/album/2rCRBXHobv53bIL0sl9fTj"
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
       },
       "artists": [
         {
-          "name": "CatchUp",
-          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
         },
         {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        },
-        {
-          "name": "Def Jam World Tour",
-          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
         }
       ],
-      "duration_ms": 160000,
-      "name": "co ja wam zrobi\u0142em?",
-      "url": "https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw"
+      "duration_ms": 173379,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -355,22 +351,26 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Zawsze",
-        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
+        "name": "co ja wam zrobi\u0142em?",
+        "url": "https://open.spotify.com/album/2rCRBXHobv53bIL0sl9fTj"
       },
       "artists": [
         {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+          "name": "CatchUp",
+          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
         },
         {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
         }
       ],
-      "duration_ms": 173379,
-      "name": "Zawsze",
-      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
+      "duration_ms": 160000,
+      "name": "co ja wam zrobi\u0142em?",
+      "url": "https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "GREENPOINT / szybkistorytelling",
+        "url": "https://open.spotify.com/album/7dGGzhq4DbPDASw3jwfwSJ"
+      },
+      "artists": [
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "GREENPOINT",
+      "url": "https://open.spotify.com/track/4AJY30GNQ7Q6InDWXev2a0"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "ACID MORO",
         "url": "https://open.spotify.com/album/4bSY6sTUN5OXyNEoxtdEnz"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 142857,
       "name": "TOP OF THE TOP",
       "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "GREENPOINT / szybkistorytelling",
-        "url": "https://open.spotify.com/album/7dGGzhq4DbPDASw3jwfwSJ"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "GREENPOINT",
-      "url": "https://open.spotify.com/track/4AJY30GNQ7Q6InDWXev2a0"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -611,6 +611,30 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "tom i jerry",
+        "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
+      },
+      "artists": [
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kepler",
+          "url": "https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "tom i jerry",
+      "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "Ostatni raz",
         "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 178823,
       "name": "Wehiku\u0142 czasu",
       "url": "https://open.spotify.com/track/6o8VV8GinVBXPt8H84WRPu"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "tom i jerry",
-        "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kepler",
-          "url": "https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "tom i jerry",
-      "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -795,6 +795,22 @@
       "duration_ms": 203583,
       "name": "Moja droga",
       "url": "https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "#omg",
+        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
+      },
+      "artists": [
+        {
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+        }
+      ],
+      "duration_ms": 126427,
+      "name": "#omg",
+      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "jak mam si\u0119 tym jara\u0107?",
-        "url": "https://open.spotify.com/album/5NpI7DzJlQ3L6ZOz1Byrpt"
-      },
-      "artists": [
-        {
-          "name": "chudy dredd",
-          "url": "https://open.spotify.com/artist/0Muaqh9wkA9mlQXDXOkTvU"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "jak mam si\u0119 tym jara\u0107?",
-      "url": "https://open.spotify.com/track/0yUlkMnx27tJbmZDnABqH4"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "PIEK\u0141O DLA DJ\u00d3W",
         "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "#omg",
-        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
+        "name": "jak mam si\u0119 tym jara\u0107?",
+        "url": "https://open.spotify.com/album/5NpI7DzJlQ3L6ZOz1Byrpt"
       },
       "artists": [
         {
-          "name": "hubithekid",
-          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+          "name": "chudy dredd",
+          "url": "https://open.spotify.com/artist/0Muaqh9wkA9mlQXDXOkTvU"
         }
       ],
-      "duration_ms": 126427,
-      "name": "#omg",
-      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+      "duration_ms": 176363,
+      "name": "jak mam si\u0119 tym jara\u0107?",
+      "url": "https://open.spotify.com/track/0yUlkMnx27tJbmZDnABqH4"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "Id\u0119 w g\u00f3r\u0119",
         "url": "https://open.spotify.com/album/37CJoG6XOvnCG2Q5qPK4O4"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/38U8N2rwuwYJ5uImS6ZrvW"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "3w1",
-        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "3w1",
-      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 w czasach",
         "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 154545,
       "name": "Zawsze chcia\u0142em by\u0107",
       "url": "https://open.spotify.com/track/4VE7vpf3rmowPHUwHo0Efx"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "3w1",
+        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "3w1",
+      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Pozdrawiam S\u0105siad\u00f3w",
-        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
+        "name": "KAM-RAP-POL",
+        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
       },
       "artists": [
         {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
         }
       ],
-      "duration_ms": 205969,
-      "name": "Pozdrawiam S\u0105siad\u00f3w",
-      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
+      "duration_ms": 207575,
+      "name": "U OLGI",
+      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "KAM-RAP-POL",
-        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
+        "name": "Pozdrawiam S\u0105siad\u00f3w",
+        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
       },
       "artists": [
         {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
         }
       ],
-      "duration_ms": 207575,
-      "name": "U OLGI",
-      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
+      "duration_ms": 205969,
+      "name": "Pozdrawiam S\u0105siad\u00f3w",
+      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1551,30 +1551,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "B\u0119dzie dobrze",
-        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "B\u0119dzie dobrze",
-      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "GRUUVSTEP",
         "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
       },
@@ -1595,6 +1571,30 @@
       "duration_ms": 195555,
       "name": "GRUUVSTEP",
       "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "B\u0119dzie dobrze",
+        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "B\u0119dzie dobrze",
+      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1699,6 +1699,30 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
+        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
+      },
+      "artists": [
+        {
+          "name": "Biak",
+          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        },
+        {
+          "name": "Dizkret",
+          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "RMLJHF",
+      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "RODOPSYNA",
         "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
       },
@@ -1747,30 +1771,6 @@
       "duration_ms": 227121,
       "name": "Bejrut - Remix",
       "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "Jasny Obraz Ciemnych Czas\u00f3w",
-        "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
-      },
-      "artists": [
-        {
-          "name": "Biak",
-          "url": "https://open.spotify.com/artist/6TgOhsXlg8Lnh2ZuQtSNFf"
-        },
-        {
-          "name": "Qzyn",
-          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
-        },
-        {
-          "name": "Dizkret",
-          "url": "https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "RMLJHF",
-      "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1827,50 +1827,6 @@
       "duration_ms": 271445,
       "name": "KLARA",
       "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
-      },
-      "artists": [
-        {
-          "name": "PAL SECAM",
-          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "ad hoc",
-        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
-      },
-      "artists": [
-        {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
-        },
-        {
-          "name": "Joanna Duda",
-          "url": "https://open.spotify.com/artist/2SN1Vy1T3LDjgsgKkiTkgU"
-        },
-        {
-          "name": "Jakub Jan Bryndal",
-          "url": "https://open.spotify.com/artist/5aZnt2OoRIvauleYkWcUAF"
-        },
-        {
-          "name": "DJ Chmielix",
-          "url": "https://open.spotify.com/artist/4o9IM2QFVRk686aua9sion"
-        }
-      ],
-      "duration_ms": 161094,
-      "name": "Tygrysy Europy",
-      "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1963,6 +1919,50 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "ad hoc",
+        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
+      },
+      "artists": [
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        },
+        {
+          "name": "Joanna Duda",
+          "url": "https://open.spotify.com/artist/2SN1Vy1T3LDjgsgKkiTkgU"
+        },
+        {
+          "name": "Jakub Jan Bryndal",
+          "url": "https://open.spotify.com/artist/5aZnt2OoRIvauleYkWcUAF"
+        },
+        {
+          "name": "DJ Chmielix",
+          "url": "https://open.spotify.com/artist/4o9IM2QFVRk686aua9sion"
+        }
+      ],
+      "duration_ms": 161094,
+      "name": "Tygrysy Europy",
+      "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
+      },
+      "artists": [
+        {
+          "name": "PAL SECAM",
+          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
+      },
+      "artists": [
+        {
+          "name": "Blue Vegas",
+          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "Dywan",
         "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 100000,
       "name": "Dywan",
       "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
-      },
-      "artists": [
-        {
-          "name": "Blue Vegas",
-          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
     },
     {
       "added_at": "2024-09-13 10:08:45",

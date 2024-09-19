@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Saripodhaa Sanivaaram
 
-218 songs - 14 hr 17 min
+219 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 | 2022-12-20 | 2023-09-26 |
 | [Emundi Ra \(From "Krishna Vrinda Vihari"\)](https://open.spotify.com/track/1EqsZQwACUqnn9GvtzLjHl) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Emundi Ra \(From "Krishna Vrinda Vihari"\) \- Single](https://open.spotify.com/album/1ZP4uiCbZYgrxmoEmRVzrB) | 3:52 | 2022-05-04 | 2023-02-21 |
 | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy) | 3:36 | 2023-03-25 | 2023-09-22 |
+| [Ennennenno \(From "Veekshanam"\)](https://open.spotify.com/track/23aZ6C4joJbz4FR1RX5h1d) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Samarth Gollapudi](https://open.spotify.com/artist/4vd0WBVBtB6I9LmFPMOHbg), [Rehman](https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7) | [Ennennenno \(From "Veekshanam"\)](https://open.spotify.com/album/13WHRkfGl1WbQ4JgrFvgTN) | 2:56 | 2024-09-18 |  |
 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 | 2023-02-01 | 2023-11-07 |
 | [Entha Chithram \(From "Ante Sundaraniki"\)](https://open.spotify.com/track/1JofMY6c8aafUc9DPPI79Y) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3) | [Entha Chithram \(From "Ante Sundaraniki"\) \- Single](https://open.spotify.com/album/0Fhwzy0FYFUphj4Oqr6u74) | 5:04 | 2022-05-10 | 2023-02-21 |
 | [Ento Enteynto](https://open.spotify.com/track/10mBBnJjBwLN01qgjxD54s) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Thank You](https://open.spotify.com/album/6tygDyShNJn8fWC2aMfPWn) | 3:46 | 2022-06-16 | 2023-04-25 |

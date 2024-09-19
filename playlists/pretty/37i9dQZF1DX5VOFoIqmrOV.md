@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,414 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,616 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 36 | [Emannavoo](https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Nava Manmadhudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0) | 3:34 |
 | 37 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 |
 | 38 | [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 |
-| 39 | [Gaaju Bomma](https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 4:26 |
-| 40 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
+| 39 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
+| 40 | [Gaaju Bomma](https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 4:26 |
 | 41 | [Em Sandeham Ledu](https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Oohalu Gusagusalade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5HaFZv77oP0GMVZXSfyz4h) | 3:52 |
 | 42 | [Chamkeela Angeelesi](https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 3:23 |
 | 43 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri](https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG), [Sinov Raj](https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 70 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 | 71 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
 | 72 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
-| 73 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
-| 74 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
+| 73 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
+| 74 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
 | 75 | [Bheemla Nayak Title Song](https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Prithvi Chandhra](https://open.spotify.com/artist/2sXOEThmg7BmZ5qQVI01x7), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Bheemla Nayak](https://open.spotify.com/album/3LDf8zucVQthBeANPECHkk) | 5:10 |
 
 Snapshot ID: `Ztab8QAAAABUYeVZX1VHrtEzB2dhLoTK`

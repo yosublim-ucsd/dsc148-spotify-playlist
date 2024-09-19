@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Abeliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,385 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,398 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 |
 | 2 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \- Aviary Live Session](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 |
 | 3 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3jki54XTyng7uExnmnniCW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/5CNvbiMvaOaHmaQf2mNvOi) | 3:58 |
-| 4 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
+| 4 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 5 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 |
 | 6 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 |
 | 7 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 |

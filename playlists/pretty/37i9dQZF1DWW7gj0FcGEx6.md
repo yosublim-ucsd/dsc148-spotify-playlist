@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,937 likes - 259 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,957 likes - 259 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 22 | [Termites For Tea](https://open.spotify.com/track/0F3jNQDYjBErhG4v4GKiRi) | [David Mitcham](https://open.spotify.com/artist/0tfxnjCjx2RV2ohtkoChgA), [The Dream Town Orchestra](https://open.spotify.com/artist/6Jp2tvwT57uDNEDDEdXZhq) | [Secret Lives of Orangutans \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14BuPHwjWtN34fi4anOkoR) | 1:35 |
 | 23 | [Memories](https://open.spotify.com/track/0IKJfr52GxTTEJUwJD4wnI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Le Musk \(Original Soundtrack\)](https://open.spotify.com/album/31xnft6hKf7Rt5AbB2YGYR) | 2:48 |
 | 24 | [Corncrake \- From "The Outrun" Soundtrack](https://open.spotify.com/track/7ubEaEQnDdJwJPmFuEHgcI) | [Jan Miserre](https://open.spotify.com/artist/1M8PK1FQCl6gJCGth7S47H), [John Gürtler](https://open.spotify.com/artist/5nTmL4JnBYTrBgjJb9YcFE) | [Corncrake \- From "The Outrun" Soundtrack](https://open.spotify.com/album/3bHgy5QLqlft9HPLsu5deA) | 3:14 |
-| 25 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |
+| 25 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |
 | 26 | [Outside Intro](https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 0:55 |
 | 27 | [Uglies](https://open.spotify.com/track/0wzZZxckaRXQlJIAYaL9RR) | [Edward Shearmur](https://open.spotify.com/artist/1PGSb2wgymZeNTUYqnOxyq) | [Uglies \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4oj42YJuAndLd7spw3z8x5) | 4:45 |
 | 28 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,164 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,160 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 67 | [Lovers turn to Haters](https://open.spotify.com/track/6ovu72i1VoFPjYWVSW8I6I) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JUPITER KIM](https://open.spotify.com/artist/1tEGfXoTo3Sh7Q4zd1s7iE), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [Lovers turn to Haters](https://open.spotify.com/album/7afBmzhh7e1lzbo2ju7q06) | 4:00 |
 | 68 | [Turbulence](https://open.spotify.com/track/6cFn46erk6PtVxU1MUmFB0) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Hit\-Boy](https://open.spotify.com/artist/7DNjUopAEybM5cYcDxfGrv), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Did You Know?, Pt\. 1](https://open.spotify.com/album/6pGgkSjHZ4pyh9Tc0b9vom) | 3:39 |
 | 69 | [COPY ME](https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2), [Anne Futagami](https://open.spotify.com/artist/30o8SxkhhVXJbqfuz8stn7) | [COPY ME](https://open.spotify.com/album/05vj36c9zDX5pDwmEn7DPe) | 4:27 |
-| 70 | [Edge of Saturday Night \- Nikki Nair Remix](https://open.spotify.com/track/732fdSa9lp0dKAxnI0IFJE) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Edge of Saturday Night \- Nikki Nair Remix](https://open.spotify.com/album/5DsncO8fkpFSjSbvRMLqnM) | 3:59 |
+| 70 | [Edge of Saturday Night \- Nikki Nair Remix](https://open.spotify.com/track/732fdSa9lp0dKAxnI0IFJE) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Edge of Saturday Night \(Nikki Nair Remix\)](https://open.spotify.com/album/5DsncO8fkpFSjSbvRMLqnM) | 3:59 |
 
 Snapshot ID: `Zud3AQAAAACpEQ5DmhYsNKl2PMmV78J/`

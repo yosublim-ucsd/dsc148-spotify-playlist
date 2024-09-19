@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:6uIVBE5DHG3szAnaOyvf3l">Rick Ross Pt.2</a> til folket 🔥 <a href="spotify:album:3flSwxGfLdPtCnnVWaSyK0">Medina</a> x <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,437 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,441 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

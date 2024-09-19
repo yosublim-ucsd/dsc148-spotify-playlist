@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "One Cry (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
+    },
+    {
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },

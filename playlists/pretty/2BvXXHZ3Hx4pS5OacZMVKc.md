@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,922 likes - 111 songs - 5 hr 49 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 134,918 likes - 111 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 3 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
 | 4 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
 | 5 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 |
-| 6 | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/1mm1gwco4OnHXbukzSAwJQ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 |
+| 6 | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/5mmT6NkPjCotEVXbx8Tpi5), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 |
 | 7 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
 | 8 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 |
 | 9 | [GET MUCKY](https://open.spotify.com/track/1r9fNFOCr8eW7JHIJKoqsh) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [GET MUCKY](https://open.spotify.com/album/6aR6aiYCoorj34c9sr6P76) | 2:25 |

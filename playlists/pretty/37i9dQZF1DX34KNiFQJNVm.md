@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Araújo com Felipe & Rodrigo, Matuê, Ana Castela  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,685 likes - 83 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,842 likes - 83 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 77 | [Hayabusa](https://open.spotify.com/track/4dPxcB0YvJ5ukMenl3bqY0) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Hayabusa](https://open.spotify.com/album/2uSqHe649QRJ6EQeKbVZ8P) | 2:42 |
 | 78 | [Alquimia](https://open.spotify.com/track/19BxWphyjEFwWdx635fj4t) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB) | [Forma Pura](https://open.spotify.com/album/6sCFlHRqSZ87Xs9yfX04uG) | 2:53 |
 | 79 | [Fogueteiro](https://open.spotify.com/track/5eyeaF2U4JcdB6pYWnWwwQ) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Fogueteiro](https://open.spotify.com/album/1tQ82lszdUufjR7xlUP0FV) | 2:08 |
-| 80 | [Um Seleto Grupo de Pais](https://open.spotify.com/track/5hAm1UzikvLxqcw3g0JIuZ) | [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle) | [Um Seleto Grupo de Pais](https://open.spotify.com/album/6hG1pppDzLXbwQStDLvp8O) | 4:27 |
+| 80 | [Um Seleto Grupo de Pais](https://open.spotify.com/track/5hAm1UzikvLxqcw3g0JIuZ) | [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Gandolfo](https://open.spotify.com/artist/104EytgSgpIANeL9PgAmby) | [Um Seleto Grupo de Pais](https://open.spotify.com/album/6hG1pppDzLXbwQStDLvp8O) | 4:27 |
 | 81 | [Tempo, Cê Volta?](https://open.spotify.com/track/5Ksk8zRSAhbGChSiCCLpno) | [Fuentx](https://open.spotify.com/artist/0TcJAEvNvsyaqsdF3ncsAq), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Tempo, Cê Volta?](https://open.spotify.com/album/36A3YV8HIyvqNOuzxmPPLT) | 4:38 |
 | 82 | [Sequência de Tapa \- inHouse](https://open.spotify.com/track/4OD7hK71JTLS6r7swC8Fo8) | [Dj Ramon Sucesso](https://open.spotify.com/artist/4TU1r1V7Xp6Ov2X2irfm3J), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Sequência de Tapa \- inHouse](https://open.spotify.com/album/6wmBk17q3Kgar4Sg3LV8kG) | 1:46 |
 | 83 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 |
 
-Snapshot ID: `ZuRxGAAAAAAxWD4JmwoXVWE8c9KUjCZl`
+Snapshot ID: `ZuRxGAAAAACEsJWzX795Z8WAbr62JQVe`

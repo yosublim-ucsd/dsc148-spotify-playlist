@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: MAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,640 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,639 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 34 | [Kitchen Table](https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Summertime Butch](https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR) | 2:12 |
 | 35 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 |
 | 36 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
-| 37 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 |
+| 37 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
 | 38 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
 | 39 | [I Didn't Go](https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 5:48 |
 | 40 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
-| 41 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
+| 41 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 |
 | 42 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 | 43 | [Press Reset](https://open.spotify.com/track/6ExMMvfgv4ulR0TPSWhZ5u) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [The Tonite Show The Sequel](https://open.spotify.com/album/4ttvR5dL7lhBi7QDbWYK90) | 2:26 |
 | 44 | [Summer '24](https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm) | [Summer '24](https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM) | 1:58 |

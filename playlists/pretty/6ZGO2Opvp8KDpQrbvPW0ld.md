@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,813 likes - 300 songs - 10 hr 58 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,814 likes - 300 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 25 | [Velvet Clouds](https://open.spotify.com/track/04B1bnQjbsUVm53JBNJ7on) | [Sunrize](https://open.spotify.com/artist/5wfHsFyHeTywVNOBmoz2kp) | [Velvet Clouds](https://open.spotify.com/album/07s65rkGuLlHuOpPpMeI7K) | 2:00 |
 | 26 | [Twice](https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Twice](https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI) | 2:02 |
 | 27 | [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 |
-| 28 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 |
+| 28 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 |
 | 29 | [Moon River](https://open.spotify.com/track/5oswb7PpkFQS5wwtzg8eyK) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H) | [Moon River](https://open.spotify.com/album/62SS0I398B2srW5CEsz8lo) | 3:30 |
 | 30 | [Fascinating Rhythm](https://open.spotify.com/track/3dkEBmMxcLjqMLEf9PZtTb) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fascinating Rhythm](https://open.spotify.com/album/5hY4aStWV0nqP7n0CpJLGS) | 2:28 |
 | 31 | [Green Eyes](https://open.spotify.com/track/1zKbIIjWlK8HWK8t9IZ3g4) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Green Eyes](https://open.spotify.com/album/197L9C4YabeiDd8C9qQN5I) | 2:01 |

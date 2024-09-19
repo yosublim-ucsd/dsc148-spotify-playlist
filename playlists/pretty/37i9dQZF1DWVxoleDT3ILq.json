@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: pau",
-  "num_followers": 121715,
+  "num_followers": 121722,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Vamos Muchacho",
-        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
-      },
-      "artists": [
-        {
-          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
-          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
-        }
-      ],
-      "duration_ms": 105315,
-      "name": "Vamos Muchacho",
-      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Quiebra el Tiempo",
         "url": "https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 230557,
       "name": "Quiebra el Tiempo",
       "url": "https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Vamos Muchacho",
+        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
+      },
+      "artists": [
+        {
+          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
+          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
+        }
+      ],
+      "duration_ms": 105315,
+      "name": "Vamos Muchacho",
+      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -623,6 +623,22 @@
       "duration_ms": 187554,
       "name": "Herida",
       "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Que Nunca Pare",
         "url": "https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 204133,
       "name": "Que Nunca Pare",
       "url": "https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -759,6 +743,38 @@
       "duration_ms": 203636,
       "name": "CIELO",
       "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "La Torpeza",
+        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "La Torpeza",
+      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "La Torpeza",
-        "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "La Torpeza",
-      "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/4DEeGVOrUD6twDDYbMFfgF"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "PODER - Lilith: 6",
+        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "PODER - Lilith: 6",
+      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Sim\u00f3n",
         "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 247500,
       "name": "PYXIS",
       "url": "https://open.spotify.com/track/5UNhpgdMW62Il2hH4Roy2I"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "PODER - Lilith: 6",
-        "url": "https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "PODER - Lilith: 6",
-      "url": "https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+        "name": "En Medio De Una Fiesta (En Vivo en Teatro Coliseo, 18 Nov 2023)",
+        "url": "https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
         }
       ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+      "duration_ms": 289814,
+      "name": "En Medio De Una Fiesta - En Vivo en Teatro Coliseo, 18 Nov 2023",
+      "url": "https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "En Medio De Una Fiesta (En Vivo en Teatro Coliseo, 18 Nov 2023)",
-        "url": "https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV"
-      },
-      "artists": [
-        {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
-        }
-      ],
-      "duration_ms": 289814,
-      "name": "En Medio De Una Fiesta - En Vivo en Teatro Coliseo, 18 Nov 2023",
-      "url": "https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 197566,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -1183,18 +1199,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+        "name": "Vamos para Atr\u00e1s",
+        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
       },
       "artists": [
         {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+      "duration_ms": 254285,
+      "name": "Vamos para Atr\u00e1s",
+      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1219,26 +1239,6 @@
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Vamos para Atr\u00e1s",
-        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Vamos para Atr\u00e1s",
-      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1735,8 +1735,8 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Anatta",
-        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/43g4QrYuckeoF2NX1o6cr7"
       },
       "artists": [
         {
@@ -1744,13 +1744,13 @@
           "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
         },
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Jo Aedo",
+          "url": "https://open.spotify.com/artist/1Wg86Kw6IFZQJHtv0uuWWt"
         }
       ],
-      "duration_ms": 398380,
-      "name": "Anatta",
-      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
+      "duration_ms": 233528,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/43g4QrYuckeoF2NX1o6cr7"
+        "name": "Anatta",
+        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
       },
       "artists": [
         {
@@ -1812,13 +1812,13 @@
           "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
         },
         {
-          "name": "Jo Aedo",
-          "url": "https://open.spotify.com/artist/1Wg86Kw6IFZQJHtv0uuWWt"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 233528,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
+      "duration_ms": 398380,
+      "name": "Anatta",
+      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
     }
   ],
   "unique_name": "Indie Chile",

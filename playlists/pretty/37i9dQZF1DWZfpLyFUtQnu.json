@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 90388,
+  "num_followers": 90428,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Les sunlights des tropiques",
+        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Les sunlights des tropiques",
+      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Les sunlights des tropiques",
-        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Les sunlights des tropiques",
-      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
     },
     {
       "added_at": "2024-05-23 22:00:00",

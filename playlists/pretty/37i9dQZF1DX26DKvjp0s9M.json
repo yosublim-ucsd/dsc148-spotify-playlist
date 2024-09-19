@@ -1,6 +1,6 @@
 {
   "description": "Everlasting indie hits, ft Dijon.",
-  "num_followers": 983949,
+  "num_followers": 984086,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
@@ -1457,20 +1457,24 @@
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"
     },
     {
-      "added_at": "2024-02-01 17:41:19",
+      "added_at": "2024-03-21 18:10:54",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "Summer's Over",
+        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+      "duration_ms": 155500,
+      "name": "Better in the Dark",
+      "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf"
     },
     {
       "added_at": "2024-02-01 17:41:19",
@@ -1509,24 +1513,20 @@
       "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
-      "added_at": "2024-03-21 18:10:54",
+      "added_at": "2024-02-01 17:41:19",
       "album": {
-        "name": "Summer's Over",
-        "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Better in the Dark",
-      "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf"
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2024-02-01 17:41:19",

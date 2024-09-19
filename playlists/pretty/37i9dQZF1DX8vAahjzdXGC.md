@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,928 likes - 94 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,974 likes - 94 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 7 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 |
 | 8 | [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 |
 | 9 | [Watak Utama](https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Watak Utama](https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D) | 2:57 |
-| 10 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
+| 10 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 11 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 |
 | 12 | [Want Me Back](https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Want Me Back](https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx) | 2:55 |
 | 13 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 |

@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-105 songs - 5 hr 57 min
+106 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,10 +94,11 @@
 | [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 | 2024-08-02 |  |
 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 | 2024-02-29 |  |
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2024-02-29 |  |
+| [Slow down](https://open.spotify.com/track/5Cn6Z5fjOowWlmGsaw1nDm) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB), [DAOX](https://open.spotify.com/artist/05EKqePxUjw7agh2gReaDM) | [Apollo](https://open.spotify.com/album/0mt64GxT85IDFW2DWeGu3u) | 2:08 | 2024-09-18 |  |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2024-02-29 | 2024-07-23 |
 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 | 2024-02-29 |  |
 | [The Devil](https://open.spotify.com/track/68BJ3uVtup8CkFUOAVda9e) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:12 | 2024-08-02 |  |
-| [They Don't Know](https://open.spotify.com/track/679ykxeKderKuhhwdivEQL) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [They Don't Know](https://open.spotify.com/album/6n13ILV7Lt0WkyHmjP7pxa) | 4:52 | 2024-08-02 |  |
+| [They Don't Know](https://open.spotify.com/track/679ykxeKderKuhhwdivEQL) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [They Don't Know](https://open.spotify.com/album/6n13ILV7Lt0WkyHmjP7pxa) | 4:52 | 2024-08-02 | 2024-09-19 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2024-02-29 | 2024-07-23 |
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-08-02 | 2024-08-29 |
 | [Ungrateful](https://open.spotify.com/track/5a7nQfwZ5106lAi0bxGvRc) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:34 | 2024-02-29 | 2024-07-23 |

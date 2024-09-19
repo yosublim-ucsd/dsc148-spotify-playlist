@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This Is Alex Favela\. Los temas esenciales, todos en una lista.
+> This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,980 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 51 | [Tirando Barra \- En Vivo](https://open.spotify.com/track/3eACDMVDI0gidg5P8dfTpM) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:42 |
 | 52 | [El Tepe \- En Vivo](https://open.spotify.com/track/1alqu0FOpDnLcQieWGkzew) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:17 |
 
-Snapshot ID: `Zud1AAAAAABQte+F4WCBajNW4VTZSwYT`
+Snapshot ID: `Zud1AAAAAAAsUrMaehY6jLvDFXRgQvn8`

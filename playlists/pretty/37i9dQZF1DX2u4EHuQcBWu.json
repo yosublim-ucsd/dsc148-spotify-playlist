@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 198021,
+  "num_followers": 198070,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
       },
       "artists": [
         {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Aerolineas Makiza",
         "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 272800,
       "name": "En Paro",
       "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
-      },
-      "artists": [
-        {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 123333,
       "name": "Si Somos Americanos",
       "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Nada en Contra del K-pop",
-        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "Nada en Contra del K-pop",
-      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 193933,
       "name": "Plegaria A Un Labrador",
       "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Nada en Contra del K-pop",
+        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 289506,
+      "name": "Nada en Contra del K-pop",
+      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
+        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
+      },
+      "artists": [
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        },
+        {
+          "name": "Paulina Lasa",
+          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Verte Regresar",
+      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 302600,
       "name": "Transgresores de la Ley",
       "url": "https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
-        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
-      },
-      "artists": [
-        {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
-        },
-        {
-          "name": "Paulina Lasa",
-          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Verte Regresar",
-      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
+        "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
+      "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
-        "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
-      "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1727,18 +1727,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "HILDA CANTA CHARLY",
-        "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
+        "name": "El Largo Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
       },
       "artists": [
         {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+          "name": "Claudio Narea",
+          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
         }
       ],
-      "duration_ms": 209005,
-      "name": "Los dinosaurios",
-      "url": "https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B"
+      "duration_ms": 223040,
+      "name": "Rico el Pa\u00eds",
+      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Isabel Canta a Violeta",
+        "url": "https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3"
+      },
+      "artists": [
+        {
+          "name": "Isabel Parra",
+          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Al Centro de la Injusticia",
+      "url": "https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 101693,
       "name": "Maribel Se Durmi\u00f3 (En Vivo Estadio V\u00e9lez Sarsfield)",
       "url": "https://open.spotify.com/track/0HKZd2VwQpkGnjGLoicqb1"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "El Largo Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
-      },
-      "artists": [
-        {
-          "name": "Claudio Narea",
-          "url": "https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Rico el Pa\u00eds",
-      "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

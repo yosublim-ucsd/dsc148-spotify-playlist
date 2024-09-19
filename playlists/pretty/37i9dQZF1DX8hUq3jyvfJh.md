@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Fiorella e mais mulheres no volume máximo! Co\-curadoria com Fiorella
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,925 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,961 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 17 | [Yo Te Esperaba \- Primera Fila \[En Vivo\]](https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán en Primera Fila](https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6) | 3:44 |
 | 18 | [Beijo Misturado](https://open.spotify.com/track/1vffSXM7Ofv8YkATg130fs) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:28 |
 | 19 | [Tentativa Frustrada \- Ao Vivo](https://open.spotify.com/track/2lGz88oRaz8bepHKKQAohZ) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Faces \(Ao Vivo\)](https://open.spotify.com/album/1KtqeX6Cbap0vwis06Lici) | 2:27 |
-| 20 | [Tudo Ao Contrário \- Ao Vivo](https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Eu, Yasmin Santos \- Vol 01](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 3:09 |
+| 20 | [Tudo Ao Contrário \- Ao Vivo](https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Eu, Yasmin Santos \- Vol 01 \(Ao Vivo\)](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 3:09 |
 | 21 | [Tantos Planos](https://open.spotify.com/track/3bqkXhpmDwClY9hlZheTIh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Releituras, Vol\. 1](https://open.spotify.com/album/1CFZvP1DmOw8XgBxjgQFoB) | 2:30 |
 | 22 | [Se o Amorzinho Não Muda](https://open.spotify.com/track/6bf9XtU8Z8Mjlvhq9BrGpW) | [Fazendinha Sessions](https://open.spotify.com/artist/10fWVVVG2zx5VMJPL4N8wC), [Jennifer e Stephany](https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP) | [Se o Amorzinho Não Muda](https://open.spotify.com/album/5AewVbWzlbzmLlnUZqxFPt) | 2:09 |
 | 23 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 |
 | 50 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 
-Snapshot ID: `ZtfNMAAAAABdjES0v+dvFuOxlkMeluVh`
+Snapshot ID: `ZtfNMAAAAAAPl9nQjBkHgNPFbMhWx73g`

@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 197700,
+  "num_followers": 197726,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Big Shouty",
-        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Big Shouty",
-      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Not Your Kind",
         "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
       },
@@ -615,54 +599,6 @@
       "duration_ms": 274340,
       "name": "Y'know",
       "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
-      },
-      "artists": [
-        {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
-        }
-      ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh"
-      },
-      "artists": [
-        {
-          "name": "Laura Jane Grace",
-          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "SuperNatural Possession",
-      "url": "https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -683,6 +619,70 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Big Shouty",
+        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
+      },
+      "artists": [
+        {
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Big Shouty",
+      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "SuperNatural Possession",
+      "url": "https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "What You Do for Love",
         "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 200934,
       "name": "What You Do for Love",
       "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Everything Dies",
-        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
       "artists": [
         {
-          "name": "Nervus",
-          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
         }
       ],
-      "duration_ms": 191009,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 137781,
       "name": "They / Them",
       "url": "https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Everything Dies",
+        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Sick Sad World",
+      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Every Now and Then",
         "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 240866,
       "name": "Miranda",
       "url": "https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mackerel's Funky Mission",
-        "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
-      },
-      "artists": [
-        {
-          "name": "\u0120ENN",
-          "url": "https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771"
-        }
-      ],
-      "duration_ms": 224440,
-      "name": "Mackerel's Funky Mission",
-      "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Stupid Rich Boy",
         "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 263546,
       "name": "Stupid Rich Boy",
       "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Mackerel's Funky Mission",
+        "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
+      },
+      "artists": [
+        {
+          "name": "\u0120ENN",
+          "url": "https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771"
+        }
+      ],
+      "duration_ms": 224440,
+      "name": "Mackerel's Funky Mission",
+      "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Severed Ties",
-        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
-      },
-      "artists": [
-        {
-          "name": "Pleasure Venom",
-          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Severed Ties",
-      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "I <3 90's dreamboy",
         "url": "https://open.spotify.com/album/1ieYTzaa6pmH3PY5L5IeN6"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 133520,
       "name": "Macaulay Sulkin'",
       "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Severed Ties",
+        "url": "https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ"
+      },
+      "artists": [
+        {
+          "name": "Pleasure Venom",
+          "url": "https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Severed Ties",
+      "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
     },
     {
       "added_at": "2024-05-22 11:00:00",

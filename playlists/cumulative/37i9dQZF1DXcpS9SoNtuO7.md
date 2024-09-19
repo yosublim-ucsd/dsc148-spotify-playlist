@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-632 songs - 2 day 6 hr 23 min
+633 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [\#59 UNISON SQUARE GARDENがずっと最高で特別な理由／90年代作品・再アニメ化ラッシュ！／真夏のボーナストラック怪談Ⅲ](https://open.spotify.com/episode/02ZUk8TUFBpX4bbADNyAcn) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 1:01:21 | 2024-08-14 |  |
 | [\#60 構想から1年…アニソンの枠を超えたポップミュージックの最前線“リスパレ！LIVE vol.1”感想戦！](https://open.spotify.com/episode/75Av3rC4ymCvKouvsaWGEH) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 42:07 | 2024-08-28 |  |
 | [\#61 『【推しの子】』2期、『逃げ上手の若君』、『しかのこ』…今夏話題のあれこれ総まとめ／「ToHeart」リメイクに震える男たち](https://open.spotify.com/episode/3BYmMM8rRp95otHg6bMunI) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 39:13 | 2024-09-11 |  |
+| [\#62解禁!!“リスアニ！LIVE 2025” 出し惜しみなし、出演ラインナップ20組・全解説スペシャル！](https://open.spotify.com/episode/0hyIuWlHo6TdlyR6eBL9YI) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:57 | 2024-09-18 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 |  |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |

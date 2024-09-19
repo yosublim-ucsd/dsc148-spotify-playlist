@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-283 songs - 14 hr 47 min
+288 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Whole New Shape](https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Weird Little Birthday](https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB) | 3:25 | 2024-06-23 | 2024-07-12 |
 | [A/B](https://open.spotify.com/track/6XSxFVLPizXBjvRj1LSLMa) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [A/B](https://open.spotify.com/album/6KSS1RgmJO0eqNglGiLrhU) | 4:57 | 2024-04-25 | 2024-05-16 |
 | [Aaron & Maria](https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 3:10 | 2024-04-12 | 2024-05-16 |
+| [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 |  |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2024-03-26 | 2024-05-16 |
 | [AIR BY BUS](https://open.spotify.com/track/1xiVKpE9xkNLCjQS9EttM8) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 1:30 | 2024-01-31 | 2024-03-10 |
@@ -86,6 +87,7 @@
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2024-02-24 | 2024-03-10 |
 | [Factory Direct](https://open.spotify.com/track/7dQ7yIBoSQjDVEt31G0nEF) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:00 | 2024-05-30 | 2024-07-12 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
+| [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
 | [For You](https://open.spotify.com/track/3ZPgyQzK9cwKMQzxDFiYRd) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/0TrqwVnAcuTtGU7VcRJFiJ) | 2:07 | 2024-07-12 | 2024-09-08 |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-01-30 | 2024-03-10 |
@@ -206,6 +208,7 @@
 | [Qi Velocity](https://open.spotify.com/track/4jwqOfpGkR0OdiASvDj4OB) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:27 | 2024-01-29 | 2024-03-10 |
 | [Quit Your Job, Runaway!](https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Quit Your Job, Runaway!](https://open.spotify.com/album/6027fNILSRndfej1CldyP4) | 2:46 | 2024-05-16 | 2024-07-12 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
+| [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
 | [Rude Girl on Rotation](https://open.spotify.com/track/4EhV8FoOtNW8QfUelPoDhF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Lady On The Cusp](https://open.spotify.com/album/018Fb0iL812xrL5tR6MOzX) | 2:40 | 2024-07-12 | 2024-09-08 |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2024-05-16 | 2024-07-12 |
@@ -277,6 +280,7 @@
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
+| [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 |  |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 | 2024-08-10 | 2024-09-08 |
@@ -290,6 +294,7 @@
 | [You're Too Young](https://open.spotify.com/track/7Lka4stiULYgZnEYxF9o65) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Here Comes...Rocketship](https://open.spotify.com/album/0gyvoicwrAC6ma7fkm1Vdf) | 2:39 | 2024-01-31 | 2024-03-10 |
 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 | 2024-08-05 | 2024-09-08 |
 | [Água](https://open.spotify.com/track/29ZUFEjGpprL595i3JEF50) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:39 | 2024-07-12 | 2024-09-08 |
+| [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 |  |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

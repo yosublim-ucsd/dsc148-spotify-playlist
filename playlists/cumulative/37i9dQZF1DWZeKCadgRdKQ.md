@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-747 songs - 1 day 15 hr 5 min
+751 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2019-06-19\* | 2022-11-18 |
 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 | 2020-10-08 | 2024-03-27 |
 | [Beginnings](https://open.spotify.com/track/2o41jDa4T0QKF9804tqyka) | [Melvin Barker](https://open.spotify.com/artist/5LHH9TZxgk0aHI38pfmqGy) | [Beginnings](https://open.spotify.com/album/2O2tJKSHMq8GtLaPcjHuwE) | 3:42 | 2022-12-19 | 2024-05-12 |
-| [behind the line](https://open.spotify.com/track/19jSDyt7tXlyQD8ezMNhds) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [behind the line](https://open.spotify.com/album/2UldJ69I6v0AJCCfdR5nXb) | 2:33 | 2024-07-14 |  |
+| [behind the line](https://open.spotify.com/track/19jSDyt7tXlyQD8ezMNhds) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [behind the line](https://open.spotify.com/album/2UldJ69I6v0AJCCfdR5nXb) | 2:33 | 2024-07-14 | 2024-09-19 |
 | [Behind the World](https://open.spotify.com/track/03VnvcUaAxCkmtk2YrTlZb) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 4:06 | 2019-06-19\* | 2020-08-07 |
 | [Between Planets](https://open.spotify.com/track/0CgRVRJbaVu2DKSbatJeln) | [Radical Blue](https://open.spotify.com/artist/5EXIwQ7w4WohTiKbmCqavs) | [Between Planets](https://open.spotify.com/album/4FE4fEl20wmVhtj9ZmU5Dq) | 2:54 | 2020-10-08 | 2021-11-19 |
 | [bewildered](https://open.spotify.com/track/3YszK66xCFReY90ys3jP6o) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [bewildered](https://open.spotify.com/album/2KZxDKcrrH3a9hdvgxfXNN) | 2:42 | 2022-07-27 | 2023-09-26 |
@@ -419,6 +419,7 @@
 | [Mývatn](https://open.spotify.com/track/4BLroGG5pTJwGui3vurqql) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Hvítserkur](https://open.spotify.com/album/5yEeoWMXD3Z1GNC6ADnhO6) | 2:39 | 2022-03-24 | 2023-09-26 |
 | [nameless wonder](https://open.spotify.com/track/745ZrIG7sLyZniaQBAgIdg) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [nameless wonder](https://open.spotify.com/album/5zNDRUqXMkfhDI4G2ESJSs) | 2:40 | 2022-09-30 | 2023-09-26 |
 | [Narrowed Eyes](https://open.spotify.com/track/6PQ5MG7nZpZRpSi19qb02l) | [Mattia Cupelli](https://open.spotify.com/artist/7aMMDRtoKETQscQlRZ7IFp) | [Narrowed Eyes](https://open.spotify.com/album/1O6kizJdIQbKb0TIqn4lUz) | 2:33 | 2019-06-19\* | 2019-08-13 |
+| [Navigate](https://open.spotify.com/track/0N0BMTZAiZmlfMdc9XGHkg) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Navigate](https://open.spotify.com/album/3LpBIXm0HKFxMzkNVjbLni) | 2:31 | 2024-09-18 |  |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2019-05-26\* | 2020-08-07 |
 | [neck of the woods](https://open.spotify.com/track/5SSvRUwuAGPz7vDEIcq4LA) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [neck of the woods](https://open.spotify.com/album/6bb1mYSKI8PPihbDKOR6yu) | 2:26 | 2022-08-23 | 2023-09-26 |
 | [Needless to Say](https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX) | [Elkoo](https://open.spotify.com/artist/0IBTVnAY3xjxeJagPZxVCk) | [Needless to Say](https://open.spotify.com/album/0vVDu2K6hAuu0VuJwkvSIn) | 2:13 | 2022-04-21 | 2024-05-12 |
@@ -596,6 +597,7 @@
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2021-12-17 | 2024-05-12 |
 | [Stormy Weather](https://open.spotify.com/track/7oXWUVH2t0UR11AvhhY8GQ) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Stormy Weather](https://open.spotify.com/album/1t7Ug7j82OYRPdvhzt1Ijg) | 2:30 | 2019-09-14 | 2023-04-22 |
 | [Strangeworks](https://open.spotify.com/track/0ADfdoBwxcK2eUuOQciInH) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 4:23 | 2019-05-26\* | 2019-06-19 |
+| [Subjectivity](https://open.spotify.com/track/1DOMV5qK3ClFmqEgByK4jz) | [Nelson Robert](https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp) | [Subjectivity](https://open.spotify.com/album/62qoVCVWuKwyP0HBVoFlbA) | 2:17 | 2024-09-18 |  |
 | [Subsolar Stars](https://open.spotify.com/track/5xLdU0RLYHRrNJAnHT51j1) | [We, the Navigators](https://open.spotify.com/artist/2yD5ItKzHsyWvV4PKWBNND) | [Subsolar Stars](https://open.spotify.com/album/3aGqvulNZdcHGJD3bdAqVc) | 2:44 | 2024-06-11 |  |
 | [Suhpratti](https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J) | [Parazal](https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49) | [Hum](https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK) | 3:06 | 2020-08-07 | 2023-04-29 |
 | [summer breeze](https://open.spotify.com/track/14CQdqVFygEls6szbfwuTL) | [The Dawning](https://open.spotify.com/artist/4ev14fn325vhWuykve3QtA) | [summer breeze](https://open.spotify.com/album/2dmrP48hhdCIoxeYJFMSVO) | 2:45 | 2024-08-02 |  |
@@ -661,6 +663,7 @@
 | [They Do Exist](https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [They Do Exist](https://open.spotify.com/album/48I1k8R1X9Psk5XTrVDT2u) | 4:49 | 2019-09-14 | 2019-12-31 |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2019-05-26\* | 2019-08-13 |
 | [they sink](https://open.spotify.com/track/4tnWEXeAgZWTRULCkJ6IGL) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:35 | 2019-06-19\* | 2022-11-25 |
+| [Thoughts of Fall](https://open.spotify.com/track/14xTHv8Vgp5f0k4jgJYLlQ) | [Theo Ember](https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR) | [Thoughts of Fall](https://open.spotify.com/album/5K5BKf3QtTTVwuCkkgaWAS) | 2:25 | 2024-09-18 |  |
 | [Threading](https://open.spotify.com/track/2DdVjSa2cA2BHP2V6Wp1BL) | [Guillaume Zipayo](https://open.spotify.com/artist/6usck2lMO0GZM41kcAlmNR) | [Threading](https://open.spotify.com/album/6LDXqRAXLAvYKt3x41QQPn) | 2:43 | 2024-05-11 |  |
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-06-19 |
 | [Threshold](https://open.spotify.com/track/41D8YdpWGl7mGUTyTE4r0g) | [Atlas](https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo) | [Threshold](https://open.spotify.com/album/2g6DNuDnZ7jxobGpIkmyeV) | 2:34 | 2024-06-11 |  |
@@ -750,6 +753,7 @@
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-08-30 | 2021-09-04 |
 | [you're just visiting](https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [you're just visiting](https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt) | 1:46 | 2023-01-11 | 2023-07-29 |
 | [Your First Light My Eventide](https://open.spotify.com/track/1wB11k8gqugetTqQmbmN9E) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons, Pt\. 1](https://open.spotify.com/album/75kov09rYLhJ3kHI81kWb8) | 5:10 | 2019-05-26\* | 2019-06-27 |
+| [Yours](https://open.spotify.com/track/4er9ut1kQT4Rrp9jJt05hx) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Yours](https://open.spotify.com/album/03d2dMOg0l2nqWsAz9tnfX) | 2:40 | 2024-09-18 |  |
 | [You’re So Very Far Away](https://open.spotify.com/track/6IhFOgNP7YeQ3PoI8kcRLn) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:59 | 2019-05-26\* | 2020-08-07 |
 | [Zenith](https://open.spotify.com/track/2X723VEq2bLRKj188wFNl2) | [We, the Navigators](https://open.spotify.com/artist/2yD5ItKzHsyWvV4PKWBNND) | [Zenith](https://open.spotify.com/album/1OHHeEpsoOVNDvVF9tFr24) | 2:55 | 2024-07-14 |  |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-10-15 | 2024-05-12 |

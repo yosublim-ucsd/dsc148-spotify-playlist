@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1338326,
+  "num_followers": 1338895,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "DON'T GROW UP TOO SOON",
         "url": "https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 233802,
       "name": "Spinnin These Blocks (feat. BJ The Chicago Kid, Maxo Kream & Paul Wall)",
       "url": "https://open.spotify.com/track/5G8y6DhzM6YMorFC0rh8RK"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "almost got me",
-        "url": "https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk"
-      },
-      "artists": [
-        {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "almost got me",
-      "url": "https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1527,22 +1511,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Eternal Now",
-        "url": "https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7"
+        "name": "almost got me",
+        "url": "https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk"
       },
       "artists": [
         {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
-        },
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
         }
       ],
-      "duration_ms": 205628,
-      "name": "The Eternal Now",
-      "url": "https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK"
+      "duration_ms": 183428,
+      "name": "almost got me",
+      "url": "https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1567,6 +1547,26 @@
       "duration_ms": 259533,
       "name": "Insert A (Mental Relaxation) / Medicine",
       "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "The Eternal Now",
+        "url": "https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "duration_ms": 205628,
+      "name": "The Eternal Now",
+      "url": "https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
-        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193721,
-      "name": "Menthol (Live) - Spotify Ten Version",
-      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Premium",
         "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
       },
@@ -1675,22 +1659,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "SLUMSDALE.",
-        "url": "https://open.spotify.com/album/2DosWT0SoinQSKpVw7XWhs"
+        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
+        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
       },
       "artists": [
         {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        },
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 199259,
-      "name": "SLUMSDALE.",
-      "url": "https://open.spotify.com/track/2ijlZVYLZZyKRAfC1xcr2R"
+      "duration_ms": 193721,
+      "name": "Menthol (Live) - Spotify Ten Version",
+      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1707,6 +1687,26 @@
       "duration_ms": 157201,
       "name": "DaLouIsBack",
       "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "SLUMSDALE.",
+        "url": "https://open.spotify.com/album/2DosWT0SoinQSKpVw7XWhs"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 199259,
+      "name": "SLUMSDALE.",
+      "url": "https://open.spotify.com/track/2ijlZVYLZZyKRAfC1xcr2R"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1747,30 +1747,6 @@
       "duration_ms": 106933,
       "name": "Funkin' Around",
       "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "25 Bricks",
-        "url": "https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U"
-      },
-      "artists": [
-        {
-          "name": "Tona",
-          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
-        },
-        {
-          "name": "Asun Eastwood",
-          "url": "https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9"
-        },
-        {
-          "name": "Rvlr Magz",
-          "url": "https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "25 Bricks",
-      "url": "https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1831,6 +1807,30 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "25 Bricks",
+        "url": "https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        },
+        {
+          "name": "Asun Eastwood",
+          "url": "https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9"
+        },
+        {
+          "name": "Rvlr Magz",
+          "url": "https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "25 Bricks",
+      "url": "https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1963,18 +1963,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Evil Cute",
-        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
       "artists": [
         {
-          "name": "Shunaji",
-          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
+          "name": "AzMattic",
+          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
         }
       ],
-      "duration_ms": 128914,
-      "name": "Evil Cute",
-      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
+      "duration_ms": 193450,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2003,26 +2011,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Morning Walk",
-        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
+        "name": "Evil Cute",
+        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
       },
       "artists": [
         {
-          "name": "AzMattic",
-          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        },
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+          "name": "Shunaji",
+          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
         }
       ],
-      "duration_ms": 193450,
-      "name": "Morning Walk",
-      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
+      "duration_ms": 128914,
+      "name": "Evil Cute",
+      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
     }
   ],
   "unique_name": "Jazz Rap",

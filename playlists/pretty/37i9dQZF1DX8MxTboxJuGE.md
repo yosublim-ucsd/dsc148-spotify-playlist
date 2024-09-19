@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,510 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,518 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Shaped by Fire](https://open.spotify.com/track/53x2Dean27JHy94loxcLV8) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/331DnqgmsWDJqH5IEZwnXQ) | 3:38 |
 | 75 | [Serpent Messiah](https://open.spotify.com/track/1jFTIXwJJkZCV1h4EYVBsb) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Serpent Messiah](https://open.spotify.com/album/3dVbvhK6esUysE2aNih19b) | 4:37 |
 
-Snapshot ID: `ZtHNmwAAAAD/T6dvIYn8wJxhuw8JmhIS`
+Snapshot ID: `ZtHNmwAAAAAwqHLev3NIro1YabhLijwZ`

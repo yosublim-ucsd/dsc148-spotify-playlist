@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 75969,
+  "num_followers": 75983,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
-        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
+        "name": "Peiling feat. \u00d8ystein Greni",
+        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "Klossmajor",
+          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
+        },
+        {
+          "name": "Greni",
+          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
         }
       ],
-      "duration_ms": 213386,
-      "name": "Til alle tider",
-      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
+      "duration_ms": 200000,
+      "name": "Peiling feat. \u00d8ystein Greni",
+      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -647,18 +651,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
-        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
+        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
+        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
       },
       "artists": [
         {
-          "name": "Anita Skorgan",
-          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
         }
       ],
-      "duration_ms": 193079,
-      "name": "Det begynner \u00e5 bli et liv",
-      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+      "duration_ms": 213386,
+      "name": "Til alle tider",
+      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -675,6 +679,22 @@
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
+        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
+      },
+      "artists": [
+        {
+          "name": "Anita Skorgan",
+          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
+        }
+      ],
+      "duration_ms": 193079,
+      "name": "Det begynner \u00e5 bli et liv",
+      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -719,26 +739,6 @@
       "duration_ms": 178116,
       "name": "Eg glemmer deg aldri",
       "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Peiling feat. \u00d8ystein Greni",
-        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
-      },
-      "artists": [
-        {
-          "name": "Klossmajor",
-          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
-        },
-        {
-          "name": "Greni",
-          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Peiling feat. \u00d8ystein Greni",
-      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Livstegn",
-        "url": "https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb"
-      },
-      "artists": [
-        {
-          "name": "Ola Bremnes",
-          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
-        }
-      ],
-      "duration_ms": 138053,
-      "name": "Mi Pia. Din Gutt.",
-      "url": "https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Aldri i livet",
         "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Ikkje sei det som det er",
-        "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
+        "name": "Livstegn",
+        "url": "https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Ola Bremnes",
+          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
         }
       ],
-      "duration_ms": 161067,
-      "name": "Ikkje sei det som det er",
-      "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
+      "duration_ms": 138053,
+      "name": "Mi Pia. Din Gutt.",
+      "url": "https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -859,6 +843,22 @@
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Ikkje sei det som det er",
+        "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 161067,
+      "name": "Ikkje sei det som det er",
+      "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
     }
   ],
   "unique_name": "Norske viser",

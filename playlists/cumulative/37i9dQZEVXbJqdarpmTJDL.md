@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,777 songs - 3 day 22 hr 5 min
+1,778 songs - 3 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Acropoli](https://open.spotify.com/track/3nYbyt3ZGAQfbLmzZPshZO) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Nos](https://open.spotify.com/album/0XlORSbgngaZZaKPvJbv3d) | 2:58 | 2021-07-09 | 2021-07-10 |
 | [ADRENALINA](https://open.spotify.com/track/0v4BTk3Vlhmfduww4WFOwA) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [ADRENALINA](https://open.spotify.com/album/5llOuE82CLyPvoW9wzM1pb) | 3:39 | 2022-08-12 | 2023-04-30 |
 | [Aeraki \- To Thiliko](https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Aeraki \(To Thiliko\)](https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv) | 3:11 | 2021-07-09 | 2022-01-15 |
-| [Aeroplano](https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Aeroplano](https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU) | 3:00 | 2024-05-31 |  |
+| [Aeroplano](https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Aeroplano](https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU) | 3:00 | 2024-05-31 | 2024-09-19 |
 | [Aerostato](https://open.spotify.com/track/07lEWtE1uxsemPgkBmQx6I) | [Cilia Katrali](https://open.spotify.com/artist/3zlHrTvjiDIL22SZeVhsXy) | [Aerostato](https://open.spotify.com/album/1Tfup7JlpDWZdueNzPBovc) | 2:36 | 2024-05-15 | 2024-05-17 |
 | [Afise Me Na Figw](https://open.spotify.com/track/2FUiCfOsoJ0RZx94NpYznM) | [Novel 729](https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo), [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Sumo Beats](https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF) | [Vioma](https://open.spotify.com/album/4ZzWlvwf2s2NfjdXM23aUv) | 5:58 | 2024-03-16 | 2024-03-23 |
 | [Afou Se Vrika De S' Afino \- \(Part 2 \- Fos\)](https://open.spotify.com/track/0yRUYU3DF2znFYgi7oUGx2) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [22](https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC) | 3:32 | 2022-08-01 | 2022-10-22 |
@@ -548,6 +548,7 @@
 | [Fck Em All](https://open.spotify.com/track/1F03Wa1Q9wZUqAvRFuK7NJ) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Millennials](https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc) | 3:30 | 2024-03-30 | 2024-04-06 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-07 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-09 |
+| [Feggari](https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [SEXERO](https://open.spotify.com/album/5jzmi9mJCWFkXyXPw6rZO8) | 2:17 | 2024-09-18 |  |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2022-12-28 |
 | [FEMINISTIS](https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [FEMINISTIS](https://open.spotify.com/album/1YlmZWvyLHLJucCvxuVkPc) | 3:07 | 2023-08-25 | 2023-12-21 |
 | [Fendi](https://open.spotify.com/track/5CZbxKM8Ibh3RmfB7xFAzm) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Fendi](https://open.spotify.com/album/4GNPXGhviRoE2VkawAEr7z) | 3:30 | 2021-04-03 | 2021-04-04 |

@@ -20397,6 +20397,24 @@
     },
     {
       "album": {
+        "name": "Our Light",
+        "url": "https://open.spotify.com/album/5KoRMii4p6PxSZVblslk2d"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60247,
+      "name": "Our Light",
+      "url": "https://open.spotify.com/track/3FC1uK5HktLKW6U7Ac3IZb"
+    },
+    {
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/65yeCVnowVFBRZ2wAedAZG"
       },

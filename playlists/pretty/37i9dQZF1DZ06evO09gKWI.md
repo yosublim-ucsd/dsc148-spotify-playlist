@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 42 | [Chef, Chef, Chef](https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:46 |
 | 43 | [Eu Avisei](https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slim Beats Beat](https://open.spotify.com/artist/1Fdh9nMoTOrtGmlZj9r07V) | [Eu Avisei](https://open.spotify.com/album/5ejkKJZfdzJxNFQGVn5pf9) | 5:18 |
 
-Snapshot ID: `Zud1AAAAAACfJVgrsM8JGIKbU5p6X9oy`
+Snapshot ID: `Zud1AAAAAAB6bL/INKr1bpjYjFc57h3t`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1nTCV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1nTCV2)
 
-### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
+### [This Is Ryan Adams ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This Is Ryan Adams\. Sus mejores éxitos, todos en una playlist.
+> This is Ryan Adams\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,577 likes - 53 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,584 likes - 53 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 52 | [Pearls On A String](https://open.spotify.com/track/7cKps79ZK38xhAMFtsDtbm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:23 |
 | 53 | [War Pigs \- Live from Birmingham, UK\. 2023](https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [War Pigs \(Live from Birmingham, UK\. 2023\)](https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq) | 3:59 |
 
-Snapshot ID: `Zud1AAAAAABiuuVnqFZJPBi0wz6YlWgD`
+Snapshot ID: `Zud1AAAAAADBKU8rM4FDZ6NGnvWn/0xF`

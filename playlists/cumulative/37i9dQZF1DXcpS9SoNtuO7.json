@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3417503,
+      "name": "#62\u89e3\u7981!!\u201c\u30ea\u30b9\u30a2\u30cb\uff01LIVE 2025\u201d \u51fa\u3057\u60dc\u3057\u307f\u306a\u3057\u3001\u51fa\u6f14\u30e9\u30a4\u30f3\u30ca\u30c3\u30d720\u7d44\u30fb\u5168\u89e3\u8aac\u30b9\u30da\u30b7\u30e3\u30eb\uff01",
+      "url": "https://open.spotify.com/episode/0hyIuWlHo6TdlyR6eBL9YI"
+    },
+    {
+      "album": {
         "name": "SUB MACHINE, BEST MACHINE (Best Selected Edition)",
         "url": "https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J"
       },

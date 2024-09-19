@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,214 likes - 53 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,276 likes - 53 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 | 42 | [Piano Sonata No\. 14 in C\-sharp minor, Op\. 27, No\. 2, "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/24t1mpJc8FTPAkYjFdf9NQ) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Beethoven: The Complete Piano Sonatas](https://open.spotify.com/album/014wV6KWcsn01SiYIYVJeg) | 5:13 |
 | 43 | [Öldurót](https://open.spotify.com/track/6lv4VwLZsI4pBcBj19cudZ) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Atli Örvarsson](https://open.spotify.com/artist/2fqgzLpPOMc7GMw9qcOfQT), [SinfoniaNord](https://open.spotify.com/artist/2wyAa4WC10hLoq4ye80EUd) | [Island Songs](https://open.spotify.com/album/5CcftaBCfWfGMRnF2MwDic) | 4:26 |
 | 44 | [Prelude in B Minor, BWV 855a](https://open.spotify.com/track/4J7WNyKIT03lSMBPIL5olG) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexander Siloti](https://open.spotify.com/artist/5XZeeyN32bUVpJB7chM6fL), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Inside Tracks: The Mix Tape](https://open.spotify.com/album/2H9A3Ob8d1NObBNaChF6rZ) | 3:18 |
-| 45 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/2zVNx2StK7G8Ip1ilWhlAk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Study: 111 Morceaux Classiques Pour Travailler \- French](https://open.spotify.com/album/4dJLlMtkbfnYxqJU1Ef1CA) | 5:32 |
+| 45 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/2zVNx2StK7G8Ip1ilWhlAk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Study: 111 Morceaux Classiques Pour Travailler \(French\)](https://open.spotify.com/album/4dJLlMtkbfnYxqJU1Ef1CA) | 5:32 |
 | 46 | [15 Improvisations, FP 170: No\. 13 in A Minor](https://open.spotify.com/track/2gypgzZAwtMG8sbkZ0GEVR) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Lucille Chung](https://open.spotify.com/artist/1mH857zNdpyw98xFlQvGBc) | [Poulenc: Works for Piano Solo and Duo](https://open.spotify.com/album/3v6G8pb0yn5MCMRxlNBmPm) | 2:23 |
 | 47 | [Follower](https://open.spotify.com/track/4P6pUEL57ZUJElgzM1EQE2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Follower](https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya) | 5:03 |
 | 48 | [Crisantemi](https://open.spotify.com/track/541xQgpeXQOsw696DYlXn5) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Brodsky Quartet](https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf) | [In the South](https://open.spotify.com/album/0H12Wm4LuQuGs2S9C5cBho) | 7:22 |

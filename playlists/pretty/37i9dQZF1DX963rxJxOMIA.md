@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Maisak y EL FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,568 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,645 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [Deseándote](https://open.spotify.com/track/5Vs8sN2nybAETsTF8crpYD) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Deseándote](https://open.spotify.com/album/3YQ4tM0jt6aKIn2JN1P99u) | 3:03 |
 | 60 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 
-Snapshot ID: `ZtqMFAAAAABeB0BMuvu6+UcwNnT8itbP`
+Snapshot ID: `ZtqMFAAAAACiiGWESC19Di7qekNLoWQE`

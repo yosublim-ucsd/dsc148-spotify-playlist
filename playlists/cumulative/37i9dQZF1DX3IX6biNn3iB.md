@@ -2,7 +2,7 @@
 
 ### [Our Voice](https://open.spotify.com/playlist/37i9dQZF1DX3IX6biNn3iB)
 
-> Voices that are elevating nuestra cultura\. Jhayco, Estevie, Xiuhtezcatl & ERRE en portada.
+> Voices that are elevating nuestra cultura\. JHAYCO en portada.
 
 50 songs - 2 hr 35 min
 

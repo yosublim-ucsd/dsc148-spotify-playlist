@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92186,
+  "num_followers": 92187,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Lagt kort ligger",
         "url": "https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
       },
       "artists": [
         {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
         }
       ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Tar det upp i topp",
+        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Tar det upp i topp",
+      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
         "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 237508,
       "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
       "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Tar det upp i topp",
-        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Tar det upp i topp",
-      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Tiden f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "Tiden f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Alltid f\u00f6r alltid",
         "url": "https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO"
       },
@@ -1295,38 +1311,6 @@
       "duration_ms": 200857,
       "name": "Alltid f\u00f6r alltid",
       "url": "https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
-      },
-      "artists": [
-        {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
-        }
-      ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 299861,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1347,6 +1331,38 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Pl\u00e5ster",
+        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "Pl\u00e5ster",
+      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+      },
+      "artists": [
+        {
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Tiden f\u00f6rsvinner",
-        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "Tiden f\u00f6rsvinner",
-      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 181428,
       "name": "Home",
       "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "All v\u00e5r dans",
+        "url": "https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "All v\u00e5r dans",
+      "url": "https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 297895,
       "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
       "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "All v\u00e5r dans",
-        "url": "https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "All v\u00e5r dans",
-      "url": "https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv"
     }
   ],
   "unique_name": "Aktuellt",

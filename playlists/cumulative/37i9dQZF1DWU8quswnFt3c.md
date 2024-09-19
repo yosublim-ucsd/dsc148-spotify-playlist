@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: Natalia Nykiel.
+> Listen to women at full volume from across the world\. Cover: Maria Becerra
 
-2,059 songs - 4 day 17 hr 49 min
+2,060 songs - 4 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [African Fever](https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:27 | 2021-12-11 | 2022-01-06 |
 | [Afromantik](https://open.spotify.com/track/1Ve0m4eghzmDS7AsST9757) | [Marga Mbande](https://open.spotify.com/artist/6HVtYOLn1Ap6DJJ1aOg43s) | [Afromantik](https://open.spotify.com/album/4dRuaBITozwhYG1lMitSLL) | 2:58 | 2023-10-11 | 2023-10-19 |
 | [Agapi Ypervoliki \- 2023 Version](https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [Agapi Ypervoliki \(2023 Version\)](https://open.spotify.com/album/1cFK4HC3ffxOZosr1TrXtm) | 3:23 | 2023-11-29 | 2024-01-11 |
+| [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 | 2024-09-18 |  |
 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 | 2023-01-04 | 2023-02-02 |
 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-06 | 2023-10-05 |
 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 | 2023-01-05 |
@@ -1819,7 +1820,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-05 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-04-03 | 2024-04-19 |
 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 | 2022-03-08 | 2023-01-05 |
-| [We Girls](https://open.spotify.com/track/0JlQ9LybFRSU96B1wESXLI) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Atom](https://open.spotify.com/album/73miKBOEh8sIZw5FoxjzmK) | 2:05 | 2024-09-04 |  |
+| [We Girls](https://open.spotify.com/track/0JlQ9LybFRSU96B1wESXLI) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Atom](https://open.spotify.com/album/73miKBOEh8sIZw5FoxjzmK) | 2:05 | 2024-09-04 | 2024-09-19 |
 | [We Should Get Lost](https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH1](https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV) | 2:08 | 2023-03-01 | 2023-04-06 |
 | [we're gonna die anyway!!!](https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [we're gonna die anyway!!!](https://open.spotify.com/album/3BZzDyp6uLeAvhFp4XbC5T) | 2:32 | 2023-04-05 | 2023-05-04 |
 | [Weißes Haus](https://open.spotify.com/track/5OXgrcI2K6erTLMTlEJ23H) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weißes Haus](https://open.spotify.com/album/76MbuCHFar5NafVYMqVopm) | 2:48 | 2023-08-02 | 2023-09-07 |

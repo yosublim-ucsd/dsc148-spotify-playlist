@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-818 songs - 1 day 22 hr 41 min
+819 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [BINARY BLOOD](https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [BINARY BLOOD](https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj) | 2:37 | 2024-02-21 | 2024-05-11 |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
+| [Black Sheep](https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Black Sheep](https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs) | 2:54 | 2024-09-18 |  |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 | 2022-10-27 |
 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 | 2023-06-05 | 2023-09-01 |
 | [Blinding](https://open.spotify.com/track/7EumtlWTL8XRzS0ZEDoE4i) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z) | [Blinding](https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS) | 3:43 | 2023-05-05 | 2023-07-29 |

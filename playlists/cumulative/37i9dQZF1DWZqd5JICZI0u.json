@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 192228,
       "name": "Choices",
       "url": "https://open.spotify.com/track/0NbAwRGkpCrY8FZsH6Cf3H"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 183353,
       "name": "Eyes of Redemption",
       "url": "https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 164731,
       "name": "Forms",
       "url": "https://open.spotify.com/track/3JpsWjYzqrQLuwx4o0OSic"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 143500,
       "name": "Free",
       "url": "https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ"
@@ -4824,6 +4824,24 @@
       "duration_ms": 188571,
       "name": "Lightness",
       "url": "https://open.spotify.com/track/16Cu5Xj80oiHuA5ELaenKY"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/5PmCvEtXlXFsvau5BbEDxA"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/7HLe9HxlzNca3Z4EhbBOc8"
     },
     {
       "album": {
@@ -6732,7 +6750,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 179934,
       "name": "Perfecta paz",
       "url": "https://open.spotify.com/track/61ZSs7yxiY93XMJ33h4mWK"
@@ -7693,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/12aOUJQ83vBLB9QriV8tVH"
+      },
+      "artists": [
+        {
+          "name": "Nebuu",
+          "url": "https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1gLUs9sgZSXMB5HgoZqT83"
+    },
+    {
+      "album": {
         "name": "Sangre",
         "url": "https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar"
       },
@@ -7758,7 +7794,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 150625,
       "name": "Schwerelos",
       "url": "https://open.spotify.com/track/2bDvPs9HTk7Gxq24VO2lBJ"
@@ -7848,7 +7884,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 197561,
       "name": "Self Restore",
       "url": "https://open.spotify.com/track/6cjyZPz3EBwCIprOttjj1W"
@@ -8352,7 +8388,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 199889,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/27vl9M2Wz4t1cLeydy1yyd"
@@ -9652,7 +9688,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 184250,
       "name": "Ut Ameris, Amabilis Esto",
       "url": "https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 ### [This Is Pauline Oliveros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cRKhO)
 
-> This is Pauline Oliveros\. Todos os maiores hits em uma só playlist.
+> This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658 likes - 50 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 660 likes - 50 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 | 49 | [Striations](https://open.spotify.com/track/1lYAR84S7YGcxI8HGGDItr) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [The Roots of the Movement](https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9) | 14:45 |
 | 50 | [Altamirage V](https://open.spotify.com/track/62hehnD0OcI7pCM26KZGN9) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [James Ilgenfritz](https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE) | [Altamirage](https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl) | 3:13 |
 
-Snapshot ID: `Zud1AAAAAADmWFaOmPQtqXFCXbhhR4Cc`
+Snapshot ID: `Zud1AAAAAAA0ZJOqMx9N0I/IcMqgzzFT`

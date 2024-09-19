@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761 likes - 131 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 131 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 98 | [He Paid It All](https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Encounter](https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS) | 4:00 |
 | 99 | [Where Would I Be? \(feat\. Dante Bowe, Ryan Ofei & Brandon Lake\)](https://open.spotify.com/track/5zocauo5a4DJ01IA47OJGH) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:07 |
 | 100 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
-| 101 | [It's a Fire \(Come\)](https://open.spotify.com/track/4AGP1Cdc64VZpWTxkfHaJQ) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 5:13 |
-| 102 | [Home](https://open.spotify.com/track/6W2zW8pMHi9UJHhEmzQ6rY) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:04 |
+| 101 | [Home](https://open.spotify.com/track/6W2zW8pMHi9UJHhEmzQ6rY) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:04 |
+| 102 | [It's a Fire \(Come\)](https://open.spotify.com/track/4AGP1Cdc64VZpWTxkfHaJQ) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 5:13 |
 | 103 | [just me](https://open.spotify.com/track/6QOiI0kvrtaAVSaqppv73q) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:04 |
 | 104 | [Just A Man](https://open.spotify.com/track/6QQ7XXL8SziyZhKgbJ0Daa) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Just A Man](https://open.spotify.com/album/2sPScDrk3M7ONCQ3984IVi) | 3:36 |
 | 105 | [love is in the air](https://open.spotify.com/track/3qbaSpC8DRPTDR9xShNMIR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 4:06 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbcaqgAAAABtLSU6DBWwUOiqaqUINAbc`
+Snapshot ID: `AbcgSgAAAABhtL493ITp/De/WtqXR4d6`

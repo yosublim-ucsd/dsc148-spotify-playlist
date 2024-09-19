@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/5IZjhAtil5TzQSxSt6hHiR"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/2AReybVlJuRmHyA08sx1XC"
+    },
+    {
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
@@ -8270,7 +8288,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 253658,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
@@ -9796,7 +9814,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
@@ -14614,6 +14632,28 @@
       "duration_ms": 133846,
       "name": "Vaag",
       "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
+    },
+    {
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        },
+        {
+          "name": "Ramos.",
+          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187810,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
     },
     {
       "album": {

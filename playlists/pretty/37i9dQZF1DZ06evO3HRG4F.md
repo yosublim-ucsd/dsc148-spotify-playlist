@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
+> This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,768 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Menor de Edad](https://open.spotify.com/track/1grfsGcGQq3Unosd0KIvDY) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:06 |
 | 50 | [De Que el Amor Apesta Apesta \- En Vivo](https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7) | 5:01 |
 
-Snapshot ID: `Zud1AAAAAADkGj8PUrNg6a2kiK0MEElE`
+Snapshot ID: `Zud1AAAAAAAXY4O+Dpk8T4Q8Ryj0VCb5`

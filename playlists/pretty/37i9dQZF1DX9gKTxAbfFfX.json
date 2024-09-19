@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 752662,
+  "num_followers": 752716,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "Goteras",
         "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 216450,
       "name": "Goteras",
       "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -607,18 +607,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+        "name": "YOTULOKO",
+        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+      "duration_ms": 213699,
+      "name": "YOTULOKO",
+      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -639,22 +643,18 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "YOTULOKO",
-        "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
       "artists": [
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 213699,
-      "name": "YOTULOKO",
-      "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "La Rizos [Dime Si Le Comento a la Pura]",
-        "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
-      },
-      "artists": [
-        {
-          "name": "Las 2K",
-          "url": "https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox"
-        },
-        {
-          "name": "Chardo Chardemio",
-          "url": "https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg"
-        },
-        {
-          "name": "Melody Records International",
-          "url": "https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM"
-        }
-      ],
-      "duration_ms": 218119,
-      "name": "La Rizos [Dime Si Le Comento a la Pura]",
-      "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "LA MARINA STA MORENA",
         "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "La Rizos [Dime Si Le Comento a la Pura]",
+        "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
+      },
+      "artists": [
+        {
+          "name": "Las 2K",
+          "url": "https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox"
+        },
+        {
+          "name": "Chardo Chardemio",
+          "url": "https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg"
+        },
+        {
+          "name": "Melody Records International",
+          "url": "https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM"
+        }
+      ],
+      "duration_ms": 218119,
+      "name": "La Rizos [Dime Si Le Comento a la Pura]",
+      "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
     },
     {
       "added_at": "2024-09-02 07:47:14",

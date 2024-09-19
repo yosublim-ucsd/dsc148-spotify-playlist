@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,880 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,901 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 30 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 31 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
 | 32 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
-| 33 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
+| 33 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 |
 | 34 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
-| 35 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
-| 36 | [Toca Me \- Clubmix](https://open.spotify.com/track/4OGrLEjSTGoc0dSNE49w49) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca Me](https://open.spotify.com/album/0rurUxYPrhh8DlTEFcvi4Q) | 5:46 |
+| 35 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
+| 36 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
 | 37 | [Airwave \- Album Cut](https://open.spotify.com/track/06h6Y3nklQ8NgRwemZlQDS) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 4:59 |
 | 38 | [AmokK \- Radio Edit](https://open.spotify.com/track/2ozX5ETDNn7IhiNE5jodfZ) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:53 |
 | 39 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |

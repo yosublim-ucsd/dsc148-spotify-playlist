@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kirk Franklin & The Family, Tasha Page\-Lockhart, Donald Lawrence & Company and more
+> With LaShun Pace, Tasha Page\-Lockhart, Marvin Winans and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 224 likes - 50 songs - 4 hr 4 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [More Abundantly](https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC) | [Ricky Dillard & the New Generation Chorale](https://open.spotify.com/artist/7aKGwoTYBjFT1dccw1TVua) | [The Promise](https://open.spotify.com/album/5WkM8ZewHX0tnX94aSeaSF) | 4:10 |
 | 50 | [Oh Lord How Excellent Is Thy Name](https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI) | [The Blue Gospel Singers](https://open.spotify.com/artist/64G3hsfewn9BJMXJkEwr0P), [Mario Paduano](https://open.spotify.com/artist/6Ego0TLyQOW1zZraZUTfZw) | [The Blue Gospel Singers: A Decade of Us](https://open.spotify.com/album/5KwpwOQrbtXW0CQ0YoWXJ3) | 4:38 |
 
-Snapshot ID: `Zuo/5AAAAADmsgwpycmdofnEWfKHKGq/`
+Snapshot ID: `ZuuSLwAAAACoZ0s98tfLmYnuzs9u1Ra8`

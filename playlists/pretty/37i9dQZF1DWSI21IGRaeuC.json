@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 39713,
+  "num_followers": 39771,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Spring Girl",
         "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Wyle Up",
+        "url": "https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Wyle Up",
+      "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "SIMPLE ONE",
         "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Wyle Up",
-        "url": "https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX"
+        "name": "Don't Stahp (Edit)",
+        "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
       },
       "artists": [
         {
-          "name": "ENNE (BR)",
-          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
         }
       ],
-      "duration_ms": 150644,
-      "name": "Wyle Up",
-      "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
+      "duration_ms": 228750,
+      "name": "Don't Stahp - Edit",
+      "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 384000,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Don't Stahp (Edit)",
-        "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
-      },
-      "artists": [
-        {
-          "name": "Traumer",
-          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Don't Stahp - Edit",
-      "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Dolce Far Niente",
-        "url": "https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww"
+        "name": "Space Bump",
+        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
       "artists": [
         {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        },
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
         }
       ],
-      "duration_ms": 481343,
-      "name": "Courtyard",
-      "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
+      "duration_ms": 167004,
+      "name": "Space Bump",
+      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Space Bump",
-        "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        },
-        {
-          "name": "Deeft",
-          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
         }
       ],
-      "duration_ms": 167004,
-      "name": "Space Bump",
-      "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+      "duration_ms": 481343,
+      "name": "Courtyard",
+      "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
     },
     {
       "added_at": "2024-09-13 04:01:00",

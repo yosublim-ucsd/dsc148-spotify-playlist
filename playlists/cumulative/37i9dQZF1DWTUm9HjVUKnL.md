@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,203 songs - 3 day 1 hr 6 min
+1,206 songs - 3 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/44wKiaTHsXtoTLSayCRSJR) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/0nBKg7hExs1PYBebT6chBJ) | 5:21 | 2023-10-02 | 2024-04-19 |
 | [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7AhhqaHd3ad4qgr6GZ39sg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 5:21 | 2022-01-19 |  |
 | [El Rey de la Popola \- Spotify Singles](https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:30 | 2022-01-19 |  |
+| [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \- Spotify Singles](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-18 |  |
 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 | 2022-01-19 |  |
 | [Electricity](https://open.spotify.com/track/0BuXUiCAw4aohFll9q6MEU) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Spotify Singles](https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD) | 2:30 | 2022-01-19 |  |
 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 | 2022-01-19 |  |
@@ -943,6 +944,7 @@
 | [Softly \- Spotify Singles](https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:32 | 2022-03-29 |  |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-03-31 |  |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 | 2022-01-19 |  |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-18 |  |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-01 |  |
 | [Something About Us \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7GdwIsiVLKrsvwFsdBK9Cy) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 4:03 | 2022-01-19 |  |
 | [Something Wild \(Acoustic\) \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/4s7Zym0G4Hb6apPL3dOqmV) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Spotify Singles](https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC) | 2:45 | 2022-01-19 |  |
@@ -1107,6 +1109,7 @@
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2022-01-19 |  |
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2022-01-19 |  |
 | [Via \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7I773v0HONs4p8V0CgWiY5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:43 | 2022-01-19 |  |
+| [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \- Spotify Singles](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-18 |  |
 | [Vil Du \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/400bxfCPbRlojar8imqNIF) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 2:45 | 2022-01-19 |  |
 | [Viva La Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6X1Z4Ng3lpNfkNajCSxElD) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Spotify Singles](https://open.spotify.com/album/6ludHUjZLwLPfYji0oMOvo) | 4:16 | 2022-01-19 |  |
 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 | 2022-01-19 |  |

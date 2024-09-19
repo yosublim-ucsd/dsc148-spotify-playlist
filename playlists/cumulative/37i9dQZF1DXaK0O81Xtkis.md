@@ -4,7 +4,7 @@
 
 > make it pop! cover: Fly By Midnight
 
-1,124 songs - 2 day 7 hr 54 min
+1,125 songs - 2 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-29 | 2022-02-26 |
 | [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 | 2023-03-11 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2022-02-26 |
-| [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 |  |
+| [Daisies](https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Daisies](https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy) | 2:22 | 2024-07-19 | 2024-09-19 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2024-08-17 |
 | [daisies](https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [daisies](https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx) | 2:04 | 2023-08-11 | 2023-11-25 |
 | [Damn, I miss you](https://open.spotify.com/track/0U5ok644ffKGSKW8HaaZsX) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Damn, I miss you](https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ) | 2:40 | 2023-10-20 | 2024-01-05 |
@@ -1103,6 +1103,7 @@
 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 | 2023-09-29 | 2023-11-25 |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-13 | 2023-01-28 |
 | [Worlds Unluckiest Guy](https://open.spotify.com/track/2mS2mLKQUqmP3i2I852i1M) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Worlds Unluckiest Guy](https://open.spotify.com/album/4VcdfESFWY9Ay5f9CrQ6cS) | 4:05 | 2022-01-14 | 2022-01-29 |
+| [worst case scenario](https://open.spotify.com/track/3WrqBnovxXQCnFdeQ4buqY) | [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [worst case scenario](https://open.spotify.com/album/5a3aE0vTeCDSogMWpTFvJQ) | 2:15 | 2024-09-18 |  |
 | [WORTH NOTHING](https://open.spotify.com/track/2BruPhzgTpJwPH9KUg0XcL) | [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM), [TWISTED](https://open.spotify.com/artist/4WAOiUgt6CVTUl6D99kph6) | [WORTH NOTHING](https://open.spotify.com/album/36SXCfED2wv5zUA06xawpC) | 2:33 | 2024-02-23 | 2024-03-30 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-04-15 |
 | [wreck](https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx) | [Dalton Mauldin](https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8) | [wreck](https://open.spotify.com/album/2RS3dR9XAsMRbglQ6azUT9) | 3:14 | 2024-01-05 | 2024-02-17 |

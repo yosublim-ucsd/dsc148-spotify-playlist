@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30200,
+  "num_followers": 30204,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPY6mNV5X+WBlppHpyhRWi5z5UZb3E",
+  "snapshot_id": "AAAPaSNbxuZ2H6cqb9Rv+DxJ8u66UfuJ",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,26 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-09-18 16:20:13",
+      "album": {
+        "name": "Petit Boy",
+        "url": "https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Petit Boy",
+      "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
     },
     {
       "added_at": "2024-09-13 12:52:10",
@@ -107,6 +127,34 @@
       "duration_ms": 245163,
       "name": "Green",
       "url": "https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v"
+    },
+    {
+      "added_at": "2024-09-18 16:20:38",
+      "album": {
+        "name": "Salami Live at 2131 North Kacey Street",
+        "url": "https://open.spotify.com/album/5cCjXLC4g27F75oBa5Sg4A"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Flanafi",
+          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
+        },
+        {
+          "name": "Tone Whitfield",
+          "url": "https://open.spotify.com/artist/3rFywXk12krXVmxWJpfvo5"
+        },
+        {
+          "name": "Nazir Ebo",
+          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
+        }
+      ],
+      "duration_ms": 530363,
+      "name": "D I M C O L A R E P R I S E",
+      "url": "https://open.spotify.com/track/6rJIVu8JB1VidJByUq9X5s"
     },
     {
       "added_at": "2024-08-30 15:15:35",
@@ -691,42 +739,6 @@
       "duration_ms": 281106,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/3SOwkDDyiegwk2QesTLWxV"
-    },
-    {
-      "added_at": "2024-06-25 09:40:27",
-      "album": {
-        "name": "CHROMA 004",
-        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 289054,
-      "name": "CHROMA 004 ROLA",
-      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
-    },
-    {
-      "added_at": "2024-06-20 17:13:04",
-      "album": {
-        "name": "luv stuck",
-        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "luv stuck",
-      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

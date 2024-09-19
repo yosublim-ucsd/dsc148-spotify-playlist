@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 24370,
+  "num_followers": 24378,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-09-16 07:38:44",
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-09-16 07:38:44",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2024-09-16 07:38:44",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2024-09-16 07:38:44",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-16 07:38:44",
       "album": {
-        "name": "Zanaka",
-        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
-    },
-    {
-      "added_at": "2024-09-16 07:38:44",
-      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-09-16 07:38:44",
       "album": {
-        "name": "Rim Tim Tagi Dim",
-        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
+        "name": "Zanaka",
+        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
       },
       "artists": [
         {
-          "name": "Baby Lasagna",
-          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 179062,
-      "name": "Rim Tim Tagi Dim",
-      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
+      "duration_ms": 249533,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
     },
     {
       "added_at": "2024-09-16 07:38:44",
@@ -887,6 +871,22 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2024-09-16 07:38:44",
+      "album": {
+        "name": "Rim Tim Tagi Dim",
+        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
+      },
+      "artists": [
+        {
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+        }
+      ],
+      "duration_ms": 179062,
+      "name": "Rim Tim Tagi Dim",
+      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
     },
     {
       "added_at": "2024-09-16 07:38:44",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-09-16 07:38:44",
       "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
-      },
-      "artists": [
-        {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-09-16 07:38:44",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 114392,
       "name": "Loca",
       "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
+    },
+    {
+      "added_at": "2024-09-16 07:38:44",
+      "album": {
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+      },
+      "artists": [
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
       "added_at": "2024-09-16 07:38:44",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-09-16 07:38:44",
       "album": {
+        "name": "\u00d6rd\u00f6g N\u00f3rika",
+        "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 123125,
+      "name": "\u00d6rd\u00f6g N\u00f3rika",
+      "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
+    },
+    {
+      "added_at": "2024-09-16 07:38:44",
+      "album": {
         "name": "IGAZIAK\u00c9RT",
         "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
       },
@@ -1467,26 +1483,6 @@
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
-    },
-    {
-      "added_at": "2024-09-16 07:38:44",
-      "album": {
-        "name": "kelet",
-        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Signo",
-          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
-        }
-      ],
-      "duration_ms": 207818,
-      "name": "kelet",
-      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
     }
   ],
   "unique_name": "Most Men\u0151",

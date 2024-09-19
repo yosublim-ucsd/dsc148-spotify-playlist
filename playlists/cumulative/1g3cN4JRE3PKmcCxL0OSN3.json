@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/3IIJTTfYV4GU9ST4GbeGhg"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C"
+    },
+    {
+      "album": {
         "name": "The Chisa Years 1965-1975 (Rare and Unreleased)",
         "url": "https://open.spotify.com/album/3GWyP7C2a9aydvTavoMtgZ"
       },

@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 233197,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/7DNiQFrYEPSHOzENYGJS7u"
@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Call Me Your Angel",
+        "url": "https://open.spotify.com/album/4Vxtc23QtELNlDuAO72QH3"
+      },
+      "artists": [
+        {
+          "name": "Ariella",
+          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219084,
+      "name": "Call Me Your Angel",
+      "url": "https://open.spotify.com/track/2ZM3OWnNvj5CiSOSiXzgqy"
+    },
+    {
+      "album": {
         "name": "call my name",
         "url": "https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 188800,
       "name": "Caramel Midnight",
       "url": "https://open.spotify.com/track/214abfsbFiou2EuvMSxEIO"
@@ -7808,7 +7826,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 226849,
       "name": "Firing Sideways",
       "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
@@ -8791,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "glass house",
+        "url": "https://open.spotify.com/album/0F6N7R0VpH4NebjpQGgzsO"
+      },
+      "artists": [
+        {
+          "name": "Molly Seger",
+          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227016,
+      "name": "glass house",
+      "url": "https://open.spotify.com/track/1ajEZMlKBRQ5WY53Tb0LUk"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/28Rrj9eLCUnMxLI4ksvNSW"
       },
@@ -9008,6 +9044,24 @@
       "duration_ms": 166938,
       "name": "Good News",
       "url": "https://open.spotify.com/track/5Y7ugIjqNhXOrNdn1vwaqi"
+    },
+    {
+      "album": {
+        "name": "looking forward to looking back",
+        "url": "https://open.spotify.com/album/0fHlPmmr1aC35bNofkvGmd"
+      },
+      "artists": [
+        {
+          "name": "Tom Siletto",
+          "url": "https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "good parts",
+      "url": "https://open.spotify.com/track/7xzbOXisjcLhz8ViBhApWi"
     },
     {
       "album": {
@@ -10098,7 +10152,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 245680,
       "name": "Hobo's Dream",
       "url": "https://open.spotify.com/track/2LR5hvCGwl23TSDiyFybyy"
@@ -10614,6 +10668,24 @@
       "duration_ms": 171102,
       "name": "HRE",
       "url": "https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm"
+    },
+    {
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/6A1sfVgXX8XSG1HNxTq0Pk"
+      },
+      "artists": [
+        {
+          "name": "Ky J. Brandes",
+          "url": "https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245075,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/2JgHL2YfqH5Tp83CYwnNXm"
     },
     {
       "album": {
@@ -12178,7 +12250,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 198375,
       "name": "jane doe",
       "url": "https://open.spotify.com/track/0cXvxyqgSGgRcIYbvUIre1"
@@ -13312,7 +13384,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 204280,
       "name": "Like a Painting",
       "url": "https://open.spotify.com/track/1jIvP9lBdQK25Xqr9lkw2K"
@@ -13697,6 +13769,24 @@
     },
     {
       "album": {
+        "name": "Losing Limits",
+        "url": "https://open.spotify.com/album/5CB3lfFp8vtLeExpsdhC0K"
+      },
+      "artists": [
+        {
+          "name": "Kook Joey",
+          "url": "https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "Losing Limits",
+      "url": "https://open.spotify.com/track/4xQBbsy5nIAliLQDfrhCtB"
+    },
+    {
+      "album": {
         "name": "Lost in a Dream",
         "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
       },
@@ -13932,6 +14022,24 @@
       "duration_ms": 264870,
       "name": "lua",
       "url": "https://open.spotify.com/track/4lMucqPvOxJbMPiVkpMMyy"
+    },
+    {
+      "album": {
+        "name": "Lucky #8",
+        "url": "https://open.spotify.com/album/5zuFUIdXcfd7o8MiqMrhb7"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Castle",
+          "url": "https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268659,
+      "name": "Lucky #8",
+      "url": "https://open.spotify.com/track/25mWRD3fMSwPxgZzhCAwgN"
     },
     {
       "album": {
@@ -15580,7 +15688,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 200654,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/7dqcNwj8ZUkkUMgllYB0US"
@@ -19458,6 +19566,24 @@
       "duration_ms": 185186,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Oo2adPyAEyyiUgVUinvUV"
+    },
+    {
+      "album": {
+        "name": "Smaller",
+        "url": "https://open.spotify.com/album/6qVgYeLlFOUbotEbTGomHV"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299126,
+      "name": "Smaller",
+      "url": "https://open.spotify.com/track/4dJ7GtHADpM0zopmsbACZK"
     },
     {
       "album": {
@@ -24818,7 +24944,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 150120,
       "name": "you must not feel the way i do",
       "url": "https://open.spotify.com/track/1NGra7pdhQ8772sqOGtLzL"

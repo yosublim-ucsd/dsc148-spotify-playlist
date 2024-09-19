@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > hari e gil, dois gênios
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,848 likes - 65 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,955 likes - 65 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

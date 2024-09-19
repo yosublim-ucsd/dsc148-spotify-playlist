@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,234 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,231 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 18 | [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 |
 | 19 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |
 | 20 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
-| 21 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 |
-| 22 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 |
+| 21 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 |
+| 22 | [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 |
 | 23 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 24 | [If Looks Could Kill](https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [If Looks Could Kill](https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j) | 3:08 |
 | 25 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [The Straw](https://open.spotify.com/track/3F9SgmBWLbDp0qD0WVAPkF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [The Straw](https://open.spotify.com/album/7t9QfUb17D24LRVDinqbZR) | 4:04 |
 | 34 | [Feel](https://open.spotify.com/track/5IdCgUmwofSaQr049J075O) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/03aIi0ntic2DQaI2U37oS3) | 3:33 |
 | 35 | [We Were Girls](https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS) | 3:24 |
-| 36 | [Trouble](https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [No More Water: The Gospel Of James Baldwin](https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ) | 7:18 |
-| 37 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
+| 36 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
+| 37 | [Trouble](https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [No More Water: The Gospel Of James Baldwin](https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ) | 7:18 |
 | 38 | [heavy](https://open.spotify.com/track/18d0w2K7oWeAu4oUkyCgu6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [heavy](https://open.spotify.com/album/7Fk3bnVOENvP7GfQeuNLZ5) | 3:30 |
 | 39 | [Baby Dragon](https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Baby Dragon](https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY) | 3:27 |
 | 40 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |

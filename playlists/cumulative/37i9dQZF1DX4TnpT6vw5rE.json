@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 159440,
       "name": "Dormio",
       "url": "https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T"
@@ -4406,6 +4406,24 @@
       "duration_ms": 180500,
       "name": "Stella",
       "url": "https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf"
+    },
+    {
+      "album": {
+        "name": "Clouds EP",
+        "url": "https://open.spotify.com/album/0FqYLntyZVm3JHjOe9Zrtu"
+      },
+      "artists": [
+        {
+          "name": "Dreamsome",
+          "url": "https://open.spotify.com/artist/1dqmMwqD6ylzixREHMaZyB"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "stratus dream",
+      "url": "https://open.spotify.com/track/1vXEcyQCc2LFnJD6hImYdx"
     },
     {
       "album": {

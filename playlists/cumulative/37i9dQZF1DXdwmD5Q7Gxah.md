@@ -4,7 +4,7 @@
 
 > ‧₊˚ 🎐✩ 🫧 new albums from Fousheé, Dora Jar, MJ Lenderman, & Magdalena Bay ₊˚⊹♡
 
-2,981 songs - 6 day 17 hr 13 min
+2,984 songs - 6 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Ego](https://open.spotify.com/track/2qgXNUKWcCcXjRo2aMLjBa) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Ego](https://open.spotify.com/album/2jfGYnx0a3MrNkwXzn5mRt) | 2:28 | 2020-06-25 | 2020-07-31 |
 | [elastic](https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [elastic](https://open.spotify.com/album/4IL4IiCrIxULLgKdCwTai8) | 3:03 | 2022-05-11 | 2022-06-10 |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2023-04-14 | 2023-06-03 |
+| [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \- Spotify Singles](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-18 |  |
 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 | 2022-10-28 | 2023-05-17 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-16 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
@@ -2347,6 +2348,7 @@
 | [Somebody Else](https://open.spotify.com/track/0yyz1ebvy6ye4bh41apO6D) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Somebody Else](https://open.spotify.com/album/72IJG5WNH2onZIf06yIVLf) | 4:24 | 2020-08-21 | 2020-09-17 |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-05-03 | 2024-07-06 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2019-07-30\* | 2019-10-29 |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-18 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/3la1J2DCliJL4t1QmmF2JE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Somebody That I Used To Know](https://open.spotify.com/album/6Bvt9VOWArLCq7n5aqIJEU) | 4:56 | 2021-10-16 | 2021-12-02 |
 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 | 2024-08-23 |  |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-21 | 2022-01-08 |
@@ -2775,6 +2777,7 @@
 | [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 | 2023-09-01 | 2023-11-11 |
 | [Vices](https://open.spotify.com/track/7h5FrUYL5RE27ebrLfGU4b) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/3NHDgiphxKJ2Cql0ol2zm1) | 4:35 | 2022-03-25 | 2022-06-10 |
 | [Video \(feat\. Mallrat\)](https://open.spotify.com/track/4DXcaEWwUolPxRNn6DnXAe) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Cub Sport](https://open.spotify.com/album/5TnPXSF9G111hR0ttzLXgp) | 3:04 | 2019-07-30\* | 2019-08-02 |
+| [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \- Spotify Singles](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-18 |  |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-28 | 2021-09-25 |
 | [vinegar](https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [vinegar](https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9) | 3:16 | 2022-01-21 | 2022-04-09 |
 | [Vintage](https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Vintage](https://open.spotify.com/album/3m5bt0XOKIh1SfbycLiDfk) | 2:35 | 2021-01-29 | 2022-03-11 |

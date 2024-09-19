@@ -1,13 +1,93 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Isabella Kensington.  Artwork by Paola Saliby",
-  "num_followers": 216821,
+  "description": "The best new pop music by independent artists and labels. Cover: Maxwell Luke.  Artwork by Paola Saliby",
+  "num_followers": 216894,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNiJAAAAAD1v0SRim8iE/K/PCNIttCd",
+  "snapshot_id": "ZurhMgAAAAAE+CI4JVSqbXU+gmIecja2",
   "tracks": [
+    {
+      "added_at": "2024-09-18 14:18:26",
+      "album": {
+        "name": "AMERICAN HEART",
+        "url": "https://open.spotify.com/album/0JqGryJkbyWHYc5cAiBWyC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "AMERICAN HEART",
+      "url": "https://open.spotify.com/track/39IyG1mdL1aRwpRS4dWINm"
+    },
+    {
+      "added_at": "2024-09-18 14:18:26",
+      "album": {
+        "name": "WHEN YOU'RE DONE BREAKING MY HEART",
+        "url": "https://open.spotify.com/album/259wrf5pg5yvdsiZpeRQ6a"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "duration_ms": 132376,
+      "name": "WHEN YOU'RE DONE BREAKING MY HEART",
+      "url": "https://open.spotify.com/track/4VnBXYRSypUYd4kngIMdmL"
+    },
+    {
+      "added_at": "2024-09-18 14:18:26",
+      "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 149390,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
+    },
+    {
+      "added_at": "2024-09-18 14:18:26",
+      "album": {
+        "name": "I don't want nobody but your body",
+        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "I don't want nobody but your body",
+      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
+    },
+    {
+      "added_at": "2024-09-18 14:18:26",
+      "album": {
+        "name": "pigs fly",
+        "url": "https://open.spotify.com/album/4SivwVita0ik0ZDsUumcXx"
+      },
+      "artists": [
+        {
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "pigs fly",
+      "url": "https://open.spotify.com/track/1wxT2v1VTtGKrbJ2f3zpPp"
+    },
     {
       "added_at": "2024-09-04 04:00:00",
       "album": {
@@ -1219,22 +1299,6 @@
     {
       "added_at": "2024-07-31 04:00:00",
       "album": {
-        "name": "Black Girls Wanna Have Fun",
-        "url": "https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm"
-      },
-      "artists": [
-        {
-          "name": "billie-angela",
-          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Black Girls Wanna Have Fun",
-      "url": "https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5"
-    },
-    {
-      "added_at": "2024-07-31 04:00:00",
-      "album": {
         "name": "SugarCoats",
         "url": "https://open.spotify.com/album/0t7AjDjrpEVaS3g99olQ6c"
       },
@@ -1567,22 +1631,6 @@
       "duration_ms": 189223,
       "name": "red white & me",
       "url": "https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "GIRLFRIEND",
-        "url": "https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 204481,
-      "name": "GIRLFRIEND",
-      "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
     },
     {
       "added_at": "2024-07-10 04:00:00",

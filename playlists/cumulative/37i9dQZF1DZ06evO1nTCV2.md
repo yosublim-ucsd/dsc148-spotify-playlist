@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1nTCV2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1nTCV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1nTCV2)
 
-### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
+### [This Is Ryan Adams ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This Is Ryan Adams\. Sus mejores éxitos, todos en una playlist.
+> This is Ryan Adams\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
 
 231 songs - 14 hr 9 min
 

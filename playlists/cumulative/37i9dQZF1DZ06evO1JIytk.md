@@ -2,7 +2,7 @@
 
 ### [This Is Anti\-Flag](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JIytk)
 
-> This is Anti\-Flag\. The essential tracks, all in one playlist.
+> This Is Anti\-Flag\. Los temas esenciales, todos en una lista.
 
 119 songs - 5 hr 28 min
 

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Franz Ferdinand
 
-1,417 songs - 3 day 9 hr 27 min
+1,418 songs - 3 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Emotional](https://open.spotify.com/track/0mt5kngEPeux5Bgflvm9qN) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Emotional](https://open.spotify.com/album/1XvJPvitM6cBjEik59dzDr) | 2:43 | 2023-07-13 | 2023-07-21 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-05-02 | 2024-05-16 |
 | [Empty Mansions](https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:25 | 2023-07-06 | 2023-07-14 |
-| [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 | 2024-06-28 |  |
+| [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 | 2024-06-28 | 2024-09-19 |
 | [Erotomania](https://open.spotify.com/track/0I7y5xyPbTp4C9SNwYP4bF) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 2:06 | 2023-08-24 | 2023-09-01 |
 | [Etalase](https://open.spotify.com/track/4OAi6KATMr1C62OJwganVN) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:19 | 2024-06-20 | 2024-07-06 |
 | [ETERNAL FLAMES \(feat\. BABYMETAL\)](https://open.spotify.com/track/0kFBq2Yfc5IowWPgWoCbWc) | [TMG](https://open.spotify.com/artist/64mOijpAMeO7jaZRajmuaN), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [ETERNAL FLAMES \(feat\. BABYMETAL\)](https://open.spotify.com/album/5Ht5GKj9BLqRLQuosnyhoa) | 3:04 | 2024-09-12 |  |
@@ -412,6 +412,7 @@
 | [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-02 | 2024-05-23 |
 | [Everything Is...](https://open.spotify.com/track/2bKgXGatVhTNxYRzjXp1iG) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Infinite Joy](https://open.spotify.com/album/4zTr3HpPqiNzmuh1SrJ38t) | 2:56 | 2023-11-16 | 2023-12-01 |
 | [Everything's Electric](https://open.spotify.com/track/0HzZB3Z6gIk3VOlS5WjT49) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:36 | 2023-08-17 | 2023-10-20 |
+| [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-12 |  |
 | [Evil](https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Evil](https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb) | 2:43 | 2023-03-16 | 2023-04-07 |
 | [Evil People](https://open.spotify.com/track/12mgWzCmMk1WsQyEctDj2e) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Evil People](https://open.spotify.com/album/4U8HZ4Cw7fyZ2AbLAchzuP) | 3:24 | 2023-10-26 | 2024-01-05 |
 | [Evolution](https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution](https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG) | 4:26 | 2024-01-11 | 2024-02-02 |

@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Hanumankind
 
-201 songs - 11 hr 12 min
+202 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-27 | 2023-10-19 |
 | [Madari \(feat\. Karan Kanchan\)](https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 3:21 | 2023-06-09 | 2023-07-18 |
 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 | 2024-01-09 |  |
+| [Main Hawa Mein Hu](https://open.spotify.com/track/1y80LDw4jNgs5X8o1pSXOY) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Main Hawa Mein Hu](https://open.spotify.com/album/0BwhDzXo2T6ceWGwHN73yi) | 2:34 | 2024-09-18 |  |
 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 | 2023-09-22 | 2023-10-04 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2023-06-01 | 2023-06-09 |
 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-05-22 | 2024-06-01 |
@@ -193,7 +194,7 @@
 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 | 2024-03-22 | 2024-04-09 |
 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2024-06-07 | 2024-07-27 |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-02-15 | 2024-03-23 |
-| [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |
+| [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 | 2024-09-19 |
 | [TT](https://open.spotify.com/track/0RWx7EB3id2kMmIS9FmxlP) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [TT](https://open.spotify.com/album/1pxuDycn6c53mE8cBFrS8j) | 3:57 | 2024-07-03 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-27 | 2023-04-20 |
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-04-01 | 2024-04-19 |

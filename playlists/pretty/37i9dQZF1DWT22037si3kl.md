@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Phl Notunrboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,702 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,728 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BBB](https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Hora do Rock](https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx) | 3:11 |
+| 1 | [BBB](https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [Hora do Rock](https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx) | 3:11 |
 | 2 | [Mistérios](https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Mistérios](https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH) | 2:16 |
 | 3 | [CONFISSÕES PT2](https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:25 |
 | 4 | [Não Temos Medo](https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 2:15 |

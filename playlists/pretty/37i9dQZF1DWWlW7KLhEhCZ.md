@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: A$HP
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,689 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,666 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 16 | [Globo Esporte](https://open.spotify.com/track/6avwFQAvbdphS4mLy7PaFv) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [$pace](https://open.spotify.com/artist/4111UMyHQHJtS1fUl2477F) | [Abastecendo as Ruas Mixtape, Pt\. 1](https://open.spotify.com/album/1mOhE7Ste9rnr1QKQ8ujEn) | 2:24 |
 | 17 | [Escolta Armada](https://open.spotify.com/track/5kBu34FzDWXkfHtBAKkOQb) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT) | [Escolta Armada](https://open.spotify.com/album/4Ww0qekTCFNSNZrVkajiK0) | 2:38 |
 | 18 | [YOKO ONO](https://open.spotify.com/track/3cvn81BwTCXerDGHzxz5fW) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [NÃO CHORE NA MINHA FRENTE](https://open.spotify.com/album/2OUDsAXeufRGnXeowYIH9D) | 1:30 |
-| 19 | [BBB](https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Hora do Rock](https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx) | 3:11 |
+| 19 | [BBB](https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ) | [Hora do Rock](https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx) | 3:11 |
 | 20 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 |
 | 21 | [Meta](https://open.spotify.com/track/5PH8jkW1jCknFX3TQ1whl4) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Pensamentos](https://open.spotify.com/album/7vw4OmcHnccrPW8jHV7YBS) | 2:11 |
 | 22 | [BDDS](https://open.spotify.com/track/0fFUDx0R7Wsa5zLDM7V2oN) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [BDDS](https://open.spotify.com/album/2Ukn6x5IgCJdeYhxQKNapc) | 3:43 |

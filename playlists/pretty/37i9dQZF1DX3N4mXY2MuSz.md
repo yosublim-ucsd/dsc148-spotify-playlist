@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,291 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,293 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 61 | [This Is a Christmas Match](https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg) | [Wimbledon Alley](https://open.spotify.com/artist/493q9CX6Jfqz84BMKeE1pT) | [This Is a Christmas Match](https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H) | 2:08 |
 | 62 | [Violent Night \(A Christmas Tale\)](https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Chubby and the Gang presents: A Christmas Extravaganza](https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6) | 3:30 |
 | 63 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
-| 64 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
-| 65 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
-| 66 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
+| 64 | [Lonely This Christmas](https://open.spotify.com/track/2Wln4Uit6bhUFT80kFmvFU) | [Traitors!](https://open.spotify.com/artist/5bZenVzKn4ZXbPWRNL7YAy) | [It's Better to Give Than Receive](https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq) | 2:38 |
+| 65 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
+| 66 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
 | 67 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
-| 68 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
-| 69 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
+| 68 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
+| 69 | [Forgot It Was Christmas](https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [The Double EP](https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH) | 2:25 |
 | 70 | [\(All I Want For Christmas Is To\) Rage With My Friends](https://open.spotify.com/track/5O0Q6cWPjvqVJcLSxHDImq) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [Piebald Presents To You, A Musical Christmas Adventure](https://open.spotify.com/album/6GoRZ10QREhvW1aYcc9eSL) | 4:06 |
 | 71 | [Fairytale of New York](https://open.spotify.com/track/2V87ilIfikyiHJ4bU46YNg) | [The Clan](https://open.spotify.com/artist/7oludeeTSpiIclzw9iPjHX), [Francesca Tedeschi](https://open.spotify.com/artist/0PMd2C4sNGiF9AsCQBsZS9) | [Fairytale of New York](https://open.spotify.com/album/4dkhlhqXYfg5jFDHUT1nVK) | 4:34 |
 | 72 | [Christmas Lullaby](https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq) | [CJ Ramone](https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp) | [Christmas Lullaby](https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn) | 3:04 |

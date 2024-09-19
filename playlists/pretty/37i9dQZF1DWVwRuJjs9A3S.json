@@ -1,12 +1,12 @@
 {
   "description": "All the highlights from the world of indie! Cover: Albin Lee Meldau",
-  "num_followers": 38762,
+  "num_followers": 38778,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuljGwAAAAA0awjuENi8bECbFA9HSowf",
+  "snapshot_id": "ZurfGwAAAADv219AsA1lQ+KyvbAvvthS",
   "tracks": [
     {
       "added_at": "2024-09-12 22:00:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt"
     },
     {
+      "added_at": "2024-09-18 12:11:00",
+      "album": {
+        "name": "Video Games - Spotify Singles",
+        "url": "https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "Video Games - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M"
+    },
+    {
       "added_at": "2024-09-12 22:00:00",
       "album": {
         "name": "2008",
@@ -139,6 +155,22 @@
       "duration_ms": 109090,
       "name": "sunshine~",
       "url": "https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS"
+    },
+    {
+      "added_at": "2024-09-18 12:11:00",
+      "album": {
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 212008,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1091,22 +1123,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn"
-      },
-      "artists": [
-        {
-          "name": "Pom Poko",
-          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
-        }
-      ],
-      "duration_ms": 190584,
-      "name": "Pile Of Wood",
-      "url": "https://open.spotify.com/track/5VvrluL9oo4Sq4gvCyimcS"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/6XA9EVIUwGAQuBORHDiEyG"
-      },
-      "artists": [
-        {
-          "name": "Gorgeous",
-          "url": "https://open.spotify.com/artist/6C0TMfW4C2qCYxMkktQLXd"
-        }
-      ],
-      "duration_ms": 214319,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7gjxfz6ubozQPiVOMNJxpP"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Paradise State of Mind",
         "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
       },
@@ -1267,38 +1267,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Beautiful Woman",
-        "url": "https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213115,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 159121,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Havet",
         "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
       },
@@ -1331,22 +1299,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Until The Last Teardrop",
         "url": "https://open.spotify.com/album/1nZKUlQPy91A2RIoQWHQHj"
       },
@@ -1359,22 +1311,6 @@
       "duration_ms": 201425,
       "name": "Until The Last Teardrop",
       "url": "https://open.spotify.com/track/5hO0Dr7JhoGMlG8UpW6pzR"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Rivers Don't Speak",
-        "url": "https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "Rivers Don't Speak",
-      "url": "https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1507,86 +1443,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Fakest Bitch",
-        "url": "https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 259234,
-      "name": "Fakest Bitch",
-      "url": "https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Riff Before Work",
-        "url": "https://open.spotify.com/album/47aFetVSgGTuupxJi49bNP"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 166576,
-      "name": "Riff Before Work",
-      "url": "https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Waiting for You",
-        "url": "https://open.spotify.com/album/1ka8hFWeasaX1W1bLuXTVE"
-      },
-      "artists": [
-        {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
-        }
-      ],
-      "duration_ms": 203747,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/3hd9olC7a3UAwLubOBRkVm"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Don't Get Me Started",
-        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 355733,
-      "name": "Don't Get Me Started",
-      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "SNL",
         "url": "https://open.spotify.com/album/35FgBcjRap9I9nVs6UrleW"
       },
@@ -1603,42 +1459,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Aff\u00e4ren (feat. Dolce)",
-        "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
-      },
-      "artists": [
-        {
-          "name": "Tjejdikter",
-          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
-        },
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Aff\u00e4ren (feat. Dolce)",
-      "url": "https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 162735,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -1651,22 +1471,6 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "I Love You So F***ing Much",
-        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 264214,
-      "name": "Wonderful Nothing",
-      "url": "https://open.spotify.com/track/6Lto2Xj8y0U2bes2hmRMZu"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1699,22 +1503,6 @@
       "duration_ms": 157240,
       "name": "All Day",
       "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Silver Sable",
-      "url": "https://open.spotify.com/track/2F6vx9sOQJE264gYgn9dxr"
     }
   ],
   "unique_name": "Indie Highlights",

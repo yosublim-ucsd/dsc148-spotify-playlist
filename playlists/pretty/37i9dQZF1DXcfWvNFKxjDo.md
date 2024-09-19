@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alle Farben, Sofiloud
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,962 likes - 81 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,005 likes - 81 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

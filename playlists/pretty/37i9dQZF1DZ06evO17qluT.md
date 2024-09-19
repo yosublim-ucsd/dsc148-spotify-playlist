@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. The essential tracks, all in one playlist.
+> This is BK\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,851 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,903 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
 | 50 | [Poetas No Topo 1](https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey) | [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [JXNVS](https://open.spotify.com/artist/3u9u7BEDPqcFJiOArFuRlb), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Poetas No Topo 1](https://open.spotify.com/album/32yvq4xZ6Guokmoj0OmdEw) | 6:38 |
 
-Snapshot ID: `Zud1AAAAAABYuzdxctNhG9ob4GS1Rixl`
+Snapshot ID: `Zud1AAAAAADv1tRB+yvBpEcdRD7BnGUK`

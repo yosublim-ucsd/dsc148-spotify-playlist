@@ -12453,6 +12453,24 @@
     },
     {
       "album": {
+        "name": "Take You There EP",
+        "url": "https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Whale",
+          "url": "https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj"
+    },
+    {
+      "album": {
         "name": "Taking The Lead",
         "url": "https://open.spotify.com/album/7xEu87Hg2vAoi5E9delp97"
       },

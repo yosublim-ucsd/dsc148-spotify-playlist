@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2sgqhCWYTfaOZ2TYOU6qco">ruskie kotki</a>, <a href="spotify:artist:4RAn4nzX2QdLLeBznqwUJ9">paszka</a>\. Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,100 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,152 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [kup to](https://open.spotify.com/track/02sGEdzFp7Nhq3lGkISc8c) | [ruskie kotki](https://open.spotify.com/artist/2sgqhCWYTfaOZ2TYOU6qco), [paszka](https://open.spotify.com/artist/4RAn4nzX2QdLLeBznqwUJ9) | [kup to](https://open.spotify.com/album/5UqW6PghStpybq7Px8adF9) | 3:29 |
-| 2 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/4LOzPpIOHxj9TH5dLwf3zX) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 2 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
 | 3 | [Kupiłem dom](https://open.spotify.com/track/5gA4ErYUHJrmc77Uqj7jfV) | [Jan Wieteska](https://open.spotify.com/artist/7h4515SjHOj0zz1oPQDFPW) | [Kupiłem dom](https://open.spotify.com/album/6BwT0sa4saUBdOtnHBthQv) | 3:21 |
 | 4 | [Lights Go Out](https://open.spotify.com/track/2hEUhgghU4iVZRmJ6jtzyI) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Lights Go Out](https://open.spotify.com/album/6auqE0rVoBL1Of4y32sDoe) | 2:48 |
 | 5 | [Zamykam oczy](https://open.spotify.com/track/4Q7LWrCClLuxtxtlrgS4h8) | [DIULI](https://open.spotify.com/artist/7FJHNPbtNrbBZZwGe707Pq) | [Zamykam oczy](https://open.spotify.com/album/0wx4ndR8o7M32tse1KTSfD) | 3:35 |

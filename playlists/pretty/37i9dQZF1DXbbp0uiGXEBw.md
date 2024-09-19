@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phùng Khánh Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,071 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,076 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 |
-| 2 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
-| 3 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 |
-| 4 | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU) | 3:50 |
+| 1 | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU) | 3:50 |
+| 2 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 |
+| 3 | [Từng Là](https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Từng Là](https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv) | 4:12 |
+| 4 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 |
 | 5 | [Buôn Trăng](https://open.spotify.com/track/18AOhepmK6YUyfCDC3ui0h) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay \(Deluxe Version\)](https://open.spotify.com/album/626xyudaD4ySeXlaelOujb) | 3:53 |
 | 6 | [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 |
 | 7 | [Anh Ơi Ở Lại](https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Anh Ơi Ở Lại](https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [BREATH](https://open.spotify.com/track/4rfZj310KXNfR7qpfCJJNm) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Nữ Hoàng Vũ Đạo Đường Phố \(SWFV\) Nhiệm vụ Cấp bậc](https://open.spotify.com/album/2KFtIUAicQBmIyKV4hoWgT) | 2:40 |
 | 50 | [Bóng Hồng Lẻ Loi](https://open.spotify.com/track/2EvthuGElCn25rjzMGapNh) | [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py) | [Bóng Hồng Lẻ Loi](https://open.spotify.com/album/2Qql9UdZUywVavkVfQUaEI) | 2:54 |
 
-Snapshot ID: `ZuEUtQAAAAAt6x6016d/boRBNYkobFX/`
+Snapshot ID: `ZuqWogAAAADwfReV59GhJt8/CscjxdtX`

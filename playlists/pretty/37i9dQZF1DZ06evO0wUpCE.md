@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This is Intocable\. The essential tracks, all in one playlist.
+> This Is Intocable\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,290 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,355 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 50 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 |
 | 51 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 |
 
-Snapshot ID: `Zud1AAAAAADLXlfLtwFS+zCBVuelGZ1y`
+Snapshot ID: `Zud1AAAAAACnM67EjrxLZlL1nJfnR1B8`

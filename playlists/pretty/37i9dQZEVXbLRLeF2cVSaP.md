@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,757 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,764 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Пожары](https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/3r0AdIFYLk4W3Q2XtSqPer) | 3:17 |
 | 50 | [Дом Периньон](https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2), [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN) | [Дом Периньон](https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT) | 2:54 |
 
-Snapshot ID: `LnzuSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ln4/yAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 66146,
+  "num_followers": 66238,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
+      },
+      "artists": [
+        {
+          "name": "Eternity Musiq",
+          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
+        }
+      ],
+      "duration_ms": 325929,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "The Whole Thing",
         "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 412631,
       "name": "The Whole Thing",
       "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Take Me Somewhere",
-        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
-      },
-      "artists": [
-        {
-          "name": "Eternity Musiq",
-          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
-        }
-      ],
-      "duration_ms": 325929,
-      "name": "Take Me Somewhere",
-      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
     },
     {
       "added_at": "2024-08-02 00:28:01",

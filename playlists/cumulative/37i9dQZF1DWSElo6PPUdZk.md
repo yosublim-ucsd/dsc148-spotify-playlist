@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-106 songs - 5 hr 33 min
+107 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Doubts](https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:29 | 2024-09-11 |  |
 | [FAKES AND SNAKES](https://open.spotify.com/track/7cB6IgaZmVDxhUxkDAEIYH) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [THE WOMAN KING](https://open.spotify.com/album/5pagoghrHhtj1fUcXIAB7q) | 3:14 | 2023-11-20 | 2024-04-24 |
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-18 |  |
-| [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Jay B](https://open.spotify.com/artist/2TdZWrXKfFeB02QswxEvU5) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 | 2023-03-18 |  |
+| [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Jay B](https://open.spotify.com/artist/2TdZWrXKfFeB02QswxEvU5) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 | 2023-03-18 | 2024-09-19 |
 | [Ghori](https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Mahi Da Viyah](https://open.spotify.com/album/799pGvv7ev2JMIMMy8GJCR) | 4:31 | 2023-03-18 | 2023-04-20 |
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-04-19 | 2024-04-19 |
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
@@ -41,6 +41,7 @@
 | [Horse Stick](https://open.spotify.com/track/662pPKD0ssAigYYixY7Isn) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Horse Stick](https://open.spotify.com/album/4JzQWrQ5woDnrNGyCJ6wxy) | 2:56 | 2024-05-09 |  |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2023-03-18 |  |
 | [Ik Munda](https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI), [Parneet Kaur](https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd) | [Ik Munda](https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd) | 3:31 | 2024-09-02 |  |
+| [In Love](https://open.spotify.com/track/2m7RdjSUzqVDfS5wSf2Ckq) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [In Love](https://open.spotify.com/album/1jh9RQ2RaDa8YUyKveMeke) | 2:58 | 2024-09-18 |  |
 | [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 |  |
 | [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 |  |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 | 2024-09-14 |

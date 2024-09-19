@@ -1,15 +1,203 @@
 {
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 134034,
+  "num_followers": 134069,
   "original_name": "Carl Cox' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr4rmAAAAABOvhJEhNnppKvusSJdvaLq",
+  "snapshot_id": "ZutD5AAAAAAsF4Za2yvn9nbU42q7oNwj",
   "tracks": [
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Apokalypse",
+        "url": "https://open.spotify.com/album/3YDnUxDAOExPD7TMT47AQ0"
+      },
+      "artists": [
+        {
+          "name": "Filterheadz",
+          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+        }
+      ],
+      "duration_ms": 411914,
+      "name": "Apokalypse",
+      "url": "https://open.spotify.com/track/1qXlQnmMGjfyIfHPbnlTM5"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Test & Push",
+        "url": "https://open.spotify.com/album/4xSRyzSwMRyaV1Cv8WfQJn"
+      },
+      "artists": [
+        {
+          "name": "Hybrasil",
+          "url": "https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI"
+        }
+      ],
+      "duration_ms": 395492,
+      "name": "Test",
+      "url": "https://open.spotify.com/track/5LYdIak09ufeAgW51Jisfz"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Barracuda",
+        "url": "https://open.spotify.com/album/10VdzgSXSHjr88uwuJa343"
+      },
+      "artists": [
+        {
+          "name": "Hertz",
+          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
+        }
+      ],
+      "duration_ms": 346086,
+      "name": "The Badman",
+      "url": "https://open.spotify.com/track/4WZygtJvWrQnW1hwe70UKg"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Reverie / Forest Fire",
+        "url": "https://open.spotify.com/album/27QvQxz2lZfrKjqdS7qV3b"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1U1dYvTNiWKjDcFwVVfyb9"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Say Something (20 Years Systematic)",
+        "url": "https://open.spotify.com/album/42ICGnjxiCIUsk0EgOQMMJ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "The Upstarters",
+          "url": "https://open.spotify.com/artist/6tXlf0FFmrKRkdc8xtMZgF"
+        }
+      ],
+      "duration_ms": 469437,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2bpWNHKj3SKFGuqjYOStus"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Klub Jamz Two",
+        "url": "https://open.spotify.com/album/0yzAFddfMOla9k6pRcqn9z"
+      },
+      "artists": [
+        {
+          "name": "Mark Broom",
+          "url": "https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l"
+        }
+      ],
+      "duration_ms": 251495,
+      "name": "Funky Sounds",
+      "url": "https://open.spotify.com/track/1m6fADx3gdzxJuZFFTtSA8"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Master Builder",
+        "url": "https://open.spotify.com/album/6Umt2xMwWoj9gEmYcLG9z5"
+      },
+      "artists": [
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "duration_ms": 377639,
+      "name": "Look with Your Ears - Original Mix",
+      "url": "https://open.spotify.com/track/0VXlsl05NU7TqdaWoO37G0"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Crazy Tool",
+        "url": "https://open.spotify.com/album/5OPx5yxwD4Z9uQOGoWVBnr"
+      },
+      "artists": [
+        {
+          "name": "Harmonik Kontrol",
+          "url": "https://open.spotify.com/artist/5U1aEIhlv3Uyt0LT1GJHln"
+        }
+      ],
+      "duration_ms": 369374,
+      "name": "Crazy Tool",
+      "url": "https://open.spotify.com/track/0JEDkTXTL8qRQXgJ9UaruM"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Everything Is Amazing",
+        "url": "https://open.spotify.com/album/0I9RDomQqWtbtVg2Yyq10M"
+      },
+      "artists": [
+        {
+          "name": "Hilit Kolet",
+          "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
+        }
+      ],
+      "duration_ms": 194183,
+      "name": "Everything Is Amazing - Edit",
+      "url": "https://open.spotify.com/track/77jrsG7CbtfaM3utFZGP6d"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Now I Understand",
+        "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
+      },
+      "artists": [
+        {
+          "name": "De Sluwe Vos",
+          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        }
+      ],
+      "duration_ms": 289325,
+      "name": "Heatwaves",
+      "url": "https://open.spotify.com/track/5Y4Tyq7CYoXEX4MDkUhsif"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
+      "album": {
+        "name": "Twerq It (feat. NEZ)",
+        "url": "https://open.spotify.com/album/4hGg0BSeQwQQYopTAW2lBw"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Hilit Kolet",
+          "url": "https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 141539,
+      "name": "Twerq It (feat. NEZ)",
+      "url": "https://open.spotify.com/track/4Jb1V8yeecjoGlPDq8Fubv"
+    },
+    {
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Pyramid Rave / Feel The Energy",
         "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
@@ -29,7 +217,7 @@
       "url": "https://open.spotify.com/track/0dvbHArKHuvJxKwgTilETY"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Bastian",
         "url": "https://open.spotify.com/album/6JAS3Kx1ZAGhXk6zNS2hXg"
@@ -45,7 +233,7 @@
       "url": "https://open.spotify.com/track/4VNCTejinLH66gtNc9etdO"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Pablo Assan",
         "url": "https://open.spotify.com/album/3tZBx2Y14dgZfSN1jOChV7"
@@ -61,7 +249,7 @@
       "url": "https://open.spotify.com/track/5w2H2RddpscAIJYIAtiEHp"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Ice (20 Years Systematic)",
         "url": "https://open.spotify.com/album/5ETfrXr5UXMt30DExDqjMo"
@@ -77,7 +265,7 @@
       "url": "https://open.spotify.com/track/5bkRwgvGxPmv3v1gwSGrpA"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Climb The Tree (Marc Romboy Remix)",
         "url": "https://open.spotify.com/album/615UGdPgSlSsZmoGLScyGN"
@@ -97,7 +285,7 @@
       "url": "https://open.spotify.com/track/5mKRpmpggYyUVrr7G3k1bC"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Now I Understand",
         "url": "https://open.spotify.com/album/5hgNlG7bHWD3VJpPkl6y5O"
@@ -113,7 +301,7 @@
       "url": "https://open.spotify.com/track/708V4prVtBnVqfpG3tJnxd"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Ravers",
         "url": "https://open.spotify.com/album/6m5ThoM5cefVxUeiHqcXmY"
@@ -137,7 +325,7 @@
       "url": "https://open.spotify.com/track/5WW7tKuEnLeolYsMJE44f9"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/0MXWS5np6F07dz4XEu11wa"
@@ -157,7 +345,7 @@
       "url": "https://open.spotify.com/track/4DoFoXmdJ2nygjOwOFQjAV"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Your Eyes on Me",
         "url": "https://open.spotify.com/album/7ngCdwtKLw8rWVCCQPbdgi"
@@ -173,7 +361,7 @@
       "url": "https://open.spotify.com/track/4u3rHonyMW7pmkB4nZq0JX"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/0MXWS5np6F07dz4XEu11wa"
@@ -193,7 +381,7 @@
       "url": "https://open.spotify.com/track/45t2hoXLpWTDeu81nZNECo"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Fire Will Rain",
         "url": "https://open.spotify.com/album/0ysoNtl1MOWqHfBPKTR0Xs"
@@ -209,7 +397,7 @@
       "url": "https://open.spotify.com/track/28vUPI6RHba5sx9sJ1C7Qy"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
@@ -229,7 +417,7 @@
       "url": "https://open.spotify.com/track/3idWxkGAnciwFL0DL60683"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Don't Give In",
         "url": "https://open.spotify.com/album/192tAd16fkyepj67PlSD2e"
@@ -249,7 +437,7 @@
       "url": "https://open.spotify.com/track/3m8eUHDngXI6qow0KG5qrO"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "A Savage",
         "url": "https://open.spotify.com/album/0XBr18hWgUrnN7rJUYAZ4c"
@@ -265,7 +453,7 @@
       "url": "https://open.spotify.com/track/2nrAAZG1j5sKtS2aWpfAYV"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Nocturnal (Marc Romboy & Andre Winter Remix)",
         "url": "https://open.spotify.com/album/5m249o8rflKRtCXd3bYTtT"
@@ -293,7 +481,7 @@
       "url": "https://open.spotify.com/track/3smymszomGVw9czqEx6Qav"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "This Is My Life (Carl Cox Remix)",
         "url": "https://open.spotify.com/album/5Jj9s4fO9ZLFR7IHMAGBc2"
@@ -317,7 +505,7 @@
       "url": "https://open.spotify.com/track/1i0YOYDSRlbcxSPCmSeerR"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
@@ -337,7 +525,7 @@
       "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Let's Keep Floating",
         "url": "https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A"
@@ -353,7 +541,7 @@
       "url": "https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
@@ -369,7 +557,7 @@
       "url": "https://open.spotify.com/track/2R4tRMm5UPHYV3SLhyH1Qk"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Get House (Josh Wink Interpretation)",
         "url": "https://open.spotify.com/album/5LNgnmK4gWjPNg7ovk8cOK"
@@ -389,7 +577,7 @@
       "url": "https://open.spotify.com/track/1xl6Bz6YdyvycR9fZsbxKp"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "MBPN, Vol. 1",
         "url": "https://open.spotify.com/album/1Hlt0D5yvOcIGCCdDc5kBJ"
@@ -409,7 +597,7 @@
       "url": "https://open.spotify.com/track/1djq7TvudVtY9hPlAXnSYZ"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Venti",
         "url": "https://open.spotify.com/album/3pC1DRK7kDrIUSOaxuBISL"
@@ -425,7 +613,7 @@
       "url": "https://open.spotify.com/track/2GHlq3HwJvBpkOahNROVBR"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "The Deepness",
         "url": "https://open.spotify.com/album/5z7r33ciQsIU7gQgE23De5"
@@ -441,7 +629,7 @@
       "url": "https://open.spotify.com/track/0iH86XIUAfiMdToNLI0sLq"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Rekindled - EP",
         "url": "https://open.spotify.com/album/6vAzCXYz4s2xU5EfefPlRo"
@@ -461,7 +649,7 @@
       "url": "https://open.spotify.com/track/30puCr5rC2BgI7meAl4cSx"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "FJAAK THE SYSTEM",
         "url": "https://open.spotify.com/album/1JRTMBLz83A0EW0idhDHsG"
@@ -477,7 +665,7 @@
       "url": "https://open.spotify.com/track/4EhUJM3RzRZYDWKPNiLSJK"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "The Unreleased Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/0exX6L0mEtWcfdrvW3TwyT"
@@ -501,7 +689,7 @@
       "url": "https://open.spotify.com/track/0WAjrqMeLz454UkhCdU4lM"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Ringer",
         "url": "https://open.spotify.com/album/6UGXjXJ6J4GvYTOnjQNmnP"
@@ -517,7 +705,7 @@
       "url": "https://open.spotify.com/track/0dzHmo8QhxaFAyMY7PGYc3"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Mamma Noise - EP",
         "url": "https://open.spotify.com/album/1DE6oRbkbyGJ0wg3hHN12K"
@@ -533,7 +721,7 @@
       "url": "https://open.spotify.com/track/06IwF60L7Z6cCLR60t84dv"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Endless Love",
         "url": "https://open.spotify.com/album/4QX5mgYnDYq4n8u3Oz5ohF"
@@ -553,7 +741,7 @@
       "url": "https://open.spotify.com/track/1XfwJDp45NRydIXQmA4aPb"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Dirty Rave",
         "url": "https://open.spotify.com/album/6N496EQA2chYDwSH8uDPnk"
@@ -573,7 +761,7 @@
       "url": "https://open.spotify.com/track/3h4dmSiNcZ3q9TCkKgvUV2"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Tektones #12 (Selected by T78)",
         "url": "https://open.spotify.com/album/0VwgXaGOJHOZYaNPEHWlVm"
@@ -589,7 +777,7 @@
       "url": "https://open.spotify.com/track/70cFG2lENC1OdIAYyxt3bU"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Alpha Key EP",
         "url": "https://open.spotify.com/album/7qkUI3myHszsg9w1k5uT8e"
@@ -605,7 +793,7 @@
       "url": "https://open.spotify.com/track/7Ghzvh5lUu6QLPFgZFMvs0"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Particle EP 2",
         "url": "https://open.spotify.com/album/4BkLgS4UXc4xZ1X43UZIzI"
@@ -621,7 +809,7 @@
       "url": "https://open.spotify.com/track/33lLiVsBsNGuRRiLjJ7C2c"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Enigma EP",
         "url": "https://open.spotify.com/album/5BP2AjJOgnFkBz0ZkjQCXJ"
@@ -637,7 +825,7 @@
       "url": "https://open.spotify.com/track/0Jegj0mX7I8PrvZI5BzsNb"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Particle EP 2",
         "url": "https://open.spotify.com/album/4BkLgS4UXc4xZ1X43UZIzI"
@@ -653,7 +841,7 @@
       "url": "https://open.spotify.com/track/12POv3xG8Fio5dmSXsZB4Z"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Timballe",
         "url": "https://open.spotify.com/album/7Brsoniwb0lB2RA8Y7UhhY"
@@ -669,7 +857,7 @@
       "url": "https://open.spotify.com/track/2vAqNVnfSC8IymTKhVlo1q"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Acid Controls My Mind",
         "url": "https://open.spotify.com/album/3ilUZwHChzFnat06rMpt3d"
@@ -685,7 +873,7 @@
       "url": "https://open.spotify.com/track/3beIbVXHEBjHC8MCDsMd20"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Floor Filler",
         "url": "https://open.spotify.com/album/6T2MGJJL2m5VAQ1ye7qNUn"
@@ -705,7 +893,7 @@
       "url": "https://open.spotify.com/track/0BkLlKOzk1nw0vAcMgiYcE"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Feels Like",
         "url": "https://open.spotify.com/album/4iq0eJctXZygrtep0ubbB6"
@@ -721,7 +909,7 @@
       "url": "https://open.spotify.com/track/2eMCkAM0cj95aNWuSpPLKp"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "The Ceremony EP",
         "url": "https://open.spotify.com/album/0cZJ9TJeh2zVqsrujfV8J0"
@@ -737,7 +925,7 @@
       "url": "https://open.spotify.com/track/0Kp7uUx97XId9rvkwUZlZa"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Federation of Rytm III",
         "url": "https://open.spotify.com/album/56gffnUwSfBueaS6ceRnBc"
@@ -753,7 +941,7 @@
       "url": "https://open.spotify.com/track/3W6FyXqCpBVvjvB7km2zrv"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/58pHBjYY6IVijCFusWAqLi"
@@ -769,7 +957,7 @@
       "url": "https://open.spotify.com/track/7ICRi8m3TbnUhRYmrGUG73"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "Snow In Ipanema EP",
         "url": "https://open.spotify.com/album/6XIjSl4S0s8FdkSAcFyZcM"
@@ -785,7 +973,7 @@
       "url": "https://open.spotify.com/track/2MFB9kqjVEZWVzR1kPXEV9"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -801,7 +989,7 @@
       "url": "https://open.spotify.com/track/0Ihc3ohak655pt8t5XAmsd"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -817,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4Xw9KCBIBhkMmtgB0VsHYS"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -837,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5NLvNOSFhOQ8usa1j0FJi1"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -853,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5UfrmNZquTXyVNDcocA2m1"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -873,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2AL8d4kEL3oEN3jalJehYg"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -889,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7ateuqPb1rUOwff5nWFq2t"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -905,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3Jl6hSpNnLRqsjajDPQSXF"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -921,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6yGpL26LaxfI1QGMl9VjmW"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -937,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3Xos7pA0UFacmcQD46h8rO"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -953,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4Q91jjRakhZrOfRY3sZ3Y1"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -969,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1gSrSoUrCsmGkSuqsmK6nl"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -985,7 +1173,7 @@
       "url": "https://open.spotify.com/track/32E7D0IqDZtzwh2Exf306b"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1001,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7elWlZIaZJ063CNhiFJVK6"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1017,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3g9Uqq95TXkd11NGL4YV9B"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1033,7 +1221,7 @@
       "url": "https://open.spotify.com/track/4BmXcPhsH69andXjWPrZrd"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1049,7 +1237,7 @@
       "url": "https://open.spotify.com/track/0tibvirh0Pz5fStH4dfI8S"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1065,7 +1253,7 @@
       "url": "https://open.spotify.com/track/5o9gVIunYPp2hmCJlym3Dw"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1081,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1097,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3z6iOoOWRRzCIe2LkAhT6S"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1113,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3sPfd9YjF7fmVwliZypqMz"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1141,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6r4gWTDPplDGEfqiYxuT0L"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1157,7 +1345,7 @@
       "url": "https://open.spotify.com/track/2XTsiyJl8NFgDyN7wwOXOU"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1173,7 +1361,7 @@
       "url": "https://open.spotify.com/track/0Tk8BAR0eq9cSTEqvo5ERU"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"
@@ -1189,7 +1377,7 @@
       "url": "https://open.spotify.com/track/5Tk4lRS7lCjM7bHAXsQPnm"
     },
     {
-      "added_at": "2024-08-15 16:23:52",
+      "added_at": "2024-09-18 21:19:32",
       "album": {
         "name": "ASW is Live Mixed by Carl Cox (DJ Mix)",
         "url": "https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv"

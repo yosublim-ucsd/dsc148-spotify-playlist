@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Sara Siipola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,360 likes - 88 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,366 likes - 88 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

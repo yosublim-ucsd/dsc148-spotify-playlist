@@ -4,7 +4,7 @@
 
 > الخطة ملوك من اللفه انا استاهل منكوا الصقفة\. غلاف: مهاب
 
-365 songs - 18 hr 4 min
+366 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [EL BM BKM DLWATY](https://open.spotify.com/track/63onaNWTSRTOxBLROCEYH0) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:57 | 2024-05-27 | 2024-07-30 |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-11-27 |
 | [EL KELMA](https://open.spotify.com/track/3z39YiKN50qORwhwRddeOV) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 4:02 | 2024-09-04 |  |
+| [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 | 2024-09-18 |  |
 | [EL LOVE](https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 3:07 | 2023-09-05 | 2023-09-30 |
 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2023-11-27 | 2024-08-16 |
 | [EL Moled \- Red Bull Sada sot](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 | 2024-04-14 | 2024-07-27 |
@@ -151,7 +152,7 @@
 | [Howa Keda](https://open.spotify.com/track/3Ge5cR5bN86RjCd6uiwXSB) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Xander Ghost](https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC) | [Howa Keda](https://open.spotify.com/album/36u9BvrPsC0jvbAnyFJO8c) | 2:15 | 2024-04-29 | 2024-05-02 |
 | [HUSTLE](https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [HUSTLE](https://open.spotify.com/album/3caZFDjOYlqVVsrBjCgAOy) | 2:45 | 2022-05-10 | 2022-06-29 |
 | [Il Mond](https://open.spotify.com/track/3FEvxirJwF3NLAJi16RHbP) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 2:38 | 2024-09-11 |  |
-| [Intifada](https://open.spotify.com/track/6Crn0J3hQdFpdq68XUrjIV) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/2ivWwg7IBt6n4s0ovlAjCp) | 3:09 | 2024-09-12 |  |
+| [Intifada](https://open.spotify.com/track/6Crn0J3hQdFpdq68XUrjIV) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/2ivWwg7IBt6n4s0ovlAjCp) | 3:09 | 2024-09-12 | 2024-09-19 |
 | [Intro](https://open.spotify.com/track/2oE69DSJhprjMLJfPWMrfR) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [Intro](https://open.spotify.com/album/6ip534OtB5OaZtDYmw0L6H) | 2:04 | 2022-12-22 | 2023-01-17 |
 | [Java](https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Java](https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS) | 2:20 | 2022-09-27 | 2022-10-26 |
 | [Justin Bieber](https://open.spotify.com/track/6gf1hPyK9vn60kJQoTZw4c) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Justin Bieber](https://open.spotify.com/album/1v8ywufxiUSUBD2wB9Ib2f) | 3:13 | 2023-02-09 | 2023-05-17 |

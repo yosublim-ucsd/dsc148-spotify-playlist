@@ -1,12 +1,12 @@
 {
   "description": "Ready to chic things up. Listen to the music from Emily in Paris, streaming only on Netflix. ",
-  "num_followers": 208960,
+  "num_followers": 209903,
   "original_name": "Emily in Paris Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAB+i91H5e0mvN50AJuH2TrX",
+  "snapshot_id": "ZusYpQAAAABaf27FtTAyCji2OI8P9839",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -39,6 +39,54 @@
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
+    },
+    {
+      "added_at": "2024-09-18 18:15:01",
+      "album": {
+        "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "duration_ms": 205947,
+      "name": "Heart of Glass (Coeur de Verre)",
+      "url": "https://open.spotify.com/track/7iF9Sl2EqwoNyuXTTBS39R"
+    },
+    {
+      "added_at": "2024-09-18 18:15:01",
+      "album": {
+        "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 167834,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/2LytKHisRjCcqV1qeZdWNE"
+    },
+    {
+      "added_at": "2024-09-18 18:15:01",
+      "album": {
+        "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "duration_ms": 183135,
+      "name": "Tous Les Garcons Et Les Filles",
+      "url": "https://open.spotify.com/track/3fQlKOi039eD9hes4nU2hA"
     },
     {
       "added_at": "2024-09-12 07:00:00",
@@ -603,6 +651,26 @@
       "duration_ms": 93906,
       "name": "Mambo Italiano",
       "url": "https://open.spotify.com/track/058S4TvddoM07bKZo98CNi"
+    },
+    {
+      "added_at": "2024-09-18 18:15:01",
+      "album": {
+        "name": "Nolovelikeyou",
+        "url": "https://open.spotify.com/album/5Gyi9j49cj8ZtOWAkbGlhj"
+      },
+      "artists": [
+        {
+          "name": "WEDONT",
+          "url": "https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe"
+        },
+        {
+          "name": "KENDALL",
+          "url": "https://open.spotify.com/artist/434jqZrkiJCfsmXeptkCEZ"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "Nolovelikeyou",
+      "url": "https://open.spotify.com/track/5jbsIAPJ6nfNKJdxFiQ0lv"
     },
     {
       "added_at": "2024-09-12 07:00:00",

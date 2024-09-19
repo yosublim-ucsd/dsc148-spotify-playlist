@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: サバシスター \*👉 <a href="https://spice.eplus.jp/articles/331872?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: サバシスター \*👉 <a href="https://spice.eplus.jp/articles/332011?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-7,804 songs - 20 day 0 hr 17 min
+7,805 songs - 20 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [2024/08/28 aikoがニューアルバムをリリースしてカバーに！chilldspot、KM、PEOPLE 1の新曲や、BE:FIRSTのニューアルバムもリリースに！この1週間の気になる音楽ニュースも深堀り！！](https://open.spotify.com/episode/1EN4FHHVqTmFZTP6E1iSHT) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:33 | 2024-08-28 | 2024-09-04 |
 | [2024/08/7 jo0jiが初カバー！Kvi Babaの新曲、石若駿が率いるAnswer to Rememberのニューアルバム、パソコン音楽クラブのニューアルバムもピックアップ！！注目のシンガーHana Hopeの新曲も。この1週間の気になる音楽ニュースも深堀り！](https://open.spotify.com/episode/2m7FuosdvtFb59dGvCTcQq) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:57 | 2024-08-08 | 2024-08-14 |
 | [2024/09/11 あいみょんがカバー！サザンオールスターズ、back number、Awich、どんぐりずの新曲も！この1週間の気になる音楽ニュースもピックアップ！ ](https://open.spotify.com/episode/4nPAxJ76ABmHaCuWtErkQA) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:17 | 2024-09-11 | 2024-09-18 |
+| [2024/09/18 サバシスターがカバー！\[Alexandros\]の新曲も！¥ellow Bucksのニューアルバムや注目バンドAoooの新曲、賽がボーカルにYONCEを迎えた激熱コラボも！この1週間の気になる音楽ニュースもピックアップ！](https://open.spotify.com/episode/2TK6W2m4ZPyd3UjxcgunIn) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 19:57 | 2024-09-18 |  |
 | [2024/09/4 BUMP OF CHICKENが約5年ぶりのアルバムをリリース！さらさ、優河のニューアルバムも！Early Noiseアーティストjo0jiの新曲に、映画『BLUE GIANT』で主人公の演奏を担当 した事でも話題になった馬場智章のニューアルバムもピックアップ！Mega Shinnosukeからメッセージも到着！](https://open.spotify.com/episode/2ACaeTxYDr6WYTHhdrrmam) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 29:14 | 2024-09-04 | 2024-09-11 |
 | [2024/4/17 First Love is Never Returnedがカバー！BUMP OF CHICKEN、椎名林檎、aiko、水曜日のカンパネラの新曲もリリースに！Rina Sawayamaとちゃんみなのコラボソング、tuki.の新曲、荒谷翔大初のソロ楽曲や、MFSのアルバムもリリースに！ワンリパブリックが手がけたアニメ『怪獣8号』のエンディングテーマもピックアップ！](https://open.spotify.com/episode/7u83hn30oydzzNOefPTDIq) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:21 | 2024-04-17 | 2024-04-24 |
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |

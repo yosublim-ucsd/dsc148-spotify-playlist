@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-725 songs - 1 day 12 hr 19 min
+726 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 | 2024-08-01 |  |
 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 | 2023-03-31 | 2023-12-23 |
 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 | 2023-12-01 |  |
+| [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 | 2024-09-18 |  |
 | [Taking The Lead](https://open.spotify.com/track/0zVM0ZoanmvbigiKcqJmcc) | [ZEZART](https://open.spotify.com/artist/4hOjMwZbhnhHmL9CoYmCBK) | [Taking The Lead](https://open.spotify.com/album/7xEu87Hg2vAoi5E9delp97) | 3:20 | 2023-11-24 |  |
 | [Talk Talk](https://open.spotify.com/track/3sxlSXXCQIPITS8xJBqcSc) | [Lelo](https://open.spotify.com/artist/4RQMCbKeR7VAJfDtoSRQlv) | [Talk Talk](https://open.spotify.com/album/4PSVtmEDxzjVs3BXqEJd86) | 3:29 | 2023-02-12 | 2023-04-13 |
 | [Talk to Me](https://open.spotify.com/track/03Du19uqh7mGTSfQwpgZLa) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Talk to Me](https://open.spotify.com/album/2CCLNopJoGPhw2VpgTBJd6) | 2:40 | 2024-09-16 |  |

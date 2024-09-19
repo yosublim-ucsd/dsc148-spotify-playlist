@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 522 songs - 1 day 10 hr 22 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 521 songs - 1 day 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -523,12 +523,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 513 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 |
 | 514 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 515 | [Summer Water](https://open.spotify.com/track/7tJfLTXPAMupVClgG4HrYN) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 3:41 |
-| 516 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
-| 517 | [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 |
-| 518 | [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 |
-| 519 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 |
-| 520 | [Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 2:35 |
-| 521 | [Life's Greatest Fool](https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 4:44 |
-| 522 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 |
+| 516 | [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 |
+| 517 | [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 |
+| 518 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 |
+| 519 | [Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 2:35 |
+| 520 | [Life's Greatest Fool](https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 4:44 |
+| 521 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 |
 
-Snapshot ID: `AAAGfVzENnjrB7W8rPMiyWG7Y5N8ZHGa`
+Snapshot ID: `AAAGfrYL5g4h9gBQt0Qo/Jawng7G5d3T`

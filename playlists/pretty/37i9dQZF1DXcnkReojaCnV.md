@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 29 | [Pedal To the Metal](https://open.spotify.com/track/0G9j4ORbupmxMe02m7a1lh) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Levee Town](https://open.spotify.com/album/2OjQfeMEfVK3B2r7lT3YJN) | 4:09 |
 | 30 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 |
 
-Snapshot ID: `ZowunQAAAADbMwNcQcJJiUWjHoyfp3+H`
+Snapshot ID: `ZowunQAAAAAohw8bFT4AQqOMb0SJ2Bn9`

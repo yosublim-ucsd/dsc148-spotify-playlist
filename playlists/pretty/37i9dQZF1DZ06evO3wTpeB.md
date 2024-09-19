@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
+> This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,177 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,178 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 50 | [Mi Vida Es Una Fiesta](https://open.spotify.com/track/65jCjbIlEsbqGGYmmOFQbE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mi Vida Es Una Fiesta](https://open.spotify.com/album/39nAnPVhQweMSKiqraPSpl) | 3:37 |
 | 51 | [Bife de Chorizo](https://open.spotify.com/track/6tiKzF6TGrImRyUhkdKM7J) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:02 |
 
-Snapshot ID: `Zud1AAAAAACmGQap+pPaeik8AO9s5kyj`
+Snapshot ID: `Zud1AAAAAACZLsZ2FB5A3RIFgl1ZYZf+`

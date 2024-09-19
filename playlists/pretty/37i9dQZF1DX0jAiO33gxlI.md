@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Mago de Tarso, Xand Avião
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,982 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,976 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [LARARÁ](https://open.spotify.com/track/1e8HlCspDNf04JKn2Y1PkO) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [LARARÁ](https://open.spotify.com/album/4ldhzypS6POi4buhoZC2iS) | 3:15 |
 | 5 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 |
 | 6 | [Porradão de Muay Thai](https://open.spotify.com/track/3eZ4Jh2Qv5oqu0ZmFrIQX1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Porradão de Muay Thai](https://open.spotify.com/album/2e0HMDX8z57T8pfgsTB85w) | 2:24 |
-| 7 | [Um Seleto Grupo de Pais](https://open.spotify.com/track/5hAm1UzikvLxqcw3g0JIuZ) | [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle) | [Um Seleto Grupo de Pais](https://open.spotify.com/album/6hG1pppDzLXbwQStDLvp8O) | 4:27 |
+| 7 | [Um Seleto Grupo de Pais](https://open.spotify.com/track/5hAm1UzikvLxqcw3g0JIuZ) | [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Gandolfo](https://open.spotify.com/artist/104EytgSgpIANeL9PgAmby) | [Um Seleto Grupo de Pais](https://open.spotify.com/album/6hG1pppDzLXbwQStDLvp8O) | 4:27 |
 | 8 | [Pecador pelo Gueto](https://open.spotify.com/track/7gM5mb1fZbyx8jqY4SlZ8F) | [Big Da Godoy](https://open.spotify.com/artist/7I4mImzzonEeDHIT7IvfJr) | [Pecador pelo Gueto](https://open.spotify.com/album/6gqIUPFJ1gI3VzZHLWauPn) | 2:24 |
 | 9 | [Nada Mais](https://open.spotify.com/track/4RPwV1PmBnHMCiwZXNvfoq) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Forma Pura](https://open.spotify.com/album/6sCFlHRqSZ87Xs9yfX04uG) | 3:09 |
 | 10 | [Pesadelo](https://open.spotify.com/track/5Q9GsLtTHdK7CWWt80GPg1) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Pesadelo](https://open.spotify.com/album/2MM495pM48Ng5X2Fe39G17) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Spice](https://open.spotify.com/track/40pvoMvErxOKzeXSScaUaV) | [Espectro](https://open.spotify.com/artist/7phgIJ88gDxkUK6pbkQw8r), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Spice](https://open.spotify.com/album/2qhHeH0LDJrQVjK4sHvsP6) | 2:41 |
 | 75 | [Rico](https://open.spotify.com/track/6P9kSBHa1OzK4yKbple5aI) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Rico](https://open.spotify.com/album/29qFEzG4cTvdJle2D3cgdv) | 2:57 |
 
-Snapshot ID: `ZuOq7AAAAADl2FmsDBkEgMZNIAvXjLct`
+Snapshot ID: `ZuOq7AAAAADLumoMk/KQUlj0nXTKwXfi`

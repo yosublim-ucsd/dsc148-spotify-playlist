@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new pop music by independent artists and labels\. Cover: Isabella Kensington\.  Artwork by Paola Saliby
+> The best new pop music by independent artists and labels\. Cover: Maxwell Luke\.  Artwork by Paola Saliby
 
-3,638 songs - 7 day 17 hr 6 min
+3,643 songs - 7 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Always Dancing](https://open.spotify.com/track/1Fe8UjTbRydk9eLuLoI3Vq) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Always Dancing](https://open.spotify.com/album/2MmO6QdLsMvSomYzQIkmBQ) | 3:43 | 2021-09-24 | 2021-11-11 |
 | [Always Something](https://open.spotify.com/track/4MpC30rM2c4lgHUAj6dczb) | [Jackson Crook](https://open.spotify.com/artist/6viZgFXOyeV4HgZekdTvzJ) | [Always Something](https://open.spotify.com/album/6q7OPPNfv7HT56M8D8sgTg) | 2:46 | 2024-01-10 | 2024-01-26 |
 | [Always You](https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [The Wishing, The Wanting, The Longing](https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl) | 2:50 | 2023-11-15 | 2023-11-30 |
+| [AMERICAN HEART](https://open.spotify.com/track/39IyG1mdL1aRwpRS4dWINm) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [AMERICAN HEART](https://open.spotify.com/album/0JqGryJkbyWHYc5cAiBWyC) | 3:21 | 2024-09-18 |  |
 | [An Honest Mess](https://open.spotify.com/track/00nJAeUvd37o65vdmqtg1G) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7), [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [An Honest Mess](https://open.spotify.com/album/4fhsPzxeog6vS0Koz8f47n) | 3:22 | 2022-03-23 | 2022-04-28 |
 | [and if i’m being honest…](https://open.spotify.com/track/4LUKN8rdLDSXIzrVB8lSmJ) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [nocturnal](https://open.spotify.com/album/5FBLRRi84sW1um0E9oDy5Y) | 2:40 | 2021-02-25 | 2021-05-20 |
 | [And the Thunder](https://open.spotify.com/track/4DdJXS5IDAx0y2CiDUj1rr) | [Nelson Beer](https://open.spotify.com/artist/7LoVC7EphQJjQ4F7NMYQuz) | [And The Thunder](https://open.spotify.com/album/5ejVnbGcYmQzWzvvAuvLm8) | 3:08 | 2021-04-08 | 2021-04-22 |
@@ -367,7 +368,7 @@
 | [Bittersweet](https://open.spotify.com/track/7oj3CLbn0f7yPfzjMjC2Fq) | [Kat Kennedy](https://open.spotify.com/artist/08xYUuniSTJtOwpC1lATSX) | [Bittersweet](https://open.spotify.com/album/21v7ToSBBRAjCW11iCJzcD) | 2:24 | 2022-06-08 | 2022-07-07 |
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-09 | 2022-04-28 |
 | [BKGW](https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [BKGW](https://open.spotify.com/album/71PQIAJKScktcU1JtaLfD8) | 2:49 | 2021-03-06 | 2021-04-01 |
-| [Black Girls Wanna Have Fun](https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Black Girls Wanna Have Fun](https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm) | 1:45 | 2024-07-31 |  |
+| [Black Girls Wanna Have Fun](https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Black Girls Wanna Have Fun](https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm) | 1:45 | 2024-07-31 | 2024-09-19 |
 | [Black Hole](https://open.spotify.com/track/28yw2fVqczsN9TCTmtpQ5L) | [Siobhán](https://open.spotify.com/artist/2baEkum1duFPLdhCttdTcp) | [Black Hole](https://open.spotify.com/album/6Yr9GJw4aOdR0HCDTEjfAq) | 4:01 | 2022-07-06 | 2022-08-25 |
 | [Blame](https://open.spotify.com/track/3o6KsErKgJDz6Yy9qOcnnU) | [Lavender Lane](https://open.spotify.com/artist/72sqZl3b57zIcQC38lzhbk) | [Blame](https://open.spotify.com/album/0ZrABCToJL9Pb6ugKF11QI) | 3:11 | 2021-08-20 | 2021-09-24 |
 | [Blame](https://open.spotify.com/track/0dlpkHAazQr4WtOTirzRnT) | [Mikalyn](https://open.spotify.com/artist/1uFSMxmIM7eRPSPlHBep7Y) | [Blame](https://open.spotify.com/album/7vfT5KiIrwzJR6oSsa3ahN) | 3:25 | 2021-10-07 | 2021-10-28 |
@@ -1187,6 +1188,7 @@
 | [Gasoline](https://open.spotify.com/track/7BoVhTeOg7m2sfQb9g6FXe) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Gasoline](https://open.spotify.com/album/6nXYRmtCw2OgR0ZgVo7G0y) | 3:11 | 2024-08-07 |  |
 | [Gasp](https://open.spotify.com/track/4Sb1AjM4gzuSv5BQGIe7lq) | [Laura Jinn](https://open.spotify.com/artist/6oHcWUmB7aiGDwYURi9hGs) | [Gasp](https://open.spotify.com/album/4KxODFdlDd6gL0jUbzs2dG) | 5:00 | 2022-03-30 | 2022-04-14 |
 | [Geekn](https://open.spotify.com/track/1PvHgeSWeNDh1JaeEog0Ec) | [Leah Clark](https://open.spotify.com/artist/2EaRbpzDGMvzKhht7lrGF8) | [Geekn / sleep off a feeling](https://open.spotify.com/album/2lFE9gfh68QDtfWCmBu0kL) | 2:49 | 2021-07-29 | 2021-08-26 |
+| [Gelato](https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Gelato](https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS) | 2:29 | 2024-09-18 |  |
 | [Gemini](https://open.spotify.com/track/2INw6pVfZExHnTZ9CdrAI6) | [Caly Bevier](https://open.spotify.com/artist/5jMdkF29epK5cTCeMV17fh) | [Gemini](https://open.spotify.com/album/2yczGhWquwpckpXCIXEbED) | 2:12 | 2023-06-21 | 2023-09-14 |
 | [Gemini](https://open.spotify.com/track/7lIGWqCphjoLeSXjT71MMC) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Gemini](https://open.spotify.com/album/2Yilbq95tQfn2Yzn14YH73) | 3:33 | 2021-09-16 | 2021-10-28 |
 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 | 2020-10-29 | 2020-11-18 |
@@ -1214,7 +1216,7 @@
 | [Girl Friend](https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Girl Friend](https://open.spotify.com/album/1j9FQh3VXAUBQDRdUmztIX) | 2:59 | 2024-02-28 | 2024-06-01 |
 | [Girl I Used To Be](https://open.spotify.com/track/13fsirxpF8oLInKQyfxnlU) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Girl I Used To Be](https://open.spotify.com/album/3fxBLDnqu8xes8FztnDNgo) | 3:04 | 2022-01-12 | 2022-03-31 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-03-06 | 2022-01-13 |
-| [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-07-03 |  |
+| [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 | 2024-07-03 | 2024-09-19 |
 | [Girlfriend](https://open.spotify.com/track/5hr55QtxToXumR95t6j8lh) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 2:50 | 2021-05-06 | 2021-05-20 |
 | [Girls](https://open.spotify.com/track/4d7yXemZDHVsks31ZzkWQi) | [Halston Dare](https://open.spotify.com/artist/4hbv1KOjm3u9K5BrmWDOwM) | [Girls](https://open.spotify.com/album/4Aa4cBjbtVykoXzhh5m8LB) | 3:04 | 2021-07-16 | 2021-07-22 |
 | [Girls](https://open.spotify.com/track/2CRK2gpsJ8sDcYirGYZrF1) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Girls](https://open.spotify.com/album/24Q4mP7478fGZpfgOw0PHw) | 2:44 | 2022-06-29 | 2022-07-28 |
@@ -1533,6 +1535,7 @@
 | [I Don't Wanna Know You Anymore](https://open.spotify.com/track/0mkL68FkzRijn8VeP4oJnk) | [kate the dreamer](https://open.spotify.com/artist/40ibIOBa1cL6bAVKDZMf3F) | [I Don't Wanna Know You Anymore](https://open.spotify.com/album/6EIWmYczIxhr988Gu9BNcG) | 3:32 | 2022-01-26 | 2022-03-03 |
 | [i don't wanna know!](https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [i don't wanna know!](https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R) | 3:39 | 2022-09-14 | 2022-10-20 |
 | [I Don't Want It](https://open.spotify.com/track/3Nwnr2lIdTldyaSgx2Nhz9) | [Emmy Law](https://open.spotify.com/artist/5ZyLxwYnsgiwUL9G28Csry) | [I Don't Want It](https://open.spotify.com/album/3eNrfp3INWQUcv8qlw5cUh) | 3:07 | 2022-01-12 | 2022-02-10 |
+| [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-18 |  |
 | [i dont miss you](https://open.spotify.com/track/3btoAWNwDFGEkkbDNZpHAg) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [i dont miss you](https://open.spotify.com/album/1tkIUAogdzIRIXQDJ3SfYe) | 2:19 | 2021-09-02 | 2021-10-14 |
 | [I Fear](https://open.spotify.com/track/1svaDQEqxrqu8YaVRkGTJe) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [I Fear](https://open.spotify.com/album/2Zp5vehQ8E4b3nYWXnoxvM) | 3:08 | 2024-09-11 |  |
 | [I Feel Good!](https://open.spotify.com/track/4ce8bX7VcTl40aCVcTFkhi) | [Jason LoCricchio](https://open.spotify.com/artist/4ipdFPw9kXFc6TWPJ6VSFw), [Slake Dransky](https://open.spotify.com/artist/1fUgubQGb9QC5G4FVEIBQq) | [I Feel Good!](https://open.spotify.com/album/4jyhZZuc6JJPsCM1jH9Qgz) | 3:00 | 2021-07-29 | 2021-09-16 |
@@ -2466,6 +2469,7 @@
 | [Picture Perfect Standard](https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Picture Perfect Standard](https://open.spotify.com/album/4Y7RlGQR1n7QpzKhdFlHde) | 2:28 | 2024-05-22 | 2024-06-28 |
 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 | 2024-03-06 | 2024-07-18 |
 | [PIECES](https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ) | [Galli J](https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW) | [PIECES](https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5) | 2:58 | 2024-04-03 | 2024-06-13 |
+| [pigs fly](https://open.spotify.com/track/1wxT2v1VTtGKrbJ2f3zpPp) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [pigs fly](https://open.spotify.com/album/4SivwVita0ik0ZDsUumcXx) | 2:25 | 2024-09-18 |  |
 | [Pills](https://open.spotify.com/track/0XGhXGsnDnoSzXL1T3eCa1) | [Bridges](https://open.spotify.com/artist/0ihM2W92MAW9UMGl5HYnH1) | [Pills](https://open.spotify.com/album/1xx2DyTEJW71GTx9AVsVCm) | 3:15 | 2023-10-25 | 2023-11-30 |
 | [pimped up car](https://open.spotify.com/track/7HgBjlvY4mz5J79nq6masM) | [Sweats](https://open.spotify.com/artist/5REPfq5y3U0D1KTig2DTdW) | [pimped up car](https://open.spotify.com/album/0SMGmyu1Lx8CgRagJLLMDx) | 2:39 | 2021-04-15 | 2021-05-13 |
 | [Pinball](https://open.spotify.com/track/1P6yfvLrKTqFOuPj3360IP) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Pinball](https://open.spotify.com/album/6VCUrHJa1DySNIjTF8kFvI) | 3:09 | 2022-05-18 | 2022-06-30 |
@@ -3512,6 +3516,7 @@
 | [When You Go](https://open.spotify.com/track/4j77vZNmjicRp8VXj7umA6) | [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [When You Go](https://open.spotify.com/album/50fipKFopDRKBGgdO8hd6y) | 3:40 | 2021-07-02 | 2021-08-20 |
 | [When You Love Someone](https://open.spotify.com/track/0A5WWYXLTLpQ1IFBdgazI7) | [Alessia De Gasperis](https://open.spotify.com/artist/27d6mRgPBvGasBzQ9KFMGO) | [When You Love Someone](https://open.spotify.com/album/3Zg8pJZCrNDeR7NMkZCaCq) | 2:41 | 2022-03-23 | 2022-04-28 |
 | [When You're Alone](https://open.spotify.com/track/5kWzY9yR2a1UjVsiV1499w) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [When You're Alone](https://open.spotify.com/album/3MxyMF7y8ZBAQtXaBh2Hbg) | 2:30 | 2022-06-29 | 2022-07-28 |
+| [WHEN YOU'RE DONE BREAKING MY HEART](https://open.spotify.com/track/4VnBXYRSypUYd4kngIMdmL) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHEN YOU'RE DONE BREAKING MY HEART](https://open.spotify.com/album/259wrf5pg5yvdsiZpeRQ6a) | 2:12 | 2024-09-18 |  |
 | [Whenever He Asks](https://open.spotify.com/track/3ttjgQ1nhPqcFjh4s4mWlm) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Whenever He Asks](https://open.spotify.com/album/2JVNGJVStght0rWOJH1S97) | 2:38 | 2021-05-20 | 2021-06-18 |
 | [Where Did Our Summer Go?](https://open.spotify.com/track/3jXBcHlRAPcRJMZ5oQ7ilD) | [Tony Ferrari](https://open.spotify.com/artist/2OwJfEHbju9I3yrWL5Fq3T) | [Where Did Our Summer Go?](https://open.spotify.com/album/2O2hJF8PAo5CtpIWPgYS2Z) | 2:31 | 2020-10-13\* | 2020-12-08 |
 | [Where Do You Go?](https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Where Do You Go?](https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq) | 2:27 | 2023-08-09 | 2023-09-14 |

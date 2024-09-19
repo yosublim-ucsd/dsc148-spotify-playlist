@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,942 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,966 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 49 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 |
 | 50 | [ILY](https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [ILY](https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs) | 2:50 |
 
-Snapshot ID: `ZuNknAAAAAC+81ILqi+fIPans80tBl0o`
+Snapshot ID: `ZuNknAAAAAA9s/SOz/QRAIef4kElindQ`

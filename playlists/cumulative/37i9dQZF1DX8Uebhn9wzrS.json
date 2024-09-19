@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 119817,
       "name": "air balloon",
       "url": "https://open.spotify.com/track/5c9q5CvAtO4xDTnyQuGKuO"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -18266,7 +18266,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"
@@ -19224,7 +19224,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 130909,
       "name": "Logic",
       "url": "https://open.spotify.com/track/4UJTjZbZWhRbFAylC2HtUu"
@@ -31299,6 +31299,24 @@
     },
     {
       "album": {
+        "name": "Souls Aligned",
+        "url": "https://open.spotify.com/album/2qLykBrQDbVxIVt121KFL7"
+      },
+      "artists": [
+        {
+          "name": "Walter Stewart",
+          "url": "https://open.spotify.com/artist/3vfsss4OqjEykpWXeDnSCp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "Souls Aligned",
+      "url": "https://open.spotify.com/track/5UDORPwmroyT5gJDm2SDAl"
+    },
+    {
+      "album": {
         "name": "SoulShower",
         "url": "https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX"
       },
@@ -36152,6 +36170,32 @@
       "duration_ms": 156585,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/1vuLMF20jm8Y0bupcAf1FR"
+    },
+    {
+      "album": {
+        "name": "two be ok",
+        "url": "https://open.spotify.com/album/16KAvZBlpvwDMryh4q2LsZ"
+      },
+      "artists": [
+        {
+          "name": "Torky Tork",
+          "url": "https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Greedo",
+          "url": "https://open.spotify.com/artist/23o3FXVfRj8CZIy1fGidqm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108458,
+      "name": "two be ok",
+      "url": "https://open.spotify.com/track/3nX5fCaHebcf2Ct5LM80e0"
     },
     {
       "album": {

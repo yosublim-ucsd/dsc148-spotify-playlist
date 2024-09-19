@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/5crNpsZuMt06e81Ppqp4PH"
@@ -13972,7 +13972,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 153928,
       "name": "DOS D\u00cdAS",
       "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
@@ -20536,7 +20536,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 185265,
       "name": "Good Graces",
       "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
@@ -21458,6 +21458,28 @@
       "duration_ms": 220396,
       "name": "Happy Death Day",
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
+    },
+    {
+      "album": {
+        "name": "Maze (Remastered)",
+        "url": "https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431000,
+      "name": "Happy Feelin's - Remastered",
+      "url": "https://open.spotify.com/track/59Qbrc7C5qIPpWnZxBTkxR"
     },
     {
       "album": {
@@ -27594,6 +27616,28 @@
       "duration_ms": 247177,
       "name": "JOKER",
       "url": "https://open.spotify.com/track/0HkoTr9t0f6MeqGoUS3E3e"
+    },
+    {
+      "album": {
+        "name": "Joy And Pain (Remastered 2004)",
+        "url": "https://open.spotify.com/album/3A6MtU3VlM2MrapgRbddlh"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434533,
+      "name": "Joy And Pain - Remastered 2004",
+      "url": "https://open.spotify.com/track/3q2hg4GX7ALh2pYdgzDpft"
     },
     {
       "album": {
@@ -56036,7 +56080,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

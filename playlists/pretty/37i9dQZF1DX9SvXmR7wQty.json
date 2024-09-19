@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS",
-  "num_followers": 41830,
+  "num_followers": 41837,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,42 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "TOKA",
+        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "TOKA",
+      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Ma troisi\u00e8me \u00e9mergence",
+        "url": "https://open.spotify.com/album/3l9QxiSz1SmiLP75WFaNoJ"
+      },
+      "artists": [
+        {
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "Y sont o\u00f9?",
+      "url": "https://open.spotify.com/track/09AMnBNrghJWWwme6N04vK"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Allez (feat. PLK & Naps)",
         "url": "https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU"
       },
@@ -411,46 +447,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Ma troisi\u00e8me \u00e9mergence",
-        "url": "https://open.spotify.com/album/3l9QxiSz1SmiLP75WFaNoJ"
-      },
-      "artists": [
-        {
-          "name": "Larynx",
-          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "Y sont o\u00f9?",
-      "url": "https://open.spotify.com/track/09AMnBNrghJWWwme6N04vK"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Tout y est",
-        "url": "https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "Jozii",
-          "url": "https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Tout y est",
-      "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "J'ai le coeur chaud",
         "url": "https://open.spotify.com/album/68WsThCderiLAOdZLcBEqY"
       },
@@ -463,42 +459,6 @@
       "duration_ms": 164098,
       "name": "J'ai le coeur chaud",
       "url": "https://open.spotify.com/track/4dvds4Du1WMVGcAEs5wfvH"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "TOKA",
-        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "TOKA",
-      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "PMB",
-        "url": "https://open.spotify.com/album/5Owi9NDncheOTdi3iID5UJ"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 202377,
-      "name": "PMB",
-      "url": "https://open.spotify.com/track/1WjhTlug9Y1GbBtZ8mp4En"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -559,6 +519,46 @@
       "duration_ms": 480160,
       "name": "Sous le soleil",
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "PMB",
+        "url": "https://open.spotify.com/album/5Owi9NDncheOTdi3iID5UJ"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 202377,
+      "name": "PMB",
+      "url": "https://open.spotify.com/track/1WjhTlug9Y1GbBtZ8mp4En"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Tout y est",
+        "url": "https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Jozii",
+          "url": "https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Tout y est",
+      "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Maylin",
-        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Maylin",
-      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Un peu",
         "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 177880,
       "name": "Un peu",
       "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Maylin",
+        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Maylin",
+      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
+        "name": "Compl\u00e9mentaires",
+        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
       },
       "artists": [
         {
-          "name": "B.B. Jacques",
-          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
         }
       ],
-      "duration_ms": 161377,
-      "name": "Rayol",
-      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
+      "duration_ms": 192120,
+      "name": "Compl\u00e9mentaires",
+      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
+      },
+      "artists": [
+        {
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+        }
+      ],
+      "duration_ms": 161377,
+      "name": "Rayol",
+      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Mandat de D\u00e9p\u00f4t",
         "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 192468,
       "name": "Darement",
       "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Compl\u00e9mentaires",
-        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Compl\u00e9mentaires",
-      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Trappo officiel",
-          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "TPLM",
         "url": "https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 152626,
       "name": "Ma Life",
       "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "added_at": "2024-09-13 04:01:00",

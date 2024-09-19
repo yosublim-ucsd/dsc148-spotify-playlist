@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,799 songs - 1 day 13 hr 4 min
+1,800 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,6 +1138,7 @@
 | [Our Contemplations Arr\. For Cello And Felt Piano](https://open.spotify.com/track/55iTFgV44G8RPYwOeCloDh) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Evening Cello Preludes](https://open.spotify.com/album/3wgd7Qtc89NsHPujTsMrAH) | 1:02 | 2023-04-19 | 2024-02-13 |
 | [Our Hope](https://open.spotify.com/track/5WRURK4pSM0zW2KAYRVpnd) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 1:03 | 2022-10-26 |  |
 | [Our Life \- Grand Piano Version](https://open.spotify.com/track/2vrhkDp8gLMWzQcg9wGj4Q) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Our Life](https://open.spotify.com/album/4geK44LV3BgMO4WtPp3pkS) | 1:00 | 2024-07-14 |  |
+| [Our Light](https://open.spotify.com/track/3FC1uK5HktLKW6U7Ac3IZb) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Our Light](https://open.spotify.com/album/5KoRMii4p6PxSZVblslk2d) | 1:00 | 2024-09-18 |  |
 | [Our Love](https://open.spotify.com/track/1kRFLxLcYCr8NxyfQmLfjq) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Our Love](https://open.spotify.com/album/65yeCVnowVFBRZ2wAedAZG) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Our Time](https://open.spotify.com/track/1Hl9OB0Gafyd2cKMZcARfx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:20 | 2022-03-14 | 2024-01-30 |
 | [Our Years](https://open.spotify.com/track/29p3TUzToo2wSOcEjHsHxu) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:04 | 2022-03-03 |  |

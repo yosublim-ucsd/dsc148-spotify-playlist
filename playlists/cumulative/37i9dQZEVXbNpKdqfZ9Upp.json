@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -14740,7 +14740,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 166399,
       "name": "Feriado",
       "url": "https://open.spotify.com/track/0CyhLA1qjIinJAGnJYk1oK"
@@ -19484,7 +19484,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -28548,6 +28548,28 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Honduras...Nostalgia y Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/37yk0bitRyVJ6Cukt8y1Uh"
+      },
+      "artists": [
+        {
+          "name": "Moises Canelo",
+          "url": "https://open.spotify.com/artist/2C3It5U11BCyz3ylE7xPLP"
+        },
+        {
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "Noche de Santa B\u00e1rbara",
+      "url": "https://open.spotify.com/track/6Md4rc3yKzou36OMS8DTuS"
     },
     {
       "album": {
@@ -38620,7 +38642,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 150365,
       "name": "Tal Vez Fui Yo",
       "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
@@ -43088,7 +43110,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 264040,
       "name": "Vivo Por Ella (feat. KAROL G)",
       "url": "https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS"
@@ -44695,6 +44717,24 @@
     },
     {
       "album": {
+        "name": "W\u00e9ndeti Nagaira",
+        "url": "https://open.spotify.com/album/6PUqBwvA3q8WzjexekRUzY"
+      },
+      "artists": [
+        {
+          "name": "Manu Martinez",
+          "url": "https://open.spotify.com/artist/6PqLBIPs7YfXDxZjIygq58"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277532,
+      "name": "W\u00e9ndeti Nagaira",
+      "url": "https://open.spotify.com/track/1E5vVC8xs3t7L0C4i7nuLu"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -45932,7 +45972,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 235833,
       "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
       "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"

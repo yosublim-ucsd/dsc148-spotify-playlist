@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring okgiorgio
 
-967 songs - 2 day 5 hr 29 min
+968 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 | 2022-06-18 |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-29 |  |
 | [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 | 2023-06-16 | 2023-09-08 |
+| [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 | 2024-09-18 |  |
 | [Halo](https://open.spotify.com/track/5Ee0r9PetOsxgEG5h9IyqL) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV) | [Halo](https://open.spotify.com/album/7p0OAMkrvyhbv0z7wVdBQm) | 2:22 | 2024-01-19 | 2024-09-13 |
 | [Hate Me](https://open.spotify.com/track/3ssp4lKrOF6w2gjvv7b1Ob) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Hate Me](https://open.spotify.com/album/791xaBWibssKKGL0Xromdb) | 2:39 | 2022-08-19 | 2022-12-03 |
 | [Hate Me Now](https://open.spotify.com/track/3KoTzABGGYyGkyBqrI42aj) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Hate Me Now](https://open.spotify.com/album/6RPK9R0ntzQKYkM0Mr70LU) | 4:08 | 2022-07-15 | 2022-11-12 |
@@ -522,7 +523,7 @@
 | [Levitate](https://open.spotify.com/track/6s1QzH32RMY4N7ybU5EPyr) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [BACK TO 123](https://open.spotify.com/album/4jkbFNTQYE2Yd8yxK8G6q8) | 8:12 | 2023-04-01 | 2023-10-27 |
 | [Licorice \(Remix\)](https://open.spotify.com/track/3NDO1bobrUKwLlUSbkYlSI) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Licorice \(Remix\)](https://open.spotify.com/album/1OdOLOrBQ0KmX4fBgT2teI) | 3:29 | 2022-01-07 | 2022-02-28 |
 | [Life's Unease](https://open.spotify.com/track/6Rlg5kqnGRVOMaXCdWBN4m) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Life's Unease](https://open.spotify.com/album/515w0KVMxgpzt7APQ7rCFc) | 5:15 | 2022-08-12 | 2022-08-20 |
-| [Light Stops Dripping Through The Stars \- Sewerslvt Remix](https://open.spotify.com/track/6OHWYgAcTpBhCAdShyretc) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Light Stops Dripping Through The Stars \(Sewerslvt Remix\)](https://open.spotify.com/album/3TdP57LyA8XjyUOVXoCDnN) | 6:07 | 2024-01-29 |  |
+| [Light Stops Dripping Through The Stars \- Sewerslvt Remix](https://open.spotify.com/track/6OHWYgAcTpBhCAdShyretc) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Light Stops Dripping Through The Stars \(Sewerslvt Remix\)](https://open.spotify.com/album/3TdP57LyA8XjyUOVXoCDnN) | 6:07 | 2024-01-29 | 2024-09-19 |
 | [LiiTE\_13\-37 w/ iglooghost](https://open.spotify.com/track/0uTrVniKqic1122qBJOjkg) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [LiiTE\_13\-37 w/ iglooghost](https://open.spotify.com/album/3WBeZU1u2MIKiK0jrwANcu) | 2:52 | 2022-05-06 | 2022-11-12 |
 | [Like I Need U](https://open.spotify.com/track/51nw10yLvdtq9ASHgm1P42) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Like I Need U](https://open.spotify.com/album/50QPHuRFKiJF5WnEMwr0W7) | 3:25 | 2024-06-14 |  |
 | [Like Thunder](https://open.spotify.com/track/7kJlhhLM5lhJBDktnL0uPZ) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Like Thunder](https://open.spotify.com/album/78fKERJ7JYxRx89Xs1fUAx) | 2:51 | 2022-04-08 | 2022-04-12 |

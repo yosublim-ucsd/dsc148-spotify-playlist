@@ -4,7 +4,7 @@
 
 > Music from Don Toliver, Playboi Carti and Juice WRLD.
 
-2,152 songs - 4 day 15 hr 44 min
+2,153 songs - 4 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1918,6 +1918,7 @@
 | [Told Ya](https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Told Ya](https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz) | 2:48 | 2024-01-12 | 2024-01-27 |
 | [Tombstone](https://open.spotify.com/track/5pRTz4O2qOkr5nawemy6Wb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/3NNLR5rt9WpUqbRJqpV5zH) | 2:40 | 2021-03-31 | 2021-04-30 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-23 | 2023-01-14 |
+| [Tony Montana \(feat\. Drake\)](https://open.spotify.com/track/1IWXAWo4u0H1D0QvSpvldn) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pluto 3D](https://open.spotify.com/album/1MJ0UQh7nta4JGuFYW4gCg) | 4:05 | 2024-09-18 |  |
 | [Too Blessed](https://open.spotify.com/track/79OsVQutiLllWaiDTcKl5M) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Too Blessed](https://open.spotify.com/album/5xPypwH9YfbpxXMDqdQGTI) | 3:20 | 2020-09-04 | 2020-10-27 |
 | [Too Easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 | 2021-09-25 | 2021-12-04 |
 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe) | 3:17 | 2021-12-03 | 2022-01-14 |

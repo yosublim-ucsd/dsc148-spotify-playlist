@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110099,
+  "num_followers": 110113,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-09-06 17:30:06",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-09-06 17:30:06",
-      "album": {
         "name": "in the light and shadows",
         "url": "https://open.spotify.com/album/4ovbdT33akJwJUqKCzDK2l"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 174511,
       "name": "angel",
       "url": "https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w"
+    },
+    {
+      "added_at": "2024-09-06 17:30:06",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-09-06 17:30:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-06 17:30:06",
       "album": {
-        "name": "Asereje (Airplane Mode)",
-        "url": "https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf"
-      },
-      "artists": [
-        {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Asereje (Airplane Mode)",
-      "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
-    },
-    {
-      "added_at": "2024-09-06 17:30:06",
-      "album": {
         "name": "Od kiedy jeste\u015b",
         "url": "https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 182137,
       "name": "Od kiedy jeste\u015b",
       "url": "https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd"
+    },
+    {
+      "added_at": "2024-09-06 17:30:06",
+      "album": {
+        "name": "Asereje (Airplane Mode)",
+        "url": "https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Asereje (Airplane Mode)",
+      "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
     },
     {
       "added_at": "2024-09-06 17:30:06",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-06 17:30:06",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
-    },
-    {
-      "added_at": "2024-09-06 17:30:06",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5xibJmkuKuZrkijK92XLnk"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 138070,
       "name": "River",
       "url": "https://open.spotify.com/track/35VXS9BBZ3YDy9tpq0bQnY"
+    },
+    {
+      "added_at": "2024-09-06 17:30:06",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3j5vfW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3j5vfW)
 
-### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
+### [This Is Nicky Romero ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This is Nicky Romero\. The essential tracks, all in one playlist.
+> This is Nicky Romero\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,597 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,600 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 |
 | 51 | [Let Me Feel \- Radio Edit](https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [When We Are Wild](https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8) | [Let Me Feel \(Radio Edit\)](https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV) | 3:22 |
 
-Snapshot ID: `Zud1AAAAAACiVhu5RP/svgJZadOqGemx`
+Snapshot ID: `Zud1AAAAAAC0AQ2a0Doo9lZJen2GPDLi`

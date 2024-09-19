@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195527,
+  "num_followers": 195516,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Home (Truckstops and Airports)",
-        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 222864,
-      "name": "Home (Truckstops and Airports)",
-      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Home (Truckstops and Airports)",
+        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 222864,
+      "name": "Home (Truckstops and Airports)",
+      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Milkshakes",
+        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Milkshakes",
+      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Kyss mig snabbt i otakt",
         "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Milkshakes",
-        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Milkshakes",
-      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 394696,
       "name": "Europa",
       "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Whole Damn Summer",
-        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "Whole Damn Summer",
-      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "All Over Town",
-        "url": "https://open.spotify.com/album/321cYact51YEkdO42GqeVe"
+        "name": "Whole Damn Summer",
+        "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
         }
       ],
-      "duration_ms": 227106,
-      "name": "All Over Town",
-      "url": "https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne"
+      "duration_ms": 162985,
+      "name": "Whole Damn Summer",
+      "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "All Over Town",
+        "url": "https://open.spotify.com/album/321cYact51YEkdO42GqeVe"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 227106,
+      "name": "All Over Town",
+      "url": "https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "\u00c4lskar du n\u00e5n annan \u00e4n dig",
-        "url": "https://open.spotify.com/album/53bXKv50IjUOwsiknABKB0"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 149580,
-      "name": "\u00c4lskar du n\u00e5n annan \u00e4n dig",
-      "url": "https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Allting som du sa",
         "url": "https://open.spotify.com/album/1VUZi5y6uigZol1pMASuf4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 172880,
       "name": "Allting som du sa",
       "url": "https://open.spotify.com/track/3wgflpkXEzeFG7N156Q5Jx"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "\u00c4lskar du n\u00e5n annan \u00e4n dig",
+        "url": "https://open.spotify.com/album/53bXKv50IjUOwsiknABKB0"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 149580,
+      "name": "\u00c4lskar du n\u00e5n annan \u00e4n dig",
+      "url": "https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Br\u00e4nt varenda rad",
-        "url": "https://open.spotify.com/album/34oxmdHNs46Wp4YgSfsFnY"
-      },
-      "artists": [
-        {
-          "name": "Sebbe Hauta",
-          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Br\u00e4nt varenda rad",
-      "url": "https://open.spotify.com/track/4MB6EdeMVGtoSdNW0UyEJ9"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "S\u00e5nger om dig",
         "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Br\u00e4nt varenda rad",
+        "url": "https://open.spotify.com/album/34oxmdHNs46Wp4YgSfsFnY"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Br\u00e4nt varenda rad",
+      "url": "https://open.spotify.com/track/4MB6EdeMVGtoSdNW0UyEJ9"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Flowers at a Funeral",
-        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Flowers at a Funeral",
-      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Hon \u00e4r vild",
         "url": "https://open.spotify.com/album/28dPgtLK8PND2rzZHCNwbk"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 144510,
       "name": "Hon \u00e4r vild",
       "url": "https://open.spotify.com/track/1Th1uvS3oPsZP30JiMuSHw"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Som du r\u00f6r dig",
-        "url": "https://open.spotify.com/album/6leT3esDbYQrR47KUGgEM7"
-      },
-      "artists": [
-        {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "Naasty",
-          "url": "https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Som du r\u00f6r dig",
-      "url": "https://open.spotify.com/track/2wzXMY7p5Y5eXh7pDznhKM"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Mer du mer allt",
-        "url": "https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv"
+        "name": "Som du r\u00f6r dig",
+        "url": "https://open.spotify.com/album/6leT3esDbYQrR47KUGgEM7"
       },
       "artists": [
         {
-          "name": "Elias Abbas",
-          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "Naasty",
+          "url": "https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Mer du mer allt",
-      "url": "https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL"
+      "duration_ms": 133933,
+      "name": "Som du r\u00f6r dig",
+      "url": "https://open.spotify.com/track/2wzXMY7p5Y5eXh7pDznhKM"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Sorgetornets spejare",
-        "url": "https://open.spotify.com/album/5d7FRhQCWZA2w7imnObJR3"
+        "name": "Mer du mer allt",
+        "url": "https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv"
       },
       "artists": [
         {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Sorgetornets spejare",
-      "url": "https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC"
+      "duration_ms": 156666,
+      "name": "Mer du mer allt",
+      "url": "https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1163,6 +1147,38 @@
       "duration_ms": 188400,
       "name": "Ingenting",
       "url": "https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Sorgetornets spejare",
+        "url": "https://open.spotify.com/album/5d7FRhQCWZA2w7imnObJR3"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Sorgetornets spejare",
+      "url": "https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Ramlar jag s\u00e5 faller allt",
+        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Ramlar jag s\u00e5 faller allt",
+      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Ramlar jag s\u00e5 faller allt",
-        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
-      },
-      "artists": [
-        {
-          "name": "J1",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "Ramlar jag s\u00e5 faller allt",
-      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Del av dig",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 221418,
       "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Aff\u00e4ren (feat. Dolce)",
-        "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
-      },
-      "artists": [
-        {
-          "name": "Tjejdikter",
-          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
-        },
-        {
-          "name": "Dolce",
-          "url": "https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Aff\u00e4ren (feat. Dolce)",
-      "url": "https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 150247,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Aff\u00e4ren (feat. Dolce)",
+        "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
+      },
+      "artists": [
+        {
+          "name": "Tjejdikter",
+          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
+        },
+        {
+          "name": "Dolce",
+          "url": "https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Aff\u00e4ren (feat. Dolce)",
+      "url": "https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "En F\u00f6rsta Dans",
-        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "En F\u00f6rsta Dans",
-      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "P\u00e5 sommaren",
-        "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Rasch",
-          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
-        }
-      ],
-      "duration_ms": 191073,
-      "name": "P\u00e5 sommaren",
-      "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Eran L\u00e5t",
         "url": "https://open.spotify.com/album/3kgvErBkHvTjWzLB4TfeSJ"
       },
@@ -1383,6 +1351,70 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "P\u00e5 sommaren",
+        "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
+        }
+      ],
+      "duration_ms": 191073,
+      "name": "P\u00e5 sommaren",
+      "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Tappat Sina Blad",
+        "url": "https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ"
+      },
+      "artists": [
+        {
+          "name": "Aron Milton",
+          "url": "https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Tappat Sina Blad",
+      "url": "https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "En F\u00f6rsta Dans",
+        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "En F\u00f6rsta Dans",
+      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Sunwarmed",
+        "url": "https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Bellyaches",
+      "url": "https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1419,38 +1451,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Tappat Sina Blad",
-        "url": "https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ"
-      },
-      "artists": [
-        {
-          "name": "Aron Milton",
-          "url": "https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Tappat Sina Blad",
-      "url": "https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Sunwarmed",
-        "url": "https://open.spotify.com/album/3ba5g3qPbEVz7nSBwEKrSY"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Bellyaches",
-      "url": "https://open.spotify.com/track/7byx1GmBeV3kdKmGZNdAAO"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 202733,
       "name": "Sockerdricka",
       "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Inget Lyckligt Slut",
+        "url": "https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs"
+      },
+      "artists": [
+        {
+          "name": "Aron Milton",
+          "url": "https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Inget Lyckligt Slut",
+      "url": "https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
-      },
-      "artists": [
-        {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
-        }
-      ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Inget Lyckligt Slut",
-        "url": "https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs"
-      },
-      "artists": [
-        {
-          "name": "Aron Milton",
-          "url": "https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Inget Lyckligt Slut",
-      "url": "https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Pl\u00e5ster",
         "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+      },
+      "artists": [
+        {
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Parasit",
-        "url": "https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O"
-      },
-      "artists": [
-        {
-          "name": "Ella Rammelt",
-          "url": "https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE"
-        }
-      ],
-      "duration_ms": 151348,
-      "name": "Parasit",
-      "url": "https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "When Are You Coming My Way",
         "url": "https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 139588,
       "name": "When Are You Coming My Way",
       "url": "https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O"
+      },
+      "artists": [
+        {
+          "name": "Ella Rammelt",
+          "url": "https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE"
+        }
+      ],
+      "duration_ms": 151348,
+      "name": "Parasit",
+      "url": "https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Trouble in Paradise",
+        "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
+      },
+      "artists": [
+        {
+          "name": "XOV",
+          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
+        }
+      ],
+      "duration_ms": 204489,
+      "name": "Trouble in Paradise",
+      "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "St\u00e5lar p\u00e5 Dovas",
         "url": "https://open.spotify.com/album/1AZYQ8w2xAqetCpRB9Yj4j"
       },
@@ -1803,26 +1819,6 @@
       "duration_ms": 155520,
       "name": "St\u00e5lar p\u00e5 Dovas",
       "url": "https://open.spotify.com/track/5Lex8jg34MtSI3k35Izbps"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Ingen reklam tack",
-        "url": "https://open.spotify.com/album/1IsTiCFLSJIdYNGe6bbr4k"
-      },
-      "artists": [
-        {
-          "name": "Ninjaneers",
-          "url": "https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW"
-        },
-        {
-          "name": "Magnus Rytterstam",
-          "url": "https://open.spotify.com/artist/27HfAM9HQFIzt33cg0ilcf"
-        }
-      ],
-      "duration_ms": 144925,
-      "name": "Ingen reklam tack",
-      "url": "https://open.spotify.com/track/7cNfQb7pMKKRQygje3oerX"
     },
     {
       "added_at": "2024-09-12 22:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Whitney Houston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO476tMI)
 
-> This Is Whitney Houston\. Los temas esenciales, todos en una lista.
+> This Is Whitney Houston\. Todas as faixas essenciais numa única playlist.
 
 63 songs - 4 hr 34 min
 

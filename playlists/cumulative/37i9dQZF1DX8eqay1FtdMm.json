@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Solji(\uc194\uc9c0)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Jang Hye Jin(\uc7a5\ud61c\uc9c4)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1102,6 +1102,24 @@
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
+    },
+    {
+      "album": {
+        "name": "Beside you (Better Days X Jang Hye-Jin)",
+        "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
+      },
+      "artists": [
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Beside you",
+      "url": "https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq"
     },
     {
       "album": {
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
@@ -8478,7 +8496,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 283192,
       "name": "Til You Love Me Again",
       "url": "https://open.spotify.com/track/6kG4Yi4Rc0J89uO6XjXRkP"

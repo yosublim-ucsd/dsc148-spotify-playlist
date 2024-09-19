@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,974 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,997 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 |
 | 2 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
 | 3 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 |
-| 4 | [No Komas Keso en Exzeso](https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [La Nueva Mayoría](https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr) | 1:28 |
-| 5 | [Tus Bragas](https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [Ay De Mi!](https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E) | 3:18 |
+| 4 | [Tus Bragas](https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [Ay De Mi!](https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E) | 3:18 |
+| 5 | [No Komas Keso en Exzeso](https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [La Nueva Mayoría](https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr) | 1:28 |
 | 6 | [Piedra Contra Tijera](https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Tiempos Oscuros](https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9) | 3:15 |
 | 7 | [Ahora Me Importa una Mierda](https://open.spotify.com/track/4ii0z7sM4GNXOGVaGujCT9) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/7EVAAxBNm2ZnPBtQWd8eCy) | 3:57 |
 | 8 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 60 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
 | 61 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 62 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
-| 63 | [El Caso del Hombre Serio y Formal](https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [El Caso del Hombre Serio y Formal](https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq) | 3:10 |
-| 64 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
+| 63 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
+| 64 | [El Caso del Hombre Serio y Formal](https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [El Caso del Hombre Serio y Formal](https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq) | 3:10 |
 | 65 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 66 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
 | 67 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 82 | [No tengo solucion para ese problema](https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [No tengo solucion para ese problema](https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa) | 2:55 |
 | 83 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 |
 | 84 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
-| 85 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
-| 86 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 85 | [Una Noche Más](https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [Una Noche Más](https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7) | 3:32 |
+| 86 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
 | 87 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 |
 | 88 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 |
 | 89 | [Basura](https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO) | [Basura](https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg) | 2:50 |

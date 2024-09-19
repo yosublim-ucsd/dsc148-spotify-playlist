@@ -2,7 +2,7 @@
 
 ### [This Is Pauline Oliveros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cRKhO)
 
-> This is Pauline Oliveros\. Todos os maiores hits em uma só playlist.
+> This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
 207 songs - 1 day 12 hr 9 min
 

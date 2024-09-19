@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Erich en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79470,
+  "num_followers": 79461,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-09-13 06:03:00",
       "album": {
+        "name": "Desconocernos",
+        "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Desconocernos",
+      "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
+    },
+    {
+      "added_at": "2024-09-13 06:03:00",
+      "album": {
         "name": "\u00c1mbar",
         "url": "https://open.spotify.com/album/31ckJdxv9vVBPfv2I5FDFj"
       },
@@ -895,22 +915,22 @@
     {
       "added_at": "2024-09-13 06:03:00",
       "album": {
-        "name": "Desconocernos",
-        "url": "https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K"
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
       "artists": [
         {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         },
         {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Desconocernos",
-      "url": "https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC"
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
     },
     {
       "added_at": "2024-09-13 06:03:00",
@@ -951,22 +971,18 @@
     {
       "added_at": "2024-09-13 06:03:00",
       "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
         }
       ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
+      "duration_ms": 170016,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
     },
     {
       "added_at": "2024-09-13 06:03:00",
@@ -983,22 +999,6 @@
       "duration_ms": 183964,
       "name": "nena",
       "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
-    },
-    {
-      "added_at": "2024-09-13 06:03:00",
-      "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 170016,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
     },
     {
       "added_at": "2024-09-13 06:03:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-13 06:03:00",
       "album": {
-        "name": "Toda La Luz",
-        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Toda La Luz",
-      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
-    },
-    {
-      "added_at": "2024-09-13 06:03:00",
-      "album": {
         "name": "sobrenatural",
         "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 157440,
       "name": "sobrenatural",
       "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "added_at": "2024-09-13 06:03:00",
+      "album": {
+        "name": "Toda La Luz",
+        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Toda La Luz",
+      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
     },
     {
       "added_at": "2024-09-13 06:03:00",

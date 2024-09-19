@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 138583,
+  "num_followers": 138723,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
         "name": "Corridos De Caballos Famosos",
         "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 233613,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 185880,
       "name": "El Rey De Los Coleaderos",
       "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -647,50 +647,22 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+        "name": "El Pulm\u00f3n",
+        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 164821,
-      "name": "Caballo R-15 - En Vivo",
-      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
+          "name": "Contrafuego",
+          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
+        },
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 246360,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 206889,
-      "name": "El Caballo Bayo",
-      "url": "https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI"
+      "duration_ms": 212813,
+      "name": "El Pulm\u00f2n",
+      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -711,22 +683,50 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "El Pulm\u00f3n",
-        "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
       "artists": [
         {
-          "name": "Contrafuego",
-          "url": "https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x"
-        },
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 212813,
-      "name": "El Pulm\u00f2n",
-      "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
+      "duration_ms": 206889,
+      "name": "El Caballo Bayo",
+      "url": "https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 164821,
+      "name": "Caballo R-15 - En Vivo",
+      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2024-07-03 18:08:34",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-03 18:08:34",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2024-07-03 18:08:34",
-      "album": {
         "name": "Mi Potrillo",
         "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 210800,
       "name": "Mi Potrillo",
       "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+    },
+    {
+      "added_at": "2024-07-03 18:08:34",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": "2024-07-03 18:08:34",

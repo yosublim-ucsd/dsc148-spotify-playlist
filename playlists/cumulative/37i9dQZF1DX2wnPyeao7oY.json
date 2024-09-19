@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: LOCKED SHUT | Artwork: Nejc Prah",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: Silly Goose | Artwork: Nejc Prah",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 247320,
       "name": "Aquila",
       "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
+    },
+    {
+      "album": {
+        "name": "Bad Behavior",
+        "url": "https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199334,
+      "name": "Bad Behavior",
+      "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
     },
     {
       "album": {
@@ -178,7 +196,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 235426,
       "name": "Brandish The Blade",
       "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 226572,
       "name": "LIGHT",
       "url": "https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN"
@@ -1031,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "No Mercy, No Remorse",
+        "url": "https://open.spotify.com/album/4yCPhsLVlRQ1HVA0dH3uXm"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "No Mercy, No Remorse",
+      "url": "https://open.spotify.com/track/7fVuehJJQ7tccou7HcNtCD"
+    },
+    {
+      "album": {
         "name": "Holy Blade",
         "url": "https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N"
       },
@@ -1104,6 +1140,24 @@
       "duration_ms": 236460,
       "name": "Poisoned Apple",
       "url": "https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB"
+    },
+    {
+      "album": {
+        "name": "Second Sun",
+        "url": "https://open.spotify.com/album/1OQwuRnYVMlHwZQVDomb8f"
+      },
+      "artists": [
+        {
+          "name": "OBEYER",
+          "url": "https://open.spotify.com/artist/5CCKfot4uTuUtHhzFMk03Q"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259874,
+      "name": "Radiant",
+      "url": "https://open.spotify.com/track/1WsNQUIHDgya2psMeRVoG5"
     },
     {
       "album": {
@@ -1424,7 +1478,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 199047,
       "name": "The Straw",
       "url": "https://open.spotify.com/track/3sSP1Xg74gX4ICfHLe1SFP"
@@ -1496,10 +1550,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 224924,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
+    },
+    {
+      "album": {
+        "name": "Twitching On The Cross",
+        "url": "https://open.spotify.com/album/6KYwRXq9egHcIp8klVf6J4"
+      },
+      "artists": [
+        {
+          "name": "Tribal Gaze",
+          "url": "https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Twitching On The Cross",
+      "url": "https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto:  Rincon Sapiência, Mc Luki
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,482 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,518 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Momentos](https://open.spotify.com/track/4gXbu96gGyRM52KFYGBge5) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Douglas Lemos](https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:23 |
 | 75 | [Quantos São?](https://open.spotify.com/track/7yICWklR1S4NldM1y1m1cO) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Quantos São?](https://open.spotify.com/album/317P1ydLQMI6g8JcGT1IHa) | 3:00 |
 
-Snapshot ID: `ZuOq7AAAAAAzEBzf/uoDrUNnOalyPFcg`
+Snapshot ID: `ZuOq7AAAAABsG7Zo7LPttqcjNG0ArBV2`

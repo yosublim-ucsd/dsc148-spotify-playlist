@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 225823,
+  "num_followers": 225866,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-09-13 18:34:29",
-      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+    },
+    {
+      "added_at": "2024-09-13 18:34:29",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-09-13 18:34:29",
@@ -1819,30 +1819,6 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
-        "name": "Lonely (AVAION Remix)",
-        "url": "https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        },
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 235577,
-      "name": "Lonely - AVAION Remix",
-      "url": "https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU"
-    },
-    {
-      "added_at": "2024-09-13 18:34:29",
-      "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
       },
@@ -1863,6 +1839,22 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
+        "name": "Save Our Ship (SOS)",
+        "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 197169,
+      "name": "Save Our Ship (SOS)",
+      "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
+    },
+    {
+      "added_at": "2024-09-13 18:34:29",
+      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1879,18 +1871,26 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
-        "name": "Save Our Ship (SOS)",
-        "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
+        "name": "Lonely (AVAION Remix)",
+        "url": "https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308"
       },
       "artists": [
         {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 197169,
-      "name": "Save Our Ship (SOS)",
-      "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
+      "duration_ms": 235577,
+      "name": "Lonely - AVAION Remix",
+      "url": "https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU"
     },
     {
       "added_at": "2024-09-13 18:34:29",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 224809,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
+    },
+    {
+      "added_at": "2024-09-13 18:34:29",
+      "album": {
         "name": "It Isn't Easy (feat. EKKSTACY)",
         "url": "https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 232999,
       "name": "It Isn't Easy (feat. EKKSTACY)",
       "url": "https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo"
-    },
-    {
-      "added_at": "2024-09-13 18:34:29",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 224809,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
     },
     {
       "added_at": "2024-09-13 18:34:29",
@@ -2147,38 +2147,6 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
-        "name": "Too Many Questions",
-        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Too Many Questions",
-      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
-    },
-    {
-      "added_at": "2024-09-13 18:34:29",
-      "album": {
-        "name": "STAMINA",
-        "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "SOMETIMES I NEED TO YELL",
-      "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
-    },
-    {
-      "added_at": "2024-09-13 18:34:29",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
       },
@@ -2211,22 +2179,34 @@
     {
       "added_at": "2024-09-13 18:34:29",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw"
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
       },
       "artists": [
         {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         }
       ],
-      "duration_ms": 166917,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
+      "duration_ms": 197000,
+      "name": "SOMETIMES I NEED TO YELL",
+      "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
+    },
+    {
+      "added_at": "2024-09-13 18:34:29",
+      "album": {
+        "name": "Too Many Questions",
+        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Too Many Questions",
+      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
     },
     {
       "added_at": "2024-09-13 18:34:29",
@@ -2267,6 +2247,26 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "added_at": "2024-09-13 18:34:29",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 166917,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
     },
     {
       "added_at": "2024-09-13 18:34:29",

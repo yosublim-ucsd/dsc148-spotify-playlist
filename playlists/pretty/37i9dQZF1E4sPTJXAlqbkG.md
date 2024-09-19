@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 > With Brent Faiyaz, Summer Walker, Jhené Aiko and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,743 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,826 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [Me U and Hennessy](https://open.spotify.com/track/5xzcgldpCjPqgpE5clKkQO) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Heres to the Roc](https://open.spotify.com/album/6FZ0Q7sIo4itjsjn4WYw2C) | 3:45 |
 | 50 | [stranger](https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:34 |
 
-Snapshot ID: `Zuo8LwAAAACPXUrSPydd9unCFmeZWCaK`
+Snapshot ID: `ZuuVlwAAAAAZCrc1fySGNFhy2gJDsHqh`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,855 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,916 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Enakke Enakkaa](https://open.spotify.com/track/468DmIR7WVHAaZZXm4Zbpv) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 7:09 |
+| 1 | [Kannuodu Kaanbadhalam](https://open.spotify.com/track/5XI8QHHWAF1iEhKNnnOqct) | [Nithyasree](https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 5:09 |
 | 2 | [Andha Arabi Kadaloram](https://open.spotify.com/track/1Uuw9nSChAnmwbFmnuCx5S) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 5:12 |
-| 3 | [Kannuodu Kaanbadhalam](https://open.spotify.com/track/5XI8QHHWAF1iEhKNnnOqct) | [Nithyasree](https://open.spotify.com/artist/6yLXX4buMky6p4XAwLmrNS), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 5:09 |
+| 3 | [Enakke Enakkaa](https://open.spotify.com/track/468DmIR7WVHAaZZXm4Zbpv) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 7:09 |
 | 4 | [Anbae Anbae](https://open.spotify.com/track/5FfRt0NaBuDIHpRgsiCkWu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Anuradha](https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 5:32 |
 | 5 | [Poovukkul](https://open.spotify.com/track/4g9VvOS1WpFp2FZVSzvIZA) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Jeans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tJng3wvP3e4VXTadYCKYp) | 6:53 |
 | 6 | [Sotta Sotta](https://open.spotify.com/track/6erhWA07TRTqtISu5ODMlL) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Taj Mahal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DcUVMWoylf2fKpVsqKWpA) | 5:34 |

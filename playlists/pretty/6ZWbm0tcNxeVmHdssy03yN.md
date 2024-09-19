@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,036 likes - 95 songs - 5 hr 0 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,054 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 25 | [Sleep](https://open.spotify.com/track/1b7HwvBEkavOf28UCFPDO6) | [Harun](https://open.spotify.com/artist/7rQlkeZgaTMY7Pvt6SQfaQ) | [Sleep](https://open.spotify.com/album/7wQRHIJHNspE2y0oA0T0p2) | 3:54 |
 | 26 | [VENENO](https://open.spotify.com/track/3eoLE9Va3cRrmaDLNQIyIq) | [ZXMMY](https://open.spotify.com/artist/3FuSK8Jtu5iSonnnALbUPb), [Jbeat](https://open.spotify.com/artist/2uEEbhhd2BWUo2ou8eruk5) | [VENENO](https://open.spotify.com/album/56vmfhezAqWwUywJGnrJKN) | 2:41 |
 | 27 | [Dreamscape](https://open.spotify.com/track/70AYJjwkR0mbpIn2mCR130) | [Kiss Me Again](https://open.spotify.com/artist/1Q4IdWAMSKUvwf2hoUezEd) | [Dreamscape](https://open.spotify.com/album/6xFjl1x2MiY55gV0m6BWKc) | 3:22 |
-| 28 | [Roces Accidentales](https://open.spotify.com/track/3AXzDQCwXuhww1nbURKXqf) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7), [Insite](https://open.spotify.com/artist/3QLChPlrfQkyrNEI0L2Y8C) | [Que arda el cielo](https://open.spotify.com/album/2Uw0iVPgX2A4K7prIiIxLe) | 3:49 |
+| 28 | [Roces Accidentales](https://open.spotify.com/track/3AXzDQCwXuhww1nbURKXqf) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7), [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Que arda el cielo](https://open.spotify.com/album/2Uw0iVPgX2A4K7prIiIxLe) | 3:49 |
 | 29 | [17](https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [17](https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO) | 5:11 |
 | 30 | [Ya no hay vuelta atrás](https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ya no hay vuelta atrás](https://open.spotify.com/album/7nyCuS7qmyufmpF6XVqwjy) | 3:07 |
 | 31 | [analysis paralysis](https://open.spotify.com/track/0LDJ5ADgPUlDyn75yg19rm) | [Baro Sura](https://open.spotify.com/artist/79EKbkmOJ9lJwnhTBOqOlV), [Silentjay](https://open.spotify.com/artist/2ggkoDoQazUyJvHeNPiqMh) | [analysis paralysis](https://open.spotify.com/album/4eeQ2mNCOwvkejpb6FnkhI) | 2:19 |

@@ -2,7 +2,7 @@
 
 ### [This Is Ramones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi)
 
-> This Is Ramones\. Sus mejores éxitos, todos en una playlist.
+> This is Ramones\. Todos os maiores hits em uma só playlist.
 
 90 songs - 3 hr 51 min
 

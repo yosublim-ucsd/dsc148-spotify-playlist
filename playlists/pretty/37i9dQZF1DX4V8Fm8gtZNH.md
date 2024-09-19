@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,847 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,853 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,7 +224,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 214 | [Wake Up](https://open.spotify.com/track/6k8OXtHlpkbW8ebykbiS7A) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni), [Andrew Bedows](https://open.spotify.com/artist/2Dh99o5qQLhqwRv5i1tIGX), [Burns Twins](https://open.spotify.com/artist/7GIgWnjx8RK1OJsMJkevgg) | [Sun Shower](https://open.spotify.com/album/42YWmtTWA2rmKjAZZlgPpH) | 2:38 |
 | 215 | [Sleepless \(feat\. Taylor Bennett\)](https://open.spotify.com/track/53yL6BFwHKHoO4MujVMATh) | [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS), [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c) | [Sleepless \(feat\. Taylor Bennett\)](https://open.spotify.com/album/4fj6gCXesfcem3EDaDJqpH) | 4:41 |
 | 216 | [Spenda Nite](https://open.spotify.com/track/2dJqN4ApktQ9EUooI2ruQh) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Eat My Pussy](https://open.spotify.com/album/6zVy1Z13ikciM5KIsStBI7) | 3:53 |
-| 217 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \- The Remaster](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
+| 217 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
 | 218 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 |
 | 219 | [2 Da Moon](https://open.spotify.com/track/2TghmeQSt5nZNml4c82DWA) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [Teddy Jackson](https://open.spotify.com/artist/77kaHO7hihRt7OyrspYSdd), [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 2:48 |
 | 220 | [Juce](https://open.spotify.com/track/5yk5bOHUNlANe4tBjTokHf) | [Cram](https://open.spotify.com/artist/09gOEoMZWposJexLjuG48Z), [Jaylap](https://open.spotify.com/artist/4xc7OEgJIoxCbs38XjISdZ) | [Baphomet](https://open.spotify.com/album/58RyweRl7EJd0SOR0hwoRf) | 1:24 |

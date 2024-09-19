@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-916 songs - 2 day 1 hr 38 min
+917 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Hanju](https://open.spotify.com/track/2aJUxU4mqja75w650L6Ehi) | [Tarz Veer](https://open.spotify.com/artist/1LxN23cB8CKomJGdKPPSB5), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Hizar](https://open.spotify.com/album/30kPXKh9CAkJ3OEQFVOHgN) | 3:11 | 2022-08-31 | 2022-12-16 |
 | [Happiness](https://open.spotify.com/track/2oF26rDiQG5tQy0ZSjyiEd) | [Gavvy Sidhu](https://open.spotify.com/artist/7kTTYdWPURJPh2B3MtUN1x) | [Happiness](https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u) | 2:47 | 2022-02-04 | 2022-02-12 |
 | [Hassna](https://open.spotify.com/track/1giF83Kz38yffC6gJoPesz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Hassna](https://open.spotify.com/album/2wMQtCkhjjWyHCNchnWdta) | 2:32 | 2022-07-19 | 2022-08-18 |
+| [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/track/1MznXUfKywMbhpRYziwU8j) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/album/09xIiHka6nQG9NjEqMdoWn) | 3:35 | 2024-09-18 |  |
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
 | [Haye Jatta](https://open.spotify.com/track/6933Z2N5Fpgk7NtzLcZPgv) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Haye Jatta](https://open.spotify.com/album/6YYw4PjiL91x0ghXo9joRe) | 2:59 | 2022-04-22 | 2022-05-11 |
 | [Haye O Dila \- From "Ardaas Sarbat De Bhale Di"](https://open.spotify.com/track/1MCEYfRkkCqkDbGUfUKqyp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Haye O Dila \- From "Ardaas Sarbat De Bhale Di"](https://open.spotify.com/album/08E3xy9feTLUOOS6EdCy6y) | 3:24 | 2024-08-29 |  |
@@ -477,7 +478,7 @@
 | [Maahi Ve \- From "Khao Piyo Aish Karo"](https://open.spotify.com/track/43TBtfmutJ3PtoZ1JFYUSU) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maahi Ve \(From "Khao Piyo Aish Karo"\)](https://open.spotify.com/album/2A5hjp8xz9eqX4oo5epl4C) | 2:31 | 2022-06-24 | 2022-07-06 |
 | [Mafioso](https://open.spotify.com/track/43LCLweOOR8a3InLT4QVBa) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sonia Aulakh](https://open.spotify.com/artist/1c3PnMjRlyaMpQ6V0sbJ63) | [Mafioso](https://open.spotify.com/album/6CWGvQ8Ug61BApJqQzNDRN) | 2:32 | 2022-03-18 | 2022-04-06 |
 | [Magic](https://open.spotify.com/track/2c1QWruUy84qPY8R2rJubV) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Magic](https://open.spotify.com/album/54Sq4PeS6zeLVQ5jfm0Jv9) | 2:56 | 2022-04-04 | 2022-04-29 |
-| [Magic](https://open.spotify.com/track/1q7qqT8tgdZqdYU3Ut5hqR) | [Karan Sehmbi](https://open.spotify.com/artist/0wmFEqpoc2FgAv8IPtCLBW) | [Magic](https://open.spotify.com/album/33BXqG8gIOkzpbHZDBoGU8) | 2:35 | 2024-08-26 |  |
+| [Magic](https://open.spotify.com/track/1q7qqT8tgdZqdYU3Ut5hqR) | [Karan Sehmbi](https://open.spotify.com/artist/0wmFEqpoc2FgAv8IPtCLBW) | [Magic](https://open.spotify.com/album/33BXqG8gIOkzpbHZDBoGU8) | 2:35 | 2024-08-26 | 2024-09-19 |
 | [Magical Love](https://open.spotify.com/track/0O6WqAy44ODPOwqXhNEa2O) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Magical Love](https://open.spotify.com/album/26goyU4KwUGCEVJtrk3NSw) | 3:59 | 2022-01-28 | 2022-02-12 |
 | [Magnet](https://open.spotify.com/track/3u506wwA1POn195LMh3NhV) | [JV](https://open.spotify.com/artist/5TkuHs1luRLiHRLtk7VQb0) | [Magnet](https://open.spotify.com/album/5tHjpTGRzsplKtqZ8H85mm) | 3:14 | 2022-04-04 | 2022-04-29 |
 | [Main Cheez Ki Haan](https://open.spotify.com/track/348XU796qHTpT9a0ZGP56J) | [Ammy Virk](https://open.spotify.com/artist/1YjvDuENxcoM8rUMee9ky1), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Oye Makhna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Dz88sSDuIomJiExDPmfQu) | 2:40 | 2022-11-07 | 2022-11-12 |

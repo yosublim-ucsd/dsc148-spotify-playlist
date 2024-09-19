@@ -3282,7 +3282,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 169750,
       "name": "Indescriptible",
       "url": "https://open.spotify.com/track/3YWFKAWYcVr1vlKdlkUMGw"
@@ -4374,6 +4374,24 @@
       "duration_ms": 136333,
       "name": "Mi Lady",
       "url": "https://open.spotify.com/track/0uV0AVcRD2KB4nkVTXJXZL"
+    },
+    {
+      "album": {
+        "name": "MI NOVIO ES LO OPUESTO A UN CURA",
+        "url": "https://open.spotify.com/album/15EXpb1scBNAylVphykIc4"
+      },
+      "artists": [
+        {
+          "name": "Kadriana Massri",
+          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "MI NOVIO ES LO OPUESTO A UN CURA",
+      "url": "https://open.spotify.com/track/5RLhfK1t1ZUgprTS12FEGb"
     },
     {
       "album": {

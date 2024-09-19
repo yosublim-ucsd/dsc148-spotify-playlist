@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
 
-129 songs - 7 hr 14 min
+130 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-27 |  |
 | [I Want It All](https://open.spotify.com/track/0xOqlgHD7UKRGB2TM6Tthw) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [I Want It All](https://open.spotify.com/album/3WDpCrcxGaat5ExupeTV1c) | 2:19 | 2024-09-05 |  |
 | [If I'm Gonna Go Anywhere](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 | 2024-06-24 | 2024-08-31 |
+| [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-09-18 |  |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-28 |  |
 | [Intangible](https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Intangible](https://open.spotify.com/album/1LhBLbebW10ttVVizB1lmp) | 2:58 | 2024-06-24 | 2024-08-31 |
 | [Into You](https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Into You](https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ) | 4:44 | 2024-06-24 | 2024-09-14 |
 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-04 | 2024-08-02 |
-| [Killing For Fun \- Single Edit](https://open.spotify.com/track/5VN8BPVTVm6lK0cYbIb4SJ) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Killing For Fun](https://open.spotify.com/album/2qcREVAnFhP7lxMCbz1UsX) | 3:20 | 2024-06-24 |  |
+| [Killing For Fun \- Single Edit](https://open.spotify.com/track/5VN8BPVTVm6lK0cYbIb4SJ) | [Subterranean Street Society](https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe) | [Killing For Fun](https://open.spotify.com/album/2qcREVAnFhP7lxMCbz1UsX) | 3:20 | 2024-06-24 | 2024-09-19 |
 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-26 |  |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-26 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-27 | 2024-07-12 |

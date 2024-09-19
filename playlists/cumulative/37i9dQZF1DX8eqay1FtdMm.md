@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Solji\(솔지\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Jang Hye Jin\(장혜진\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-564 songs - 1 day 12 hr 50 min
+565 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2021-12-20 | 2022-10-25 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-07-25 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-03-24 | 2022-12-13 |
+| [Beside you](https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq) | [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Beside you \(Better Days X Jang Hye\-Jin\)](https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD) | 4:12 | 2024-09-18 |  |
 | [Between Heaven And Hell](https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Between Heaven And Hell](https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd) | 3:46 | 2024-05-02 | 2024-05-10 |
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-01-25 |
 | [Big world](https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 3:54 | 2023-01-02 | 2023-10-06 |
@@ -134,7 +135,7 @@
 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 | 2023-10-19 |  |
 | [Even if fate separates us](https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t) | [Song Ha Yea](https://open.spotify.com/artist/28swpgrq4Fmfayz13dWrJi) | [Even if fate separates us](https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq) | 3:49 | 2022-06-18 | 2022-07-05 |
 | [Everyday waiting you](https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Everyday waiting you](https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb) | 4:01 | 2023-01-25 | 2023-04-14 |
-| [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 | 2024-08-25 |
+| [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 |  |
 | [Fade away](https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [First Letter](https://open.spotify.com/album/6KDXZk6JcmTkDtuW49ScTo) | 4:17 | 2022-02-25 | 2022-07-13 |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2023-12-01 | 2024-08-06 |
 | [Falling](https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Knock](https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9) | 3:41 | 2023-12-01 |  |
@@ -270,7 +271,7 @@
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-18 | 2023-01-11 |
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
-| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 |  |
+| [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 | 2024-09-19 |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2024-03-06 | 2024-05-11 |
 | [Love Illusion](https://open.spotify.com/track/0RFQSzdcZOBYIBN5rOacTo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Love Illusion](https://open.spotify.com/album/65XtBx6D49S95rheH2RS83) | 3:45 | 2024-04-15 | 2024-06-28 |
@@ -459,7 +460,7 @@
 | [This is me](https://open.spotify.com/track/2VnAN5tR2Y4raaPcAEFE9u) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [멜로디책방 Part 6](https://open.spotify.com/album/1WIfzWPSJiACHtURL458Xt) | 3:02 | 2021-12-20 | 2022-04-21 |
 | [This Song](https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [This Song](https://open.spotify.com/album/7mS4NsnK5NSwh5e3HEzyYP) | 5:11 | 2021-12-27 | 2022-06-27 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-20 |  |
-| [Til You Love Me Again](https://open.spotify.com/track/6kG4Yi4Rc0J89uO6XjXRkP) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Til You Love Me Again](https://open.spotify.com/album/6OaslAXGQ01iqNXx816Qeo) | 4:43 | 2024-08-01 |  |
+| [Til You Love Me Again](https://open.spotify.com/track/6kG4Yi4Rc0J89uO6XjXRkP) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Til You Love Me Again](https://open.spotify.com/album/6OaslAXGQ01iqNXx816Qeo) | 4:43 | 2024-08-01 | 2024-09-19 |
 | [TIME](https://open.spotify.com/track/0OtneDXQUyQeYyaCJNwcQi) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'TIME'](https://open.spotify.com/album/3DVBKjlaEM1nYLh6h3Uz6X) | 3:36 | 2022-05-03 | 2022-05-12 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-12-02 |
 | [Time Will Tell](https://open.spotify.com/track/6tW1aWmAspjwqkdBKOn9uV) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:23 | 2022-04-01 | 2022-04-16 |

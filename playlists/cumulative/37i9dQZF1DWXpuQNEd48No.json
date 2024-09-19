@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 157285,
       "name": "Chalti Me",
       "url": "https://open.spotify.com/track/77CgnV5VgsRWakI6bvooR7"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 218571,
       "name": "Kalyug",
       "url": "https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R"
@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3988,6 +3988,28 @@
       "duration_ms": 192891,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/1SWdtg8I7j259MAjdSCHJt"
+      },
+      "artists": [
+        {
+          "name": "Kaka WRLD",
+          "url": "https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv"
+        },
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/3jlIGg9joyDbyRqHFpkd1z"
     },
     {
       "album": {

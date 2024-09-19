@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: TJ Monterde x KZ Tandingan
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Maki
 
-195 songs - 11 hr 58 min
+196 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,11 @@
 | [Anything](https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Anything](https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC) | 4:12 | 2024-02-21 | 2024-03-21 |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-21 |  |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-24 | 2024-03-28 |
+| [Arrowmance](https://open.spotify.com/track/7hh6oTg0HAnNa4u1MQUxhq) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Arrowmance](https://open.spotify.com/album/5Oba8tJa6gnvccerqF1sdZ) | 5:03 | 2024-09-18 |  |
 | [Atin Ang Walang Hanggan](https://open.spotify.com/track/3wyps5olGora4qX2g02DuK) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Atin Ang Walang Hanggan](https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe) | 3:23 | 2024-07-11 |  |
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-04-24 | 2024-08-29 |
 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 | 2024-01-24 | 2024-02-01 |
-| [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-12 |  |
+| [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-12 | 2024-09-19 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-24 | 2024-03-14 |
 | [Babaeng Torpe](https://open.spotify.com/track/6PqQLaRKRk9Td2WfNIc721) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs) | [Babaeng Torpe](https://open.spotify.com/album/7xn6BDQmB8qzssk9aHG79E) | 4:50 | 2024-02-07 | 2024-03-07 |
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 | 2024-07-12 |

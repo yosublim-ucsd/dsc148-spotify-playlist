@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "DUH!",
+        "url": "https://open.spotify.com/album/1vKBU214WJqyHyEG3TArju"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131700,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/4ybUnkNXMJRMwFeIxQJLhH"
+    },
+    {
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },

@@ -5369,6 +5369,28 @@
     },
     {
       "album": {
+        "name": "Azania",
+        "url": "https://open.spotify.com/album/5blKtNGTrYNyHU4XF4sskz"
+      },
+      "artists": [
+        {
+          "name": "Bartella",
+          "url": "https://open.spotify.com/artist/6Vk66SVVGYNCRaLJtozDdE"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Izenzo",
+      "url": "https://open.spotify.com/track/7CEQ14QZziTxTsNU1defek"
+    },
+    {
+      "album": {
         "name": "Jabula (Incl. DJ IC Remix)",
         "url": "https://open.spotify.com/album/7mLiZ34Mw9ded0mK4kjklc"
       },
@@ -7374,6 +7396,24 @@
       "duration_ms": 246000,
       "name": "Moya",
       "url": "https://open.spotify.com/track/1AhBzZtwrbeyAyuUwBnDuP"
+    },
+    {
+      "album": {
+        "name": "Mozambique EP",
+        "url": "https://open.spotify.com/album/4B65CGhg1UxLrdIX8nSP5K"
+      },
+      "artists": [
+        {
+          "name": "Spenser M",
+          "url": "https://open.spotify.com/artist/1zCl55PZf31sTOpRPrOYdD"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Mozambique",
+      "url": "https://open.spotify.com/track/3HrUDZLe7OjGikk6QvPAvv"
     },
     {
       "album": {
@@ -11024,6 +11064,28 @@
       "duration_ms": 412032,
       "name": "T.R.O.A",
       "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
+    },
+    {
+      "album": {
+        "name": "Tabasamu",
+        "url": "https://open.spotify.com/album/37Soooxn0Nnc2x2uRD0XDg"
+      },
+      "artists": [
+        {
+          "name": "Wilson Timba",
+          "url": "https://open.spotify.com/artist/4Ungk4rl9eaSggQIjhoxfH"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578000,
+      "name": "Tabasamu",
+      "url": "https://open.spotify.com/track/4mOkqM5oI8yy7XU5Hqwxuu"
     },
     {
       "album": {

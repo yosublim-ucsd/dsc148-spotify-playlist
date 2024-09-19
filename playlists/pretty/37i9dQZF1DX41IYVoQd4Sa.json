@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30274,
+  "num_followers": 30283,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "\u05e9\u05de\u05e9 \u05d5\u05e2\u05e0\u05df",
         "url": "https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 187860,
       "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
       "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "\u05e0\u05d4\u05e8\u05d5\u05ea \u05d5\u05de\u05e4\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 181600,
       "name": "Fool For Your Smile",
       "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+      },
+      "artists": [
+        {
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -959,22 +979,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
       },
       "artists": [
         {
-          "name": "Noifeld's Glasses",
-          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
-        },
-        {
-          "name": "Guy Mazig",
-          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+      "duration_ms": 168923,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 168923,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
         "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "Nouvelle vie",
-        "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
-      },
-      "artists": [
-        {
-          "name": "PA'AM",
-          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
-        },
-        {
-          "name": "Odelly",
-          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
-        }
-      ],
-      "duration_ms": 170994,
-      "name": "Nouvelle vie",
-      "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1107,6 +1087,26 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
+      },
+      "artists": [
+        {
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Odelly",
+          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
+        }
+      ],
+      "duration_ms": 170994,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

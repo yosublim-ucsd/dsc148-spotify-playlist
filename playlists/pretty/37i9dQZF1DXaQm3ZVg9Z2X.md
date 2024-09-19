@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,003,623 likes - 52 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,004,237 likes - 52 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 | 51 | [A Whisper](https://open.spotify.com/track/7KolrFGhfDi1JTSgQBT5sI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:58 |
 | 52 | [Viva La Vida \- Live in Buenos Aires](https://open.spotify.com/track/4Y9lVjRD82aJOQ2v13UIoF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live in Buenos Aires](https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2) | 4:11 |
 
-Snapshot ID: `ZshNngAAAAD2cuTdnj7TajiOhjPfzG8i`
+Snapshot ID: `ZshNngAAAAB5mD2mSgMaItjxqiZorbiG`

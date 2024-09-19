@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-697 songs - 1 day 12 hr 54 min
+698 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 | 2024-03-03 |
 | [DUMBAI](https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:28 | 2024-05-07 | 2024-05-15 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-05 | 2024-03-11 |
-| [EL ACABADO FUNK](https://open.spotify.com/track/2IUgm8ljwEqVrHdvjjBT6g) | [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k), [MRR](https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8) | [EL ACABADO FUNK](https://open.spotify.com/album/5fWXH6FcnYvY1fmHediV1L) | 1:33 | 2024-09-17 |  |
+| [EL ACABADO FUNK](https://open.spotify.com/track/2IUgm8ljwEqVrHdvjjBT6g) | [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k), [MRR](https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8) | [EL ACABADO FUNK](https://open.spotify.com/album/5fWXH6FcnYvY1fmHediV1L) | 1:33 | 2024-09-17 | 2024-09-19 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/6Ftdo8MIbxI2IgUpyhWpOT) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Mix Cumbia](https://open.spotify.com/album/25t18KDGrTFqwlT936wCK2) | 1:41 | 2024-01-29 | 2024-02-04 |
 | [El Hechizo RKT \(Techengue\) \- Remix](https://open.spotify.com/track/4XMXxeAxTaHxfPGZetCWak) | [Dj Taurus](https://open.spotify.com/artist/0HrRe20mw7pYwR5eN0ejab), [MorFed](https://open.spotify.com/artist/1eIC9s8LYgcW6h5kPEqDJe) | [El Hechizo RKT \(Techengue\) \[Remix\]](https://open.spotify.com/album/0T5WpE0E0NginETjKIVfaI) | 3:50 | 2024-01-29 | 2024-01-31 |
 | [EL MOROCHO, EL RUBIO Y EL COLO](https://open.spotify.com/track/6lPqorKufNl3wHdPnpmZTW) | [AgusFortnite2008](https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [EL MOROCHO, EL RUBIO Y EL COLO](https://open.spotify.com/album/6CxUNLedTsYxnTO7N1U1Wa) | 2:18 | 2024-09-03 | 2024-09-11 |
@@ -627,6 +627,7 @@
 | [TIKTOK](https://open.spotify.com/track/25UNTIJcqsfMnY726IpiiF) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TIKTOK](https://open.spotify.com/album/2zut1qxXZOTntaLVu7GdGF) | 2:32 | 2024-06-12 | 2024-06-18 |
 | [tinta 90](https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:46 | 2024-04-30 | 2024-05-17 |
 | [Toa Toa](https://open.spotify.com/track/2zQa0VTafGFnrtuZnkeuPm) | [Klim](https://open.spotify.com/artist/7wGC5qN0WaLagtSprA8nTe) | [Toa Toa](https://open.spotify.com/album/4U8Wm6GlLJG9OmisISDfBp) | 2:28 | 2024-08-15 |  |
+| [Todo Maldito](https://open.spotify.com/track/77vyZOh3tYMHzGG2UfTMvb) | [Tussiwarriors](https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0) | [El Mixetape](https://open.spotify.com/album/4bnbvbzrk4at0ePHHuZO3P) | 3:06 | 2024-09-18 |  |
 | [TODO ROTO](https://open.spotify.com/track/2neEt3A8fA4Scfwo4jAw1J) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:07 | 2024-06-12 | 2024-07-03 |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-09 | 2024-04-25 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-24 | 2024-05-15 |

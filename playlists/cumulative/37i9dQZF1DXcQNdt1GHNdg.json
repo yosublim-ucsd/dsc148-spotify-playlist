@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "I Wish (From \"Pendu Boyz\")",
+        "url": "https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Pendu Boyz",
+          "url": "https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134086,
+      "name": "I Wish (From \"Pendu Boyz\")",
+      "url": "https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS"
       },
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 240066,
       "name": "Patola",
       "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"

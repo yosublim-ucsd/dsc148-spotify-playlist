@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,228 likes - 266 songs - 13 hr 25 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,226 likes - 267 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,5 +274,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 264 | [Just Keep Dancing](https://open.spotify.com/track/0fiCJFdYdX9TGi2c56hEpz) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Just Keep Dancing](https://open.spotify.com/album/5cDw9FFGDpwSA8eIJHTEUL) | 2:37 |
 | 265 | [Talk to Me](https://open.spotify.com/track/03Du19uqh7mGTSfQwpgZLa) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Talk to Me](https://open.spotify.com/album/2CCLNopJoGPhw2VpgTBJd6) | 2:40 |
 | 266 | [Dudu \(Goes Like This\)](https://open.spotify.com/track/5hp4pGZ3S45m7UCSqlaxJK) | [Alejandro Diego](https://open.spotify.com/artist/15zf3JdbSo0Q2um3mFkm3D), [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET) | [Dudu \(Goes Like This\)](https://open.spotify.com/album/2bmsBnjYFrfLfEKK67ouLR) | 3:01 |
+| 267 | [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 |
 
-Snapshot ID: `AAAPMYPTvbdxgFlWycNBJ7XpRIjNj/t1`
+Snapshot ID: `AAAPMrytF547QVoSYvlTN2HU6/iCUiWW`

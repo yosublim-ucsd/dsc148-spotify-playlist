@@ -4,7 +4,7 @@
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-224 songs - 16 hr 9 min
+225 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Estopim](https://open.spotify.com/track/6D5fnKQOOqBzGkLpMvP98o) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Estopim](https://open.spotify.com/album/2ZRiQV3PoXjUU5ZMkA6A4V) | 4:44 | 2022-03-25 | 2022-07-28 |
 | [Eu bolo](https://open.spotify.com/track/7ub1vwES477wMtU0O98Tt4) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE) | [O Estilo Foda\-se](https://open.spotify.com/album/3M1DURxFecd2j8UpKrFAP7) | 4:25 | 2022-03-16 | 2022-07-28 |
 | [Eu Rimo na Direita](https://open.spotify.com/track/6fv0YJ6nzsj0hy6zbeHYMG) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE) | [O Estilo Foda\-se](https://open.spotify.com/album/3M1DURxFecd2j8UpKrFAP7) | 2:40 | 2022-03-16 | 2022-07-20 |
-| [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 | 2022-03-25 |  |
+| [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 | 2022-03-25 | 2024-09-19 |
 | [Existência](https://open.spotify.com/track/1GCStmKqLyZ19Yr3g3tuVj) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Incognito Orchestra](https://open.spotify.com/album/67QjNn6XMk7SywvENUyX68) | 6:34 | 2022-03-25 | 2022-07-28 |
 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 | 2022-03-16 |  |
 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 | 2022-03-25 | 2024-06-30 |
@@ -158,6 +158,7 @@
 | [Pantera Preta](https://open.spotify.com/track/27nJy2iFVe8ibyZ1NnfC89) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p) | [Um Dia de Injúria / Pantera Preta](https://open.spotify.com/album/0s2KWfxBb6FnTTOxA3xPBl) | 4:49 | 2022-03-25 | 2022-07-28 |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-25 | 2022-07-27 |
 | [Perigo](https://open.spotify.com/track/6jcfdgJPThgWn5pTCHLr7l) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(Remasterizado\)](https://open.spotify.com/album/2EakaAF1aDE6yD08rq60iy) | 4:45 | 2022-03-25 | 2022-07-24 |
+| [Pesadelos de Quem Não Dorme Há Dias](https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Lorens DTPK](https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV) | [Azul Piscina](https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS) | 2:26 | 2024-08-16 |  |
 | [Pirituba, Pt\. 2](https://open.spotify.com/track/6V1yZ8AobQAn2LpVZB2s93) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Evolução É uma Coisa](https://open.spotify.com/album/6LRKmBHBkpUkPY7igv1SOz) | 4:32 | 2022-03-25 | 2022-07-27 |
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2022-03-25 |  |
 | [Poder da Rima](https://open.spotify.com/track/6bFRW7fki2zpeG5O3jqoLH) | [Sistema Negro](https://open.spotify.com/artist/0gTfX03fj7QzSbBTCRbpPI) | [Bem Vindos ao Inferno](https://open.spotify.com/album/6GvdfWASdnfPT60cj4u2Uq) | 4:40 | 2022-03-25 | 2022-07-25 |

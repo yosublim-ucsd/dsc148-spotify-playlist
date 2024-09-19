@@ -2,7 +2,7 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Vettaiyan
 
 134 songs - 8 hr 2 min
 

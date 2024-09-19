@@ -4,11 +4,11 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-426 songs - 1 day 6 hr 12 min
+428 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 | 2022-08-25 |  |
+| [A Liberdade é Cara](https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb) | [Flak](https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4), [Cachupa Psicadelica](https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO) | [A Liberdade é Cara](https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq) | 6:20 | 2022-08-25 | 2024-09-19 |
 | [A Time To Blossom](https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW) | [Modern Cosmology](https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [A Time To Blossom](https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g) | 7:18 | 2023-03-24 |  |
 | [Adkrog](https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Adkrog](https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC) | 4:16 | 2021-12-01 | 2022-07-29 |
 | [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/3lUlEzMGJxmv0ByKeMiHKR) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Netra ken](https://open.spotify.com/album/1NFqI4bBcsvFY4XhZevTx2) | 4:16 | 2021-12-01 | 2022-11-13 |
@@ -329,7 +329,8 @@
 | [Simple Headphone Mind](https://open.spotify.com/track/2KOG6pwDZflwcZjgiFw1w6) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt), [Nurse With Wound](https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I) | [Pulse Of The Early Brain \[Switched On Volume 5\]](https://open.spotify.com/album/4rT90eAMOjQ0WW8NAXDsDk) | 10:46 | 2022-09-06 | 2023-01-21 |
 | [Situation](https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2) | [Elena Setién](https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg) | [Unfamiliar Minds](https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0) | 3:00 | 2022-02-09 |  |
 | [Sixty Years On \- Album Edit](https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:35 | 2023-01-20 | 2023-03-16 |
-| [Snapdragon](https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Snapdragon](https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8) | 3:12 | 2023-10-25 |  |
+| [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 | 2024-09-18 |  |
+| [Snapdragon](https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Snapdragon](https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8) | 3:12 | 2023-10-25 | 2024-09-19 |
 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 | 2022-09-11 | 2022-11-26 |
 | [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 | 2022-09-11 | 2023-01-07 |
 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 | 2024-03-21 |  |
@@ -390,6 +391,7 @@
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |
 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 | 2023-04-01 |
 | [Treasures](https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp) | [Astral Brain](https://open.spotify.com/artist/7oDU5TJ0OiPqfxTlq2VMbk) | [The Bewildered Mind](https://open.spotify.com/album/432UfhVmmYhrzsaZepGgEW) | 3:43 | 2022-04-22 | 2022-10-01 |
+| [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 | 2024-09-18 |  |
 | [Two minutes](https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [Two minutes](https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8) | 2:40 | 2022-09-29 | 2023-11-24 |
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 | 2023-04-15 |
 | [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-18 | 2023-03-19 |

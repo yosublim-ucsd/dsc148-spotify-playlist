@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-388 songs - 21 hr 8 min
+389 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 | 2024-02-10 |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 | 2024-03-15 |
 | [Neenire Jotheyalli](https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1) | [Pratheek anchan](https://open.spotify.com/artist/22uihzHSRd4fg181KerX6n) | [Neenire Jotheyalli](https://open.spotify.com/album/2b3rqJgc9tt6m1DCZWNPha) | 2:26 | 2024-03-04 | 2024-08-23 |
-| [Neerige Hogo Henne!](https://open.spotify.com/track/1eYVrSzMc8MUjz2feEljcI) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Neerige Hogo Henne!](https://open.spotify.com/album/16T0Q8WdjYGBRy1JNKPmET) | 3:07 | 2024-04-24 |  |
+| [Neerige Hogo Henne!](https://open.spotify.com/track/1eYVrSzMc8MUjz2feEljcI) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Neerige Hogo Henne!](https://open.spotify.com/album/16T0Q8WdjYGBRy1JNKPmET) | 3:07 | 2024-04-24 | 2024-09-19 |
 | [Negative Vibes](https://open.spotify.com/track/2v8kMR6oI7nejIEAlRdLMh) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Negative Vibes](https://open.spotify.com/album/2Q3LYxs6srfQlp668KY84J) | 2:15 | 2024-01-16 | 2024-02-22 |
 | [Nemmadi](https://open.spotify.com/track/0ckIja4c0MDRdUIOrHEg60) | [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl), [Manujjes](https://open.spotify.com/artist/5fjJ0wwxbYv20BeN5IQuFK) | [Nemmadi](https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx) | 2:20 | 2023-12-29 | 2024-06-04 |
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
@@ -390,6 +390,7 @@
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 | 2024-02-01 |
 | [Yaare Nee](https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yaare Nee](https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8) | 3:03 | 2024-06-28 |  |
+| [Yaaro Neenyaaro](https://open.spotify.com/track/3lXpkJdsMcNUEDMNZdT4By) | [Keerthana Chandru](https://open.spotify.com/artist/4cSbty2ketEhsSrDHO4Txr), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [Yaaro Neenyaaro](https://open.spotify.com/album/7esoBgXho81ZK9U6OMnvxP) | 5:07 | 2024-09-18 |  |
 | [Yako Summane](https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF) | 3:31 | 2023-05-02 | 2024-02-09 |
 | [Yako Summane](https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g) | 3:31 | 2023-05-02 | 2024-01-03 |
 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 | 2023-08-16 | 2023-09-07 |

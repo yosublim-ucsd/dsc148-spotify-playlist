@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 125293,
+  "num_followers": 125354,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Blade The Soundtrack",
         "url": "https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 612101,
       "name": "Confusion - Pump Panel Reconstruction Mix",
       "url": "https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
     },
     {
       "added_at": "2024-07-10 08:16:23",

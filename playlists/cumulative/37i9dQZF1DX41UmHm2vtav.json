@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 209014,
       "name": "A Dois Passos do Para\u00edso - Remix",
       "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
@@ -4324,6 +4324,24 @@
       "duration_ms": 192187,
       "name": "Tranquila (Gustavo Mota Remix)",
       "url": "https://open.spotify.com/track/6DgMynpGBfoev6qddUcWsU"
+    },
+    {
+      "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149047,
+      "name": "Trem das Onze",
+      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
     },
     {
       "album": {

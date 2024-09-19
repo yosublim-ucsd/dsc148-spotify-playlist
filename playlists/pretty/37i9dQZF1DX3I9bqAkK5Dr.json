@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33369,
+  "num_followers": 33378,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuJvWQAAAAC7b7aA2I68GIAo51LCZ/H6",
+  "snapshot_id": "ZuquTgAAAAD0jja7zuEWj17xIkSRZ/NQ",
   "tracks": [
     {
       "added_at": "2024-07-19 14:43:57",
@@ -113,10 +113,30 @@
       "url": "https://open.spotify.com/track/72PJ4xPZPVugEzylXYHWz4"
     },
     {
-      "added_at": "2024-06-06 12:06:33",
+      "added_at": "2024-09-18 04:58:04",
       "album": {
-        "name": "Macha Vachey Ra - Vibe Anthem",
-        "url": "https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98"
+        "name": "MA NI",
+        "url": "https://open.spotify.com/album/0g533rnhuVo0XvqFSDpoGj"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Sri Soumya Varanasi",
+          "url": "https://open.spotify.com/artist/0DCsCakJqGUQ26WoKIEbqe"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "MA NI",
+      "url": "https://open.spotify.com/track/6W0tYuj8AH8DTe95QAqKXW"
+    },
+    {
+      "added_at": "2024-09-18 10:41:18",
+      "album": {
+        "name": "Macha Vachey Ra (Female Version)",
+        "url": "https://open.spotify.com/album/2z5uN7ZwtjxcOTrc205GJ9"
       },
       "artists": [
         {
@@ -124,13 +144,13 @@
           "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
         },
         {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+          "name": "Vaishnavi Kovvuri",
+          "url": "https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Macha Vachey Ra - Vibe Anthem",
-      "url": "https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV"
+      "duration_ms": 180447,
+      "name": "Macha Vachey Ra - Female Version",
+      "url": "https://open.spotify.com/track/7hNRypDlFavfFUykV4IELm"
     },
     {
       "added_at": "2024-08-22 11:58:51",
@@ -221,30 +241,6 @@
       "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
     },
     {
-      "added_at": "2024-07-19 14:43:57",
-      "album": {
-        "name": "Gola Gole",
-        "url": "https://open.spotify.com/album/6LeQn8ByEjDwDGxJMHWGxk"
-      },
-      "artists": [
-        {
-          "name": "Sunny Austin",
-          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
-        },
-        {
-          "name": "Chinna Swamy",
-          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
-        },
-        {
-          "name": "Darshana Menon",
-          "url": "https://open.spotify.com/artist/1wHsncgyVkVzF2H8gEdOCF"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Gola Gole",
-      "url": "https://open.spotify.com/track/0oendWWefLEn9Uo2pI4lpN"
-    },
-    {
       "added_at": "2024-05-25 02:47:53",
       "album": {
         "name": "Thaanu",
@@ -275,6 +271,26 @@
       "duration_ms": 135911,
       "name": "HeartBeat",
       "url": "https://open.spotify.com/track/4YjVV0SrnWx8RwTf71IXTx"
+    },
+    {
+      "added_at": "2024-06-06 12:06:33",
+      "album": {
+        "name": "Macha Vachey Ra - Vibe Anthem",
+        "url": "https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Macha Vachey Ra - Vibe Anthem",
+      "url": "https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV"
     },
     {
       "added_at": "2024-07-29 06:40:42",
@@ -1471,22 +1487,6 @@
       "duration_ms": 204827,
       "name": "AMMA - Janmaala Runamu Kanipinchava",
       "url": "https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N"
-    },
-    {
-      "added_at": "2023-05-08 08:14:32",
-      "album": {
-        "name": "Ku Koohu Koyila",
-        "url": "https://open.spotify.com/album/1nyHioOCsCpgajIZQqYwPl"
-      },
-      "artists": [
-        {
-          "name": "Baloo Spicy",
-          "url": "https://open.spotify.com/artist/5t1t4c1r5z1QuMaxIhVPh7"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Ku Koohu Koyila",
-      "url": "https://open.spotify.com/track/3OwBhidXF0tDdojn0h67jg"
     },
     {
       "added_at": "2023-04-13 09:40:56",

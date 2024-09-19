@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,291 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,303 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 34 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
 | 35 | [Better For Me](https://open.spotify.com/track/01ZEsy4PujWPyOSvmkAZ8E) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Better For Me](https://open.spotify.com/album/3jXbDxEWddxZtDl7xoAq7L) | 3:08 |
 | 36 | [How Does It Make You Feel](https://open.spotify.com/track/6tQWs8upU20Ry9RfKlRikl) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [How Does It Make You Feel \(Part of Dekmantel Ten: A Decade of Dekmantel Festival\)](https://open.spotify.com/album/2hSQVfb97oRqZ3bujQs2eX) | 5:08 |
-| 37 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/0csylernbj0z7TB0WabTBb) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 |
+| 37 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 |
 | 38 | [Merrie Xmas](https://open.spotify.com/track/4oTo5DGIz4guxnXEbzTsIJ) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Merrie Xmas](https://open.spotify.com/album/3CZMD68KsiYvuoLlLGSi3B) | 3:08 |
 | 39 | [Toevertrouwd](https://open.spotify.com/track/4a17GlWNQCzkkCwiNOVvi6) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Toevertrouwd](https://open.spotify.com/album/42UhwH3ACF2VYTRMmG7zpp) | 2:42 |
 | 40 | [Dans Met Mij](https://open.spotify.com/track/1MyFZMpc1PXJ2YtUfvF8Kt) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Dans Met Mij](https://open.spotify.com/album/3Icj9ZVMmdgaJbr8osm3KS) | 2:28 |

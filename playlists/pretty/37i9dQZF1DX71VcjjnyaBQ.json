@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 407429,
+  "num_followers": 407523,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -215,34 +215,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Don't Ever Leave Me",
-        "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
-      },
-      "artists": [
-        {
-          "name": "John Helliwell",
-          "url": "https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ"
-        },
-        {
-          "name": "Jasper Somsen",
-          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
-        },
-        {
-          "name": "Hans Vroomans",
-          "url": "https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb"
-        },
-        {
-          "name": "Marcel Serierse",
-          "url": "https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX"
-        }
-      ],
-      "duration_ms": 437853,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "Deep in a Dream",
         "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 340760,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Don't Ever Leave Me",
+        "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
+      },
+      "artists": [
+        {
+          "name": "John Helliwell",
+          "url": "https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ"
+        },
+        {
+          "name": "Jasper Somsen",
+          "url": "https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY"
+        },
+        {
+          "name": "Hans Vroomans",
+          "url": "https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb"
+        },
+        {
+          "name": "Marcel Serierse",
+          "url": "https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX"
+        }
+      ],
+      "duration_ms": 437853,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
+      },
+      "artists": [
+        {
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "The Rumor",
         "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 270613,
       "name": "The Rumor",
       "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1103,38 +1103,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 482693,
-      "name": "Softly, as in a Morning Sunrise",
-      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "You Had Me at Goodbye",
         "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 304880,
       "name": "Grinde",
       "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 482693,
+      "name": "Softly, as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 521373,
+      "name": "Colour Yes - Special Edition",
+      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 269680,
       "name": "Sheikh Ali",
       "url": "https://open.spotify.com/track/0qfLFTSg1J0PuBQbUnXNNy"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 521373,
-      "name": "Colour Yes - Special Edition",
-      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
     },
     {
       "added_at": "2024-09-12 09:35:20",

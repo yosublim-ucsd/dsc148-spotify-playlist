@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 ### [This Is AWOLNATION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yLRw4)
 
-> This Is AWOLNATION\. Los temas esenciales, todos en una lista.
+> This is AWOLNATION\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 36,210 likes - 52 songs - 3 hr 5 min
 
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 51 | [Miracle Man](https://open.spotify.com/track/6yE6AL3D5lq25jtTAESkVu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:23 |
 | 52 | [Maniac \(feat\. Conor Mason of Nothing But Thieves\)](https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp), [Conor Mason](https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 
-Snapshot ID: `Zud1AAAAAADdHbYEwfcJb6xFdPBzwmZI`
+Snapshot ID: `Zud1AAAAAACVUEKvXmqj6IMsSBIkvIuE`

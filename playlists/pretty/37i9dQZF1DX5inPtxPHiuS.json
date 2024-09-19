@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86489,
+  "num_followers": 86492,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "Un Eterno Loop Sin Fin",
         "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 229671,
       "name": "Un Eterno Loop Sin Fin",
       "url": "https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Ver Tus Ojos Mir\u00e1ndome",
-        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
       "artists": [
         {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
         }
       ],
-      "duration_ms": 210078,
-      "name": "Ver Tus Ojos Mir\u00e1ndome",
-      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
       },
       "artists": [
         {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
         }
       ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "LVRBOY",
-        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "LVRBOY",
-      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "Te Valgo",
         "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 198545,
       "name": "Te Valgo",
       "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "En Paz",
-        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
-      },
-      "artists": [
-        {
-          "name": "Ciegossordomudos",
-          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "El Beat de Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "Texas",
         "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 258946,
       "name": "Texas",
       "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "En Paz",
+        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
+      },
+      "artists": [
+        {
+          "name": "Ciegossordomudos",
+          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "El Beat de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "No Hay Tiempo Que Perder",
         "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 177711,
       "name": "\u00bfQu\u00e9 se yo?",
       "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
-      },
-      "artists": [
-        {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
         "name": "Lockdownska",
         "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
@@ -919,18 +903,34 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Voy a Olvidarme de M\u00ed",
-        "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
       "artists": [
         {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
         }
       ],
-      "duration_ms": 213136,
-      "name": "Voy a Olvidarme de M\u00ed",
-      "url": "https://open.spotify.com/track/4be75554sgPXfbKdOeLVzI"
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
+        "name": "La Clase Que Trabaja",
+        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "La Clase Que Trabaja",
+      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -983,38 +983,34 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "La Clase Que Trabaja",
-        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
+        "name": "Voy a Olvidarme de M\u00ed",
+        "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
       },
       "artists": [
         {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
         }
       ],
-      "duration_ms": 187500,
-      "name": "La Clase Que Trabaja",
-      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
+      "duration_ms": 213136,
+      "name": "Voy a Olvidarme de M\u00ed",
+      "url": "https://open.spotify.com/track/4be75554sgPXfbKdOeLVzI"
     },
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Olvidarme de Todo",
-        "url": "https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB"
+        "name": "Recorrer el Mundo",
+        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
       },
       "artists": [
         {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
-        },
-        {
-          "name": "Oso Pardo",
-          "url": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
         }
       ],
-      "duration_ms": 201131,
-      "name": "Olvidarme de Todo",
-      "url": "https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox"
+      "duration_ms": 178133,
+      "name": "Recorrer el Mundo",
+      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
     }
   ],
   "unique_name": "Rock Colombia",

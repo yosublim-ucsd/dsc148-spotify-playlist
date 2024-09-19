@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 59951,
+  "num_followers": 59979,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
       },
       "artists": [
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         },
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Paradise Inc.",
-          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
         }
       ],
-      "duration_ms": 178816,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -875,22 +871,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "La Musa (with Miluhska)",
-        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         },
         {
-          "name": "Miluhska",
-          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Paradise Inc.",
+          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
         }
       ],
-      "duration_ms": 183830,
-      "name": "La Musa (with Miluhska)",
-      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
+      "duration_ms": 178816,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Solo Se Vive Una Vez",
+        "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
+      },
+      "artists": [
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        },
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 147601,
+      "name": "Solo Se Vive Una Vez",
+      "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Te Recorde",
         "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 131520,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Solo Se Vive Una Vez",
-        "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
-      },
-      "artists": [
-        {
-          "name": "Yas Cepeda",
-          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
-        },
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 147601,
-      "name": "Solo Se Vive Una Vez",
-      "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Bala (feat. Flori del Pino)",
-        "url": "https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Flori del Pino",
-          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
-        }
-      ],
-      "duration_ms": 175537,
-      "name": "Bala (feat. Flori del Pino)",
-      "url": "https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH"
       },
@@ -1975,22 +1955,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Esta Pegao",
-        "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
+        "name": "Bala (feat. Flori del Pino)",
+        "url": "https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
         },
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Flori del Pino",
+          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
         }
       ],
-      "duration_ms": 150967,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
+      "duration_ms": 175537,
+      "name": "Bala (feat. Flori del Pino)",
+      "url": "https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2007,6 +1987,26 @@
       "duration_ms": 199133,
       "name": "Fan\u00e1tico",
       "url": "https://open.spotify.com/track/0zjlFMd5NRR1XrOwP2ZTtQ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Esta Pegao",
+        "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
     }
   ],
   "unique_name": "Latin House",

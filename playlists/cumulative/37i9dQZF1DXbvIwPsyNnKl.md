@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: ALLMO$T
 
-183 songs - 10 hr 25 min
+184 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 | 2024-07-17 |  |
 | [Halik](https://open.spotify.com/track/2wSYyofdHrG5YgpyhEFU69) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa), [Yukizen](https://open.spotify.com/artist/15lKLeV6P3Motj4tnKVBsD) | [Halik](https://open.spotify.com/album/7F0nz1ZN2nem3UKmzG2qec) | 4:16 | 2023-12-27 | 2024-02-01 |
 | [Halik Sobrang Diin](https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Halik Sobrang Diin](https://open.spotify.com/album/4OtUimDzomnLyZPdtswcbf) | 3:51 | 2024-04-03 | 2024-07-04 |
-| [Head Honcho](https://open.spotify.com/track/7GXOXYdU950eRvk5rUAE8F) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:54 | 2024-07-24 |  |
+| [Head Honcho](https://open.spotify.com/track/7GXOXYdU950eRvk5rUAE8F) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:54 | 2024-07-24 | 2024-09-19 |
 | [Hide n Seek](https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Hide n Seek](https://open.spotify.com/album/6GA41ej75Yzw9GSDA9TnSd) | 2:57 | 2023-10-04 | 2023-11-11 |
 | [High Score](https://open.spotify.com/track/1CLBLpfBGZ7zk3J9X1SVQt) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [High Score](https://open.spotify.com/album/6oK1jN95CwhOcNiU6grIn1) | 3:29 | 2023-09-20 | 2024-02-15 |
 | [Highschool](https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Highschool](https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz) | 3:10 | 2024-07-03 |  |
@@ -151,6 +151,7 @@
 | [SA'YO LANG](https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [SA'YO LANG](https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ) | 4:02 | 2024-08-14 |  |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-07-18 |
+| [Sadista](https://open.spotify.com/track/5hmg43Bn1stiI6BDat3Sl4) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Sadista](https://open.spotify.com/album/45kF7zimRp7FU2jqDbA9Ct) | 3:12 | 2024-09-18 |  |
 | [Sagana o Salat](https://open.spotify.com/track/4aXOIE1x8ZjHuiA1g6dTyz) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm) | [Propesiya EP](https://open.spotify.com/album/3xllKLisyhUZhpzGThJ8x0) | 4:09 | 2024-03-13 | 2024-04-24 |
 | [Section Y](https://open.spotify.com/track/5W6KCJ0pUFQgFyMrBYqKbw) | [NPS](https://open.spotify.com/artist/4xvIpBKhlz4aKtZvSc2Rc2), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [Section Y](https://open.spotify.com/album/46DrCEIio89BwPtTFyRMSb) | 6:57 | 2024-02-28 | 2024-06-13 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-09-20 | 2023-10-19 |

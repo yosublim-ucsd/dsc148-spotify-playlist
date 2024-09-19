@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Music for the strange, unusual, and recently deceased\. Get ready for a very Beetlejuice Halloween with songs from the original film soundtrack, Bee Gees “Tragedy” and Richard Marx “Right Here Waiting”\. It’s Showtime! 🪲
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 109,989 likes - 86 songs - 6 hr 0 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 109,987 likes - 86 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

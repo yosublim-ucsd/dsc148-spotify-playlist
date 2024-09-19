@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0F6ECVJUrc57maR7Ee0DNV">Ana Bolivar</a> y <a href="spotify:artist:4OgKEU8REaur4PyaUb7Guu">Paola Pablo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,023 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,043 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

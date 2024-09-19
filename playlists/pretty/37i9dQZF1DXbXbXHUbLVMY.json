@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28314,
+  "num_followers": 28318,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Superhelt Steez",
-      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
+      "duration_ms": 132150,
+      "name": "Du & Jag",
+      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
+      "duration_ms": 182973,
+      "name": "Superhelt Steez",
+      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Ung & Dum",
-        "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        }
-      ],
-      "duration_ms": 147678,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 127209,
       "name": "Standard",
       "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Ung & Dum",
+        "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "duration_ms": 147678,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "SIPPER",
         "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2024-09-05 22:00:00",

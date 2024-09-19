@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 220200,
       "name": "Gila Kuasa",
       "url": "https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw"
@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "HALU",
+        "url": "https://open.spotify.com/album/3WAJxIWrZAnMH6gGbqESYt"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222806,
+      "name": "HALU",
+      "url": "https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw"
+    },
+    {
+      "album": {
         "name": "Hamba Cinta",
         "url": "https://open.spotify.com/album/4hNdDz9enF7GHZ9U8ZnMlJ"
       },
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 181104,
       "name": "Hamba Cinta",
       "url": "https://open.spotify.com/track/3OKwXs0gGY9yZuvUBiXyXX"
@@ -3584,6 +3602,28 @@
       "duration_ms": 283900,
       "name": "Hilang Tanpa Bilang",
       "url": "https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE"
+    },
+    {
+      "album": {
+        "name": "Hilangmu Tak Terganti",
+        "url": "https://open.spotify.com/album/6ezQmm3DIvwMMDoWLvbSak"
+      },
+      "artists": [
+        {
+          "name": "Tajul",
+          "url": "https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v"
+        },
+        {
+          "name": "Afieq Shazwan",
+          "url": "https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269548,
+      "name": "Hilangmu Tak Terganti",
+      "url": "https://open.spotify.com/track/2ROLZ2y3dKMvQzZJ47ByMQ"
     },
     {
       "album": {
@@ -4290,7 +4330,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 218181,
       "name": "Jika Takdir - From \"Mentua\"",
       "url": "https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE"
@@ -4884,7 +4924,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 214268,
       "name": "Kenapa Kembali",
       "url": "https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn"
@@ -8083,6 +8123,24 @@
     },
     {
       "album": {
+        "name": "Samudera",
+        "url": "https://open.spotify.com/album/5T4Vdi3V20UEGrZSSXVhOe"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210900,
+      "name": "Samudera",
+      "url": "https://open.spotify.com/track/4twikU46zctUWS4TqpS5aK"
+    },
+    {
+      "album": {
         "name": "Sang Dewi",
         "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
       },
@@ -8156,6 +8214,24 @@
       "duration_ms": 194531,
       "name": "Santai",
       "url": "https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB"
+    },
+    {
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200476,
+      "name": "Satu Bulan",
+      "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
     },
     {
       "album": {
@@ -10202,6 +10278,28 @@
       "duration_ms": 245147,
       "name": "Wanita Biasa",
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
+    },
+    {
+      "album": {
+        "name": "Watak Utama",
+        "url": "https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Watak Utama",
+      "url": "https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 692201,
+  "num_followers": 692335,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Last Resort (Reimagined)",
-        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Last Resort - Reimagined",
-      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Garage Inc.",
         "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 366466,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Flagpole Sitta",
+        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 223003,
+      "name": "Flagpole Sitta",
+      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "Flagpole Sitta",
-        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 223003,
-      "name": "Flagpole Sitta",
-      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "DJ Got Us Fallin in Love",
         "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 230293,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Hooked On A Feeling - Spotify Singles",
         "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
+      "duration_ms": 180149,
+      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
+      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -1851,22 +1867,6 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
-        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 180149,
-      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
-      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2024-09-13 18:20:42",
       "album": {
+        "name": "Polly",
+        "url": "https://open.spotify.com/album/1uPQ4bQDdmMJrTo4fsFoxx"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 143539,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/1oLz0WqVox2U4MFXvO8lqL"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
         "name": "Rock & Roll Hall of Fame Covers - EP",
         "url": "https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB"
       },
@@ -2087,6 +2103,22 @@
       "duration_ms": 242133,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
+    },
+    {
+      "added_at": "2024-09-13 18:20:42",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2024-09-13 18:20:42",
@@ -2123,38 +2155,6 @@
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "Polly",
-        "url": "https://open.spotify.com/album/1uPQ4bQDdmMJrTo4fsFoxx"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 143539,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/1oLz0WqVox2U4MFXvO8lqL"
-    },
-    {
-      "added_at": "2024-09-13 18:20:42",
-      "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2024-09-13 18:20:42",

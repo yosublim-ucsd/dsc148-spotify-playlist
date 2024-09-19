@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 64159,
+  "num_followers": 64262,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,18 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -443,18 +439,18 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+      "duration_ms": 150760,
+      "name": "YAYO",
+      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 150760,
-      "name": "YAYO",
-      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Bad Decisions & Foreplay",
         "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Ba$tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1383,6 +1383,38 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "Pheelz Good II",
+        "url": "https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "MAJO",
+      "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
@@ -1399,38 +1431,6 @@
       "duration_ms": 177000,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "Pheelz Good II",
-        "url": "https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "MAJO",
-      "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "Muyeez (Deluxe)",
+        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 154689,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "BOMBING",
         "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 193125,
       "name": "BOMBING",
       "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "Muyeez (Deluxe)",
-        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 154689,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2024-09-13 00:01:00",

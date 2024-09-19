@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 334485,
+  "num_followers": 334539,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Front By Front",
-        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
-      },
-      "artists": [
-        {
-          "name": "Front 242",
-          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "Headhunter V1.0",
-      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Project Regeneration, Vol. 1",
         "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215280,
       "name": "Bring You Down (Project Regeneration)",
       "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Front By Front",
+        "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "Headhunter V1.0",
+      "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "The War Of Art",
-        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
-      },
-      "artists": [
-        {
-          "name": "American Head Charge",
-          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "A Violent Reaction",
-      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Ich wei\u00df es nicht",
         "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "The War Of Art",
+        "url": "https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl"
+      },
+      "artists": [
+        {
+          "name": "American Head Charge",
+          "url": "https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "A Violent Reaction",
+      "url": "https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
-      },
-      "artists": [
-        {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Echogenetic",
-        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
       },
       "artists": [
         {
-          "name": "Front Line Assembly",
-          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Deadened",
-      "url": "https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD"
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1171,6 +1155,22 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Echogenetic",
+        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
+      },
+      "artists": [
+        {
+          "name": "Front Line Assembly",
+          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Deadened",
+      "url": "https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD"
     },
     {
       "added_at": "2024-07-05 16:33:33",

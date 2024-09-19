@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 305320,
       "name": "A Complicated Truth",
       "url": "https://open.spotify.com/track/5aGDfRq5WecvusAoT9HY4G"
@@ -6493,6 +6493,36 @@
     },
     {
       "album": {
+        "name": "Persona 3 Reload Original Soundtrack",
+        "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6a4b\u3042\u305a\u7f8e",
+          "url": "https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM"
+        },
+        {
+          "name": "Lotus Juice",
+          "url": "https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf"
+        },
+        {
+          "name": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+          "url": "https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN"
+        },
+        {
+          "name": "ATLUS GAME MUSIC",
+          "url": "https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "It's Going Down Now",
+      "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
+    },
+    {
+      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -9886,7 +9916,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
@@ -12228,7 +12258,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 155391,
       "name": "Tailor Swif",
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"

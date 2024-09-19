@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 12901,
+  "num_followers": 12910,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZughtgAAAAAuIQG9G7xkxoz953nCWLtL",
+  "snapshot_id": "ZurCXgAAAADyPUAbndfBuZOuCsn0mbay",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
     },
     {
+      "added_at": "2024-09-18 12:03:42",
+      "album": {
+        "name": "Swipe Swipe",
+        "url": "https://open.spotify.com/album/64CwTALMK8Hv2fjvnEt6YO"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Swipe Swipe",
+      "url": "https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR"
+    },
+    {
       "added_at": "2024-09-16 12:16:54",
       "album": {
         "name": "Toxic Kadhal",
@@ -79,54 +95,6 @@
       "duration_ms": 187368,
       "name": "Toxic Kadhal",
       "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
-    },
-    {
-      "added_at": "2024-08-21 14:38:15",
-      "album": {
-        "name": "Enna Sachitiye",
-        "url": "https://open.spotify.com/album/4p55p6frgV7NlbHhfbIzBt"
-      },
-      "artists": [
-        {
-          "name": "Haswanth Adhi",
-          "url": "https://open.spotify.com/artist/0zo8RWL9fAbxFOGPPEKbUm"
-        }
-      ],
-      "duration_ms": 191364,
-      "name": "Enna Sachitiye",
-      "url": "https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV"
-    },
-    {
-      "added_at": "2024-09-02 11:52:33",
-      "album": {
-        "name": "Penne Vaadi",
-        "url": "https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw"
-      },
-      "artists": [
-        {
-          "name": "Octave Rockers",
-          "url": "https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6"
-        }
-      ],
-      "duration_ms": 216764,
-      "name": "Penne Vaadi",
-      "url": "https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu"
-    },
-    {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "Chin Tapak Dam Dam",
-        "url": "https://open.spotify.com/album/4fyqARfsU6CFcA0MEX3Edh"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 186877,
-      "name": "Chin Tapak Dam Dam",
-      "url": "https://open.spotify.com/track/0VfaoC0lESytCflz1j9Gfe"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -151,6 +119,22 @@
       "duration_ms": 172500,
       "name": "AM I LOSER",
       "url": "https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ"
+    },
+    {
+      "added_at": "2024-09-18 12:06:53",
+      "album": {
+        "name": "Life Of Yazhini",
+        "url": "https://open.spotify.com/album/57OYYcYQ61pTSH2mVnnbzN"
+      },
+      "artists": [
+        {
+          "name": "Sharmili Karunanidhi",
+          "url": "https://open.spotify.com/artist/4wnqsHyWxP8ajpAVas50Ir"
+        }
+      ],
+      "duration_ms": 197673,
+      "name": "Life Of Yazhini",
+      "url": "https://open.spotify.com/track/2pkkLWCSG2IRDfVGhSpUkN"
     },
     {
       "added_at": "2024-08-26 23:46:43",
@@ -699,26 +683,6 @@
       "duration_ms": 138523,
       "name": "OORO",
       "url": "https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2"
-    },
-    {
-      "added_at": "2024-07-25 12:45:00",
-      "album": {
-        "name": "Oye WiFi",
-        "url": "https://open.spotify.com/album/5ISe0jUvgvW0oL4cUfHpfv"
-      },
-      "artists": [
-        {
-          "name": "MV Renju",
-          "url": "https://open.spotify.com/artist/3FF68P1H15lpkam4dm9u9V"
-        },
-        {
-          "name": "Maguvi",
-          "url": "https://open.spotify.com/artist/2W6PplXI1Za8fhlceez0V3"
-        }
-      ],
-      "duration_ms": 342648,
-      "name": "Oye WiFi",
-      "url": "https://open.spotify.com/track/4OJlaha9SL0hg2T71TrajY"
     },
     {
       "added_at": "2024-04-05 12:37:19",

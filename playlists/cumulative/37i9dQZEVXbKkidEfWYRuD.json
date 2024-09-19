@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 131180,
       "name": "2017",
       "url": "https://open.spotify.com/track/3JlIUrzdTsW3tpFiwYOpJJ"
@@ -4848,7 +4848,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
@@ -16464,7 +16464,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -19250,6 +19250,24 @@
       "duration_ms": 227384,
       "name": "\u0412\u0442\u043e\u043c\u0438\u0432\u0441\u044f",
       "url": "https://open.spotify.com/track/3kRfAMotUWqRfPj5HLIn7m"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0442\u043e\u043c\u043b\u0435\u043d\u0430 \u0441\u0442\u0440\u0456\u0442",
+        "url": "https://open.spotify.com/album/5maWszGHyI4ZZiFNj5KByk"
+      },
+      "artists": [
+        {
+          "name": "Schmalgauzen",
+          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197242,
+      "name": "\u0412\u0442\u043e\u043c\u043b\u0435\u043d\u0430 \u0441\u0442\u0440\u0456\u0442",
+      "url": "https://open.spotify.com/track/26802wfiqGepM44lMErxuF"
     },
     {
       "album": {
@@ -25032,7 +25050,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -26188,7 +26206,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"

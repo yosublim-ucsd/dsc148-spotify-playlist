@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 166406,
       "name": "Already Missing Summer",
       "url": "https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 203275,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/0WoUPm1OTP4VCRRWnxAUQw"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 162500,
       "name": "Ascending",
       "url": "https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 150750,
       "name": "Beyond The Moon",
       "url": "https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ"
@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Enlightenment",
+        "url": "https://open.spotify.com/album/6bp95G2tASslcnTt3rs363"
+      },
+      "artists": [
+        {
+          "name": "Stepan Korolev",
+          "url": "https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173189,
+      "name": "Cosmic Enlightenment",
+      "url": "https://open.spotify.com/track/4FPF6KASKzwYP3XRjXm0jF"
+    },
+    {
+      "album": {
         "name": "Cosmogonie",
         "url": "https://open.spotify.com/album/25wiFsSWwhcLjb3fj3OCQm"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 171685,
       "name": "Cosmogonie",
       "url": "https://open.spotify.com/track/6dCO7VelwRbF5m4RhimWSg"
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 170810,
       "name": "Empfidlich",
       "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 135751,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS"
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 175692,
       "name": "Fading Memories",
       "url": "https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz"
@@ -5049,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/09gtcLeH4GTC0N4gfFUqV0"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/7ssVuuKwOMXDMiLB734NSn"
+    },
+    {
+      "album": {
         "name": "Forms",
         "url": "https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z"
       },
@@ -5510,7 +5546,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 169105,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
@@ -5532,6 +5568,24 @@
       "duration_ms": 158781,
       "name": "Heima",
       "url": "https://open.spotify.com/track/6cb2ZbtBESjuwhKawvm9qg"
+    },
+    {
+      "album": {
+        "name": "Here We Are",
+        "url": "https://open.spotify.com/album/4vhYTU7ytquuqA7mvJCIkU"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/2XlCYHSgtAgxJm7l6UUQXl"
     },
     {
       "album": {
@@ -5690,7 +5744,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 154503,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/5UTGQ7EW9lD4sCJs1QjL9l"
@@ -6518,7 +6572,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 182972,
       "name": "Kinship",
       "url": "https://open.spotify.com/track/0lZYIXIXkyzwyCWptYemZH"
@@ -7332,7 +7386,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 138983,
       "name": "Lucens",
       "url": "https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu"
@@ -7692,7 +7746,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 154499,
       "name": "Merikarp",
       "url": "https://open.spotify.com/track/1SucXU3xTOCyBAAqE22E8B"
@@ -8088,7 +8142,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 187358,
       "name": "My Better Half",
       "url": "https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G"
@@ -8286,7 +8340,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 153394,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/6SM7xwEN26ps6UmGaYOncB"
@@ -8340,7 +8394,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 157261,
       "name": "Night Traveller",
       "url": "https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB"
@@ -9150,7 +9204,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 173961,
       "name": "Peaceful Movement",
       "url": "https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth"
@@ -9546,7 +9600,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 175166,
       "name": "Profetia",
       "url": "https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY"
@@ -9996,7 +10050,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 158308,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II"
@@ -10608,7 +10662,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 168111,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs"
@@ -10698,7 +10752,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 142702,
       "name": "Sanam",
       "url": "https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG"
@@ -10734,7 +10788,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 218000,
       "name": "Sant",
       "url": "https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw"
@@ -10788,7 +10842,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 130731,
       "name": "Saoradh",
       "url": "https://open.spotify.com/track/6hF7PFj60NCD6BtoRqyWZY"
@@ -10860,7 +10914,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 136666,
       "name": "Schau Nach Oben",
       "url": "https://open.spotify.com/track/5z3A0pDvtaLLmZ868EvXRH"
@@ -10896,7 +10950,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 169504,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3"
@@ -12354,7 +12408,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 211500,
       "name": "Sumargola",
       "url": "https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W"
@@ -12894,7 +12948,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 128940,
       "name": "The Journey Within",
       "url": "https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q"
@@ -12984,7 +13038,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 168299,
       "name": "The Search",
       "url": "https://open.spotify.com/track/0peigjQiQdgHe2JvdfMxSJ"
@@ -13326,7 +13380,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 209301,
       "name": "To Be Expected",
       "url": "https://open.spotify.com/track/2Z6KXTpofAbkZMhy6F34C0"
@@ -13560,7 +13614,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 182754,
       "name": "Un Lugar Tranquilo",
       "url": "https://open.spotify.com/track/5BMUIx6JMCKHK1BsWsYMmY"
@@ -13794,7 +13848,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 138138,
       "name": "Veilless",
       "url": "https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT"
@@ -14154,7 +14208,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 200094,
       "name": "Winter",
       "url": "https://open.spotify.com/track/26aVqLHRrWVeWkeDF7BcnS"
@@ -14244,7 +14298,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 138152,
       "name": "Without U",
       "url": "https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S"

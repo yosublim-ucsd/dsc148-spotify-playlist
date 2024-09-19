@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,497 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,500 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 35 | [Nieba nie ma](https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN](https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD) | 2:58 |
 | 36 | [Mam potrzebę](https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [TAM](https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ) | 4:12 |
 | 37 | [Blue](https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [HEARTCORE](https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN) | 4:29 |
-| 38 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
+| 38 | [Wszystkie narkotyki świata](https://open.spotify.com/track/3fVqdsGyi34YN1MdLUHtaF) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Wszystkie narkotyki świata](https://open.spotify.com/album/5oaYpD16K3Q1Q7aqa1UJVe) | 4:13 |
 | 39 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
-| 40 | [Wszystkie narkotyki świata](https://open.spotify.com/track/3fVqdsGyi34YN1MdLUHtaF) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Wszystkie narkotyki świata](https://open.spotify.com/album/5oaYpD16K3Q1Q7aqa1UJVe) | 4:13 |
+| 40 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
 | 41 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
 | 42 | [Etna](https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 4:20 |
 | 43 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
-| 44 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
-| 45 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 44 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 45 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
 | 46 | [Friend or Foe?](https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [ID.Entity](https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX) | 7:28 |
 | 47 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/4i3SeVJzijSclCmmp4UDt8) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [BOKKA HITS 10](https://open.spotify.com/album/4lpEIOhjPlV3ACNCQahbne) | 4:10 |
 | 48 | [Abrete corazon](https://open.spotify.com/track/1WGAVihxhiKWAfCICZPlwW) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l) | [Hé oyáte](https://open.spotify.com/album/3ovjzkM9J9FIaf8MStJqq1) | 9:52 |

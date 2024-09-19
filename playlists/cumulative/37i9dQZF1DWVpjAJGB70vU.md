@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> The country that made country cool\. Cover: George Strait
+> We're celebrating 30 years of Joe Diffie's iconic album "Third Rock from the Sun" on 90s Country!
 
 194 songs - 11 hr 17 min
 

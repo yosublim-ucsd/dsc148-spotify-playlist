@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Padre Marcelo Rossi, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,151 likes - 70 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,246 likes - 70 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 58 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 59 | [Faço Novas Todas As Coisas](https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni) | [Eugenio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Missão Mensagem Brasil](https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F) | [Mensagens e Canções Que Transformam Vidas](https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47) | 4:28 |
 | 60 | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k) | 4:44 |
-| 61 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
+| 61 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 |
 | 62 | [Bom É Estarmos Aqui \- Ao Vivo](https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5) | [Bom É Estarmos Aqui \(Ao Vivo\)](https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8) | 3:51 |
 | 63 | [Alma de Cristo](https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Alma de Cristo](https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA) | 3:52 |
-| 64 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 |
+| 64 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 |
 | 65 | [Como Noiva Adornada no Altar](https://open.spotify.com/track/1UgDFFusdZtJh5yE0QqwlP) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\)](https://open.spotify.com/album/5bKZxjlwcMC97uymkaWadn) | 11:54 |
 | 66 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
 | 67 | [Canção de Madalena](https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Hosana, Pt\. 01](https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N) | 3:34 |

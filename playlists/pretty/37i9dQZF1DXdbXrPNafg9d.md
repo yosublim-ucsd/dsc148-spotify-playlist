@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Nilüfer Yanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,199 likes - 185 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,243 likes - 185 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

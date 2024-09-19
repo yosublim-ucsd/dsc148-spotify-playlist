@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 83076,
+  "num_followers": 83106,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
       "added_at": "2023-06-20 14:29:14",
       "album": {
         "name": "bleh",
@@ -543,6 +527,22 @@
       "duration_ms": 167235,
       "name": "ok im cool",
       "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "ihonestlymightjustgiveup",
-        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
       "artists": [
         {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 126177,
-      "name": "ihonestlymightjustgiveup",
-      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+        "name": "ihonestlymightjustgiveup",
+        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
         }
       ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+      "duration_ms": 126177,
+      "name": "ihonestlymightjustgiveup",
+      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
     },
     {
       "added_at": "2023-06-20 14:29:14",
@@ -771,22 +771,6 @@
       "duration_ms": 134961,
       "name": "must be nice",
       "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "rosier/punk2",
-      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -873,22 +857,6 @@
       "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
-      "added_at": "2023-06-20 14:29:14",
-      "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
-    },
-    {
       "added_at": "2023-04-27 17:13:18",
       "album": {
         "name": "Whatuworried4?",
@@ -903,6 +871,38 @@
       "duration_ms": 155506,
       "name": "Whatuworried4?",
       "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "rosier/punk2",
+      "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+    },
+    {
+      "added_at": "2023-06-20 14:29:14",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -923,42 +923,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Be Your USA",
-        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
-      },
-      "artists": [
-        {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        },
-        {
-          "name": "Iiris",
-          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Be Your USA",
-      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
       },
@@ -975,18 +939,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+        "name": "Be Your USA",
+        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
       "artists": [
         {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        },
+        {
+          "name": "Iiris",
+          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
         }
       ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
+      "duration_ms": 173000,
+      "name": "Be Your USA",
+      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1013,22 +981,6 @@
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
     },
     {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
-    },
-    {
       "added_at": "2023-06-20 14:29:14",
       "album": {
         "name": "bad idea",
@@ -1047,6 +999,54 @@
       "duration_ms": 69041,
       "name": "bad idea",
       "url": "https://open.spotify.com/track/7hXEc9Hk5MS2BVoSFx4H5X"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2023-04-27 17:13:18",

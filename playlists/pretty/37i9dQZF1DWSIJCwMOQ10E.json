@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95388,
+  "num_followers": 95404,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "5 A\u00f1os Aferrados al Sabor",
-        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 334132,
-      "name": "Un Vestido Bonito",
-      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "C\u00f3mo No Amarte",
         "url": "https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR"
       },
@@ -795,22 +779,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "Vallenato Apretao",
-        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 158120,
-      "name": "Vallenato Apretao",
-      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "Vallenato Apretao",
+        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "Vallenato Apretao",
+      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "5 A\u00f1os Aferrados al Sabor",
+        "url": "https://open.spotify.com/album/48MJqCk8jUoM5zU9HWeQJN"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 334132,
+      "name": "Un Vestido Bonito",
+      "url": "https://open.spotify.com/track/5Zqsv6PdrHyeUbYjnzWVmH"
     },
     {
       "added_at": "2024-07-12 18:43:55",

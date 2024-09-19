@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,809 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,835 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Clap](https://open.spotify.com/track/6Jld6if9BVJvBZhoWICiH9) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [2 Eleven](https://open.spotify.com/artist/2KmL6rlCx9ra6V2tnsg5dp), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Tha Clicc House RELOADED](https://open.spotify.com/album/1AX2bNIZ4bFjku1WuI0Jih) | 2:19 |
 | 75 | [Fuck It Up \(feat\. YG\)](https://open.spotify.com/track/0nXgBBZFVdumUIaxszDm1p) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [A Good Night in the Ghetto](https://open.spotify.com/album/5fjjHAxUCbr7Z1Pj2flqHs) | 2:21 |
 
-Snapshot ID: `ZuR+OwAAAAD5tYEtJrfcJ59clh/iZvlw`
+Snapshot ID: `ZuR+OwAAAABH/abAuPFhQb+pvToNLqdO`

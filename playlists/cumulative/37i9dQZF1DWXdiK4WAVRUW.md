@@ -2,7 +2,7 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> The most memorable country hits from the 2010s\. Cover: Luke Bryan
+> We're celebrating the 10th anniversary of Kenny Chesney's album "American Kids" on 2010s Country!
 
 271 songs - 16 hr 8 min
 

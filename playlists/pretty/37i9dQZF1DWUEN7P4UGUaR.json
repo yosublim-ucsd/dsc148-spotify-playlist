@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 12189,
+  "num_followers": 12197,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
+        "name": "Keteke",
+        "url": "https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227208,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 163628,
       "name": "DND",
       "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Keteke",
-        "url": "https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227208,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
     },
     {
       "added_at": "2024-09-06 09:51:33",

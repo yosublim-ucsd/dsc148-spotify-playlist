@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125308,
+  "num_followers": 125323,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "P\u00e1nico (VMG)",
-        "url": "https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "P\u00e1nico (VMG)",
-      "url": "https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "P\u00e1nico (VMG)",
+        "url": "https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "P\u00e1nico (VMG)",
+      "url": "https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
-        "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        },
-        {
-          "name": "Tanxugueiras",
-          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
-      "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
+        "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
+      "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "O FE",
+        "url": "https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 123802,
+      "name": "O FE",
+      "url": "https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 340638,
       "name": "Se\u00f1or Tiempo",
       "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "O FE",
-        "url": "https://open.spotify.com/album/1qpanq2jhSzWfhiYTnTzCS"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 123802,
-      "name": "O FE",
-      "url": "https://open.spotify.com/track/1tW2ry8Pfmx3cRhQjQt8iE"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Propuestas Imposibles",
-        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 223047,
-      "name": "Propuestas Imposibles",
-      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Como Un Amuleto",
         "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 191689,
       "name": "Como Un Amuleto",
       "url": "https://open.spotify.com/track/2nRjw9V6oQmueOWsaoymJ4"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Propuestas Imposibles",
+        "url": "https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 223047,
+      "name": "Propuestas Imposibles",
+      "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Yemaya",
-        "url": "https://open.spotify.com/album/2EUCdSAaYYQjYku6FsDNw7"
-      },
-      "artists": [
-        {
-          "name": "Sibila",
-          "url": "https://open.spotify.com/artist/32oM4BbE1zXFs0wZV6O0ZT"
-        }
-      ],
-      "duration_ms": 272876,
-      "name": "Yemaya",
-      "url": "https://open.spotify.com/track/2HVjSBp66ZdDoJ3r0oryOQ"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Yemaya",
+        "url": "https://open.spotify.com/album/2EUCdSAaYYQjYku6FsDNw7"
+      },
+      "artists": [
+        {
+          "name": "Sibila",
+          "url": "https://open.spotify.com/artist/32oM4BbE1zXFs0wZV6O0ZT"
+        }
+      ],
+      "duration_ms": 272876,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/2HVjSBp66ZdDoJ3r0oryOQ"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Una mica m\u00e9s",
-        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
-      },
-      "artists": [
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
-        }
-      ],
-      "duration_ms": 261775,
-      "name": "Una mica m\u00e9s",
-      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+      },
+      "artists": [
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
     },
     {
       "added_at": "2024-09-06 06:00:00",

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Warning.
 
-1,640 songs - 3 day 17 hr 28 min
+1,641 songs - 3 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 | 2023-05-30 | 2023-07-08 |
 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 | 2022-09-08 | 2023-05-23 |
 | [bajek deszcz](https://open.spotify.com/track/1b8OjWCdXUAs3V61qzyTPk) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [bajek deszcz](https://open.spotify.com/album/1pcpF9L9NwTxOTSv1OBi4U) | 2:34 | 2022-03-24 | 2022-04-18 |
-| [Balance Of Love](https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Balance Of Love](https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY) | 3:03 | 2024-06-07 |  |
+| [Balance Of Love](https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Balance Of Love](https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY) | 3:03 | 2024-06-07 | 2024-09-19 |
 | [Bally On](https://open.spotify.com/track/3YSeSm39soVKcmdmlrvCEZ) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Bally On](https://open.spotify.com/album/583jyHPwmB25VqyEmKXD5l) | 2:08 | 2024-06-28 |  |
 | [Banda](https://open.spotify.com/track/63H9EvG0JABQ1qTDdLBEnK) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Banda](https://open.spotify.com/album/4YNlaEpg2Nit8mKdjERxtz) | 3:43 | 2022-03-24 | 2022-04-19 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 | 2023-10-06 |
@@ -781,6 +781,7 @@
 | [Like a fool](https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Like a fool](https://open.spotify.com/album/3lbswaKF1ylYuSYUqBHFdf) | 4:20 | 2023-05-30 | 2023-06-10 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-03-21 | 2022-05-20 |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2022-03-24 | 2022-04-14 |
+| [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-13 |  |
 | [Little Bit of This](https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Little Bit of This](https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN) | 3:00 | 2022-03-24 | 2022-09-16 |
 | [Live Forever](https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Live Forever](https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z) | 3:13 | 2024-03-29 | 2024-05-18 |
 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 | 2022-03-24 | 2022-09-16 |

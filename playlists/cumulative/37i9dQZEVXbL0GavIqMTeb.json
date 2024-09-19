@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 140013,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 163173,
       "name": "DEVOLVER EL TIEMPO",
       "url": "https://open.spotify.com/track/1GwVXv2KpK9FF06GCzcMCA"
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 193826,
       "name": "EL Gil De Tu Ex",
       "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
@@ -5966,6 +5966,24 @@
       "duration_ms": 105693,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/0Q8uS8c6cXBO03cyQcv3Xn"
+    },
+    {
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135546,
+      "name": "El Guat\u00f3n Loyola",
+      "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
     },
     {
       "album": {
@@ -6068,6 +6086,24 @@
       "duration_ms": 156786,
       "name": "EL REY DE LO IMPERFECTO",
       "url": "https://open.spotify.com/track/4hgd5aoPFWEexRQLEep1rO"
+    },
+    {
+      "album": {
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "El Sol y la Luna",
+      "url": "https://open.spotify.com/track/1ftGNTvnmH7KRRDUtASTej"
     },
     {
       "album": {
@@ -6772,7 +6808,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -6790,7 +6826,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -6824,7 +6860,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 283000,
       "name": "Escarlata - Remix",
       "url": "https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr"
@@ -9388,7 +9424,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -16478,7 +16514,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 162397,
       "name": "PRINCESITA DE ...",
       "url": "https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6"
@@ -17298,7 +17334,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -18074,7 +18110,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -19032,6 +19068,24 @@
     {
       "album": {
         "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "Si Tu Me Amaras",
+      "url": "https://open.spotify.com/track/10u4VWraLZ11bJ0uFMp9Lk"
+    },
+    {
+      "album": {
+        "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/4QLMLcfJ4AzN5ORH3rKSEm"
       },
       "artists": [
@@ -19382,7 +19436,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 153500,
       "name": "Solida",
       "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
@@ -20216,7 +20270,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"

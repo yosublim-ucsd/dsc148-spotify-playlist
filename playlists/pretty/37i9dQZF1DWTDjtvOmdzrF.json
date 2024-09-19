@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556387,
+  "num_followers": 556383,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     },
     {
       "added_at": "2024-09-02 04:34:18",
@@ -1191,22 +1195,18 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2024-09-02 04:34:18",

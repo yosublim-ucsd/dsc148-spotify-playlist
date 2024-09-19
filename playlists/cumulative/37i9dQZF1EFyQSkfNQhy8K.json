@@ -1705,6 +1705,32 @@
     },
     {
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
+        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153687,
+      "name": "La Muerte (feat. Tokischa) - Remix",
+      "url": "https://open.spotify.com/track/07OBN8oKf3AYOltVom5R7F"
+    },
+    {
+      "album": {
         "name": "La Partiste Con Tu Regalo",
         "url": "https://open.spotify.com/album/4pzaKXE25bruaPwda3BM11"
       },

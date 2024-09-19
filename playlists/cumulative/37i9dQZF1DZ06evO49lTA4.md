@@ -2,7 +2,7 @@
 
 ### [This Is Luke Combs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49lTA4)
 
-> This is Luke Combs\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Luke Combs\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 7 min
 

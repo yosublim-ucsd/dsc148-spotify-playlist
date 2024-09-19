@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Tananai
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,458 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,445 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [ODISSEA](https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ODISSEA](https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG) | 2:57 |
 | 55 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 |
 
-Snapshot ID: `ZuNknAAAAAD7O5EDCnrBWZxZWBV+cogg`
+Snapshot ID: `ZuNknAAAAABM+S4d0zMhqopkgEjiYJ1Y`

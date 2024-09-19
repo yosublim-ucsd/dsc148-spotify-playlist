@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: OGRE YOU ASSHOLE
 
-1,885 songs - 4 day 21 hr 15 min
+1,887 songs - 4 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-23 | 2024-09-18 |
 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 | 2023-03-07 | 2023-03-29 |
 | [Four](https://open.spotify.com/track/6rt0WIYwItxD9ddLxQRnUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/2Vfx2YrAPjkZ7i2I0wUcYK) | 3:38 | 2023-03-07 | 2023-03-09 |
-| [Four Hundred Million Blues](https://open.spotify.com/track/4fs5VptF6ywZvokDFPemXt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Four Hundred Million Blues](https://open.spotify.com/album/4fMFEXTL0MaQq8G1DNf7NQ) | 4:22 | 2024-09-17 |  |
+| [Four Hundred Million Blues](https://open.spotify.com/track/4fs5VptF6ywZvokDFPemXt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Four Hundred Million Blues](https://open.spotify.com/album/4fMFEXTL0MaQq8G1DNf7NQ) | 4:22 | 2024-09-17 | 2024-09-19 |
 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 | 2023-09-19 | 2023-09-27 |
 | [friday](https://open.spotify.com/track/0kIwLXLFVA2UT8Q6OrqICw) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [hajimari](https://open.spotify.com/album/5ELosTDtgfk8Ekx8yHolP6) | 2:49 | 2023-02-14 | 2023-03-22 |
 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2023-01-12 | 2023-02-16 |
@@ -1255,6 +1255,7 @@
 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 | 2024-09-03 |  |
 | [こくう](https://open.spotify.com/track/4Y2DYiEDXkmOzVEtXK2I1z) | [しんきろうのまち](https://open.spotify.com/artist/4fbq9ZbNik4Qze3IgCtHBR) | [こくう](https://open.spotify.com/album/3dw6Ljlm0bt7VugToMr2fR) | 3:47 | 2024-02-13 | 2024-02-21 |
 | [この場所](https://open.spotify.com/track/0TzmaMCOIRlfpAObq4XgQU) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [This is Thiiird Place](https://open.spotify.com/album/3kkN9zxPKegd00EbZ59ffb) | 4:53 | 2024-03-12 | 2024-03-20 |
+| [この曲](https://open.spotify.com/track/3ugXyFuD01jT9egwNSdqYH) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [この曲](https://open.spotify.com/album/1JW0zutPSdL3J1MY6OjUZw) | 4:43 | 2024-09-17 |  |
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
 | [ごみ溜めのバラード \- band](https://open.spotify.com/track/6EWqH6zaPCUTVvAA73RmKv) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Super Legend](https://open.spotify.com/album/545HhduxVVC1BnSMa0cVLm) | 3:53 | 2024-03-12 | 2024-04-24 |
 | [ごめんね](https://open.spotify.com/track/3k2Cp8MPEWVbjmfDbboFbd) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ごめんね](https://open.spotify.com/album/0jI1hHT93QEMp9XUdNwJBf) | 3:31 | 2023-04-04 | 2023-04-12 |
@@ -1343,7 +1344,7 @@
 | [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 | 2023-10-19 |
 | [アイズワイドシャット](https://open.spotify.com/track/1GX9PU3ZyNrZ6jWH8Y0Vvb) | [キッサ・コッポラ](https://open.spotify.com/artist/4Jm5SUBhLazbZchBTSkJHY) | [アイズワイドシャット](https://open.spotify.com/album/3EYmLKd1q3DPjpMuGZuSSy) | 4:37 | 2024-07-02 | 2024-07-10 |
 | [アイリー](https://open.spotify.com/track/1clGfxmWSbrPkIILbRul63) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [鯖ノ壱](https://open.spotify.com/album/6Y77alsaXEOMcPRN98sjXp) | 3:00 | 2024-03-19 | 2024-04-19 |
-| [アステロイド](https://open.spotify.com/track/2fOxIDOlP0VDatvvaRUOGz) | [pepetterz](https://open.spotify.com/artist/4yWeAGNBfnMevGLed3KN17) | [アステロイド](https://open.spotify.com/album/7I6A4TQ9WYCMaZaSeeY2qZ) | 2:23 | 2024-08-27 |  |
+| [アステロイド](https://open.spotify.com/track/2fOxIDOlP0VDatvvaRUOGz) | [pepetterz](https://open.spotify.com/artist/4yWeAGNBfnMevGLed3KN17) | [アステロイド](https://open.spotify.com/album/7I6A4TQ9WYCMaZaSeeY2qZ) | 2:23 | 2024-08-27 | 2024-09-19 |
 | [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-04-30 | 2024-07-10 |
 | [アナベル](https://open.spotify.com/track/0yg9wt1fz7JXMCRueKEQoH) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [アナベル](https://open.spotify.com/album/6FM9Qjt5PKS9lgPziz91aZ) | 3:39 | 2024-08-06 | 2024-09-04 |
 | [アブサン](https://open.spotify.com/track/15T8Cgslf1egP4NX3KVmKP) | [Greecelove](https://open.spotify.com/artist/4Tv5ODUYO9KGuLmv2KtJ9A) | [無・無・無・無・無](https://open.spotify.com/album/7r2MtOjyJKmrZjpaUZ59MG) | 3:35 | 2023-11-21 | 2023-11-29 |
@@ -1367,6 +1368,7 @@
 | [カオカオ](https://open.spotify.com/track/7z8KM3HGH6XVWrUWDfaaA3) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [カオカオ](https://open.spotify.com/album/78zz0pYiRTIxMKlQIheY8o) | 3:49 | 2024-03-05 | 2024-04-10 |
 | [カルーセル](https://open.spotify.com/track/7rD5OqAfS3PMOFKrB1LcXP) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [Carousel Circle](https://open.spotify.com/album/6mh8zAPG02p3sw6BF9sS7q) | 3:25 | 2023-11-29 | 2023-12-06 |
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
+| [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 | 2024-09-17 |  |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
 | [ガーリーボーイ](https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ガーリーボーイ](https://open.spotify.com/album/67WHlE87BwJnEyt8CdjdV2) | 3:32 | 2024-03-12 | 2024-04-19 |
 | [ガールフレンド](https://open.spotify.com/track/6oqp1spnXa6dw5Y2jM8wiy) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ガールフレンド](https://open.spotify.com/album/43Ggl0UkT7sQ0x5SqFWxCS) | 2:49 | 2024-07-09 | 2024-07-17 |

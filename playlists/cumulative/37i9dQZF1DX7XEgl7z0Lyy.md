@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-249 songs - 8 hr 47 min
+253 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Continue](https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Continue](https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB) | 3:25 | 2023-12-01 | 2024-02-24 |
 | [corpse](https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L) | 1:52 | 2023-10-20 | 2024-04-19 |
 | [corpse](https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh) | 1:52 | 2023-10-20 | 2024-04-27 |
+| [CR4CK HOUSE](https://open.spotify.com/track/0dUnW52SwzwPEAHS1oM9xT) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [CR4CK HOUSE](https://open.spotify.com/album/5Cm7ZRDa3KEnpc9nNrNxO5) | 2:05 | 2024-09-18 |  |
 | [CRIME SCENE](https://open.spotify.com/track/7c6Rp8BZF1o9cEPFQaGY32) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [Tnvr](https://open.spotify.com/artist/3yODxm6qLkDmpvw027HnPp) | [CRIME SCENE](https://open.spotify.com/album/0BOvxHLcyWn1RvCzSqCsDj) | 2:00 | 2023-12-01 |  |
 | [crystallize](https://open.spotify.com/track/1PvmpEdGf0OnE5eINVbrCJ) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/5C2g9Zo2Zr1tPpmaPkCD23) | 2:01 | 2023-09-22 | 2024-04-19 |
 | [crystallize](https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ) | 2:01 | 2023-09-01 |  |
@@ -136,6 +137,7 @@
 | [krushed!](https://open.spotify.com/track/3iQ1B1jF370iZEaJUIs3eJ) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA) | [krushed!](https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo) | 1:38 | 2024-02-13 |  |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2023-07-21 |  |
 | [labyrinth](https://open.spotify.com/track/0RBL2CU9e3x13GFEzMGG3z) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [\#exclusive](https://open.spotify.com/album/2MOmOE5tp2Y8PGoOxN4iXA) | 1:42 | 2023-07-21 |  |
+| [LEGACY](https://open.spotify.com/track/1rq0nbpxSLVy9Z9m755ZOu) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [LEGACY](https://open.spotify.com/album/2O75ivwd1VnIU7hhTjRmwT) | 2:00 | 2024-09-18 |  |
 | [LEMMEHXT](https://open.spotify.com/track/7zkxWHkuc8aKe2et9kaD9O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [LEMMEHXT](https://open.spotify.com/album/3Cym7DPZUWiWKCpNtuT1Pk) | 1:05 | 2023-07-28 | 2024-06-14 |
 | [LEMMEHXT 2](https://open.spotify.com/track/623dvpOBO6NtMulNdGLhje) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [Jnhygs](https://open.spotify.com/artist/6XGvYepe2myhEN8tJ49vIk) | [LEMMEHXT 2](https://open.spotify.com/album/2wPSz9UFkZALTAMs2DPgoq) | 1:31 | 2023-07-21 | 2023-07-29 |
 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny) | 2:01 | 2023-07-21 |  |
@@ -169,6 +171,7 @@
 | [OD](https://open.spotify.com/track/0ElVra0U2mjIVh8eXGsj71) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [sagrada](https://open.spotify.com/artist/6a52hB0cfqNzxDp8VoV8BZ), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [OD](https://open.spotify.com/album/3ohsSrvgaCsEctiXLHQA1e) | 1:42 | 2024-05-24 |  |
 | [OK WE SININ](https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV) | [OK WE SININ](https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA) | 1:20 | 2023-09-01 | 2023-12-11 |
 | [OK WE SININ](https://open.spotify.com/track/3stbW6MArOPEjS2yr8tCRA) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/6mFJ6p0JXGBH8z38219P7r) | [OK WE SININ](https://open.spotify.com/album/3LA7ZCMNSH17iZYMd2TBqd) | 1:20 | 2023-09-22 | 2023-12-16 |
+| [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 | 2024-09-18 |  |
 | [On My Mind](https://open.spotify.com/track/37mNBpbd2ZeSN51qcKy0Ho) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [On My Mind](https://open.spotify.com/album/16MG9A3cvNOamfuJqK02aQ) | 1:33 | 2024-03-08 | 2024-04-13 |
 | [ON THE FLOOR!](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [xoni](https://open.spotify.com/artist/4LNaQPg7dVA4HLDkp9BSf6) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 | 2023-09-08 |  |
 | [onyx palace](https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql) | 2:13 | 2023-09-22 | 2024-01-26 |
@@ -196,6 +199,7 @@
 | [Rivers](https://open.spotify.com/track/6vIN7kMIBolzlIkWpV1hAq) | [wayudance](https://open.spotify.com/artist/44UkTI8wjUYTLqBFFgI19u), [luvjoey](https://open.spotify.com/artist/2XLPgNBmiEB3maK8HMk3kX) | [Elements](https://open.spotify.com/album/1QGkji2IFaBd0bMJBvaTAE) | 1:48 | 2023-08-04 | 2023-08-26 |
 | [rock that body shawty](https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL) | [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [rock that body shawty](https://open.spotify.com/album/376Gm1ANMn5oFVF6ZYs5Nz) | 1:54 | 2023-09-15 | 2024-03-30 |
 | [Rock Your Body](https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Rock Your Body](https://open.spotify.com/album/1bL31qYzTMyihNFR91mgFt) | 2:13 | 2024-02-23 |  |
+| [ROCKST4R](https://open.spotify.com/track/6Gd9ab4irg5sQOrS9GA18T) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [ROCKST4R](https://open.spotify.com/album/3uCTv5sotyLk7SzbyyVOe9) | 1:59 | 2024-09-18 |  |
 | [runaway girl](https://open.spotify.com/track/2lP4HXZCxBEk4pu4dv0P8f) | [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [runaway girl](https://open.spotify.com/album/5ngKBXTdzNKq4z5TRHfON8) | 2:43 | 2024-04-26 |  |
 | [Sacrifice](https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4) | [pluto](https://open.spotify.com/artist/3uFkM20bHYbCDR5E1u0yGX), [Clover!](https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD) | [Sacrifice](https://open.spotify.com/album/6fN1ijjm75vtLaetlir1qE) | 1:50 | 2024-05-17 |  |
 | [Saffron Forest](https://open.spotify.com/track/2Dw26esVMltthp13n4YfNx) | [sorrychai](https://open.spotify.com/artist/6zFBKE69BSzuoEYOgmxY3b) | [Saffron Forest](https://open.spotify.com/album/1QpH5JonzT9UItDV3WyJCM) | 2:21 | 2023-08-11 | 2023-09-02 |

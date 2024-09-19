@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> overtager med <a href="spotify:track:2ZMH3fAwB2VlcmPOrFMnX6">H V D O L</a> 🌊🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,106 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,132 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
 | 2 | [DIN D\*\*\*](https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [DIN D\*\*\*](https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX) | 2:30 |
-| 3 | [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 |
-| 4 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 |
+| 3 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 |
+| 4 | [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 |
 | 5 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 |
 | 6 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 |
-| 7 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 |
-| 8 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 |
-| 9 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 |
-| 10 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 |
+| 7 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 |
+| 8 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 |
+| 9 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 |
+| 10 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 |
 | 11 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 |
 | 12 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 |
 | 13 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 59 | [winwin](https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [winwin](https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU) | 2:43 |
 | 60 | [Vi Har Den](https://open.spotify.com/track/3tXwiFvdhXg9EtfQhXX9y6) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Vi Har Den](https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4) | 2:15 |
 
-Snapshot ID: `ZuNkYAAAAAD30+lSKgXTH+k0XVqqwwq4`
+Snapshot ID: `ZuqJQAAAAACSTD73NPt+1YJ9z0D1yPVH`

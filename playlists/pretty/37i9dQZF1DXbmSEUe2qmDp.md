@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Theo & Luan, Clayton & Romário
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,409 likes - 71 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,426 likes - 71 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 34 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 |
 | 35 | [O Meu Te Amo](https://open.spotify.com/track/6P2yv13RKXmbPSn21Ym3od) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5) | [Casinha: Ato 2](https://open.spotify.com/album/2hDDaiTOq8RL3e3zwljk0q) | 2:35 |
 | 36 | [Três Vícios \- Ao Vivo](https://open.spotify.com/track/6L2ic6QNrcwELsHz6y9LKu) | [Lucca & Biel](https://open.spotify.com/artist/0kgLMZYTRaL072kmPiSfxh), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Três Vícios \(Ao Vivo\)](https://open.spotify.com/album/1exbSin4LdTz52oRHmPiXb) | 3:18 |
-| 37 | [Pra Ontem](https://open.spotify.com/track/2x9GEeBmvVLL9prgvVJXOe) | [Eduardo Melo](https://open.spotify.com/artist/6fRFG2Qzw5C06WRjB5EcUV), [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Pra Ontem \- Live](https://open.spotify.com/album/3Jqygkb46HDCMQJMS9UPtF) | 2:26 |
+| 37 | [Pra Ontem](https://open.spotify.com/track/2x9GEeBmvVLL9prgvVJXOe) | [Eduardo Melo](https://open.spotify.com/artist/6fRFG2Qzw5C06WRjB5EcUV), [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Pra Ontem \(Live\)](https://open.spotify.com/album/3Jqygkb46HDCMQJMS9UPtF) | 2:26 |
 | 38 | [Eu Vou Beber por Três \- Ao Vivo](https://open.spotify.com/track/4gqpHnl9VXuPNUC5rK3Uoe) | [Emílio & Eduardo](https://open.spotify.com/artist/0rlTeq5Mamduy8suAxsWuO), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Eu Vou Beber por Três \(Ao Vivo\)](https://open.spotify.com/album/4aRdFIGn6FjyF6uoCfeF5W) | 2:43 |
 | 39 | [Pega Eu \- Ao Vivo](https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd) | [João Pedro e Fellipe](https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN) | [Pega Eu \- Ao Vivo](https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p) | 2:09 |
 | 40 | [Beijo Culposo \- Ao Vivo](https://open.spotify.com/track/6Qfg9vWDOSFb1iVWzRxe2M) | [Kaik & Alessandro](https://open.spotify.com/artist/17sMphO0GKc9mhyTvi0CSz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Beijo Culposo \(Ao Vivo\)](https://open.spotify.com/album/4ypkKH1NoHP2kCkenKU9y1) | 3:06 |

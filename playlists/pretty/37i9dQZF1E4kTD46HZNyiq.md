@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Deep Burn Blue](https://open.spotify.com/track/7vh8aA3VMof7m2JR8hX8Nm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:39 |
 | 50 | [All the Way](https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:30 |
 
-Snapshot ID: `Zuo+RgAAAACOsIZIWfSPr9vTXNrFptOz`
+Snapshot ID: `ZuuQmgAAAAANMYm+zidgqVkkXKPQBPTb`

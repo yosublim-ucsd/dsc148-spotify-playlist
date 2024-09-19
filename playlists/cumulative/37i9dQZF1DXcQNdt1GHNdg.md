@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-98 songs - 4 hr 55 min
+99 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [GODFATHER](https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:00 | 2024-01-30 | 2024-04-07 |
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-07-01 |  |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
+| [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy) | 2:14 | 2024-09-18 |  |
 | [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 | 2024-06-04 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2023-07-18 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-07-18 | 2023-09-05 |
@@ -75,7 +76,7 @@
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2024-04-06 | 2024-08-31 |
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-09-04 |  |
 | [Pagol](https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Pagol](https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7) | 3:39 | 2023-07-18 | 2024-07-27 |
-| [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 |  |
+| [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2024-08-29 | 2024-09-19 |
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/1OyC6DVO89fCq0vDtDwBj4) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-07-18 | 2024-08-30 |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2023-07-18 | 2024-09-10 |
 | [Ragde](https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Ragde](https://open.spotify.com/album/697aEI4GlUznHZeZYHT5ZQ) | 2:11 | 2024-06-10 | 2024-07-02 |

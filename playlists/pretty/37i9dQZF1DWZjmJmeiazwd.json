@@ -1,6 +1,6 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 610885,
+  "num_followers": 611181,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-09-05 22:32:49",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Trip Switch",
-      "url": "https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8"
-    },
-    {
-      "added_at": "2024-09-05 22:32:49",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 193552,
       "name": "Closure",
       "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
+    },
+    {
+      "added_at": "2024-09-05 22:32:49",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Trip Switch",
+      "url": "https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8"
     },
     {
       "added_at": "2024-09-05 22:32:49",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-09-05 22:32:49",
       "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
-    },
-    {
-      "added_at": "2024-09-05 22:32:49",
-      "album": {
         "name": "Around the World and Back",
         "url": "https://open.spotify.com/album/6e7qQNNJSaez58YoKRiBCn"
       },
@@ -1403,18 +1387,34 @@
     {
       "added_at": "2024-09-05 22:32:49",
       "album": {
-        "name": "Pray To The Hunter (The Elder Scrolls Online)",
-        "url": "https://open.spotify.com/album/1gS2HRB3La2cwpovw1Jr7n"
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
       },
       "artists": [
         {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 233920,
-      "name": "Pray To The Hunter - The Elder Scrolls Online",
-      "url": "https://open.spotify.com/track/6HydrRCoO5kRpB7a7XeK05"
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "added_at": "2024-09-05 22:32:49",
+      "album": {
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2024-09-05 22:32:49",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-09-05 22:32:49",
       "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+        "name": "Pray To The Hunter (The Elder Scrolls Online)",
+        "url": "https://open.spotify.com/album/1gS2HRB3La2cwpovw1Jr7n"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
         }
       ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+      "duration_ms": 233920,
+      "name": "Pray To The Hunter - The Elder Scrolls Online",
+      "url": "https://open.spotify.com/track/6HydrRCoO5kRpB7a7XeK05"
     },
     {
       "added_at": "2024-09-05 22:32:49",

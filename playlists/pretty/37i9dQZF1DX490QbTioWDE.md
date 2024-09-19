@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Valentino Merlo, Paulo Londra & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,896 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,021 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 61 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 62 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
 | 63 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 64 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 |
-| 65 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
+| 64 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
+| 65 | [Ya No Llora \- En Vivo](https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ya No Llora \(En Vivo\)](https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S) | 2:58 |
 | 66 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
 | 67 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
 | 68 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |

@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Acid Breath",
+        "url": "https://open.spotify.com/album/5A0u7XzgyZei9Scvo2LOPN"
+      },
+      "artists": [
+        {
+          "name": "DC Salas",
+          "url": "https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377112,
+      "name": "Acid Breath",
+      "url": "https://open.spotify.com/track/156fTfNMRhbgYMkyb0bp2g"
+    },
+    {
+      "album": {
         "name": "Acid Hand",
         "url": "https://open.spotify.com/album/7jMocE4AYA2zrYdtPletm7"
       },
@@ -688,6 +706,24 @@
       "duration_ms": 308882,
       "name": "Arcanus",
       "url": "https://open.spotify.com/track/4AF4RwNqIT3XwnoW8mWkwx"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes and Count To One",
+        "url": "https://open.spotify.com/album/5NN70Vp0dvRrRCq7irVC2C"
+      },
+      "artists": [
+        {
+          "name": "Remotif",
+          "url": "https://open.spotify.com/artist/6h08EDBdqew8dZwrZFYRlQ"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396250,
+      "name": "Are USBing?",
+      "url": "https://open.spotify.com/track/5Aeb6pkaVPikqrLGaDZsjS"
     },
     {
       "album": {
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 308575,
       "name": "Cielo Rojo - IN2STELLAR Remix",
       "url": "https://open.spotify.com/track/6PHfvcEz8thjg98NBFGhKU"
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 502000,
       "name": "Club Crush",
       "url": "https://open.spotify.com/track/5Kzz8PVZcdof4503XYH4sz"
@@ -2780,7 +2816,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 164500,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr"
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 182500,
       "name": "Felicita",
       "url": "https://open.spotify.com/track/67RU90DYRSNXeI0hLUWiOy"
@@ -3342,6 +3378,28 @@
       "duration_ms": 389910,
       "name": "Fuzzy Logic",
       "url": "https://open.spotify.com/track/4ubDv9q3yVbbGAoz9ZGRoh"
+    },
+    {
+      "album": {
+        "name": "Galop (Byron Yeates Remix)",
+        "url": "https://open.spotify.com/album/5SFobisEAURbhpJCkSgEyv"
+      },
+      "artists": [
+        {
+          "name": "131bpm",
+          "url": "https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6"
+        },
+        {
+          "name": "Byron Yeates",
+          "url": "https://open.spotify.com/artist/4Pt24uijuBP8PsTmE62liN"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359908,
+      "name": "Galop - Byron Yeates Remix",
+      "url": "https://open.spotify.com/track/6QkYZrvCBoX8icU6lUDdok"
     },
     {
       "album": {
@@ -4320,7 +4378,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 310437,
       "name": "I Miss Your Love",
       "url": "https://open.spotify.com/track/0LKu9coHGsMUxxWEPap7zj"
@@ -4784,7 +4842,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 312790,
       "name": "Keep It Coming",
       "url": "https://open.spotify.com/track/53uw55tI2xK05Z672YATKy"
@@ -4806,6 +4864,24 @@
       "duration_ms": 427261,
       "name": "Koalas March",
       "url": "https://open.spotify.com/track/45HZpeLionW8N1SsKcuVFe"
+    },
+    {
+      "album": {
+        "name": "Split 2",
+        "url": "https://open.spotify.com/album/1JfocIuWaYlM4DUjpLwoEU"
+      },
+      "artists": [
+        {
+          "name": "Aquarian",
+          "url": "https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431506,
+      "name": "Kool Ranch FM",
+      "url": "https://open.spotify.com/track/4d3JjEneDi1OlHZoj1KK8e"
     },
     {
       "album": {
@@ -6037,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "10 Years Love On The Rocks - Sky Is The Limit",
+        "url": "https://open.spotify.com/album/6Ruubyip5SQccnNFWBCRVq"
+      },
+      "artists": [
+        {
+          "name": "E-Talking",
+          "url": "https://open.spotify.com/artist/13hnDuw2i9IQCVG9WuFX75"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396940,
+      "name": "Mystere de l'Amour",
+      "url": "https://open.spotify.com/track/4tKImnouByRKZLjH3RaXdY"
+    },
+    {
+      "album": {
         "name": "Sneaker presents Give'n'Take 2",
         "url": "https://open.spotify.com/album/3c6cC4iZnV3XFJSyrDQfTx"
       },
@@ -6510,6 +6604,28 @@
     {
       "album": {
         "name": "Passion",
+        "url": "https://open.spotify.com/album/1qHmrMst43JooLW3qPHOqr"
+      },
+      "artists": [
+        {
+          "name": "James Pepper",
+          "url": "https://open.spotify.com/artist/3usMrH8kRUz3jwus6okBOy"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259295,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/3e687rK2wXqPGHjjEwDClc"
+    },
+    {
+      "album": {
+        "name": "Passion",
         "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
       },
       "artists": [
@@ -6894,7 +7010,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 288721,
       "name": "Pull the Concept - Cromby Remix",
       "url": "https://open.spotify.com/track/746YZF5PLzwBuZY5LczRD0"
@@ -7398,6 +7514,28 @@
       "duration_ms": 354447,
       "name": "Sauvetage",
       "url": "https://open.spotify.com/track/051kNULk2HkcR88S52LXcA"
+    },
+    {
+      "album": {
+        "name": "Seduccion Fvnk",
+        "url": "https://open.spotify.com/album/6VYPTGzpM3qRYECEC7gCyl"
+      },
+      "artists": [
+        {
+          "name": "Soul Space",
+          "url": "https://open.spotify.com/artist/1UZkoYN3wrPv7noO7geTU5"
+        },
+        {
+          "name": "Anatole Serret",
+          "url": "https://open.spotify.com/artist/10F7V9723cEBqtgn474KOM"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486956,
+      "name": "Seduccion Fvnk - Anatole Serret Remix",
+      "url": "https://open.spotify.com/track/3Bm2CqF3WWg7uu5mSYgl6F"
     },
     {
       "album": {

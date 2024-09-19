@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Rihanna, Justin Bieber and more
+> With Bruno Mars, Justin Timberlake, Justin Bieber and more
 
 1,307 songs - 3 day 8 hr 36 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,187 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,709 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 12 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 |
 | 13 | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/track/5axr5HmbZwBFHkc9mlU5aC) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Das ist alles von der Kunstfreiheit gedeckt](https://open.spotify.com/album/0Tq272YaJbK0hH9vyEZBbm) | 3:48 |
 | 14 | [Trophäe](https://open.spotify.com/track/0ktvX44VXoA8TUcB74anK9) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Trophäe](https://open.spotify.com/album/6nr65gmEp8iT0gzfe0nZNB) | 2:40 |
-| 15 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 |
-| 16 | [Gelernt](https://open.spotify.com/track/1rEVYOEfQRHTCTU0UaeKwt) | [Käptn Peng](https://open.spotify.com/artist/4uJ0Z35toYgdlrDGF4eFY2), [Die Tentakel von Delphi](https://open.spotify.com/artist/4Y7wUypNxLefo23dQexEFV) | [Das nullte Kapitel](https://open.spotify.com/album/1KPrzlaKozFUOMrDv7AH7Z) | 3:21 |
+| 15 | [Gelernt](https://open.spotify.com/track/1rEVYOEfQRHTCTU0UaeKwt) | [Käptn Peng](https://open.spotify.com/artist/4uJ0Z35toYgdlrDGF4eFY2), [Die Tentakel von Delphi](https://open.spotify.com/artist/4Y7wUypNxLefo23dQexEFV) | [Das nullte Kapitel](https://open.spotify.com/album/1KPrzlaKozFUOMrDv7AH7Z) | 3:21 |
+| 16 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 |
 | 17 | [Velocità](https://open.spotify.com/track/0fDb1Us6GLRPrY4LkgEUIc) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Velocità](https://open.spotify.com/album/0nuR2emckKgR48TWtu53uD) | 3:01 |
 | 18 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 |
 | 19 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 |
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 34 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 35 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
 | 36 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
-| 37 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
-| 38 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
-| 39 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
-| 40 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
-| 41 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
+| 37 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
+| 38 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 39 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
+| 40 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
+| 41 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
 | 42 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
 | 43 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
 | 44 | [aliens in paris](https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [aliens in paris](https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4) | 3:33 |
 | 45 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
-| 46 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
+| 46 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 47 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
-| 48 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 48 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
 | 49 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
 | 50 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
 

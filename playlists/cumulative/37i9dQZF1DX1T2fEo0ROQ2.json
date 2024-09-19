@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 164392,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 176748,
       "name": "Adormecido",
       "url": "https://open.spotify.com/track/2Fs6ck2LWeWNxJirfu40E6"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 193000,
       "name": "As The Light Slowly Fades",
       "url": "https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 166413,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/5NMJEIxAhUWOle9bcY42u6"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 125285,
       "name": "Calma Tranquilla",
       "url": "https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb"
@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Deep rest",
+        "url": "https://open.spotify.com/album/2hYb3gWbv4ylpbYtlJpTkT"
+      },
+      "artists": [
+        {
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Deep rest",
+      "url": "https://open.spotify.com/track/5TcqlIHwuNPh2Tcl6NgeJF"
+    },
+    {
+      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 175331,
       "name": "Do We Really Know",
       "url": "https://open.spotify.com/track/4jIjpoq9FcHzJowwFBPYbg"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 159230,
       "name": "Endelig",
       "url": "https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4"
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 175670,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/1OZJUQUbBYu9s5eLn3qoYN"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 153124,
       "name": "Finding Solitude",
       "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
@@ -3220,7 +3238,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 135205,
       "name": "Hayalleri",
       "url": "https://open.spotify.com/track/0feH4LbdaWztmwvvBiIHvT"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 176750,
       "name": "In the deep",
       "url": "https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1"
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 203500,
       "name": "Let Me Disappear",
       "url": "https://open.spotify.com/track/16HtsIT4MCXQEbAXfT1rGP"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 201532,
       "name": "Mind Portal",
       "url": "https://open.spotify.com/track/31uyD01UTR3mBFcRy5meSQ"
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 184000,
       "name": "Qujanaq",
       "url": "https://open.spotify.com/track/2U4vlFASmf5PIDgR3e7AGB"
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 239000,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/7fLwX9QXiSgBSxQXmaSO6Y"
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 220554,
       "name": "Sajda",
       "url": "https://open.spotify.com/track/0LW7Czzs4PJVBqmftvKk1m"
@@ -7594,7 +7612,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 192000,
       "name": "Tambo",
       "url": "https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ"
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 160722,
       "name": "The Lost Key",
       "url": "https://open.spotify.com/track/5acpnondtQUm1FJDXNT66J"
@@ -8066,7 +8084,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 161605,
       "name": "Totally",
       "url": "https://open.spotify.com/track/0j0b4RP4zuxdDrhcXCCRtC"
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 122145,
       "name": "Vyer",
       "url": "https://open.spotify.com/track/13KZml3pNzGfrd0CA3z6YQ"

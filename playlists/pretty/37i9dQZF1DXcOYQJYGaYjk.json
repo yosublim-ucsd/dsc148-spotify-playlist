@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 220014,
+  "num_followers": 220012,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
-        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189347,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 228586,
-      "name": "Blood and Thunder",
-      "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
+      "duration_ms": 189347,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -471,6 +455,22 @@
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Blood and Thunder",
+      "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Death of Me",
-        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 247924,
-      "name": "Masochist",
-      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "The Death of Me",
+        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 247924,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "You'll Never Find Me",
+      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Lost in the Waves (The Complete Edition)",
         "url": "https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "You'll Never Find Me",
-      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Brainwashed (Deluxe)",
         "url": "https://open.spotify.com/album/30TMZxAS5atxns4X1e8LOQ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 307933,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 325520,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Unquestionable Truth (Pt. 1)",
-        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+        "name": "Dear Youth",
+        "url": "https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 325520,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
+      "duration_ms": 212369,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 225240,
       "name": "Don't Reach For Me",
       "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Dear Youth",
-        "url": "https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 212369,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq"
     },
     {
       "added_at": "2024-05-10 04:00:00",

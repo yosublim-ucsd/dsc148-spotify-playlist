@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,414 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,419 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 27 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
 | 28 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
 | 29 | [ELA SABE QUE É O LITTLE HAIR FININHA \- REMIX](https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [ELA SABE QUE É O LITTLE HAIR FININHA \(REMIX\)](https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE) | 2:49 |
-| 30 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
-| 31 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
+| 30 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
+| 31 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
 | 32 | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara \(Versão Speed\)](https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo) | 1:37 |
 | 33 | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Jorgin Dejhaay](https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV) | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N) | 2:54 |
 | 34 | [Sou Eu \- Speed](https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp) | [Sou Eu \(Speed\)](https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6) | 2:05 |

@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65938,
+  "num_followers": 65931,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
+        "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
+      },
+      "artists": [
+        {
+          "name": "Ani Lorak",
+          "url": "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Shady Lady",
+      "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Alpha hrises epitihies 2004",
         "url": "https://open.spotify.com/album/4bzPUq5nBrxjiDQVgHibbe"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 168266,
       "name": "Every way that I can - English Radio Edit",
       "url": "https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
     }
   ],
   "unique_name": "Eurovision Party",

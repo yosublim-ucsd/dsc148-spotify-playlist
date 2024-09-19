@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: A.M.C",
-  "num_followers": 63264,
+  "num_followers": 63280,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,26 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
         },
         {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "Fernquest",
+          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
         }
       ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+      "duration_ms": 184270,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -439,26 +443,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
       "artists": [
         {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         },
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        },
-        {
-          "name": "Fernquest",
-          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
         }
       ],
-      "duration_ms": 184270,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
       "added_at": "2024-09-12 23:00:00",

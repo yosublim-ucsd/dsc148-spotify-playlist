@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1344334,
+  "num_followers": 1344394,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wild Horses",
-        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
-      },
-      "artists": [
-        {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Axis Mundi",
         "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "From the Grave",
+        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Simms",
+          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "Trouble Finds You",
+      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "The Major Minor Collective (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
@@ -707,38 +707,6 @@
       "duration_ms": 256773,
       "name": "Beach Seduction (feat. Leah Wellbaum)",
       "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Ruby Red",
-        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Blood on Your Knees",
-      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "From the Grave",
-        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Simms",
-          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "Trouble Finds You",
-      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -763,6 +731,38 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Ruby Red",
+        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Blood on Your Knees",
+      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Back in '06",
         "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 191413,
       "name": "Carnival of Crows '06",
       "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Where the Lore Began",
         "url": "https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9"
       },
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Ain't No Angel",
-        "url": "https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F"
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
       },
       "artists": [
         {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 223157,
-      "name": "Ain't No Angel",
-      "url": "https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z"
+      "duration_ms": 240168,
+      "name": "Fall for That",
+      "url": "https://open.spotify.com/track/2mvMmeybBKZHmxUAS2SrBO"
     }
   ],
   "unique_name": "Swagger",

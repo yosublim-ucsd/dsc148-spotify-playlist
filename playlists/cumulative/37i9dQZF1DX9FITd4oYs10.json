@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 174725,
       "name": "Eu Tiro \u00c9 Onda - Remix",
       "url": "https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A"
@@ -3390,6 +3390,32 @@
       "duration_ms": 285920,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/6jcfdgJPThgWn5pTCHLr7l"
+    },
+    {
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Lorens DTPK",
+          "url": "https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146192,
+      "name": "Pesadelos de Quem N\u00e3o Dorme H\u00e1 Dias",
+      "url": "https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4"
     },
     {
       "album": {

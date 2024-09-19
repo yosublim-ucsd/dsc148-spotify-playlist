@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 80974,
+  "num_followers": 81012,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "#2019\u9084\u5728\u807d",
-        "url": "https://open.spotify.com/album/0687JPYolanYGONrSkOZtK"
-      },
-      "artists": [
-        {
-          "name": "Rachel Liang",
-          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
-      "url": "https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA"
-    },
-    {
-      "added_at": "2024-09-12 17:13:01",
-      "album": {
         "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
         "url": "https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
+        "name": "#2019\u9084\u5728\u807d",
+        "url": "https://open.spotify.com/album/0687JPYolanYGONrSkOZtK"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
+      "url": "https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA"
+    },
+    {
+      "added_at": "2024-09-12 17:13:01",
+      "album": {
         "name": "\u9752\u6625\u8981\u7528\u5e7e\u884c\u8a69\u4f86\u5beb (\u96fb\u8996\u5287\u300a\u984f\u5fc3\u8a18\u300b\u63a8\u5ee3\u66f2)",
         "url": "https://open.spotify.com/album/74QsdlUpTEwZVozQkU0yeZ"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 292907,
       "name": "\u9752\u6625\u8981\u7528\u5e7e\u884c\u8a69\u4f86\u5beb (\u96fb\u8996\u5287\u300a\u984f\u5fc3\u8a18\u300b\u63a8\u5ee3\u66f2)",
       "url": "https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP"
-    },
-    {
-      "added_at": "2024-09-12 17:13:01",
-      "album": {
-        "name": "\u4e0d\u7c21\u55ae\u7684\u6211\u5011 (\u96fb\u8996\u5287\u300a\u5c0f\u592b\u59bb\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/31TtrxZgfHxpfOtEuVUt8X"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 267027,
-      "name": "\u4e0d\u7c21\u55ae\u7684\u6211\u5011 (\u96fb\u8996\u5287\u300a\u5c0f\u592b\u59bb\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/4Vamk9NnjiN4t5Ckgq1U7u"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
+        "name": "\u4e0d\u7c21\u55ae\u7684\u6211\u5011 (\u96fb\u8996\u5287\u300a\u5c0f\u592b\u59bb\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/31TtrxZgfHxpfOtEuVUt8X"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 267027,
+      "name": "\u4e0d\u7c21\u55ae\u7684\u6211\u5011 (\u96fb\u8996\u5287\u300a\u5c0f\u592b\u59bb\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/4Vamk9NnjiN4t5Ckgq1U7u"
+    },
+    {
+      "added_at": "2024-09-12 17:13:01",
+      "album": {
         "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
         "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
       },
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
+        "name": "\u53ef\u662f\u4ed6\u53eb\u6211\u5bf6A",
+        "url": "https://open.spotify.com/album/5LUOB5pTg6PYLeCxpGH0D6"
+      },
+      "artists": [
+        {
+          "name": "Nine Chen",
+          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+        },
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "\u53ef\u662f\u4ed6\u53eb\u6211\u5bf6A",
+      "url": "https://open.spotify.com/track/4J6eYl9UWoTmTkFwyA2IeT"
+    },
+    {
+      "added_at": "2024-09-12 17:13:01",
+      "album": {
         "name": "\u4f60\u7684\u60c5\u6b4c (\u96fb\u5f71\u300a\u4f60\u7684\u60c5\u6b4c\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 291455,
       "name": "\u77e5\u5df1 feat. \u4e5d\u6fa4CP",
       "url": "https://open.spotify.com/track/6kmvbtrjLRmeJeZBTcyNge"
-    },
-    {
-      "added_at": "2024-09-12 17:13:01",
-      "album": {
-        "name": "\u53ef\u662f\u4ed6\u53eb\u6211\u5bf6A",
-        "url": "https://open.spotify.com/album/5LUOB5pTg6PYLeCxpGH0D6"
-      },
-      "artists": [
-        {
-          "name": "Nine Chen",
-          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
-        },
-        {
-          "name": "Boon Hui Lu",
-          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "\u53ef\u662f\u4ed6\u53eb\u6211\u5bf6A",
-      "url": "https://open.spotify.com/track/4J6eYl9UWoTmTkFwyA2IeT"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "\u647a\u75d5 (Imprint)",
-        "url": "https://open.spotify.com/album/6pOrwbhSJX359aJYKd6R18"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 290504,
-      "name": "\u647a\u75d5 (Imprint)",
-      "url": "https://open.spotify.com/track/5zhonW8YyuLmvFBjmlrFY6"
-    },
-    {
-      "added_at": "2024-09-12 17:13:01",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS"
       },
@@ -719,22 +703,18 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "\u6211\u4e0d\u8a72\u54ed",
-        "url": "https://open.spotify.com/album/6ukRpd0nZY8qsLijk0ROJR"
+        "name": "\u647a\u75d5 (Imprint)",
+        "url": "https://open.spotify.com/album/6pOrwbhSJX359aJYKd6R18"
       },
       "artists": [
         {
-          "name": "Power Station",
-          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
-        },
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
         }
       ],
-      "duration_ms": 284048,
-      "name": "\u6211\u4e0d\u8a72\u54ed feat. \u544a\u4e94\u4eba",
-      "url": "https://open.spotify.com/track/1Px1DdlnMxUHKfTXZNaiBr"
+      "duration_ms": 290504,
+      "name": "\u647a\u75d5 (Imprint)",
+      "url": "https://open.spotify.com/track/5zhonW8YyuLmvFBjmlrFY6"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -759,18 +739,38 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "\u77ed\u75db\u4e0d\u5982\u9577\u75db",
-        "url": "https://open.spotify.com/album/5KCbbJMmt5bNZpYaGec3B9"
+        "name": "\u5929\u9ed1\u8acb\u9589\u773c",
+        "url": "https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX"
       },
       "artists": [
         {
-          "name": "Rachel Liang",
-          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+          "name": "Nine Chen",
+          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+        },
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
         }
       ],
-      "duration_ms": 243750,
-      "name": "\u77ed\u75db\u4e0d\u5982\u9577\u75db",
-      "url": "https://open.spotify.com/track/3s0loXJDPcnVrJPNsEDBqG"
+      "duration_ms": 286832,
+      "name": "\u5929\u9ed1\u8acb\u9589\u773c",
+      "url": "https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR"
+    },
+    {
+      "added_at": "2024-09-12 17:13:01",
+      "album": {
+        "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
+        "url": "https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "duration_ms": 255238,
+      "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
+      "url": "https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -791,22 +791,38 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "\u5929\u9ed1\u8acb\u9589\u773c",
-        "url": "https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX"
+        "name": "\u6211\u4e0d\u8a72\u54ed",
+        "url": "https://open.spotify.com/album/6ukRpd0nZY8qsLijk0ROJR"
       },
       "artists": [
         {
-          "name": "Nine Chen",
-          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
         },
         {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
         }
       ],
-      "duration_ms": 286832,
-      "name": "\u5929\u9ed1\u8acb\u9589\u773c",
-      "url": "https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR"
+      "duration_ms": 284048,
+      "name": "\u6211\u4e0d\u8a72\u54ed feat. \u544a\u4e94\u4eba",
+      "url": "https://open.spotify.com/track/1Px1DdlnMxUHKfTXZNaiBr"
+    },
+    {
+      "added_at": "2024-09-12 17:13:01",
+      "album": {
+        "name": "\u77ed\u75db\u4e0d\u5982\u9577\u75db",
+        "url": "https://open.spotify.com/album/5KCbbJMmt5bNZpYaGec3B9"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "\u77ed\u75db\u4e0d\u5982\u9577\u75db",
+      "url": "https://open.spotify.com/track/3s0loXJDPcnVrJPNsEDBqG"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-09-12 17:13:01",
       "album": {
-        "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
-        "url": "https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u"
+        "name": "\u5206\u5408",
+        "url": "https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq"
       },
       "artists": [
         {
-          "name": "Sherman Zhuo",
-          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
         }
       ],
-      "duration_ms": 255238,
-      "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
-      "url": "https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D"
+      "duration_ms": 246666,
+      "name": "\u5206\u5408",
+      "url": "https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t"
     },
     {
       "added_at": "2024-09-12 17:13:01",
@@ -891,22 +907,6 @@
       "duration_ms": 197226,
       "name": "\u708a\u70df",
       "url": "https://open.spotify.com/track/0jfHUhxvZjNcwjaCEC36ik"
-    },
-    {
-      "added_at": "2024-09-12 17:13:01",
-      "album": {
-        "name": "\u5206\u5408",
-        "url": "https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq"
-      },
-      "artists": [
-        {
-          "name": "Energy",
-          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "\u5206\u5408",
-      "url": "https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t"
     },
     {
       "added_at": "2024-09-12 17:13:01",

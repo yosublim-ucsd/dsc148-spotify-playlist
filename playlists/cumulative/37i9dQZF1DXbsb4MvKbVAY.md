@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🔥 Kannessa Danitello, Bizi ja Robin Packalen.
 
-350 songs - 17 hr 30 min
+351 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 |  |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 |  |
-| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 | 2024-09-19 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Boys & Roses](https://open.spotify.com/track/4OJ1qqsqotZy4vIxxBA6df) | [HEROINES](https://open.spotify.com/artist/6cqtpAT55MUpUl6NMCf84W) | [Boys & Roses](https://open.spotify.com/album/4zPleOT1lYVthUx0BKlYKQ) | 2:51 | 2024-09-05 | 2024-09-13 |
@@ -135,6 +135,7 @@
 | [Huominen ei löydä meitä](https://open.spotify.com/track/7simuF5RqcV2Sbz0oWESMe) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Huominen ei löydä meitä](https://open.spotify.com/album/7EJUoQ0NHlrlvxEUzr5M6p) | 2:54 | 2024-08-08 | 2024-08-16 |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-05 | 2024-09-06 |
 | [Hyvä tyttö](https://open.spotify.com/track/2nMOQjR56b0UKef2IlCtjf) | [Emilia Ex](https://open.spotify.com/artist/2cZAaxofoZSjt7qCOEmbcF), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ) | [Hyvä tyttö](https://open.spotify.com/album/7Hrj2qG4LKfUZAOFtQ01o3) | 2:48 | 2024-08-01 | 2024-08-16 |
+| [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-18 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-02 | 2024-08-19 |
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-22 | 2024-09-13 |
 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 | 2024-07-12 |  |

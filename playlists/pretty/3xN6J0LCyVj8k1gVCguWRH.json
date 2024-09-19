@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 130898,
+  "num_followers": 130917,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAoBkKnG1qJeDCuT1ghpUOntFVtROA/",
+  "snapshot_id": "AAAoC9Bh84Te2t857k7tA3h7FWcc0uqf",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -589,26 +589,6 @@
       "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
     },
     {
-      "added_at": "2024-09-17 23:18:12",
-      "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me) [The Remixes]",
-        "url": "https://open.spotify.com/album/0DmUvd94V8FkRIAnJXkEol"
-      },
-      "artists": [
-        {
-          "name": "Calum Foad",
-          "url": "https://open.spotify.com/artist/03b39yPA8YCHEb8XlTr4aL"
-        },
-        {
-          "name": "Futos\u00e9",
-          "url": "https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "I Wanna Dance with Somebody (Who Loves Me) - Futos\u00e9 Remix",
-      "url": "https://open.spotify.com/track/6Ew0wsuxYHKwwYAchyem58"
-    },
-    {
       "added_at": "2024-08-12 20:35:49",
       "album": {
         "name": "Jump",
@@ -731,22 +711,6 @@
       "duration_ms": 185880,
       "name": "Silvio",
       "url": "https://open.spotify.com/track/42KZovoCaiMhxskWGA68gt"
-    },
-    {
-      "added_at": "2024-09-17 23:15:47",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/0Wo4LgJINrCjcg1X0jAULX"
-      },
-      "artists": [
-        {
-          "name": "Calum Foad",
-          "url": "https://open.spotify.com/artist/03b39yPA8YCHEb8XlTr4aL"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/4RhzlvjA5Ix57EDKXxp217"
     },
     {
       "added_at": "2024-08-12 20:39:00",
@@ -1641,6 +1605,22 @@
       "url": "https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc"
     },
     {
+      "added_at": "2024-09-18 13:26:41",
+      "album": {
+        "name": "Su\u00e9ltate",
+        "url": "https://open.spotify.com/album/5qhBTZ1MM5MziLmw82c245"
+      },
+      "artists": [
+        {
+          "name": "Penelope Robin",
+          "url": "https://open.spotify.com/artist/6sglnBv6ujltPtZ5gXvMXg"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Su\u00e9ltate",
+      "url": "https://open.spotify.com/track/7uolRIeUqiQDK8nFNHqR4y"
+    },
+    {
       "added_at": "2024-09-14 16:52:11",
       "album": {
         "name": "Eden",
@@ -1761,20 +1741,40 @@
       "url": "https://open.spotify.com/track/1mvrXlMpt1cAZiRAzBJLY1"
     },
     {
-      "added_at": "2024-09-07 15:01:22",
+      "added_at": "2024-09-17 23:18:12",
       "album": {
-        "name": "Cloud",
-        "url": "https://open.spotify.com/album/7FTsfkzQMd5oxzwz6KxNzc"
+        "name": "I Wanna Dance with Somebody (Who Loves Me) [The Remixes]",
+        "url": "https://open.spotify.com/album/0DmUvd94V8FkRIAnJXkEol"
       },
       "artists": [
         {
-          "name": "C22M5N",
-          "url": "https://open.spotify.com/artist/6J2vqufvoZOp4zLeeCed8i"
+          "name": "Calum Foad",
+          "url": "https://open.spotify.com/artist/03b39yPA8YCHEb8XlTr4aL"
+        },
+        {
+          "name": "Futos\u00e9",
+          "url": "https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L"
         }
       ],
-      "duration_ms": 177962,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/11YqTLG8xSt14rng7maZNj"
+      "duration_ms": 177893,
+      "name": "I Wanna Dance with Somebody (Who Loves Me) - Futos\u00e9 Remix",
+      "url": "https://open.spotify.com/track/6Ew0wsuxYHKwwYAchyem58"
+    },
+    {
+      "added_at": "2024-09-17 23:15:47",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0Wo4LgJINrCjcg1X0jAULX"
+      },
+      "artists": [
+        {
+          "name": "Calum Foad",
+          "url": "https://open.spotify.com/artist/03b39yPA8YCHEb8XlTr4aL"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/4RhzlvjA5Ix57EDKXxp217"
     },
     {
       "added_at": "2024-09-10 23:14:40",
@@ -2043,130 +2043,6 @@
       "duration_ms": 168979,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/0EqdubEdrEW6kx86tOd5vc"
-    },
-    {
-      "added_at": "2024-09-07 23:23:30",
-      "album": {
-        "name": "OH SONG",
-        "url": "https://open.spotify.com/album/02qlks2ZXU9sJVm0JogqSa"
-      },
-      "artists": [
-        {
-          "name": "JayPop",
-          "url": "https://open.spotify.com/artist/1JGJcC2ZneNPhrpH5TxNQi"
-        },
-        {
-          "name": "Shawn \"Q\" Mitchell",
-          "url": "https://open.spotify.com/artist/4PY4z7vJsA89N9CcBj8MB5"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "OH SONG",
-      "url": "https://open.spotify.com/track/6vyv51BlltTggtGdBdhTpI"
-    },
-    {
-      "added_at": "2024-09-07 23:20:00",
-      "album": {
-        "name": "Te llame",
-        "url": "https://open.spotify.com/album/3UpCn5VRWtwwWeM53wP5NR"
-      },
-      "artists": [
-        {
-          "name": "J.Abel",
-          "url": "https://open.spotify.com/artist/3X8slEHF7s9oBLoaZvcAOP"
-        }
-      ],
-      "duration_ms": 154209,
-      "name": "Te llame",
-      "url": "https://open.spotify.com/track/4HKIskp2EGVQlWwxSfN6K3"
-    },
-    {
-      "added_at": "2024-09-07 23:17:25",
-      "album": {
-        "name": "I Really Like It",
-        "url": "https://open.spotify.com/album/2ufKyygogIYpdIYn2vg6i4"
-      },
-      "artists": [
-        {
-          "name": "Channing Armour",
-          "url": "https://open.spotify.com/artist/5LtquIruwgS2aRP2xQPABK"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "I Really Like It",
-      "url": "https://open.spotify.com/track/0ElIiUCasVJL3bc38WkSny"
-    },
-    {
-      "added_at": "2024-09-07 23:17:28",
-      "album": {
-        "name": "BRUSA FUNK, VOL.02",
-        "url": "https://open.spotify.com/album/1loqble54Cgoo9MYdrLIBW"
-      },
-      "artists": [
-        {
-          "name": "BRUSA FUNK",
-          "url": "https://open.spotify.com/artist/7IPrZUWtDis3EyfaiBrsv8"
-        },
-        {
-          "name": "Cabra Guaran\u00e1",
-          "url": "https://open.spotify.com/artist/5hk1NvdVy731IowVMs5x5D"
-        },
-        {
-          "name": "Riko Viana",
-          "url": "https://open.spotify.com/artist/5ZLJi4zyqFbgmR1CNbdmEc"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "Who - MTG Funk Version",
-      "url": "https://open.spotify.com/track/0qyTn3MkcN7a6y6skLpFnP"
-    },
-    {
-      "added_at": "2024-09-07 22:01:51",
-      "album": {
-        "name": "No Contact",
-        "url": "https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ"
-      },
-      "artists": [
-        {
-          "name": "Bruklin",
-          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "No Contact",
-      "url": "https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK"
-    },
-    {
-      "added_at": "2024-09-07 06:00:35",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/6jxapM49Yfd1HdBrmdyd6Y"
-      },
-      "artists": [
-        {
-          "name": "Carson Ferris",
-          "url": "https://open.spotify.com/artist/4vJJPYLFdJa90efDr6KGqE"
-        }
-      ],
-      "duration_ms": 241258,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/2pXm9s13qHTryW2rrQB6du"
-    },
-    {
-      "added_at": "2024-09-07 12:01:17",
-      "album": {
-        "name": "You Won",
-        "url": "https://open.spotify.com/album/0TGGCejPKH9oYHzKaECo87"
-      },
-      "artists": [
-        {
-          "name": "Cameron Sage From",
-          "url": "https://open.spotify.com/artist/5708zIMPEnIoEELZNNX6h7"
-        }
-      ],
-      "duration_ms": 173596,
-      "name": "You Won",
-      "url": "https://open.spotify.com/track/6g7X6IcVWLEE3M3P2D9Hzn"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

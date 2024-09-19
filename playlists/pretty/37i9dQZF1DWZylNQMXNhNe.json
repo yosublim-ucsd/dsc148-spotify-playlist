@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 223947,
+  "num_followers": 223934,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
-        "name": "Cont\u00e9m1drama",
-        "url": "https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        },
-        {
-          "name": "Milla Zuti",
-          "url": "https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB"
-        }
-      ],
-      "duration_ms": 185404,
-      "name": "Caipirinha de Mil\u00e3o",
-      "url": "https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3"
-    },
-    {
-      "added_at": "2024-07-12 16:01:12",
-      "album": {
         "name": "Vampira (Remix)",
         "url": "https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 178848,
       "name": "Vampira - Remix",
       "url": "https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ"
+    },
+    {
+      "added_at": "2024-07-12 16:01:12",
+      "album": {
+        "name": "Cont\u00e9m1drama",
+        "url": "https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        },
+        {
+          "name": "Milla Zuti",
+          "url": "https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB"
+        }
+      ],
+      "duration_ms": 185404,
+      "name": "Caipirinha de Mil\u00e3o",
+      "url": "https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3"
     },
     {
       "added_at": "2024-07-12 16:01:12",

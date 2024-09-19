@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36711,
+  "num_followers": 36713,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Corpse Bride",
+        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "Corpse Bride",
+      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 167701,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Corpse Bride",
-        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "Corpse Bride",
-      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -663,38 +663,6 @@
       "duration_ms": 202587,
       "name": "Alright",
       "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Electus",
-        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 152946,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Home (The Voice Of Switzerland)",
-        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201255,
-      "name": "Home - The Voice Of Switzerland",
-      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -719,6 +687,38 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Home (The Voice Of Switzerland)",
+        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201255,
+      "name": "Home - The Voice Of Switzerland",
+      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Electus",
+        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 152946,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 165257,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "2560",
         "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
       },
@@ -883,8 +899,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+        "name": "torn",
+        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
       },
       "artists": [
         {
@@ -892,25 +908,9 @@
           "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+      "duration_ms": 163115,
+      "name": "torn",
+      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "torn",
-        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
+        "name": "silver lining",
+        "url": "https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 163115,
-      "name": "torn",
-      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
+      "duration_ms": 222986,
+      "name": "silver lining",
+      "url": "https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "silver lining",
-        "url": "https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5"
-      },
-      "artists": [
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "silver lining",
-      "url": "https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "rabbit holes",
+        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 216307,
+      "name": "rabbit holes",
+      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
     },
     {
       "added_at": "2024-09-13 07:22:08",

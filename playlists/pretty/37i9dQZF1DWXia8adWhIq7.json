@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles",
-  "num_followers": 98036,
+  "num_followers": 98074,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Ele Pode Fazer",
+        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "duration_ms": 150510,
+      "name": "Ele Pode Fazer",
+      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "O Tempo Vai Curar",
         "url": "https://open.spotify.com/album/52caz5cicFG5uUuhc1B45t"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 164693,
       "name": "O Tempo Vai Curar",
       "url": "https://open.spotify.com/track/0UCzwca3vNvZHqMqi5zfJN"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Ele Pode Fazer",
-        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
-      },
-      "artists": [
-        {
-          "name": "Lorhann",
-          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
-        }
-      ],
-      "duration_ms": 150510,
-      "name": "Ele Pode Fazer",
-      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Pequenas Coisas",
-        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
-      },
-      "artists": [
-        {
-          "name": "Louisy Cim",
-          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Pequenas Coisas",
+        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Louisy Cim",
+          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+      "duration_ms": 159119,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -651,6 +631,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "SL.27.4",
         "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
@@ -663,26 +663,6 @@
       "duration_ms": 237209,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -723,6 +703,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -839,22 +819,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Reconstituir",
-        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
       "artists": [
         {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
         },
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
         }
       ],
-      "duration_ms": 262019,
-      "name": "Reconstituir",
-      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -883,22 +863,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Fui Liberto",
-        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+        "name": "Reconstituir",
+        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
       "artists": [
         {
-          "name": "Nicole Gomes",
-          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
         },
         {
-          "name": "Gospel Beat Brasil",
-          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Fui Liberto",
-      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+      "duration_ms": 262019,
+      "name": "Reconstituir",
+      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -919,6 +899,26 @@
       "duration_ms": 160050,
       "name": "Esque\u00e7o At\u00e9 o Tempo",
       "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+        },
+        {
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -951,30 +951,6 @@
       "duration_ms": 178446,
       "name": "At\u00e9 Sermos Um",
       "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Tudo Novo",
-        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Tudo Novo",
-      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1027,6 +1003,30 @@
       "duration_ms": 189154,
       "name": "Nossa Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Tudo Novo",
+      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
+      },
+      "artists": [
+        {
+          "name": "Temis Handeri",
+          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
+        },
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
-      },
-      "artists": [
-        {
-          "name": "Temis Handeri",
-          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
-        },
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1331,6 +1331,38 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1355,38 +1387,6 @@
       "duration_ms": 155789,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2024-08-30 03:01:00",

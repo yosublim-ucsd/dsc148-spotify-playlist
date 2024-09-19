@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,787 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,817 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 81 | [Lover \- First Dance Remix](https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover \(First Dance Remix\)](https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At) | 3:53 |
 | 82 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 |
 | 83 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 |
-| 84 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \- Acoustic](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 |
+| 84 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 |
 | 85 | [Alright \(feat\. Russell Dickerson\) \- Stripped](https://open.spotify.com/track/3TaUhDXyTGPZpWbgD5LoUk) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Drunk On Emotions \(Stripped\)](https://open.spotify.com/album/4DUl4eui8ahkGijjHiQC0s) | 2:37 |
 | 86 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 |
 | 87 | [Minefields \- Live Acoustic](https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields \(Live Acoustic\)](https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7) | 3:13 |

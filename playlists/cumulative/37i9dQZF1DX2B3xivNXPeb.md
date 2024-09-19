@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-456 songs - 1 day 2 hr 58 min
+457 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-26 |  |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-09 |  |
 | [Everything Good to You \(Doesn't Have to Be Good for You\)](https://open.spotify.com/track/1NIJluqr87NOBfC4pTNf98) | [Bobby Patterson](https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk) | [The Northern Soul Of Jewel\-Paula\-Ronn](https://open.spotify.com/album/1w6RjhC44AK576VKNGn6Ib) | 3:01 | 2022-12-28 | 2023-01-11 |
+| [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-13 |  |
 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 | 2023-01-10 | 2024-03-23 |
 | [Eyes of Love](https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj) | [The Edge Of Daybreak](https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj) | [Eyes of Love](https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV) | 4:13 | 2022-12-28 | 2023-01-11 |
 | [Falling Apart](https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:15 | 2023-06-16 | 2024-04-19 |
@@ -149,7 +150,7 @@
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-16 | 2024-05-19 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-11-10 |  |
 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2023-01-10 | 2024-07-13 |
-| [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 | 2024-04-19 |  |
+| [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 | 2024-04-19 | 2024-09-19 |
 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 | 2022-02-14 | 2022-07-23 |
 | [Gonna Be Okay](https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Gonna Be Okay](https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66) | 3:22 | 2024-03-22 | 2024-06-07 |
 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 | 2024-06-21 | 2024-08-14 |

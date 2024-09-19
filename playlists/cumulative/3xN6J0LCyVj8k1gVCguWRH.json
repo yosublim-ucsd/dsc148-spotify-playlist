@@ -12592,7 +12592,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 177962,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/11YqTLG8xSt14rng7maZNj"
@@ -25130,7 +25130,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 241258,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2pXm9s13qHTryW2rrQB6du"
@@ -31038,7 +31038,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 228734,
       "name": "I Really Like It",
       "url": "https://open.spotify.com/track/0ElIiUCasVJL3bc38WkSny"
@@ -45708,7 +45708,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 171272,
       "name": "No Contact",
       "url": "https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK"
@@ -47380,7 +47380,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 236564,
       "name": "OH SONG",
       "url": "https://open.spotify.com/track/6vyv51BlltTggtGdBdhTpI"
@@ -62097,6 +62097,24 @@
     },
     {
       "album": {
+        "name": "Su\u00e9ltate",
+        "url": "https://open.spotify.com/album/5qhBTZ1MM5MziLmw82c245"
+      },
+      "artists": [
+        {
+          "name": "Penelope Robin",
+          "url": "https://open.spotify.com/artist/6sglnBv6ujltPtZ5gXvMXg"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Su\u00e9ltate",
+      "url": "https://open.spotify.com/track/7uolRIeUqiQDK8nFNHqR4y"
+    },
+    {
+      "album": {
         "name": "Swallowed Up In Space",
         "url": "https://open.spotify.com/album/5etv3hkp6lxgaVMVCKkK2D"
       },
@@ -63256,7 +63274,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 154209,
       "name": "Te llame",
       "url": "https://open.spotify.com/track/4HKIskp2EGVQlWwxSfN6K3"
@@ -72354,7 +72372,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 163278,
       "name": "Who - MTG Funk Version",
       "url": "https://open.spotify.com/track/0qyTn3MkcN7a6y6skLpFnP"
@@ -74478,7 +74496,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 173596,
       "name": "You Won",
       "url": "https://open.spotify.com/track/6g7X6IcVWLEE3M3P2D9Hzn"

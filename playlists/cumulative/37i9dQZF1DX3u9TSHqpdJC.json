@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Isabella Kensington.  Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Maxwell Luke.  Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3072,6 +3072,24 @@
       "duration_ms": 170046,
       "name": "Always You",
       "url": "https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06"
+    },
+    {
+      "album": {
+        "name": "AMERICAN HEART",
+        "url": "https://open.spotify.com/album/0JqGryJkbyWHYc5cAiBWyC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "AMERICAN HEART",
+      "url": "https://open.spotify.com/track/39IyG1mdL1aRwpRS4dWINm"
     },
     {
       "album": {
@@ -6570,7 +6588,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 105000,
       "name": "Black Girls Wanna Have Fun",
       "url": "https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5"
@@ -21607,6 +21625,24 @@
     },
     {
       "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149390,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/2yczGhWquwpckpXCIXEbED"
       },
@@ -22112,7 +22148,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 204481,
       "name": "GIRLFRIEND",
       "url": "https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv"
@@ -28020,6 +28056,24 @@
       "duration_ms": 187903,
       "name": "I Don't Want It",
       "url": "https://open.spotify.com/track/3Nwnr2lIdTldyaSgx2Nhz9"
+    },
+    {
+      "album": {
+        "name": "I don't want nobody but your body",
+        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "I don't want nobody but your body",
+      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
     },
     {
       "album": {
@@ -45126,6 +45180,24 @@
       "duration_ms": 178048,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ"
+    },
+    {
+      "album": {
+        "name": "pigs fly",
+        "url": "https://open.spotify.com/album/4SivwVita0ik0ZDsUumcXx"
+      },
+      "artists": [
+        {
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "pigs fly",
+      "url": "https://open.spotify.com/track/1wxT2v1VTtGKrbJ2f3zpPp"
     },
     {
       "album": {
@@ -64306,6 +64378,24 @@
       "duration_ms": 150000,
       "name": "When You're Alone",
       "url": "https://open.spotify.com/track/5kWzY9yR2a1UjVsiV1499w"
+    },
+    {
+      "album": {
+        "name": "WHEN YOU'RE DONE BREAKING MY HEART",
+        "url": "https://open.spotify.com/album/259wrf5pg5yvdsiZpeRQ6a"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132376,
+      "name": "WHEN YOU'RE DONE BREAKING MY HEART",
+      "url": "https://open.spotify.com/track/4VnBXYRSypUYd4kngIMdmL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: A.M.C
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,264 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,280 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 16 | [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 |
 | 17 | [Mumbai](https://open.spotify.com/track/4P6DSTBeIlzckVKPFN3Uyw) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Mumbai](https://open.spotify.com/album/1SObm3MgJ91BbikAADP3DY) | 1:55 |
 | 18 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
-| 19 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 |
+| 19 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 20 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 21 | [About That Time](https://open.spotify.com/track/5LfR9b6ahXWoKc6Pq459je) | [Dutta](https://open.spotify.com/artist/10yIHb1NneKSlfeCoHtGwk), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Dom Perignon](https://open.spotify.com/album/1cwFmD0eucJMbMi2OVuLMc) | 2:57 |
 | 22 | [Heaven](https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Heaven](https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV) | 3:25 |
-| 23 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
+| 23 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 |
 | 24 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 |
 | 25 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
 | 26 | [Complicated](https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Complicated](https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM) | 4:26 |

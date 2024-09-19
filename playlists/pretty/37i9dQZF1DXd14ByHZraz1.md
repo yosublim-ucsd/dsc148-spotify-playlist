@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: RUBACK, Amesens
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,950 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,943 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SERENA](https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SERENA](https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC) | 4:25 |
-| 2 | [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 |
-| 3 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
-| 4 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 |
-| 5 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
-| 6 | [Paper Boats](https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM) | [Paper Boats](https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u) | 4:15 |
-| 7 | [DARE](https://open.spotify.com/track/1YSOSgWnOQhELstcjDr9s3) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [DARE](https://open.spotify.com/album/206enQ4NnWw07Hc0KaLysn) | 3:08 |
-| 8 | [You Say](https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [You Say](https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g) | 3:30 |
-| 9 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 2 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
+| 3 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 |
+| 4 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
+| 5 | [Paper Boats](https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM) | [Paper Boats](https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u) | 4:15 |
+| 6 | [DARE](https://open.spotify.com/track/1YSOSgWnOQhELstcjDr9s3) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [DARE](https://open.spotify.com/album/206enQ4NnWw07Hc0KaLysn) | 3:08 |
+| 7 | [You Say](https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [You Say](https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g) | 3:30 |
+| 8 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 9 | [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 |
 | 10 | [Nebula](https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Nebula](https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch) | 3:15 |
 | 11 | [FAME](https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Verdun](https://open.spotify.com/artist/7diEfBXZwvjSNvkCf5Nlqf) | [FAME](https://open.spotify.com/album/55i23565yni4LxhdwdtvYW) | 2:51 |
 | 12 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Activated](https://open.spotify.com/track/1Ns2Ucfg64nvKFLZ7KtY9h) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Sifa](https://open.spotify.com/artist/7q1ExqmvA5vWGGmkXs1rL3), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [Activated](https://open.spotify.com/album/5n8hYQR4wuXgVxkVxSz8kh) | 3:05 |
 | 50 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
 
-Snapshot ID: `ZuOrZAAAAAD651iRrv7zHIkAuT2/8Eng`
+Snapshot ID: `ZutAvwAAAABhnBj8k1C/u579ynTplafk`

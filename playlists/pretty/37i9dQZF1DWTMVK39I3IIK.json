@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik \ud83c\udf80 <a href=\"spotify:artist:2jCpr1LrI4wriiCyiqqyDN\">Gunge</a> \ud83c\udf80",
-  "num_followers": 45335,
+  "num_followers": 45361,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
         }
       ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+      "duration_ms": 171456,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
       "artists": [
         {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 171456,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -383,22 +367,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 338436,
-      "name": "Dem, Vi Plejede At V\u00e6re",
-      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "Gi' Mig Lige",
         "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
@@ -411,6 +379,22 @@
       "duration_ms": 161608,
       "name": "Gi' Mig Lige",
       "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 338436,
+      "name": "Dem, Vi Plejede At V\u00e6re",
+      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -431,22 +415,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "Under Din Sne",
         "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 264335,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "Det er din k\u00e6rlighed",
         "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
       },
@@ -507,22 +491,6 @@
       "duration_ms": 227698,
       "name": "Det er din k\u00e6rlighed",
       "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -543,6 +511,22 @@
       "duration_ms": 128616,
       "name": "Coast II Coast (feat. USSEL)",
       "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -575,6 +559,22 @@
       "duration_ms": 215238,
       "name": "Under Vand",
       "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -615,6 +615,38 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
+        "name": "F\u00f8lsom dreng",
+        "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 198998,
+      "name": "F\u00f8lsom dreng",
+      "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 188460,
+      "name": "Br\u00e6nder Stadig",
+      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -651,22 +683,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "F\u00f8lsom dreng",
-        "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 198998,
-      "name": "F\u00f8lsom dreng",
-      "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "Maler",
         "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 188460,
-      "name": "Br\u00e6nder Stadig",
-      "url": "https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 185729,
       "name": "The Game",
       "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "ENGLE & BLAA MAERKER",
-        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 174017,
-      "name": "oslo til k\u00f8benhavn",
-      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+        "name": "ENGLE & BLAA MAERKER",
+        "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
       "artists": [
         {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+      "duration_ms": 174017,
+      "name": "oslo til k\u00f8benhavn",
+      "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -823,6 +807,38 @@
       "duration_ms": 202243,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "G\u00e5r Bare",
+        "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 276824,
+      "name": "G\u00e5r Bare",
+      "url": "https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -859,26 +875,6 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
-        "name": "Legeb\u00f8rn",
-        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        },
-        {
-          "name": "Peter Sommer",
-          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
-        }
-      ],
-      "duration_ms": 290291,
-      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
-      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -891,38 +887,6 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "Den Ud\u00f8delige Historie",
-        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
-      },
-      "artists": [
-        {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
-        }
-      ],
-      "duration_ms": 152729,
-      "name": "Den Ud\u00f8delige Historie",
-      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -943,6 +907,58 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
+        "name": "Den Ud\u00f8delige Historie",
+        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
+      },
+      "artists": [
+        {
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+        }
+      ],
+      "duration_ms": 152729,
+      "name": "Den Ud\u00f8delige Historie",
+      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        },
+        {
+          "name": "Peter Sommer",
+          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
+        }
+      ],
+      "duration_ms": 290291,
+      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
+      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
         "name": "Syreregn",
         "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 170192,
       "name": "Syreregn",
       "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "G\u00e5r Bare",
-        "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 276824,
-      "name": "G\u00e5r Bare",
-      "url": "https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y"
     },
     {
       "added_at": "2024-09-16 10:58:38",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-09-16 10:58:38",
       "album": {
+        "name": "Half truths from a broken heart",
+        "url": "https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz"
+      },
+      "artists": [
+        {
+          "name": "Selma Judith",
+          "url": "https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc"
+        },
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 252220,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS"
+    },
+    {
+      "added_at": "2024-09-16 10:58:38",
+      "album": {
         "name": "Butterfly Street",
         "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
       },
@@ -1135,22 +1155,6 @@
       "duration_ms": 166895,
       "name": "Butterfly Street",
       "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
-    },
-    {
-      "added_at": "2024-09-16 10:58:38",
-      "album": {
-        "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
-        "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 188408,
-      "name": "ENDORFINER",
-      "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
     },
     {
       "added_at": "2024-09-16 10:58:38",

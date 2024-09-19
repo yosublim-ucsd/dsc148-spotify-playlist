@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,106 songs - 2 day 17 hr 19 min
+[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,107 songs - 2 day 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1114,5 +1114,6 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1104 | [SICK OF IT\*](https://open.spotify.com/track/0CGMppRyZeAXdfaBcj7cMv) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/7sVCyMEiulhdkWvRhZS8lp) | 2:09 |
 | 1105 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 1106 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
+| 1107 | [affection](https://open.spotify.com/track/4EtgDIWb8Wm5mnaK701c0C) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/3IIJTTfYV4GU9ST4GbeGhg) | 3:55 |
 
-Snapshot ID: `AAAFLzMvZBjzr6luhe/csJheFqTOZqci`
+Snapshot ID: `AAAFMMjyN5BQUFDjwsQEfJRxJxORWNsN`

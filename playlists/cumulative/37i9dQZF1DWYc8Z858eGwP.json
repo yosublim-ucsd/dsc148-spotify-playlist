@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g\">Manana</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g\">Manana</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV-LkmPxCQ\">Shallipopi</a> and <a href=\"https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA\">Joshua Baraka</a>",
   "name": "RADAR Africa",
   "tracks": [
+    {
+      "album": {
+        "name": "Kill The King: the mixtape",
+        "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        },
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "100 mill",
+      "url": "https://open.spotify.com/track/3xNZvhskS5f3NuVC8ldi0x"
+    },
     {
       "album": {
         "name": "EHHPY NYE",
@@ -389,6 +411,24 @@
     },
     {
       "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
+    },
+    {
+      "album": {
         "name": "Malone",
         "url": "https://open.spotify.com/album/5W8itXoVnGvXNDOCEiPywy"
       },
@@ -728,7 +768,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 195419,
       "name": "Baridi",
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
@@ -1423,6 +1463,32 @@
     },
     {
       "album": {
+        "name": "Constantly",
+        "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193567,
+      "name": "Constantly",
+      "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4n58L3DcofQSva9E78JtsB"
       },
@@ -1438,6 +1504,28 @@
       "duration_ms": 122400,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/6xPBy6PlnWvWHBaGyyusvv"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158939,
+      "name": "CWT (feat. BNXN)",
+      "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
     },
     {
       "album": {
@@ -2110,7 +2198,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 170666,
       "name": "Extra Pressure",
       "url": "https://open.spotify.com/track/5psM7zuqtSaMnLr9WzI4s5"
@@ -2390,7 +2478,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 217421,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct"
@@ -2408,7 +2496,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Future",
       "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
@@ -2492,6 +2580,28 @@
       "duration_ms": 196800,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
+    },
+    {
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
     },
     {
       "album": {
@@ -2662,7 +2772,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 199306,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK"
@@ -3150,7 +3260,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 234545,
       "name": "Jioni",
       "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
@@ -3270,6 +3380,54 @@
       "duration_ms": 162680,
       "name": "juju",
       "url": "https://open.spotify.com/track/2Z9b3CPOb1JVArWgS5EfxX"
+    },
+    {
+      "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+    },
+    {
+      "album": {
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
     },
     {
       "album": {
@@ -3736,7 +3894,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 233920,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
@@ -4100,6 +4258,24 @@
       "duration_ms": 206315,
       "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
+    },
+    {
+      "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
     },
     {
       "album": {
@@ -4840,6 +5016,32 @@
       "duration_ms": 151932,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P"
     },
     {
       "album": {
@@ -6294,7 +6496,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 170303,
       "name": "This Type of Love",
       "url": "https://open.spotify.com/track/5MDhcZJvpTGWnJrBCOgSgu"
@@ -6820,6 +7022,28 @@
       "duration_ms": 200255,
       "name": "Water - Remix",
       "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
+    },
+    {
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190664,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/5rOGgvxkgMOn5ZhyLHLDFz"
     },
     {
       "album": {

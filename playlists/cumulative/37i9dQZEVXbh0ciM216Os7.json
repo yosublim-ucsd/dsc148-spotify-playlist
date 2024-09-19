@@ -11936,7 +11936,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 109213,
       "name": "G.W.O.P",
       "url": "https://open.spotify.com/track/3jiCesDTvJUGFfmeF25LGW"
@@ -15388,6 +15388,40 @@
       "duration_ms": 157714,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1EZv3GSeVkMItYgSjrbgqS"
+    },
+    {
+      "album": {
+        "name": "Immortal Hip-Hop (RMX)",
+        "url": "https://open.spotify.com/album/5kjX6SgEGCQnDJmnXAdEfZ"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Golem MC",
+          "url": "https://open.spotify.com/artist/1eVryYBR7GV1898QUB3EBI"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349900,
+      "name": "Immortal Hip-Hop - RMX",
+      "url": "https://open.spotify.com/track/5YhPjlrCA6VjQYhS928elE"
     },
     {
       "album": {
@@ -34700,6 +34734,32 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415311,
+      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): I. Grave",
+      "url": "https://open.spotify.com/track/4kuaftyCpeFIp7zZWsw6Br"
+    },
+    {
+      "album": {
+        "name": "Schoenberg: Verkl\u00e4rte Nacht",
+        "url": "https://open.spotify.com/album/4j1EWVu3EcXt0pCyHwaA5d"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Danish National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+        },
+        {
+          "name": "Fabio Luisi",
+          "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
       "date_removed": "2024-09-18",
       "duration_ms": 375583,
       "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): II. Molto rallentando (Bar 100)",
@@ -34726,7 +34786,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 562648,
       "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): IV. Adagio (Bar 229)",
       "url": "https://open.spotify.com/track/5P4SHnjE4ZmduS8lhEzBHF"

@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 190404,
+  "num_followers": 190447,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Ay Vidita",
-      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Ay Vidita",
+      "url": "https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Tinto",
-        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
+        "name": "50 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
       },
       "artists": [
         {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        },
+        {
+          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
+          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
         }
       ],
-      "duration_ms": 203053,
-      "name": "La Refranera",
-      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
+      "duration_ms": 188028,
+      "name": "Chacarera del Cardenal - En Vivo",
+      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "50 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
+        "name": "Tinto",
+        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
       },
       "artists": [
         {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        },
-        {
-          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
-          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 188028,
-      "name": "Chacarera del Cardenal - En Vivo",
-      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
+      "duration_ms": 203053,
+      "name": "La Refranera",
+      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Cantas T\u00fa, Canto Yo",
-        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Chibidon",
-      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Entre el Cielo, Vos y Yo",
         "url": "https://open.spotify.com/album/4s3rhCpVOyMjLVGypuCXuY"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 205680,
       "name": "El Linyerita",
       "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Cantas T\u00fa, Canto Yo",
+        "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Chibidon",
+      "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Antol\u00f3gico",
-        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
-      },
-      "artists": [
-        {
-          "name": "Polo Rom\u00e1n y Salta Trio",
-          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
-        }
-      ],
-      "duration_ms": 161881,
-      "name": "La Sanlorence\u00f1a",
-      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Folklore Los 100 Mejores Temas Vol. 1",
         "url": "https://open.spotify.com/album/1nzaxGryITzT0s5iBkfeir"
       },
@@ -1863,18 +1847,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "14 Grandes Exitos De Horacio Guarany",
-        "url": "https://open.spotify.com/album/5x0uk0qveoSgg0hj7IfJeR"
+        "name": "Antol\u00f3gico",
+        "url": "https://open.spotify.com/album/4SQb1bIPv3pkmgzIjIxHz3"
       },
       "artists": [
         {
-          "name": "Nestor \"Pueblo\" Celiz",
-          "url": "https://open.spotify.com/artist/4OwujoecddJiSJNUq0uw3P"
+          "name": "Polo Rom\u00e1n y Salta Trio",
+          "url": "https://open.spotify.com/artist/4SCayb8SLDyq3OcSz2GVkm"
         }
       ],
-      "duration_ms": 184825,
-      "name": "La Enga\u00f1era",
-      "url": "https://open.spotify.com/track/1TPhyS7nMiWjEM0fifOLzN"
+      "duration_ms": 161881,
+      "name": "La Sanlorence\u00f1a",
+      "url": "https://open.spotify.com/track/2kD7pDdnnzZZRtNVq4oRE1"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1895,6 +1879,22 @@
       "duration_ms": 159666,
       "name": "Santafesino de Veras",
       "url": "https://open.spotify.com/track/1w9LiWF0fCyfCQ8bfSY1VE"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "14 Grandes Exitos De Horacio Guarany",
+        "url": "https://open.spotify.com/album/5x0uk0qveoSgg0hj7IfJeR"
+      },
+      "artists": [
+        {
+          "name": "Nestor \"Pueblo\" Celiz",
+          "url": "https://open.spotify.com/artist/4OwujoecddJiSJNUq0uw3P"
+        }
+      ],
+      "duration_ms": 184825,
+      "name": "La Enga\u00f1era",
+      "url": "https://open.spotify.com/track/1TPhyS7nMiWjEM0fifOLzN"
     },
     {
       "added_at": "2024-07-12 03:00:00",

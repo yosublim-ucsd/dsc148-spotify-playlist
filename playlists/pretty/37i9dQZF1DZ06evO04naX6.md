@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 ### [This Is Yandel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04naX6)
 
-> This Is Yandel\. Los temas esenciales, todos en una lista.
+> This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,353 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,393 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 50 | [Desperte Sin Ti \- Remix](https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v) | 5:19 |
 | 51 | [Plakito \(feat\. El General Gadiel & Farruko\) \- Remix](https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El General Gadiel](https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Legacy \- De Líder a Leyenda Tour \(Deluxe Edition\)](https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ) | 3:26 |
 
-Snapshot ID: `Zud1AAAAAACRWq67sdvNTDM+eNeY7nYT`
+Snapshot ID: `Zud1AAAAAAAhU3YsRWh7u2VmWlC660kg`

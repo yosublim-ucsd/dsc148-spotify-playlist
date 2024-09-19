@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. The essential tracks, all in one playlist.
+> This is Bob Dylan\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,900 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,960 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 50 | [Peggy Day](https://open.spotify.com/track/2P1jghKUruf3SDVNj910KC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 1:59 |
 | 51 | [Big River \- Take 1](https://open.spotify.com/track/0CS4pwHml8LCSdVJ1gIKU3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Travelin' Thru, 1967 \- 1969: The Bootleg Series, Vol\. 15 \(Sampler\)](https://open.spotify.com/album/1euXUeJobzra05wyBIrdtH) | 2:03 |
 
-Snapshot ID: `Zud1AAAAAACAHBdugFmv/CZGjCPo7JHj`
+Snapshot ID: `Zud1AAAAAABPeJdWhPbFBuIwFPK7nP/Y`

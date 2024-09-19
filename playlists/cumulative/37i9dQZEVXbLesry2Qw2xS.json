@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -8827,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/34VME9ND2KtUtP24o2jV1i"
+      },
+      "artists": [
+        {
+          "name": "Kryme",
+          "url": "https://open.spotify.com/artist/5LIHdau3gwjMHwqBEbtYIw"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dont Get Me Started (Rema & Blaqbonez Diss)",
+      "url": "https://open.spotify.com/track/7HBHyA3iVmm5hdAMfU9VRm"
+    },
+    {
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -10452,7 +10470,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -13785,6 +13803,32 @@
     },
     {
       "album": {
+        "name": "Haye O Dila - From \"Ardaas Sarbat De Bhale Di\"",
+        "url": "https://open.spotify.com/album/08E3xy9feTLUOOS6EdCy6y"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204307,
+      "name": "Haye O Dila - From \"Ardaas Sarbat De Bhale Di\"",
+      "url": "https://open.spotify.com/track/1MCEYfRkkCqkDbGUfUKqyp"
+    },
+    {
+      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
@@ -14224,6 +14268,32 @@
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
+      "album": {
+        "name": "HIMMEL",
+        "url": "https://open.spotify.com/album/4RFjoLe8T9ILFmtz5wAlPI"
+      },
+      "artists": [
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/5LaPbsZJpJ3cKMp93ncpfs"
+        },
+        {
+          "name": "LASSE",
+          "url": "https://open.spotify.com/artist/6TMr1o0Y1YUd0WLhWwKsy2"
+        },
+        {
+          "name": "Club House",
+          "url": "https://open.spotify.com/artist/0XBUXsh7frGjHIoDpi1N26"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422068,
+      "name": "HIMMEL",
+      "url": "https://open.spotify.com/track/5GUoPHtamxQuCQRsPs7N0C"
     },
     {
       "album": {
@@ -18038,7 +18108,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -19050,6 +19120,24 @@
       "duration_ms": 143297,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/763NvK59cOUvaH49dLE5tC"
+    },
+    {
+      "album": {
+        "name": "Laage na man",
+        "url": "https://open.spotify.com/album/05Ce9TDBWU9Ci0kQONRzmo"
+      },
+      "artists": [
+        {
+          "name": "Aizaz Ahmad",
+          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233529,
+      "name": "Laage na man",
+      "url": "https://open.spotify.com/track/0t8rxlcpPjfeCvfskNvwK2"
     },
     {
       "album": {
@@ -26405,6 +26493,24 @@
     },
     {
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/509VUjjB5mQF4wF6aveYHP"
+      },
+      "artists": [
+        {
+          "name": "Delly Black",
+          "url": "https://open.spotify.com/artist/4XTR6YBQHWW76Kq5YeuBL4"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178157,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5jLc9yN9usPRRJxF6f0koQ"
+    },
+    {
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -26490,7 +26596,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -29336,6 +29442,32 @@
       "duration_ms": 206519,
       "name": "Raju reede",
       "url": "https://open.spotify.com/track/7vm2h29bN23fwr8lwRTLgo"
+    },
+    {
+      "album": {
+        "name": "RAKATA",
+        "url": "https://open.spotify.com/album/74JaFw3viCtV6ScvCm86HN"
+      },
+      "artists": [
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/5LaPbsZJpJ3cKMp93ncpfs"
+        },
+        {
+          "name": "LASSE",
+          "url": "https://open.spotify.com/artist/6TMr1o0Y1YUd0WLhWwKsy2"
+        },
+        {
+          "name": "Club House",
+          "url": "https://open.spotify.com/artist/0XBUXsh7frGjHIoDpi1N26"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331333,
+      "name": "RAKATA",
+      "url": "https://open.spotify.com/track/4go2q3j92uc8AfrekAjNTf"
     },
     {
       "album": {
@@ -34273,6 +34405,32 @@
     },
     {
       "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/5mll0OOvNAaZwmbXoxkjL6"
+      },
+      "artists": [
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/5LaPbsZJpJ3cKMp93ncpfs"
+        },
+        {
+          "name": "LASSE",
+          "url": "https://open.spotify.com/artist/6TMr1o0Y1YUd0WLhWwKsy2"
+        },
+        {
+          "name": "Club House",
+          "url": "https://open.spotify.com/artist/0XBUXsh7frGjHIoDpi1N26"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461224,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0AmsiROGb2YA8xMTB9XFdM"
+    },
+    {
+      "album": {
         "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
@@ -36308,7 +36466,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -37832,7 +37990,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
@@ -40190,7 +40348,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -40968,6 +41126,24 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/7eH0vMjD5UyspyQd1xUQbX"
+      },
+      "artists": [
+        {
+          "name": "Don Equis Y BOLIVIA MASTERWORX",
+          "url": "https://open.spotify.com/artist/1RcpYdTafPMgqyrY6xclRj"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149475,
+      "name": "Your Love - English Remix",
+      "url": "https://open.spotify.com/track/3hGgERFoJB6CqSeZmHX5wC"
     },
     {
       "album": {

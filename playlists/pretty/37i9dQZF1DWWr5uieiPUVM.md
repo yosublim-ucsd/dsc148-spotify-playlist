@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Matuê
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,908 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,709 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [GLOCK DE COR](https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:04 |
 | 50 | [Dueto](https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Vnoahh](https://open.spotify.com/artist/1qo3Lj86g1pMIBzgK7OaWl), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:19 |
 
-Snapshot ID: `ZuOq7AAAAACyqcyRx9rnJw6vRZFwv9CV`
+Snapshot ID: `ZuOq7AAAAADzsC1/+C1TCnFflZaLUizS`

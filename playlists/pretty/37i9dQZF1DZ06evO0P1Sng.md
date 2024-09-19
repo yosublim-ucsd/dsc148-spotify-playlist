@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is Azzy\. The essential tracks, all in one playlist.
+> This is Azzy\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,020 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,023 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
 | 50 | [Decolando](https://open.spotify.com/track/2Z3EGb9xjK1fdq04ZgM2ib) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Mazin](https://open.spotify.com/artist/7HfzPKhDGOQMVTbRrDY8Te), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [Decolando](https://open.spotify.com/album/4W12wkiHGqwbFJw9X9qgBk) | 3:45 |
 
-Snapshot ID: `Zud1AAAAAACQfag2WzmQu5LAY6PwOEVe`
+Snapshot ID: `Zud1AAAAAACd0n+60RXOphNS0iOvj7+B`

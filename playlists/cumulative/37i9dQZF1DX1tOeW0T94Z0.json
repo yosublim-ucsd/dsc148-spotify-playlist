@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Choclair",
+  "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Massari",
   "name": "Millennium Hip-Hop/R&B: Canada",
   "tracks": [
     {
@@ -2098,6 +2098,24 @@
       "duration_ms": 223626,
       "name": "Rubbin'",
       "url": "https://open.spotify.com/track/4bT6qTu5mi5i0ZcZtgcz1Y"
+    },
+    {
+      "album": {
+        "name": "Massari",
+        "url": "https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE"
+      },
+      "artists": [
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "Rush The Floor",
+      "url": "https://open.spotify.com/track/67UnMXVIxzq0h6wr5EI5VT"
     },
     {
       "album": {

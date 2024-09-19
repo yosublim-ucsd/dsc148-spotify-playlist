@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Lazza, Fedez, Paky e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,446 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,468 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 8 | [Tu Me Quieres \- Prod\. by Higashi x Roberto Ferrante](https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Tu Me Quieres](https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF) | 3:34 |
 | 9 | [SARAGO \(Red Bull 64 Bars\)](https://open.spotify.com/track/0TFTob9H14UhDbS3qCVXmv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [SARAGO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4jN5IhSYVXzeOedqWjYB6o) | 2:23 |
 | 10 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
-| 11 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
+| 11 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan & Intifaya](https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
 | 12 | [100MILA](https://open.spotify.com/track/5Wj7M2ts5g3JkEU48sEbbE) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [100MILA](https://open.spotify.com/album/0pXk6jIa95niWL1iWvCZNR) | 2:31 |
 | 13 | [SANTORINI](https://open.spotify.com/track/63cMQfY7WisKSUooxODSey) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [SANTORINI](https://open.spotify.com/album/0xGuQsrUFj6ty3oSeWVyAc) | 2:32 |
 | 14 | [STESSI PARERI](https://open.spotify.com/track/4G7vNBkivXS1yIqWBrYSom) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [STESSI PARERI](https://open.spotify.com/album/5h4RTUvsQjjCf3jdC4GoHv) | 2:33 |

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kirk Franklin & The Family, Tasha Page\-Lockhart, Donald Lawrence & Company and more
+> With LaShun Pace, Tasha Page\-Lockhart, Marvin Winans and more
 
 1,557 songs - 4 day 20 hr 12 min
 

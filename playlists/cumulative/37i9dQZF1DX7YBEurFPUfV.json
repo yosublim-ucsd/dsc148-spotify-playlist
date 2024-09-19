@@ -175,6 +175,32 @@
     },
     {
       "album": {
+        "name": "AIRMAX",
+        "url": "https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7"
+      },
+      "artists": [
+        {
+          "name": "DACHI",
+          "url": "https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX"
+        },
+        {
+          "name": "DvrkBoy",
+          "url": "https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW"
+        },
+        {
+          "name": "Catcher",
+          "url": "https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177124,
+      "name": "AIRMAX",
+      "url": "https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1"
+    },
+    {
+      "album": {
         "name": "Amach",
         "url": "https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6"
       },
@@ -296,6 +322,24 @@
       "duration_ms": 198861,
       "name": "Byesset El 7ay",
       "url": "https://open.spotify.com/track/1foKMVjqzlnHKjshXGz4OU"
+    },
+    {
+      "album": {
+        "name": "Cameleon",
+        "url": "https://open.spotify.com/album/0qWkdirFI0cTfumPdPEt6C"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146910,
+      "name": "Cameleon",
+      "url": "https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P"
     },
     {
       "album": {
@@ -422,7 +466,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 218932,
       "name": "Dmou3 Ellil",
       "url": "https://open.spotify.com/track/7lPKZ2HWDzWezgbSW1UDjW"
@@ -1042,7 +1086,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 192676,
       "name": "MERENGUE",
       "url": "https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p"

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-584 songs - 1 day 11 hr 24 min
+585 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 | 2024-07-02 |
 | [Come Inside](https://open.spotify.com/track/4AcJVooOCZexEq1INGT6wP) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [R&B MONEY: THE VAULT](https://open.spotify.com/album/4xlyHXPpfdqPKDBvoBiKTK) | 3:21 | 2024-04-26 | 2024-05-18 |
 | [Comin' Outta The Rain](https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Comin' Outta The Rain](https://open.spotify.com/album/2mPK46ebGz3WqCx3YaNYcr) | 3:09 | 2021-12-03 | 2022-07-22 |
+| [Confusional](https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:24 | 2024-09-13 |  |
 | [controllin](https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 4:44 | 2024-06-07 | 2024-08-03 |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-03-11 | 2023-08-05 |
 | [Craters](https://open.spotify.com/track/5Y0BNdiSJMGMcQK95bxm1M) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Sol Empowered](https://open.spotify.com/album/1WwEkTUvTxhvAg624GhW62) | 4:10 | 2022-03-11 | 2022-07-19 |
@@ -572,7 +573,7 @@
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 | 2024-06-09 |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |
-| [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 |  |
+| [When You're Lonely](https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Son of Zeus](https://open.spotify.com/album/6GhXHLKieoeh9LHLsBrDeN) | 2:36 | 2024-03-08 | 2024-09-19 |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-01-19 |  |
 | [Where Have I Been?](https://open.spotify.com/track/7LJDu7j29gWGyM1R2c224J) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Where Have I Been?](https://open.spotify.com/album/5ARvrX3Ec7G4vMp5cpeNoH) | 3:44 | 2024-03-01 | 2024-04-06 |
 | [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 |  |

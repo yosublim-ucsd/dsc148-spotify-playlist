@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=4suJSZgIRQuK7IHj6x\-gww"> Yemi Alade</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,037 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,113 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

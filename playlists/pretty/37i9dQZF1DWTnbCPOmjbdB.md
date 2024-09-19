@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Roxie Węgiel, Maryla Rodowicz
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,411 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,460 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 8 | [och i ach](https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [och i ach](https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF) | 3:01 |
 | 9 | [Złamane serce jest OK](https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Dziewczyna Pop](https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB) | 3:15 |
 | 10 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
-| 11 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/4LOzPpIOHxj9TH5dLwf3zX) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
+| 11 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 |
 | 12 | [Sobą Tak](https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Sobą Tak](https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V) | 2:40 |
 | 13 | [Chory](https://open.spotify.com/track/7jfmUcIxrhJWXyd18rE26L) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Chory](https://open.spotify.com/album/4H7MofJfhX9kDJNGkEFocy) | 3:21 |
 | 14 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |

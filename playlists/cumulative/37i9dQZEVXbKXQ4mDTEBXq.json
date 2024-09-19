@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Dear ex-girlfriends",
+        "url": "https://open.spotify.com/album/7nnaW5fbVaszsd02Nc0adW"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Dear ex-girlfriends",
+      "url": "https://open.spotify.com/track/2vt1UH1cjwwDFCeo7qS5VN"
+    },
+    {
+      "album": {
         "name": "Delusion:All",
         "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 259471,
       "name": "Feelin\u2019 Go(o)d",
       "url": "https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR"

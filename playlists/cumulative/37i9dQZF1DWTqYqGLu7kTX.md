@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-194 songs - 9 hr 49 min
+195 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-04-23 | 2023-06-24 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-18 |  |
 | [8\-FIGGAAH! \(feat\. GD47\)](https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 3:05 | 2024-09-09 |  |
+| [999](https://open.spotify.com/track/4cvXI7BmYsK7jTF460fkJz) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [999](https://open.spotify.com/album/14uIRCjKU4lcuO7INNkFFb) | 2:51 | 2024-09-18 |  |
 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 | 2024-08-23 |  |
 | [Adhiya](https://open.spotify.com/track/5LEjxlKCcYH8irGpRtjbj0) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Adhiya](https://open.spotify.com/album/6ClVAtYBeQ6zjy3RnzR0ZV) | 2:57 | 2023-03-18 | 2023-09-05 |
 | [Albatta](https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:35 | 2024-05-16 | 2024-08-31 |
@@ -111,7 +112,7 @@
 | [Laadla](https://open.spotify.com/track/5mGAQXwHbwdknsmupmSvrI) | [Deep Kahlon](https://open.spotify.com/artist/13I6uR82Cjz7RlWtGDBXnz) | [Laadla](https://open.spotify.com/album/5NyFfchNcLDT04OTahxUPI) | 4:07 | 2023-10-12 | 2024-01-06 |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-06 |  |
 | [Lalkara](https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:40 | 2023-10-12 | 2023-11-17 |
-| [LC](https://open.spotify.com/track/72Knl6oBSAmZ7C4SFNsPd2) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [LC](https://open.spotify.com/album/6RCaDL2k6YIf7nsPpnwYZf) | 2:30 | 2024-08-26 |  |
+| [LC](https://open.spotify.com/track/72Knl6oBSAmZ7C4SFNsPd2) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [LC](https://open.spotify.com/album/6RCaDL2k6YIf7nsPpnwYZf) | 2:30 | 2024-08-26 | 2024-09-19 |
 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 | 2023-03-18 |  |
 | [Lighter](https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:26 | 2024-07-26 | 2024-08-24 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-12 |

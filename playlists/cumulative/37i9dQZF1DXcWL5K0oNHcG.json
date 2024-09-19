@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Keenan Meyer. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 183785,
       "name": "27",
       "url": "https://open.spotify.com/track/346Hiyp2wyMN08fl0z7t79"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 228983,
       "name": "5 Star Overthinker",
       "url": "https://open.spotify.com/track/6xSafwQKqlAyUVh7UT3FOC"
@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/0Co7Rd7jsgw51YGrYEIZgN"
+      },
+      "artists": [
+        {
+          "name": "TAMMIE",
+          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153447,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/4DQdGqH4aek5FKT6YHIM06"
+    },
+    {
+      "album": {
         "name": "Beautiful Dreamer",
         "url": "https://open.spotify.com/album/3gUd6UI6ra8jUH1kVk7BWa"
       },
@@ -2992,6 +3010,24 @@
       "duration_ms": 362559,
       "name": "Bird Of Beauty",
       "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
+    },
+    {
+      "album": {
+        "name": "Birdgang, Pt. II",
+        "url": "https://open.spotify.com/album/3yzVAvoG8f0ekZdDkk6JlT"
+      },
+      "artists": [
+        {
+          "name": "Plantfood",
+          "url": "https://open.spotify.com/artist/7cyfKXUHcgckmpciDHSsoR"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374426,
+      "name": "Birdgang, Pt. II",
+      "url": "https://open.spotify.com/track/0BW6E4sY1wiFyYJpENPt7d"
     },
     {
       "album": {
@@ -9090,7 +9126,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
@@ -9799,6 +9835,24 @@
     },
     {
       "album": {
+        "name": "Funky Beast",
+        "url": "https://open.spotify.com/album/1I07H0kVHWEaRS0EDBJcjX"
+      },
+      "artists": [
+        {
+          "name": "SiB Music",
+          "url": "https://open.spotify.com/artist/46IgprQeDeLQgAwexDkD1w"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256250,
+      "name": "Funky Beast",
+      "url": "https://open.spotify.com/track/69zqSD2jeCHJtK25L4UARX"
+    },
+    {
+      "album": {
         "name": "FUNky Times",
         "url": "https://open.spotify.com/album/0d45OchIMYFoiFv79GMDGF"
       },
@@ -10312,7 +10366,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 211293,
       "name": "Green Over Green",
       "url": "https://open.spotify.com/track/6ipsnH3vLzLhRDJXKrp9j1"
@@ -12138,7 +12192,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 354253,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2rhjVZhL4FhkireS5Vl5z3"
@@ -12578,6 +12632,32 @@
       "duration_ms": 182081,
       "name": "It Funks",
       "url": "https://open.spotify.com/track/025e8Tl2g33pAAQjedWg9Z"
+    },
+    {
+      "album": {
+        "name": "It's All Happening",
+        "url": "https://open.spotify.com/album/1TX8nK3HbY2Wdk7FyAF7pF"
+      },
+      "artists": [
+        {
+          "name": "Sun Dog",
+          "url": "https://open.spotify.com/artist/5jNgNVcMrjn4Vdkqf7SzSf"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        },
+        {
+          "name": "Petri Kautto",
+          "url": "https://open.spotify.com/artist/12OKfkYtOvRzuWmPe7Qjiv"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320038,
+      "name": "It's All Happening",
+      "url": "https://open.spotify.com/track/2uSWVj0giIMN4d2zyxvBdP"
     },
     {
       "album": {
@@ -13035,6 +13115,40 @@
     },
     {
       "album": {
+        "name": "Jump Start",
+        "url": "https://open.spotify.com/album/1sluTVFDZpkmI2i0g8mjvk"
+      },
+      "artists": [
+        {
+          "name": "Eric Parmelee",
+          "url": "https://open.spotify.com/artist/0qZsaW7DdPNSZ7u3NujPhs"
+        },
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        },
+        {
+          "name": "Noah Roberts",
+          "url": "https://open.spotify.com/artist/4fLdviFT2uvSbhpIEL0Bjz"
+        },
+        {
+          "name": "Ford Chambers",
+          "url": "https://open.spotify.com/artist/3UaeSTAEdB4ADFh2eKjwTu"
+        },
+        {
+          "name": "Joshua Stenis",
+          "url": "https://open.spotify.com/artist/3nNkbve2b1CsEIshv8x8b5"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578426,
+      "name": "Jump Start",
+      "url": "https://open.spotify.com/track/4gkydZOKiJCSBD0fR5BTDL"
+    },
+    {
+      "album": {
         "name": "Jungle Step",
         "url": "https://open.spotify.com/album/0oPEXdu03grLphZP0bFbdA"
       },
@@ -13212,7 +13326,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 260953,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0FE88E5srw7mcCheEmMtBr"
@@ -13671,6 +13785,24 @@
     },
     {
       "album": {
+        "name": "Lifescape",
+        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
+      },
+      "artists": [
+        {
+          "name": "Taka Nawashiro",
+          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307186,
+      "name": "Kobune",
+      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
+    },
+    {
+      "album": {
         "name": "KOSMOCHOOJUWA",
         "url": "https://open.spotify.com/album/0QaHoz7aYfIaBEuHH4LtUT"
       },
@@ -13762,7 +13894,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 411800,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/2a56hT2gM0f76Dhj6iYwiN"
@@ -14889,6 +15021,24 @@
     },
     {
       "album": {
+        "name": "Breaking Stretch",
+        "url": "https://open.spotify.com/album/7AFqBcQrNtRtVEl5HYZKo0"
+      },
+      "artists": [
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313391,
+      "name": "Los Otros Yo",
+      "url": "https://open.spotify.com/track/6D612HJ04L7GK8uJUN9j8w"
+    },
+    {
+      "album": {
         "name": "Lost in Abstraction",
         "url": "https://open.spotify.com/album/49ujJAQmdUIBAmSuMcyoi8"
       },
@@ -15064,7 +15214,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 217873,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/5rpzaxhWcVvXVtrrpjvme1"
@@ -18768,7 +18918,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 229270,
       "name": "Oumuamua",
       "url": "https://open.spotify.com/track/0bmdkYQVcRlQQ2VmYtphUI"
@@ -19927,6 +20077,24 @@
     },
     {
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/2UTmTwsirD3WVwdnsDhqAZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278377,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/0CewzhlflrnWa7Vd0V6okf"
+    },
+    {
+      "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/2usEjmrKrEntoo660pDvQZ"
       },
@@ -20811,6 +20979,24 @@
     },
     {
       "album": {
+        "name": "Resemblance",
+        "url": "https://open.spotify.com/album/53VCDjLyjPHroGXFAS1ZgS"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Lasansky",
+          "url": "https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400920,
+      "name": "Resemblance",
+      "url": "https://open.spotify.com/track/5e6QY9L8oQW8qaajKXLci9"
+    },
+    {
+      "album": {
         "name": "resketch",
         "url": "https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf"
       },
@@ -20916,6 +21102,28 @@
       "duration_ms": 582566,
       "name": "Return To Centaurus",
       "url": "https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw"
+    },
+    {
+      "album": {
+        "name": "Returning Flights",
+        "url": "https://open.spotify.com/album/248IMMpgrzoyA52WRQmnWU"
+      },
+      "artists": [
+        {
+          "name": "Cassette Heads",
+          "url": "https://open.spotify.com/artist/2ScbHy5G91WOUepPUagisf"
+        },
+        {
+          "name": "Marius Max",
+          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315250,
+      "name": "Returning Flights",
+      "url": "https://open.spotify.com/track/5elcq6v9siKwXQURtFsZys"
     },
     {
       "album": {
@@ -21566,7 +21774,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 186943,
       "name": "Sans Titres",
       "url": "https://open.spotify.com/track/6cyoqa6hcmBDaHeqSXYieB"
@@ -22276,7 +22484,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 287772,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/6tdqqYdhKVnsw2lLiE3nYd"
@@ -28047,6 +28255,36 @@
     },
     {
       "album": {
+        "name": "12.12",
+        "url": "https://open.spotify.com/album/6CHa5ms7aZyr1Ka9d5G7rg"
+      },
+      "artists": [
+        {
+          "name": "Neus Plana Turu",
+          "url": "https://open.spotify.com/artist/7JmZSqSZO30fDYwJvBWNdz"
+        },
+        {
+          "name": "Carles Font Turon",
+          "url": "https://open.spotify.com/artist/19XlO4FlzZvD3RApdrNiL7"
+        },
+        {
+          "name": "Pablo Donaire",
+          "url": "https://open.spotify.com/artist/3Y2PPN4bLkAZ7z4171ByVN"
+        },
+        {
+          "name": "Antonio Parraguez Rodriguez",
+          "url": "https://open.spotify.com/artist/2C8xrGthoxmR0Na2AfwlPy"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/1X5yBk0KdFqaa9btFOtg9e"
+    },
+    {
+      "album": {
         "name": "Vidas de Plasticina",
         "url": "https://open.spotify.com/album/3KEklkjVTCV35UbEZs5Lr1"
       },
@@ -28218,7 +28456,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-19",
       "duration_ms": 231722,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
@@ -28312,6 +28550,24 @@
       "duration_ms": 334040,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/6ejKBw9NwfH5JZCj2z7WnD"
+    },
+    {
+      "album": {
+        "name": "BREZZE",
+        "url": "https://open.spotify.com/album/4s9XenzRqH7liLAbMPEOCO"
+      },
+      "artists": [
+        {
+          "name": "Miki Ikhifa",
+          "url": "https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448089,
+      "name": "Voodoo Jazz",
+      "url": "https://open.spotify.com/track/49g5WoU1g1dV3necigMerS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 213481,
+  "num_followers": 213536,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Am Your Tambourine",
+      "url": "https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 251826,
       "name": "Keeps Me Alive",
       "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Am Your Tambourine",
-      "url": "https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A"
     },
     {
       "added_at": "2024-08-30 04:00:00",

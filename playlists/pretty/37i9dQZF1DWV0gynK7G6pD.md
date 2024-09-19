@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Sheku Kanneh\-Mason.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,206 likes - 69 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,278 likes - 69 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 66 | [Morte di Lucretia: Dove vai, crudo spietato](https://open.spotify.com/track/3SAYx1spNM4VzfY4diANPS) | [Michel Pignolet de Montéclair](https://open.spotify.com/artist/2uSiDktppOzxVhyf3G3jFp), [Sandrine Piau](https://open.spotify.com/artist/21ZrUwCPuok2HGHtuUVCGL), [Les Paladins](https://open.spotify.com/artist/4fllM8Tgic7K0IuNA5stG5), [Jérôme Corréas](https://open.spotify.com/artist/3JTSm4XMpxk6BViv5tvAgp) | [Montéclair: Morte di Lucretia: Dove vai, crudo spietato](https://open.spotify.com/album/5QywwO6nXma8LN07kkGPIk) | 4:27 |
 | 67 | [Agon, K088: Ia\. Pas\-de\-quatre](https://open.spotify.com/track/7Hjw5mI1VojQzoJZwjTNUG) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Ingo Metzmacher](https://open.spotify.com/artist/3dg4dUajRDRXLI3HbdqtGi), [SWR Symphonieorchester](https://open.spotify.com/artist/03cxBgxhPa42E0hRXD5pLX) | [Stravinsky: Orchestral Works](https://open.spotify.com/album/5jKFdr9LRIPffGB7WcovFC) | 1:36 |
 | 68 | [Venus & Adonis, R\. 10: XI\. A churlish swine](https://open.spotify.com/track/1lnDLUv8Pw33Ck2NbyPKbw) | [Rodrigo Ruiz](https://open.spotify.com/artist/1lyI70vBEWaxsk9l2Z1BaU), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [George Herbert](https://open.spotify.com/artist/54gsoZOVRpYD4jT5O7GX8U) | [Venus & Adonis, R\. 10: XI\. A churlish swine](https://open.spotify.com/album/7IxzwpWoM0yoPuWMhQNUDL) | 3:16 |
-| 69 | [String Quartet, No\. 3: II\. Presto \(fugato\)](https://open.spotify.com/track/5xHxkf7TMOWmH1xlBgzt4B) | [Joseph Phibbs](https://open.spotify.com/artist/1K1aFUJMRLVnGkA5R2R6E5), [Jospeh Phibbs](https://open.spotify.com/artist/1fdc9wnSzfr73NcTSH37iO), [Piatti Quartet](https://open.spotify.com/artist/14UlbGWvagIREkTagcShGU) | [String Quartet, No\. 3: II\. Presto \(fugato\)](https://open.spotify.com/album/17GzIv3wK4AxoVMF69cWPR) | 2:40 |
+| 69 | [String Quartet, No\. 3: II\. Presto \(fugato\)](https://open.spotify.com/track/5xHxkf7TMOWmH1xlBgzt4B) | [Joseph Phibbs](https://open.spotify.com/artist/1K1aFUJMRLVnGkA5R2R6E5), [Jospeh Phibbs](https://open.spotify.com/artist/1fdc9wnSzfr73NcTSH37iO), [Piatti Quartet](https://open.spotify.com/artist/4WdJdz5gtnka5sn1OhoF3h) | [String Quartet, No\. 3: II\. Presto \(fugato\)](https://open.spotify.com/album/17GzIv3wK4AxoVMF69cWPR) | 2:40 |
 
 Snapshot ID: `ZuRdygAAAABlKFhjoCqNJQX/7WLFRXqj`

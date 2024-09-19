@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Charly García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,698 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,701 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 9 | [Tiempos Que Arden](https://open.spotify.com/track/6bItU6lWn4gsSUKY1Vtuzg) | [Alfredo Piedrafita](https://open.spotify.com/artist/0Y93RnnfowqScS5INK5EUi), [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Paco Ventura](https://open.spotify.com/artist/0t4whqdKopyVMwKXVfBgWs), [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Tiempos Que Arden](https://open.spotify.com/album/0vFS6Q9dVNVhYcaA1MTFFk) | 3:40 |
 | 10 | [Luzbelito y las Sirenas \- En Vivo, Sábado 14 de Septiembre de 2013 / Mendoza](https://open.spotify.com/track/16vxk7MqVdp0oRoVp6Wtec) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Luzbelito y las Sirenas \(En Vivo, Sábado 14 de Septiembre de 2013 / Mendoza\)](https://open.spotify.com/album/7cDtr03A8SUqF5TgsZSw9i) | 4:01 |
 | 11 | [And Soon the Darkness](https://open.spotify.com/track/7gsFkZth7x73lx7OOtBCxg) | [Morgan](https://open.spotify.com/artist/5KtT4N5jkrPVRAIcJ8GmnV) | [And soon the darkness](https://open.spotify.com/album/4GefBc1nFx1RvQkbq0SFqB) | 2:49 |
-| 12 | [Roces Accidentales](https://open.spotify.com/track/3AXzDQCwXuhww1nbURKXqf) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7), [Insite](https://open.spotify.com/artist/3QLChPlrfQkyrNEI0L2Y8C) | [Que arda el cielo](https://open.spotify.com/album/2Uw0iVPgX2A4K7prIiIxLe) | 3:49 |
+| 12 | [Roces Accidentales](https://open.spotify.com/track/3AXzDQCwXuhww1nbURKXqf) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7), [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Que arda el cielo](https://open.spotify.com/album/2Uw0iVPgX2A4K7prIiIxLe) | 3:49 |
 | 13 | [¡Que te pares!](https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [¡Que te pares!](https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4) | 3:13 |
 | 14 | [Pa’ Unos un Loco Pa’ Otros un Rey](https://open.spotify.com/track/1EnA2QdimQefJqrgoukdwe) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Pa’ Unos un Loco Pa’ Otros un Rey](https://open.spotify.com/album/6id7gw0oEHLHnBdgtdvOdJ) | 3:18 |
 | 15 | [Amarillo](https://open.spotify.com/track/2pz3rDz7KGipcrJkrejm8I) | [NO QUIERO](https://open.spotify.com/artist/6FazvOWNWWxoCw5KhkdJTP) | [Amarillo](https://open.spotify.com/album/02rDofnDtB5anx9DkeZmAy) | 2:23 |

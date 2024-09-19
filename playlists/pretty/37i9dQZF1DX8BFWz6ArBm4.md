@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Petros Iakovidis
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,415 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,450 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 27 | [Efyge?](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge?](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 3:21 |
 | 28 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 |
 | 29 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 |
-| 30 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 |
-| 31 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
+| 30 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
+| 31 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 |
 | 32 | [Kalokeri](https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kalokeri](https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul) | 4:01 |
 | 33 | [Sikose To Tilefono](https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera](https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx) | 2:29 |
 | 34 | [I Agapi Ayti](https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [I Agapi Ayti](https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ) | 3:36 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 43 | [Fyllo Kai Ftero](https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Fyllo Kai Ftero](https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4) | 3:02 |
 | 44 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 |
 | 45 | [As Ta Leme Kala](https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [As Ta Leme Kala](https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz) | 2:53 |
-| 46 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 |
+| 46 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 |
 | 47 | [Thalasses](https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Thalasses](https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5) | 4:12 |
-| 48 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 |
+| 48 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 |
 | 49 | [Dromo Epikindino](https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Dromo Epikindino](https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp) | 3:25 |
 | 50 | [Pes Mou](https://open.spotify.com/track/2KDf834esNz60YkoISdDu2) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Pes Mou](https://open.spotify.com/album/732IvasfkpLJYx41saBVrg) | 2:49 |
 

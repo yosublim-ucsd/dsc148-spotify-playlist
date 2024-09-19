@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 172969,
+  "num_followers": 173019,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 245807,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Louis V",
         "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 132047,
       "name": "Louis V",
       "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Trabalho Duro - Deluxe",
-        "url": "https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Trabalho Duro - Deluxe",
-      "url": "https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4WTA1GMzuqdtMsFSan3y7Q"
+        "name": "Trabalho Duro - Deluxe",
+        "url": "https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "AATALAIAA",
-          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 196967,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
+      "duration_ms": 206786,
+      "name": "Trabalho Duro - Deluxe",
+      "url": "https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -347,18 +343,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4WTA1GMzuqdtMsFSan3y7Q"
       },
       "artists": [
         {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "AATALAIAA",
+          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
         }
       ],
-      "duration_ms": 245807,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP"
+      "duration_ms": 196967,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Viv\u00e3o",
-      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Autenticidade",
+        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "Autenticidade",
+      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Autenticidade",
-        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 141678,
-      "name": "Autenticidade",
-      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
+      "duration_ms": 162272,
+      "name": "Viv\u00e3o",
+      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -535,6 +535,26 @@
       "duration_ms": 156000,
       "name": "Bem Maior",
       "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "N\u00e3o Tenha Medo",
+        "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 250158,
+      "name": "N\u00e3o Tenha Medo",
+      "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -599,26 +619,6 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "N\u00e3o Tenha Medo",
-        "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
-        }
-      ],
-      "duration_ms": 250158,
-      "name": "N\u00e3o Tenha Medo",
-      "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Mesma Miss\u00e3o",
+        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
+      },
+      "artists": [
+        {
+          "name": "RAMON EL BRABO",
+          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Mesma Miss\u00e3o",
+      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Vibe de Crente",
         "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 208116,
       "name": "Vibe de Crente",
       "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Mesma Miss\u00e3o",
-        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
-      },
-      "artists": [
-        {
-          "name": "RAMON EL BRABO",
-          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Mesma Miss\u00e3o",
-      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
+      },
+      "artists": [
+        {
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
       },
@@ -1223,22 +1243,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
+        "name": "Me Deixou Forte",
+        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
       },
       "artists": [
         {
-          "name": "Luna Garcez",
-          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
           "name": "Trindade Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
+      "duration_ms": 164102,
+      "name": "Me Deixou Forte",
+      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1267,46 +1291,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Me Deixou Forte",
-        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Me Deixou Forte",
-      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Aba Pai",
-        "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
-      },
-      "artists": [
-        {
-          "name": "Izza D",
-          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "Aba Pai",
-      "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Hard Rock",
         "url": "https://open.spotify.com/album/4Z2syJVMikkl5lvT3Q5UJB"
       },
@@ -1327,6 +1311,46 @@
       "duration_ms": 192250,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/3bS9A48v94gHwNhdejVjLH"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
+      },
+      "artists": [
+        {
+          "name": "Izza D",
+          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Aba Pai",
+      "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1359,30 +1383,6 @@
       "duration_ms": 117440,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Desenvolvimento",
+        "url": "https://open.spotify.com/album/7vK5vdVins3earh6Bi0BhA"
+      },
+      "artists": [
+        {
+          "name": "Diego Ddl",
+          "url": "https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5"
+        }
+      ],
+      "duration_ms": 127079,
+      "name": "Desenvolvimento",
+      "url": "https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Jesus Saves Bro",
         "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 169016,
       "name": "Jesus Saves Bro",
       "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Desenvolvimento",
-        "url": "https://open.spotify.com/album/7vK5vdVins3earh6Bi0BhA"
-      },
-      "artists": [
-        {
-          "name": "Diego Ddl",
-          "url": "https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5"
-        }
-      ],
-      "duration_ms": 127079,
-      "name": "Desenvolvimento",
-      "url": "https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj"
     },
     {
       "added_at": "2024-09-13 03:01:00",
