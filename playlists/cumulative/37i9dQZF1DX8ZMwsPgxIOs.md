@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: KAS:ST
 
-416 songs - 1 day 7 hr 30 min
+417 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Digeridoo \- Cr7E Version](https://open.spotify.com/track/2Ujum3PkQL0x3QMnGoJGPf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo \(Expanded Edition\)](https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD) | 7:25 | 2024-06-07 |  |
 | [Digital Dream](https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Digital Dream](https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr) | 3:14 | 2024-01-19 | 2024-08-23 |
 | [Dirty Blonde](https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Dirty Blonde](https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb) | 3:27 | 2023-11-17 | 2024-08-23 |
+| [DIZZY](https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [DIZZY](https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny) | 3:17 | 2024-09-19 |  |
 | [Do It Jay](https://open.spotify.com/track/4lxdzHuXVHHERBzSXBw4t4) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Do It Jay](https://open.spotify.com/album/4jIO6CvX0UM6gYBMV9hhJH) | 4:10 | 2024-07-26 |  |
 | [Don't Hurt Me](https://open.spotify.com/track/1UptW89gc2ATGaWegfuSQV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Don't Hurt Me](https://open.spotify.com/album/5C9wrneIR28xvm1TpUQjJg) | 3:31 | 2023-03-14 | 2023-08-11 |
 | [Don't Stop](https://open.spotify.com/track/0BFA5NJfdlg5xvQ2w6Ulyc) | [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Don't Stop](https://open.spotify.com/album/4E2kGTJZNQ8ssgwz81Pg5y) | 4:08 | 2023-08-10 | 2024-04-05 |
@@ -182,7 +183,7 @@
 | [Icaro](https://open.spotify.com/track/6JNNe1WA9uv8lj1Aee19tY) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Icaro](https://open.spotify.com/album/3GFtkFekTHoeJ0QuKE2RsQ) | 4:15 | 2022-07-14 | 2022-10-14 |
 | [If I Die](https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Sky Scraping](https://open.spotify.com/album/6xsPCh9ptJbW0Qr0afy5L7) | 5:36 | 2022-04-15 | 2022-10-29 |
 | [Ignite](https://open.spotify.com/track/4DTIk73G5Eur9dGeIoZPPv) | [Ramu](https://open.spotify.com/artist/1UUitgHAhWlBTcwXTIQeYl) | [Ignite](https://open.spotify.com/album/3LIFa2bkZNXW5aQjIcae3U) | 6:08 | 2022-09-23 | 2023-04-05 |
-| [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-03-06 |  |
+| [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [In The Dark \(feat\. Maria Mathea\)](https://open.spotify.com/album/5T6MkcNfbHXM0GqxBTtprV) | 2:53 | 2024-03-06 | 2024-09-20 |
 | [In the Music](https://open.spotify.com/track/5oOhfB3RRSMfX9lfcizT8x) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Error in the System](https://open.spotify.com/album/47CmyOC2gshT2TMkvXuf3c) | 4:12 | 2024-03-15 |  |
 | [IN YOUR BLOOD \- Jessica Winter Remix](https://open.spotify.com/track/1l1KHnZUruHCJmTg9cM2CI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [IN YOUR BLOOD \(Remixes\)](https://open.spotify.com/album/29ENTVp1M01KZJuvMS0v9m) | 4:13 | 2022-04-15 | 2023-01-21 |
 | [Inside My Head](https://open.spotify.com/track/3MFwdV9DU2hnMqnFupb7yl) | [ANU](https://open.spotify.com/artist/1sWiTvDqck2OJDffcKK7Vy) | [Inside My Head](https://open.spotify.com/album/3TOiMFIAIKraCdeFXmSUHW) | 6:55 | 2023-10-13 | 2024-04-12 |

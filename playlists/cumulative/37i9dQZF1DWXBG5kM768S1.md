@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-240 songs - 15 hr 21 min
+241 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [I huset med deg](https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I huset med deg](https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU) | 3:23 | 2022-05-26 | 2023-01-23 |
 | [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 | 2022-10-25 |
 | [Ikke deg](https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt), [Magnus Grønneberg](https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM) | [Mellom disse 4 vegger](https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt) | 4:28 | 2021-12-16 | 2022-07-23 |
-| [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 |  |
+| [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 | 2024-09-20 |
 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 | 2021-12-16 |  |
 | [Ingenting å vera redd for](https://open.spotify.com/track/7pmF7HqeZveCXowtrBztY3) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ingenting å vera redd for](https://open.spotify.com/album/6bbyexRUsOZT7ePde0wtjv) | 3:43 | 2023-06-01 | 2023-10-20 |
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
@@ -178,6 +178,7 @@
 | [Når månen lyser](https://open.spotify.com/track/0w9NPRolxSnW7eynjqeZp9) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy), [Thorbjørn Harr](https://open.spotify.com/artist/00WEn86i8SDGAa8sIfahSc) | [Når månen lyser](https://open.spotify.com/album/4TKYxUXC59kwiH7NFDYMRk) | 4:27 | 2022-03-23 | 2022-04-14 |
 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 | 2024-09-12 |  |
 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 | 2021-12-16 | 2023-04-28 |
+| [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-09-19 |  |
 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 | 2022-11-10 | 2024-04-19 |
 | [Redd](https://open.spotify.com/track/2ZikOJpA45bvLutp9TPUnQ) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Redd](https://open.spotify.com/album/72gvnfqRiyzp7kafOsxF1w) | 4:25 | 2023-05-25 | 2023-10-13 |
 | [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 | 2024-02-16 |

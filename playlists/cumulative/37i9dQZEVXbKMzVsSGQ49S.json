@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 128196,
       "name": "Augnablik (feat. BR\u00cdET)",
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -6594,6 +6594,24 @@
       "duration_ms": 113798,
       "name": "Cold Foam",
       "url": "https://open.spotify.com/track/1kaQnHfgnOK1PpsJSSSDbb"
+    },
+    {
+      "album": {
+        "name": "Cold Hand",
+        "url": "https://open.spotify.com/album/7LnX3usMA9gcY4sUKZ5mKS"
+      },
+      "artists": [
+        {
+          "name": "3rd Silhouette",
+          "url": "https://open.spotify.com/artist/6Smw2hDxbeBKc6rZD3y5SS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Cold Hand",
+      "url": "https://open.spotify.com/track/3MclwVvybga2OIp4OBhsr2"
     },
     {
       "album": {
@@ -15320,7 +15338,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 326824,
       "name": "Hat Tricks",
       "url": "https://open.spotify.com/track/54fAjEn4Zq5C6uZsmHlSGd"
@@ -21526,7 +21544,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 198120,
       "name": "Lifa af",
       "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
@@ -27284,7 +27302,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178157,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5jLc9yN9usPRRJxF6f0koQ"
@@ -35290,7 +35308,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 250270,
       "name": "SUNO",
       "url": "https://open.spotify.com/track/7dBnhd4wiSMfydFuRZAcpe"
@@ -41890,7 +41908,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 149475,
       "name": "Your Love - English Remix",
       "url": "https://open.spotify.com/track/3hGgERFoJB6CqSeZmHX5wC"

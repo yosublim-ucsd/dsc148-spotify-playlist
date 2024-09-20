@@ -2,7 +2,7 @@
 
 ### [This Is Herencia de Patrones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12bL5t)
 
-> This Is Herencia de Patrones\. Los temas esenciales, todos en una lista.
+> This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
 77 songs - 4 hr 3 min
 

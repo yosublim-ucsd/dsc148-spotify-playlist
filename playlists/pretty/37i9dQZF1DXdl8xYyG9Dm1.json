@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: A-Reece",
-  "num_followers": 158174,
+  "num_followers": 158220,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -715,42 +715,6 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
-        "name": "Gbagada Express Vol 2: Moving Mad",
-        "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 152947,
-      "name": "No Option",
-      "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
         "name": "Honne - Remix",
         "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 176684,
       "name": "Honne - Remix",
       "url": "https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
+        "name": "Gbagada Express Vol 2: Moving Mad",
+        "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 152947,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
         }
       ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+      "duration_ms": 185641,
+      "name": "Bluff",
+      "url": "https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -927,6 +927,38 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -963,22 +995,6 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
         "name": "Evil Twin",
         "url": "https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 185641,
-      "name": "Bluff",
-      "url": "https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
-        "name": "Shame On You",
-        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 186796,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
         "name": "Guy Man",
         "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186796,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
+        "name": "Gwara Gwara",
+        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Gwara Gwara",
+      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
+    },
+    {
+      "added_at": "2024-09-16 11:06:19",
+      "album": {
         "name": "Before the Smoke",
         "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
@@ -1211,18 +1227,22 @@
     {
       "added_at": "2024-09-16 11:06:19",
       "album": {
-        "name": "Gwara Gwara",
-        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+        "name": "BAD TILL ETERNITY (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
       },
       "artists": [
         {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Gwara Gwara",
-      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
+      "duration_ms": 173333,
+      "name": "BAD TILL ETERNITY (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
     },
     {
       "added_at": "2024-09-16 11:06:19",
@@ -1259,26 +1279,6 @@
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
-    },
-    {
-      "added_at": "2024-09-16 11:06:19",
-      "album": {
-        "name": "BAD TILL ETERNITY (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "BAD TILL ETERNITY (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
     },
     {
       "added_at": "2024-09-16 11:06:19",

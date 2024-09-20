@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 381794,
       "name": "Anybody Out There - Mike Dunn Back On 63rd & Artesian Remix",
       "url": "https://open.spotify.com/track/2l2OGD5cDQ32hU26JFercz"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 316097,
       "name": "Baby Voque",
       "url": "https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ"
@@ -5527,6 +5527,54 @@
     },
     {
       "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/26wa33YnxTb3bmaig0U2ZD"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        },
+        {
+          "name": "Nila",
+          "url": "https://open.spotify.com/artist/1TSMEmfhW3tiPIjoYVusGY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/7ikaNXd2hseoALG4yu0rsy"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4373aVvMFGwgsfPvwhIYQI"
+      },
+      "artists": [
+        {
+          "name": "Stevie Krash",
+          "url": "https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry"
+        },
+        {
+          "name": "Shawnee Taylor",
+          "url": "https://open.spotify.com/artist/5sicJtm0vC2wbv3RFNOqRU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/7ooZUCfM5y7UlYdeuocpup"
+    },
+    {
+      "album": {
         "name": "Love in Rio",
         "url": "https://open.spotify.com/album/2A7sVIi7t7EiJYZdnIAXcE"
       },
@@ -6992,6 +7040,24 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf"
     },
     {
       "album": {
@@ -10362,7 +10428,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 200000,
       "name": "With You",
       "url": "https://open.spotify.com/track/0OPodBWCYqqijUbmkv75fK"

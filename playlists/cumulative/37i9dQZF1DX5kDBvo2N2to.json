@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188643,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 153165,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189546,
       "name": "GALAXER",
       "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201153,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
+    },
+    {
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178701,
       "name": "I HATE IT!",
       "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159250,
       "name": "Jackrabbit",
       "url": "https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM"
@@ -1583,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Louise",
+        "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
       },
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161474,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg"
@@ -1616,6 +1652,28 @@
       "duration_ms": 150170,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+    },
+    {
+      "album": {
+        "name": "Lover Online",
+        "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "Lover Online",
+      "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
     },
     {
       "album": {
@@ -1652,6 +1710,28 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
+        "name": "Lupins In Blue - Harry Hayes Remix",
+        "url": "https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        },
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177416,
+      "name": "Lupins In Blue - Harry Hayes Remix",
+      "url": "https://open.spotify.com/track/33gniadkmUayASOPuTQnLb"
     },
     {
       "album": {
@@ -1821,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Speglarna mot solen",
+        "url": "https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U"
+      },
+      "artists": [
+        {
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Molnen",
+      "url": "https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv"
+    },
+    {
+      "album": {
         "name": "Moonlight, Are You Listening Now?",
         "url": "https://open.spotify.com/album/3h2ezfDowgqaCdaZQDs2Zi"
       },
@@ -1886,7 +1984,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 199683,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
@@ -2095,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "P\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "P\u00e5 v\u00e4g",
+      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
+    },
+    {
+      "album": {
         "name": "Ramlar jag s\u00e5 faller allt",
         "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
       },
@@ -2182,6 +2298,24 @@
       "duration_ms": 176396,
       "name": "Right?",
       "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
+    },
+    {
+      "album": {
+        "name": "Rock'n'Roll",
+        "url": "https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK"
+      },
+      "artists": [
+        {
+          "name": "MELVIN",
+          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159661,
+      "name": "Rock'n'Roll",
+      "url": "https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE"
     },
     {
       "album": {
@@ -2329,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "album": {
         "name": "Spacer (Reimagined)",
         "url": "https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q"
       },
@@ -2344,6 +2496,24 @@
       "duration_ms": 188433,
       "name": "Spacer (Reimagined)",
       "url": "https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK"
+    },
+    {
+      "album": {
+        "name": "Spot a Fake",
+        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167621,
+      "name": "Spot a Fake",
+      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
       "album": {
@@ -2380,7 +2550,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 122758,
       "name": "STILL",
       "url": "https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq"
@@ -2456,6 +2626,24 @@
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
+    },
+    {
+      "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "album": {
@@ -2702,7 +2890,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 157031,
       "name": "Utan Dig (oh nej)",
       "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"

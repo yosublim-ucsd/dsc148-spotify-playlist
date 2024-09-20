@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 251293,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x"
@@ -5482,6 +5482,24 @@
       "duration_ms": 199946,
       "name": "If I were rich",
       "url": "https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp"
+    },
+    {
+      "album": {
+        "name": "IN MY DREAM (Original Soundtrack from the Webtoon 'Reincarnator')",
+        "url": "https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "IN MY DREAM",
+      "url": "https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6"
     },
     {
       "album": {

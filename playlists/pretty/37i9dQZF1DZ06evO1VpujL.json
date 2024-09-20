@@ -1,12 +1,12 @@
 {
-  "description": "This is Skindred. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 24988,
+  "description": "This is Skindred. The essential tracks, all in one playlist.",
+  "num_followers": 24997,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACNyLTKU6DoroCNiOX+L48m",
+  "snapshot_id": "ZuoYAAAAAACklqa8lvBKjfomw81TKLU1",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 217061,
-      "name": "Volume",
-      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
+      "duration_ms": 244769,
+      "name": "Under Attack",
+      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 244769,
-      "name": "Under Attack",
-      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+      "duration_ms": 217061,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
     },
     {
       "added_at": null,
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 232378,
-      "name": "Ruling Force",
-      "url": "https://open.spotify.com/track/0sasXDgZKE2bfltieFtX9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shark Bites and Dog Fights",
-        "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
+      "duration_ms": 282608,
+      "name": "Open Eyed",
+      "url": "https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 250706,
       "name": "Rude Boy for Life",
       "url": "https://open.spotify.com/track/05EzecjpumhZhpMXAkGFZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shark Bites and Dog Fights",
+        "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 282608,
-      "name": "Open Eyed",
-      "url": "https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO"
+      "duration_ms": 232378,
+      "name": "Ruling Force",
+      "url": "https://open.spotify.com/track/0sasXDgZKE2bfltieFtX9T"
     },
     {
       "added_at": null,

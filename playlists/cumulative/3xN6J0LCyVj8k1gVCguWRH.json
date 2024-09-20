@@ -21531,6 +21531,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3ByY2aAABrEwPf61Ex7zT0"
+      },
+      "artists": [
+        {
+          "name": "Sladek",
+          "url": "https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Feel it",
+      "url": "https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd"
+    },
+    {
+      "album": {
         "name": "Feel Like Home",
         "url": "https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx"
       },
@@ -32888,6 +32906,24 @@
       "duration_ms": 229991,
       "name": "In The Middle of The Game",
       "url": "https://open.spotify.com/track/2Pb1PyhmGAuQPl6Vk9MxlH"
+    },
+    {
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/1ei39QNC7IxOd8wVSEhCBA"
+      },
+      "artists": [
+        {
+          "name": "Bradley Denniston",
+          "url": "https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/4oGvFg5XEGVoyJ4vMyy1db"
     },
     {
       "album": {
@@ -67668,6 +67704,24 @@
       "duration_ms": 226333,
       "name": "Tumbling Dice",
       "url": "https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i"
+    },
+    {
+      "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/0CnUuDUZlurypPr7t9ukNr"
+      },
+      "artists": [
+        {
+          "name": "Orbit 17",
+          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211894,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/67KIcqIxHXdEeDzGzrws88"
     },
     {
       "album": {

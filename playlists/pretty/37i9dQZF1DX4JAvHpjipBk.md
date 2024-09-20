@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tate McRae, The Weeknd, Teddy Swims, Eminem & 2 Chainz, FKA twigs, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219,681 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,219,979 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 12 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 13 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 |
 | 14 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |
-| 15 | [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 |
+| 15 | [Model, Actress, Whatever](https://open.spotify.com/track/4wjE62bHELzlZvE52cxMfL) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:32 |
 | 16 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 |
 | 17 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \- Deluxe](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 18 | [Silverado Blue](https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Silverado Blue](https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv) | 3:03 |

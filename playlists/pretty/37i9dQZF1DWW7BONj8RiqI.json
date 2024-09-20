@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 214106,
+  "num_followers": 214167,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -711,7 +711,7 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "King Bubba Mashup Volume 1",
+        "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
@@ -722,6 +722,10 @@
         {
           "name": "Lil Rick",
           "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        },
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
         }
       ],
       "duration_ms": 159013,

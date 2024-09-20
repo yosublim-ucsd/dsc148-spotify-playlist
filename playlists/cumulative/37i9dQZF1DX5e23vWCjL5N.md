@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-190 songs - 10 hr 3 min
+193 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [CRINGE](https://open.spotify.com/track/0QdLe32rmGquRDdALuY92Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:12 | 2023-11-02 | 2024-03-01 |
 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 | 2024-03-29 |
+| [DOLCEVITA](https://open.spotify.com/track/3aSeeZMwVQViHVXHXWPMc4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 |  |
 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 | 2022-04-15 |  |
 | [Doppia Personalità](https://open.spotify.com/track/6tFtSEKQN6WHRhfhZfABKD) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:55 | 2024-03-29 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-15 | 2024-04-19 |
@@ -78,6 +79,7 @@
 | [Fredda, Triste, Pericolosa \(feat\. Franco126\)](https://open.spotify.com/track/3ZoM03sEG6GR213z2cqYzO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:51 | 2022-04-15 | 2022-06-10 |
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-13 |  |
 | [GHIGLIOTTINA \- feat\. Noyz Narcos](https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:06 | 2022-04-15 | 2023-12-15 |
+| [GIORNO DA CANI](https://open.spotify.com/track/6PymaOhiUiB7XwPJ4wld14) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:37 | 2024-09-19 |  |
 | [Goal \(feat\. MadMan\)](https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:09 | 2023-12-14 | 2024-03-01 |
 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-04-15 | 2022-08-23 |
 | [HATTORI HANZO \(feat\. Madame\)](https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:46 | 2024-03-07 |  |
@@ -125,6 +127,7 @@
 | [Malafede](https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:48 | 2024-01-12 |  |
 | [Mare Calmo](https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 | 2024-05-23 |  |
 | [MeryXSempre \(feat\. Shiva\)](https://open.spotify.com/track/4n5omnB5GcKuHhkVZWv1Ih) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 3:49 | 2024-06-27 |  |
+| [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 |  |
 | [MI SENTO BENE](https://open.spotify.com/track/2v4kWcQ7LWML8TEQmLDAEO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:03 | 2022-04-15 | 2024-01-12 |
 | [Millesimati \(con Noyz Narcos, Lazza, Salmo & J Lord\)](https://open.spotify.com/track/3E0PSVpSR5zk1X75gGh99o) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:48 | 2022-09-15 | 2023-02-03 |
 | [Momenti No](https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:12 | 2023-11-17 |  |

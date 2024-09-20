@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203771,
+      "name": "DOLCEVITA",
+      "url": "https://open.spotify.com/track/3aSeeZMwVQViHVXHXWPMc4"
+    },
+    {
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
@@ -1582,6 +1600,24 @@
       "duration_ms": 186733,
       "name": "GHIGLIOTTINA - feat. Noyz Narcos",
       "url": "https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "GIORNO DA CANI",
+      "url": "https://open.spotify.com/track/6PymaOhiUiB7XwPJ4wld14"
     },
     {
       "album": {
@@ -2568,6 +2604,28 @@
       "duration_ms": 229333,
       "name": "MeryXSempre (feat. Shiva)",
       "url": "https://open.spotify.com/track/4n5omnB5GcKuHhkVZWv1Ih"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
     },
     {
       "album": {

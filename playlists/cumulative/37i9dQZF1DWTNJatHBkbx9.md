@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Pure Akan
+> From the alternative scene in Ghana\. Cover: Baaba J, Juls and Oladapo
 
-117 songs - 5 hr 41 min
+118 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 | 2024-05-10 |  |
 | [ADRENALINE](https://open.spotify.com/track/4Oj4eDrQ1eDlWpkLIcEoG2) | [MikeMillzOn'em](https://open.spotify.com/artist/0KxeVhcuq9PzbLgeOeVelN), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [ADRENALINE](https://open.spotify.com/album/4yowgzfnrRmA8yvkuqfPHh) | 2:39 | 2024-09-06 |  |
 | [Agoro](https://open.spotify.com/track/5JemrWFhAJqMgVp2nli7ly) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Agoro](https://open.spotify.com/album/02tQEc4LhQ8O18IIx5p3Yr) | 2:12 | 2024-07-05 | 2024-09-13 |
+| [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2024-05-10 |  |
 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 | 2024-05-10 | 2024-07-12 |
 | [Ascension](https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Ascension](https://open.spotify.com/album/6tXOMXO3H2JD4ZOqcEw0SB) | 2:18 | 2024-05-10 | 2024-05-18 |
@@ -70,7 +71,7 @@
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
 | [Mo Ko B3](https://open.spotify.com/track/3RnB63aGFq0jhOKMJ5RzvT) | [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Mo Ko B3](https://open.spotify.com/album/0A97D5dehZVdHdf2sTuMRc) | 3:03 | 2024-09-13 |  |
-| [Monsta Alta](https://open.spotify.com/track/5zkgUfmNAGU92kQXya07xJ) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [Trapp king](https://open.spotify.com/artist/3n1WCNSs8qTvDTa2WCoyRW) | [Monsta Alta](https://open.spotify.com/album/1QyTeg2mHlSK0XLMtMveJb) | 3:44 | 2024-09-06 |  |
+| [Monsta Alta](https://open.spotify.com/track/5zkgUfmNAGU92kQXya07xJ) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [Trapp king](https://open.spotify.com/artist/3n1WCNSs8qTvDTa2WCoyRW) | [Monsta Alta](https://open.spotify.com/album/1QyTeg2mHlSK0XLMtMveJb) | 3:44 | 2024-09-06 | 2024-09-20 |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 |  |
 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
 | [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 |  |

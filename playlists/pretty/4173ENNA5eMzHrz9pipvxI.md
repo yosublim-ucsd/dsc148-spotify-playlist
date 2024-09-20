@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,184 likes - 22 songs - 59 min 29 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,189 likes - 33 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,16 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 20 | [SHADY \(Side Of The Moon\)](https://open.spotify.com/track/6gW0R1YE6L8rHB9b0SnCFq) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [SHADY \(Side Of The Moon\)](https://open.spotify.com/album/2zBbEyeVF6mHL4mZDtKxAY) | 2:23 |
 | 21 | [Moves](https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL) | [Taurus](https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K) | [Moves](https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG) | 3:01 |
 | 22 | [We Don’t Need](https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:36 |
+| 23 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
+| 24 | [Monaco \(Live Acoustic\)](https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco \(Live Acoustic\)](https://open.spotify.com/album/1KRdnsgZNQnqDV9Agt4bEG) | 3:09 |
+| 25 | [Dominvs](https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh) | [Raffaele Del Zingaro](https://open.spotify.com/artist/7H5kcgVjOBdswviEpDMNgF), [Jumphertz](https://open.spotify.com/artist/0I91neoDzmKeuzbXTJwCW5) | [Dominvs](https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R) | 3:02 |
+| 26 | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz) | 2:33 |
+| 27 | [Knock](https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx) | [Lion](https://open.spotify.com/artist/047UnCFE2OuyfRR2kx0o5j), [Cosmo](https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE), [Crasca](https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx) | [Knock](https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a) | 2:38 |
+| 28 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG) | [Weekend Wonders](https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/3RAfb3xCWXRVo9m77hFwqQ) | 2:37 |
+| 29 | [Chan Chan](https://open.spotify.com/track/1I5gFwsDUOcIJoz0sdfHAs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Chan Chan](https://open.spotify.com/album/0JrTNFTEiCBo2UPKtgMSHQ) | 2:45 |
+| 30 | [Favorite Mistakes \(feat\. Victoria Nadine\) \[HEDEGAARD VIP Mix\]](https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes \(feat\. Victoria Nadine\) \[VIP Mixes\]](https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA) | 2:30 |
+| 31 | [Hours and Hours \- Dropack Remix](https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Dropack](https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg) | [Hours and Hours \(Remixes\)](https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU) | 4:48 |
+| 32 | [Hours and Hours \- Parallel Lines Remix](https://open.spotify.com/track/5HJp6xSFqoANcH1i6UHaWI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Parallel Lines](https://open.spotify.com/artist/7fnYvZsEKXKoJtnsu7mgnU) | [Hours and Hours \(Remixes\)](https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU) | 4:43 |
+| 33 | [Hours and Hours \- Sonnero Remix](https://open.spotify.com/track/0vdOEq5yJhtNrpzn2Tx8Xl) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Sonnero](https://open.spotify.com/artist/1UCmm2m2khcmuvzJ0tuqBU) | [Hours and Hours \(Remixes\)](https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU) | 3:55 |
 
-Snapshot ID: `AAAeAAu2FzLfCeXzQZ0j8zCrq9k2QTJV`
+Snapshot ID: `AAAeCeDFD5G0E44AX9XEtfq3D/rytF87`

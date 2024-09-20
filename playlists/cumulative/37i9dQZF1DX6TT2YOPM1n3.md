@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> We don't gatekeep our Pakistani Hits list, very demure, very mindful\. 🇵🇰 Cover: Annural Khalid, Maanu
+> Check out the OG Hitmaker's new album right here\. Cover: Nusrat Fateh Ali Khan
 
-160 songs - 10 hr 25 min
+164 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2AM](https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [2AM](https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq) | 5:02 | 2024-04-20 |  |
 | [4AM in Karachi](https://open.spotify.com/track/1hprJ4nFW7lyQbyi7RQnNj) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 3:28 | 2023-05-04 |  |
 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 | 2023-11-29 |  |
+| [Aaj Sik Mitran Di](https://open.spotify.com/track/4gi7LbinDneJksWZT3ce8o) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 9:58 | 2024-09-20 |  |
 | [Aaja We Mahiya](https://open.spotify.com/track/5MoJ3MVKGGf25LxrFoxDSK) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 | 2024-04-19 |
 | [Aaja We Mahiya](https://open.spotify.com/track/75Ak0cit8hV604Wjlq1gf2) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Aaja We Mahiya](https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok) | 3:52 | 2023-05-04 |  |
 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 | 2023-05-04 | 2023-11-30 |
@@ -93,6 +94,7 @@
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-29 | 2024-06-15 |
 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-24 | 2024-09-10 |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-24 | 2023-05-31 |
+| [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 | 2024-09-20 |  |
 | [Kyun](https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Kyun](https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18) | 3:42 | 2024-01-19 | 2024-01-26 |
 | [Kyun](https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Kyun](https://open.spotify.com/album/4Tw4sujoJDZCu2gKKQS6Ak) | 3:25 | 2023-05-04 | 2023-12-22 |
 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 | 2023-07-31 | 2024-08-10 |
@@ -163,6 +165,8 @@
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-11 |  |
 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 | 2023-05-04 | 2023-12-30 |
 | [Woh Lamhe \- Remix](https://open.spotify.com/track/723pP4FLUQv1qSAnQtgl78) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 | 2023-05-04 | 2023-05-23 |
+| [Ya Allah Ya Rehman](https://open.spotify.com/track/7MXYMRDNVXJg9euepwFmpS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 10:47 | 2024-09-20 |  |
+| [Ya Gaus Ya Meeran](https://open.spotify.com/track/6cA7JGt2iP1Euus9ArO9IF) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 9:32 | 2024-09-20 |  |
 | [Yaadein Teri](https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri) | [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF) | [Yaadein Teri](https://open.spotify.com/album/1HFEZH0LEZnjjfatiYUvb8) | 4:04 | 2023-12-21 |  |
 | [Yaar Di Akh](https://open.spotify.com/track/2FNmlA73WxtL50tt02nO2o) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Yaar Di Akh](https://open.spotify.com/album/4bw3hIEEPoVU1hhRFuszyl) | 3:54 | 2024-06-21 | 2024-08-10 |
 | [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |

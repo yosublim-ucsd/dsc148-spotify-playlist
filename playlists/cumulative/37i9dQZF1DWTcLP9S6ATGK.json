@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Abeliano",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Eclat Story",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -475,6 +475,50 @@
     },
     {
       "album": {
+        "name": "Bintang Cahaya",
+        "url": "https://open.spotify.com/album/4fQUIAiCWb9KThUR7bm1G9"
+      },
+      "artists": [
+        {
+          "name": "Langit Sore",
+          "url": "https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj"
+        },
+        {
+          "name": "Cacha Scholastica",
+          "url": "https://open.spotify.com/artist/4lA0kkdCi2U5KxSq49dvMO"
+        },
+        {
+          "name": "GFRN",
+          "url": "https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Bintang Cahaya",
+      "url": "https://open.spotify.com/track/2zipmLRR46pFWwBfsAzytp"
+    },
+    {
+      "album": {
+        "name": "Boleh Merindu",
+        "url": "https://open.spotify.com/album/16tWz380soVodMC5yN9la7"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Boleh Merindu",
+      "url": "https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC"
+    },
+    {
+      "album": {
         "name": "Bukan Akhir Dunia",
         "url": "https://open.spotify.com/album/2hiIxjEddgdbFY21qAaLyp"
       },
@@ -687,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Cinta Telah Usai",
+        "url": "https://open.spotify.com/album/5CphNJezqgKjn5ajz01z1x"
+      },
+      "artists": [
+        {
+          "name": "SAGARA",
+          "url": "https://open.spotify.com/artist/4jNgtIpdEFi39M9NL21Rj4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229151,
+      "name": "Cinta Telah Usai",
+      "url": "https://open.spotify.com/track/0PY8w6wMuS4vbSctfQNRZu"
+    },
+    {
+      "album": {
         "name": "CINTA TERSAKITI",
         "url": "https://open.spotify.com/album/0WnG6bvjd3Wmj9ce7PVqNK"
       },
@@ -720,6 +782,24 @@
       "duration_ms": 222528,
       "name": "Coba Waras",
       "url": "https://open.spotify.com/track/344ViraxBQJZBYOmq8G0wt"
+    },
+    {
+      "album": {
+        "name": "Curang",
+        "url": "https://open.spotify.com/album/7iwxV82w0sFhJz2nTpPWcm"
+      },
+      "artists": [
+        {
+          "name": "Eclat Story",
+          "url": "https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255501,
+      "name": "Curang",
+      "url": "https://open.spotify.com/track/7LxL3sdDcx56QX7nmCYCUb"
     },
     {
       "album": {
@@ -1259,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Jangan Jangan Kau Bidadari",
+        "url": "https://open.spotify.com/album/0RT8RZhsMCPo90JSHiNlWL"
+      },
+      "artists": [
+        {
+          "name": "Reygi",
+          "url": "https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238536,
+      "name": "Jangan Jangan Kau Bidadari",
+      "url": "https://open.spotify.com/track/1TLA39nvqFHGrqQNopBH1S"
+    },
+    {
+      "album": {
         "name": "Jatuh Lagi / Benci Lagi",
         "url": "https://open.spotify.com/album/3y6g0Y2gOOSlR8UxSTDRPH"
       },
@@ -1548,6 +1646,24 @@
       "duration_ms": 250000,
       "name": "Kekasih Seseorang - Kotakustik",
       "url": "https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH"
+    },
+    {
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/0E03zjmCULVZbWWEuJaAIc"
+      },
+      "artists": [
+        {
+          "name": "bedacerita.",
+          "url": "https://open.spotify.com/artist/2LrbX4xyxtkwC0LLqsXqOP"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255142,
+      "name": "Kembali",
+      "url": "https://open.spotify.com/track/59OWkgz8gCVcPPsH6Q7Cki"
     },
     {
       "album": {
@@ -1902,6 +2018,24 @@
       "duration_ms": 213380,
       "name": "Malam Tolong Sampaikan",
       "url": "https://open.spotify.com/track/6SgC81ohpNeR4Mxne8B3Oh"
+    },
+    {
+      "album": {
+        "name": "Mampu Tanpamu",
+        "url": "https://open.spotify.com/album/6h7LAAl1qoL3gO94ewlEHP"
+      },
+      "artists": [
+        {
+          "name": "Ongky Muntazar",
+          "url": "https://open.spotify.com/artist/3kaNdtI2vRruVrlUxtJPnc"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257143,
+      "name": "Mampu Tanpamu",
+      "url": "https://open.spotify.com/track/1z49jujlAN8qOAa1edC2Qx"
     },
     {
       "album": {
@@ -2407,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Pergi",
+        "url": "https://open.spotify.com/album/4TpRSDXW8CBVTDyqOi1S4Z"
+      },
+      "artists": [
+        {
+          "name": "Abirama",
+          "url": "https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263221,
+      "name": "Pergi",
+      "url": "https://open.spotify.com/track/6TduHSqJfQwyX83s9ZpuJJ"
+    },
+    {
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea"
       },
@@ -2743,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Sekali Lagi (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1nzyOn5QdhtbDsntabh2GR"
+      },
+      "artists": [
+        {
+          "name": "Ipang Lazuardi",
+          "url": "https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216712,
+      "name": "Sekali Lagi (Acoustic Version)",
+      "url": "https://open.spotify.com/track/74HFamRUkhrhO3wqOptwGQ"
+    },
+    {
+      "album": {
         "name": "Sekarang Esok Selamanya - From \"Laura Movie\"",
         "url": "https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV"
       },
@@ -2918,6 +3088,24 @@
       "duration_ms": 213043,
       "name": "Senja Kala Itu",
       "url": "https://open.spotify.com/track/0I0oskzM8APHsjHeccZwnc"
+    },
+    {
+      "album": {
+        "name": "Senyumannya Tutupi Semua Lelah",
+        "url": "https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Senyumannya Tutupi Semua Lelah",
+      "url": "https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC"
     },
     {
       "album": {
@@ -3246,6 +3434,24 @@
       "duration_ms": 136170,
       "name": "Terima Kasih Guruku (Guruku Tersayang)",
       "url": "https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG"
+    },
+    {
+      "album": {
+        "name": "Egen",
+        "url": "https://open.spotify.com/album/6N1kgnyxQta615KlcCjNMD"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Terima Kasih, Masih Disini",
+      "url": "https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAh8aanJEZiuIYsVoRWpJDWcFNf1oG",
+  "snapshot_id": "AAAAi7OQLVAvjQblNjeEE7s1NVp21vSl",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -1675,6 +1675,70 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2024-09-19 02:42:32",
+      "album": {
+        "name": "Waterloo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "My Mama Said",
+      "url": "https://open.spotify.com/track/7IHKr96kTrygmAoLyu4zMw"
+    },
+    {
+      "added_at": "2024-09-19 04:23:42",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "added_at": "2024-09-19 06:35:01",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/32SHYXEJZkpsnJkcggucM0"
+    },
+    {
+      "added_at": "2024-09-19 10:52:01",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     }
   ],
   "unique_name": "Questionable Bops",

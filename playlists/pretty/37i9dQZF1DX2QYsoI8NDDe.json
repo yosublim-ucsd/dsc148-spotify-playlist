@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Adriana Rios",
-  "num_followers": 488825,
+  "num_followers": 488831,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 213713,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Compa\u00f1era Presidenta",
         "url": "https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 204453,
       "name": "Compa\u00f1era Presidenta",
       "url": "https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 213713,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Diosas en Texas",
-        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Si Dej\u00f3 de Quererte",
         "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 200864,
       "name": "Si Dej\u00f3 de Quererte",
       "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Diosas en Texas",
+        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Anitta \"Fresita\"",
-        "url": "https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5"
-      },
-      "artists": [
-        {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Anitta \"Fresita\"",
-      "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 224160,
       "name": "La Casa de la Esquina",
       "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Anitta \"Fresita\"",
+        "url": "https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Anitta \"Fresita\"",
+      "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
     },
     {
       "added_at": "2024-09-13 04:00:00",

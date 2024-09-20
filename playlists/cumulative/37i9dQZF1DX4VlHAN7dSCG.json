@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: TRASH",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u8292\u679c\u91ac (Mango Jump)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177000,
       "name": "Call Ken",
       "url": "https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151333,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 208951,
       "name": "Take Me To Beijing (\u4e00\u8d77\u56de\u5317\u4eac)",
       "url": "https://open.spotify.com/track/1tUkBgIuQcMvRnM0cYcYtp"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 107608,
       "name": "\u2f8f\u52d5\u5351\u9119",
       "url": "https://open.spotify.com/track/4dUhl2o7pSjrnSsp34C9Rb"
@@ -1002,6 +1002,28 @@
       "duration_ms": 197049,
       "name": "\u4e0d\u559c\u6b22\u5c31\u8bf7\u76f4\u8bf4",
       "url": "https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u6015\u661f\u671f\u4e00 (\u5287\u96c6\u300a\uff38\uff01\u53c8\u662f\u661f\u671f\u4e00\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4Dt3mf3Jw2G4TC0uOioVOB"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        },
+        {
+          "name": "KAXA",
+          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "\u4e0d\u6015\u661f\u671f\u4e00 - \u5287\u96c6\u300a\uff38\uff01\u53c8\u662f\u661f\u671f\u4e00\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7CofNNrb1x3tqzHYqG160F"
     },
     {
       "album": {
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 202666,
       "name": "\u53ea\u5269\u5e7e\u5206\u9418",
       "url": "https://open.spotify.com/track/6PO5Xm1gNhJXm0fcBDKIaB"
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 218216,
       "name": "\u5728\u4f60\u751f\u547d\u7684\u6bcf\u500b\u89d2\u843d",
       "url": "https://open.spotify.com/track/2v3deBGfWOQGCNUKoeECFJ"
@@ -1620,6 +1642,28 @@
       "duration_ms": 152160,
       "name": "\u597d\u4f73\u54c9 (\u96fb\u8996\u5287\u300a\u6211\u7684\u610f\u5916\u5ba4\u53cb\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/63aeX1gAvMtrNhYmTFkPFI"
+    },
+    {
+      "album": {
+        "name": "\u597d\u71b1 (\u65c5\u904a\u5be6\u5883\u79c0\u300a\u9019\u7fa4\u4eba\u5728\u65c5\u884c-\u6cf0\u570b\u7279\u5225\u7bc7\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/3DcAJY5SlE3R3n0uduA7UI"
+      },
+      "artists": [
+        {
+          "name": "K.R Bros",
+          "url": "https://open.spotify.com/artist/72WakvmGJc8irwTVQKxPKV"
+        },
+        {
+          "name": "China Dolls X",
+          "url": "https://open.spotify.com/artist/7L8DsIWen99QDQHaG6mUhH"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225405,
+      "name": "\u597d\u71b1 (\u65c5\u904a\u5be6\u5883\u79c0\u300a\u9019\u7fa4\u4eba\u5728\u65c5\u884c-\u6cf0\u570b\u7279\u5225\u7bc7\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2cqWvMsH3V8zn5rvgvYxRi"
     },
     {
       "album": {
@@ -1847,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "\u60f3\u548c\u4f60",
+      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "album": {
         "name": "\u7121\u5922\u5c11\u5e74\u5bb6",
         "url": "https://open.spotify.com/album/0ktLLIyhP08UcjoaKq5os2"
       },
@@ -1948,7 +2010,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 210000,
       "name": "\u6211\u5011\u8d70\u904e\u4eba\u6d77",
       "url": "https://open.spotify.com/track/20rxk836KPQ8TWAy39RYlh"
@@ -1984,7 +2046,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207875,
       "name": "\u6211\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa"
@@ -2229,6 +2291,42 @@
     },
     {
       "album": {
+        "name": "\u6708\u4eae",
+        "url": "https://open.spotify.com/album/41cJLVazodI1r4bm9jlpOz"
+      },
+      "artists": [
+        {
+          "name": "\u8292\u679c\u91ac Mango Jump",
+          "url": "https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "\u6708\u4eae",
+      "url": "https://open.spotify.com/track/72DMWUqA8F3gdcnMbSy3Q3"
+    },
+    {
+      "album": {
+        "name": "\u6708\u5149\u592a\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/3uVoYHb8qfCTTRShfi2vRY"
+      },
+      "artists": [
+        {
+          "name": "Four Pens",
+          "url": "https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "\u6708\u5149\u592a\u6eab\u67d4",
+      "url": "https://open.spotify.com/track/10bRM8r3J6EkT9U5kEotPm"
+    },
+    {
+      "album": {
         "name": "\u6709\u5565\u4eba\u77e5",
         "url": "https://open.spotify.com/album/3pgteXWyy1j7tVfHNTNKPI"
       },
@@ -2278,7 +2376,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 229491,
       "name": "\u6709\u7de3\u4f5c\u4f19(feat. EyeballRay, Macdella, SheATH, DREW & Yappy)",
       "url": "https://open.spotify.com/track/4fK3DKPcEXbMIJWCVrwOOb"
@@ -2361,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "\u51fa\u8d70\u73ab\u7470\u5c9b To RoseIsland",
+        "url": "https://open.spotify.com/album/6AYnRX4e43q0DXBrwG9Tul"
+      },
+      "artists": [
+        {
+          "name": "\u73ab\u7470\u5c9bRose Island",
+          "url": "https://open.spotify.com/artist/4ZV4L4Z3iSF0cIlzfrvpRj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217314,
+      "name": "\u6b4c\u5355\u91cc\u6700\u6e29\u67d4\u7684\u653e\u514b Gentle Funk",
+      "url": "https://open.spotify.com/track/1yqK95YlqCS7SPzxdOhkfF"
+    },
+    {
+      "album": {
         "name": "\u6b64\u6642\u6b64\u523b",
         "url": "https://open.spotify.com/album/6gyRZGBe9o2GlYoOe6jwBA"
       },
@@ -2390,7 +2506,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203043,
       "name": "\u6c34\u8c5a\u7537\u5b69",
       "url": "https://open.spotify.com/track/09cNV7lllmAw5WXuLjsYvu"
@@ -2694,7 +2810,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 343551,
       "name": "\u767d\u9be8",
       "url": "https://open.spotify.com/track/6w9CAbbOnJcCHS6s7ETM6o"
@@ -2871,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "\u81fa\u7063\u6587\u86e4 Huh?",
+        "url": "https://open.spotify.com/album/525cf7buiKibRJ9160tpg0"
+      },
+      "artists": [
+        {
+          "name": "A Root \u540c\u6839\u751f",
+          "url": "https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "\u81fa\u7063\u6587\u86e4 Huh?",
+      "url": "https://open.spotify.com/track/6X9nCVKtcG1DLvXhSE9EVo"
+    },
+    {
+      "album": {
         "name": "\u842c\u4e8b\u7f8e\u5999",
         "url": "https://open.spotify.com/album/5aA6tjSwLiGMWDPNx1PB9P"
       },
@@ -2954,7 +3088,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 248289,
       "name": "\u8981\u4e0d\u8981\u8ddf\u6211\u51fa\u53bb\u8d70\u4e00\u8d70",
       "url": "https://open.spotify.com/track/49SeRJ4VEEgYw46lFPQt3K"
@@ -2979,6 +3113,28 @@
     },
     {
       "album": {
+        "name": "\u8c6c\u809d\u9eb5\u7dda",
+        "url": "https://open.spotify.com/album/1SmUA7PZeycLin1nE5zMxw"
+      },
+      "artists": [
+        {
+          "name": "Whistle \u591c\u8427",
+          "url": "https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq"
+        },
+        {
+          "name": "\u591a\u3042\u7231\u68a6",
+          "url": "https://open.spotify.com/artist/5mCh80WPP1yVLBqX349KeG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "\u8c6c\u809d\u9eb5\u7dda",
+      "url": "https://open.spotify.com/track/46hdyC1kBOxUFcdr3Ti0gt"
+    },
+    {
+      "album": {
         "name": "Uptown Vibes\u90ca\u6c14",
         "url": "https://open.spotify.com/album/4Zldz1fWp9tmZD3NAnKBC3"
       },
@@ -2994,7 +3150,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 240281,
       "name": "\u8d4f\u5473\u671f\u9650",
       "url": "https://open.spotify.com/track/0dhHxMgqAkcFZvIiE3MIrG"
@@ -3084,10 +3240,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 277642,
       "name": "\u932f",
       "url": "https://open.spotify.com/track/47H1bkrwpdIbtNTtjzo1co"
+    },
+    {
+      "album": {
+        "name": "Unplugged #3",
+        "url": "https://open.spotify.com/album/0U5XxmnltRVcJuD0PI96nM"
+      },
+      "artists": [
+        {
+          "name": "NeciKen",
+          "url": "https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u932f.k - U",
+      "url": "https://open.spotify.com/track/1eYI2Qm7OY7ZlwRQGomcQH"
     },
     {
       "album": {

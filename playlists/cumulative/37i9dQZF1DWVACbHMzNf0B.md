@@ -2,7 +2,7 @@
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://subelealamexcla.byspotify.com/"> AQUÍ</a>
+> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a>
 
 596 songs - 1 day 7 hr 32 min
 

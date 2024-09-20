@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 12910,
+  "num_followers": 12916,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZurCXgAAAADyPUAbndfBuZOuCsn0mbay",
+  "snapshot_id": "ZuwMhgAAAACUYu/Jsggee8oEqcBdH5p4",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -77,6 +77,62 @@
       "url": "https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR"
     },
     {
+      "added_at": "2024-09-19 11:35:34",
+      "album": {
+        "name": "Thorarum Intha Payanam",
+        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Sahul",
+          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
+        }
+      ],
+      "duration_ms": 280725,
+      "name": "Thorarum Intha Payanam",
+      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+    },
+    {
+      "added_at": "2024-09-19 11:30:22",
+      "album": {
+        "name": "Morattu School - From \"Think Indie\"",
+        "url": "https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz"
+      },
+      "artists": [
+        {
+          "name": "Madurai Souljour",
+          "url": "https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F"
+        },
+        {
+          "name": "Syan Saheer",
+          "url": "https://open.spotify.com/artist/3HIsm0H9DN47NZpHzOx8n9"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        },
+        {
+          "name": "Nowsa G",
+          "url": "https://open.spotify.com/artist/6JnLqE6htWnUihm5sJaK71"
+        },
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/2CPmjbtBNgcIo0nBVQCqIg"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Morattu School - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
+    },
+    {
       "added_at": "2024-09-16 12:16:54",
       "album": {
         "name": "Toxic Kadhal",
@@ -130,6 +186,14 @@
         {
           "name": "Sharmili Karunanidhi",
           "url": "https://open.spotify.com/artist/4wnqsHyWxP8ajpAVas50Ir"
+        },
+        {
+          "name": "Velayutham Rajendran",
+          "url": "https://open.spotify.com/artist/1A9IIruHS11OyCCw8Jzg50"
+        },
+        {
+          "name": "Giant Music India",
+          "url": "https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb"
         }
       ],
       "duration_ms": 197673,
@@ -949,26 +1013,6 @@
       "url": "https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw"
     },
     {
-      "added_at": "2024-07-27 02:48:58",
-      "album": {
-        "name": "Mudivili",
-        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
-      },
-      "artists": [
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        },
-        {
-          "name": "Ailaah",
-          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
-        }
-      ],
-      "duration_ms": 159980,
-      "name": "Enna Mayakkam",
-      "url": "https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS"
-    },
-    {
       "added_at": "2024-05-29 06:05:47",
       "album": {
         "name": "Aneram Andhaneram",
@@ -1355,26 +1399,6 @@
       "duration_ms": 244000,
       "name": "Iraivi",
       "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
-    },
-    {
-      "added_at": "2024-03-19 11:01:14",
-      "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT"
-      },
-      "artists": [
-        {
-          "name": "Cozzy",
-          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
-        },
-        {
-          "name": "Jo",
-          "url": "https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94"
-        }
-      ],
-      "duration_ms": 198955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl"
     },
     {
       "added_at": "2024-05-13 07:13:34",

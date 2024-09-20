@@ -163,22 +163,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Voices In Modern",
-        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
-      },
-      "artists": [
-        {
-          "name": "The Four Freshmen",
-          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "It's A Blue World",
-      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
         "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 149066,
       "name": "Red Roses For A Blue lady",
       "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Voices In Modern",
+        "url": "https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8"
+      },
+      "artists": [
+        {
+          "name": "The Four Freshmen",
+          "url": "https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "It's A Blue World",
+      "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -331,18 +331,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+        "name": "That's How Rhythm Was Born",
+        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
       },
       "artists": [
         {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+          "name": "The Boswell Sisters",
+          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
+        },
+        {
+          "name": "Jimmie Grier",
+          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
         }
       ],
-      "duration_ms": 151455,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+      "duration_ms": 201400,
+      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
+      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -363,22 +367,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "That's How Rhythm Was Born",
-        "url": "https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj"
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
       },
       "artists": [
         {
-          "name": "The Boswell Sisters",
-          "url": "https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN"
-        },
-        {
-          "name": "Jimmie Grier",
-          "url": "https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02"
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
         }
       ],
-      "duration_ms": 201400,
-      "name": "The Object Of My Affection (with Jimmie Grier) - 78 rpm Version",
-      "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "added_at": "2020-08-17 22:49:59",

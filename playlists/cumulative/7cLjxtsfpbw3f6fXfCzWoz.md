@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-38 songs - 2 hr 15 min
+42 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,16 +17,20 @@
 | [Dangerous](https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:40 | 2024-01-31 |  |
 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 | 2023-12-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
+| [Hasta Manana](https://open.spotify.com/track/3wvrmmNB16rtreCvgw3sqv) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:09 | 2024-09-19 |  |
 | [I Don't Love You](https://open.spotify.com/track/0Jli6hojT6aSBcFg4L2P5f) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:58 | 2023-01-11 |  |
 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/6wiXLuJPmqambLyVJBg0fy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 3](https://open.spotify.com/album/4uuyUxFLxkU05tyu4VnA52) | 3:18 | 2023-03-21 |  |
 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 | 2024-09-16 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3K1Z590k8xkKWcyWjDUL2S) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven](https://open.spotify.com/album/2SFIh6siY4KYBNPHAV7xaI) | 4:49 | 2023-03-21 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2023-05-05 |  |
+| [I've Been Waiting For You](https://open.spotify.com/track/3F2sMDeuhueiBpDqEbRhCF) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:40 | 2024-09-19 |  |
 | [It's A Hard Life \- 2014 Remaster](https://open.spotify.com/track/61AP80MyPrlCdwveVOsKJy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever \- Deluxe Edition](https://open.spotify.com/album/2nTP7Q6V06ATrZ2A4vUWo1) | 4:06 | 2023-03-21 |  |
 | [Kiss Goodnight](https://open.spotify.com/track/6bNk8Nakwq8nM6EGUy4nOP) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:50 | 2022-09-07 |  |
+| [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 | 2024-09-19 |  |
 | [Last Train to London](https://open.spotify.com/track/7kE0JjBurV144cuDOb55aB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:29 | 2024-01-02 |  |
 | [Love Kills \- The Ballad](https://open.spotify.com/track/23o61mSfxLaD8VlSQPhYQK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Love Kills \- The Ballad \(2014 Remaster\)](https://open.spotify.com/album/5nwCSEMkEiMXSRwO9csBJe) | 4:12 | 2023-03-21 |  |
 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/2Rua8o4ZNjPx3Q7lHYUgml) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 3:37 | 2023-03-21 |  |
+| [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2024-09-19 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-09-07 |  |
 | [Now That You're Gone](https://open.spotify.com/track/0JwlVxE6RtIGSAcAwBlJKk) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger \- With Track\-by\-Track Commentary](https://open.spotify.com/album/5nT0zM0q3zCwbISrPd7Xkd) | 4:00 | 2023-06-03 |  |
 | [Oceanographer's Choice](https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 4:08 | 2023-01-03 |  |

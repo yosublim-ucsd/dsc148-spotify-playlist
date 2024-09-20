@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169687,
       "name": "Acid Peppers",
       "url": "https://open.spotify.com/track/4GvP0i8hmuyFPoLfxOq29d"
@@ -1808,6 +1808,28 @@
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
+    },
+    {
+      "album": {
+        "name": "Good Liar",
+        "url": "https://open.spotify.com/album/362K2N7LISuI7DosCTJpmF"
+      },
+      "artists": [
+        {
+          "name": "Volyri",
+          "url": "https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o"
+        },
+        {
+          "name": "KRNKT",
+          "url": "https://open.spotify.com/artist/2IXt8OJp8lL5aiNjFP391E"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165828,
+      "name": "Good Liar",
+      "url": "https://open.spotify.com/track/2a5FHxBPiUTZODhiefpZEK"
     },
     {
       "album": {

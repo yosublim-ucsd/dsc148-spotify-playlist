@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: 저스디스\(JUSTHIS\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: 스카이민혁\(Skyminhyuk\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,202 songs - 2 day 18 hr 30 min
+1,203 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [CRAZY OUT THERE \(Prod\. Czaer\)](https://open.spotify.com/track/0oIsWsa4dUhdwCIEqfF2zL) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:19 | 2023-09-14 |  |
 | [Crimson \(Prod\. Czaer\)](https://open.spotify.com/track/19pgQAtjHTpDW8hq67uz8e) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 2:49 | 2023-09-14 |  |
 | [Cross The Street](https://open.spotify.com/track/6ehO37UFYr3DEXKBJUnKF5) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 4:00 | 2022-06-03 | 2022-07-22 |
-| [Crystal Crates \(Feat\. Coogie\)](https://open.spotify.com/track/0XH3e0gYF7PgSoXMd3Znpr) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 2:05 | 2024-07-01 |  |
+| [Crystal Crates \(Feat\. Coogie\)](https://open.spotify.com/track/0XH3e0gYF7PgSoXMd3Znpr) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 2:05 | 2024-07-01 | 2024-09-20 |
 | [Cut Cut Cut \(feat\. Nucksal, Huckleberry P\)](https://open.spotify.com/track/3JoZlEmhxOM9HrlA5NXbmu) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [YANGHWA](https://open.spotify.com/album/2MUW5FYsnyWRAL2j6zc9hL) | 4:47 | 2023-02-16 | 2023-03-14 |
 | [CVS \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/43uImnLQMEZrday1VcFs1g) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [노윤하](https://open.spotify.com/artist/4YsmJURS9BRJNDmZUnJRj5) | [BLASÉ](https://open.spotify.com/album/0dp2N1ofQgSFG9AWRawHkZ) | 2:51 | 2022-05-28 | 2022-07-20 |
 | [d&a \(feat\. RANCHIA, gamma, YANGHONGWON\)](https://open.spotify.com/track/3lvWMKUnq9MJRjNsFiNdL9) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RANCHIA](https://open.spotify.com/artist/3GYiditX3EJXa22KvuSSaW), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [unofficailboyyackermann](https://open.spotify.com/album/2DPhoA1IA2APbpOYK7qOWZ) | 4:00 | 2022-06-03 | 2022-07-11 |
@@ -592,6 +592,7 @@
 | [Lock Up Remix](https://open.spotify.com/track/0kYXmGU8zijNvheGT7TVqF) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [4 the Youth Freestyle & Remixes](https://open.spotify.com/album/5h1tXT9BFiOIpdjQDP11me) | 4:49 | 2022-05-31 | 2022-07-26 |
 | [Locked Up](https://open.spotify.com/track/4rr6XNdTh9HuqjlTGPWStU) | [nodresscode](https://open.spotify.com/artist/2gQ77kiVEqCeAK7mcsT2mU) | [Locked Up](https://open.spotify.com/album/5m66mc7ePP3SkmB81oQ3bI) | 2:23 | 2023-08-04 | 2023-10-13 |
 | [LONG WAY TO GO](https://open.spotify.com/track/412KjSROCmf0rOu5lOpVON) | [GODOK](https://open.spotify.com/artist/1yBiXTTYAT8dRwiwiF7FvZ) | [LONG WAY TO GO](https://open.spotify.com/album/3946sAqklZKo7OcT4PcplJ) | 3:09 | 2022-05-28 | 2022-07-29 |
+| [Look at Me](https://open.spotify.com/track/3KIThw7S5IVduW1XW3kVep) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [Webtoon 'The Heir' Original Soundtrack Part.1](https://open.spotify.com/album/4FcGMi1u0HcQjtl31BT1tc) | 2:38 | 2024-09-19 |  |
 | [Look at you \[from "Compound \#9"\]](https://open.spotify.com/track/2a90bmGS1AmEuA8jQ2lQSw) | [JJK](https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [Look at you \[from "Compound \#9"\]](https://open.spotify.com/album/6wDpQLfJeupyQpXFydBjQa) | 4:04 | 2022-06-03 | 2022-06-20 |
 | [Look What I Did \(Feat\. The Quiett\)](https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Stargaze](https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5) | 3:42 | 2023-06-12 | 2023-07-14 |
 | [Looked Up To The Sky](https://open.spotify.com/track/3bVDunQjcXQlZ1U4nk7vWT) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Sadboy JB](https://open.spotify.com/artist/7g2bqT5lmeea6rpG3cbEYc) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 4:03 | 2022-05-31 | 2022-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Etta.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa ELLIMEI ja \u00d6veri.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 206089,
       "name": "Aarre",
       "url": "https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf"
@@ -96,6 +96,24 @@
       "duration_ms": 222413,
       "name": "Aavan meren tuolla puolen (Pride Anthem)",
       "url": "https://open.spotify.com/track/3XbkFw2V8tdA34EQJ0Ncnu"
+    },
+    {
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/3YyytiCzrlXr0OZk7Pl07V"
+      },
+      "artists": [
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296931,
+      "name": "Adam ja Eve",
+      "url": "https://open.spotify.com/track/7gvBlbVPVHMnGuUwwAuhu8"
     },
     {
       "album": {
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160627,
       "name": "Ammattiliiga",
       "url": "https://open.spotify.com/track/2wyw1in1LKyhdgc67psLHB"
@@ -270,6 +288,24 @@
       "duration_ms": 151953,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk"
+    },
+    {
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA"
+      },
+      "artists": [
+        {
+          "name": "Adi L Hasla",
+          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177804,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF"
     },
     {
       "album": {
@@ -458,7 +494,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178464,
       "name": "Erottaja",
       "url": "https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl"
@@ -476,7 +512,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 152852,
       "name": "Fallin (pudotaan)",
       "url": "https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS"
@@ -586,6 +622,24 @@
       "duration_ms": 174761,
       "name": "Huominen ei l\u00f6yd\u00e4 meit\u00e4",
       "url": "https://open.spotify.com/track/7simuF5RqcV2Sbz0oWESMe"
+    },
+    {
+      "album": {
+        "name": "HYV\u00c4 SYD\u00c4N, PAHA SUU",
+        "url": "https://open.spotify.com/album/1LDra5gUrgQ3Vs6M7prCMg"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140722,
+      "name": "H\u00e4fl\u00e4",
+      "url": "https://open.spotify.com/track/2yEVWfpe2JKjidkQpFW3I2"
     },
     {
       "album": {
@@ -790,7 +844,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 153000,
       "name": "JORMA",
       "url": "https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV"
@@ -812,6 +866,28 @@
       "duration_ms": 171426,
       "name": "Jos me oltais j\u00e4rkevii",
       "url": "https://open.spotify.com/track/6KSk55VPeql3JRPtEhcgIy"
+    },
+    {
+      "album": {
+        "name": "Jos tuut viel\u00e4 vastaan",
+        "url": "https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "Niilo",
+          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Jos tuut viel\u00e4 vastaan",
+      "url": "https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu"
     },
     {
       "album": {
@@ -914,10 +990,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 166886,
       "name": "Kakskyt\u00e4 milli\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/6RTn3JCwDjxaRJCMNpWEdE"
+    },
+    {
+      "album": {
+        "name": "KALJAAAA",
+        "url": "https://open.spotify.com/album/4HgASZk6h10Jg11jPDwRRJ"
+      },
+      "artists": [
+        {
+          "name": "Petri Nyg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188399,
+      "name": "KALJAAAA",
+      "url": "https://open.spotify.com/track/22CfZsu8V6Z2BYQmjmriXI"
     },
     {
       "album": {
@@ -990,7 +1084,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 139982,
       "name": "Kersantti Karoliina - Vain El\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/2mJeWCdojQWnLXNzMxOeZR"
@@ -1015,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Kielletty hedelm\u00e4",
+        "url": "https://open.spotify.com/album/3MLhr5US5UcOVfrtpLWInx"
+      },
+      "artists": [
+        {
+          "name": "Varkemaa",
+          "url": "https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186607,
+      "name": "Kielletty hedelm\u00e4",
+      "url": "https://open.spotify.com/track/4lesAJWKpY2IhuevLFjrgS"
+    },
+    {
+      "album": {
         "name": "Kielletty puheenaihe",
         "url": "https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ"
       },
@@ -1030,6 +1142,24 @@
       "duration_ms": 206737,
       "name": "Kielletty puheenaihe",
       "url": "https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9"
+    },
+    {
+      "album": {
+        "name": "Kiljut riemusta (Roosa nauha 2024)",
+        "url": "https://open.spotify.com/album/5XfZFbWeovDQoS34ZwSXbW"
+      },
+      "artists": [
+        {
+          "name": "Vesterinen yhtyeineen",
+          "url": "https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272461,
+      "name": "Kiljut riemusta (Roosa nauha 2024)",
+      "url": "https://open.spotify.com/track/55hOn2rl3tx24cgYneShKz"
     },
     {
       "album": {
@@ -1153,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Kuollut liekki",
+        "url": "https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Kuollut liekki",
+      "url": "https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ"
+    },
+    {
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo"
       },
@@ -1186,7 +1334,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 154107,
       "name": "Kuuma kes\u00e4 (feat. THESAARINEN) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
       "url": "https://open.spotify.com/track/6QSSHZukWMUvirtxXFmp2D"
@@ -1270,6 +1418,24 @@
       "duration_ms": 159901,
       "name": "Liian l\u00e4hel aurinkoo",
       "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
+    },
+    {
+      "album": {
+        "name": "Likimain",
+        "url": "https://open.spotify.com/album/1wQRmzwKNg6nDCnD0HjqPT"
+      },
+      "artists": [
+        {
+          "name": "Mariska",
+          "url": "https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169567,
+      "name": "Likimain",
+      "url": "https://open.spotify.com/track/06Och6N7wbkTVb5RbdAafl"
     },
     {
       "album": {
@@ -1524,7 +1690,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183721,
       "name": "Mi Amore (feat. Ege Zulu)",
       "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
@@ -1604,7 +1770,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193908,
       "name": "Momentti (feat. Costi)",
       "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
@@ -1640,7 +1806,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190560,
       "name": "Mustangi II",
       "url": "https://open.spotify.com/track/1aVlmKGaUZz489HuSoPJgL"
@@ -1890,7 +2056,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 124381,
       "name": "Oulunkyl\u00e4st ikuisuuteen (feat. VilleGalle) - Gnistan Remix",
       "url": "https://open.spotify.com/track/5CaQCCTayPEW74Ap3ChQYz"
@@ -2158,7 +2324,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 288451,
       "name": "Raskas Rock",
       "url": "https://open.spotify.com/track/6ro5TSKVXhVHS9hZfSvg6b"
@@ -2206,7 +2372,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214666,
       "name": "Repe ja Lissu (feat. STIG) [Vain el\u00e4m\u00e4\u00e4 kausi 15]",
       "url": "https://open.spotify.com/track/60dSTIkVt70LeyJIGlLhIH"
@@ -2434,7 +2600,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180031,
       "name": "Selvii p\u00e4ivii",
       "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
@@ -2689,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Syystakkikausi",
+        "url": "https://open.spotify.com/album/7gDSmVPbTipAEguZK2YpD0"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Syystakkikausi",
+      "url": "https://open.spotify.com/track/73uA8BvDUEOOknZGekRiiB"
+    },
+    {
+      "album": {
         "name": "S\u00e4 voitit jo",
         "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
       },
@@ -2722,10 +2906,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230173,
       "name": "Tahdotko mut tosiaan (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/3uOOLKWc4otPngdmq1HONh"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176788,
+      "name": "Taikuri",
+      "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
     },
     {
       "album": {
@@ -3162,7 +3364,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182468,
       "name": "Vielki kentil",
       "url": "https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC"
@@ -3322,7 +3524,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164720,
       "name": "Ykskaks",
       "url": "https://open.spotify.com/track/62Kv9Gj43kBZxu03OHFOjP"
@@ -3416,7 +3618,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141190,
       "name": "\u00d6ljytyt Lanteet (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/4YwvhOJH79o3fiL5uGZrpw"

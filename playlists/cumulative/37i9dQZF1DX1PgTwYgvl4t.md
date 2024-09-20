@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-90 songs - 10 hr 20 min
+91 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Heart of Worship](https://open.spotify.com/track/5kqrE2peLuqeSkwjqHLoBF) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv) | [Life A Meaning](https://open.spotify.com/album/6qdsGXyw45tq32oJnbPRQQ) | 2:51 | 2024-05-09 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-05-09 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 |  |
+| [Hungry for You](https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hungry for You](https://open.spotify.com/album/5b80Kb9atpUSjZwa0crLAy) | 8:03 | 2024-09-20 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 |  |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-05-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Ad\u00e9",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Indochine",
   "name": "Volume France",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 215500,
       "name": "6 Feet Underground",
       "url": "https://open.spotify.com/track/0mrkEtjAcPcaZZYb0X7m0g"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 233500,
       "name": "A Blinking Neon",
       "url": "https://open.spotify.com/track/7aTUpGznnQP0HnK7D7mdNV"
@@ -225,6 +225,40 @@
     },
     {
       "album": {
+        "name": "All These Boys",
+        "url": "https://open.spotify.com/album/5JgZaRUjCYv5Rsizv5wYuS"
+      },
+      "artists": [
+        {
+          "name": "Clavicule",
+          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
+        },
+        {
+          "name": "Alexis Pouclet",
+          "url": "https://open.spotify.com/artist/4CmcncQTG83tgztPv0RNdr"
+        },
+        {
+          "name": "Kamil Firganek",
+          "url": "https://open.spotify.com/artist/5tfUdStcicKPK2yZ2Ds3AG"
+        },
+        {
+          "name": "Blanche Leblond",
+          "url": "https://open.spotify.com/artist/5IFxqlvnIA4p4j7attcnPa"
+        },
+        {
+          "name": "Marius Vicet",
+          "url": "https://open.spotify.com/artist/4IqRlSs1BWrVUd3PXkrHJn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "All These Boys",
+      "url": "https://open.spotify.com/track/5X3tiRohIHEtioK3pSqdSj"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6Amqo835TnuSYSnSEqHdx1"
       },
@@ -290,7 +324,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 196000,
       "name": "As a Brother",
       "url": "https://open.spotify.com/track/4StOaN23EXEUt2RaCK3xId"
@@ -362,7 +396,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180901,
       "name": "Automatic Mode",
       "url": "https://open.spotify.com/track/2UARBzkscvBzujgjHX5zIT"
@@ -1356,7 +1390,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 317946,
       "name": "Flamme Jumelle",
       "url": "https://open.spotify.com/track/6aPEzAyxqNJcRUNLFFmpe8"
@@ -2318,7 +2352,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 195145,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/5Iatj6CbK0AjL90wZZMCY0"
@@ -2340,6 +2374,24 @@
       "duration_ms": 256588,
       "name": "Lona",
       "url": "https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9"
+    },
+    {
+      "album": {
+        "name": "Chamber Songs",
+        "url": "https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181674,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL"
     },
     {
       "album": {
@@ -2700,7 +2752,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 165560,
       "name": "No Pain No Gain feat. B-Real - Single Version",
       "url": "https://open.spotify.com/track/7HISRKMsn555stFqyn0gxA"
@@ -2761,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/6zdYNAdcYalksSJRq8p6ti"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232436,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/66md9bWrwCOEQHMfQGjlgH"
+    },
+    {
+      "album": {
         "name": "Koda",
         "url": "https://open.spotify.com/album/7cZuHS2e1grx3o3DgDlYau"
       },
@@ -2794,6 +2864,24 @@
       "duration_ms": 174915,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8"
+    },
+    {
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/4EkgeceK40dnTFPjD6h5M7"
+      },
+      "artists": [
+        {
+          "name": "KO KO MO",
+          "url": "https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/7iCvPzM4RuJPOyLvQVQJMu"
     },
     {
       "album": {
@@ -3539,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Probably For Nothing",
+        "url": "https://open.spotify.com/album/7p0kJFI72uCEBmJIvl2ISo"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/72vV0cYk5TpGeFh95jabvh"
+    },
+    {
+      "album": {
         "name": "La Flemme",
         "url": "https://open.spotify.com/album/5oLX4GqQKttUQ5SlMTND15"
       },
@@ -3665,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Story of the Man",
+        "url": "https://open.spotify.com/album/6WyKpiRJld1QLZ8p0AI3XT"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157612,
+      "name": "Story of the Man",
+      "url": "https://open.spotify.com/track/5E8eLCnKtNAKnRQZJJyrw1"
+    },
+    {
+      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/3juU6WucGVJ0ccA0XQyoDE"
       },
@@ -3698,6 +3822,24 @@
       "duration_ms": 232453,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/3m5K6PrDtKQq9h4pxntBGn"
+      },
+      "artists": [
+        {
+          "name": "Malt Liquor",
+          "url": "https://open.spotify.com/artist/4yxTw9fXSsNJfxSOmYaTY1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173752,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/00zG5PWTMXXPpohdhVO3n3"
     },
     {
       "album": {

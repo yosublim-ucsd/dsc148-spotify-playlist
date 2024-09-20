@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 572175,
+  "num_followers": 572244,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACnxBqMI6MWnNvYL2e3JMqC",
+  "snapshot_id": "ZuoYAAAAAABRqEnASDwffsHfSS87g/4I",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": null,
@@ -304,21 +304,17 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Just One Yesterday",
-      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
+      "duration_ms": 203413,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
     },
     {
       "added_at": null,
@@ -372,17 +368,21 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
+      "duration_ms": 244720,
+      "name": "Just One Yesterday",
+      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
+      "duration_ms": 199840,
+      "name": "Chicago Is So Two Years Ago",
+      "url": "https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 199840,
-      "name": "Chicago Is So Two Years Ago",
-      "url": "https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO"
+      "duration_ms": 194493,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
     },
     {
       "added_at": null,

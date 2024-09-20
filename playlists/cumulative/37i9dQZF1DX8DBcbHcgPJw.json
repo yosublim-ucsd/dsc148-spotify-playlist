@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "20 LABIOS",
+        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205176,
+      "name": "20 Labios",
+      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
+    },
+    {
+      "album": {
         "name": "30 de Abril",
         "url": "https://open.spotify.com/album/53HVi4vaMEnhHsUuBNrg9F"
       },
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185714,
       "name": "Dime Quien",
       "url": "https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi"
@@ -5697,6 +5715,28 @@
     },
     {
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4EV836EaILNmBI2NQLGfIQ"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "La Fase Buk",
+          "url": "https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/5njEYHoFcK0OaAEsoI7qga"
+    },
+    {
+      "album": {
         "name": "Mala M\u00eda",
         "url": "https://open.spotify.com/album/71s1Hw4Faib1f5hISDO3wc"
       },
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -9242,7 +9282,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
@@ -11058,6 +11098,24 @@
       "duration_ms": 224240,
       "name": "Usted No Sabe / Me Dedique a Perderte",
       "url": "https://open.spotify.com/track/6QuN3DFuPuDwgVtU1WtRUB"
+    },
+    {
+      "album": {
+        "name": "UWAIE (versi\u00f3n cumbia)",
+        "url": "https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "UWAIE - versi\u00f3n cumbia",
+      "url": "https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR"
     },
     {
       "album": {

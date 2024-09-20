@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Fajar Merah",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Peonies",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E"
+      },
+      "artists": [
+        {
+          "name": "Peonies",
+          "url": "https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268343,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2"
+    },
+    {
+      "album": {
         "name": "Du, Du",
         "url": "https://open.spotify.com/album/3aRgQJxKzMXJHJlKCJdBqL"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191000,
       "name": "End Differently",
       "url": "https://open.spotify.com/track/1nOcvj8h1IrxceTisMyqdR"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150999,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3PNY3KOBwCWoMlgcZqhblh"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 172000,
       "name": "insecure",
       "url": "https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL"
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Secercah",
+        "url": "https://open.spotify.com/album/0FmqdVa9xGnCAeW5Xly5DS"
+      },
+      "artists": [
+        {
+          "name": "Syarikat Idola Remaja",
+          "url": "https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243145,
+      "name": "Secercah",
+      "url": "https://open.spotify.com/track/2lJ8p5Khj22dEtcYQzkf23"
+    },
+    {
+      "album": {
         "name": "Gita Masa Lalu",
         "url": "https://open.spotify.com/album/7aHKjuQbnWXZagPo9TNIUE"
       },
@@ -2730,7 +2766,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 196608,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/67GIaO3ENhQPzHHtPsR5Y4"

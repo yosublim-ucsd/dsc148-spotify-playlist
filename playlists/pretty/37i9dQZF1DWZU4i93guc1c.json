@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Vivienne Mort\n",
-  "num_followers": 21427,
+  "num_followers": 21432,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
+        "name": "La Dame Blanche",
+        "url": "https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb"
+      },
+      "artists": [
+        {
+          "name": "Schmalgauzen",
+          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "\u0410\u0439\u0441\u0442\u0440\u0438",
+      "url": "https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
         "name": "\u043d\u0435 \u0446\u0435\u0439\u0432\u043e \u0441\u0430\u043c \u0441\u0435\u0431\u0435",
         "url": "https://open.spotify.com/album/2P2r7UwC6pocAFMP3uF3Ba"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 171249,
       "name": "\u043d\u0435 \u0446\u0435\u0439\u0432\u043e \u0441\u0430\u043c \u0441\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/3nPjixYGZykdgUCG6l2Jwu"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "La Dame Blanche",
-        "url": "https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb"
-      },
-      "artists": [
-        {
-          "name": "Schmalgauzen",
-          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "\u0410\u0439\u0441\u0442\u0440\u0438",
-      "url": "https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
         "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
       },
@@ -971,22 +955,34 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u0414\u0443\u0440\u0430 (\u0421\u0443\u043c\u043d\u0456\u0432\u0430\u044e\u0441\u044c \u0443 \u0441\u043e\u0431\u0456)",
-        "url": "https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO"
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
       "artists": [
         {
-          "name": "\u0413\u0430\u043d\u043d\u0430 \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0430",
-          "url": "https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
         }
       ],
-      "duration_ms": 145650,
-      "name": "\u0414\u0443\u0440\u0430 (\u0421\u0443\u043c\u043d\u0456\u0432\u0430\u044e\u0441\u044c \u0443 \u0441\u043e\u0431\u0456)",
-      "url": "https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy"
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
+        "url": "https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL"
+      },
+      "artists": [
+        {
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
+        }
+      ],
+      "duration_ms": 324728,
+      "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
-        "url": "https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL"
+        "name": "\u0414\u0443\u0440\u0430 (\u0421\u0443\u043c\u043d\u0456\u0432\u0430\u044e\u0441\u044c \u0443 \u0441\u043e\u0431\u0456)",
+        "url": "https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO"
       },
       "artists": [
         {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
+          "name": "\u0413\u0430\u043d\u043d\u0430 \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0430",
+          "url": "https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
         }
       ],
-      "duration_ms": 324728,
-      "name": "\u0412\u0456\u0434\u043f\u0443\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX"
+      "duration_ms": 145650,
+      "name": "\u0414\u0443\u0440\u0430 (\u0421\u0443\u043c\u043d\u0456\u0432\u0430\u044e\u0441\u044c \u0443 \u0441\u043e\u0431\u0456)",
+      "url": "https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
-      },
-      "artists": [
-        {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "\u0422\u0438 \u043b\u0438\u0448 \u043b\u044e\u0434\u0438\u043d\u0430",
         "url": "https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
+        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
         "name": "\u041f\u043e\u0434\u0456\u043b",
         "url": "https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa"
       },
@@ -1135,38 +1135,6 @@
       "duration_ms": 132991,
       "name": "\u041f\u043e\u0434\u0456\u043b",
       "url": "https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "\u041d\u0410 \u041a\u0420\u0410\u042e \u0421\u0412\u0406\u0422\u0406\u0412",
-        "url": "https://open.spotify.com/album/0wlfYJUXvBsEZ9B2jyl42S"
-      },
-      "artists": [
-        {
-          "name": "NAZVA",
-          "url": "https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "\u041d\u0410 \u041a\u0420\u0410\u042e \u0421\u0412\u0406\u0422\u0406\u0412",
-      "url": "https://open.spotify.com/track/0687oKBKJXiuRphI6Pq1Sv"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
-        "name": "\u0442\u0438 \u0457\u0457 \u043b\u044e\u0431\u0438\u0448.",
-        "url": "https://open.spotify.com/album/1N0bHz1I5O4QhG5xyliCUQ"
-      },
-      "artists": [
-        {
-          "name": "vioria",
-          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
-        }
-      ],
-      "duration_ms": 186442,
-      "name": "\u0442\u0438 \u0457\u0457 \u043b\u044e\u0431\u0438\u0448.",
-      "url": "https://open.spotify.com/track/3aTrk4mCpbOLLhb6i1XAVZ"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1223,6 +1191,38 @@
       "duration_ms": 198500,
       "name": "\u043d\u0435\u043f\u043e\u0442\u0440\u0456\u0431",
       "url": "https://open.spotify.com/track/4rAPA46mWYkFUIVEXYn8ta"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u041d\u0410 \u041a\u0420\u0410\u042e \u0421\u0412\u0406\u0422\u0406\u0412",
+        "url": "https://open.spotify.com/album/0wlfYJUXvBsEZ9B2jyl42S"
+      },
+      "artists": [
+        {
+          "name": "NAZVA",
+          "url": "https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "\u041d\u0410 \u041a\u0420\u0410\u042e \u0421\u0412\u0406\u0422\u0406\u0412",
+      "url": "https://open.spotify.com/track/0687oKBKJXiuRphI6Pq1Sv"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u0442\u0438 \u0457\u0457 \u043b\u044e\u0431\u0438\u0448.",
+        "url": "https://open.spotify.com/album/1N0bHz1I5O4QhG5xyliCUQ"
+      },
+      "artists": [
+        {
+          "name": "vioria",
+          "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
+        }
+      ],
+      "duration_ms": 186442,
+      "name": "\u0442\u0438 \u0457\u0457 \u043b\u044e\u0431\u0438\u0448.",
+      "url": "https://open.spotify.com/track/3aTrk4mCpbOLLhb6i1XAVZ"
     },
     {
       "added_at": "2024-09-13 14:02:48",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-09-13 14:02:48",
       "album": {
-        "name": "\u0422\u0435\u043b\u0435\u043f\u0430\u0442",
-        "url": "https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ"
-      },
-      "artists": [
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
-        },
-        {
-          "name": "The Budchuk",
-          "url": "https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u0422\u0435\u043b\u0435\u043f\u0430\u0442",
-      "url": "https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS"
-    },
-    {
-      "added_at": "2024-09-13 14:02:48",
-      "album": {
         "name": "GLASSS",
         "url": "https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 341753,
       "name": "\u0414\u0438\u0445\u043e\u0442\u043e\u043c\u0456\u044f",
       "url": "https://open.spotify.com/track/4LdyiOJvt8wE2KVuUp3iLm"
+    },
+    {
+      "added_at": "2024-09-13 14:02:48",
+      "album": {
+        "name": "\u0422\u0435\u043b\u0435\u043f\u0430\u0442",
+        "url": "https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ"
+      },
+      "artists": [
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        },
+        {
+          "name": "The Budchuk",
+          "url": "https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u0422\u0435\u043b\u0435\u043f\u0430\u0442",
+      "url": "https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

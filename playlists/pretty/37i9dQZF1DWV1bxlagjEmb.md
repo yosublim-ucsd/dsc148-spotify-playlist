@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > like a dog with a bird at your door
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,738 likes - 114 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,919 likes - 114 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

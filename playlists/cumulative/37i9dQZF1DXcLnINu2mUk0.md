@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Julinho Ksd
 
-639 songs - 1 day 10 hr 2 min
+641 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 | 2023-10-05 | 2023-12-09 |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
 | [Blunted](https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN) | [Dionísio07](https://open.spotify.com/artist/0SkKNaTeA9XhYQaekAUBLQ), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy), [Diferenciados](https://open.spotify.com/artist/3eNJgj8W3dc35pSXbzZXtG) | [Blunted](https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8) | 2:51 | 2024-04-25 | 2024-05-10 |
-| [Boca Boca](https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Edson Mausse](https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw) | [Boca Boca](https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg) | 3:16 | 2024-06-27 |  |
+| [Boca Boca](https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Edson Mausse](https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw) | [Boca Boca](https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-09-14 |
 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 | 2024-02-23 | 2024-03-15 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 | 2024-03-08 |
@@ -447,6 +447,7 @@
 | [Paz](https://open.spotify.com/track/0gPI6cDpys6B8fTc05sE6v) | [Naue](https://open.spotify.com/artist/7yMH1XeYUX77DZ2yvHigrm) | [Amor perigoso](https://open.spotify.com/album/351iGGZSnO23YGeG79HfHf) | 2:41 | 2024-01-05 | 2024-02-02 |
 | [PEACE](https://open.spotify.com/track/0HMIctywEolk71isSynd0u) | [Ferro](https://open.spotify.com/artist/5lZ6GGW3zw5NhfCyaAmOBK) | [EVERYTHING I'VE NEVER SAID](https://open.spotify.com/album/3m47TPHq517bS1RFv683cn) | 3:31 | 2024-01-19 | 2024-02-16 |
 | [Pedi Amor](https://open.spotify.com/track/7k73lGQZlcAFtcOpDHq2aU) | [RAZNOSENSE](https://open.spotify.com/artist/3S0AyPD0gLjthll7jBrcWV), [Dom Reis](https://open.spotify.com/artist/1AVZby5ziYtUBRWjSGHvwx) | [Pedi Amor](https://open.spotify.com/album/6nxWglWaQuK4KgVFLSLSnp) | 2:34 | 2024-03-01 | 2024-03-22 |
+| [Perco\-me em Ti 2](https://open.spotify.com/track/0Zqgoi1rqZSeQQrVdI286S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Perco\-me em Ti 2](https://open.spotify.com/album/5fB4mO73AQoAP4dIw1RNJq) | 3:06 | 2024-09-19 |  |
 | [Perdidos num ride](https://open.spotify.com/track/7Bf3UJA5Dsg4egyw4VgVG2) | [Mellow.](https://open.spotify.com/artist/36NFsSn6M5LKMgg6spitOU) | [Perdidos num ride](https://open.spotify.com/album/0b8fBRFdog2EDrlKOpbeUi) | 3:27 | 2023-09-07 | 2023-09-15 |
 | [PESO DA COROA](https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi) | [Don Kapa](https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR), [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw) | [PESO DA COROA](https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7) | 2:38 | 2023-12-22 | 2024-01-13 |
 | [PESSOAS MUDAM](https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Raptorxy](https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [PESSOAS MUDAM](https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3) | 2:27 | 2024-04-18 | 2024-06-01 |
@@ -555,7 +556,7 @@
 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 | 2024-02-02 | 2024-02-23 |
 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 | 2023-06-29 | 2023-07-21 |
 | [Strong](https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Strong](https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg) | 3:08 | 2023-12-08 | 2024-01-13 |
-| [SUMMERTIME](https://open.spotify.com/track/1ON78L2WpCk0n9MgCIhnRH) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [SUMMERTIME](https://open.spotify.com/album/3IxfUHkb11lYNwnOMTJbz1) | 3:08 | 2024-08-01 |  |
+| [SUMMERTIME](https://open.spotify.com/track/1ON78L2WpCk0n9MgCIhnRH) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [SUMMERTIME](https://open.spotify.com/album/3IxfUHkb11lYNwnOMTJbz1) | 3:08 | 2024-08-01 | 2024-09-20 |
 | [Sunshine](https://open.spotify.com/track/2dgunBZKBMIqIlDrh2J6BQ) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Sunshine](https://open.spotify.com/album/07yJAIW3r5qw7vLj7iIAIl) | 2:46 | 2023-03-24 | 2023-05-12 |
 | [Suzana](https://open.spotify.com/track/7jan2eOiDAjoaQkwbnxkbS) | [Dj Helio Baiano](https://open.spotify.com/artist/33aeOKnSKPNGbyVH78vHPH), [Tio Edson](https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2), [Samuel Clássico](https://open.spotify.com/artist/6TcXjoEQqRNidRkjhn467n), [Addy Buxexa](https://open.spotify.com/artist/6HJQeq0cUFeMKrSTiJn1GP) | [Suzana](https://open.spotify.com/album/1DUDfVee537gZGjf4PhJjv) | 3:38 | 2023-05-11 | 2023-06-09 |
 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 | 2022-07-07 | 2023-03-18 |
@@ -620,6 +621,7 @@
 | [Verão Azul \- Encore Sessions](https://open.spotify.com/track/1l8AOv2r3qTaBcQz6EW6XL) | [D'ZRT](https://open.spotify.com/artist/2Td4hZ8FWidGoeKhu7c73I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Verão Azul](https://open.spotify.com/album/3mDUg1qAUPoEEKJRh1FPMs) | 4:42 | 2023-01-06 | 2023-03-02 |
 | [Viciado](https://open.spotify.com/track/2utfCVxSXEWN711XL58Ci7) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Viciado](https://open.spotify.com/album/19PSSc9iyYbYaal7ePUG6W) | 3:23 | 2022-12-02 | 2022-12-24 |
 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 | 2023-03-11 | 2023-04-21 |
+| [Vidrado](https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Vidrado](https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR) | 2:45 | 2024-09-19 |  |
 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 | 2023-02-10 | 2024-07-20 |
 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 | 2022-12-23 | 2023-01-21 |
 | [Voando Alto](https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Voando Alto](https://open.spotify.com/album/5FzYx0EtmdDq66FYObztp2) | 3:43 | 2023-05-18 | 2023-06-09 |

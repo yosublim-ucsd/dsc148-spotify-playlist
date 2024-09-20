@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Michael Kiwanuka",
-  "num_followers": 90191,
+  "num_followers": 90209,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 211245,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 211245,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162932,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Frogs",
-        "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Frogs",
-      "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -775,18 +759,38 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+        "name": "Frogs",
+        "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
+      "duration_ms": 274346,
+      "name": "Frogs",
+      "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+      "duration_ms": 210693,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Dr. Dog",
-        "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270927,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Dr. Dog",
+        "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270927,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Nostalgia Death Act 1",
-        "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 229338,
-      "name": "Poems",
-      "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
       },
@@ -1211,50 +1195,18 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "66",
-        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
+        "name": "Nostalgia Death Act 1",
+        "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
       },
       "artists": [
         {
-          "name": "Paul Weller",
-          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
         }
       ],
-      "duration_ms": 281819,
-      "name": "Flying Fish",
-      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Floating On A Moment",
-        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
-      },
-      "artists": [
-        {
-          "name": "Beth Gibbons",
-          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
-        }
-      ],
-      "duration_ms": 326080,
-      "name": "Floating On A Moment",
-      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Rumble Strip",
-        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Rumble Strip",
-      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+      "duration_ms": 229338,
+      "name": "Poems",
+      "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1275,6 +1227,54 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Floating On A Moment",
+        "url": "https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 326080,
+      "name": "Floating On A Moment",
+      "url": "https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "66",
+        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
+      },
+      "artists": [
+        {
+          "name": "Paul Weller",
+          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+        }
+      ],
+      "duration_ms": 281819,
+      "name": "Flying Fish",
+      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Rumble Strip",
+        "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Rumble Strip",
+      "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 204429,
       "name": "Breaking",
       "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 206546,
       "name": "Water Underground",
       "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Miles Kane & The Evils",
-        "url": "https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 97215,
-      "name": "Mr Midnight",
-      "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Miles Kane & The Evils",
+        "url": "https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 97215,
+      "name": "Mr Midnight",
+      "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Eye To The Ear",
         "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 208626,
       "name": "Breathe Round Corners",
       "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "No Body",
-        "url": "https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Stop The Music",
-        "url": "https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Stop The Music",
-      "url": "https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
+        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
+      },
+      "artists": [
+        {
+          "name": "Milo Korbenski",
+          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Feral Guest",
+      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Stop The Music",
+        "url": "https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Stop The Music",
+      "url": "https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Kiki, You Complete Me",
         "url": "https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 172386,
       "name": "1K!",
       "url": "https://open.spotify.com/track/3bDle84REug8PQJdREswFG"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
-        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
-      },
-      "artists": [
-        {
-          "name": "Milo Korbenski",
-          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Feral Guest",
-      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
     }
   ],
   "unique_name": "The Listening Post",

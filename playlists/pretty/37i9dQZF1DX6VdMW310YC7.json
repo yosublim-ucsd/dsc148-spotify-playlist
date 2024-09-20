@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3896669,
+  "num_followers": 3896699,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 239334,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Trying To See U",
+        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Trying To See U",
+      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "U REALLY HURT ME",
         "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 162406,
       "name": "U REALLY HURT ME",
       "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Trying To See U",
-        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Trying To See U",
-      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
       },
@@ -967,6 +947,22 @@
       "duration_ms": 224140,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -991,18 +987,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Turtle Jazz",
-        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Turtle Jazz",
-      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "golden",
-        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 302486,
-      "name": "golden",
-      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
@@ -1303,6 +1279,30 @@
       "duration_ms": 141785,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "golden",
+        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 302486,
+      "name": "golden",
+      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I Will Leave a Light On",
-        "url": "https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 240975,
-      "name": "I Will Leave a Light On",
-      "url": "https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
       },
@@ -1383,6 +1359,22 @@
       "duration_ms": 172622,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Kiss & Forget",
+        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 218929,
+      "name": "You Belong To No-One",
+      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1407,6 +1399,30 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Lost In The Melody",
+        "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 182444,
+      "name": "Lost In The Melody",
+      "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "On Your Own",
         "url": "https://open.spotify.com/album/7HLS3UbpiqdHGTduyvveVf"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 238560,
       "name": "On Your Own",
       "url": "https://open.spotify.com/track/2u3dlQQNGTBSz0KbFPXUEh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Kiss & Forget",
-        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 218929,
-      "name": "You Belong To No-One",
-      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1467,26 +1467,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Lost In The Melody",
-        "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
+        "name": "I Will Leave a Light On",
+        "url": "https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2"
       },
       "artists": [
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
         }
       ],
-      "duration_ms": 182444,
-      "name": "Lost In The Melody",
-      "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
+      "duration_ms": 240975,
+      "name": "I Will Leave a Light On",
+      "url": "https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1687,26 +1687,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "every-little-part",
-        "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
         },
         {
-          "name": "Otherwish",
-          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
         }
       ],
-      "duration_ms": 229710,
-      "name": "every-little-part",
-      "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1731,22 +1727,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+        "name": "every-little-part",
+        "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
       "artists": [
         {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
         }
       ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+      "duration_ms": 229710,
+      "name": "every-little-part",
+      "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Scared Of The Dark",
+        "url": "https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH"
+      },
+      "artists": [
+        {
+          "name": "Friends & I",
+          "url": "https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Scared Of The Dark",
+      "url": "https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Illusions",
         "url": "https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc"
       },
@@ -1931,26 +1947,6 @@
       "duration_ms": 166028,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247447,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
     }
   ],
   "unique_name": "Chill Tracks",

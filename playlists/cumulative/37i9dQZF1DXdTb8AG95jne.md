@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Savina & Drones\(사비나앤드론즈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-771 songs - 1 day 23 hr 8 min
+773 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
-| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
+| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2024-09-20 |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 |  |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
@@ -223,6 +223,7 @@
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-25 |  |
 | [forest](https://open.spotify.com/track/3IS94oUtno6qoCe2GUB3is) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [forest](https://open.spotify.com/album/01x7G8ibDSoFu1XIge8S7Q) | 3:16 | 2022-08-18 | 2022-08-26 |
 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-04-30 | 2024-06-20 |
+| [Forest Child](https://open.spotify.com/track/3ZYA1mcWApBhykEVNKd7N4) | [Kimhwol](https://open.spotify.com/artist/0drtwnlS4Jp6tK06xTFhIq) | [Beautiful World](https://open.spotify.com/album/1AMe7at0N1uF600T7bV7c0) | 4:00 | 2024-09-19 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2022-06-19 |
 | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/album/1jIH9KeCzSSnfge1KEtb45) | 3:12 | 2022-05-11 | 2022-05-18 |
 | [Fortune Teller \(feat\. Stella Jang\)](https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [I'll see you when I see you](https://open.spotify.com/album/0Tg70L8Bneo43Ml3chP19k) | 2:47 | 2021-12-21 | 2022-07-27 |
@@ -388,6 +389,7 @@
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-06 |
 | [Love Yourself \(Just a Bit More\)](https://open.spotify.com/track/3NiAUTqEb8r6kdYACYjxxy) | [April 2nd](https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr) | [Love Yourself \(Just a Bit More\)](https://open.spotify.com/album/6q2wINJ9hkZmA0MfUlopOM) | 3:31 | 2021-12-21 | 2022-04-11 |
+| [Love, Heart, Faith](https://open.spotify.com/track/6chkuoVTgWdwCON2qt7MqY) | [Kimhwol](https://open.spotify.com/artist/0drtwnlS4Jp6tK06xTFhIq) | [Beautiful World](https://open.spotify.com/album/1AMe7at0N1uF600T7bV7c0) | 4:15 | 2024-09-19 |  |
 | [LOVE2000](https://open.spotify.com/track/6Su9mLB6TPqSxiRELx5IYE) | [CCOLA](https://open.spotify.com/artist/0L5oGqofGKJNZzFPLwXxpS) | [LOVE2000](https://open.spotify.com/album/5R0mX9LHtH1BlUS5H7FyI9) | 2:54 | 2023-01-05 | 2023-01-12 |
 | [Lovers](https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:40 | 2022-03-31 | 2022-07-05 |
 | [Lovers In The Night](https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Lovers In The Night](https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv) | 3:30 | 2021-12-21 | 2024-01-24 |
@@ -550,7 +552,7 @@
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |
-| [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-09-10 |  |
+| [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-09-10 | 2024-09-20 |
 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2024-07-01 | 2024-07-04 |
 | [Shimmer](https://open.spotify.com/track/7uoMYFa07mkc8fDPxKQ7jO) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Shimmer](https://open.spotify.com/album/3mA6BYaLOeIJlYUCGfSiFq) | 4:11 | 2024-04-30 | 2024-05-10 |
 | [Shining](https://open.spotify.com/track/2V9WSMXEQsndclO6euxhus) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Shining](https://open.spotify.com/album/7DLTL4SBnacezYhSPmV5qW) | 4:13 | 2022-03-31 | 2022-04-17 |

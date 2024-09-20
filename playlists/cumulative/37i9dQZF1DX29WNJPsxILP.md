@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Prabh Deep
 
-160 songs - 8 hr 12 min
+161 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 |  |
 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 | 2023-10-06 |  |
 | [Cigarette](https://open.spotify.com/track/7siESYnNXs5qpSE983tmfG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 3:02 | 2024-06-05 |  |
+| [Clout Chase](https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy) | [Clout Chase](https://open.spotify.com/album/7DEJqb6SjOreiNZBupB6yt) | 2:11 | 2024-09-19 |  |
 | [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-17 |  |
 | [Dan Dana Dan](https://open.spotify.com/track/0kHTc09EST4a4fOJnXL6zl) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:20 | 2023-10-11 | 2024-04-10 |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-11-09 |
@@ -58,7 +59,7 @@
 | [Haath Toh Laga](https://open.spotify.com/track/04Vcyk4f096du3nWURpqE3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/76fVcAIaboYxvTj2xdceIw) | 2:27 | 2024-04-09 | 2024-09-06 |
 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 | 2023-03-10 | 2024-04-19 |
 | [Haramzada](https://open.spotify.com/track/0OoiVEI8YENqBjW3KsBSXn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Jai Veeru](https://open.spotify.com/album/2JJqakAGViUmTgkxNhQ4Xg) | 1:49 | 2024-07-19 |  |
-| [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-10 |  |
+| [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-10 | 2024-09-20 |
 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 | 2024-02-05 |  |
 | [Hold Up](https://open.spotify.com/track/15zn8wY4uZ05htjsWBanjS) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Hold Up](https://open.spotify.com/album/15fhMI25QDeXlJPLkAEvFC) | 3:21 | 2023-08-08 |  |
 | [Hona Door](https://open.spotify.com/track/5V53iOEMA72GtdvMyCoooa) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hona Door](https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo) | 2:45 | 2023-07-24 | 2023-11-17 |

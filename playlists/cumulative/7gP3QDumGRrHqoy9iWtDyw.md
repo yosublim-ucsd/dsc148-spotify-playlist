@@ -4,7 +4,7 @@
 
 > 
 
-222 songs - 14 hr 25 min
+226 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,12 @@
 | [All Night With U \- Qubiko Remix](https://open.spotify.com/track/1xTJH5ZNlX9bID9J8Ny25R) | [Ivan Pica](https://open.spotify.com/artist/7CIJe8ijDiHuCx2Fw3MOj9), [Peter Brown](https://open.spotify.com/artist/6FgtU463qtDrvUsL5b3Ael), [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [All Night With U \(Qubiko Remix\)](https://open.spotify.com/album/1b39HG2fmpTWy0F9Khqsc1) | 3:23 | 2022-12-12 |  |
 | [And 1](https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT) | 3:31 | 2024-05-21 |  |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-29 |  |
+| [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 | 2024-09-19 |  |
 | [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 | 2022-11-20 |  |
 | [Assim](https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Assim](https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71) | 2:49 | 2023-01-28 |  |
 | [Attitudes](https://open.spotify.com/track/4tbOgjltmrF3LQG75lJ9Il) | [Malikk](https://open.spotify.com/artist/0HhUeCRrcXYduJyhj8j4QF), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Attitudes](https://open.spotify.com/album/3Dy0nefOvdnBG35jkqdy0N) | 3:16 | 2023-11-08 |  |
 | [Automatic \- Palms Trax Remix](https://open.spotify.com/track/2l8XfWxLcZ2SB7MNFrLTfV) | [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Automatic](https://open.spotify.com/album/04GqieRfxirLyiHWgYPY2M) | 5:34 | 2024-03-12 |  |
+| [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 | 2024-09-19 |  |
 | [Barbarian](https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Barbarian](https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n) | 3:25 | 2024-01-01 |  |
 | [Beat the System](https://open.spotify.com/track/5ddMWvoqRKJGGIpQVvwHsn) | [Derek Muller](https://open.spotify.com/artist/5QClJFGr8nizPtoh6iIxs1), [Ovidi Adlert](https://open.spotify.com/artist/3vpDXRMRh0LovvdnYWRfNq) | [Beat the System](https://open.spotify.com/album/6x9X3FC4DQQZ7jwcxSqV0b) | 5:52 | 2023-08-13 |  |
 | [Beatz Alright](https://open.spotify.com/track/1sohDykcbb2btfKlMWbfvf) | [Toby Simpson](https://open.spotify.com/artist/4FsneofHgBocbprOOgcB8j) | [Recuperation EP](https://open.spotify.com/album/4wa3gIDLD5sH2EOBDl5Qe7) | 6:33 | 2023-11-08 |  |
@@ -32,6 +34,7 @@
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-01-29 |  |
 | [Boom](https://open.spotify.com/track/3cnvgdGYUVbLtZ0QGybtOz) | [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Boom](https://open.spotify.com/album/1F3QVrujklrgd4gICvRAzc) | 2:48 | 2023-07-01 |  |
 | [Brooklyn](https://open.spotify.com/track/04L8upqYWKegTZOYdgyPeP) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Homieland vol.1](https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD) | 5:19 | 2017-08-30 |  |
+| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-19 |  |
 | [Bumpty](https://open.spotify.com/track/4Z49Jk7c8P5kypkXhGozX5) | [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Bumpty / Ferry Boat](https://open.spotify.com/album/6q52atNyTX9T1TEVanL8pn) | 3:24 | 2023-02-12 |  |
 | [Burning Down The House](https://open.spotify.com/track/3lTw81XyZsrZPiNvrOz0sN) | [Stanny Abram](https://open.spotify.com/artist/7H8yej1uexvZZLdON4b2k8), [Lab Doctors](https://open.spotify.com/artist/3H3JQ3JkEAidVAXhs6mZsK) | [Burning Down The House EP](https://open.spotify.com/album/6UjRDN4mQFqRK4z8Uvupid) | 3:17 | 2022-12-12 |  |
 | [Can You Feel It \- Radio Edit](https://open.spotify.com/track/6CGd0uFmGFxbFOJFVxQdBe) | [FOLEY \(UK\)](https://open.spotify.com/artist/6anTdfcXpebpP1MVwq4BZD) | [Can You Feel It](https://open.spotify.com/album/0S4iMIlBf2y3wH3sdGVz4v) | 3:27 | 2023-12-04 |  |
@@ -186,6 +189,7 @@
 | [Stay With It](https://open.spotify.com/track/1YrrEABN4J40XJTSxiV7LE) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Stay With It](https://open.spotify.com/album/4FYAoedqnkIQTBvjEoyMXo) | 5:13 | 2024-07-09 |  |
 | [Sublime](https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Sublime](https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv) | 2:55 | 2024-02-14 |  |
 | [Sugar Daddy](https://open.spotify.com/track/0TVy1MgOle32ptiamyaAxu) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Sugar Daddy](https://open.spotify.com/album/3pAjCG04eTukFMJwx29xSs) | 2:49 | 2024-04-20 |  |
+| [Switch](https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Switch](https://open.spotify.com/album/1Jpk8k6Ji1yQdMsX2gW8eC) | 3:20 | 2024-09-19 |  |
 | [Tell Dem \- Radio Edit](https://open.spotify.com/track/4MidTflW3L6PDJniFN3L06) | [RTNO](https://open.spotify.com/artist/1XST3KuHB2IclDXPUbRhym) | [Tell Dem \(Radio Edit\)](https://open.spotify.com/album/5s420uXTyS9Mg0knfBTqFj) | 3:51 | 2023-05-05 |  |
 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2024-01-20 |  |
 | [Temperature](https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4) | [Temperature](https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG) | 2:30 | 2023-08-12 |  |

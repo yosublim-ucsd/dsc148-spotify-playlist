@@ -345,6 +345,32 @@
     },
     {
       "album": {
+        "name": "Ah Well",
+        "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ah Well",
+      "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
+    },
+    {
+      "album": {
         "name": "Alinko",
         "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
       },
@@ -2400,7 +2426,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -2890,7 +2916,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
@@ -3980,7 +4006,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 179302,
       "name": "Hot Stepper",
       "url": "https://open.spotify.com/track/0BMOwfaleAhCJf1qABUCtd"
@@ -4837,6 +4863,28 @@
     },
     {
       "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "111SYRI",
+          "url": "https://open.spotify.com/artist/3s4Yx1pnz3Lgqfdw9jpC9e"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129007,
+      "name": "LANGUAGE",
+      "url": "https://open.spotify.com/track/5aPSQ4ZTGPLJ95tIZejyHK"
+    },
+    {
+      "album": {
         "name": "TAKE 4",
         "url": "https://open.spotify.com/album/5pDRmm0QDobtTWk5F1eiwA"
       },
@@ -4918,6 +4966,32 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     },
     {
       "album": {
@@ -5731,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "mo de ma [by any minz]",
+        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "mo de ma [by any minz]",
+      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
       },
@@ -6126,7 +6218,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150018,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2Woou7ZB8SrnnpMey9ulxc"

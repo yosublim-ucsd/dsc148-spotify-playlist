@@ -243,6 +243,32 @@
     },
     {
       "album": {
+        "name": "Brussel",
+        "url": "https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170024,
+      "name": "Brussel",
+      "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
+    },
+    {
+      "album": {
         "name": "Buona Sera",
         "url": "https://open.spotify.com/album/0ERM7CbBalsGGF9fdAw0dy"
       },
@@ -294,7 +320,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 167704,
       "name": "Dans Met Mij",
       "url": "https://open.spotify.com/track/1n9VwFbmlEx7cBpWSr5VOY"
@@ -377,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Dit Gaat over jou",
+        "url": "https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz"
+      },
+      "artists": [
+        {
+          "name": "Marvin de Geest",
+          "url": "https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172969,
+      "name": "Dit Gaat Over jou",
+      "url": "https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW"
+    },
+    {
+      "album": {
         "name": "Doe mij 'n rondje",
         "url": "https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq"
       },
@@ -388,7 +432,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 192521,
       "name": "Doe mij 'n rondje",
       "url": "https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ"
@@ -956,7 +1000,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188399,
       "name": "Jij Laat Mijn Hart Steeds Sneller Slaan",
       "url": "https://open.spotify.com/track/0nSfM1h9qfZcDLXom4doM0"
@@ -978,6 +1022,24 @@
       "duration_ms": 191763,
       "name": "Jongen Van De Straat",
       "url": "https://open.spotify.com/track/5w0CdVXAYKS4n5ZvnR0okE"
+    },
+    {
+      "album": {
+        "name": "Juanita",
+        "url": "https://open.spotify.com/album/2yZ51UjDjH3jc3g6yOF5rY"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0"
     },
     {
       "album": {
@@ -1108,6 +1170,24 @@
       "duration_ms": 154218,
       "name": "Laat Me Alleen",
       "url": "https://open.spotify.com/track/73Wvvc3AGWby8uBRroCXur"
+    },
+    {
+      "album": {
+        "name": "Laat Ze Maar Praten",
+        "url": "https://open.spotify.com/album/39QWNVu8LiS9Jriw4vDiJJ"
+      },
+      "artists": [
+        {
+          "name": "Jordi Weijer",
+          "url": "https://open.spotify.com/artist/3OpenpcWxQGgQueK6hpVej"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Laat Ze Maar Praten",
+      "url": "https://open.spotify.com/track/2YKa8tyRrpSsO0vnWyopqU"
     },
     {
       "album": {
@@ -1259,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Met Tranen In Je Ogen Ben Je Blind",
+        "url": "https://open.spotify.com/album/11F42g72XVoQijUSnQ4tiB"
+      },
+      "artists": [
+        {
+          "name": "William Burg",
+          "url": "https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Met Tranen In Je Ogen Ben Je Blind",
+      "url": "https://open.spotify.com/track/5j9LzSPY6lNn0HCT5eLEZK"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo"
       },
@@ -1332,6 +1430,24 @@
       "duration_ms": 171904,
       "name": "Nog \u00c9\u00e9n Laatste Dans",
       "url": "https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE"
+    },
+    {
+      "album": {
+        "name": "Nooit Meer",
+        "url": "https://open.spotify.com/album/63DRVLfUVYRkRLTQlyXZIG"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Borelli",
+          "url": "https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179740,
+      "name": "Nooit Meer",
+      "url": "https://open.spotify.com/track/4AkddDB8Eg2PWcWapZBT2P"
     },
     {
       "album": {
@@ -1574,7 +1690,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159843,
       "name": "Paradijs",
       "url": "https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX"
@@ -2016,7 +2132,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141428,
       "name": "Wachten Op Jou",
       "url": "https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro"
@@ -2056,7 +2172,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191614,
       "name": "Wat Ook Een Ander Zegt (Live in het Concertgebouw)",
       "url": "https://open.spotify.com/track/0S8BS364otRAC3wF0dGbKx"

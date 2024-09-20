@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: A.M.C
 
-259 songs - 17 hr 16 min
+260 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Lift Off The Roof](https://open.spotify.com/track/3WP7uvv1HkbVny5fHdgH3Z) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/31BWS50pcum5FqJyTfqcYu) | 3:05 | 2022-08-12 | 2023-05-24 |
 | [Lift Off The Roof](https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/2eKZy0pAKmXxlNxyBXND7v) | 3:05 | 2022-05-06 | 2022-07-24 |
 | [Light It Up](https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Light It Up](https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU) | 3:41 | 2024-01-12 |  |
-| [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 |  |
+| [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 | 2024-09-20 |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-10-13 |  |
 | [Listen](https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Listen](https://open.spotify.com/album/5AqD3DHCwtloPO0oInSadE) | 4:25 | 2024-09-12 |  |
 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 | 2022-06-20 | 2023-12-27 |
@@ -190,6 +190,7 @@
 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 | 2023-12-01 |  |
 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 | 2023-10-20 |  |
 | [Resistance](https://open.spotify.com/track/6QoWOqKGGD1i4GBGequnsJ) | [Filthy Habits](https://open.spotify.com/artist/4MUyjTxCPuQW8yrgN7jTv5) | [Resistance](https://open.spotify.com/album/1eEPCMMfN2W0hBXrnJFtAJ) | 3:39 | 2022-05-06 | 2022-06-29 |
+| [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 | 2024-09-19 |  |
 | [Ricochet](https://open.spotify.com/track/0iOZsSttnmHPE4i1vPzubE) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ricochet](https://open.spotify.com/album/46OYfNrnNVY5TukXQDxohy) | 3:45 | 2023-12-27 | 2024-01-12 |
 | [Right Behind You](https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Musicality](https://open.spotify.com/album/0GqvRHEIn8700B5GLKkPrQ) | 4:34 | 2022-05-06 | 2022-07-07 |
 | [Robocop](https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [B Live 247](https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Robocop](https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT) | 3:01 | 2024-06-21 |  |

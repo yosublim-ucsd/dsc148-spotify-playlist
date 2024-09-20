@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya\_bjVTuWRoQ">Jeremy Loops</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,086 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,090 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 25 | [Letting Go](https://open.spotify.com/track/5MJGUbDWdGsnnAjP6CR8uY) | [Justin Prins](https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C) | [Letting Go](https://open.spotify.com/album/56DN3d8LzeS29Jv3KQuCwx) | 4:03 |
 | 26 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 |
 | 27 | [Cold](https://open.spotify.com/track/5qm0BllxwXCJaFDMsO5XfH) | [Face and the Features](https://open.spotify.com/artist/16vvbLv35opMOVyRC8x5c9) | [Cold](https://open.spotify.com/album/521oIz6XtscH69ZuEhlvdu) | 3:03 |
-| 28 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:12 |
+| 28 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 |
 | 29 | [EMP](https://open.spotify.com/track/5WCIpzfLjC8hH8ARcCSlQt) | [TRIIIP](https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA) | [EMP](https://open.spotify.com/album/1Tu97xvthnEdDFoymh5e9P) | 3:35 |
 | 30 | [SHADOWS](https://open.spotify.com/track/5qPtQaDS9sdeQ1co9z2Xkb) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [NOT SO DISTOPIA](https://open.spotify.com/album/5bwWj5bM6uL4zumhXX2wIS) | 3:16 |
 | 31 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 |

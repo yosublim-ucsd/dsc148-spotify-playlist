@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Abeliano
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jasmine Nadya
 
-229 songs - 14 hr 46 min
+230 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Soal Kita](https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Soal Kita](https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA) | 3:51 | 2021-11-25 | 2022-03-25 |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-13 | 2024-03-29 |
 | [Someone That Can’t Be Mine](https://open.spotify.com/track/26gulJKHQJ7ZqPbd66e3I9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [I Only Dance When I'm Sad](https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW) | 4:08 | 2021-11-25 | 2022-03-25 |
+| [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-19 |  |
 | [Strangers Again \(feat\. Pamungkas\)](https://open.spotify.com/track/1QYff3eiMnTtCyCmLIUrmp) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 3:53 | 2021-11-25 | 2022-03-25 |
 | [Sunshine](https://open.spotify.com/track/3hg1tMeMdz9SUeAwf9dscu) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Mabuk Laut](https://open.spotify.com/album/33y0fKhUcFcUeGv31HH4mg) | 4:14 | 2021-11-25 | 2022-03-25 |
 | [Superhero](https://open.spotify.com/track/2XGFYZMzanUbWNSfox0U2z) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Superhero](https://open.spotify.com/album/7ke39l8r5Zu7MgMfqEaSt1) | 3:04 | 2021-11-25 | 2022-03-25 |

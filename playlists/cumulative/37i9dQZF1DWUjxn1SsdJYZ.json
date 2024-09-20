@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: PNC",
+  "description": "The best new AUS & NZ Rap. Cover: ONEFOUR & Headie One",
   "name": "Local Hype",
   "tracks": [
     {
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Adele",
+        "url": "https://open.spotify.com/album/1251yJgXoCkeXrqVSjsR3g"
+      },
+      "artists": [
+        {
+          "name": "Tbi$h",
+          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Adele",
+      "url": "https://open.spotify.com/track/2HxY3fOmYZKfR64whEC0c0"
+    },
+    {
+      "album": {
         "name": "AF1",
         "url": "https://open.spotify.com/album/7wBBZY4zAjlFThctx2y4yY"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 158324,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/6Lv3we4ylEG00UbHPLfYBC"
+    },
+    {
+      "album": {
+        "name": "AINT SAFE",
+        "url": "https://open.spotify.com/album/7Ba68E91EnGx9bvOCGSn43"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "AINT SAFE",
+      "url": "https://open.spotify.com/track/5V4XZuIHuyhvBXIS6JxPVE"
     },
     {
       "album": {
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162272,
       "name": "Burn City Barbie",
       "url": "https://open.spotify.com/track/5U7dXsWouKoOmyZSKFJlHl"
@@ -4929,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "EYES UP ON ME",
+        "url": "https://open.spotify.com/album/1f7qjoZ2Xf2emAyg1EGuAE"
+      },
+      "artists": [
+        {
+          "name": "FERBY",
+          "url": "https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100124,
+      "name": "EYES UP ON ME",
+      "url": "https://open.spotify.com/track/1F4AvWauNLZwgdcsEpeJ6s"
+    },
+    {
+      "album": {
         "name": "Failure",
         "url": "https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi"
       },
@@ -5312,6 +5366,24 @@
       "duration_ms": 140218,
       "name": "Flip",
       "url": "https://open.spotify.com/track/3Q490nhbYkqCYZZsWGU1AV"
+    },
+    {
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/29QurwuGqYFvdW83Gy612J"
+      },
+      "artists": [
+        {
+          "name": "DSP",
+          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150363,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/7i9Jew4R1tzAe9SlPdWPK2"
     },
     {
       "album": {
@@ -5778,6 +5850,28 @@
       "duration_ms": 148757,
       "name": "Gammon",
       "url": "https://open.spotify.com/track/7klZOiqWVvF6G15AkvJFed"
+    },
+    {
+      "album": {
+        "name": "Gang Ties (feat. Headie One)",
+        "url": "https://open.spotify.com/album/7EoemSCOLGwqP6QwOly6eR"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Gang Ties (feat. Headie One)",
+      "url": "https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6"
     },
     {
       "album": {
@@ -7026,7 +7120,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 210352,
       "name": "Hine Mokemoke",
       "url": "https://open.spotify.com/track/4BSAUKqRWOqa3iJOR9sMhC"
@@ -12706,7 +12800,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159200,
       "name": "Preach",
       "url": "https://open.spotify.com/track/0dxupq1dWkfw6rFeaxwTTE"
@@ -13472,7 +13566,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 252833,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5IBVaaOPUrkOhF9lIFkd5Z"
@@ -13636,7 +13730,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160000,
       "name": "RIGHT THING (EPISODE 3)",
       "url": "https://open.spotify.com/track/4EfPOmwBU6rRKPKFAMOiNC"
@@ -14030,7 +14124,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 136668,
       "name": "Sad Boy Feeling",
       "url": "https://open.spotify.com/track/2BtqSaGz94MNxnlEKCoCmy"
@@ -16278,7 +16372,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 259190,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/08R6v9uIPeTixWKMEZwDwd"
@@ -16905,6 +16999,28 @@
     },
     {
       "album": {
+        "name": "TUNA SANDO",
+        "url": "https://open.spotify.com/album/41p3ZTzZOvpk86suSRKrr5"
+      },
+      "artists": [
+        {
+          "name": "FUJINO",
+          "url": "https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx"
+        },
+        {
+          "name": "RUMEFOUR",
+          "url": "https://open.spotify.com/artist/6A3qKr2Q6S5Sq5e18e5VC8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143010,
+      "name": "TUNA SANDO",
+      "url": "https://open.spotify.com/track/6lSWmHBnR0TL5ZovnVcdNN"
+    },
+    {
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/1OJjnsjPgFKaOwzo1YtnSB"
       },
@@ -17444,6 +17560,24 @@
       "duration_ms": 157500,
       "name": "Want My Head",
       "url": "https://open.spotify.com/track/2PbJRpSFJntTwjwetR8uUI"
+    },
+    {
+      "album": {
+        "name": "Want U / Safe To Say",
+        "url": "https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk"
     },
     {
       "album": {

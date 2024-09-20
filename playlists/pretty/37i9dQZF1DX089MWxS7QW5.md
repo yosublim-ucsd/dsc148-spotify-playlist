@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: GEMINI\(제미나이\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,193 likes - 53 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,224 likes - 53 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 |
-| 2 | [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
-| 3 | [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 |
+| 1 | [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 |
+| 2 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 |
+| 3 | [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
 | 4 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 |
 | 5 | [Best Part](https://open.spotify.com/track/1Ik2R65BbnFxfv3byMoLko) | [Hyeli](https://open.spotify.com/artist/6k1itI6W0whemoxvE2v5NG) | [Best Part](https://open.spotify.com/album/0fJnucFzUQfKFS3J2TPp6o) | 3:05 |
 | 6 | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/track/0Ph88trmaZJoua1Fluu3RQ) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8), [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/album/2WmPIKfHBw3oGhPmulmujp) | 3:23 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 52 | [it's my fault](https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [it's my fault](https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW) | 3:30 |
 | 53 | [Dive](https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC) | [YOON SAN\-HA \(ASTRO\)](https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW) | [DUSK](https://open.spotify.com/album/2jbCByI5iMiDkkuTqq9RzF) | 2:48 |
 
-Snapshot ID: `ZuoySgAAAABJ/hGzl2peCDB/TzD2Q0wi`
+Snapshot ID: `ZuuoSAAAAAAx/gKOmyvdkrrbytly3zNn`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mumford & Sons. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 478084,
+  "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
+  "num_followers": 478135,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAAD4yX0MudCO/Z0yrIGOAOVq",
+  "snapshot_id": "ZuoYAAAAAADkcMFBmU8o9DgngcuRrBNP",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 173429,
       "name": "Timshel",
       "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 219628,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 271025,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blind Leading The Blind",
+        "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 224703,
+      "name": "Blind Leading The Blind",
+      "url": "https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -555,8 +571,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blind Leading The Blind",
-        "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
+        "name": "Gentlemen of the Road",
+        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Celisse",
+          "url": "https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 469040,
+      "name": "House Of The Rising Sun - Live From New Orleans Jazz Fest",
+      "url": "https://open.spotify.com/track/4YfdnrjrSOHL8udlZ9tPyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
@@ -564,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 224703,
-      "name": "Blind Leading The Blind",
-      "url": "https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be"
+      "duration_ms": 240938,
+      "name": "42",
+      "url": "https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP"
     },
     {
       "added_at": null,
@@ -583,22 +623,6 @@
       "duration_ms": 369301,
       "name": "Someone Saved My Life Tonight",
       "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 376239,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ"
     },
     {
       "added_at": null,
@@ -638,19 +662,11 @@
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Celisse",
-          "url": "https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 469040,
-      "name": "House Of The Rising Sun - Live From New Orleans Jazz Fest",
-      "url": "https://open.spotify.com/track/4YfdnrjrSOHL8udlZ9tPyP"
+      "duration_ms": 369106,
+      "name": "Delta - Live At The O2",
+      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
     },
     {
       "added_at": null,

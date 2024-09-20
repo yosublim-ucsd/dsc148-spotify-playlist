@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 251179,
       "name": "\u4e00\u5207\u90fd\u6703\u904e\u53bb",
       "url": "https://open.spotify.com/track/73bcVrWq4kpMLYepdtxsyO"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181130,
       "name": "\u4f60\u662f\u6211\u7684\u552f\u4e00",
       "url": "https://open.spotify.com/track/3cdI85dZpIpvw1ARqdaQ9J"
@@ -2752,6 +2752,28 @@
       "duration_ms": 316833,
       "name": "\u56db\u6708\u662f\u9069\u5408\u8aaa\u8b0a\u7684\u65e5\u5b50",
       "url": "https://open.spotify.com/track/3IAct7dgBXQmRNcnYvnWFo"
+    },
+    {
+      "album": {
+        "name": "\u56de\u4e0d\u53bb\u7684\u79ae\u7269",
+        "url": "https://open.spotify.com/album/4HGYCl61MrPeXWCBNV1x6p"
+      },
+      "artists": [
+        {
+          "name": "Mikeyyy Jen",
+          "url": "https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk"
+        },
+        {
+          "name": "ABYSS",
+          "url": "https://open.spotify.com/artist/76vD78frGB35mbkmLfnihi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "\u56de\u4e0d\u53bb\u7684\u79ae\u7269",
+      "url": "https://open.spotify.com/track/1MMxAmO7uc5MV3GM0y8jLl"
     },
     {
       "album": {
@@ -3870,7 +3892,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 162653,
       "name": "\u5f8c\u8996\u93e1",
       "url": "https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI"
@@ -5351,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "\u6708\u5149\u592a\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/3uVoYHb8qfCTTRShfi2vRY"
+      },
+      "artists": [
+        {
+          "name": "Four Pens",
+          "url": "https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "\u6708\u5149\u592a\u6eab\u67d4",
+      "url": "https://open.spotify.com/track/10bRM8r3J6EkT9U5kEotPm"
+    },
+    {
+      "album": {
         "name": "\u6709\u4f60\u7684\u65e5\u5e38",
         "url": "https://open.spotify.com/album/0fNfI4IrEqZZdMU1A5QJML"
       },
@@ -6228,7 +6268,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174285,
       "name": "\u773c\u6dda",
       "url": "https://open.spotify.com/track/0FadVuelB7Srb98yUbTbwI"

@@ -1,6 +1,6 @@
 {
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favorites from the 2010s.",
-  "num_followers": 224365,
+  "num_followers": 224415,
   "original_name": "Headliners",
   "owner": {
     "name": "Spotify",
@@ -1323,7 +1323,7 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Forever - Deluxe",
+        "name": "Forever (Deluxe)",
         "url": "https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn"
       },
       "artists": [
@@ -2387,26 +2387,18 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
         }
       ],
-      "duration_ms": 184846,
-      "name": "Show Me Love - Radio Edit",
-      "url": "https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N"
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz"
     },
     {
       "added_at": "2024-07-09 21:05:06",
@@ -2427,18 +2419,26 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX"
       },
       "artists": [
         {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
         }
       ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz"
+      "duration_ms": 184846,
+      "name": "Show Me Love - Radio Edit",
+      "url": "https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N"
     },
     {
       "added_at": "2024-07-09 21:05:06",

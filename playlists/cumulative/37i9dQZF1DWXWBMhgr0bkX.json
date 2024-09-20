@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: CATTY",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Victor Ray",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170986,
       "name": "break me",
       "url": "https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205932,
       "name": "Could You Ever?",
       "url": "https://open.spotify.com/track/6ITKUhLctPRE0lZxgpvw2q"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151828,
       "name": "fly on the wall",
       "url": "https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 259375,
       "name": "Following My Heart",
       "url": "https://open.spotify.com/track/2aYwidfNNH7zhdtX7IDzPG"
@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190060,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
+    },
+    {
+      "album": {
         "name": "Healing Out of Spite",
         "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
       },
@@ -959,6 +977,24 @@
     },
     {
       "album": {
+        "name": "IDOL",
+        "url": "https://open.spotify.com/album/1u600odm5reUOVxzAV8zOH"
+      },
+      "artists": [
+        {
+          "name": "Ruby Duff",
+          "url": "https://open.spotify.com/artist/7arrmC5cRDHLESNxZmUax1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173748,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/0mnq2lTY2XvbZB8ioo7kCS"
+    },
+    {
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V"
       },
@@ -995,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Late to the World",
+        "url": "https://open.spotify.com/album/4i6RhvT0tM0B5hRTbBJTwJ"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Late to the World",
+      "url": "https://open.spotify.com/track/3duHt1lSXBP7OnyWnVbhJG"
+    },
+    {
+      "album": {
         "name": "let go of me slowly",
         "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
       },
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207348,
       "name": "let go of me slowly",
       "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
@@ -1197,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "oh my",
+        "url": "https://open.spotify.com/album/5DLmUPr3Fv2OaGrgPMKcRb"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "oh my",
+      "url": "https://open.spotify.com/track/0fTg49YN2gYmwilA8azvPP"
+    },
+    {
+      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/128ykHJFCEiD0lfdyQ9RW2"
       },
@@ -1226,7 +1298,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 224132,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY"
@@ -1395,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Still The Same",
+        "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194928,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
+    },
+    {
+      "album": {
         "name": "Studio Apartment",
         "url": "https://open.spotify.com/album/4sZi0Cl6KHqpYNJcUwwx7I"
       },
@@ -1464,6 +1554,24 @@
       "duration_ms": 204512,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180713,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
     },
     {
       "album": {

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Mumford & Sons. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
   "name": "This Is Mumford & Sons",
   "tracks": [
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240938,
+      "name": "42",
+      "url": "https://open.spotify.com/track/3T7hn54qWtZIEpJK2XeClP"
+    },
     {
       "album": {
         "name": "Sigh No More",
@@ -272,10 +290,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 376239,
       "name": "Delta",
       "url": "https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ"
+    },
+    {
+      "album": {
+        "name": "Gentlemen of the Road",
+        "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369106,
+      "name": "Delta - Live At The O2",
+      "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
     },
     {
       "album": {

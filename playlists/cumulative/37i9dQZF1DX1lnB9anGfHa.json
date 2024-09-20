@@ -1393,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "EDITS",
+        "url": "https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248439,
+      "name": "Everything is unreal - Valentina Magaletti Edit",
+      "url": "https://open.spotify.com/track/7ltVPWL8GUXUbKJiBYZgPq"
+    },
+    {
+      "album": {
         "name": "Original Fighter",
         "url": "https://open.spotify.com/album/4EOxbxXfaGo5LGkCR1Sfdo"
       },
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 357818,
       "name": "For a Burning World",
       "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
@@ -3866,10 +3888,28 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
+    },
+    {
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "album": {
@@ -4531,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
+    },
+    {
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -4796,7 +4854,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 293370,
       "name": "VOAR",
       "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,679 songs - 4 day 19 hr 8 min
+1,680 songs - 4 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,7 +1142,7 @@
 | [Paper Planes](https://open.spotify.com/track/0Lf7sSgj8fbOkLC68f5ldj) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN) | [Autonomous.](https://open.spotify.com/album/29HvI3jlicQ7a2pqxE9YtA) | 4:37 | 2020-03-20 | 2021-02-19 |
 | [Parachute](https://open.spotify.com/track/3NgAAoUZPkxL5mpvUI7Rl5) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Parachute](https://open.spotify.com/album/1yRcYuMJZfTpFGECIkRKgO) | 3:50 | 2020-08-06 | 2020-10-09 |
 | [Paradis \- Paradis reprise](https://open.spotify.com/track/42LqG7by3NJjZx4aF2W7Lu) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Le meilleur d'Alain Chamfort \(versions revisitées\)](https://open.spotify.com/album/5MYmRu1O2yPxAqwfC9IylD) | 6:20 | 2020-05-18 | 2020-07-03 |
-| [Paradise](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Paradise](https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo) | 4:07 | 2024-02-23 |  |
+| [Paradise](https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Paradise](https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo) | 4:07 | 2024-02-23 | 2024-09-20 |
 | [Paradise](https://open.spotify.com/track/3DO4r1LcdreYzoMR9gEKjq) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Paradise](https://open.spotify.com/album/0f5ddbtff3tuI0S9XMncQj) | 2:51 | 2020-03-16 | 2020-07-03 |
 | [Paradox](https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Paradox](https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy) | 3:30 | 2021-01-16 | 2024-03-23 |
 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 | 2020-03-20 | 2021-12-21 |
@@ -1270,6 +1270,7 @@
 | [Say a Prayer for Me](https://open.spotify.com/track/3wGVYicGXEt2lHwMpX6nvW) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:37 | 2020-05-18 | 2020-07-18 |
 | [Say My Name \(feat\. Zyra\)](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 4:22 | 2020-05-18 | 2020-07-03 |
 | [Say The Word](https://open.spotify.com/track/1CPfcxZSA4scOgRq8hVBW4) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Say The Word](https://open.spotify.com/album/5OXYSAiZRvzm9l0X1Q0XbZ) | 3:30 | 2020-03-16 | 2022-04-16 |
+| [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 |  |
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |

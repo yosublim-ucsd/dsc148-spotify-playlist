@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178015,
+      "name": "Strings Attached",
+      "url": "https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX"
+    },
+    {
+      "album": {
         "name": "stupidlittlegirl",
         "url": "https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN"
       },

@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159980,
       "name": "Enna Mayakkam",
       "url": "https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS"
@@ -3180,6 +3180,14 @@
         {
           "name": "Sharmili Karunanidhi",
           "url": "https://open.spotify.com/artist/4wnqsHyWxP8ajpAVas50Ir"
+        },
+        {
+          "name": "Velayutham Rajendran",
+          "url": "https://open.spotify.com/artist/1A9IIruHS11OyCCw8Jzg50"
+        },
+        {
+          "name": "Giant Music India",
+          "url": "https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb"
         }
       ],
       "date_added": "2024-09-18",
@@ -3694,7 +3702,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198955,
       "name": "Maya",
       "url": "https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl"
@@ -3946,6 +3954,44 @@
       "duration_ms": 117482,
       "name": "Montage - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/2aCkQwJH8IiKHPw9q8SGjB"
+    },
+    {
+      "album": {
+        "name": "Morattu School - From \"Think Indie\"",
+        "url": "https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz"
+      },
+      "artists": [
+        {
+          "name": "Madurai Souljour",
+          "url": "https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F"
+        },
+        {
+          "name": "Syan Saheer",
+          "url": "https://open.spotify.com/artist/3HIsm0H9DN47NZpHzOx8n9"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        },
+        {
+          "name": "Nowsa G",
+          "url": "https://open.spotify.com/artist/6JnLqE6htWnUihm5sJaK71"
+        },
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/2CPmjbtBNgcIo0nBVQCqIg"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Morattu School - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
     },
     {
       "album": {
@@ -6706,6 +6752,28 @@
       "duration_ms": 265151,
       "name": "Thoovum Mazhai",
       "url": "https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy"
+    },
+    {
+      "album": {
+        "name": "Thorarum Intha Payanam",
+        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Sahul",
+          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280725,
+      "name": "Thorarum Intha Payanam",
+      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
     },
     {
       "album": {

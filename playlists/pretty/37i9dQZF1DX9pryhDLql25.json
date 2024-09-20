@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, reusable totes, iced coffee, & all the lovely spring things",
-  "num_followers": 234911,
+  "num_followers": 234912,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "added_at": "2024-07-05 21:41:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 164538,
-      "name": "I Am Not Afraid",
-      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "B-Room (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YfNZx0s2EdfINsSoxqDe8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 217613,
       "name": "Nellie",
       "url": "https://open.spotify.com/track/1aRvUHgMe9ichgcHAAs12f"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 164538,
+      "name": "I Am Not Afraid",
+      "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
     },
     {
       "added_at": "2024-07-05 21:41:13",

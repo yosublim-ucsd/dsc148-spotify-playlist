@@ -2,7 +2,7 @@
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This is Nick Drake\. Todos os maiores hits em uma só playlist.
+> This is Nick Drake。アーティストの代表曲をひとつのプレイリストに。
 
 74 songs - 3 hr 30 min
 

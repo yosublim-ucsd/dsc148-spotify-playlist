@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 172926,
+  "num_followers": 172996,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "The Blob",
@@ -723,22 +739,6 @@
       "duration_ms": 142467,
       "name": "The Blob",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2024-06-21 04:00:00",

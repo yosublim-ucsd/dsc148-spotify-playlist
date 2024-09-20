@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 45937,
+  "num_followers": 45956,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Dolly (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
+      },
+      "artists": [
+        {
+          "name": "Dolly",
+          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Je n'veux pas rester sage",
+      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Vegas 76",
         "url": "https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 181573,
       "name": "Va y avoir du sport",
       "url": "https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Dolly (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
-      },
-      "artists": [
-        {
-          "name": "Dolly",
-          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Je n'veux pas rester sage",
-      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
     },
     {
       "added_at": "2024-06-24 19:56:15",

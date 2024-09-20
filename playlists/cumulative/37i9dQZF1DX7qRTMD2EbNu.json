@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Medikal",
+  "description": "Hottest bars coming live from the 233.  Cover: Pappy Kojo",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -815,6 +815,36 @@
     },
     {
       "album": {
+        "name": "Bird's Eye View",
+        "url": "https://open.spotify.com/album/5tjphbRqggABEV9wLw4fcW"
+      },
+      "artists": [
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188575,
+      "name": "AKOHWIE PARTY",
+      "url": "https://open.spotify.com/track/46tzntjf7g802oKFoJQNqJ"
+    },
+    {
+      "album": {
         "name": "Akokoa",
         "url": "https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD"
       },
@@ -1038,7 +1068,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 122666,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/4SBDVsLdnnd8A4kZTUejRr"
@@ -1122,7 +1152,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203736,
       "name": "ASOR",
       "url": "https://open.spotify.com/track/50ZxuYLK3Ksexm6GoyqRom"
@@ -1386,7 +1416,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 147080,
       "name": "Badniss",
       "url": "https://open.spotify.com/track/6vtL6zNMCt8BQcEDokPhr9"
@@ -1608,7 +1638,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181449,
       "name": "Believe",
       "url": "https://open.spotify.com/track/64tEQdoiuCD7MN8vb48R5H"
@@ -2224,7 +2254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 146343,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/6GWMQdbx4mqvS079Pd67ra"
@@ -2864,7 +2894,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 165250,
       "name": "DALI",
       "url": "https://open.spotify.com/track/3VCEHvGRFLH1UVt3hizyA3"
@@ -3166,7 +3196,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 144000,
       "name": "Domino Effect",
       "url": "https://open.spotify.com/track/4K6WiJ2Em8pjM6xbMaonyP"
@@ -4088,7 +4118,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161280,
       "name": "Fire On The Mountain (FOTM)",
       "url": "https://open.spotify.com/track/6euaDOrmLdSMkMACb8aP3J"
@@ -4230,7 +4260,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181250,
       "name": "Fly Again",
       "url": "https://open.spotify.com/track/05iZBAgxEOWCBJsY2SOctr"
@@ -4340,7 +4370,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 212682,
       "name": "For My Brothers",
       "url": "https://open.spotify.com/track/3FYCKu642w763na63IYp08"
@@ -4975,6 +5005,28 @@
     },
     {
       "album": {
+        "name": "Go for the Money",
+        "url": "https://open.spotify.com/album/2pWVgxGspYqIM3LEtyTckl"
+      },
+      "artists": [
+        {
+          "name": "Twiddle Freeman",
+          "url": "https://open.spotify.com/artist/3OdoFle3I8IKwf4Nqw9APF"
+        },
+        {
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136901,
+      "name": "Go for the Money",
+      "url": "https://open.spotify.com/track/4N2YVtFzy8eKNwudJFoGwP"
+    },
+    {
+      "album": {
         "name": "God Abeg (feat. Kwesi Arthur, Joey B & Kay T)",
         "url": "https://open.spotify.com/album/30tV92VWx0ImjvBDCNiJJf"
       },
@@ -5406,7 +5458,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
@@ -5714,6 +5766,28 @@
       "duration_ms": 270731,
       "name": "INTRO (Two Eagles)",
       "url": "https://open.spotify.com/track/5jnR8zbk6Rqz8zvy1ySnZq"
+    },
+    {
+      "album": {
+        "name": "Iron",
+        "url": "https://open.spotify.com/album/5YIeMa14BClS4EbIyBn5tR"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Iron",
+      "url": "https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh"
     },
     {
       "album": {
@@ -6590,7 +6664,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160000,
       "name": "Lane Switch",
       "url": "https://open.spotify.com/track/0tHze05YnqthLu0XTmP3Hc"
@@ -6868,7 +6942,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 123557,
       "name": "Love Or Money",
       "url": "https://open.spotify.com/track/4trjuu29tp3KzJg8M5YYp5"
@@ -7197,6 +7271,28 @@
     },
     {
       "album": {
+        "name": "Me Baby",
+        "url": "https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125363,
+      "name": "Me Baby",
+      "url": "https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG"
+    },
+    {
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/3lHTdBtPn88NOv2cjcwocX"
       },
@@ -7416,7 +7512,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 168000,
       "name": "Mmaa Bi",
       "url": "https://open.spotify.com/track/1PAGCXCR9aefQcyIAlbTiN"
@@ -8969,6 +9065,32 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6cKH0RbIFH9YOfKaGBZfDB"
+      },
+      "artists": [
+        {
+          "name": "Chicogod",
+          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219397,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/75z4tYzgDaisr9rc03cavg"
+    },
+    {
+      "album": {
         "name": "UGLY (U Gatts Love Yourself)",
         "url": "https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On"
       },
@@ -9160,7 +9282,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135652,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3sszt8XUJvSNjfRlLkvyNs"
@@ -10625,6 +10747,24 @@
     },
     {
       "album": {
+        "name": "Shutup!",
+        "url": "https://open.spotify.com/album/1OFLpDMtIUaYEWTiN8UTG3"
+      },
+      "artists": [
+        {
+          "name": "Kamafo",
+          "url": "https://open.spotify.com/artist/6Mf8MtQqWKe5kg5qfKYxp1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168100,
+      "name": "Shutup!",
+      "url": "https://open.spotify.com/track/2FDcON2cEoEcXAjiExmsGS"
+    },
+    {
+      "album": {
         "name": "Sika",
         "url": "https://open.spotify.com/album/350x7UlHy9nSUhCAAmMCqL"
       },
@@ -11390,7 +11530,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 100205,
       "name": "Tanfo No Ntwam",
       "url": "https://open.spotify.com/track/2Pwqizg86zHPBLQM1U7MKh"
@@ -12062,7 +12202,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205766,
       "name": "Tuxedo Music",
       "url": "https://open.spotify.com/track/2wTLsbplu6Pabg5Dg5rWB9"
@@ -13258,7 +13398,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205365,
       "name": "Yopoo",
       "url": "https://open.spotify.com/track/6CSieS8sgMugwPVBuWDZCW"

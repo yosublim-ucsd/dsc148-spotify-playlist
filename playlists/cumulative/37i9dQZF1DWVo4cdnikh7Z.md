@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vettaiyan
 
-1,465 songs - 3 day 17 hr 27 min
+1,466 songs - 3 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1178,6 +1178,7 @@
 | [Thadai Udayatha](https://open.spotify.com/track/084H83wKEA59rKfa31qT56) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Poikkal Kuthirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YVCRMdqLGIF0lIQYs7Bwx) | 3:53 | 2022-08-04 | 2022-08-11 |
 | [Thaensudare \- From "Lover"](https://open.spotify.com/track/6sGhpvvg6vK31bj0Ji6p2f) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Thaensudare \(From "Lover"\)](https://open.spotify.com/album/3Q8R41zIvwYPNoWjOAz4yi) | 3:36 | 2024-01-17 | 2024-02-24 |
 | [Thai Thai \- Rasavathi Fusion \(From "Rasavathi"\)](https://open.spotify.com/track/7HE2qxaYXEBmuW6FBq5uGZ) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Rasavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SNOozMnSdx9H6i9zp2Woh) | 4:09 | 2024-06-21 | 2024-09-01 |
+| [Thai Thakka Kalyanam \(From "Madraskaaran"\)](https://open.spotify.com/track/22rP4ZtasnKcb3piVHx3HM) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aparna](https://open.spotify.com/artist/4OiRqHPxirRjHT1w8NvwMb), [Elan](https://open.spotify.com/artist/4YaivpIWtLfgW7wDyZZmLz) | [Thai Thakka Kalyanam \(From "Madraskaaran"\)](https://open.spotify.com/album/3mfKMONe3FcDnRtazLF2Jt) | 4:02 | 2024-09-19 |  |
 | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/track/050r3774kILHWO4GYsB0Ab) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Deva](https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1) | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/album/7Ex9DuMwrHhyq64974ajMj) | 2:40 | 2024-07-19 | 2024-08-13 |
 | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/track/3ksNJELawyxwq4fLdKTPcV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Narendar Sankar](https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG), [Arish](https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX) | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik) | 3:28 | 2024-04-12 | 2024-07-23 |
 | [Thalaimaganey](https://open.spotify.com/track/1MX1LngPqGPTm94umi5zEQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL) | [Kaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6N45ZpLq22cKZQmpDfdVkw) | 2:36 | 2022-07-01 | 2022-07-08 |

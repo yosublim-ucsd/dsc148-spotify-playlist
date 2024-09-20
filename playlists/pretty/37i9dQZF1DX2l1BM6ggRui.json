@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6506,
+  "num_followers": 6511,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 262143,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 225295,
       "name": "BENCH (with Zion.T)",
       "url": "https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
-        "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
-        }
-      ],
-      "duration_ms": 262143,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "Summer Bliss",
-        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
-      },
-      "artists": [
-        {
-          "name": "JinE",
-          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Summer Bliss",
-      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
         "name": "System Error",
         "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202400,
       "name": "System Error",
       "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
+      },
+      "artists": [
+        {
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
     },
     {
       "added_at": "2024-09-04 08:03:50",

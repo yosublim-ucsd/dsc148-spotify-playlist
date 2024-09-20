@@ -4,7 +4,7 @@
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-78 songs - 8 hr 28 min
+79 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Agbara esu 'Wo \(Yoruba\)](https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 1:54 | 2021-12-28 |  |
 | [Aijemhen Tamabha \(Ishan\)](https://open.spotify.com/track/3PaupU38NfvkG2inb6AR7F) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 3:37 | 2022-01-13 | 2024-03-23 |
 | [Aijemhen Tamabha Bonus Track 1](https://open.spotify.com/track/1QmKnJPT2ZRnYNMEYMPzD1) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 2:31 | 2022-03-10 | 2024-05-28 |
-| [Amen Amen](https://open.spotify.com/track/6jWcMi16dIacOWK3UH18D2) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 4:30 | 2021-12-28 |  |
+| [Amen Amen](https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Arise](https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl) | 4:28 | 2024-09-20 |  |
+| [Amen Amen](https://open.spotify.com/track/6jWcMi16dIacOWK3UH18D2) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 4:30 | 2021-12-28 | 2024-09-20 |
 | [Arise](https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 5:21 | 2021-12-28 |  |
 | [Bonus Track](https://open.spotify.com/track/3T3TRQqkipdriFOOh3OTDg) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 6:13 | 2022-01-22 | 2024-09-05 |
 | [Bunie Ya \(Ibo\)](https://open.spotify.com/track/5xJKeI7ukXkjgr2qUctaRP) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 2:38 | 2022-01-02 | 2024-01-12 |
@@ -22,7 +23,7 @@
 | [Chukwu Nuru Onum \(Ibo\)](https://open.spotify.com/track/0WQSMSLscRr7V9bjHD7PUX) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 1:53 | 2021-12-29 | 2024-03-27 |
 | [Dance Of The Elephants](https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 7:28 | 2021-12-29 |  |
 | [Doctor Jesus / Draw Me Nearer](https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 8:20 | 2021-12-28 |  |
-| [Don't Cry](https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Super Hits](https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC) | 3:38 | 2021-12-29 | 2024-09-11 |
+| [Don't Cry](https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Super Hits](https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC) | 3:38 | 2021-12-29 |  |
 | [Don't Cry No More](https://open.spotify.com/track/2l3chGNBcDQygkMcvm9WnE) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Don't Cry No More](https://open.spotify.com/album/7FOVgvYCaqBUK4F9zWF1VY) | 30:44 | 2023-04-23 | 2023-04-25 |
 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 | 2021-12-28 |  |
 | [Fire In Soweto](https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fly African Eagle: The Best Of African Reggae](https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1) | 7:08 | 2021-12-28 |  |

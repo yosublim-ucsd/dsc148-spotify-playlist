@@ -2,9 +2,9 @@
 
 ### [POP JOY](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA">Sabrina Carpenter</a>
+> The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=Y3NfsvD3TQGd\_AIxZZX4Tw">Tate McRae</a>
 
-131 songs - 6 hr 33 min
+133 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Blame](https://open.spotify.com/track/4CuOZPjdBYIv2LBH2rjlcO) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Blame](https://open.spotify.com/album/1TaOehFY4w199Js31jlJWq) | 2:21 | 2024-06-27 |  |
 | [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 | 2024-06-27 | 2024-07-12 |
 | [Blood Rush](https://open.spotify.com/track/1ZmQmMqbbj72IgS8ZmxM6B) | [OLI Milne](https://open.spotify.com/artist/3u7rcxzEbguyPZHrucpbEB) | [Blood Rush](https://open.spotify.com/album/4vT01YKtwUdlEBFiBUI9BE) | 3:25 | 2024-07-25 | 2024-08-30 |
-| [bloom](https://open.spotify.com/track/43Nbcj9BLgwTgDXXVLkV9w) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [bloom.](https://open.spotify.com/album/2AyW4Wfl0oojlGNyojxuq9) | 2:27 | 2024-08-29 |  |
+| [bloom](https://open.spotify.com/track/43Nbcj9BLgwTgDXXVLkV9w) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [bloom.](https://open.spotify.com/album/2AyW4Wfl0oojlGNyojxuq9) | 2:27 | 2024-08-29 | 2024-09-20 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-27 | 2024-07-12 |
 | [Cigarettes](https://open.spotify.com/track/3RU8NyQwkwPIw4L3kR7I4a) | [EFACT](https://open.spotify.com/artist/7uBZbV9uLgPw7M7zxoUWKH) | [Cigarettes](https://open.spotify.com/album/4IjxbjGFR6SfCW46ZgQVdk) | 2:29 | 2024-08-23 |  |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-07-11 |  |
@@ -72,10 +72,11 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-09 |  |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [I Won't Let You Down](https://open.spotify.com/track/2OtHrRQpXoiz9Z1vbg6EPS) | [KYLE ZION](https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv) | [I Won't Let You Down](https://open.spotify.com/album/59LEK5PJusHfE8oLpskdhU) | 3:32 | 2024-07-11 | 2024-07-19 |
-| [i'll be waiting](https://open.spotify.com/track/0uOeZVpJSYW3g9d3VYKgcS) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [up on lonelyhill](https://open.spotify.com/album/5S7oPvn1SOQSN2EXPj39Xh) | 2:02 | 2024-08-29 |  |
+| [i'll be waiting](https://open.spotify.com/track/0uOeZVpJSYW3g9d3VYKgcS) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [up on lonelyhill](https://open.spotify.com/album/5S7oPvn1SOQSN2EXPj39Xh) | 2:02 | 2024-08-29 | 2024-09-20 |
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-27 | 2024-07-12 |
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2024-06-27 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 | 2024-07-13 |
+| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-19 |  |
 | [Just Because I Called You](https://open.spotify.com/track/2cJD1X7Kx1qw4ZzgKOahbp) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Just Because I Called You](https://open.spotify.com/album/56TTQbHBeUhFscE5wJbE9p) | 2:48 | 2024-08-15 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Little Boy Ego](https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Little Boy Ego](https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ) | 2:20 | 2024-08-09 |  |
@@ -92,6 +93,7 @@
 | [Nobody Knows](https://open.spotify.com/track/1JpAOBxF5pwxd3SqkcX7BD) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Nobody Knows](https://open.spotify.com/album/0eUVqTxFN57calcxdfKOEr) | 3:11 | 2024-06-27 | 2024-08-03 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-06-27 | 2024-07-12 |
 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 | 2024-06-27 | 2024-08-03 |
+| [One Last Chance](https://open.spotify.com/track/67KTEMcMLq0rrByxzzZku8) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [One Last Chance](https://open.spotify.com/album/3ZD7EyDa4Tb3kPPVvog8xQ) | 2:39 | 2024-09-19 |  |
 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 | 2024-06-27 | 2024-07-27 |
 | [Over You \- with kidprod](https://open.spotify.com/track/5EaiFDJtBnLQOnseRadv3y) | [Helena Bowiee](https://open.spotify.com/artist/7hOo6y89ZTGJFpgknBgvPY), [kidprod](https://open.spotify.com/artist/1qWerMLMHQqUo3KzT1py3R) | [Over You \- with kidprod](https://open.spotify.com/album/1tDUKKQVX0n7aYfuKNr2uS) | 2:57 | 2024-09-06 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 |  |

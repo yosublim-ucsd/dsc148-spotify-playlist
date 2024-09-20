@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: GEMINI\(제미나이\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
 421 songs - 23 hr 1 min
 

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Cover: Josh Makazo
+> Unearthing trailblazers\. Cover: Axel Brizzy
 
-77 songs - 4 hr 11 min
+78 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 |  |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 |  |
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-18 |  |
+| [PHASES](https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [PHASES](https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3) | 1:53 | 2024-09-19 |  |
 | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/track/5EJEftAM7FGp3rqzqlGTAj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/album/3ObMniiI2YCYoaNXWhWBYW) | 2:52 | 2024-06-27 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-06-27 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 |  |

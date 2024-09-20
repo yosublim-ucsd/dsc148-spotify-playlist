@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Dearly Loved",
+        "url": "https://open.spotify.com/album/70G3EkWnamHdFF7Oddrm8v"
+      },
+      "artists": [
+        {
+          "name": "Gianna Minichiello",
+          "url": "https://open.spotify.com/artist/2opSEMQBfqfYDAiFBwDdk5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247115,
+      "name": "Dearly Loved",
+      "url": "https://open.spotify.com/track/339gbkFVGkQTIPM9A15VZq"
+    },
+    {
+      "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
       },
@@ -7112,6 +7130,24 @@
       "duration_ms": 169545,
       "name": "System Overload",
       "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
+    },
+    {
+      "album": {
+        "name": "Far From Saints",
+        "url": "https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn"
+      },
+      "artists": [
+        {
+          "name": "Far From Saints",
+          "url": "https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278978,
+      "name": "Take It Through the Night",
+      "url": "https://open.spotify.com/track/1gIAdQnDMhaKnByELvnFSu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: De Toegift
 
-83 songs - 4 hr 20 min
+84 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-06-26 |  |
 | [Goed Te Doen](https://open.spotify.com/track/2vwrImhVOVhdzgl25rEVE8) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm) | [Geen Signaal](https://open.spotify.com/album/41XR32hBMfew3oH550j09D) | 3:09 | 2024-06-26 | 2024-09-14 |
 | [Grote Broer](https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Grote Broer](https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc) | 2:33 | 2024-09-13 |  |
+| [haat](https://open.spotify.com/track/0Nkdy8Lb6KBPcxeIGHRMYs) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [haat](https://open.spotify.com/album/0r93awg0AivOwHw6oyzZar) | 3:04 | 2024-09-19 |  |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
@@ -79,7 +80,7 @@
 | [Venus \(ft\. Noor\)](https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n), [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Venus \(ft\. Noor\)](https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1) | 2:50 | 2024-06-26 | 2024-09-13 |
 | [Verandering](https://open.spotify.com/track/4d9w7JlpKkJo6CebG6x1Qa) | [Mark Lohmann](https://open.spotify.com/artist/23mtrfcjOOC8KMAMKDlB3W) | [Verandering](https://open.spotify.com/album/64MsgVgm6ni1ESraM57AeX) | 3:02 | 2024-06-26 |  |
 | [Vlinders](https://open.spotify.com/track/0kH5uCNI4j4nfsAm7CPMXf) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Vlinders](https://open.spotify.com/album/4vd7CpSkbw1Vf8phtMg9c1) | 2:16 | 2024-09-12 |  |
-| [Vluchten](https://open.spotify.com/track/45KPvfvpbCmluDSS1Q8G8Q) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Vluchten](https://open.spotify.com/album/6AQ7NbJsj0KxzPBSNGGcFl) | 3:09 | 2024-06-26 |  |
+| [Vluchten](https://open.spotify.com/track/45KPvfvpbCmluDSS1Q8G8Q) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Vluchten](https://open.spotify.com/album/6AQ7NbJsj0KxzPBSNGGcFl) | 3:09 | 2024-06-26 | 2024-09-20 |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 |  |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 |  |
 | [Weekenden](https://open.spotify.com/track/4oEvC47XYKLzUbcTnSMmcN) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Weekenden](https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX) | 3:44 | 2024-08-01 |  |

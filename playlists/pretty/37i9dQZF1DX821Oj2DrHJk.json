@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 30226,
+  "num_followers": 30225,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Communiqu\u00e9",
         "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 224666,
       "name": "Lady Writer",
       "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Bachman-Turner Overdrive II",
         "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 422853,
+      "name": "Time - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 204464,
       "name": "Stay - Remastered",
       "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 422853,
-      "name": "Time - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
         "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197613,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Houses of the Holy (1994 Remaster)",
-        "url": "https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP"
+        "name": "Back and Fourth",
+        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Lindisfarne",
+          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Over the Hills and Far Away - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+      "duration_ms": 260733,
+      "name": "Run for Home",
+      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Houses of the Holy (1994 Remaster)",
+        "url": "https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Over the Hills and Far Away - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Watch",
         "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 354933,
       "name": "Davy's on the Road Again",
       "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
       },
       "artists": [
         {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Get Down and Get With It",
-      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Back and Fourth",
-        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
       "artists": [
         {
-          "name": "Lindisfarne",
-          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
         }
       ],
-      "duration_ms": 260733,
-      "name": "Run for Home",
-      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
+      "duration_ms": 230173,
+      "name": "Get Down and Get With It",
+      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Since We've Been Gone",
+        "url": "https://open.spotify.com/album/7zRC8iLx8ixniN0rfJwdzc"
+      },
+      "artists": [
+        {
+          "name": "Clout",
+          "url": "https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/5po2HCMZvJ0aPSxRRGKm3p"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Chronicles 1968-1984",
         "url": "https://open.spotify.com/album/1tfEee9DdUwUbddcYasTVL"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 261773,
       "name": "D'yer Mak'er - 1990 Remaster",
       "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "The Complete UK Recordings",
-        "url": "https://open.spotify.com/album/3gyK04qL9Si5MgCidiVy1V"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 241572,
-      "name": "The Wall Street Shuffle",
-      "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"
     }
   ],
   "unique_name": "70s Summer Rock",

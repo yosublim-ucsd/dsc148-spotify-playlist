@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 2 hr 47 min
+57 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Where Am I Going?](https://open.spotify.com/track/6LVQN95MVvXSvDL5cgcHsJ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Color Me Barbra](https://open.spotify.com/album/4aBWPP2oFW7J4efNtqEGkl) | 2:49 | 2024-07-26 |  |
 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 | 2024-07-26 |  |
 | [You Should See Yourself](https://open.spotify.com/track/0God9rD4Lq8Eae0aUMcjHr) | [Juliet Prowse](https://open.spotify.com/artist/52jUxIZzhM3CisfGkwEYvE) | [Sweet Charity \(Original London Cast Recording\)](https://open.spotify.com/album/7JrTJd7SIwclbJDRosnVFm) | 2:29 | 2024-07-26 |  |
-| [You Wanna Bet](https://open.spotify.com/track/5BRtQlAQzb84V3kFOwpvkt) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Just For The Record...](https://open.spotify.com/album/09SKzENGpfizO0CuesEvOV) | 2:27 | 2024-07-26 |  |
+| [You Wanna Bet](https://open.spotify.com/track/2MFYRCATRIvkBX6YGUV7eG) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Just For The Record...](https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj) | 2:27 | 2024-09-19 |  |
+| [You Wanna Bet](https://open.spotify.com/track/5BRtQlAQzb84V3kFOwpvkt) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Just For The Record...](https://open.spotify.com/album/09SKzENGpfizO0CuesEvOV) | 2:27 | 2024-07-26 | 2024-09-20 |
 | [You're A Lovable Lunatic](https://open.spotify.com/track/6kKdTZaBYCnX6t6YnUtMZI) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:21 | 2024-07-26 |  |
 | [Zenophile](https://open.spotify.com/track/3jEq5wdDxv0EK1I8HH24LO) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:10 | 2024-07-26 |  |
 

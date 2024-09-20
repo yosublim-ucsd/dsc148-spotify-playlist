@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Hiwaga",
+        "url": "https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd"
+      },
+      "artists": [
+        {
+          "name": "Tatin DC",
+          "url": "https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Hiwaga",
+      "url": "https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno"
+    },
+    {
+      "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },

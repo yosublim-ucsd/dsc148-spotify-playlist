@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "PagoDi #2 com Di Prop\u00f3sito",
+        "url": "https://open.spotify.com/album/49YtgHOl5RIY76LUSKQVrM"
+      },
+      "artists": [
+        {
+          "name": "Diney",
+          "url": "https://open.spotify.com/artist/6aCdgfPW2UdRENM5XC3145"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193783,
+      "name": "Ilus\u00e3o / Conto De Fadas",
+      "url": "https://open.spotify.com/track/3i7TpsLv9dHgCBlUnzliJB"
+    },
+    {
+      "album": {
         "name": "Rodriguinho No Game, Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GMVszvxSzks6l3PeH53cM"
       },
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 295234,
       "name": "Meu Casamento / A Carta / M\u00f4 - Ao Vivo",
       "url": "https://open.spotify.com/track/4dmt6HzJoKzEXtpHuXICfx"
@@ -2904,7 +2926,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 238421,
       "name": "T\u00f4 Aqui / \u00c9 Assim Que Funciona - Ao Vivo",
       "url": "https://open.spotify.com/track/4fLSDOFd1eOsuQLefcrWFN"

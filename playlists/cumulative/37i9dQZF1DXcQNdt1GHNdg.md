@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-99 songs - 4 hr 57 min
+100 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-09-04 |  |
 | [Dollar \- From "Dakuaan Da Munda"](https://open.spotify.com/track/7rXDc2ImBGwcypUFbNqbFB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Dollar \(From "Dakuaan Da Munda"\)](https://open.spotify.com/album/2keQd2w6kV8FJD2ZSGPlp7) | 2:37 | 2024-07-01 |  |
 | [DOWNTOWN](https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Aziz](https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU) | [DOWNTOWN](https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD) | 2:34 | 2024-09-10 |  |
-| [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 |  |
+| [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 | 2024-09-20 |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2023-07-18 |  |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2023-07-18 | 2024-04-19 |
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2024-04-06 |  |
@@ -58,6 +58,7 @@
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-07-18 | 2023-09-05 |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 | 2024-09-13 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |
+| [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 |  |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |
 | [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 | 2024-06-03 |  |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-06 |  |

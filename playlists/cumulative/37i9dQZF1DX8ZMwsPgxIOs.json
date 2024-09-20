@@ -1795,6 +1795,32 @@
     },
     {
       "album": {
+        "name": "DIZZY",
+        "url": "https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "DIZZY",
+      "url": "https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ"
+    },
+    {
+      "album": {
         "name": "Do It Jay",
         "url": "https://open.spotify.com/album/4jIO6CvX0UM6gYBMV9hhJH"
       },
@@ -3416,7 +3442,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 173554,
       "name": "In The Dark (feat. Maria Mathea)",
       "url": "https://open.spotify.com/track/7xsbPoykY9CaBblguhsFDF"

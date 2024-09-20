@@ -2,15 +2,16 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yuna, Bunga Citra Lestari
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ziva Magnolya
 
-225 songs - 14 hr 55 min
+227 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 |  |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-26 | 2024-02-09 |
 | [3..2..1](https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [3..2..1](https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg) | 3:23 | 2024-07-11 |  |
+| [Abadi](https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Abadi](https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX) | 3:52 | 2024-09-19 |  |
 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 | 2024-01-26 | 2024-04-12 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-26 |  |
 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 | 2024-08-08 |  |
@@ -57,6 +58,7 @@
 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 | 2024-06-13 |  |
 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/3P4GuhNOuhUVomoKZiIVVl) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 | 2024-07-18 |  |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-03-07 | 2024-05-03 |
+| [Di Depan Mata](https://open.spotify.com/track/0OVkYfGRgD1hHBCwMgl39y) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Di Depan Mata](https://open.spotify.com/album/6Ryjq3Sbvru0bQhzPZQRwC) | 2:37 | 2024-09-19 |  |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl) | 4:02 | 2024-02-15 |  |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 |  |
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-29 |  |

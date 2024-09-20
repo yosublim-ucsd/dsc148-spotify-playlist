@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: BENEE
 
-168 songs - 9 hr 28 min
+173 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blue Eyed Māori](https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Road From 26](https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R) | 3:16 | 2024-05-20 |  |
 | [Body](https://open.spotify.com/track/1fl7OiMREgGebEZtqXi17j) | [Isla Noon](https://open.spotify.com/artist/14DaqRFdDOsSnbpw4cNhku) | [Body](https://open.spotify.com/album/5oonGFobUjrE4zPb1a8TFV) | 3:16 | 2024-05-20 | 2024-08-16 |
 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 | 2024-05-20 |  |
+| [Boys & Guitars](https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Boys & Guitars](https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf) | 3:55 | 2024-09-19 |  |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 |  |
 | [CANADA \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 | 2024-05-20 |  |
 | [Candy's House \(Comedown Song\)](https://open.spotify.com/track/4HBQRNQTA6Wq4PgIauAWMB) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling \(Deluxe\)](https://open.spotify.com/album/5uMEjjSH41zZbl4XpI4KDC) | 3:06 | 2024-05-20 |  |
@@ -48,6 +49,7 @@
 | [Dive In](https://open.spotify.com/track/0BWKkETNA7fSckRvLtvkK8) | [Bailey Kauri](https://open.spotify.com/artist/0QaFU0eedD5rZ0BjUdON5Q) | [Dive In](https://open.spotify.com/album/1rTnfx8RRbpqgJYz4f7ecJ) | 3:08 | 2024-05-20 |  |
 | [Doesn't Really Matter \(feat\. BEXY\)](https://open.spotify.com/track/68CFmjw8xUSiiRvJvWR3SV) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [The Lovers](https://open.spotify.com/album/0a0Trgb4aUfCgsmlwJcPNR) | 3:23 | 2024-05-20 |  |
 | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/track/5YxYUGOFCEykntX1AYYqK4) | [Tablefox](https://open.spotify.com/artist/6CqjVdTvys0JpDoWs7FsBo) | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/album/2HbSx1TVZbDgRCZsFNByMA) | 3:16 | 2024-05-20 |  |
+| [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-19 |  |
 | [Driftwood](https://open.spotify.com/track/6wRGndiL768o93yms0HdL8) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Driftwood](https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX) | 4:28 | 2024-05-20 |  |
 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 | 2024-05-20 |  |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-05-20 |  |
@@ -94,6 +96,8 @@
 | [Kātuarehe](https://open.spotify.com/track/0nE77HMICYZIYuari7ZrIA) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Kātuarehe](https://open.spotify.com/album/2KqItPwvyMukaYUPvWsAfb) | 3:13 | 2024-05-20 |  |
 | [Largo](https://open.spotify.com/track/7EG26r1w1cnsJdmPt27o2l) | [Thorington](https://open.spotify.com/artist/2ZfNUfuaM93ICPYjH0Zgq8) | [Largo](https://open.spotify.com/album/6yxOW2mT4AfdpFO4L8IV2I) | 3:10 | 2024-05-20 |  |
 | [Let Me Be Yours](https://open.spotify.com/track/6z1mfrdITyt4CGfed0zI1T) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Let Me Be Yours](https://open.spotify.com/album/2XplTY58dX4a7ukv03vsf1) | 2:42 | 2024-08-22 |  |
+| [Losing](https://open.spotify.com/track/31tIu7G9mSDiyGOYHz8quT) | [Malaika Hollis](https://open.spotify.com/artist/3696qanPPj106KYt3OgCYs), [Benjamin Mack](https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY) | [Losing](https://open.spotify.com/album/7aR7IeEPn91t2yWXsN6XiW) | 4:00 | 2024-09-19 |  |
+| [Lost In My Hometown](https://open.spotify.com/track/0L3IuBW2pn5J3vROvxQqKi) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Lost In My Hometown](https://open.spotify.com/album/5dQIbDRTue1cLg8CVDfDwA) | 3:22 | 2024-09-19 |  |
 | [Love A Little Harder](https://open.spotify.com/track/3kOZgGwiAb7grQ26s4vXzG) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Love A Little Harder](https://open.spotify.com/album/5v2QbRsOlELlQiIorUJY0L) | 3:16 | 2024-05-20 | 2024-08-16 |
 | [Love Don't Grow On Trees](https://open.spotify.com/track/2LZjTddisitQafI4f5QoLd) | [George VILLA](https://open.spotify.com/artist/67Wggp3SoXqwxLJ1LJLNQG) | [Empty Pockets](https://open.spotify.com/album/6Q8FqgR6uJOjQJlxkrm6Zn) | 3:01 | 2024-05-20 |  |
 | [Love Is Forever](https://open.spotify.com/track/50IDVlnEwqUCQojfXDzUqp) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Love Is Forever](https://open.spotify.com/album/1N2EU88sJq1fJceLbYA4OO) | 3:43 | 2024-08-22 |  |
@@ -128,6 +132,7 @@
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 |  |
 | [Porcelain](https://open.spotify.com/track/2b8HXdCOw96FHzRAIx8Kps) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Porcelain](https://open.spotify.com/album/2pEMwAZNzrG1LP66stCLQH) | 2:09 | 2024-05-20 | 2024-08-16 |
 | [POSTAL](https://open.spotify.com/track/7aK38P1i3t9OuvQelbDffo) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [POSTAL](https://open.spotify.com/album/4vcokRs3TMvHwLUWo1OXsG) | 2:35 | 2024-05-20 | 2024-08-16 |
+| [Poster Child](https://open.spotify.com/track/4sDjLipNP96jVxQHUcHUdy) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Poster Child](https://open.spotify.com/album/5IFuUoLgYyVAWR9BJp7Ytn) | 3:22 | 2024-09-19 |  |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-08-15 |  |
 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 | 2024-05-20 |  |
 | [Read Receipts](https://open.spotify.com/track/4vNtMNmb1bMVWQ29sSzMEb) | [Ella Minehan](https://open.spotify.com/artist/73WeJhBBrjJ8MhWBz0jtDU) | [Read Receipts](https://open.spotify.com/album/0ev9T3dsXGzWvvZt4hToyn) | 2:41 | 2024-05-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1049000,
+  "num_followers": 1049064,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-11 16:34:18",
       "album": {
-        "name": "April May July",
-        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "April May July",
-      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
-    },
-    {
-      "added_at": "2024-09-11 16:34:18",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2024-09-11 16:34:18",
+      "album": {
+        "name": "April May July",
+        "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "April May July",
+      "url": "https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy"
     },
     {
       "added_at": "2024-09-11 16:34:18",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Turfy Gang & Russo",
+  "description": "Altijd fris in Fresh Hits. Cover: Ronnie Flex, Antoon, Lil Kleine & Kraantje Pappie",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 165555,
       "name": "After Six",
       "url": "https://open.spotify.com/track/0QvcF7ded1Fcbs0lk4jDR4"
@@ -2498,6 +2498,40 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "album": {
+        "name": "Chin Chin",
+        "url": "https://open.spotify.com/album/0yRFDaWNxewWlMdelzLOqZ"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148329,
+      "name": "Chin Chin",
+      "url": "https://open.spotify.com/track/7sEe6B2uzEziUaMAszvnF7"
     },
     {
       "album": {
@@ -5710,7 +5744,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
@@ -6395,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "Ik Spaar Geen Centen",
+        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166923,
+      "name": "Ik Spaar Geen Centen",
+      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
+    },
+    {
+      "album": {
         "name": "Ik Space",
         "url": "https://open.spotify.com/album/0z3l97NfPujHK3s654j8mB"
       },
@@ -6502,6 +6554,24 @@
       "duration_ms": 148930,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "album": {
+        "name": "Industry Plant",
+        "url": "https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140643,
+      "name": "Industry Plant",
+      "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
     },
     {
       "album": {
@@ -12330,7 +12400,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 284892,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"

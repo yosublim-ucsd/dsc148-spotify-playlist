@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:  Kiri T
+> 感受超級女聲力量。Cover:  張蔓姿 Gigi Cheung
 
-367 songs - 22 hr 3 min
+372 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Speak Love](https://open.spotify.com/track/0BQaaSfzHe9Grd7DID3An9) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Speak Love](https://open.spotify.com/album/6ABfEqC4ZRjjQcVBeBgeUl) | 3:09 | 2024-06-27 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2024-06-27 |  |
 | [sshhh…](https://open.spotify.com/track/1ntwBeaEUMmFzR6SJq3iup) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [DAUGHTER](https://open.spotify.com/album/4zOICyB23JoocOuCVcTlXr) | 4:07 | 2024-06-27 |  |
+| [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 | 2024-09-19 |  |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2024-06-27 |  |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2024-06-27 |  |
 | [The Day When We Fall In Love](https://open.spotify.com/track/7C6wqYtVofGYkzyLG9eCbz) | [Sing Sing Rabbit](https://open.spotify.com/artist/4SHdX6y9hMSewXVDSD4kJL), [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [The Day When We Fall In Love](https://open.spotify.com/album/4sM13Rk9bJL6nflJXh9E2c) | 4:20 | 2024-06-27 |  |
@@ -137,6 +138,7 @@
 | [三人之境](https://open.spotify.com/track/6A7w1iRnVhtD4BJJcXqbTz) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [三人之境](https://open.spotify.com/album/2srLj2cAbXMvsPwM1SOvgK) | 3:38 | 2024-06-27 |  |
 | [上載中](https://open.spotify.com/track/0B8WoUBod351rAw8zzgANQ) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [上載中](https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs) | 3:21 | 2024-06-27 |  |
 | [下回分解](https://open.spotify.com/track/2YVmqUOuUXhTy9B0Sxi7jS) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [下回分解](https://open.spotify.com/album/0E3gCm9p3QSilrW3xlX88H) | 3:39 | 2024-06-27 |  |
+| [下落不明](https://open.spotify.com/track/6LHoRKXWgmCa6m0I92sKq7) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [下落不明](https://open.spotify.com/album/42FVHjGTUMdoy9cxyyDW2o) | 3:07 | 2024-09-19 |  |
 | [不冷淡不熱情](https://open.spotify.com/track/5wR1LPy7JMTHRHVSK4Zr0U) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [不冷淡不熱情](https://open.spotify.com/album/5N2mQsGWHB5XxRvq4DJlit) | 3:12 | 2024-06-27 |  |
 | [不只一萬八千個世界](https://open.spotify.com/track/6dxnGw39wSMg4ni7Vvzthl) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [這段時間的我正在⋯](https://open.spotify.com/album/5HPgwunguvcYk9UsFLNl6T) | 3:10 | 2024-06-27 |  |
 | [不怕](https://open.spotify.com/track/3hgIDtoDgPFTg2aInipKaS) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [不怕](https://open.spotify.com/album/6CMCrVnGLnCyHvqhe1BnS0) | 4:16 | 2024-06-27 |  |
@@ -198,6 +200,7 @@
 | [單戀這件小事](https://open.spotify.com/track/00ySQSYPxGTttzsTEgctqQ) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [單戀這件小事](https://open.spotify.com/album/718IdkPUNXGPIjsV6ksata) | 3:40 | 2024-06-27 |  |
 | [喵喵厭世學](https://open.spotify.com/track/5Cex2CJTLDN1bWbtF9RZ8W) | [黃健怡](https://open.spotify.com/artist/7qajreH6nUWuPXAoW2BFSb) | [喵喵厭世學](https://open.spotify.com/album/7kEm3PHPvDwFbVDIMXXuwV) | 4:01 | 2024-06-27 |  |
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 |  |
+| [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 | 2024-09-19 |  |
 | [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-06-27 |  |
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 |  |
 | [外星人接我回去](https://open.spotify.com/track/6GeBNMn9w7i6O6fJnrUt1d) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [外星人接我回去](https://open.spotify.com/album/7m6KVg6aPZIU7Bs0xOtUcN) | 3:50 | 2024-08-15 |  |
@@ -212,6 +215,7 @@
 | [天光前](https://open.spotify.com/track/5UlWJqt2iwFInXuNbEIJYg) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [天光前](https://open.spotify.com/album/6YkSTBMkKxFVL8myvSCy8U) | 4:01 | 2024-06-27 |  |
 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 | 2024-06-27 |  |
 | [奇異小姐](https://open.spotify.com/track/5hb1TiQaIVSOrmhPJpXFfd) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [奇異小姐](https://open.spotify.com/album/1ebYCGrJWdsrzz1hiZ5CDV) | 3:44 | 2024-06-27 |  |
+| [女一](https://open.spotify.com/track/36uFp4Tu85AHSVi6HsqdH9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [女一](https://open.spotify.com/album/1b39BRMJrjWrENOq4GXcPd) | 3:08 | 2024-09-19 |  |
 | [好想約你](https://open.spotify.com/track/0x6o3UbrmjM8VdrHHTPVzn) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [好想約你](https://open.spotify.com/album/7edAxppHOZayxUVNQ49AV3) | 3:18 | 2024-06-27 |  |
 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 | 2024-06-27 |  |
 | [孤島 \- 劇集《旁觀者》主題曲](https://open.spotify.com/track/5gVYg7bkbQxK0aemnXBbJB) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [孤島 \(劇集《旁觀者》主題曲\)](https://open.spotify.com/album/5dJZaBBUhpg3jZYTNax4bA) | 3:28 | 2024-06-27 |  |
@@ -256,6 +260,7 @@
 | [我的受保護動物](https://open.spotify.com/track/5YW8XsFfxPJIi5SmMbDVZk) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [我的受保護動物](https://open.spotify.com/album/42oZpxR4YktkYD2j0jkteb) | 3:37 | 2024-06-27 |  |
 | [我管你](https://open.spotify.com/track/3qKe75UobYYTVUzGbecFCe) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [我管你](https://open.spotify.com/album/0f4XgQNQQYoPbcakThonv2) | 3:28 | 2024-06-27 |  |
 | [我該放手](https://open.spotify.com/track/1ldMLpWMFcD28gbd9TICkv) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [我該放手](https://open.spotify.com/album/2XMt1UpqcAckoLUBKPytyC) | 4:44 | 2024-06-27 |  |
+| [我養你 Pamper Ü](https://open.spotify.com/track/2xHtMhtGFjKGNZ6AibKDpz) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [我養你 Pamper Ü](https://open.spotify.com/album/6BDOJxX6c4XbgBWkYT1VB6) | 2:56 | 2024-09-19 |  |
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2024-06-27 |  |
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2024-06-27 |  |
 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 | 2024-06-27 |  |

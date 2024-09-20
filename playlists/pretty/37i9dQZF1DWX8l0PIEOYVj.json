@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: William Black & Said The Sky",
-  "num_followers": 473588,
+  "num_followers": 473562,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "duration_ms": 286779,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 185600,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        }
-      ],
-      "duration_ms": 286779,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
-        }
-      ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Where We Begin",
         "url": "https://open.spotify.com/album/1oZ9rIZfHUYdUN4Gcyz731"
       },
@@ -2299,6 +2279,26 @@
       "duration_ms": 254781,
       "name": "Where We Begin",
       "url": "https://open.spotify.com/track/6rf680mAgiGns6trRbEJ3g"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Pyroclastic",
-        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Pyroclastic",
-      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "seethelight",
         "url": "https://open.spotify.com/album/0T896ntGW4bbhhEJh8BLf4"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 179275,
       "name": "seethelight",
       "url": "https://open.spotify.com/track/5qIxlh4rXTlFH0mNhFtGPh"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Pyroclastic",
+        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Pyroclastic",
+      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Ashes (feat. Rory Hope)",
-        "url": "https://open.spotify.com/album/666Rc8xfIRdhHk4eeQQc6X"
-      },
-      "artists": [
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Ashes (feat. Rory Hope)",
-      "url": "https://open.spotify.com/track/6hSfQTINrgr3IFkr11rYgn"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ"
       },
@@ -2543,6 +2523,26 @@
       "duration_ms": 221772,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Ashes (feat. Rory Hope)",
+        "url": "https://open.spotify.com/album/666Rc8xfIRdhHk4eeQQc6X"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Ashes (feat. Rory Hope)",
+      "url": "https://open.spotify.com/track/6hSfQTINrgr3IFkr11rYgn"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2579,6 +2579,26 @@
       "duration_ms": 224516,
       "name": "With Or Without",
       "url": "https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "White Knuckles",
+        "url": "https://open.spotify.com/album/5ZKy72bbl42PhLGUz1u4oj"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "BRAYTON",
+          "url": "https://open.spotify.com/artist/2kWyIV9pjjzmbQo7ZY62VL"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "White Knuckles",
+      "url": "https://open.spotify.com/track/3DEcNTbmihMylwMFGn0IUz"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2639,26 +2659,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "White Knuckles",
-        "url": "https://open.spotify.com/album/5ZKy72bbl42PhLGUz1u4oj"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "BRAYTON",
-          "url": "https://open.spotify.com/artist/2kWyIV9pjjzmbQo7ZY62VL"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "White Knuckles",
-      "url": "https://open.spotify.com/track/3DEcNTbmihMylwMFGn0IUz"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
       },
@@ -2695,30 +2695,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Never Go Back",
-        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Violet Sky (feat. Sarah de Warren)",
         "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
       },
@@ -2739,26 +2715,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "North Star",
-        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
       "artists": [
         {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
         },
         {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
         },
         {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 189600,
-      "name": "North Star",
-      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2807,6 +2783,30 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "North Star",
+        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Falling Into Mystery",
         "url": "https://open.spotify.com/album/5DwjKbl2SqOzkyM7IHIfNV"
       },
@@ -2847,6 +2847,26 @@
       "duration_ms": 288000,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/7xT99lphDyMw4UCkKquxf9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Stop The Fire",
+        "url": "https://open.spotify.com/album/1lQhOigZZfyqZHSy5aTGWe"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 260424,
+      "name": "Stop The Fire",
+      "url": "https://open.spotify.com/track/3y8pF3nDIebdqfqNAY9JKw"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2967,26 +2987,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Sanctum Eternal (Au5 Remix)",
-        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
-      },
-      "artists": [
-        {
-          "name": "Essenger",
-          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
-        },
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Sanctum Eternal - Au5 Remix",
-      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/4h9Vplu7et1Ra0Om8xGFL7"
       },
@@ -3011,22 +3011,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Stop The Fire",
-        "url": "https://open.spotify.com/album/1lQhOigZZfyqZHSy5aTGWe"
+        "name": "Sanctum Eternal (Au5 Remix)",
+        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
       },
       "artists": [
         {
-          "name": "Nikademis",
-          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
         },
         {
-          "name": "Luma",
-          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
         }
       ],
-      "duration_ms": 260424,
-      "name": "Stop The Fire",
-      "url": "https://open.spotify.com/track/3y8pF3nDIebdqfqNAY9JKw"
+      "duration_ms": 277333,
+      "name": "Sanctum Eternal - Au5 Remix",
+      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
     },
     {
       "added_at": "2024-09-13 04:00:00",

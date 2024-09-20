@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Morrendo de Prazer",
+        "url": "https://open.spotify.com/album/1egVVkEcvdi70ibvhbiF7g"
+      },
+      "artists": [
+        {
+          "name": "Malu Magri",
+          "url": "https://open.spotify.com/artist/101igRc4wvE7sWiHu8KWI7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259008,
+      "name": "Minha Casa",
+      "url": "https://open.spotify.com/track/7GwqPVyfdlWpAWbZM8DSml"
+    },
+    {
+      "album": {
         "name": "INVERNO",
         "url": "https://open.spotify.com/album/4dABCu9tcbxA1mOqRzdFyX"
       },
@@ -1266,6 +1284,28 @@
       "duration_ms": 240133,
       "name": "Multiply - Feat. Luedji Luna",
       "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203584,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
     },
     {
       "album": {
@@ -1508,7 +1548,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 200281,
       "name": "Perfeita Demais",
       "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"

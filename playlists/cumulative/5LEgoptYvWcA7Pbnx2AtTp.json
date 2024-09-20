@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "album": {
         "name": "Artificial Intelligence",
         "url": "https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd"
       },
@@ -374,6 +392,24 @@
       "duration_ms": 177426,
       "name": "Creator",
       "url": "https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "album": {
@@ -1069,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Waterloo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "My Mama Said",
+      "url": "https://open.spotify.com/track/7IHKr96kTrygmAoLyu4zMw"
+    },
+    {
+      "album": {
         "name": "Nature Tapes",
         "url": "https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ"
       },
@@ -1502,6 +1556,24 @@
       "duration_ms": 341250,
       "name": "Terry's Taxidermy",
       "url": "https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/32SHYXEJZkpsnJkcggucM0"
     },
     {
       "album": {

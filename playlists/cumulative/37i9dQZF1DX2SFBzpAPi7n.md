@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kim Seung Joo\(김승주\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-734 songs - 1 day 20 hr 19 min
+735 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Flame](https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Military Prosecutor Doberman, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ruhTOVA7QJSkaNuLC4Xp2) | 3:22 | 2022-05-24 | 2022-05-30 |
 | [Flare](https://open.spotify.com/track/5qvCcpVLeYGwJSIP2aU5uP) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 6:03 | 2022-04-22 | 2022-07-27 |
 | [Flower Tail](https://open.spotify.com/track/7xEGoHycWoyimqDSOwJ5Hv) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Flower Tail](https://open.spotify.com/album/2HOtDyfnNtr07GNcoeVtBp) | 5:21 | 2023-07-28 | 2023-08-18 |
-| [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 |  |
+| [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 | 2024-06-05 | 2024-09-20 |
 | [Fly!](https://open.spotify.com/track/2q4Y6cC3bv8UoXjVZEArgo) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Fly!](https://open.spotify.com/album/6H7O2x05Dg5toCVrSBJST4) | 2:58 | 2022-08-01 | 2022-08-13 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-24 | 2023-05-02 |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2022-04-21 |  |
@@ -302,6 +302,7 @@
 | [ice sea](https://open.spotify.com/track/24HGQKvNuXORD8m4kvUAaY) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [ice sea](https://open.spotify.com/album/0zlDKtTQjbHk1dOBWIsenR) | 4:57 | 2024-07-23 | 2024-08-07 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2024-05-10 |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
+| [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 |  |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
 | [In the Dark](https://open.spotify.com/track/3mBxoop5ai4eTBV9nL5Y2J) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [24 PART 2](https://open.spotify.com/album/43xZhTwfBW3tsmtjTuT3XM) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 | 2024-07-09 | 2024-07-31 |

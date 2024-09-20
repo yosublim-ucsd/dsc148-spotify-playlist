@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/1PHrTyrvzRNkM3ni9D1ja0"
+      },
+      "artists": [
+        {
+          "name": "Efek Rumah Kaca",
+          "url": "https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586386,
+      "name": "Putih",
+      "url": "https://open.spotify.com/track/7HW7C1NSXomYmZRVYv7m0a"
+    },
+    {
+      "album": {
         "name": "Rasa?",
         "url": "https://open.spotify.com/album/3zC0Q5uu3G426SaZdHpoMT"
       },

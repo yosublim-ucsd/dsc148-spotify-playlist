@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Mar\u00eda Becerra",
-  "num_followers": 883753,
+  "num_followers": 883746,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zug7OwAAAACwCbWvZ0M+SdBVYiTA6T7h",
+  "snapshot_id": "ZuyEngAAAADgmcxHaKw6XBRHYyrAaRNZ",
   "tracks": [
     {
       "added_at": "2024-09-13 04:01:00",
@@ -47,26 +47,6 @@
       "duration_ms": 190567,
       "name": "Dolida",
       "url": "https://open.spotify.com/track/0B23bjg6n7mQOATyOVNjVG"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Cinco Estrellas",
-      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -191,6 +171,42 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Cinco Estrellas",
+      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "19 de Abril",
+        "url": "https://open.spotify.com/album/239VV9lqvnUdLq0EX4S6Rp"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "19 de Abril",
+      "url": "https://open.spotify.com/track/5fA5pGOXQRW8JBqSz9ssVW"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "X Amor II",
         "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
       },
@@ -239,6 +255,66 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Pasarla Bien",
+        "url": "https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 193263,
+      "name": "Pasarla Bien",
+      "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "F*%K U Baby",
+        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "F*%K U Baby",
+      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Bellaco Desde Chamaco",
+        "url": "https://open.spotify.com/album/42axBdmvQxB4GAy7DUWc4W"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 198956,
+      "name": "Bellaco Desde Chamaco",
+      "url": "https://open.spotify.com/track/5oDlokMwVQWZBHhcBjjGNJ"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "DESDE MORRO",
         "url": "https://open.spotify.com/album/0CPbHTYvWIWyxr5SK2VK1w"
       },
@@ -271,46 +347,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Bellaco Desde Chamaco",
-        "url": "https://open.spotify.com/album/42axBdmvQxB4GAy7DUWc4W"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 198956,
-      "name": "Bellaco Desde Chamaco",
-      "url": "https://open.spotify.com/track/5oDlokMwVQWZBHhcBjjGNJ"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "F*%K U Baby",
-        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "F*%K U Baby",
-      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
       },
@@ -327,22 +363,6 @@
       "duration_ms": 196021,
       "name": "Chama",
       "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "19 de Abril",
-        "url": "https://open.spotify.com/album/239VV9lqvnUdLq0EX4S6Rp"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "19 de Abril",
-      "url": "https://open.spotify.com/track/5fA5pGOXQRW8JBqSz9ssVW"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -447,26 +467,6 @@
       "duration_ms": 277000,
       "name": "Amor de Chat - En vivo",
       "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Pasarla Bien",
-        "url": "https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 193263,
-      "name": "Pasarla Bien",
-      "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
     },
     {
       "added_at": "2024-09-13 04:01:00",

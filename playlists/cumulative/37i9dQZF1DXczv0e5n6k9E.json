@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko, Arab",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Roi 6/12, SNIK, DIFF",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164242,
       "name": "EURO BOP",
       "url": "https://open.spotify.com/track/4CpRyPsmzydxkH9Bc4swfb"
@@ -1192,6 +1192,28 @@
       "duration_ms": 158400,
       "name": "Fotia",
       "url": "https://open.spotify.com/track/5WO6ln9zm2870VhESc2Onq"
+    },
+    {
+      "album": {
+        "name": "FOTIA",
+        "url": "https://open.spotify.com/album/7tZHyy5oXZiaDFGxAg4GYp"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219516,
+      "name": "FOTIA",
+      "url": "https://open.spotify.com/track/1c6BBiaz1uXPs8Nw2WCCpr"
     },
     {
       "album": {
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 117557,
       "name": "Giati",
       "url": "https://open.spotify.com/track/6jKKmTfNGuoIPB9AzynlpA"
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174545,
       "name": "Hood Athletics",
       "url": "https://open.spotify.com/track/6o2ZVmhKOTRusE9iIkZXOc"
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150309,
       "name": "ITSAMAZING!",
       "url": "https://open.spotify.com/track/2vhkt8noHCVHAkkee2yl3e"
@@ -1708,6 +1730,24 @@
       "duration_ms": 190336,
       "name": "Kamia San Esena",
       "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
+    },
+    {
+      "album": {
+        "name": "Kanye West",
+        "url": "https://open.spotify.com/album/3j1eyDkYPeDE4pTg7BLS3g"
+      },
+      "artists": [
+        {
+          "name": "Lil Barty",
+          "url": "https://open.spotify.com/artist/501ecrQlNfbAmZawdV0hzg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102866,
+      "name": "Kanye West",
+      "url": "https://open.spotify.com/track/6LTrJT1jmr44r8TsRK37AK"
     },
     {
       "album": {
@@ -1848,6 +1888,32 @@
       "duration_ms": 222105,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/2qDINcwqFSLh4NkyfQQBEm"
+    },
+    {
+      "album": {
+        "name": "LALE",
+        "url": "https://open.spotify.com/album/3nY3PpZv0kyan3blXtkrKQ"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "LALE",
+      "url": "https://open.spotify.com/track/2LNf69ZnFFK6qKH9qW3GSK"
     },
     {
       "album": {
@@ -2344,6 +2410,28 @@
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
+    },
+    {
+      "album": {
+        "name": "OE",
+        "url": "https://open.spotify.com/album/0G5tAg3BchkTcIS3Iwnk5e"
+      },
+      "artists": [
+        {
+          "name": "Popayedi",
+          "url": "https://open.spotify.com/artist/2ulrGXdmxOLX64VdgGCaJW"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "OE",
+      "url": "https://open.spotify.com/track/6ieUZ3iDm1hlFF7TOeytTL"
     },
     {
       "album": {
@@ -2861,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "SEKUSHI",
+        "url": "https://open.spotify.com/album/1hJQ1UH3y1ZGHsRZHH8G1J"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Queen",
+          "url": "https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "SEKUSHI",
+      "url": "https://open.spotify.com/track/0GYX0KUkK846w6tWYiFJMV"
+    },
+    {
+      "album": {
         "name": "SERVICE",
         "url": "https://open.spotify.com/album/6AU2SibYsJhVU5FWPG0dhj"
       },
@@ -2954,7 +3064,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 215474,
       "name": "STON IDIO OURANO",
       "url": "https://open.spotify.com/track/4tMHv7PW2lL68DSfG03J5e"
@@ -3032,6 +3142,28 @@
       "duration_ms": 148571,
       "name": "TANAPU",
       "url": "https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP"
+    },
+    {
+      "album": {
+        "name": "TARTUFO",
+        "url": "https://open.spotify.com/album/0J14wDv6GWdvpVKTHlHnPM"
+      },
+      "artists": [
+        {
+          "name": "Khay Be",
+          "url": "https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y"
+        },
+        {
+          "name": "lefmav",
+          "url": "https://open.spotify.com/artist/4Xn5nkh24fr61RNgXHMeEU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "TARTUFO",
+      "url": "https://open.spotify.com/track/2tPsXUfPwXbQtHbHl2McA4"
     },
     {
       "album": {
@@ -3380,7 +3512,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 154545,
       "name": "WESH POTO",
       "url": "https://open.spotify.com/track/608Da9ZOerBhtedVOMCeAH"

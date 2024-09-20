@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Megalomanium II",
+        "url": "https://open.spotify.com/album/2qcRovVIQoONJXgO5EMG6G"
+      },
+      "artists": [
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4Vtj3Az6rt21hxQs3IsN0b"
+    },
+    {
+      "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
       },
@@ -215,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Ascension Day",
+        "url": "https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19"
+      },
+      "artists": [
+        {
+          "name": "Von Hertzen Brothers",
+          "url": "https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306613,
+      "name": "Ascension Day",
+      "url": "https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk"
+    },
+    {
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/63az96vCNz85pMBbioaPdz"
       },
@@ -280,10 +316,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 212142,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh"
+    },
+    {
+      "album": {
+        "name": "Between You, God, the Devil and the Dead",
+        "url": "https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV"
+      },
+      "artists": [
+        {
+          "name": "Avatarium",
+          "url": "https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339942,
+      "name": "Between You, God, the Devil and the Dead",
+      "url": "https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj"
     },
     {
       "album": {
@@ -298,7 +352,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 213785,
       "name": "Big Buck",
       "url": "https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE"
@@ -316,7 +370,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 114480,
       "name": "bitter friend",
       "url": "https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d"
@@ -334,7 +388,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 240426,
       "name": "Blood Of The Kings",
       "url": "https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU"
@@ -388,7 +442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230160,
       "name": "Break My Lying Tongue",
       "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
@@ -471,6 +525,32 @@
     },
     {
       "album": {
+        "name": "Cannibal (feat. Anders Frid\u00e9n)",
+        "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y"
       },
@@ -518,7 +598,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 308880,
       "name": "Chosen Force",
       "url": "https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8"
@@ -554,7 +634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180134,
       "name": "Curse",
       "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
@@ -774,7 +854,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178426,
       "name": "Falling to My Knees",
       "url": "https://open.spotify.com/track/2kJa3N1vZ6JyXFEadRhjoP"
@@ -944,7 +1024,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209368,
       "name": "Haters",
       "url": "https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3"
@@ -980,7 +1060,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
@@ -1272,7 +1352,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159957,
       "name": "Ladies Of The Fight",
       "url": "https://open.spotify.com/track/1JtafYgKoyS7ifGy0IGIdi"
@@ -1308,7 +1388,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 172506,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
@@ -1434,10 +1514,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183000,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/3f90dK4nMplILHk6x8N0ln"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/6tsPVTCmhiyDS5YOr4nQWM"
+      },
+      "artists": [
+        {
+          "name": "Owl Vision",
+          "url": "https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw"
+        },
+        {
+          "name": "HORSKH",
+          "url": "https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183007,
+      "name": "MAYHEM",
+      "url": "https://open.spotify.com/track/5k7ZBC0OtY7WezS1ZnY1O3"
     },
     {
       "album": {
@@ -1496,7 +1598,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 238169,
       "name": "Mind Of The Swarm",
       "url": "https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy"
@@ -1638,7 +1740,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 196103,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz"
@@ -1674,7 +1776,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 243266,
       "name": "Pink Fang",
       "url": "https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv"
@@ -1926,7 +2028,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 223525,
       "name": "Still My Hero",
       "url": "https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee"
@@ -1966,7 +2068,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 225626,
       "name": "Tack och f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/1ChrAQySLLaU0SZeLApkcy"
@@ -2038,7 +2140,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 224000,
       "name": "The Age of AGI",
       "url": "https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W"
@@ -2074,7 +2176,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 273573,
       "name": "The Day Of...",
       "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
@@ -2128,7 +2230,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 309995,
       "name": "The End Justifies",
       "url": "https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5"
@@ -2236,7 +2338,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 272626,
       "name": "The Sirens Sound",
       "url": "https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8"
@@ -2344,7 +2446,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190314,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3BID61NKkUQkX41pU5PtQG"
@@ -2506,7 +2608,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 310066,
       "name": "\u00a73",
       "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"

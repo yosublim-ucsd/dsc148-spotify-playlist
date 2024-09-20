@@ -2629,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "\u559c\u6b61\u4f60\u7684\u6211",
+        "url": "https://open.spotify.com/album/1jyNQxZtcivCMkyM9a51B3"
+      },
+      "artists": [
+        {
+          "name": "WiZY",
+          "url": "https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB"
+        },
+        {
+          "name": "\u6e38\u5bb6\u96c1 Addsalt",
+          "url": "https://open.spotify.com/artist/7LbUHilFL9Fx3EsTxRUAJ4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u559c\u6b61\u4f60\u7684\u6211",
+      "url": "https://open.spotify.com/track/41P0c5wju22G8wSPVTMv1I"
+    },
+    {
+      "album": {
         "name": "\u670b\u53cb\u8aaa",
         "url": "https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1"
       },
@@ -3847,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "\u60f3\u548c\u4f60",
+      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "album": {
         "name": "\u60f3\u548c\u4f60\u5728\u4e00\u8d77 (TVBS \u300e\u6a5f\u667a\u6821\u5712\u751f\u6d3b\u300f\u63d2\u66f2 )",
         "url": "https://open.spotify.com/album/5X37eBmzqql57QagxpGkYp"
       },
@@ -4004,6 +4044,24 @@
       "duration_ms": 241040,
       "name": "\u611b\u4e0a\u4f60",
       "url": "https://open.spotify.com/track/5foAX3vs1tKvzU2Lhv1a9u"
+    },
+    {
+      "album": {
+        "name": "\u611b\u4e0a\u4f60\u5566\uff01",
+        "url": "https://open.spotify.com/album/1WSNFnxoUGlj4hdDbJVdjm"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154870,
+      "name": "\u611b\u4e0a\u4f60\u5566\uff01",
+      "url": "https://open.spotify.com/track/3vgynfbEAx3BA350K1Z2k4"
     },
     {
       "album": {
@@ -4278,7 +4336,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 248400,
       "name": "\u6211\u559c\u6b61(\u4e0d,\u6211\u611b)",
       "url": "https://open.spotify.com/track/7lqtdXxC38KOrQ33SB5wVo"
@@ -6614,7 +6672,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 231426,
       "name": "\u9047\u4e0a\u611b",
       "url": "https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt"
@@ -6976,7 +7034,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 232307,
       "name": "\u9f3b\u5b50",
       "url": "https://open.spotify.com/track/7GbxcSJGFrN7aXZSjCb0a9"

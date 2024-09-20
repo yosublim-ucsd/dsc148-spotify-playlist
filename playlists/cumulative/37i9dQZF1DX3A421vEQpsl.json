@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169250,
       "name": "Do U Know (From \"Khel Khel Mein\")",
       "url": "https://open.spotify.com/track/2rWPmIFTC3VJLMTVeNb5AM"
@@ -4264,6 +4264,40 @@
       "duration_ms": 168960,
       "name": "Whistle Baja 2.0 (From \"Heropanti 2\")",
       "url": "https://open.spotify.com/track/2hVTU41stB2Ahk8bTRhnex"
+    },
+    {
+      "album": {
+        "name": "Yaad Reh Jaati Hai (From \"The Buckingham Murders\")",
+        "url": "https://open.spotify.com/album/3alRlBz2n3PvARSa6YXasT"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "Nadeem Shravan",
+          "url": "https://open.spotify.com/artist/0xHXoShMJw3xDArjL8IHtt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253953,
+      "name": "Yaad Reh Jaati Hai (From \"The Buckingham Murders\")",
+      "url": "https://open.spotify.com/track/1FJ6IEDugy3WpzUGWuG5fW"
     },
     {
       "album": {

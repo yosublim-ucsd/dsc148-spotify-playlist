@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Naza x Dadi",
+  "description": "Photo : Ninho x Niska",
   "name": "Best Life",
   "tracks": [
+    {
+      "album": {
+        "name": "'Ndrangheta",
+        "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161079,
+      "name": "'Ndrangheta",
+      "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
+    },
     {
       "album": {
         "name": "1,2,3 Soleil",
@@ -783,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Dans ta f\u00eate",
+        "url": "https://open.spotify.com/album/6RlJCTguLBUN4EkXBWME2b"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147682,
+      "name": "Dans ta f\u00eate",
+      "url": "https://open.spotify.com/track/7bXtqWW2eGzMfigXBa9UTI"
+    },
+    {
+      "album": {
         "name": "DELLALI (feat. Hamza)",
         "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
@@ -958,7 +998,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151351,
       "name": "D\u00e8s l'matin",
       "url": "https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h"
@@ -1002,6 +1042,32 @@
       "duration_ms": 170527,
       "name": "Eh toi",
       "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
+    },
+    {
+      "album": {
+        "name": "ELISA",
+        "url": "https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "ELISA",
+      "url": "https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW"
     },
     {
       "album": {
@@ -1600,7 +1666,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180827,
       "name": "LORO PIANA",
       "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"
@@ -2353,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Petit chaton",
+        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "Petit chaton",
+      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
+    },
+    {
+      "album": {
         "name": "Piccolo",
         "url": "https://open.spotify.com/album/0J5lTuFjid6AqmYOBCyVQX"
       },
@@ -2964,7 +3048,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180378,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
@@ -3690,7 +3774,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159318,
       "name": "\u00c7a traine la night",
       "url": "https://open.spotify.com/track/42JLHMdXdyTPFDAHGlzPcW"

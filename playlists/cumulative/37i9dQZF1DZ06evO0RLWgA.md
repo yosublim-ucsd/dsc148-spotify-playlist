@@ -2,7 +2,7 @@
 
 ### [This Is John Lee Hooker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RLWgA)
 
-> This is John Lee Hooker\. Todos os maiores hits em uma só playlist.
+> This is John Lee Hooker\. The essential tracks, all in one playlist.
 
 144 songs - 9 hr 59 min
 
@@ -49,7 +49,7 @@
 | [Frisco Blues](https://open.spotify.com/track/4taFApmkTGwcjwQIfZOPVO) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:45 | 2024-01-28 | 2024-01-30 |
 | [Harry Sets Up Sutton \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/2pTxrXOyM67gig7tEShTR9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 1:44 | 2023-04-04 | 2023-10-05 |
 | [Hobo Blues](https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 | 2022-08-06 | 2024-02-03 |
-| [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 | 2024-02-11 | 2024-07-11 |
+| [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 | 2024-02-11 |  |
 | [Hoogie Boogie](https://open.spotify.com/track/6phCqRAEwlmHpRsCO76ukL) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 2:57 | 2022-08-09 | 2022-10-09 |
 | [House Rent Blues](https://open.spotify.com/track/0xSlmqpr5Ypn8nSQPULb0Q) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:48 | 2022-08-05 | 2022-11-25 |
 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 | 2023-05-09 |  |
@@ -61,7 +61,7 @@
 | [I Don't Wanna Go To Vietnam](https://open.spotify.com/track/370sb31a5Zus9bODMm6vO1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Simply The Truth](https://open.spotify.com/album/68h02e7l6yy0ZohKIH6dwO) | 5:39 | 2022-08-05 | 2022-10-29 |
 | [I Got A Letter \(This Morning\)](https://open.spotify.com/track/030z99G9TFWAE5Wq0Q6tcg) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:44 | 2023-03-08 | 2023-03-10 |
 | [I Got My Eyes On You](https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:26 | 2022-08-05 |  |
-| [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 | 2022-08-05 |  |
+| [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 | 2022-08-05 | 2024-09-20 |
 | [I Love You Honey \- 2024 Remastered](https://open.spotify.com/track/79kKSo7lZZGX0QqVtdQLBF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 2:35 | 2024-07-12 | 2024-07-22 |
 | [I Need Some Money](https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:25 | 2022-08-06 |  |
 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 | 2022-08-05 |  |

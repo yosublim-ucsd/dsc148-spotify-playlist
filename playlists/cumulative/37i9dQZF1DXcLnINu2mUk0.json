@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MENDEZ, Soarito",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Julinho Ksd",
   "name": "Seda",
   "tracks": [
     {
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 196911,
       "name": "Boca Boca",
       "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
@@ -8835,6 +8835,28 @@
     },
     {
       "album": {
+        "name": "Perco-me em Ti 2",
+        "url": "https://open.spotify.com/album/5fB4mO73AQoAP4dIw1RNJq"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186195,
+      "name": "Perco-me em Ti 2",
+      "url": "https://open.spotify.com/track/0Zqgoi1rqZSeQQrVdI286S"
+    },
+    {
+      "album": {
         "name": "Perdidos num ride",
         "url": "https://open.spotify.com/album/0b8fBRFdog2EDrlKOpbeUi"
       },
@@ -11034,7 +11056,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188936,
       "name": "SUMMERTIME",
       "url": "https://open.spotify.com/track/1ON78L2WpCk0n9MgCIhnRH"
@@ -12306,6 +12328,24 @@
       "duration_ms": 192000,
       "name": "VIDA DE ARTISTA",
       "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
+    },
+    {
+      "album": {
+        "name": "Vidrado",
+        "url": "https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR"
+      },
+      "artists": [
+        {
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165448,
+      "name": "Vidrado",
+      "url": "https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ"
     },
     {
       "album": {

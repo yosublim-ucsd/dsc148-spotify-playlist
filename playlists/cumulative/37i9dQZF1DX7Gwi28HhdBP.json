@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug\">  \u0631\u0636\u0627 \u0627\u0644\u0628\u062d\u0631\u0627\u0648\u064a </a>",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw\">  \u0643\u0632\u0627\u0628\u064a\u0631\u0648 </a>",
   "name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "tracks": [
     {
@@ -686,6 +686,28 @@
       "duration_ms": 388623,
       "name": "Ana Mesh Hafya",
       "url": "https://open.spotify.com/track/6wkLyntrkilzCmarir4r8k"
+    },
+    {
+      "album": {
+        "name": "Araneb",
+        "url": "https://open.spotify.com/album/2MupzDktPdiY2LwP5mbo1u"
+      },
+      "artists": [
+        {
+          "name": "Kozbara",
+          "url": "https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG"
+        },
+        {
+          "name": "El Sawareekh",
+          "url": "https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Araneb",
+      "url": "https://open.spotify.com/track/66ePUJkM4HfatBhEqt8SV7"
     },
     {
       "album": {
@@ -2167,6 +2189,28 @@
     },
     {
       "album": {
+        "name": "Rozma",
+        "url": "https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf"
+      },
+      "artists": [
+        {
+          "name": "Kozbara",
+          "url": "https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG"
+        },
+        {
+          "name": "Nourine",
+          "url": "https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "Rozma",
+      "url": "https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK"
+    },
+    {
+      "album": {
         "name": "Sa7tkom Fi Lasnko",
         "url": "https://open.spotify.com/album/44TDEUKpZSfFjpq90EV9UL"
       },
@@ -2880,7 +2924,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 254912,
       "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
       "url": "https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF"
@@ -3323,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0635\u0645\u062a \u0644\u063a\u0629 \u0627\u0644\u0639\u0638\u0645\u0627\u0621",
+        "url": "https://open.spotify.com/album/5N1tiywFBgDRA3HaRM3BlE"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0633\u0644\u0637\u0627\u0646",
+          "url": "https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "\u0627\u0644\u0635\u0645\u062a \u0644\u063a\u0629 \u0627\u0644\u0639\u0638\u0645\u0627\u0621",
+      "url": "https://open.spotify.com/track/4Yfp2SnD4d1Q2Ftw7tya0k"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u063a\u0644 \u0645\u0646\u064a \u0647\u0627\u0631\u064a\u0643\u0648",
         "url": "https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g"
       },
@@ -3570,7 +3632,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 202004,
       "name": "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0647",
       "url": "https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz"
@@ -3748,7 +3810,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 186857,
       "name": "\u062c\u0627\u0645\u062f\u0647 - \u0647\u062f\u0649",
       "url": "https://open.spotify.com/track/14GniDplO0FbXvk9MgYOT6"

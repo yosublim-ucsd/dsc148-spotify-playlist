@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 253985,
       "name": "Thank you for Goodbye",
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,203 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,253 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 69 | [Your Skin \- Edit](https://open.spotify.com/track/5jaCuftaprHN71hy2tuPcu) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 2:15 |
 | 70 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
 
-Snapshot ID: `ZuO4wAAAAAB3Nu1mjLR60dNC9/6mCXUS`
+Snapshot ID: `ZuO4wAAAAAAGluqZ0bUlFg1k/0fPrBvS`

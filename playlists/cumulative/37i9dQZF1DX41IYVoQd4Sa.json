@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -156,6 +156,46 @@
       "duration_ms": 159516,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3"
+    },
+    {
+      "album": {
+        "name": "Come back Home",
+        "url": "https://open.spotify.com/album/38O1V0rOfRPuRllJwJIud0"
+      },
+      "artists": [
+        {
+          "name": "Roy Reemy",
+          "url": "https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0"
+        },
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "Come back Home",
+      "url": "https://open.spotify.com/track/7rxNuTePjV3HKFiZu0O7Pr"
+    },
+    {
+      "album": {
+        "name": "Doing So Much Better",
+        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Doing So Much Better",
+      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
     },
     {
       "album": {
@@ -414,7 +454,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170994,
       "name": "Nouvelle vie",
       "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
@@ -436,7 +476,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 179650,
       "name": "PC People (feat. ROUSSO)",
       "url": "https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO"
@@ -458,6 +498,28 @@
       "duration_ms": 252456,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "album": {
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
+      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
     },
     {
       "album": {
@@ -1082,7 +1144,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"

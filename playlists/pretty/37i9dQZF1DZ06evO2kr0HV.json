@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 36142,
+  "num_followers": 36158,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADxQeaZHUozVccI0amPO/25",
+  "snapshot_id": "ZuoYAAAAAAAgqikEPjKPTymPZiy5i6+a",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/3LPyNYWlHZgIVx2wh6ME8t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/3LPyNYWlHZgIVx2wh6ME8t"
     },
     {
       "added_at": null,

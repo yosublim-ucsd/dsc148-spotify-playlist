@@ -3511,6 +3511,32 @@
     },
     {
       "album": {
+        "name": "PROFESSORA",
+        "url": "https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "BRUNE",
+          "url": "https://open.spotify.com/artist/6LFvBfpdorzVD0EH2ljTZY"
+        },
+        {
+          "name": "Hadockhouse",
+          "url": "https://open.spotify.com/artist/6lTQ3q3T4dJaaGbGINUmgh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158321,
+      "name": "PROFESSORA",
+      "url": "https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE"
+    },
+    {
+      "album": {
         "name": "Vol\u00fapia",
         "url": "https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8"
       },

@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-40 songs - 2 hr 25 min
+41 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 | 2022-09-18 |  |
 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/7s6QbvQJVPh0VbfK7Pkwm7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [50 Years of the Piano Man](https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX) | 3:30 | 2022-05-06 |  |
 | [Not Quite Almost Christmas Time](https://open.spotify.com/track/4mAianxMp7W4tdUzO2n1Zc) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Not Quite Almost Christmas Time](https://open.spotify.com/album/4w2jz5EKlp9gViIxVSqvKF) | 3:11 | 2022-05-06 |  |
+| [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 | 2024-09-19 |  |
 | [Stabbed to Death Outside San Juan \- Jordan Lake Sessions Volume 2](https://open.spotify.com/track/5VHi7egxS9qQctLVjrE5Ng) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 1 and 2](https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX) | 4:47 | 2023-03-03 |  |
 | [Teenagers](https://open.spotify.com/track/78OBZL4Z6QHdwwloWIh0Lt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 2:41 | 2023-01-11 |  |
 | [The End.](https://open.spotify.com/track/7oiqxhRXTv11kRqEV0D70G) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 1:52 | 2023-01-11 |  |

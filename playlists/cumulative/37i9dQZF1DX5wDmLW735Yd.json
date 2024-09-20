@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rudimental, Flowdan, Mystic Marley",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Culture Shock, Totally Enormous Extinct Dinosaurs ",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -896,6 +896,28 @@
       "duration_ms": 273146,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/5yFrMVWcw6xSKjxgLvxWJD"
+    },
+    {
+      "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/5hufQOkvk97x1ZfeNUsIKl"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/4oIHgZiLmNKEhOUrdx1b4K"
     },
     {
       "album": {
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182068,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/69RnaDZLYLZq8ZFBExlvAl"
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 172413,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO"
@@ -7097,6 +7119,32 @@
     },
     {
       "album": {
+        "name": "Favorite Sound",
+        "url": "https://open.spotify.com/album/61pIfz8yAVoDuLCL4DJuxT"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Jay Sorrow",
+          "url": "https://open.spotify.com/artist/3CjbN6OZLjg1pbfqTlSVB9"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196687,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1B7XhV391JfiPHnmKPjPrH"
+    },
+    {
+      "album": {
         "name": "In The City / Wasted",
         "url": "https://open.spotify.com/album/6fD63DrkcebHWfu9a5krd0"
       },
@@ -8326,7 +8374,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162250,
       "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9)",
       "url": "https://open.spotify.com/track/2UXmF5eo4HeqMTERZyceQN"
@@ -10409,6 +10457,32 @@
     },
     {
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/6oB8ttKqCrZdbgYo0HL500"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Eva Lazarus",
+          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
+        },
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198447,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3x0TSeaZX2A91pVb44IxDN"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/3MMlRKvRjdexYHISdzMe8w"
       },
@@ -11040,7 +11114,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 200228,
       "name": "Poison - Potential Badboy Remix",
       "url": "https://open.spotify.com/track/0aseMxZ638eTXqXhSykwcU"
@@ -13374,6 +13448,24 @@
       "duration_ms": 289801,
       "name": "Star Trippin'",
       "url": "https://open.spotify.com/track/6QIqDKaQwNssMqm2eXxrre"
+    },
+    {
+      "album": {
+        "name": "stargirl",
+        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "stargirl",
+      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
     },
     {
       "album": {

@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 210000,
       "name": "FIR",
       "url": "https://open.spotify.com/track/5LKwyZEcftYJl9AJNV0hpr"
@@ -1098,6 +1098,36 @@
       "duration_ms": 176000,
       "name": "Jhanjraan",
       "url": "https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM"
+    },
+    {
+      "album": {
+        "name": "Jinni Jatt Di",
+        "url": "https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0"
+      },
+      "artists": [
+        {
+          "name": "Kambi Rajpuria",
+          "url": "https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162794,
+      "name": "Jinni Jatt Di",
+      "url": "https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3"
     },
     {
       "album": {

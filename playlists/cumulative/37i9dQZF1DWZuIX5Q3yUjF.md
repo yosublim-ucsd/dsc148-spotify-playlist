@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: NIMSAY
 
-640 songs - 1 day 7 hr 48 min
+643 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 | 2022-12-16 |
 | [Annegare](https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Annegare](https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT) | 2:32 | 2024-05-02 | 2024-07-05 |
 | [Anni Luce](https://open.spotify.com/track/5lQ5fL5tH7IbOcOTBuwZuL) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [Anni Luce](https://open.spotify.com/album/4LTmcKBhBw9lj2MVAWcZnU) | 2:48 | 2024-05-02 | 2024-09-06 |
+| [Apollo 12](https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4) | [Apollo 12](https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w) | 2:46 | 2024-09-19 |  |
 | [Appassire](https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Appassire](https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX) | 2:46 | 2023-08-31 | 2024-01-19 |
 | [Aria](https://open.spotify.com/track/7kF6GY9In7xN0Up5SZmHZZ) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/4gVFzrfyJR8f4SzkK1q2m2) | 2:29 | 2023-11-30 | 2024-04-14 |
 | [Aria](https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Aria](https://open.spotify.com/album/1fYn6lzsgcmF5Kh0fnYaYw) | 2:30 | 2024-04-12 | 2024-04-16 |
@@ -81,6 +82,7 @@
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-08-05 | 2022-10-14 |
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-05-05 | 2022-05-27 |
 | [Calibro \(feat\. Pitta\)](https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Calibro \(feat\. Pitta\)](https://open.spotify.com/album/6SQ02rkmfnqUYSoC9EAUHu) | 2:39 | 2023-02-23 | 2023-04-28 |
+| [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-09-19 |  |
 | [California](https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [California](https://open.spotify.com/album/7ktPpSLTAJ4mcnfZxQBXnN) | 2:31 | 2022-06-02 | 2022-11-25 |
 | [Cambio di scena](https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cambio di scena](https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj) | 2:49 | 2023-05-25 | 2023-09-15 |
 | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/track/6novc9o6iBbWRCSaU6b1XB) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Candeline \(feat\. Ghemon\)](https://open.spotify.com/album/2Fdum39Jz7ypweYX7WbJ09) | 2:33 | 2024-01-18 | 2024-04-16 |
@@ -206,6 +208,7 @@
 | [Follia](https://open.spotify.com/track/1eAK1cKGuf8CiHSUYSdgAW) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Follia](https://open.spotify.com/album/3HCJ3RJzQ22ZGJVz1Lu1pk) | 2:22 | 2022-11-10 | 2023-01-27 |
 | [Fossi nato gemelli](https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Fossi nato gemelli](https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB) | 3:33 | 2022-06-30 | 2022-11-11 |
 | [FOTO NUDE](https://open.spotify.com/track/7wS6RViV6lpPea9olpNKlQ) | [Houston](https://open.spotify.com/artist/5InAI4J9krBCnTC6yPNbT5), [Jurijgami](https://open.spotify.com/artist/6A4w5E3WNDaZlxWyv5b6oP) | [FOTO NUDE](https://open.spotify.com/album/2BxTbSTe1EUtFl589O2VKC) | 2:43 | 2023-12-07 | 2024-02-02 |
+| [Fotoricordo](https://open.spotify.com/track/4awSy4eb4hEu8RnSWOJWIP) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Fotoricordo](https://open.spotify.com/album/1yXnI5FcLRTGITuPRmpehy) | 3:15 | 2024-09-19 |  |
 | [Fragile](https://open.spotify.com/track/3zf8JELDxziuAbpyn8PY51) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Fragile](https://open.spotify.com/album/4T42ONwroSEl63oGcOi6eY) | 2:40 | 2023-01-26 | 2023-03-10 |
 | [FRAGILE \(Affirmation\) \[feat\. EIBI\] \- Radio Edit](https://open.spotify.com/track/6sNsIAYwgwDSqs60MxK0gL) | [Picasso Cervéza](https://open.spotify.com/artist/3ix8kOq1HjhfmPusrNAxnC), [EIBI](https://open.spotify.com/artist/4i0CqD7UTeRvpGQPNKKBj2) | [FRAGILE \(Affirmation\) \[feat\. EIBI\]](https://open.spotify.com/album/3Arogq7aBYDHZKnFTUbZQo) | 3:47 | 2023-05-25 | 2023-07-14 |
 | [Frasi mai dette](https://open.spotify.com/track/1kcxeNQRYW8ttaEWoGDLPt) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Frasi mai dette](https://open.spotify.com/album/3S4XnXCd6EtsIDBHIFeydA) | 3:15 | 2024-02-01 | 2024-04-16 |

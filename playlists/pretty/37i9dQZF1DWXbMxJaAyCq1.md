@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbMxJaAyCq1.md) - [plain]
 
 > This is the remix..\. escúchalos acá\. Foto: Bellakath, El Malilla, El Bogueto, Andrés Castillo, La Dinastía, Riky Produce .
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,890 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,905 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbMxJaAyCq1.md) - [plain]
 | 72 | [Bellaquita \- Remix](https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Bellaquita \(Remix\)](https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB) | 5:04 |
 | 73 | [La Curiosidad \(feat\. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi\) \- Blue Grand Prix Remix](https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [La Curiosidad \(Blue Grand Prix Remix\) \[feat\. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi\]](https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm) | 6:22 |
 | 74 | [Caramelo \- Remix](https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Caramelo \(Remix\)](https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ) | 3:53 |
-| 75 | [Tigini \(Remix\)](https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini \(Remix\)](https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe) | 2:55 |
+| 75 | [FUMETEO \- Remix](https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [FUMETEO \(Remix\)](https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD) | 3:34 |
 
 Snapshot ID: `ZtFf4AAAAAC9NIweoWrxiZ9Ryv8NhEHl`

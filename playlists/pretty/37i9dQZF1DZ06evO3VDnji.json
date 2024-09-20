@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 65444,
+  "num_followers": 65501,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACy1TP5tS2QgcEJBcwS18HR",
+  "snapshot_id": "ZuoYAAAAAABoo8m85NLsXA5Y2emwjQw4",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico Enamorado",
-        "url": "https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Belico Enamorado",
-      "url": "https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rompo esquemas",
         "url": "https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ"
       },
@@ -447,6 +427,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belico Enamorado",
+        "url": "https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Belico Enamorado",
+      "url": "https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 319620,
       "name": "AMAR Y PERDER",
       "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ATRAPADO",
-      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL HOMBRE PERFECTO",
         "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 216960,
       "name": "EL HOMBRE PERFECTO",
       "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ATRAPADO",
+      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Pablo Hurtado",
-          "url": "https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54"
-        }
-      ],
-      "duration_ms": 233625,
-      "name": "ZAFIRO (feat. Pablo Hurtado)",
-      "url": "https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lluvia Y Sol",
         "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
@@ -639,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Pablo Hurtado",
+          "url": "https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54"
+        }
+      ],
+      "duration_ms": 233625,
+      "name": "ZAFIRO (feat. Pablo Hurtado)",
+      "url": "https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Junto A Ti",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 193922,
       "name": "Junto A Ti",
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
     },
     {
       "added_at": null,
@@ -727,42 +743,6 @@
       "duration_ms": 181258,
       "name": "DECIRTE LO QUE SIENTO",
       "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLTERA",
-        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "SOLTERA",
-      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
       "added_at": null,
@@ -839,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UN D\u00cdA ENTENDER\u00c1S",
-        "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
+        "name": "SOLTERA",
+        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
       },
       "artists": [
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         }
       ],
-      "duration_ms": 206089,
-      "name": "UN D\u00cdA ENTENDER\u00c1S",
-      "url": "https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx"
+      "duration_ms": 178312,
+      "name": "SOLTERA",
+      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UN D\u00cdA ENTENDER\u00c1S",
+        "url": "https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 206089,
+      "name": "UN D\u00cdA ENTENDER\u00c1S",
+      "url": "https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 180731,
-      "name": "YA VAN VARIOS DIAS",
-      "url": "https://open.spotify.com/track/44g7FlKRuf7qUZFgvZ4VE6"
+      "duration_ms": 259558,
+      "name": "Respuestas",
+      "url": "https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr"
     }
   ],
   "unique_name": "This Is DannyLux",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Cover: TROPICO",
+  "description": "Il meglio dell\u2019indie italiano! Cover: Brunori Sas",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -38,6 +38,50 @@
       "duration_ms": 214291,
       "name": "2minuti",
       "url": "https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"
+    },
+    {
+      "album": {
+        "name": "A cosa serve l'estate",
+        "url": "https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        },
+        {
+          "name": "Leo Gassmann",
+          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221451,
+      "name": "A cosa serve l'estate",
+      "url": "https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3"
+    },
+    {
+      "album": {
+        "name": "A Vele Spiegate",
+        "url": "https://open.spotify.com/album/4FO5fjqOFxSH7wP5DOQ8l0"
+      },
+      "artists": [
+        {
+          "name": "Fitness Forever",
+          "url": "https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai"
+        },
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199441,
+      "name": "A Vele Spiegate",
+      "url": "https://open.spotify.com/track/3LVDkHER2X6n0xIIN8E6b3"
     },
     {
       "album": {
@@ -349,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Divisi (feat. Franco126)",
+        "url": "https://open.spotify.com/album/6WDXDNXgxoc6rbW3dMduU1"
+      },
+      "artists": [
+        {
+          "name": "Asp126",
+          "url": "https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178142,
+      "name": "Divisi (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1UA2pTCJHhO9mW0aC7MfBX"
+    },
+    {
+      "album": {
         "name": "Domani (feat. Nashley)",
         "url": "https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn"
       },
@@ -408,6 +474,24 @@
       "duration_ms": 166000,
       "name": "Far\u00f2 Pi\u00f9 Rumore Del Ratatata",
       "url": "https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL"
+    },
+    {
+      "album": {
+        "name": "Festa",
+        "url": "https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI"
+      },
+      "artists": [
+        {
+          "name": "Fast Animals and Slow Kids",
+          "url": "https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189910,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG"
     },
     {
       "album": {
@@ -480,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180998,
       "name": "FUORI ROTTA",
       "url": "https://open.spotify.com/track/2GuOuGiBR1hCaf0FBl93Uw"
@@ -665,6 +749,24 @@
     },
     {
       "album": {
+        "name": "La ghigliottina",
+        "url": "https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222750,
+      "name": "La ghigliottina",
+      "url": "https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp"
+    },
+    {
+      "album": {
         "name": "Le Cose",
         "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
       },
@@ -698,6 +800,28 @@
       "duration_ms": 224931,
       "name": "Le parole pi\u00f9 grandi",
       "url": "https://open.spotify.com/track/3i4rci1J95OdMxer9kxjqW"
+    },
+    {
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN"
+      },
+      "artists": [
+        {
+          "name": "M.E.R.L.O.T",
+          "url": "https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1"
+        },
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V"
     },
     {
       "album": {
@@ -748,7 +872,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
@@ -1027,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "passanti",
+        "url": "https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU"
+      },
+      "artists": [
+        {
+          "name": "rovere",
+          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157170,
+      "name": "passanti",
+      "url": "https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng"
+    },
+    {
+      "album": {
         "name": "ROCCASECCA",
         "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
@@ -1038,7 +1180,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 157624,
       "name": "Penso Penso Penso",
       "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
@@ -1242,6 +1384,24 @@
       "duration_ms": 129750,
       "name": "SALSEDINE",
       "url": "https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv"
+    },
+    {
+      "album": {
+        "name": "Senza Stelle",
+        "url": "https://open.spotify.com/album/2e7RzeKKHgTUHsUNxfQJBC"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172894,
+      "name": "Senza Stelle",
+      "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
     },
     {
       "album": {

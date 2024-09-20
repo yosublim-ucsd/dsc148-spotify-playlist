@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Kold AF",
+  "description": "The future hits of today. \nCover: Major AJ",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -281,6 +281,32 @@
     },
     {
       "album": {
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Ashewo",
+      "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "album": {
         "name": "Avalay",
         "url": "https://open.spotify.com/album/6YdF793jc4usd4QUnfjThf"
       },
@@ -412,7 +438,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188000,
       "name": "Borrow Me Your Baby (feat. Falz)",
       "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
@@ -952,7 +978,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189357,
       "name": "Finally (feat. Sons of Sonix)",
       "url": "https://open.spotify.com/track/2ovgT7Y4gcvZkVFf3cd320"
@@ -1090,7 +1116,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174213,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6S2nSU6FmY2xCJFkh1lHER"
@@ -1182,7 +1208,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174089,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0Tl69SxWCzFa4PD5TRZhR0"
@@ -1418,7 +1444,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
@@ -1567,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Kere (feat. Crayon)",
+        "url": "https://open.spotify.com/album/6nXb0b3zNajuSyZAu2QdQU"
+      },
+      "artists": [
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178661,
+      "name": "Kere (feat. Crayon)",
+      "url": "https://open.spotify.com/track/6b9U9JciOQ2CdvGzGgAsuv"
+    },
+    {
+      "album": {
         "name": "Ko Possible",
         "url": "https://open.spotify.com/album/2AQgwujElBT9oTirF9o8ch"
       },
@@ -1666,6 +1714,32 @@
       "duration_ms": 166430,
       "name": "Left Right - Remix",
       "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     },
     {
       "album": {
@@ -1925,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "mo de ma [by any minz]",
+        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "mo de ma [by any minz]",
+      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
+    },
+    {
+      "album": {
         "name": "Mood (feat. Khaid)",
         "url": "https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG"
       },
@@ -2156,6 +2248,28 @@
       "duration_ms": 164800,
       "name": "Ole",
       "url": "https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P"
+    },
+    {
+      "album": {
+        "name": "OFA - Oxlade From Africa",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "OLOLUFE",
+      "url": "https://open.spotify.com/track/1C4ndHztUaefeUlbCue2wt"
     },
     {
       "album": {
@@ -2456,6 +2570,24 @@
       "duration_ms": 137813,
       "name": "Short Skirt (Fine Girls)",
       "url": "https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran"
+    },
+    {
+      "album": {
+        "name": "Shout",
+        "url": "https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL"
     },
     {
       "album": {
@@ -3226,7 +3358,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 243000,
       "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
       "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"

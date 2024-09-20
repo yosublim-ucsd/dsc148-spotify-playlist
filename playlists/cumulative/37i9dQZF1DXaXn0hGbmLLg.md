@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
-1,794 songs - 3 day 21 hr 59 min
+1,795 songs - 3 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1st Class D\-Bag](https://open.spotify.com/track/7EA3QmRISODKBXV5XI8DiQ) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [1st Class D\-Bag](https://open.spotify.com/album/76ErSz7hw49sy14zAc1hoP) | 2:57 | 2023-01-31 | 2023-03-01 |
 | [2 Glazen Wijn](https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [2 Glazen Wijn](https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg) | 2:34 | 2023-11-07 | 2023-11-30 |
 | [2 Kanten](https://open.spotify.com/track/4AVIjhILX1rtfHoAE2BlHe) | [Bella](https://open.spotify.com/artist/4ny2jX3s8drdHQJv2UMrzi) | [2 Kanten](https://open.spotify.com/album/5XKTGqakgMXTPBY9oIJFFb) | 2:47 | 2023-01-03 | 2023-02-01 |
+| [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 | 2024-09-19 |  |
 | [2020](https://open.spotify.com/track/1ZbgrQTeJ9FaFLBoKFR17y) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [2020](https://open.spotify.com/album/1CLVN50LxZ1XSmigiNxY1s) | 3:13 | 2024-06-04 | 2024-07-03 |
 | [20:22](https://open.spotify.com/track/5dr8f2Oh0rTtIwywFysPxu) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [20:22](https://open.spotify.com/album/30q3e6oJJLyXwqI7QG5bOb) | 2:28 | 2023-01-03 | 2023-02-01 |
 | [21](https://open.spotify.com/track/4eRlD63txRxJOUoaM1lXQh) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [21](https://open.spotify.com/album/2EYOKuKsRopkwRO9arECGM) | 3:30 | 2022-05-03 | 2022-06-01 |

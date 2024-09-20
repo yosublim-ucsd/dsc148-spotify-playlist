@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,978 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,987 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 15 | [Love pour toi](https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Love pour toi](https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW) | 2:31 |
 | 16 | [Ps and Qs](https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Ps and Qs](https://open.spotify.com/album/6LeSdivNwiztFmvNTpQZGe) | 2:10 |
 | 17 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
-| 18 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:12 |
+| 18 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 |
 | 19 | [Late!](https://open.spotify.com/track/1KVAsjsmqEExs4syG1uZB1) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Late!](https://open.spotify.com/album/0M9pRzozZXPQ9wQf0skids) | 2:20 |
 | 20 | [J'ai brisé ma voix](https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [J'ai brisé ma voix](https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG) | 3:30 |
 | 21 | [Montagne magique](https://open.spotify.com/track/3n06T3fYyRx64GzXqjltwH) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Montagne magique](https://open.spotify.com/album/4WYenSyrAWOWUh1oHhTM1M) | 3:48 |

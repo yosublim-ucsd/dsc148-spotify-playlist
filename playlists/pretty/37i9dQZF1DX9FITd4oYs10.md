@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,933 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,934 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 56 | [Se Escute](https://open.spotify.com/track/6dRhcpld5vzJ21gMAY7aZg) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [Sem Cortesia \(Vagando na Babilônia / Em Busca de Canaã\)](https://open.spotify.com/album/3Qme8XNg5l1q3sbvXueqsK) | 2:45 |
 | 57 | [Cake](https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2) | [Entre Linhas](https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX), [Kuririn](https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Matuê](https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Solo](https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf) | 3:37 |
 | 58 | [Flo Jo](https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:54 |
-| 59 | [Veneza](https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Veneza](https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx) | 4:44 |
-| 60 | [Pesadelos de Quem Não Dorme Há Dias](https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Lorens DTPK](https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV) | [Azul Piscina](https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS) | 2:26 |
+| 59 | [Pesadelos de Quem Não Dorme Há Dias](https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Lorens DTPK](https://open.spotify.com/artist/5VSZKWpZnee82aqu3QQhrV) | [Azul Piscina](https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS) | 2:26 |
+| 60 | [Veneza](https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Veneza](https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx) | 4:44 |
 
 Snapshot ID: `Zr+2aAAAAABu9PYf8IZMc3bj+CJnOpve`

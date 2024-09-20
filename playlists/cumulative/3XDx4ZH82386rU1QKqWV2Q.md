@@ -4,7 +4,7 @@
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-623 songs - 1 day 2 hr 40 min
+626 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Chill Drive](https://open.spotify.com/track/31eVB6GiQD62FgPukVbG5p) | [Kusal Binara](https://open.spotify.com/artist/4s42KgZh4KNZgSm4ByzFvd) | [Chill Drive](https://open.spotify.com/album/6OE5dQacAZ75xqph2gbLPx) | 2:12 | 2023-12-08 | 2024-06-08 |
 | [CHOKE](https://open.spotify.com/track/2d9xzEUkRDvvmTjtqR6KrC) | [Blackillac](https://open.spotify.com/artist/2jLzs9V2OgbWNyTalT7rDq) | [CHOKE](https://open.spotify.com/album/22cw0ctnYn8FG26SbRWcm1) | 2:33 | 2024-01-23 | 2024-03-01 |
 | [Cinema](https://open.spotify.com/track/6ZCAoPaurm8pUPDj6bODf2) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Cinema](https://open.spotify.com/album/1fMxTQ3HXmiIiCmsdjcLjv) | 1:54 | 2023-08-10 | 2023-12-14 |
+| [CIRCUIT](https://open.spotify.com/track/7iSenR7827HMZTAt8ICgZT) | [Mannequin](https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj) | [CIRCUIT](https://open.spotify.com/album/7tMQrniPRyq7MyY79vNONP) | 1:40 | 2024-09-19 |  |
 | [Classicore](https://open.spotify.com/track/2ppnnVPKPAnFQ5fW3aQIpA) | [Romantekker](https://open.spotify.com/artist/6D5xS19kvP9v5ZbrviJEFr) | [Classicore](https://open.spotify.com/album/286hhJXW53YZ0ucrec4qnM) | 4:49 | 2023-06-12 | 2023-06-19 |
 | [Clinical Comfort \- Sentinel Complex Remix](https://open.spotify.com/track/7Kmi3PJB8Pg6V39lijR4Xd) | [Noveaux](https://open.spotify.com/artist/2fsPGGcZFhul4aCRKUO3NJ), [Sentinel Complex](https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK) | [Clinical Comfort \(Sentinel Complex Remix\)](https://open.spotify.com/album/4MOLt933QvXBQYs3IHMRBk) | 3:32 | 2023-08-02 | 2023-08-20 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2023-06-12 |  |
@@ -280,6 +281,7 @@
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2023-06-12 | 2023-09-26 |
 | [In The End](https://open.spotify.com/track/0ry62QA95mn0I47TcTsU1q) | [Celarity](https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [In The End](https://open.spotify.com/album/4Mktc8lsrYoveJ6hzsH4zT) | 2:04 | 2023-06-12 | 2023-07-04 |
 | [IN THE END](https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG) | [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [IN THE END](https://open.spotify.com/album/2FjIV3lGlm2F9nkugnuTYw) | 2:53 | 2023-07-03 | 2023-07-19 |
+| [Infinite Torus](https://open.spotify.com/track/2QrohTiD4xToviZFmzx5c2) | [Momu](https://open.spotify.com/artist/773lqwv6VeD29M4yCkArJA) | [Moment](https://open.spotify.com/album/6LFvSZzONeexBEvz9z78uP) | 3:02 | 2024-09-19 |  |
 | [INTERMINABLE](https://open.spotify.com/track/7k5zzsljBgNXAmzW10Mq3r) | [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [INTERMINABLE](https://open.spotify.com/album/7htAdYsWXC7ooHEPY2czoc) | 2:35 | 2023-08-21 | 2023-09-26 |
 | [Intro](https://open.spotify.com/track/2QlmdGiOXKi0tnw7b2DiKI) | [relaiXX](https://open.spotify.com/artist/0SOQZ0TQYLwn4qSNaTD8jQ) | [Intro](https://open.spotify.com/album/5csU0rYBL4h3YZoovDPq84) | 2:57 | 2023-09-12 | 2023-12-14 |
 | [introvert](https://open.spotify.com/track/0IK0XHOZqleD4r3oWnbfMD) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Kylof Söze](https://open.spotify.com/artist/02DBFa1jp5WLRo71ttC5Q8) | [introvert](https://open.spotify.com/album/6Bi95VjvNc3yShODGge95Q) | 1:15 | 2024-02-14 | 2024-03-18 |
@@ -440,6 +442,7 @@
 | [Puppet \- RAIZHELL Remix](https://open.spotify.com/track/1j4Ag3l3X03vSgp7pIO0lj) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Puppet \(RAIZHELL Remix\)](https://open.spotify.com/album/2NYNoRsuMAbwGvSXBhvXAB) | 2:27 | 2023-07-14 | 2023-09-26 |
 | [PUTARIA](https://open.spotify.com/track/0xOuAMyUc8UKkDl2ZpsDqu) | [L3Ve](https://open.spotify.com/artist/6CmtLxTDl7985oQASZBzEr), [MADNIIIT](https://open.spotify.com/artist/0chNt2yaYcI6vj9x2IN79j) | [PUTARIA](https://open.spotify.com/album/75tn78tiOrnuqca83XEHxG) | 2:31 | 2023-12-08 | 2024-07-27 |
 | [PYRAMID OF GYZA](https://open.spotify.com/track/1auUb2SHzOA45CyafsuGHh) | [SKYVER](https://open.spotify.com/artist/28vzuYcNCFrd0CaN9ZZVod), [4WIZZ](https://open.spotify.com/artist/5uh6mIBatCfTtP9zMnYfxp) | [PYRAMID OF GYZA](https://open.spotify.com/album/3skYPnBFzmLpHQ3TEEBOEF) | 1:24 | 2024-09-12 |  |
+| [Quadrant](https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS) | [Another Time](https://open.spotify.com/artist/6UPkJPAeJXdVccWYXSVFpc) | [Synapse](https://open.spotify.com/album/5cP4G8ARggPY692Jgfghap) | 6:46 | 2024-09-19 |  |
 | [QUATTRO](https://open.spotify.com/track/0XyQa2TUE5fjpITSPTSC8C) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [NIGHTMORSS](https://open.spotify.com/artist/6xaUh9kl4cB9sMxp1exAjh) | [QUATTRO](https://open.spotify.com/album/30Cx6E5zusgxSoPmk6sEEA) | 1:56 | 2023-12-08 | 2023-12-17 |
 | [R3bl](https://open.spotify.com/track/5BhWIRuIblTjH2VA5XpCkm) | [RHV3R](https://open.spotify.com/artist/75CoJ6yTXIBFwESdObIvTv) | [R3bl](https://open.spotify.com/album/5JmG4OrGxqXhusY7QpKoOi) | 1:56 | 2023-08-25 | 2023-09-26 |
 | [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 | 2024-01-22 |

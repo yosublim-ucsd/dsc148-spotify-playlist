@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Mega Shinnosuke
 
-441 songs - 1 day 1 hr 21 min
+442 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [ハナウタ](https://open.spotify.com/track/0K8ckD0WIk7AzgEkXDPoVC) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [ハナウタ](https://open.spotify.com/album/3Lc1YBq6bx1Cu2SgLIho0N) | 3:49 | 2023-12-07 | 2024-01-05 |
 | [ハピチョコ](https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ハピチョコ](https://open.spotify.com/album/6YuRTXMTLyw27w13yU9UPy) | 4:01 | 2023-02-09 | 2023-03-31 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-01-26 | 2023-02-02 |
+| [バービーギャル!!](https://open.spotify.com/track/74DQoWIJNeRqo42fj4JjNr) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [PIEC3 POPPO](https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X) | [バービーギャル!!](https://open.spotify.com/album/7gvsEKyLF7ekWeK0bmW5Wk) | 2:02 | 2024-09-19 |  |
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-01-26 | 2023-02-10 |
 | [ビートDEトーヒ](https://open.spotify.com/track/5D4XpDNbB5WTFLQ8VA442k) | [ハマいく](https://open.spotify.com/artist/0yAwTq1vSQQ8fpvLr5wdoF) | [ビートDEトーヒ](https://open.spotify.com/album/2AFM1KkgOLDZFibeUoxq7G) | 2:18 | 2023-01-26 | 2023-10-06 |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-03-23 | 2023-04-28 |
@@ -429,7 +430,7 @@
 | [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 | 2024-09-04 |
 | [桃源郷とタクシー](https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [桃源郷とタクシー](https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa) | 4:58 | 2024-09-02 | 2024-09-03 |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
-| [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 |  |
+| [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-05-09 |  |

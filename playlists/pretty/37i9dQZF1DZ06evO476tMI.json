@@ -1,13 +1,29 @@
 {
-  "description": "This Is Whitney Houston. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 613093,
+  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
+  "num_followers": 613153,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADqUuFAgWeedlJijzFqKe0S",
+  "snapshot_id": "ZuoYAAAAAACl1w0Lh7FArGATbDuMl8CQ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Will Save the Day (Live in Kings Park Stadium, Durban, South Africa - November 8, 1994)",
+        "url": "https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Love Will Save the Day - Live in Kings Park Stadium, Durban, South Africa - November 8, 1994",
+      "url": "https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7"
+    },
     {
       "added_at": null,
       "album": {
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "So Emotional",
-      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 277240,
       "name": "You Give Good Love",
       "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "So Emotional",
+      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
     },
     {
       "added_at": null,
@@ -479,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 342666,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -495,22 +527,6 @@
       "duration_ms": 360733,
       "name": "Hold Me (with Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 342666,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
     },
     {
       "added_at": null,
@@ -635,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 296373,
-      "name": "I Love The Lord (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -671,6 +667,26 @@
       "duration_ms": 229733,
       "name": "Like I Never Left (feat. Akon)",
       "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "Love Will Save the Day",
-      "url": "https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 281066,
       "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
       "duration_ms": 289733,
       "name": "Lover for Life",
       "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "You're Still My Man",
+      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,451 likes - 117 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,522 likes - 117 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 116 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 | 117 | [No Diggity](https://open.spotify.com/track/5b3H9J71t73nzr73pvEWrC) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 5:51 |
 
-Snapshot ID: `ZuO4wAAAAAAl1rMXDyPrnDV4AbEzpatA`
+Snapshot ID: `ZuO4wAAAAABg5zw6l0El6x302rB0+W48`

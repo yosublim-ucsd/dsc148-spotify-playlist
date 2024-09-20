@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,590 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,614 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 45 | [I Love You Samantha](https://open.spotify.com/track/2IVRYGcgELRGEUldowroST) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Johnny Green & His Orchestra](https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6) | [High Society \(O.S.T \- 1956\)](https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq) | 4:12 |
 | 46 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
 | 47 | [Too Darn Hot](https://open.spotify.com/track/7k3m2CrQlUdSq4f9H8BxOp) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Orchestra](https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p) | [Let's Dance Jazz \(Jazz Club\)](https://open.spotify.com/album/0VG1QP6ZxoPRd1lUBSvk57) | 2:45 |
-| 48 | [Why Shouldn't I?](https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 3:34 |
-| 49 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
+| 48 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
+| 49 | [Why Shouldn't I?](https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 3:34 |
 | 50 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
 | 51 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
 | 52 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |

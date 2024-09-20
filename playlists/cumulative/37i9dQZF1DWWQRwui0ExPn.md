@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,970 songs - 11 day 0 hr 16 min
+6,972 songs - 11 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@
 | [Beachside Café](https://open.spotify.com/track/0iB55t6EF8P7BdzOwhPRoM) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Beachside Café](https://open.spotify.com/album/0GEqc2CZgEfoJ1PIldm7Al) | 2:15 | 2023-01-06 | 2023-10-13 |
 | [Beachtime](https://open.spotify.com/track/5eItbTyLvObdxg9gotDr23) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Beachtime](https://open.spotify.com/album/3ISyaJRgv0ISg4gKY1XvHL) | 1:49 | 2022-12-02 | 2023-09-30 |
 | [Beachwalker](https://open.spotify.com/track/2tUg45VysqBwS9fidbdjCf) | [Liphe](https://open.spotify.com/artist/371UxxrkcjjvlQUJxDKjfq) | [Beachwalker](https://open.spotify.com/album/0t7ORKdaBC0igMwc9RFx90) | 2:58 | 2021-06-08 | 2022-01-14 |
-| [Beam Me Up](https://open.spotify.com/track/4u6Ei0dLyo7AQtYZKtiWxH) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Beam Me Up](https://open.spotify.com/album/2IaYkVkupF5ry8s0QXuA7m) | 2:17 | 2024-05-10 |  |
+| [Beam Me Up](https://open.spotify.com/track/4u6Ei0dLyo7AQtYZKtiWxH) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Beam Me Up](https://open.spotify.com/album/2IaYkVkupF5ry8s0QXuA7m) | 2:17 | 2024-05-10 | 2024-09-20 |
 | [Beam Up](https://open.spotify.com/track/3mZaGGvuocboZiPo2pq29k) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Tomas Delfgaauw](https://open.spotify.com/artist/1eubKzTitl4RtmWK1AmJuz) | [Beam Up](https://open.spotify.com/album/5OFJZdLPTRmdzKgHi2UjAB) | 2:37 | 2023-06-14 | 2023-09-16 |
 | [Beat Boost](https://open.spotify.com/track/3SS544Y7C0otBOFxK3m6bs) | [Illuzhion](https://open.spotify.com/artist/66zhXdx92Z5bots242b1J2) | [Beat Boost](https://open.spotify.com/album/0iLbG4JbZnKY4w1U3JuAZ2) | 2:18 | 2021-12-17 | 2022-08-19 |
 | [Beat Buskers](https://open.spotify.com/track/5ymLqKb4owJ2LOwWaiB4lf) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Beat Buskers](https://open.spotify.com/album/1vpPqdTc9Hq56rCrWGnLSA) | 2:12 | 2024-04-26 |  |
@@ -2091,6 +2091,7 @@
 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 | 2023-11-17 |  |
 | [Flight](https://open.spotify.com/track/7zYv7Uxgzbl0E8akrZKhQX) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Kronicle](https://open.spotify.com/artist/5GSFvlo5MRFDtWDjj4wsaC) | [Flight](https://open.spotify.com/album/3BUbjZjbrxte7HxjqHfQvx) | 2:09 | 2019-11-08 | 2021-07-11 |
 | [Flight of the Mitoglider](https://open.spotify.com/track/1K5whJr9TAgFAohNbp26Qg) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 3:17 | 2021-04-15 | 2022-01-14 |
+| [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 | 2024-09-13 |  |
 | [Flip](https://open.spotify.com/track/5bWgEFytYDCT9aztfUfakd) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Flip](https://open.spotify.com/album/0NWxH3iq2Pv3jdrvcaTxiw) | 2:07 | 2023-09-07 | 2023-09-29 |
 | [Flip A Coin](https://open.spotify.com/track/0vVrxV3cr1GQKNdQgpzBeH) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Flip A Coin](https://open.spotify.com/album/2GDSyzcvTn1Y7pIGH660TK) | 2:00 | 2024-02-02 | 2024-08-20 |
 | [Flo\-fi](https://open.spotify.com/track/4VSINWnb2zYnrs7IUa2ash) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Flo\-fi](https://open.spotify.com/album/4BksbrE5rQUTPeM4vc77lQ) | 1:47 | 2022-02-14 | 2022-07-22 |
@@ -2887,7 +2888,7 @@
 | [In My Sight](https://open.spotify.com/track/4egWpPu15PpIWN5fCU4TtC) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR) | [Loving You/By Myself](https://open.spotify.com/album/4OKUYIyMHB0EpB0a52jMwy) | 1:42 | 2022-03-11 | 2022-08-12 |
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-14 | 2022-09-09 |
 | [in the attic](https://open.spotify.com/track/55nJbJ4cRgZbdnNwYNoWIE) | [muk](https://open.spotify.com/artist/5Te6xlz2EhVSceMWA85ckH) | [in the attic](https://open.spotify.com/album/2ax4Xnbjv4GIU8efIFWmJZ) | 1:48 | 2023-12-15 |  |
-| [in the backseat of my parents car](https://open.spotify.com/track/22PA2i88dqsPJy2xVxlrms) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [in the backseat of my parents car](https://open.spotify.com/album/1xikxyfpM5FiEzxUpM8EJl) | 1:46 | 2024-03-29 |  |
+| [in the backseat of my parents car](https://open.spotify.com/track/22PA2i88dqsPJy2xVxlrms) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [in the backseat of my parents car](https://open.spotify.com/album/1xikxyfpM5FiEzxUpM8EJl) | 1:46 | 2024-03-29 | 2024-09-20 |
 | [In The Beginning](https://open.spotify.com/track/1kRPNCvllR0OSZ0aOCoBxZ) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [In The Beginning](https://open.spotify.com/album/7cUj4OaHtQ5dhFd2x0VfLf) | 2:16 | 2022-10-28 | 2023-11-24 |
 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 | 2021-10-20 | 2022-04-15 |
 | [In The Distance](https://open.spotify.com/track/5KWGfb4s18glBoTNfesiHl) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Standing Alone In A Crowded Room](https://open.spotify.com/album/1pmJPnnEdNRakA2O5ZZeFD) | 2:33 | 2022-07-22 | 2022-11-11 |
@@ -5241,6 +5242,7 @@
 | [Sex Planet](https://open.spotify.com/track/2JW1P7PCV6JxAZ1WWc45HS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Sex Planet](https://open.spotify.com/album/6Ev2yiCUVeIClIjvOpSjBm) | 2:27 | 2021-04-01 | 2022-01-14 |
 | [Sexta à noite](https://open.spotify.com/track/5OzXpKdPk12SxeERSY3LHh) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Sexta à noite](https://open.spotify.com/album/3xjwSfefP0GXLjBRhkYGCU) | 1:52 | 2022-10-28 | 2023-01-20 |
 | [Sexy Night](https://open.spotify.com/track/64uNamPbnPHUDRIN4ikcGq) | [Studio Gangsta](https://open.spotify.com/artist/4RbyueJ8BMDM08TdqywNZz) | [Sexy Night](https://open.spotify.com/album/74ieBsPianBuEkWy2WhtUS) | 1:51 | 2022-04-08 | 2022-09-02 |
+| [Shades](https://open.spotify.com/track/0Rpcv3rAH4jz9WPsNkbqWr) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Shades](https://open.spotify.com/album/4uy32p25tpeahQE1kWjxmB) | 1:45 | 2024-09-13 |  |
 | [shadows](https://open.spotify.com/track/3fb2fG3tBK0Iqe9fzhLsxz) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [shadows](https://open.spotify.com/album/6plzmVbl9BOcjJqgMDEzda) | 1:48 | 2020-01-12 | 2021-08-22 |
 | [Shallow](https://open.spotify.com/track/34rDTa9sEiCGccvIzZkHbN) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Shallow](https://open.spotify.com/album/1Cqo9G9WJ9Ea69K9W2ebpF) | 1:58 | 2023-01-20 | 2023-10-06 |
 | [Shallow Breeze](https://open.spotify.com/track/0rodjtMsqR48ldeu8VjBnA) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Shallow Breeze](https://open.spotify.com/album/54FtuQfynVAlXzruXHXBRM) | 2:03 | 2023-06-20 | 2023-10-06 |

@@ -211,6 +211,32 @@
     },
     {
       "album": {
+        "name": "Agatha All Along (Dave Aud\u00e9 Remix) - From \"Agatha All Along\"",
+        "url": "https://open.spotify.com/album/6gwEKT8OGv6zOv9Kl5X3ZF"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121411,
+      "name": "Agatha All Along (Dave Aud\u00e9 Remix) - From \"Agatha All Along\"",
+      "url": "https://open.spotify.com/track/2Wq6zNBpswt49Lf7jaGBaj"
+    },
+    {
+      "album": {
         "name": "Frozen 2 - Original Motion Picture Soundtrack/Deluxe Edition",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },

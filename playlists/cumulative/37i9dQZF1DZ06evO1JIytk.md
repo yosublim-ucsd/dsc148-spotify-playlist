@@ -2,7 +2,7 @@
 
 ### [This Is Anti\-Flag](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JIytk)
 
-> This Is Anti\-Flag\. Los temas esenciales, todos en una lista.
+> This is Anti\-Flag。アーティストの代表曲をひとつのプレイリストに。
 
 119 songs - 5 hr 28 min
 

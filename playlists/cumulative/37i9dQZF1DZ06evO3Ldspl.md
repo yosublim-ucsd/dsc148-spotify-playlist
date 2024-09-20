@@ -2,7 +2,7 @@
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
+> This is Binomio de Oro\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 70 songs - 5 hr 0 min
 

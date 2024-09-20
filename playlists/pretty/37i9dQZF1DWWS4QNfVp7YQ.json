@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 80137,
+  "num_followers": 80185,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
+      },
+      "artists": [
+        {
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
+        },
+        {
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
+        }
+      ],
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tus Besos",
         "url": "https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 180009,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
-      },
-      "artists": [
-        {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Cumbia Tribal",
-        "url": "https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Latin Band",
-          "url": "https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Menea la Cadera",
-      "url": "https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208146,
       "name": "Brindemos Por Ellas",
       "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Cumbia Tribal",
+        "url": "https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Latin Band",
+          "url": "https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Menea la Cadera",
+      "url": "https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Terror, Ep. 2",
-        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        }
-      ],
-      "duration_ms": 145145,
-      "name": "Vibora",
-      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209077,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Terror, Ep. 2",
+        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        }
+      ],
+      "duration_ms": 145145,
+      "name": "Vibora",
+      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "La Ni\u00f1a (Remixes)",
         "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 264005,
       "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
       "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Terror, Ep. 2",
+        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "Gettin' Hype",
+      "url": "https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1"
     },
     {
       "added_at": "2024-07-05 22:41:57",

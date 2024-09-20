@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-202 songs - 9 hr 2 min
+203 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Pretinha de Lace](https://open.spotify.com/track/0Axye7yoG2A8gpwb0UyUzz) | [Raabe](https://open.spotify.com/artist/0yAvQF59yzNugeb7m0LD5Z), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Pretinha de Lace](https://open.spotify.com/album/0CbZ6pwIukM4Y2iPFQ7Ztq) | 2:10 | 2023-07-28 | 2023-09-26 |
 | [Princesinha 220v](https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a) | [Thaiga](https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [Princesinha 220v](https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2) | 3:27 | 2022-10-14 | 2023-07-01 |
 | [Problemas de Uma Gostosa](https://open.spotify.com/track/2cDB6YiO8SEN9G6X5U9wzw) | [Lívia Cruz](https://open.spotify.com/artist/3BsGMZHoIcDTLtElPgYf0t), [Dryca Ryzzo](https://open.spotify.com/artist/3YSHXGuXU2R4mZRH6k2t5R), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [Mary](https://open.spotify.com/artist/68GRNYDRZwpDR77f3iWa9c), [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [B No Beat](https://open.spotify.com/artist/2SzSJOX4IgHdpYgci9RutM), [Freeda](https://open.spotify.com/artist/4rlGEW33pML5GlqS4lsWyp) | [Problemas de Uma Gostosa](https://open.spotify.com/album/0nyG5g5QTGrEO8Los9uYAv) | 3:41 | 2024-09-02 |  |
+| [PROFESSORA](https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [BRUNE](https://open.spotify.com/artist/6LFvBfpdorzVD0EH2ljTZY), [Hadockhouse](https://open.spotify.com/artist/6lTQ3q3T4dJaaGbGINUmgh) | [PROFESSORA](https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2) | 2:38 | 2024-09-20 |  |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 | 2023-07-01 |
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |

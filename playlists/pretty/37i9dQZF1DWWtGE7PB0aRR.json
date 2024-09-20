@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 148353,
+  "num_followers": 148424,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "Sound Like This",
         "url": "https://open.spotify.com/album/1Ld7ppVi6X2z6mjtA35Zt3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 284106,
       "name": "Scaramouche",
       "url": "https://open.spotify.com/track/2F74eGsMRbLJ8dAsZMrMRH"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1037,10 +1037,10 @@
       "url": "https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP"
+        "name": "No Fool Baby",
+        "url": "https://open.spotify.com/album/1IaVCs3r55S02WlrZmKzP8"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt"
         }
       ],
-      "duration_ms": 252948,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/0kY1WQ375QtoFP75dLgRgy"
+      "duration_ms": 232082,
+      "name": "No Fool Baby",
+      "url": "https://open.spotify.com/track/4nY5qPRiY5x0t1cwMBhNuS"
     },
     {
       "added_at": "2022-03-25 04:01:00",

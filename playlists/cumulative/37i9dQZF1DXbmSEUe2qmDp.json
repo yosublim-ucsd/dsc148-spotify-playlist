@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Theo & Luan, Clayton & Rom\u00e1rio",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Rapha & Leo",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193301,
       "name": "Biscoito - Ao Vivo",
       "url": "https://open.spotify.com/track/5fw2TLuOeWomTbyJSDyGHM"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183449,
       "name": "Boca Reserva",
       "url": "https://open.spotify.com/track/4V5Dm16NqgpkCtbtG30Rmt"
@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "Eu N\u00e3o Vou Te Pegar - Ao Vivo",
+        "url": "https://open.spotify.com/album/7w4YVfYCfDkEhYyFX7rO8N"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Rafael",
+          "url": "https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186264,
+      "name": "Eu N\u00e3o Vou Te Pegar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1H4F3GB8oqJNn78mqpeZNg"
+    },
+    {
+      "album": {
         "name": "Eu Vou Beber por Tr\u00eas (Ao Vivo)",
         "url": "https://open.spotify.com/album/4aRdFIGn6FjyF6uoCfeF5W"
       },
@@ -1171,6 +1193,46 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Viva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/63O9CMwQvvss9Q7oBKksdf"
+      },
+      "artists": [
+        {
+          "name": "Rapha & Leo",
+          "url": "https://open.spotify.com/artist/05BcBTSbcgEgbIMzRTOhKs"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197610,
+      "name": "Inesquec\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6KgxWHZYiX5nYal4OoMjBZ"
+    },
+    {
+      "album": {
+        "name": "Parada Obrigat\u00f3ria, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SkKauPb86QelsQUcSSlpu"
+      },
+      "artists": [
+        {
+          "name": "Vh & Alexandre",
+          "url": "https://open.spotify.com/artist/35epRRme4r0FiJPzmxdloV"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181611,
+      "name": "Intimidade A Dois - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EgygFLfMqpslBRCy3wiX6"
+    },
+    {
+      "album": {
         "name": "Diamante, Pt. 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY"
       },
@@ -1182,7 +1244,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190588,
       "name": "Irracional - Ao Vivo",
       "url": "https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n"
@@ -1284,6 +1346,24 @@
       "duration_ms": 178233,
       "name": "Mensagem de Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/1P2KMn60eCaNGW3qMIsBA6"
+    },
+    {
+      "album": {
+        "name": "Mentiras Confort\u00e1veis - V\u00ea Se Pod",
+        "url": "https://open.spotify.com/album/6kI6b1oWkk9yP6eTQLYZPU"
+      },
+      "artists": [
+        {
+          "name": "Tales e Conrado",
+          "url": "https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266411,
+      "name": "Mentiras Confort\u00e1veis - V\u00ea Se Pod, Ao Vivo",
+      "url": "https://open.spotify.com/track/5yfM9EEyT4O78O9bV2Ot1g"
     },
     {
       "album": {
@@ -1600,7 +1680,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 157650,
       "name": "Os Doidin - Ao Vivo",
       "url": "https://open.spotify.com/track/6Ca0MRbFnC6OUiUPYE4kmV"
@@ -1750,7 +1830,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176927,
       "name": "Pinta o Cabelo de Preto - Ao Vivo",
       "url": "https://open.spotify.com/track/6TNzZlazTQW7FakRpxDe0N"
@@ -2094,7 +2174,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151863,
       "name": "Saudade Matada - Ao Vivo",
       "url": "https://open.spotify.com/track/1LxzOAaKILJWlVG1slMfvM"
@@ -2357,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico (Vol. 1)",
+        "url": "https://open.spotify.com/album/6K5olspA1ptYAUbquQrZi9"
+      },
+      "artists": [
+        {
+          "name": "Rick & Rangel",
+          "url": "https://open.spotify.com/artist/1yL5nPC7Rfwdj7o9QoObS4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249454,
+      "name": "S\u00f3 Voc\u00ea N\u00e3o V\u00ea / Amanh\u00e3 Talvez",
+      "url": "https://open.spotify.com/track/4M05cOsYLa0xhzO4MUbMX2"
+    },
+    {
+      "album": {
         "name": "Terapeuta (Ao Vivo)",
         "url": "https://open.spotify.com/album/7FtkdSEl8kXPCXqONqn6Da"
       },
@@ -2562,7 +2660,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 156659,
       "name": "Vagabruto - Ao Vivo",
       "url": "https://open.spotify.com/track/4voJEuBggwUEwSzpn4wuf9"
@@ -2632,6 +2730,24 @@
       "duration_ms": 180520,
       "name": "Vestidinho",
       "url": "https://open.spotify.com/track/1wzG9CS0wqQyk5mcQa5sfk"
+    },
+    {
+      "album": {
+        "name": "Vida Bagun\u00e7ada",
+        "url": "https://open.spotify.com/album/6gZlEmLWvXmp2le0EbOTmN"
+      },
+      "artists": [
+        {
+          "name": "Beto & Breno",
+          "url": "https://open.spotify.com/artist/7iFKA14MpJ9bhPhZIUqDOS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140058,
+      "name": "Vida Bagun\u00e7ada",
+      "url": "https://open.spotify.com/track/29RWcQ5sabWjNimHtf7gY7"
     },
     {
       "album": {

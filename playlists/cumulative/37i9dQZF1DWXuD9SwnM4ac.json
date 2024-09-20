@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Angie McMahon",
+  "description": "All the new indie tracks worth knowing about. Cover: Bon Iver",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Boys & Guitars",
+        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235524,
+      "name": "Boys & Guitars",
+      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
+    },
+    {
+      "album": {
         "name": "BRAND NEW",
         "url": "https://open.spotify.com/album/6AcsCmVA0YDjmmK1qGV9ka"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 129582,
       "name": "BRAND NEW",
       "url": "https://open.spotify.com/track/5qvpRgqI26Ti9rrRuOznOB"
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "SODA",
+        "url": "https://open.spotify.com/album/35YO8fr159vkhfppudG2Wj"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248569,
+      "name": "Death Is A Friend",
+      "url": "https://open.spotify.com/track/4OswyhJTBouvjDl0RCOTgh"
+    },
+    {
+      "album": {
         "name": "American Hero",
         "url": "https://open.spotify.com/album/21HMENCxfw31djGv60lk88"
       },
@@ -1363,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Dive Bars And Angel Cards",
+        "url": "https://open.spotify.com/album/67F3dEjCjWJTpRUArmlV7h"
+      },
+      "artists": [
+        {
+          "name": "Montgomery",
+          "url": "https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214646,
+      "name": "Dive Bars And Angel Cards",
+      "url": "https://open.spotify.com/track/1wk9O1WZx3nTFs80zjGBTO"
+    },
+    {
+      "album": {
         "name": "Don't Delete My Number",
         "url": "https://open.spotify.com/album/4YKm31taPYgs8DNJrqJXK7"
       },
@@ -1374,7 +1428,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175598,
       "name": "Don't Delete My Number",
       "url": "https://open.spotify.com/track/3e2MjASA9WQrL1pVLLbSwj"
@@ -1399,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -1414,6 +1486,24 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "album": {
+        "name": "Oregon Coast",
+        "url": "https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189784,
+      "name": "Doug Fir",
+      "url": "https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1"
     },
     {
       "album": {
@@ -1924,7 +2014,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 213333,
       "name": "Garmonbozia",
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
@@ -2080,7 +2170,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191246,
       "name": "Goner",
       "url": "https://open.spotify.com/track/2i9roYw0YsShhe1BBSGzxA"
@@ -2141,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hit",
+        "url": "https://open.spotify.com/album/0L2O3JD8zvDNChgDCp6qpJ"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221004,
+      "name": "Greatest Hit",
+      "url": "https://open.spotify.com/track/04AwWTQpmjc8Pln67jxou6"
+    },
+    {
+      "album": {
         "name": "Green Love",
         "url": "https://open.spotify.com/album/6SO3sZTHm2SxKyaNnkYt9U"
       },
@@ -2192,6 +2300,24 @@
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
+    },
+    {
+      "album": {
+        "name": "Gut Punch Love",
+        "url": "https://open.spotify.com/album/1bkhDhgBqTsNI6rrwGNWZT"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179138,
+      "name": "Gut Punch Love",
+      "url": "https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn"
     },
     {
       "album": {
@@ -2267,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
@@ -2314,7 +2458,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209596,
       "name": "Heaven Has To Happen",
       "url": "https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y"
@@ -2513,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "SURVIVING THE DREAM",
+        "url": "https://open.spotify.com/album/0YA6MVObOhybiu4qX8Dm2n"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/2VrOyyuHn82TWgAH3ztuku"
+    },
+    {
+      "album": {
         "name": "Husk",
         "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
       },
@@ -2542,10 +2704,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be A Mother",
+        "url": "https://open.spotify.com/album/74uhmB7i7u3hGPiHUyijn3"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "I Wanna Be A Mother",
+      "url": "https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty"
     },
     {
       "album": {
@@ -2675,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "It Wasn't Meant To Be",
+        "url": "https://open.spotify.com/album/2c4WFzNTDxi7Ip4i56bX4f"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190824,
+      "name": "It Wasn't Meant To Be",
+      "url": "https://open.spotify.com/track/6rSvga4E0OvdDHiN4fzZw1"
+    },
+    {
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I"
       },
@@ -2690,6 +2888,24 @@
       "duration_ms": 253280,
       "name": "January",
       "url": "https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl"
+    },
+    {
+      "album": {
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212008,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
     },
     {
       "album": {
@@ -3008,6 +3224,24 @@
       "duration_ms": 203415,
       "name": "Lords Of Lithium",
       "url": "https://open.spotify.com/track/0dLpHtlWPyUbQI1thmPsHk"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180723,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO"
     },
     {
       "album": {
@@ -3465,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "My Hair Is A Little Bit On Fire",
+        "url": "https://open.spotify.com/album/6NULt5FUaTTN7rzSw7bQVZ"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216177,
+      "name": "My Hair Is A Little Bit On Fire",
+      "url": "https://open.spotify.com/track/02ALESYceJ79XmiErPZvbU"
+    },
+    {
+      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -3646,7 +3898,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 227160,
       "name": "Old Or Young",
       "url": "https://open.spotify.com/track/7ovbdej62p6yKcefzwLQCE"
@@ -3754,7 +4006,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
@@ -3808,7 +4060,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 215300,
       "name": "Physical Medicine",
       "url": "https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62"
@@ -3826,7 +4078,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
@@ -3928,7 +4180,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174388,
       "name": "Press On Me",
       "url": "https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J"
@@ -4000,7 +4252,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 229353,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
@@ -4036,7 +4288,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 215571,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
@@ -4058,6 +4310,24 @@
       "duration_ms": 147981,
       "name": "Run It Back",
       "url": "https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi"
+    },
+    {
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "album": {
@@ -4090,7 +4360,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 246484,
       "name": "Sad Shit",
       "url": "https://open.spotify.com/track/38KpdBkSBBjoBdWiTzTqVa"
@@ -4310,7 +4580,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198541,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J"
@@ -4860,7 +5130,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209800,
       "name": "That's My Floor",
       "url": "https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H"
@@ -5272,6 +5542,24 @@
       "duration_ms": 166588,
       "name": "WE DESPISE THE BOURGEOISIE - REMIX",
       "url": "https://open.spotify.com/track/7qZugV7gI0BO2b26ZSExxJ"
+    },
+    {
+      "album": {
+        "name": "Weather's Better",
+        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172991,
+      "name": "Weather's Better",
+      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
     },
     {
       "album": {

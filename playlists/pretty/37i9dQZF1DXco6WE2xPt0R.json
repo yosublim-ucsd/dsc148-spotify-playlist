@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 120195,
+  "num_followers": 120206,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "11th Hour",
+        "url": "https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH"
+      },
+      "artists": [
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "duration_ms": 251794,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "11th Hour",
-        "url": "https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH"
-      },
-      "artists": [
-        {
-          "name": "Lynda Dawn",
-          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
-        }
-      ],
-      "duration_ms": 251794,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 183373,
       "name": "Comeback.",
       "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "N o C h i l l (Slowed)",
-        "url": "https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "N o C h i l l (Slowed)",
-      "url": "https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "N o C h i l l (Slowed)",
+        "url": "https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "N o C h i l l (Slowed)",
+      "url": "https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Live at VEVO",
         "url": "https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 158249,
       "name": "dumb luck (Live at VEVO)",
       "url": "https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
       },
       "artists": [
         {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+      "duration_ms": 199906,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6AcsZZ2w0lPCkdCXdeZsyh"
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
       "artists": [
         {
-          "name": "Ruben Studdard",
-          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7qArBfIvf7EgFwqa2oUd66"
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Chocolate Covered Strawberries",
         "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2024-09-13 03:01:00",

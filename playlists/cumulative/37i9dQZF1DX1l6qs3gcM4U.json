@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nsoki & Nelson Freitas",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Badoxa",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -416,6 +416,24 @@
       "duration_ms": 210000,
       "name": "Ama de Novu",
       "url": "https://open.spotify.com/track/1vmP2IDpxqN5vu3Lh1fYhT"
+    },
+    {
+      "album": {
+        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
+        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186922,
+      "name": "Amar Pela Metade",
+      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
     },
     {
       "album": {
@@ -1060,6 +1078,28 @@
       "duration_ms": 196779,
       "name": "Bolacha De Nuvem (Nha Cretcheu)",
       "url": "https://open.spotify.com/track/0BEVinli1KC5Z43LlgyytM"
+    },
+    {
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
       "album": {
@@ -1775,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Deixa o Clima Rolar",
+        "url": "https://open.spotify.com/album/1L2DbuWsTYqY1pBFWijfQZ"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169407,
+      "name": "Deixa o Clima Rolar",
+      "url": "https://open.spotify.com/track/5Jpa5TYgS6Eqdp3395ZtjG"
+    },
+    {
+      "album": {
         "name": "Kizomba Mix 6 \u2013 Summer 2017",
         "url": "https://open.spotify.com/album/3t5T4skcGp873n7Uh8VlBO"
       },
@@ -2152,6 +2210,28 @@
       "duration_ms": 174501,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/63advOBOXbhkDmNXVHlCvw"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/7MlBEbBxMU9QrXWc5NJxhR"
+      },
+      "artists": [
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        },
+        {
+          "name": "Mr. Carly",
+          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176870,
+      "name": "Ego Teimoso",
+      "url": "https://open.spotify.com/track/6qD3lP7sS4ZLiTcBAvl3BD"
     },
     {
       "album": {
@@ -3317,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Ka Nu Perdi",
+        "url": "https://open.spotify.com/album/196sJZxS02ILS9YUGss4R4"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Ka Nu Perdi",
+      "url": "https://open.spotify.com/track/54fClL6l5mVEaQFKDm8Y1o"
+    },
+    {
+      "album": {
         "name": "Ka Ta Importa",
         "url": "https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ"
       },
@@ -3464,7 +3562,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181346,
       "name": "Kua Buaru",
       "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
@@ -3988,7 +4086,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 258324,
       "name": "Me Leva Contigo",
       "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
@@ -4812,7 +4910,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 210379,
       "name": "Novinha",
       "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
@@ -5380,7 +5478,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
@@ -7188,7 +7286,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"

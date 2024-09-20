@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAXmbNM40bxv8hW203yMCVW",
+  "snapshot_id": "AAAAAAAAAAC3wGhDDo0loQS0SbZZBytw",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Exhumed",
+        "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 234854,
+      "name": "Exhumed",
+      "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Still Infinite (Redux)",
         "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 215173,
       "name": "Still Infinite (Redux)",
       "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Exhumed",
-        "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 234854,
-      "name": "Exhumed",
-      "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "The Confidence Of Knowing",
         "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "8 Days",
-        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 130391,
-      "name": "8 Days",
-      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
       },
@@ -267,6 +267,26 @@
       "duration_ms": 461880,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "precious mind",
+        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "precious mind (cassette remix)",
+      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -315,26 +335,6 @@
       "duration_ms": 219186,
       "name": "Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "precious mind",
-        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "India Carney",
-          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
-        }
-      ],
-      "duration_ms": 304453,
-      "name": "precious mind (cassette remix)",
-      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Hate Me If You Want",
+        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 172855,
+      "name": "Hate Me If You Want",
+      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Lights Camera Action",
         "url": "https://open.spotify.com/album/6Vxivqp9jbqZ2xpS1HGG9r"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 206597,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/7catGSR9PjA4RbprIJEAWS"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Hate Me If You Want",
-        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 172855,
-      "name": "Hate Me If You Want",
-      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 151274,
       "name": "Something (feat. Syd)",
       "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
     },
     {
       "added_at": "2024-09-13 04:00:00",

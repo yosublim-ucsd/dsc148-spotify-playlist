@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Five Dice, All Threes",
+        "url": "https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324226,
+      "name": "All Threes",
+      "url": "https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z"
+    },
+    {
+      "album": {
         "name": "Already Over",
         "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
@@ -964,7 +986,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 133256,
       "name": "blame me for everything",
       "url": "https://open.spotify.com/track/5gdiHedipHaBBXcp7TkPmK"
@@ -1394,10 +1416,36 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 173350,
       "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
       "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "album": {
+        "name": "Cannibal (feat. Anders Frid\u00e9n)",
+        "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
     },
     {
       "album": {
@@ -2078,7 +2126,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188155,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
@@ -2114,7 +2162,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190817,
       "name": "Darkest Lullaby",
       "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
@@ -2240,7 +2288,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 229040,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR"
@@ -2388,7 +2436,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 302813,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/6JocHBReNqnW0OrR3vwb49"
@@ -3288,7 +3336,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182507,
       "name": "Flirting Again",
       "url": "https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag"
@@ -3858,7 +3906,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 218925,
       "name": "GUTTER RAT",
       "url": "https://open.spotify.com/track/3UiTodx3ubveDSBg0PM6WH"
@@ -3938,6 +3986,28 @@
       "duration_ms": 173172,
       "name": "Happier in Hell",
       "url": "https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo"
+    },
+    {
+      "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
       "album": {
@@ -5727,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "The Surface Seems So Far",
+        "url": "https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273173,
+      "name": "Lost All Control",
+      "url": "https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6"
+    },
+    {
+      "album": {
         "name": "Lost Honor",
         "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
       },
@@ -6321,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "Motoroller",
+        "url": "https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Motoroller",
+      "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
+    },
+    {
+      "album": {
         "name": "Mountains At Midnight",
         "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
       },
@@ -6478,6 +6584,24 @@
       "duration_ms": 235904,
       "name": "National Treasure",
       "url": "https://open.spotify.com/track/1NAelXluOadIs690HXiBu2"
+    },
+    {
+      "album": {
+        "name": "Need Somebody",
+        "url": "https://open.spotify.com/album/4vNzXmE0WTYzsyto6Ylwlj"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187756,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/36SnGkE76MKjbpxOOR26lJ"
     },
     {
       "album": {
@@ -7452,6 +7576,24 @@
       "duration_ms": 443386,
       "name": "Phantom Of The Opera",
       "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
+    },
+    {
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/6ylfafY4MVUj7FLu2WSfC8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Piano For A Stripper - Demo",
+      "url": "https://open.spotify.com/track/1dDWwIr9UuoJx1n3fJ1Vyf"
     },
     {
       "album": {
@@ -8654,7 +8796,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
@@ -9558,7 +9700,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
@@ -9763,6 +9905,42 @@
     },
     {
       "album": {
+        "name": "The Longest Kiss",
+        "url": "https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "The Longest Kiss",
+      "url": "https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up"
+    },
+    {
+      "album": {
+        "name": "Dirt On My Diamonds, Vol. 2",
+        "url": "https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ"
+    },
+    {
+      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -9810,7 +9988,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 259747,
       "name": "The Serpent and the King",
       "url": "https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT"
@@ -10114,7 +10292,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183849,
       "name": "Time :: Fate :: Karma :: God",
       "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
@@ -10442,6 +10620,24 @@
       "duration_ms": 224141,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3tMihAt7zVvd4ZQNQl9wmF"
+    },
+    {
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223673,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
     },
     {
       "album": {
@@ -10808,6 +11004,28 @@
       "duration_ms": 302346,
       "name": "Was It All Worth It - Original Take",
       "url": "https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w"
+    },
+    {
+      "album": {
+        "name": "Watch the Fire",
+        "url": "https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        },
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Watch the Fire",
+      "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
     },
     {
       "album": {
@@ -11498,6 +11716,24 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "Zombie (Wild Coming Out)",
+        "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276076,
+      "name": "Zombie (Wild Coming Out)",
+      "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"
     },
     {
       "album": {

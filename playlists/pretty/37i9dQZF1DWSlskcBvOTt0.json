@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 499543,
+  "num_followers": 499760,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -595,7 +595,7 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Lately - Adam Ten & Mita Gami Remix",
+        "name": "Lately (Adam Ten & Mita Gami Remix)",
         "url": "https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc"
       },
       "artists": [
@@ -975,6 +975,30 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Povoada (Remix)",
+        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 257747,
+      "name": "Povoada - Remix",
+      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Tides (feat. Bajka)",
         "url": "https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 199354,
       "name": "Tides (feat. Bajka)",
       "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Povoada (Remix)",
-        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
-      },
-      "artists": [
-        {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
-        },
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 257747,
-      "name": "Povoada - Remix",
-      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
-      },
-      "artists": [
-        {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
+      },
+      "artists": [
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        }
+      ],
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Love You Got",
         "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1827,30 +1827,6 @@
       "duration_ms": 207000,
       "name": "This Is What It Feels Like - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/4lZx7hxaZ33hZNGvu2VY2d"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Alemagou",
-        "url": "https://open.spotify.com/album/4PQGVbEWl3S7Os7Rhl6pk4"
-      },
-      "artists": [
-        {
-          "name": "Kimonos",
-          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
-        },
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Kuuda",
-          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
-        }
-      ],
-      "duration_ms": 338709,
-      "name": "Alemagou",
-      "url": "https://open.spotify.com/track/7wHBKBh6FHpwuCCdCdjEq9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1931,6 +1907,30 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Alemagou",
+        "url": "https://open.spotify.com/album/4PQGVbEWl3S7Os7Rhl6pk4"
+      },
+      "artists": [
+        {
+          "name": "Kimonos",
+          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
+        },
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "duration_ms": 338709,
+      "name": "Alemagou",
+      "url": "https://open.spotify.com/track/7wHBKBh6FHpwuCCdCdjEq9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Seve 2.0 (Luch Rework)",
         "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
       },
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
-      },
-      "artists": [
-        {
-          "name": "Ferra Black",
-          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
-        },
-        {
-          "name": "Warren Blake",
-          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
-        }
-      ],
-      "duration_ms": 214656,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 146776,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
+        },
+        {
+          "name": "Warren Blake",
+          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
+        }
+      ],
+      "duration_ms": 214656,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2127,30 +2127,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dope Dance",
-        "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        },
-        {
-          "name": "Radeckt",
-          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Dope Dance",
-      "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Learning To Love",
         "url": "https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w"
       },
@@ -2175,22 +2151,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+        "name": "Dope Dance",
+        "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
       },
       "artists": [
         {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         },
         {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
         }
       ],
-      "duration_ms": 344738,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
+      "duration_ms": 217280,
+      "name": "Dope Dance",
+      "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2223,6 +2203,26 @@
       "duration_ms": 182375,
       "name": "Clareou",
       "url": "https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "duration_ms": 344738,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Let Me Out",
         "url": "https://open.spotify.com/album/2wjZRBDyv6WtFUjfzK65wn"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 313174,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Human Rights",
-        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 294036,
-      "name": "Human Rights",
-      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Barcelonia",
         "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 173609,
       "name": "Barcelonia",
       "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     },
     {
       "added_at": "2024-09-13 04:00:00",

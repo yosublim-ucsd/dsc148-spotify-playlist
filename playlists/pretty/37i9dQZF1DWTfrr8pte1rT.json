@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 331715,
+  "num_followers": 331771,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Warzone",
-        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Zaug",
-          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
-        }
-      ],
-      "duration_ms": 162916,
-      "name": "Warzone",
-      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Zaug",
+          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
+        }
+      ],
+      "duration_ms": 162916,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -1883,6 +1883,30 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+        }
+      ],
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/6CvJxJUhIWV4f40OCi5D3g"
       },
@@ -1911,30 +1935,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
-        }
-      ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1955,26 +1955,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2003,6 +1983,26 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -2019,22 +2019,6 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Church Outfit",
-        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 114351,
-      "name": "Church Outfit",
-      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Church Outfit",
+        "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 114351,
+      "name": "Church Outfit",
+      "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -2075,30 +2075,6 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Stay Away",
-        "url": "https://open.spotify.com/album/7mdDDc1sH2RZZcOjhvsYOU"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "OUTRAGE",
-          "url": "https://open.spotify.com/artist/0TcUpuK8ELUzy7nEjZM4xS"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4wPbUJofQZVpC5mP925ZBg"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2123,6 +2099,30 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/7mdDDc1sH2RZZcOjhvsYOU"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "OUTRAGE",
+          "url": "https://open.spotify.com/artist/0TcUpuK8ELUzy7nEjZM4xS"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4wPbUJofQZVpC5mP925ZBg"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0YVBxt3XNv4ZMSawxI0OzI"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "F\u00d8\u00d8L - INHUMAN Remix",
         "url": "https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 189200,
       "name": "Dark Void - Sullivan King Remix",
       "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0YVBxt3XNv4ZMSawxI0OzI"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/3x2n3cSReFokHEzPSSsXaQ"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3kUYp1az3JfWhHZ62PEbUR"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 160941,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/3x2n3cSReFokHEzPSSsXaQ"
-      },
-      "artists": [
-        {
-          "name": "Perry Wayne",
-          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3kUYp1az3JfWhHZ62PEbUR"
     },
     {
       "added_at": "2024-09-13 04:01:00",

@@ -1,15 +1,95 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Sharry Maan",
-  "num_followers": 160569,
+  "num_followers": 160598,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZufbRQAAAADLEDO4Wm/BS5Yzmwf+2aBm",
+  "snapshot_id": "Zuu54wAAAABt8la6sOWH5GioMdjAF/ef",
   "tracks": [
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Black Effect",
+        "url": "https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Mehar Vaani",
+          "url": "https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Black Effect",
+      "url": "https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Majha Block",
+        "url": "https://open.spotify.com/album/284tuekFOZ6066Schm1gE7"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "duration_ms": 249290,
+      "name": "Majha Block",
+      "url": "https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Peg Te Bhangra",
+        "url": "https://open.spotify.com/album/5mDKUZuY40vUIQb5nTnd3q"
+      },
+      "artists": [
+        {
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        },
+        {
+          "name": "Mista Baaz",
+          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+        }
+      ],
+      "duration_ms": 177338,
+      "name": "Peg Te Bhangra",
+      "url": "https://open.spotify.com/track/65wgSWsUxiK9Xwvyo81SAG"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "8 Raflaan (feat. Gurlez Akhtar)",
+        "url": "https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 115257,
+      "name": "8 Raflaan (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp"
@@ -33,203 +113,215 @@
       "url": "https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "Dabde Ni",
+        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "duration_ms": 207662,
+      "name": "Dabde Ni",
+      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Sira E Hou",
+        "url": "https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
         },
         {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 135500,
-      "name": "Case",
-      "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
+      "duration_ms": 200769,
+      "name": "Sira E Hou",
+      "url": "https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Salute",
-        "url": "https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM"
+        "name": "Above All",
+        "url": "https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG"
       },
       "artists": [
         {
-          "name": "Arjan Dhillon",
-          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
-        }
-      ],
-      "duration_ms": 203465,
-      "name": "Salute",
-      "url": "https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Peg Te Bhangra",
-        "url": "https://open.spotify.com/album/5mDKUZuY40vUIQb5nTnd3q"
-      },
-      "artists": [
-        {
-          "name": "Sharry Mann",
-          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
         },
         {
-          "name": "Mista Baaz",
-          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
         }
       ],
-      "duration_ms": 177338,
-      "name": "Peg Te Bhangra",
-      "url": "https://open.spotify.com/track/65wgSWsUxiK9Xwvyo81SAG"
+      "duration_ms": 192500,
+      "name": "Talja",
+      "url": "https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Honsla Rakh (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81"
+        "name": "Jinni Jatt Di",
+        "url": "https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Number 5",
-      "url": "https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "The Hood",
-        "url": "https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk"
-      },
-      "artists": [
+          "name": "Kambi Rajpuria",
+          "url": "https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw"
+        },
         {
-          "name": "Ninja",
-          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         },
         {
           "name": "Happy Raikoti",
           "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
         },
         {
-          "name": "Gag Studioz",
-          "url": "https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3"
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
         }
       ],
-      "duration_ms": 210000,
-      "name": "FIR",
-      "url": "https://open.spotify.com/track/5LKwyZEcftYJl9AJNV0hpr"
+      "duration_ms": 162794,
+      "name": "Jinni Jatt Di",
+      "url": "https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Jattz N The Hood",
-        "url": "https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M"
+        "name": "Old Skool",
+        "url": "https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe"
       },
       "artists": [
         {
-          "name": "DesiFrenzy",
-          "url": "https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E"
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
         },
         {
-          "name": "Jazzy B",
-          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Naseeb",
+          "url": "https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf"
         }
       ],
-      "duration_ms": 323414,
-      "name": "Jattz N The Hood",
-      "url": "https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW"
+      "duration_ms": 253675,
+      "name": "Old Skool",
+      "url": "https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Top Notch Gabru",
-        "url": "https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG"
+        "name": "Jatt Te Jawani",
+        "url": "https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc"
       },
       "artists": [
         {
-          "name": "Vicky",
-          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         }
       ],
-      "duration_ms": 158294,
-      "name": "Top Notch Gabru",
-      "url": "https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy"
+      "duration_ms": 240000,
+      "name": "Jatt Te Jawani",
+      "url": "https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Poonian",
-        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
+        "name": "Pyar Bolda",
+        "url": "https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8"
       },
       "artists": [
         {
-          "name": "Himmat Sandhu",
-          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
         },
         {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Poonian",
-      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
+      "duration_ms": 162375,
+      "name": "Pyar Bolda",
+      "url": "https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Throughout India",
-        "url": "https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG"
+        "name": "Bacthafu*up",
+        "url": "https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u"
       },
       "artists": [
         {
-          "name": "Pari Pandher",
-          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         },
         {
-          "name": "Bunty Bains",
-          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
         },
         {
-          "name": "Jassi X",
-          "url": "https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS"
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Throughout India",
-      "url": "https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW"
+      "duration_ms": 214405,
+      "name": "It Ain't Legal",
+      "url": "https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Busy Getting Paid",
-        "url": "https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK"
+        "name": "Let 'em Play",
+        "url": "https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW"
       },
       "artists": [
         {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        },
-        {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         }
       ],
-      "duration_ms": 187636,
-      "name": "Busy Getting Paid",
-      "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
+      "duration_ms": 192654,
+      "name": "Let 'em Play",
+      "url": "https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "315",
         "url": "https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG"
@@ -249,247 +341,27 @@
       "url": "https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Diamond Koka",
-        "url": "https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD"
+        "name": "Bai Bai",
+        "url": "https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii"
       },
       "artists": [
         {
-          "name": "Gurnam Bhullar",
-          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
         },
         {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Diamond Koka",
-      "url": "https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT"
+      "duration_ms": 273157,
+      "name": "Bai Bai",
+      "url": "https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Making Memories",
-        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "JALSA 2.0 (From \"Mission Raniganj: The Great Bharat Rescue\")",
-        "url": "https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Prem & Hardeep",
-          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
-        }
-      ],
-      "duration_ms": 196124,
-      "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
-      "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "2 Kamm",
-        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
-      },
-      "artists": [
-        {
-          "name": "Mani Longia",
-          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
-        }
-      ],
-      "duration_ms": 146062,
-      "name": "2 Kamm",
-      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Jatt Disda",
-        "url": "https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6"
-      },
-      "artists": [
-        {
-          "name": "Sunanda Sharma",
-          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
-        }
-      ],
-      "duration_ms": 167294,
-      "name": "Jatt Disda",
-      "url": "https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Babe Bhangra Paunde Ne - Title Track (From \"Babe Bhangra Paunde Ne\")",
-        "url": "https://open.spotify.com/album/4kif1ckv7sR6g1nxOPntiU"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 114444,
-      "name": "Babe Bhangra Paunde Ne - Title Track",
-      "url": "https://open.spotify.com/track/03EgzQpFoUvDp6NI03ZS5d"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "White Brown Black",
-        "url": "https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ"
-      },
-      "artists": [
-        {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
-        },
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "White Brown Black",
-      "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Taur",
-        "url": "https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T"
-      },
-      "artists": [
-        {
-          "name": "Dilpreet Dhillon",
-          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 166762,
-      "name": "Taur",
-      "url": "https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "State of Art",
-        "url": "https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6"
-      },
-      "artists": [
-        {
-          "name": "Amantej Hundal",
-          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
-        }
-      ],
-      "duration_ms": 169774,
-      "name": "Sharaab",
-      "url": "https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Chandigarh",
-        "url": "https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto"
-      },
-      "artists": [
-        {
-          "name": "Jass Manak",
-          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
-        },
-        {
-          "name": "Guri",
-          "url": "https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf"
-        }
-      ],
-      "duration_ms": 137872,
-      "name": "Chandigarh",
-      "url": "https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "What Ve",
-        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "What Ve",
-      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Jatt Flex",
-        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "Jatt Flex",
-      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0"
-      },
-      "artists": [
-        {
-          "name": "Navaan Sandhu",
-          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "C Walk",
-      "url": "https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
@@ -517,75 +389,23 @@
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Khabbi Khaan",
-        "url": "https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT"
+        "name": "Jatt Flex",
+        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
       },
       "artists": [
         {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
         }
       ],
-      "duration_ms": 153943,
-      "name": "Khabbi Khaan",
-      "url": "https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ"
+      "duration_ms": 195714,
+      "name": "Jatt Flex",
+      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Kehra Pind?",
-        "url": "https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ"
-      },
-      "artists": [
-        {
-          "name": "Raf Saperra",
-          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
-        }
-      ],
-      "duration_ms": 212441,
-      "name": "Kehra Pind?",
-      "url": "https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 166757,
-      "name": "Black & White",
-      "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/5fzqXSaWIZvsA0s5zbzu8e"
@@ -605,7 +425,47 @@
       "url": "https://open.spotify.com/track/1mWmBaq051j74b1MviNVLR"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Top Notch Gabru",
+        "url": "https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "duration_ms": 158294,
+      "name": "Top Notch Gabru",
+      "url": "https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "White Brown Black",
+        "url": "https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ"
+      },
+      "artists": [
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "White Brown Black",
+      "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Awara",
         "url": "https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF"
@@ -621,51 +481,23 @@
       "url": "https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9"
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
       "artists": [
         {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Korala Maan",
-          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
         }
       ],
-      "duration_ms": 218182,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By"
+      "duration_ms": 230400,
+      "name": "Bitch I'm Back",
+      "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Black Effect",
-        "url": "https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Mehar Vaani",
-          "url": "https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Black Effect",
-      "url": "https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Munda Sidhua Da",
         "url": "https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS"
@@ -681,43 +513,7 @@
       "url": "https://open.spotify.com/track/4n6e7UDeilgfsskh2S3MgN"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "8 Raflaan (feat. Gurlez Akhtar)",
-        "url": "https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw"
-      },
-      "artists": [
-        {
-          "name": "Mankirt Aulakh",
-          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 115257,
-      "name": "8 Raflaan (feat. Gurlez Akhtar)",
-      "url": "https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Let 'em Play",
-        "url": "https://open.spotify.com/album/2gIppPmL10lO7CVK1NBNfW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "Let 'em Play",
-      "url": "https://open.spotify.com/track/5Cup5xIrEjpqxRbHASY9K7"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -728,68 +524,28 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld"
+      "duration_ms": 166757,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Dabde Ni",
-        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
+        "name": "2 Kamm",
+        "url": "https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0"
       },
       "artists": [
         {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
         }
       ],
-      "duration_ms": 207662,
-      "name": "Dabde Ni",
-      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
+      "duration_ms": 146062,
+      "name": "2 Kamm",
+      "url": "https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Bacthafu*up",
-        "url": "https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "It Ain't Legal",
-      "url": "https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Majha Block",
-        "url": "https://open.spotify.com/album/284tuekFOZ6066Schm1gE7"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        }
-      ],
-      "duration_ms": 249290,
-      "name": "Majha Block",
-      "url": "https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -809,67 +565,7 @@
       "url": "https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Above All",
-        "url": "https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG"
-      },
-      "artists": [
-        {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        },
-        {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Talja",
-      "url": "https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Moosetape",
-        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
-      },
-      "artists": [
-        {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Bitch I'm Back",
-      "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
-      "album": {
-        "name": "Jatt Te Jawani",
-        "url": "https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc"
-      },
-      "artists": [
-        {
-          "name": "Dilpreet Dhillon",
-          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
-        },
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jatt Te Jawani",
-      "url": "https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K"
-    },
-    {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
         "name": "Brown Munde",
         "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
@@ -897,88 +593,396 @@
       "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Sira E Hou",
-        "url": "https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR"
+        "name": "Jatt Disda",
+        "url": "https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6"
       },
       "artists": [
         {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        }
+      ],
+      "duration_ms": 167294,
+      "name": "Jatt Disda",
+      "url": "https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "What Ve",
+        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
           "name": "Nimrat Khaira",
           "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 200769,
-      "name": "Sira E Hou",
-      "url": "https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ"
+      "duration_ms": 188000,
+      "name": "What Ve",
+      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Bai Bai",
-        "url": "https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii"
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0"
       },
       "artists": [
         {
-          "name": "Gulab Sidhu",
-          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
-        },
-        {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
         }
       ],
-      "duration_ms": 273157,
-      "name": "Bai Bai",
-      "url": "https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1"
+      "duration_ms": 165546,
+      "name": "C Walk",
+      "url": "https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Old Skool",
-        "url": "https://open.spotify.com/album/43KOzJb3q0AHeUGzR8stIe"
+        "name": "Honsla Rakh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81"
       },
       "artists": [
         {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
-        },
-        {
-          "name": "Naseeb",
-          "url": "https://open.spotify.com/artist/68utQf42HeyJUbU8X9W0uf"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 253675,
-      "name": "Old Skool",
-      "url": "https://open.spotify.com/track/76IXpU3ve4gHmvcduUN88d"
+      "duration_ms": 174000,
+      "name": "Number 5",
+      "url": "https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I"
     },
     {
-      "added_at": "2024-09-16 07:16:21",
+      "added_at": "2024-09-19 05:42:59",
       "album": {
-        "name": "Pyar Bolda",
-        "url": "https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8"
+        "name": "Salute",
+        "url": "https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM"
       },
       "artists": [
         {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "duration_ms": 203465,
+      "name": "Salute",
+      "url": "https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "JALSA 2.0 (From \"Mission Raniganj: The Great Bharat Rescue\")",
+        "url": "https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        }
+      ],
+      "duration_ms": 196124,
+      "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
+      "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Diamond Koka",
+        "url": "https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
         },
         {
           "name": "Gur Sidhu",
           "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
         }
       ],
-      "duration_ms": 162375,
-      "name": "Pyar Bolda",
-      "url": "https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ"
+      "duration_ms": 172000,
+      "name": "Diamond Koka",
+      "url": "https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Khabbi Khaan",
+        "url": "https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 153943,
+      "name": "Khabbi Khaan",
+      "url": "https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Poonian",
+        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Poonian",
+      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Taur",
+        "url": "https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 166762,
+      "name": "Taur",
+      "url": "https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Chandigarh",
+        "url": "https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        },
+        {
+          "name": "Guri",
+          "url": "https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "Chandigarh",
+      "url": "https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "State of Art",
+        "url": "https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6"
+      },
+      "artists": [
+        {
+          "name": "Amantej Hundal",
+          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
+        }
+      ],
+      "duration_ms": 169774,
+      "name": "Sharaab",
+      "url": "https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Don't Care",
+        "url": "https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        }
+      ],
+      "duration_ms": 218182,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Babe Bhangra Paunde Ne - Title Track (From \"Babe Bhangra Paunde Ne\")",
+        "url": "https://open.spotify.com/album/4kif1ckv7sR6g1nxOPntiU"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 114444,
+      "name": "Babe Bhangra Paunde Ne - Title Track",
+      "url": "https://open.spotify.com/track/03EgzQpFoUvDp6NI03ZS5d"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Busy Getting Paid",
+        "url": "https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Busy Getting Paid",
+      "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Kehra Pind?",
+        "url": "https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        }
+      ],
+      "duration_ms": 212441,
+      "name": "Kehra Pind?",
+      "url": "https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        }
+      ],
+      "duration_ms": 135500,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Jattz N The Hood",
+        "url": "https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M"
+      },
+      "artists": [
+        {
+          "name": "DesiFrenzy",
+          "url": "https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        }
+      ],
+      "duration_ms": 323414,
+      "name": "Jattz N The Hood",
+      "url": "https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW"
+    },
+    {
+      "added_at": "2024-09-19 05:42:59",
+      "album": {
+        "name": "Throughout India",
+        "url": "https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Jassi X",
+          "url": "https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Throughout India",
+      "url": "https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW"
     }
   ],
   "unique_name": "Bhangra Bangers",

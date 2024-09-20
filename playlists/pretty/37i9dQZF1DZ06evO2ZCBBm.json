@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 46173,
+  "num_followers": 46178,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAAB8JwjCGcWyhCYH1CLNssm+",
+  "snapshot_id": "ZuoYAAAAAACYAbCva5MCd3VXhCfC7PpX",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Take It Away",
-      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 200333,
-      "name": "Bulimic",
-      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
+      "duration_ms": 163333,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
       "duration_ms": 172146,
       "name": "People Are Vomit",
       "url": "https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 163333,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+        "name": "The Canyon",
+        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+      "duration_ms": 314373,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Canyon",
-        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
       "artists": [
         {
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 314373,
-      "name": "Over and Over Again",
-      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 184286,
       "name": "River Stay",
       "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
     },
     {
       "added_at": null,

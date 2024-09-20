@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: OGRE YOU ASSHOLE
 
-1,887 songs - 4 day 21 hr 22 min
+1,889 songs - 4 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1243,7 +1243,7 @@
 | [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 | 2023-06-07 |
 | [おもいつくかぎりのすべて](https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [おもいつくかぎりのすべて](https://open.spotify.com/album/6H4nCo7arFfNNEDATsdMD2) | 4:36 | 2023-08-22 | 2023-09-28 |
 | [およげ!たいやきくん](https://open.spotify.com/track/7qUzvGiFT39l0hDbC8ExA2) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [およげ!たいやきくん](https://open.spotify.com/album/1VDndF2p3DrYHdGgfSPES1) | 4:03 | 2023-05-18 | 2023-07-12 |
-| [およげ！たいやきくん](https://open.spotify.com/track/1PEdP2ynPesTDYMB5Yn0Pi) | [DJ Misoshiru & MC Gohan](https://open.spotify.com/artist/2WjARQEE1UdXbTr2fflviw), [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [およげ！たいやきくん / YA.KU.MI](https://open.spotify.com/album/4WQVMDixpxAGpLj6dHpD2y) | 3:36 | 2024-09-10 |  |
+| [およげ！たいやきくん](https://open.spotify.com/track/1PEdP2ynPesTDYMB5Yn0Pi) | [DJ Misoshiru & MC Gohan](https://open.spotify.com/artist/2WjARQEE1UdXbTr2fflviw), [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV) | [およげ！たいやきくん / YA.KU.MI](https://open.spotify.com/album/4WQVMDixpxAGpLj6dHpD2y) | 3:36 | 2024-09-10 | 2024-09-20 |
 | [お元気ですか](https://open.spotify.com/track/6EFpDS4RjA1nQ5p14MTbQF) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [お元気ですか](https://open.spotify.com/album/5l8TnHvB0TzVTqIQ49WSJb) | 2:23 | 2024-05-07 | 2024-05-15 |
 | [お祝い](https://open.spotify.com/track/70R4kcMkdb6UueiRfNUR9N) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [お祝い/萌芽](https://open.spotify.com/album/2Ak5HCnM63B3frzikGOHQv) | 4:21 | 2023-12-12 | 2023-12-20 |
 | [かぜ薫る](https://open.spotify.com/track/0W0beAnzs1zMt82GfSBKHJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [かぜ薫る](https://open.spotify.com/album/1yuEpahsy5IPJIPjeCRucE) | 3:39 | 2024-07-30 | 2024-08-07 |
@@ -1393,6 +1393,7 @@
 | [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2024-05-01 |
 | [シャカン・ナ・ソン・グー](https://open.spotify.com/track/6VBCobSYJlE0GOzhiubTrI) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [シャカン・ナ・ソン・グー](https://open.spotify.com/album/4jPZiH8toq8PxckfqVZ4um) | 3:38 | 2023-04-11 | 2023-05-11 |
+| [シャットダウン](https://open.spotify.com/track/0EuG7N8pRYsleIF7t9jvQl) | [みずべかんさつクラブ](https://open.spotify.com/artist/4uwFXwAAp4648iAP8M0KXG) | [散策メガピクセル](https://open.spotify.com/album/6YgoDSPCoU6zhRBXnoCoVz) | 2:57 | 2024-09-17 |  |
 | [シャララ](https://open.spotify.com/track/0UdjpCVPsEqHWiE2DQWErc) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [さ・な・ぎ](https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8) | 5:28 | 2023-03-21 | 2023-03-23 |
 | [ショートショート \- ウ山あまねRemix](https://open.spotify.com/track/1KxV8iq860PX565GdaQc9L) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [ショートショート \(ウ山あまねRemix\)](https://open.spotify.com/album/0jFI7n7OkqMtdO6qUHHXhj) | 2:19 | 2023-09-19 | 2023-09-27 |
 | [シラフ](https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R) | 3:40 | 2023-06-20 | 2024-05-01 |
@@ -1471,7 +1472,7 @@
 | [プレミアム](https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [わかりあえないことから](https://open.spotify.com/album/5K4clS7mfedD25a6w615VG) | 3:54 | 2024-08-06 | 2024-08-21 |
 | [プロムナード](https://open.spotify.com/track/3G4QATIYBkJ92HsR1OJt6g) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [プロムナード](https://open.spotify.com/album/6o1FBLKCS1l5FHJ1z87YoJ) | 3:42 | 2023-12-12 | 2023-12-14 |
 | [ベスパでGO!](https://open.spotify.com/track/2USeGPu1zIczclo8v1xDii) | [HOGO地球](https://open.spotify.com/artist/5Rl8LyQ5RQAQsylGELbR4R) | [ベスパでGO!](https://open.spotify.com/album/0NpSf0RfpLCwzpUTMB65Mb) | 1:51 | 2023-05-30 | 2023-06-07 |
-| [ベッドタウン・エンジェル](https://open.spotify.com/track/2qrkav6GzyW9XNnOw3WJHR) | [あべまえば](https://open.spotify.com/artist/31RcmfBVNd4YoACzEVKvll) | [ベッドタウン・エンジェル](https://open.spotify.com/album/6L5agwOvMgH8m6cdvXbwNO) | 3:32 | 2024-09-10 |  |
+| [ベッドタウン・エンジェル](https://open.spotify.com/track/2qrkav6GzyW9XNnOw3WJHR) | [あべまえば](https://open.spotify.com/artist/31RcmfBVNd4YoACzEVKvll) | [ベッドタウン・エンジェル](https://open.spotify.com/album/6L5agwOvMgH8m6cdvXbwNO) | 3:32 | 2024-09-10 | 2024-09-20 |
 | [ペイジ](https://open.spotify.com/track/63WCRjLt6NqgwtXxwExYat) | [MU\-FU](https://open.spotify.com/artist/2n5x1QfkGTOAg8cPGYoCWL), [Tomu Takahashi](https://open.spotify.com/artist/7xT6MuvLyrZ26dtmicRmKB) | [ペイジ](https://open.spotify.com/album/0xIi5tBFo1oB3Q2bbVpk6e) | 3:54 | 2024-02-09 | 2024-02-14 |
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-17 | 2024-09-18 |
 | [ホログラムシティ](https://open.spotify.com/track/1Y3BdeHFfQPilMzEZQwKqh) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [ホログラムシティ](https://open.spotify.com/album/6fL2753gQwKz7BU35rSj6Q) | 4:58 | 2023-11-29 | 2023-12-06 |
@@ -1533,6 +1534,7 @@
 | [予感](https://open.spotify.com/track/1fcmYhYNuXaTmeWCNkjqsX) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [予感](https://open.spotify.com/album/7du6inkkhvJLN88bd7Xc4L) | 3:50 | 2024-05-21 | 2024-05-29 |
 | [五次元Surfin'](https://open.spotify.com/track/5dJFzvOC7t0FVOO75ZmQrD) | [Kinoko Hotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [マリアンヌの教典](https://open.spotify.com/album/3xGA3YgNAnCwZtjEjMLejm) | 4:09 | 2023-06-13 | 2023-06-21 |
 | [人だった](https://open.spotify.com/track/3jhKiB4cDLkQeE6rReB6bO) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [導き、捧げて e.p](https://open.spotify.com/album/2egre7puOZtnfnwlhKUEJ7) | 3:43 | 2024-01-09 | 2024-01-11 |
+| [人のダンス](https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遊泳の音楽](https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6) | 4:45 | 2024-09-17 |  |
 | [人人](https://open.spotify.com/track/7ibofG1HKoyv6YjXS4e2Jn) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [人人](https://open.spotify.com/album/2VNVhFpsxdjI4xG8jBzAIh) | 4:21 | 2023-12-05 | 2023-12-07 |
 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 | 2024-01-16 | 2024-06-23 |
 | [今日はひとりでいようね](https://open.spotify.com/track/5Ouw9H4ioGNTdANf6qYOWi) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 5:21 | 2023-12-19 | 2024-01-17 |

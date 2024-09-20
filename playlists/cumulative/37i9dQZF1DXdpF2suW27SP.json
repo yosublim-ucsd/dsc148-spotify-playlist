@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Dezinho entra na zona. ",
+  "description": "LEO2745 entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -340,6 +340,32 @@
       "duration_ms": 190200,
       "name": "5 de Maio",
       "url": "https://open.spotify.com/track/5ouBml5nl0MCZfYeqDXyMx"
+    },
+    {
+      "album": {
+        "name": "90'S",
+        "url": "https://open.spotify.com/album/4jmhjL7dx01WbhN3xezNFb"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "90'S",
+      "url": "https://open.spotify.com/track/46WrepwqfcjHJw6SodeE6x"
     },
     {
       "album": {
@@ -1866,7 +1892,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 77204,
       "name": "BRIX",
       "url": "https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI"
@@ -3827,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
+    },
+    {
+      "album": {
         "name": "MINA D'OURO",
         "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
       },
@@ -4924,7 +4968,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181192,
       "name": "G3",
       "url": "https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I"
@@ -7664,7 +7708,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185147,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO"
@@ -9882,7 +9926,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 243189,
       "name": "Quarto de Hora",
       "url": "https://open.spotify.com/track/3J1JRP6FRXkGJut5GOjJQd"
@@ -10627,6 +10671,28 @@
     },
     {
       "album": {
+        "name": "Ser Hood",
+        "url": "https://open.spotify.com/album/2qxoqmLeYCCYAT0jGkLC3v"
+      },
+      "artists": [
+        {
+          "name": "Hood 75",
+          "url": "https://open.spotify.com/artist/72FPLQwFOhIVIzigrs5CBp"
+        },
+        {
+          "name": "Halloween",
+          "url": "https://open.spotify.com/artist/6Wwk1nYhTn8Rj4sbUo3a5N"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290239,
+      "name": "Ser Hood",
+      "url": "https://open.spotify.com/track/24DhuHNSMOQkYpZsroKbmt"
+    },
+    {
+      "album": {
         "name": "Serenata",
         "url": "https://open.spotify.com/album/5ClLZLsv5yt8JFY2pT1BrR"
       },
@@ -11147,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "STREET",
+        "url": "https://open.spotify.com/album/7oyIA8sXujOytwzP57SE9A"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152300,
+      "name": "STREET",
+      "url": "https://open.spotify.com/track/4yIBnVDHrzq3dGWGTT71Bm"
+    },
+    {
+      "album": {
         "name": "Stunka",
         "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
       },
@@ -11596,6 +11680,24 @@
       "duration_ms": 198746,
       "name": "Tic-Tac",
       "url": "https://open.spotify.com/track/0SmkF33aIAHlSZh8N3CXv5"
+    },
+    {
+      "album": {
+        "name": "TIJOLOS",
+        "url": "https://open.spotify.com/album/5WMuDBnxLnMoxSQfrRrHKI"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "TIJOLOS",
+      "url": "https://open.spotify.com/track/4QJsCsURMmjXIYXxDHC1pW"
     },
     {
       "album": {

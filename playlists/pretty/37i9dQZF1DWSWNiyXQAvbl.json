@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 493337,
+  "num_followers": 493375,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 254173,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Free Ride",
-        "url": "https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe"
-      },
-      "artists": [
-        {
-          "name": "Marshall Hain",
-          "url": "https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Dancing in the City",
-      "url": "https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Spirit in the Dark",
         "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 182040,
       "name": "Don't Play That Song",
       "url": "https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Free Ride",
+        "url": "https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe"
+      },
+      "artists": [
+        {
+          "name": "Marshall Hain",
+          "url": "https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Dancing in the City",
+      "url": "https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc"
     },
     {
       "added_at": "2024-06-03 14:45:23",

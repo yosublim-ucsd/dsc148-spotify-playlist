@@ -23350,7 +23350,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 216106,
       "name": "\u304a\u3088\u3052\uff01\u305f\u3044\u3084\u304d\u304f\u3093",
       "url": "https://open.spotify.com/track/1PEdP2ynPesTDYMB5Yn0Pi"
@@ -26079,6 +26079,24 @@
     },
     {
       "album": {
+        "name": "\u6563\u7b56\u30e1\u30ac\u30d4\u30af\u30bb\u30eb",
+        "url": "https://open.spotify.com/album/6YgoDSPCoU6zhRBXnoCoVz"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u305a\u3079\u304b\u3093\u3055\u3064\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/4uwFXwAAp4648iAP8M0KXG"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "\u30b7\u30e3\u30c3\u30c8\u30c0\u30a6\u30f3",
+      "url": "https://open.spotify.com/track/0EuG7N8pRYsleIF7t9jvQl"
+    },
+    {
+      "album": {
         "name": "\u3055\u30fb\u306a\u30fb\u304e",
         "url": "https://open.spotify.com/album/4QoMRfMiRshJWzucSTLle8"
       },
@@ -27514,7 +27532,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 212233,
       "name": "\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3\u30fb\u30a8\u30f3\u30b8\u30a7\u30eb",
       "url": "https://open.spotify.com/track/2qrkav6GzyW9XNnOw3WJHR"
@@ -28636,6 +28654,24 @@
       "duration_ms": 223493,
       "name": "\u4eba\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/3jhKiB4cDLkQeE6rReB6bO"
+    },
+    {
+      "album": {
+        "name": "\u904a\u6cf3\u306e\u97f3\u697d",
+        "url": "https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285824,
+      "name": "\u4eba\u306e\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL"
     },
     {
       "album": {

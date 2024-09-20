@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "haat",
+        "url": "https://open.spotify.com/album/0r93awg0AivOwHw6oyzZar"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184576,
+      "name": "haat",
+      "url": "https://open.spotify.com/track/0Nkdy8Lb6KBPcxeIGHRMYs"
+    },
+    {
+      "album": {
         "name": "Hou ik te weinig van mezelf",
         "url": "https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0"
       },
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189600,
       "name": "Vluchten",
       "url": "https://open.spotify.com/track/45KPvfvpbCmluDSS1Q8G8Q"

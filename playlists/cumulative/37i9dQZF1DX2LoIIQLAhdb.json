@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay x Leto",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Emma'a",
   "name": "R&Bae",
   "tracks": [
     {
@@ -212,6 +212,24 @@
       "duration_ms": 241413,
       "name": "Apprends-moi !",
       "url": "https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238202,
+      "name": "Apr\u00e8s l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135529,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1dChhYVUE95OoTKEWjl3tI"
@@ -1295,6 +1313,28 @@
     },
     {
       "album": {
+        "name": "Confessions (feat. Nej)",
+        "url": "https://open.spotify.com/album/48DXkxijQl1vWd1gl8Mhir"
+      },
+      "artists": [
+        {
+          "name": "Sirine LV",
+          "url": "https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Confessions (feat. Nej)",
+      "url": "https://open.spotify.com/track/3Db8zsTaSamH7hJD2lkXGT"
+    },
+    {
+      "album": {
         "name": "Confiance",
         "url": "https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt"
       },
@@ -1815,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9cibels",
+        "url": "https://open.spotify.com/album/3gnD4Xi42JDhk4vk6A1VxD"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186512,
+      "name": "D\u00e9cibels",
+      "url": "https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0",
         "url": "https://open.spotify.com/album/0J9AOtJdDswtRkk7RWMhfV"
       },
@@ -1906,7 +1964,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 171432,
       "name": "EMOTIONS",
       "url": "https://open.spotify.com/track/7q5oVAKvpIBfgCJg1SCyGy"
@@ -3850,7 +3908,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 144066,
       "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
@@ -4412,7 +4470,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141546,
       "name": "Pansement",
       "url": "https://open.spotify.com/track/4yM6cdvKMAguF8oUsKvvFa"
@@ -5167,6 +5225,32 @@
     },
     {
       "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "RESTE-L\u00c0",
+      "url": "https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW"
       },
@@ -5222,6 +5306,24 @@
       "duration_ms": 183906,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/22cx7Yei6YPRaKLCvyKQMQ"
+    },
+    {
+      "album": {
+        "name": "Saison des pluies",
+        "url": "https://open.spotify.com/album/2WdH6bgzdLszSKCsZ4vEdZ"
+      },
+      "artists": [
+        {
+          "name": "Meiitod",
+          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Saison des pluies",
+      "url": "https://open.spotify.com/track/6AUmKnJD1X3b73p0CuXsBE"
     },
     {
       "album": {
@@ -5874,7 +5976,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207335,
       "name": "T'oublier",
       "url": "https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI"

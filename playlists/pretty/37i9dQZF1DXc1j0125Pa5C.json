@@ -1,15 +1,15 @@
 {
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym",
-  "num_followers": 309961,
+  "num_followers": 310047,
   "original_name": "Domingu\u00eara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOq7AAAAABNhEDHhBWcCt5oVR8U94dX",
+  "snapshot_id": "ZuzlbAAAAAA0fLd7hDm8BrHDSEIjy6LU",
   "tracks": [
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Dependente / Pirata e Tesouro / Fala (Ao Vivo)",
         "url": "https://open.spotify.com/album/29h5Wkgig8VD0O9bjQd1zJ"
@@ -33,55 +33,7 @@
       "url": "https://open.spotify.com/track/2Jas2bguK5dKHQBfJ88xUt"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        }
-      ],
-      "duration_ms": 327805,
-      "name": "Ref\u00e9m / Trov\u00e3o / Cansei de Farra - Ao Vivo",
-      "url": "https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 - Ao Vivo",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 235875,
-      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "TDP20 - Nossa Hist\u00f3ria - EP4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 300457,
-      "name": "Fato Consumado / J\u00e1 Virou Rotina / T\u00e1 Louco Hein - Ao Vivo",
-      "url": "https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Na Pagodeira, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4p9tR7nV4IFwayMrw5ZStz"
@@ -97,7 +49,75 @@
       "url": "https://open.spotify.com/track/1jJ4EDNRJtUf5nZn1KM4MD"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "duration_ms": 327805,
+      "name": "Ref\u00e9m / Trov\u00e3o / Cansei de Farra - Ao Vivo",
+      "url": "https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 - Ao Vivo",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "PagoDi #2 com Di Prop\u00f3sito",
+        "url": "https://open.spotify.com/album/49YtgHOl5RIY76LUSKQVrM"
+      },
+      "artists": [
+        {
+          "name": "Diney",
+          "url": "https://open.spotify.com/artist/6aCdgfPW2UdRENM5XC3145"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "duration_ms": 193783,
+      "name": "Ilus\u00e3o / Conto De Fadas",
+      "url": "https://open.spotify.com/track/3i7TpsLv9dHgCBlUnzliJB"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "TDP20 - Nossa Hist\u00f3ria - EP4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 300457,
+      "name": "Fato Consumado / J\u00e1 Virou Rotina / T\u00e1 Louco Hein - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sorriso Maroto As Antigas - Parte 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Rem\u00e9dio Amargo / Fala / Fulminante / Dependente - DVD Fases (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Vendaval / Um Sonho Bom / Direito de Te Amar",
         "url": "https://open.spotify.com/album/1L2fa12dnia7mUH31DRLWm"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/4aORqV0kOgsvEy4yP3QGTR"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagodyando de Ver\u00e3o - Ao Vivo",
         "url": "https://open.spotify.com/album/1RKj94vsJ1KDkMVRaHjWvh"
@@ -169,23 +189,7 @@
       "url": "https://open.spotify.com/track/3y7KBZag9XjlUWlzcrXOa8"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Encontrin 2 - Parte 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7gleHQ8dWibosCKaBWYIJ3"
-      },
-      "artists": [
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        }
-      ],
-      "duration_ms": 301685,
-      "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg"
@@ -209,7 +213,7 @@
       "url": "https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Samba da Ladeira (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP"
@@ -225,7 +229,7 @@
       "url": "https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Juntos (Ao Vivo)",
         "url": "https://open.spotify.com/album/10ZZstHQsAM6UbAnl3EXEl"
@@ -245,7 +249,7 @@
       "url": "https://open.spotify.com/track/3eFDvMEwTkxS078DQNmHWa"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Ferrugem em Casa 2 (Bloco 1) [Ao Vivo]",
         "url": "https://open.spotify.com/album/46xmD0eirM5ttp8NBf6JSP"
@@ -261,7 +265,7 @@
       "url": "https://open.spotify.com/track/5DMZgOgYuMIsyewofxvJzs"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
         "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
@@ -277,7 +281,7 @@
       "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
         "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
@@ -293,7 +297,23 @@
       "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Encontrin 2 - Parte 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7gleHQ8dWibosCKaBWYIJ3"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "duration_ms": 301685,
+      "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Quintal do Sub\u00farbio (Ao Vivo)",
         "url": "https://open.spotify.com/album/230KbUpSTnVu0a8hMhBElG"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4IFIEoeHDt3XplVbZHNLap"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sub\u00farbio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Trai\u00e7\u00e3o / Ref\u00e9m / Me Assume ou Me Esquece (Ao Vivo)",
         "url": "https://open.spotify.com/album/0mjy6Lxi1kfgRBolN7xDlk"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/2l0HFGslPbDoyXGSVEn8sB"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/1irBhxCqszP4zQhWRhdz44"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sub\u00farbio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Belo - 10 Anos de Sucesso (Deluxe)",
         "url": "https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a"
@@ -433,31 +453,7 @@
       "url": "https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Resenha das Minas 2, EP 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/6nKjrF6ZT76nC79GeoIOZ7"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Amanda Amado",
-          "url": "https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD"
-        },
-        {
-          "name": "Mannda Lym",
-          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
-        }
-      ],
-      "duration_ms": 295234,
-      "name": "Meu Casamento / A Carta / M\u00f4 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4dmt6HzJoKzEXtpHuXICfx"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Beijo Doce / Brilho de Cristal (Ao Vivo)",
         "url": "https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk"
@@ -497,7 +493,7 @@
       "url": "https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pot-Pourri: Ch\u00e1 de Sumi\u00e7o | Confian\u00e7a | Carona do Amor | V\u00f4o Pro Jap\u00e3o | Sem Perceber | Linguagem dos Olhos",
         "url": "https://open.spotify.com/album/6RIjG4Yrtt10cMpJMNtL5w"
@@ -517,7 +513,7 @@
       "url": "https://open.spotify.com/track/4KMGttvIbuSAkqH0RW5omZ"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "O Melhor Buteco do Mundo, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1fC9IoCdiIFuIfIjWnI096"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/0DbzBXn0ez4P6NhFWWFpuA"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Belo In Concert (Espa\u00e7o das Am\u00e9ricas), Ep. 03 [Ao Vivo]",
         "url": "https://open.spotify.com/album/0rLygQUqfnV7fWV4htfrbb"
@@ -553,7 +549,7 @@
       "url": "https://open.spotify.com/track/00kVj18BmiLmiB8PUJWZ4G"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagode no Quintal, Vol. 01 (EDB Canta Fundo de Quintal) - Ao Vivo",
         "url": "https://open.spotify.com/album/0tF5TxM0GgkUeOdVfQhmC0"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/0dZSZxl63z1Uebiwe6khE7"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "P\u00e9ssimo Neg\u00f3cio / Ref\u00e9m / Trov\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2VjDCC1GIVrejsUnUmXXU3"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/7Hmlx9e75Yti7ycVUE4SDE"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sorriso Maroto As Antigas - Parte 1 - Ao Vivo",
         "url": "https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/1MMZ7oNHMGrKyW7b5VkMTL"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "As Melhores do Benzadeus - Ao Vivo",
         "url": "https://open.spotify.com/album/27HKxidrqtsTyeES99i8yv"
@@ -617,7 +613,7 @@
       "url": "https://open.spotify.com/track/1tUBANRe3IOOCdmmEqXpb1"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Vibe do USI, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hy08U7blgBKVTDyrNvHbd"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/26O90YdXrxZr6ezC2SvMDP"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sinto Sua Falta / Inseguran\u00e7a / Eu Nunca Amei Assim",
         "url": "https://open.spotify.com/album/5zvgnjWB1IHjW7ueREQ2a1"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/2YCx4I27GMSixz9IEwGqGP"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Teu Segredo / Duvido / Pra N\u00e3o Dar Bandeira",
         "url": "https://open.spotify.com/album/0RijaS9tnT22QnO0xcYpkM"
@@ -669,7 +665,7 @@
       "url": "https://open.spotify.com/track/6FxwOCgaBBUrL7pKi4nHEt"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Guer\u00eaguer\u00ea, Bloco 6 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V"
@@ -689,7 +685,7 @@
       "url": "https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Para De Falar Tanta Besteira / Leite Condensado (Ao Vivo)",
         "url": "https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagode do BS (Ao Vivo)",
         "url": "https://open.spotify.com/album/4WrIMWEi2j69QqDGuVeNQE"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/59dB1MQpnKVEh4Ibxgn8cl"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Inigual\u00e1vel Paix\u00e3o / Pra Ser Minha Musa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0C6nYu2ouiXhjm1tFXq8og"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/7rIzAG8RsiGHt6W0t1qRU6"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Na Pagodeira, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph"
@@ -785,7 +781,7 @@
       "url": "https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "P\u00f4r do Suel Em Recife - Parte 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jPz9g0dyrJVPaFdOKRsng"
@@ -801,7 +797,7 @@
       "url": "https://open.spotify.com/track/2juTXnK3JbIJo5wE58C1Io"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagode DaPaz - Ao Vivo",
         "url": "https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "De Gole em Gole (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kVd6faGdhD5lrg600fbSs"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/47GxJ75Dn0KJYMsqHAWDTp"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Ferrugem 10 Anos, Vol. 2 - Replay (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hazFJ5EVb8clifhIUnV9D"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/5C4ZMkIL8yWa0eGpwUbbBq"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Vai Me Dando Corda / Voc\u00ea Me Encantou Demais / Sorri, Sou Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tQXf5lmVmAVQzQmW9ASa0"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/1EsZx3vqXTzEHYKLoIaj4w"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
@@ -917,7 +913,7 @@
       "url": "https://open.spotify.com/track/3x4b2xOaKzeMxTozL4LU52"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Perfume / Sem Perceber / Lugares",
         "url": "https://open.spotify.com/album/41z4uBj9buaIs1rvKJLpUZ"
@@ -933,7 +929,7 @@
       "url": "https://open.spotify.com/track/19xCyaXBkWUkzn4vNIOVzH"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/3JuVsbmJssQmZs3wSEASBk"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Roda De Samba Fala Comigo Convida Tiee (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/565t9GiCfNywZEhcsZR3ak"
@@ -969,7 +965,7 @@
       "url": "https://open.spotify.com/track/7dI9v9Wh3gFDX6QgcCbCGX"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Minha F\u00e9 (Em Canoas - EP3)",
         "url": "https://open.spotify.com/album/16sXBmx9ilr6FTAiKKIC54"
@@ -985,7 +981,7 @@
       "url": "https://open.spotify.com/track/2P0JinBBrDEIOCl8bepeFG"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "\u00c9 Diferente / Preciso Te Amar",
         "url": "https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q"
@@ -1001,7 +997,7 @@
       "url": "https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pagode do Adame Entre Amigos, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2NVhLh90ZjGM3UP1taqWhT"
@@ -1017,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6mWKlQPzqFMnkeEMoKoaVs"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Jogando em Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
@@ -1033,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3dVsSZMN7GRAC3xsWStJuB"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Dividido / Malibu (Ao Vivo)",
         "url": "https://open.spotify.com/album/2N1F5mxROWlLngkSWOPBNU"
@@ -1053,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4chQ44wXBumsaTNo3QitAr"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Benza Em Brasa - Ao Vivo",
         "url": "https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0"
@@ -1069,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Curto Circuito / Ponto Fraco / Amor De Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pYHP2oOcMOaMm9suX34l6"
@@ -1089,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7dJp2ddguIzoNFAE2QWBUL"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Quem Eu Sou (EP3)",
         "url": "https://open.spotify.com/album/5u83yAQFUXfSDh89hZivXh"
@@ -1105,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0vGf573D2sQNTckYeny32R"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
@@ -1129,7 +1125,7 @@
       "url": "https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Respeita Minha Hist\u00f3ria 2",
         "url": "https://open.spotify.com/album/5nEWrZ8zyD5omIMxwhIFPZ"
@@ -1157,7 +1153,7 @@
       "url": "https://open.spotify.com/track/49cQG4KjGXlgN5ICgyrdaH"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Mania do Brasil (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4x6saOWa3jIl2sN6hOchu5"
@@ -1173,7 +1169,7 @@
       "url": "https://open.spotify.com/track/4VCAwBLGck4NWFPmotK85V"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Roda de Samba do Pique Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2AET67ZbtSAIMj3FwWvneM"
@@ -1193,7 +1189,7 @@
       "url": "https://open.spotify.com/track/19fKKQIwCeNOEtyt4wNQsE"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Samba Pro Meu Povo: Bloco Refer\u00eancias (Ao Vivo)",
         "url": "https://open.spotify.com/album/1g1Jqje9vE1uUYJzb74UKt"
@@ -1209,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0AGCb8UOErEkIWxmqx07E1"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Engano / Eu Tenho Muito Mais / Mina de F\u00e9 / Duas Paix\u00f5es",
         "url": "https://open.spotify.com/album/4kiF7IMpJrG4rzMvrtKPbV"
@@ -1237,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Trajet\u00f3ria, Vol. 2",
         "url": "https://open.spotify.com/album/2eCLz8mUNxl4V6V4xN2fHv"
@@ -1253,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2pHcmIrQPpCFvnmw2urBeW"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "De Volta Pro Amanh\u00e3, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qzwgpW2dmXGDigu3mVbUv"
@@ -1269,7 +1265,7 @@
       "url": "https://open.spotify.com/track/07b6vu21xExj1m3DhqNP6o"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Rolezin Do Matheusinho - Ao Vivo / Vol. 2",
         "url": "https://open.spotify.com/album/1CBMT5KQIq9Sz5NUw6cDI7"
@@ -1289,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4PbAWFSP9A2s61f4aerHPq"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Minha F\u00e9 (Em Canoas)",
         "url": "https://open.spotify.com/album/00xMvqwwg2jXoowa9riyYi"
@@ -1305,27 +1301,7 @@
       "url": "https://open.spotify.com/track/3XlwJPCzGNTHFgeXW0wJJt"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "T\u00f4 Aqui / \u00c9 Assim Que Funciona - Ao Vivo",
-        "url": "https://open.spotify.com/album/6BBSIH2qsZnAmgYcX27G2S"
-      },
-      "artists": [
-        {
-          "name": "Rodriguinho",
-          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 238421,
-      "name": "T\u00f4 Aqui / \u00c9 Assim Que Funciona - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fLSDOFd1eOsuQLefcrWFN"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pra Quem N\u00e3o Conhece, Ep. 02 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hcgv48kmRIYRBdACIZWLn"
@@ -1341,7 +1317,7 @@
       "url": "https://open.spotify.com/track/3T3VjKjSTvvVltqasjHFG9"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Ferrugem 10 Anos, Vol. 1: O In\u00edcio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm"
@@ -1361,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0eIjXGaHGliK8pwPca8x9m"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Pra Quem N\u00e3o Conhece, Ep. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr"
@@ -1377,7 +1353,7 @@
       "url": "https://open.spotify.com/track/77ya2SnTsokkD7s2Gq82L1"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "DVD Fases Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy"
@@ -1397,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe"
     },
     {
-      "added_at": "2024-09-13 03:01:00",
+      "added_at": "2024-09-20 03:01:00",
       "album": {
         "name": "Ainda Existe Amor Em N\u00f3s / Vida Que Segue / S\u00f3 De Olhar",
         "url": "https://open.spotify.com/album/3xZnLO16e5aN5kG3vlq5uI"

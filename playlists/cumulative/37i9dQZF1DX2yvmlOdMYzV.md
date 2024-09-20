@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-808 songs - 1 day 19 hr 59 min
+809 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Escápate](https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Escápate](https://open.spotify.com/album/0AbFSadzrwDciNiZlaejSc) | 2:45 | 2024-02-09 | 2024-04-27 |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2021-12-15 | 2023-08-19 |
 | [Face 2 Face](https://open.spotify.com/track/1ujWKKFcIgKiVpGQCcwMpO) | [Ninja Kidsoul](https://open.spotify.com/artist/5fGQSkk1vCCsXliK22M5SJ) | [Face 2 Face](https://open.spotify.com/album/69lxB42eabgnDljSTcTRkL) | 3:02 | 2023-07-21 | 2023-08-26 |
+| [FAIL \(APERTURE\)](https://open.spotify.com/track/0eYlnUpBri4R5xGgO8dmR2) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [FAIL \(APERTURE\)](https://open.spotify.com/album/2phuI68bYAz186QLUhgvzz) | 4:09 | 2024-09-13 |  |
 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 | 2021-12-15 | 2023-01-28 |
 | [Fair Play](https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Fair Play](https://open.spotify.com/album/2l3uRUskaADSpA7gNAcjkT) | 4:49 | 2021-12-15 | 2022-07-27 |
 | [Fair Play](https://open.spotify.com/track/1bklPkNKKoy2pcw7s5GQsT) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Chrysalis](https://open.spotify.com/album/7oTitPtEOTbcfza5F95RJQ) | 4:49 | 2022-06-30 | 2023-04-29 |
@@ -812,7 +813,7 @@
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2024-04-12 |  |
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-03-29 | 2023-06-17 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-12-15 | 2023-01-28 |
-| [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 | 2023-10-27 |  |
+| [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 | 2023-10-27 | 2024-09-20 |
 | [Your Body](https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [BeMyFiasco](https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk), [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Your Body](https://open.spotify.com/album/08z8sSLaf8O4mFyCtGzULu) | 3:15 | 2024-02-09 | 2024-04-13 |
 | [YOURS \(ft\. India Shawn\)](https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 4:20 | 2022-09-02 | 2023-09-17 |
 | [ysbcmn](https://open.spotify.com/track/0xy1sGYDq3hDYjIjLkq9zD) | [GODBY](https://open.spotify.com/artist/0kuUtCLEn8Z8X86bwUUumS) | [ysbcmn](https://open.spotify.com/album/7Jk0ig6SP1c6OjxdeAUGlg) | 3:19 | 2023-03-24 | 2023-10-21 |

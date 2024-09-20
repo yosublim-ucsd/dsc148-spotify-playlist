@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 2 hr 44 min
+65 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [My Mind](https://open.spotify.com/track/42vvDrcD9Juk0ZL0h6gDV0) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw) | [My Mind](https://open.spotify.com/album/7aaJ2wk8HXiBvbspLMYgWO) | 2:28 | 2024-01-29 |  |
 | [My Way \(feat\. BELLA X\)](https://open.spotify.com/track/68DQvI7N9wwRqXmGJz0eaU) | [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [My Way](https://open.spotify.com/album/6yghy3AKVDzvziDF5I3Sfv) | 2:50 | 2024-06-26 |  |
 | [New Shoes](https://open.spotify.com/track/14cVqiQoYYYDmrnWyU7R6p) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [New Shoes](https://open.spotify.com/album/3d8P3qADed9rwyP1wrRY9Y) | 2:25 | 2024-01-29 |  |
+| [Nirvana](https://open.spotify.com/track/23LevhK3PnecW1tyMmV4Fk) | [LEØN](https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nirvana](https://open.spotify.com/album/7L9LWijHQtOTA3fSyzwXLr) | 2:23 | 2024-09-19 |  |
 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 | 2024-02-10 |  |
 | [Not An Angel](https://open.spotify.com/track/7B1cghqpCew1n39hPOD1D6) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Not An Angel](https://open.spotify.com/album/1h7yp7OCNneghWvfix73fP) | 2:20 | 2024-01-29 |  |
 | [Nothing](https://open.spotify.com/track/7zTFAlxrofO8AElz6XoRkR) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing](https://open.spotify.com/album/5FqFsYje6EkS1JlrfYzHAK) | 3:02 | 2024-01-29 |  |

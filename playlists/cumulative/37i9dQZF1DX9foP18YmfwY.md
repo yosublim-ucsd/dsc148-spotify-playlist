@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Padre Marcelo Rossi, João Gomes
 
-168 songs - 13 hr 19 min
+169 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chagas De Amor](https://open.spotify.com/track/6GsTFCk0ZRVu5JZcz4lTTW) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Chagas De Amor](https://open.spotify.com/album/1ZFpI0Tk4cIdqBnEPfcMq1) | 4:25 | 2022-09-02 | 2022-10-15 |
 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 | 2023-06-02 |  |
 | [Com Tua Mão](https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Vocacional Shalom 2023](https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ) | 3:58 | 2023-02-10 | 2023-11-25 |
-| [Como Noiva Adornada no Altar](https://open.spotify.com/track/1UgDFFusdZtJh5yE0QqwlP) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\)](https://open.spotify.com/album/5bKZxjlwcMC97uymkaWadn) | 11:54 | 2024-07-19 |  |
+| [Como Noiva Adornada no Altar](https://open.spotify.com/track/1UgDFFusdZtJh5yE0QqwlP) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\)](https://open.spotify.com/album/5bKZxjlwcMC97uymkaWadn) | 11:54 | 2024-07-19 | 2024-09-20 |
 | [Como És Lindo](https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gil Monteiro](https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:53 | 2023-02-10 |  |
 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 | 2024-08-16 |  |
 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 | 2022-09-02 | 2023-03-12 |
@@ -147,6 +147,7 @@
 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 | 2022-09-02 | 2023-08-19 |
 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 | 2022-09-02 | 2024-06-29 |
 | [Romanos 12](https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Romanos 12](https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2) | 8:10 | 2023-11-24 |  |
+| [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 | 2024-09-20 |  |
 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 | 2022-10-14 | 2024-06-15 |
 | [Romaria \- Ao Vivo](https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Leo Cidade](https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit) | [Romaria \(Ao Vivo\)](https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U) | 5:19 | 2022-09-02 |  |
 | [Sagrada Beleza](https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Sagrada Beleza](https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy) | 3:47 | 2022-09-02 | 2023-02-11 |

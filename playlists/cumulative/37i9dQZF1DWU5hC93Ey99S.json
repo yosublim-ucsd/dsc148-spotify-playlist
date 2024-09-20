@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/4FvSyKog587pT37wscO9L5"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203524,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
+    },
+    {
+      "album": {
         "name": "4 AM",
         "url": "https://open.spotify.com/album/2Cwzzk8owwPB5B15aiIcLm"
       },
@@ -1124,6 +1146,24 @@
       "duration_ms": 140811,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g"
+    },
+    {
+      "album": {
+        "name": "Best Time",
+        "url": "https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195409,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP"
     },
     {
       "album": {
@@ -6451,6 +6491,36 @@
     },
     {
       "album": {
+        "name": "Lights Get Low",
+        "url": "https://open.spotify.com/album/0fbUfdRIqVoO3n0g6ttFEu"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        },
+        {
+          "name": "Menningmann",
+          "url": "https://open.spotify.com/artist/3zsgcKe2WNIWcF5NynhnWR"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167802,
+      "name": "Lights Get Low",
+      "url": "https://open.spotify.com/track/4IvxeChJXUMW9BzHRW6wei"
+    },
+    {
+      "album": {
         "name": "Like Sunshine",
         "url": "https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1"
       },
@@ -10105,6 +10175,24 @@
     },
     {
       "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL"
+      },
+      "artists": [
+        {
+          "name": "Tornado Club",
+          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231349,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
+    },
+    {
+      "album": {
         "name": "Sign Of The Times",
         "url": "https://open.spotify.com/album/5mbMwlniFCiNRDDV43dKok"
       },
@@ -10368,6 +10456,24 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/34c9VT0L8JNBwtOX0pAUzM"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/50eUM0SPChUkxCSXj9SDpU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Samuel Messias
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,643 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,652 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Meu Deus É Grande](https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f) | [Conceição Cabral](https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF) | [Meu Deus É Grande](https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa) | 5:34 |
 | 50 | [Você Será Feliz de Novo](https://open.spotify.com/track/4k88XwpMsMC0ZIT1pH2xBO) | [Babi Garcia](https://open.spotify.com/artist/01sgeuHsummWMm330PtyM5) | [Você Será Feliz de Novo](https://open.spotify.com/album/1e0lYEK9O2TjYeyi3zds7O) | 3:16 |
 
-Snapshot ID: `ZuOq7AAAAAD0CcGO8g9HD8sH8egiaJPv`
+Snapshot ID: `ZuOq7AAAAACZjvz2lNQ1vkQ2/XV1UHEa`

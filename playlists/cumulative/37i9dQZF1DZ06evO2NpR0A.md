@@ -2,7 +2,7 @@
 
 ### [This Is Bon Iver](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NpR0A)
 
-> This Is Bon Iver\. Los temas esenciales, todos en una lista.
+> This is Bon Iver\. The essential tracks, all in one playlist.
 
 65 songs - 4 hr 11 min
 

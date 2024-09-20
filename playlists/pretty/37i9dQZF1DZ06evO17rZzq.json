@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3865,
+  "num_followers": 3867,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADwt0Fa5T5r5JkelA/YDr/M",
+  "snapshot_id": "ZuoYAAAAAACBHWeLMfaBkDSF0X+lws9M",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHAKE (feat. Kaliii and Stunna Girl)",
         "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 191538,
       "name": "SHAKE (feat. Kaliii and Stunna Girl)",
       "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOZO",
-        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BOZO",
-      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
     },
     {
       "added_at": null,
@@ -323,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
+        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
+      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MULTI",
         "url": "https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD"
       },
@@ -367,30 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
-        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
-      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchin' (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 214712,
-      "name": "Touchin' (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE CHAT",
         "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 155761,
       "name": "Let It Ring",
       "url": "https://open.spotify.com/track/3beiYzVljAHBMaM1le33lR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touchin' (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 214712,
+      "name": "Touchin' (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
       "added_at": null,
@@ -667,46 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pull The Car Around (Remix)",
-        "url": "https://open.spotify.com/album/0q1ZX67Sh55tWUYvno1IpS"
-      },
-      "artists": [
-        {
-          "name": "Kodie Shane",
-          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 189879,
-      "name": "Pull The Car Around - Remix",
-      "url": "https://open.spotify.com/track/2yZkOMdtfGUgaoBCLr6vMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Yours (Remix)",
-        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
-      },
-      "artists": [
-        {
-          "name": "Vae Vanilla",
-          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 130295,
-      "name": "Not Yours (Remix)",
-      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ouuhh!!",
         "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
       },
@@ -735,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Pull The Car Around (Remix)",
+        "url": "https://open.spotify.com/album/0q1ZX67Sh55tWUYvno1IpS"
       },
       "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 189879,
+      "name": "Pull The Car Around - Remix",
+      "url": "https://open.spotify.com/track/2yZkOMdtfGUgaoBCLr6vMA"
     },
     {
       "added_at": null,
@@ -771,22 +735,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Playa",
-        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
         {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Yours (Remix)",
+        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
+      },
+      "artists": [
+        {
+          "name": "Vae Vanilla",
+          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
         },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 192592,
-      "name": "ill nana (feat. Kali)",
-      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+      "duration_ms": 130295,
+      "name": "Not Yours (Remix)",
+      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Keep It Playa",
+        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "ill nana (feat. Kali)",
+      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,

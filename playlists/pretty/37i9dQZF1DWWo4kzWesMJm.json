@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 162234,
+  "num_followers": 162267,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Photos de voyages (Remastered)",
-        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Encore et encore - Remastered",
-      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Photos de voyages (Remastered)",
+        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Encore et encore - Remastered",
+      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -271,42 +271,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "L'attrape-r\u00eaves",
-        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Il est o\u00f9 le bonheur",
-      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Comment on fait",
-      "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -327,6 +291,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Comment on fait",
+      "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Juste Comme \u00c7a",
         "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185065,
       "name": "L'ind\u00e9cision",
       "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 225640,
       "name": "Coco C\u00e2line",
       "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Le Vagabond",
-        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Week End \u00c0 Rome",
         "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 254453,
       "name": "Week-end \u00e0 Rome",
       "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Le Vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Bonne id\u00e9e",
-      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Bonne id\u00e9e",
+      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La Zizanie",
-        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
-      },
-      "artists": [
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Rue de la Paix",
-      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La femme chocolat",
         "url": "https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 171213,
       "name": "La femme chocolat",
       "url": "https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "La Zizanie",
+        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Rue de la Paix",
+      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
     },
     {
       "added_at": "2024-05-23 22:00:00",

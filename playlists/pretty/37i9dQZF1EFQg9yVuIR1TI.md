@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 521 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 20 | [Where Am I Going?](https://open.spotify.com/track/6LVQN95MVvXSvDL5cgcHsJ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Color Me Barbra](https://open.spotify.com/album/4aBWPP2oFW7J4efNtqEGkl) | 2:49 |
 | 21 | [It's Not Where You Start](https://open.spotify.com/track/55yuXvaZrxfMKapxbeadro) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP) | [Barbara Cook's Broadway](https://open.spotify.com/album/5aJhI8YlzokNJhacuItf0Y) | 2:53 |
 | 22 | [Nobody Does It Like Me](https://open.spotify.com/track/6VOlq6d5FTCG8NsEIIBzkD) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:10 |
-| 23 | [You Wanna Bet](https://open.spotify.com/track/5BRtQlAQzb84V3kFOwpvkt) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Just For The Record...](https://open.spotify.com/album/09SKzENGpfizO0CuesEvOV) | 2:27 |
+| 23 | [You Wanna Bet](https://open.spotify.com/track/2MFYRCATRIvkBX6YGUV7eG) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Just For The Record...](https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj) | 2:27 |
 | 24 | [Don't Cry](https://open.spotify.com/track/15aDD2ziZncde3QXRKLfuz) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE), [Invincible](https://open.spotify.com/artist/6g0jIZjw9GHR6J5wO1FD0u) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:15 |
 | 25 | [I Love to Cry at Weddings \(Bonus Track\)](https://open.spotify.com/track/70v32ENmqvYGFzewbzX7qs) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [John Wheeler](https://open.spotify.com/artist/093WLpfEnIOFdaMUfbxIyL), [Michael Davis](https://open.spotify.com/artist/7zk7RDbFoN4HNWoNhRoHWU), [Helen Gallagher](https://open.spotify.com/artist/4JTWiRSYQuVttUczW8TEWn), [Thelma Oliver](https://open.spotify.com/artist/4u4OGWtaSTDMdkLkVUr6cj), [Sweet Charity Ensemble](https://open.spotify.com/artist/3fQK33TvOI22tWRkdYtv1l), [Sweet Charity Original Broadway Cast](https://open.spotify.com/artist/7po62BPOceXuAzRJO1DU92), [Fred Werner](https://open.spotify.com/artist/6t5ihB20at8H7BcacOU2Ys) | [Sweet Charity \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3iX704wj3QPuOXEDkGcCK9) | 4:01 |
 | 26 | [My Personal Property](https://open.spotify.com/track/1kFjd8pEF6h7Cu2LHTcvGT) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [I've Gotta Be Me](https://open.spotify.com/album/1DNtn7Fsu6oxk4rhPktUma) | 2:26 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Subway](https://open.spotify.com/track/1KWINi0Qleahal6922tD3J) | [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi) | [Sweet Charity \(2007 London Studio Cast\)](https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ) | 2:06 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:23 |
 
-Snapshot ID: `AbcgXgAAAACmftoImC3GAlbQ8jUm3iA/`
+Snapshot ID: `Abcl/gAAAADrUS4oXPVqUGHt/h2wPe6m`

@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Eddy de Pretto
+> La pop française annonce la couleur\. Photo : Zélie
 
-217 songs - 10 hr 46 min
+218 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Moi du Passé](https://open.spotify.com/track/72bwy4wAvp7D2oRsZZ65pp) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Moi du Passé](https://open.spotify.com/album/1wxKnSrpD8XfrmOgAY0Vmw) | 3:07 | 2024-03-21 | 2024-04-05 |
 | [Mon corps](https://open.spotify.com/track/2zP3QL9m9TNv0EgEKNiHR8) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Après la pluie](https://open.spotify.com/album/34WUIUhO70T0QUQvoTS16U) | 2:20 | 2024-04-18 | 2024-06-28 |
 | [Morose](https://open.spotify.com/track/6h9sz00y2BxWK7luVV5moD) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Je cherche encore...](https://open.spotify.com/album/4NTg4TxZozULTYTH2evyuA) | 2:49 | 2024-05-30 |  |
-| [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-02-29 |  |
+| [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-02-29 | 2024-09-20 |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 | 2024-07-11 |  |
 | [Normandie](https://open.spotify.com/track/304a160jxpVs2JYVWtoR4N) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW), [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Tout ce que l'on ne devient pas](https://open.spotify.com/album/0HJxteAp9XRvMFbWp7MXwe) | 2:25 | 2024-04-25 | 2024-05-17 |
@@ -208,6 +208,7 @@
 | [Tirer la nuit sur les étoiles \- Yan Wagner Radio Remix](https://open.spotify.com/track/7bY9boNbEOBFACQicbgyvF) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Tirer la nuit sur les étoiles \(Yan Wagner Remix\)](https://open.spotify.com/album/0Je8ec42W3n68qOlKAZtEh) | 3:18 | 2023-07-27 | 2023-09-08 |
 | [Toi et moi](https://open.spotify.com/track/3FaInds8Srk4PVpqCSuH9p) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Toi et moi](https://open.spotify.com/album/5ZNrFN5vkaWMdqZK4SAmFq) | 2:55 | 2024-01-18 | 2024-02-09 |
 | [Tombée In Love](https://open.spotify.com/track/3A6Co1ShZ3F6z0nBjG40Za) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Tombée In Love](https://open.spotify.com/album/1QfcmGQDxGefWqG0qBAc8m) | 2:44 | 2023-07-27 | 2023-09-15 |
+| [TOUT PERDU](https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [TOUT PERDU](https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI) | 2:45 | 2024-09-19 |  |
 | [Tristesse](https://open.spotify.com/track/7duqAqQUm0vYSaXzavXhfn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Tristesse](https://open.spotify.com/album/2knIF0Z25bt6E8fYWYhOqJ) | 3:31 | 2023-07-27 | 2023-09-22 |
 | [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-07-27 | 2023-09-08 |
 | [TU M'RENDS FOU \(spooky bitch\)](https://open.spotify.com/track/6Ra93KBC44jqzesIBGPG6x) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [LE CLUB C'EST VOUS](https://open.spotify.com/album/6ApAbH2lJXkm5LiM8QS3qI) | 2:46 | 2024-03-28 | 2024-07-12 |

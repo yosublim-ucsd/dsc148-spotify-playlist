@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. El Rabbanito en portada.",
-  "num_followers": 228867,
+  "num_followers": 228964,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
       },
       "artists": [
         {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
         }
       ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+      "duration_ms": 182229,
+      "name": "Jerry",
+      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "Jerry",
-      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-09-13 06:00:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-09-13 06:00:00",
       "album": {
+        "name": "Estilo Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 171519,
+      "name": "Estilo Guzm\u00e1n",
+      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
+    },
+    {
+      "added_at": "2024-09-13 06:00:00",
+      "album": {
         "name": "La Revancha (En Vivo)",
         "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 182045,
       "name": "Los Cuartitos (En Vivo)",
       "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
-    },
-    {
-      "added_at": "2024-09-13 06:00:00",
-      "album": {
-        "name": "Estilo Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/4WfTUStZ0n7EgeqZrcIekI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 171519,
-      "name": "Estilo Guzm\u00e1n",
-      "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
     },
     {
       "added_at": "2024-09-13 06:00:00",

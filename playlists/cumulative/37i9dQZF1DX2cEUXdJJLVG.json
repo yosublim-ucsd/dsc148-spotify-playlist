@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
@@ -2441,6 +2441,32 @@
     },
     {
       "album": {
+        "name": "Get U What U Want",
+        "url": "https://open.spotify.com/album/5Q4bvgj8YnMhC6IzD96ZxT"
+      },
+      "artists": [
+        {
+          "name": "GLINTSAL",
+          "url": "https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY"
+        },
+        {
+          "name": "FAISAL",
+          "url": "https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1"
+        },
+        {
+          "name": "Glints",
+          "url": "https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Get U What U Want",
+      "url": "https://open.spotify.com/track/7sswPponP7QFEhJK4HoZmQ"
+    },
+    {
+      "album": {
         "name": "Give It a Go",
         "url": "https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ"
       },
@@ -3274,7 +3300,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
@@ -5184,7 +5210,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 213874,
       "name": "Play It Off - BLOWSOM Remix",
       "url": "https://open.spotify.com/track/5JMGPedbNolzY3js0CZhft"

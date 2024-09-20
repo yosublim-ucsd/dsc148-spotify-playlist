@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Elliott Smith. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
   "name": "This Is Elliott Smith",
   "tracks": [
+    {
+      "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "2:45 AM",
+      "url": "https://open.spotify.com/track/1CHGb6pmqnHlzQeHX9wHfn"
+    },
     {
       "album": {
         "name": "From A Basement On The Hill",

@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> overtager med <a href="spotify:track:2ZMH3fAwB2VlcmPOrFMnX6">H V D O L</a> 🌊🌊
+> den største dk rap lige nu 🌊🌊
 
-226 songs - 9 hr 45 min
+228 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2023-12-21 | 2024-02-10 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2024-09-13 |
 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-03 |  |
+| [SkyLL](https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:56 | 2024-09-19 |  |
 | [SNAK/MILANO](https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [SNAK/MILANO](https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV) | 3:02 | 2024-04-18 | 2024-04-26 |
 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 | 2024-04-26 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
@@ -210,6 +211,7 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 |  |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
+| [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 |  |
 | [Tsamina](https://open.spotify.com/track/0qBSIf8Ic0SYCYvGozlqKB) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Tsamina](https://open.spotify.com/album/4xElpKHXJv700nJ3eTwQPN) | 3:42 | 2024-02-08 | 2024-04-05 |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-09-21 | 2023-12-14 |
 | [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 | 2024-09-05 |  |

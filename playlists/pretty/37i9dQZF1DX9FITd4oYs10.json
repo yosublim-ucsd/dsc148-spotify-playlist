@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17933,
+  "num_followers": 17934,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Veneza",
-        "url": "https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx"
-      },
-      "artists": [
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Dalua",
-          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
-        }
-      ],
-      "duration_ms": 284862,
-      "name": "Veneza",
-      "url": "https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Azul Piscina",
         "url": "https://open.spotify.com/album/3cKqztFXTxCESGT7lmATPS"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 146192,
       "name": "Pesadelos de Quem N\u00e3o Dorme H\u00e1 Dias",
       "url": "https://open.spotify.com/track/3ws0OrDABrjY2yl1D8kCg4"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Veneza",
+        "url": "https://open.spotify.com/album/2ybuI6MYKrfxLbtYRUp1Cx"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "duration_ms": 284862,
+      "name": "Veneza",
+      "url": "https://open.spotify.com/track/4V1GX6kcU1ehDP1d1GopGb"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

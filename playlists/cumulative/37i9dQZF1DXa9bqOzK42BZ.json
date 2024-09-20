@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=JlJsBzPuT7-zfw_BLEcCQA\">Israel Mbonyi</a> ",
+  "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q\">BELLA KOMBO</a> ",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -232,6 +232,32 @@
       "duration_ms": 398000,
       "name": "Ameniweka huru kweli",
       "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
+    },
+    {
+      "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/6LLibuePeV7IjJFxqoNtc2"
+      },
+      "artists": [
+        {
+          "name": "BELLA KOMBO",
+          "url": "https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk"
+        },
+        {
+          "name": "JOSH CLEOPA",
+          "url": "https://open.spotify.com/artist/7nvpGpGRXcmzi40VoqVBfj"
+        },
+        {
+          "name": "Melanie Anthony",
+          "url": "https://open.spotify.com/artist/3QxA7gV0hPreXmj1zvLp7g"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400042,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/4xo7NtNCDqsiGmdwgmAw8G"
     },
     {
       "album": {
@@ -1951,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Nifundishe",
+        "url": "https://open.spotify.com/album/7w8mOa3oWyf9pjT6Qgle23"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        },
+        {
+          "name": "Nicole Ngabo",
+          "url": "https://open.spotify.com/artist/7qM0oYRsIMNv6x9eBwdmA4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272842,
+      "name": "Nifundishe",
+      "url": "https://open.spotify.com/track/6RRoq1OV4PGkY1pm7ErvxH"
+    },
+    {
+      "album": {
         "name": "Naiona Kesho",
         "url": "https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f"
       },
@@ -2744,6 +2792,24 @@
       "duration_ms": 673019,
       "name": "Sijaona Kama Wewe",
       "url": "https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C"
+    },
+    {
+      "album": {
+        "name": "Sikiliza",
+        "url": "https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS"
+      },
+      "artists": [
+        {
+          "name": "Israel Mbonyi",
+          "url": "https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688309,
+      "name": "Sikiliza",
+      "url": "https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS"
     },
     {
       "album": {

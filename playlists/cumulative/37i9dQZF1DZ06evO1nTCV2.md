@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1nTCV2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1nTCV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1nTCV2)
 
-### [This Is Ryan Adams ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
+### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is Ryan Adams\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
+> This is Ryan Adams\. The essential tracks, all in one playlist.
 
 231 songs - 14 hr 9 min
 
@@ -191,7 +191,7 @@
 | [Strawberry Wine](https://open.spotify.com/track/0L51VUczq7ZNaaoB6fxlAe) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 7:58 | 2022-01-11 | 2022-07-25 |
 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 | 2022-03-29 | 2023-12-20 |
 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 | 2022-01-11 | 2024-09-16 |
-| [Sword and Stone](https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:19 | 2024-01-03 | 2024-09-03 |
+| [Sword and Stone](https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:19 | 2024-01-03 |  |
 | [Sylvia Plath](https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 4:10 | 2022-01-11 | 2022-01-13 |
 | [Sympathy For The Devil \- Live from Edmonton, AL\. 2023](https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sympathy For The Devil \(Live from Edmonton, AL\. 2023\)](https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k) | 4:25 | 2024-06-16 | 2024-09-01 |
 | [Take It Back](https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:07 | 2022-04-05 | 2023-01-13 |
@@ -220,7 +220,7 @@
 | [True Love Will Find You In the End \- Live from Bristol, UK\. 2023.](https://open.spotify.com/track/4uy2YQw237One1PRrviQr7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Man In Me \(Live from Bristol, UK\. 2023\)](https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE) | 2:33 | 2024-09-03 |  |
 | [Two](https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:38 | 2022-01-11 |  |
 | [Used Cars](https://open.spotify.com/track/2jQYAjZ6BDCHgD2lX1nSGl) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:59 | 2023-01-08 | 2023-03-23 |
-| [War Pigs \- Live from Birmingham, UK\. 2023](https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [War Pigs \(Live from Birmingham, UK\. 2023\)](https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq) | 3:59 | 2024-08-18 |  |
+| [War Pigs \- Live from Birmingham, UK\. 2023](https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [War Pigs \(Live from Birmingham, UK\. 2023\)](https://open.spotify.com/album/0jUXLpTMnc182KoOLQ42Mq) | 3:59 | 2024-08-18 | 2024-09-20 |
 | [Was I Wrong](https://open.spotify.com/track/1KhVi78g6RUIVYDPzEfWUw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:17 | 2022-04-06 | 2022-06-06 |
 | [Wasted Years \- Live from Glasgow](https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wasted Years \(Live from Glasgow, UK\. 2023\)](https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs) | 3:39 | 2024-08-11 |  |
 | [We Built This City \- Live from Oakland, CA, 2022](https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [We Built This City \(Live from Oakland, CA, 2022\)](https://open.spotify.com/album/2gm2b6mIhwljA7WwdrDJTG) | 4:13 | 2024-05-20 | 2024-07-13 |

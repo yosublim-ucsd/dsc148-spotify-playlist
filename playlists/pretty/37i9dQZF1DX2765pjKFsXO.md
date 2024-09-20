@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Najlepsze alternatywne kawałki 2023 roku\. Cover: Nosowska \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,493 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,490 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

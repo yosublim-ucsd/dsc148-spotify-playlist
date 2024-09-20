@@ -2,7 +2,7 @@
 
 ### [This Is Anuhea](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EskP2)
 
-> This Is Anuhea\. Los temas esenciales, todos en una lista.
+> This is Anuhea\. The essential tracks, all in one playlist.
 
 66 songs - 4 hr 1 min
 

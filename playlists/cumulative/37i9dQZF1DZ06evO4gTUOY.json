@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-08",
-  "description": "This is Eminem. The essential tracks, all in one playlist.",
+  "description": "This Is Eminem. Los temas esenciales, todos en una lista.",
   "name": "This Is Eminem",
   "tracks": [
     {
@@ -888,6 +888,28 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "Murdergram Deux",
+        "url": "https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185456,
+      "name": "Murdergram Deux (feat. Eminem)",
+      "url": "https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie"
     },
     {
       "album": {

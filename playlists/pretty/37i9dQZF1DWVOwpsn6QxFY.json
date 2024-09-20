@@ -1,6 +1,6 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 148432,
+  "num_followers": 148478,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
     },
     {
-      "added_at": "2024-09-06 12:18:40",
-      "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
       "added_at": "2024-05-05 00:30:56",
       "album": {
         "name": "Orange Blood",
@@ -475,6 +459,22 @@
       "duration_ms": 223626,
       "name": "Johnson Song",
       "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+    },
+    {
+      "added_at": "2024-09-06 12:18:40",
+      "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Crazymad, For Me",
-        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Phone Me",
-      "url": "https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 196253,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Phone Me",
+      "url": "https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
     },
     {
-      "added_at": "2024-09-06 12:18:40",
-      "album": {
-        "name": "Meet me in the garden (Alternative Version)",
-        "url": "https://open.spotify.com/album/0xOoSbMYuUAeNAIItJEf6g"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 174833,
-      "name": "Meet me in the garden - Alternative Version",
-      "url": "https://open.spotify.com/track/6OUnUtn5tYFPylyiiwbW4l"
-    },
-    {
       "added_at": "2024-05-05 00:30:56",
       "album": {
         "name": "My Big Day",
@@ -999,6 +983,22 @@
       "duration_ms": 210173,
       "name": "Turn The World On",
       "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
+    },
+    {
+      "added_at": "2024-09-06 12:18:40",
+      "album": {
+        "name": "Meet me in the garden (Alternative Version)",
+        "url": "https://open.spotify.com/album/0xOoSbMYuUAeNAIItJEf6g"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 174833,
+      "name": "Meet me in the garden - Alternative Version",
+      "url": "https://open.spotify.com/track/6OUnUtn5tYFPylyiiwbW4l"
     },
     {
       "added_at": "2024-05-05 00:30:56",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-05 00:30:56",
       "album": {
-        "name": "Shark Smile (Edit)",
-        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Shark Smile - Edit",
-      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
-    },
-    {
-      "added_at": "2024-05-05 00:30:56",
-      "album": {
         "name": "Unconditional I (Lookout Kid)",
         "url": "https://open.spotify.com/album/245E4YWubHwp4sZNlz82dG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 222776,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
+    },
+    {
+      "added_at": "2024-05-05 00:30:56",
+      "album": {
+        "name": "Shark Smile (Edit)",
+        "url": "https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Shark Smile - Edit",
+      "url": "https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np"
     },
     {
       "added_at": "2024-05-05 00:30:56",

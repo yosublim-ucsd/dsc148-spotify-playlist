@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Danni Gato, Virgul",
+  "description": "Uma playlist de pura alma pop! Foto: Ana Moura",
   "name": "Pop PT",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 342666,
       "name": "A Terra Gira (feat. B\u00e1rbara Tinoco) - Ao Vivo no Est\u00e1dio Cidade De Coimbra",
       "url": "https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP"
+    },
+    {
+      "album": {
+        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
+        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186922,
+      "name": "Amar Pela Metade",
+      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
     },
     {
       "album": {
@@ -198,6 +216,28 @@
       "duration_ms": 204884,
       "name": "At\u00e9 ao Fim",
       "url": "https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI"
+    },
+    {
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
       "album": {
@@ -344,7 +384,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160000,
       "name": "CHIQUITINHA",
       "url": "https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK"
@@ -595,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Desliza",
+        "url": "https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER"
+      },
+      "artists": [
+        {
+          "name": "Ana Moura",
+          "url": "https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Desliza",
+      "url": "https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv"
+    },
+    {
+      "album": {
         "name": "Bichinho",
         "url": "https://open.spotify.com/album/0N2GwDGCTkpUNOhL5eQNh0"
       },
@@ -722,7 +780,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 158000,
       "name": "Entre O Passado E O Futuro",
       "url": "https://open.spotify.com/track/0CohDEhfKQFP1cuJ5NEoPs"
@@ -838,7 +896,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159400,
       "name": "Eu Deixo Ir",
       "url": "https://open.spotify.com/track/00VJM4qAgMpVQ6xNVutDCw"
@@ -994,7 +1052,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 156613,
       "name": "FUGACIDADE",
       "url": "https://open.spotify.com/track/3LFPFTXstkw1bOYGf4s435"
@@ -1049,6 +1107,32 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/6igOdfyjmqJKnQaAIp66Wg"
+      },
+      "artists": [
+        {
+          "name": "No Maka",
+          "url": "https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3"
+        },
+        {
+          "name": "Umbelino",
+          "url": "https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW"
+        },
+        {
+          "name": "Mara Cortez",
+          "url": "https://open.spotify.com/artist/4Sb1JyWr13fjmSxyooVBEo"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156223,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/00rG52fVU3VmAUqRqH4dQA"
+    },
+    {
+      "album": {
         "name": "Garota (feat. Marisa Liz)",
         "url": "https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc"
       },
@@ -1068,6 +1152,24 @@
       "duration_ms": 216569,
       "name": "Garota (feat. Marisa Liz)",
       "url": "https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici"
+    },
+    {
+      "album": {
+        "name": "H\u00e1 Algo Em Ti",
+        "url": "https://open.spotify.com/album/2aerklK61ud4O4sel9io7X"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "H\u00e1 Algo Em Ti",
+      "url": "https://open.spotify.com/track/2p4mTIPgG0rOLvIHh9x588"
     },
     {
       "album": {
@@ -1275,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Peito",
+        "url": "https://open.spotify.com/album/1vkQrynXbbF8j9HdWcfRcZ"
+      },
+      "artists": [
+        {
+          "name": "Mimicat",
+          "url": "https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "No Teu Lugar",
+      "url": "https://open.spotify.com/track/3KTYDS1L8tB2AuQOP6Wj9h"
+    },
+    {
+      "album": {
         "name": "Noite",
         "url": "https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci"
       },
@@ -1294,6 +1414,28 @@
       "duration_ms": 211376,
       "name": "Noite",
       "url": "https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Durmo Bem",
+        "url": "https://open.spotify.com/album/5DqW9O0aEhcoyniBJYrHTo"
+      },
+      "artists": [
+        {
+          "name": "Archie",
+          "url": "https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P"
+        },
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196418,
+      "name": "N\u00e3o Durmo Bem",
+      "url": "https://open.spotify.com/track/5TgfKSmnnyI21rnY5m01kf"
     },
     {
       "album": {
@@ -1522,6 +1664,24 @@
       "duration_ms": 154600,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI"
+    },
+    {
+      "album": {
+        "name": "Quero Saber",
+        "url": "https://open.spotify.com/album/03iqX6TpmT16GWfwRIB1Or"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Quero Saber",
+      "url": "https://open.spotify.com/track/24YmUICFiMs6f1IG0HXT4M"
     },
     {
       "album": {
@@ -1774,7 +1934,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 206392,
       "name": "SINAIS",
       "url": "https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t"
@@ -1792,7 +1952,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 124823,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/49oZxIeKVg4XMSXn3h2ICL"
@@ -1814,7 +1974,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162872,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"

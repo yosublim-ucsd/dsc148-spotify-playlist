@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-167 songs - 10 hr 5 min
+168 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 | 2024-06-14 |
 | [Drowning in the Dark](https://open.spotify.com/track/2AAm5EYrQt2i7VUNgkGFIl) | [Leanne Serena](https://open.spotify.com/artist/2rYx1os7rYtwAHinxxtPuW) | [Drowning in the Dark](https://open.spotify.com/album/393liDotKoRriPUxGDsvb2) | 3:35 | 2024-08-29 |  |
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-04 |  |
-| [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2023-09-07 |  |
+| [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2023-09-07 | 2024-09-20 |
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 | 2023-08-17 |  |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 | 2024-06-28 |
@@ -174,6 +174,7 @@
 | [When You Know You Know \- Acoustic](https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH) | [Robert Weston](https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY) | [Life's A Beach & 3 Acoustic Songs](https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV) | 3:23 | 2023-07-14 |  |
 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 | 2023-02-23 | 2023-10-06 |
 | [Wild Roses](https://open.spotify.com/track/18d5dlhKtJRqNBxNrB4gWU) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Wild Roses](https://open.spotify.com/album/2k6LkrFt3pS40RSvEb5Ntm) | 3:00 | 2024-06-27 |  |
+| [Win My Heart](https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4) | [Mycah](https://open.spotify.com/artist/11LEf5PXavWVHgzSLXcaeV) | [Win My Heart](https://open.spotify.com/album/5rtIZDLfrJ5k2mtnvcaPu1) | 3:50 | 2024-09-19 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 | 2023-09-22 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

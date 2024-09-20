@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 66566,
+  "num_followers": 66576,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADwyMr4etTS0bsX6pMRpRoc",
+  "snapshot_id": "ZuoYAAAAAABo51Rv7+I2minA2xbd4c1Q",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 192469,
+      "name": "La Rutina",
+      "url": "https://open.spotify.com/track/4b1bx2WDzy9UHu500DnEx9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo Hasta El Final",
         "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 168720,
       "name": "Contigo Hasta El Final",
       "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Rutina",
-        "url": "https://open.spotify.com/album/33VjCQ8nvi5XpGnL4qIKQD"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "La Rutina",
-      "url": "https://open.spotify.com/track/1b03Wjd2GOjbwjhZUJtaQO"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 182222,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pena",
+        "url": "https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 122586,
+      "name": "La Pena",
+      "url": "https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
       "duration_ms": 164720,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pena",
-        "url": "https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 122586,
-      "name": "La Pena",
-      "url": "https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noche en Hawaii",
         "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 177156,
       "name": "Noche en Hawaii",
       "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Stanley Jackson",
-          "url": "https://open.spotify.com/artist/3uoKSVmuDDItBqC4OceRgJ"
-        }
-      ],
-      "duration_ms": 170838,
-      "name": "Sola (feat. Stanley Jackson)",
-      "url": "https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colorao",
         "url": "https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 198518,
       "name": "Colorao",
       "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Vine a Buscarte",
+      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
     }
   ],
   "unique_name": "This Is Mike Bah\u00eda",

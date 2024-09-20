@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 344283,
+  "num_followers": 344268,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Canciones Prohibidas",
         "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 318986,
       "name": "Salir",
       "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
       },
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Global Warming",
-        "url": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Papayo",
-          "url": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
         }
       ],
-      "duration_ms": 196440,
-      "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
-      "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1691,6 +1671,26 @@
       "duration_ms": 243226,
       "name": "Livin' la Vida Loca - Spanish Version",
       "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Global Warming",
+        "url": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Papayo",
+          "url": "https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
+      "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 251973,
       "name": "Buleria",
       "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Yo Quiero Bailar",
-        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
-      },
-      "artists": [
-        {
-          "name": "Sonia Y Selena",
-          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Yo Quiero Bailar",
-      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Pont Aeri, Vol. 4 EP",
         "url": "https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 406400,
       "name": "Flying Free - Original Mix",
       "url": "https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Yo Quiero Bailar",
+        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Y Selena",
+          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Yo Quiero Bailar",
+      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Bailar Latino",
-        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
-      },
-      "artists": [
-        {
-          "name": "Los Morenos",
-          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Sigue al Lider (Follow The Leader)",
-      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Bailar Latino",
+        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
+      },
+      "artists": [
+        {
+          "name": "Los Morenos",
+          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Sigue al Lider (Follow The Leader)",
+      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
     },
     {
       "added_at": "2024-06-18 12:57:48",

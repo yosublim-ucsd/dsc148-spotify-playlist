@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,771 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,819 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 86 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
 | 87 | [Rinser](https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Elements Pt1](https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv) | 6:03 |
 | 88 | [Don't Stahp \- Edit](https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [Don't Stahp \(Edit\)](https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D) | 3:48 |
-| 89 | [Get Jiggy](https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U) | [EVIE \(UK\)](https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ) | [Get Jiggy](https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb) | 5:32 |
+| 89 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
 | 90 | [Late Night](https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [On The Ground \- EP](https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3) | 6:24 |
-| 91 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 91 | [Get Jiggy](https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U) | [EVIE \(UK\)](https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ) | [Get Jiggy](https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb) | 5:32 |
 | 92 | [Fuego](https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb), [Moonage](https://open.spotify.com/artist/7tRAjkMKLsYQpzjcDgj34b) | [Fuego](https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym) | 2:18 |
 | 93 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
-| 94 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
-| 95 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 |
+| 94 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 |
+| 95 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
 | 96 | [Courtyard](https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Dolce Far Niente](https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww) | 8:01 |
 | 97 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 98 | [I'm an Alien](https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Puka](https://open.spotify.com/artist/3Gmuv8ih6UWYlZQlM4zFgo), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [I'm an Alien](https://open.spotify.com/album/5HYzQDtk0lKtJ06aagndZ7) | 3:19 |
 | 99 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 |
-| 100 | [without you](https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [without you](https://open.spotify.com/album/05maWYabu665iJoxUOxDHB) | 5:36 |
+| 100 | [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 |
 
 Snapshot ID: `ZuO4/AAAAACcSCMj57FslAQbVnWh0ae4`

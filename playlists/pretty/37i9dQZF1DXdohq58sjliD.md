@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdohq58sjliD.md) - [plain]
 
 > Twenty years\. Two people\. Listen to the music from and inspired by One Day, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,677 likes - 82 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,726 likes - 82 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 |
 | 2 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 3 | [Theme from S\-Express](https://open.spotify.com/track/7BbUJdbRtW7vqRYt6qWQ1d) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Ultimate 80's Number 1's](https://open.spotify.com/album/0RCJC1nFIuZcdxigmyhDTs) | 3:52 |
-| 4 | [Love in a Car \- 2018 Remaster](https://open.spotify.com/track/3fUppr4UBG8B2nSO7YC6pF) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [The House Of Love \- 2012 Deluxe Version](https://open.spotify.com/album/6iFHLnTdBmVUe5DaHQEjmr) | 4:00 |
+| 4 | [Love in a Car \- 2018 Remaster](https://open.spotify.com/track/3fUppr4UBG8B2nSO7YC6pF) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [The House Of Love \(2012 Deluxe Version\)](https://open.spotify.com/album/6iFHLnTdBmVUe5DaHQEjmr) | 4:00 |
 | 5 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
 | 6 | [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 |
 | 7 | [Rip It Up](https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO) | 5:20 |

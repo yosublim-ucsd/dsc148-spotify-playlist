@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Zeke and the Popo
 
-172 songs - 11 hr 55 min
+173 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Puan, Kau Beri Nyawa](https://open.spotify.com/track/3sFaQyi9kJTJst7Yz8T9Jd) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Puan, Kau Beri Nyawa](https://open.spotify.com/album/04y6W0XCVx2YUvjeD2wcUX) | 3:51 | 2024-03-22 | 2024-04-05 |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2021-11-25 |  |
 | [Pulang](https://open.spotify.com/track/3ITvxT4pByaqbVUImOWeT1) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [3 Hari Untuk Selamanya](https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG) | 3:20 | 2024-07-12 |  |
+| [Putih](https://open.spotify.com/track/7HW7C1NSXomYmZRVYv7m0a) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Sinestesia](https://open.spotify.com/album/1PHrTyrvzRNkM3ni9D1ja0) | 9:46 | 2024-09-20 |  |
 | [Rasa?](https://open.spotify.com/track/6pk39ZvOQcbyRAcGeS4xnC) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Rasa?](https://open.spotify.com/album/3zC0Q5uu3G426SaZdHpoMT) | 3:52 | 2024-03-22 | 2024-04-05 |
 | [Rasuna](https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 5:22 | 2021-11-25 |  |
 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 | 2022-08-04 |  |

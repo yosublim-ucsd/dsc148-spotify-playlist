@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-799 songs - 1 day 18 hr 53 min
+801 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-07-06 | 2021-01-18 |
 | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/track/3OmKuGbtu4U2UnQpDqLXHi) | [Feki](https://open.spotify.com/artist/3oZDqlOiOQTolPJZsxivaN), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/album/0kxZB0MTOz0PIUfHGrVRIj) | 2:45 | 2019-08-27\* | 2020-02-12 |
 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 | 2019-09-27 | 2020-02-12 |
+| [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-20 |  |
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-25 |  |
 | [BYO](https://open.spotify.com/track/3cTnUzT5Xqwwlh6nnngmcQ) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [3033](https://open.spotify.com/album/6t1Fw8UPVG4Q8699YLgKYs) | 3:19 | 2021-03-06 |  |
 | [Can I](https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Can I](https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1) | 3:00 | 2022-10-07 |  |
@@ -706,6 +707,7 @@
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 |  |
 | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/track/4rEAtHXza0kdANkTLUwXM1) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/album/7zmo9jWL7G4xj6oSLXRq0v) | 2:58 | 2020-04-24 | 2021-05-12 |
 | [The One](https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The One](https://open.spotify.com/album/1iIO7Ft3S5Yq6ZG7mb87qs) | 3:20 | 2022-11-18 |  |
+| [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 | 2024-09-20 |  |
 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2020-03-27 | 2021-05-12 |
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2020-12-04 |  |
 | [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-10 |  |

@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp\-bzUrQ>Freke Umoh</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=OiB17V4xTiC44evkJ0hdLg>Reblah</a>
 
-306 songs - 1 day 1 hr 18 min
+307 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 | 2024-04-05 |  |
 | [I Call You Faithful \- \(Album Version\)](https://open.spotify.com/track/20SVrtejK7y780GIfjiG4O) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:25 | 2024-03-29 | 2024-04-05 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2023-12-05 | 2023-12-13 |
-| [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-05-26 |  |
+| [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-05-26 | 2024-09-20 |
 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 | 2023-04-07 | 2023-08-24 |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2023-09-08 | 2023-12-30 |
 | [I Take](https://open.spotify.com/track/6Ov8i3OdWpmaPYefzBbhAN) | [Louis Pascal](https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg), [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [The Pen Of A Ready Writer](https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr) | 2:22 | 2023-12-05 | 2023-12-13 |
@@ -172,6 +172,7 @@
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2024-03-29 | 2024-04-05 |
 | [Kadosh](https://open.spotify.com/track/4svtx39i5LU3p9qss5cWLU) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Worship Rise](https://open.spotify.com/album/0uwPudlOXDSGJdi2QTe5Dp) | 3:58 | 2023-05-26 | 2023-07-14 |
 | [Kadosh Reprise](https://open.spotify.com/track/3f5ofl31bMBhueyCvQL2C5) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Jennifer Lewin](https://open.spotify.com/artist/5clOX0x8wquYNAUUiaA4Rd) | [Kadosh Reprise](https://open.spotify.com/album/1H4eyXpjIaRiX8o8K2LLqM) | 6:00 | 2023-12-05 | 2023-12-13 |
+| [Kingdom Love](https://open.spotify.com/track/0qpm1Y3DmQoln4BA49x3PQ) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Kingdom Love](https://open.spotify.com/album/1mkKTWvru1BNoKlQAHdn79) | 2:46 | 2024-09-20 |  |
 | [Kpeme](https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:31 | 2023-12-05 | 2023-12-13 |
 | [Kumama Papa \- Tiktok refix version](https://open.spotify.com/track/2Pu5TsQ90hDVUZmuNDnzJc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa \(Tiktok refix version\)](https://open.spotify.com/album/2LoujkHDhoCOfHUrP1Hq2x) | 2:04 | 2023-12-05 | 2023-12-13 |
 | [Let the Sparks Fly \- 2023](https://open.spotify.com/track/3sNXJt9GqDcMlmbaiZ4lAG) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Let the Sparks Fly](https://open.spotify.com/album/1SgHuXrG74oPv7PGm6inM3) | 3:50 | 2023-12-29 | 2024-01-08 |

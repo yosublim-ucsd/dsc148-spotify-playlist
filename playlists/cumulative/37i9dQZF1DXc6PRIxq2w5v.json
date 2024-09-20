@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Deus \u00c9 Bom",
+        "url": "https://open.spotify.com/album/2Y5WtCfmk7JPphX2vLHJ5D"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        },
+        {
+          "name": "MjayOficial",
+          "url": "https://open.spotify.com/artist/0z2I4S7RlzK2MlVTa4KDze"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135484,
+      "name": "Deus \u00c9 Bom",
+      "url": "https://open.spotify.com/track/1yQfknWn5iUhLmFjutmZWF"
+    },
+    {
+      "album": {
         "name": "Deus \u00e9 Bom",
         "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
       },
@@ -6972,7 +6994,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 158040,
       "name": "Quando Eu Oro",
       "url": "https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG"
@@ -8057,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "Solid\u00e3o e Arte",
+        "url": "https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162353,
+      "name": "Solid\u00e3o e Arte",
+      "url": "https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw"
+    },
+    {
+      "album": {
         "name": "Sombra",
         "url": "https://open.spotify.com/album/6ArXFQ3UAzWBfz3ADCjUBl"
       },
@@ -8918,7 +8958,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 192000,
       "name": "Vale da Sombra",
       "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"

@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-103 songs - 6 hr 38 min
+104 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Anniversary](https://open.spotify.com/track/6Apn1bEXeeBqCuxzMDekHQ) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:30 | 2024-01-09 |  |
 | [Anniversary](https://open.spotify.com/track/2UTPVDJjgebX1313QNn0hx) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:30 | 2022-10-18 | 2024-04-19 |
 | [Anniversary](https://open.spotify.com/track/7HnxJymLu101xufequpt8m) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:30 | 2024-01-09 |  |
+| [Bring the LOVE！](https://open.spotify.com/track/08jHICuBUw39Mct5JfZ3C5) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [日野下花帆 \(CV.楡井希実\)](https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs), [高坂穂乃果\(CV.新田恵海\)](https://open.spotify.com/artist/4BZs8fDixaE49bgj2xMjPr) | [Bring the LOVE！](https://open.spotify.com/album/4if3euNE5b8VoUpEsLepk3) | 3:43 | 2024-09-19 |  |
 | [Chance Day, Chance Way!](https://open.spotify.com/track/2VGTOU2aAC9KnB0TK6rC13) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ビタミンSUMMER! / Chance Day, Chance Way! \(第6話盤\)](https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF) | 3:35 | 2022-10-18 | 2023-03-15 |
 | [Dancing Heart La\-Pa\-Pa\-Pa!](https://open.spotify.com/track/3KJwVgA2M5SgZ4p0kjMpKk) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 3:18 | 2022-10-18 | 2024-07-08 |
 | [Day1](https://open.spotify.com/track/0yCVqZEUb5yqMkIg5VIzzM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/5rh6WW5CgGcvHVbPrxG8xp) | 3:58 | 2024-01-09 | 2024-08-06 |
@@ -67,7 +68,7 @@
 | [Watashi no Symphony \- 2023 Version](https://open.spotify.com/track/6bKP4erRQWK3MrkPWgx9t0) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Shekira](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 3:58 | 2024-01-09 | 2024-04-19 |
 | [WE WILL!!](https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:36 | 2022-10-18 |  |
 | [Welcome to 僕らのセカイ](https://open.spotify.com/track/3CZM58SiIktg2PzW8ywkRO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 4:20 | 2022-10-18 |  |
-| [What a Wonderful Dream!!](https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 | 2022-10-18 |  |
+| [What a Wonderful Dream!!](https://open.spotify.com/track/585TNUshe0FAEHvgUmUMlZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 | 2022-10-18 | 2024-09-20 |
 | [この街でいまキミと](https://open.spotify.com/track/2OSWhe6d75zEZI9f0szj6s) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [未来は風のように](https://open.spotify.com/album/1ed9Zbcs5HRr7QIg9VTTez) | 4:19 | 2022-10-18 | 2023-03-15 |
 | [だから僕らは鳴らすんだ!](https://open.spotify.com/track/4PiWVzAtJ9hNl8Sjzj7VW2) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [START!! True dreams](https://open.spotify.com/album/17MM2KQuxkklBL8YStU8rY) | 4:05 | 2022-10-18 | 2023-03-15 |
 | [みてろ！](https://open.spotify.com/track/0uRiiumJpHbTCFmCPsYVJ1) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 | 2022-10-18 |  |

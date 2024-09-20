@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "CIRCUIT",
+        "url": "https://open.spotify.com/album/7tMQrniPRyq7MyY79vNONP"
+      },
+      "artists": [
+        {
+          "name": "Mannequin",
+          "url": "https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "CIRCUIT",
+      "url": "https://open.spotify.com/track/7iSenR7827HMZTAt8ICgZT"
+    },
+    {
+      "album": {
         "name": "Classicore",
         "url": "https://open.spotify.com/album/286hhJXW53YZ0ucrec4qnM"
       },
@@ -5501,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/6LFvSZzONeexBEvz9z78uP"
+      },
+      "artists": [
+        {
+          "name": "Momu",
+          "url": "https://open.spotify.com/artist/773lqwv6VeD29M4yCkArJA"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Infinite Torus",
+      "url": "https://open.spotify.com/track/2QrohTiD4xToviZFmzx5c2"
+    },
+    {
+      "album": {
         "name": "INTERMINABLE",
         "url": "https://open.spotify.com/album/7htAdYsWXC7ooHEPY2czoc"
       },
@@ -8710,6 +8746,24 @@
       "duration_ms": 84445,
       "name": "PYRAMID OF GYZA",
       "url": "https://open.spotify.com/track/1auUb2SHzOA45CyafsuGHh"
+    },
+    {
+      "album": {
+        "name": "Synapse",
+        "url": "https://open.spotify.com/album/5cP4G8ARggPY692Jgfghap"
+      },
+      "artists": [
+        {
+          "name": "Another Time",
+          "url": "https://open.spotify.com/artist/6UPkJPAeJXdVccWYXSVFpc"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Quadrant",
+      "url": "https://open.spotify.com/track/5aCUd0qFRMuILkp6SujeQS"
     },
     {
       "album": {

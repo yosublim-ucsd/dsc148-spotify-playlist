@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: King Promise
+> The big Hip\-Life hits rn\. Cover: Camidoh
 
-218 songs - 14 hr 37 min
+220 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 | 2024-05-03 |  |
 | [Been A Fool For You](https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN) | 4:28 | 2023-12-01 | 2023-12-21 |
 | [Been A Fool For You](https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a) | 4:28 | 2023-12-01 | 2024-03-05 |
-| [Bend Your Knees \(Igbo\)](https://open.spotify.com/track/2IPlPMYHB9EKXbbnXEvZBx) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Bend Your Knees \(Igbo\)](https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ) | 3:47 | 2024-08-25 |  |
+| [Bend Your Knees \(Igbo\)](https://open.spotify.com/track/2IPlPMYHB9EKXbbnXEvZBx) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Bend Your Knees \(Igbo\)](https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ) | 3:47 | 2024-08-25 | 2024-09-20 |
 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 | 2024-06-14 | 2024-07-19 |
 | [Bless Me](https://open.spotify.com/track/2gdDfmkJ4UiEK3cJndPaod) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bless Me](https://open.spotify.com/album/0lXhV0ckcu9Uu0LFW7uinP) | 4:51 | 2024-03-04 |  |
 | [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 | 2024-08-31 |
@@ -68,7 +68,7 @@
 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 | 2024-03-05 |
-| [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 |  |
+| [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 | 2024-09-20 |
 | [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 | 2024-08-31 |
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 | 2024-03-05 |
@@ -96,6 +96,7 @@
 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 |  |
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2024-01-11 |
 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 |  |
+| [Iron](https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Iron](https://open.spotify.com/album/5YIeMa14BClS4EbIyBn5tR) | 2:27 | 2024-09-20 |  |
 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 | 2024-04-03 | 2024-05-03 |
 | [Jakpa](https://open.spotify.com/track/0LQCqvg5fiIW0efHyVNw00) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Jakpa](https://open.spotify.com/album/5prApsrXLxrizUMy12DUNU) | 3:05 | 2024-03-04 | 2024-06-15 |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-03-04 | 2024-05-10 |
@@ -135,6 +136,7 @@
 | [Ngozi](https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-29 |
 | [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 | 2022-11-13 |
 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 | 2024-03-05 |
+| [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 | 2024-09-20 |  |
 | [No Love](https://open.spotify.com/track/0MIUBfQeKzmriC5NTNw9wc) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [No Love](https://open.spotify.com/album/15v2CAdHqg1ZTdol3hDdhh) | 2:46 | 2024-05-17 | 2024-06-07 |
 | [No Pressure](https://open.spotify.com/track/4mKGOtHyLWtnYz3dlq7Kkm) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [No Pressure](https://open.spotify.com/album/0Y9msGVNi7dRprttbC0PGU) | 2:55 | 2024-08-16 | 2024-09-13 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2024-03-04 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Lenie",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : SOR4",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 179080,
       "name": "C'EST VRAI OU PAS",
       "url": "https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL"
@@ -142,10 +142,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 166333,
       "name": "Chaque seconde",
       "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
+    },
+    {
+      "album": {
+        "name": "Chaque seconde (feat. M. Pokora)",
+        "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
     },
     {
       "album": {
@@ -204,6 +226,24 @@
       "duration_ms": 198210,
       "name": "Comme un \u00e9clair",
       "url": "https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt"
+    },
+    {
+      "album": {
+        "name": "SOR4",
+        "url": "https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us"
+      },
+      "artists": [
+        {
+          "name": "SOR4",
+          "url": "https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167273,
+      "name": "Comment on s'aime",
+      "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
     },
     {
       "album": {
@@ -374,7 +414,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164557,
       "name": "Enchanti\u00e9e",
       "url": "https://open.spotify.com/track/1njRdxvR3tH8EujVkgpNRI"
@@ -670,6 +710,24 @@
       "duration_ms": 175760,
       "name": "LA DONNE",
       "url": "https://open.spotify.com/track/4jolz1beeQ18zASUMbmwDE"
+    },
+    {
+      "album": {
+        "name": "La fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/4hymmlzwGaYW2F04ZRlqfU"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "La fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE"
     },
     {
       "album": {
@@ -1002,7 +1060,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182546,
       "name": "Nous on sait",
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
@@ -1045,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "On s'\u00e9crira",
+        "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "On s'\u00e9crira",
+      "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
+    },
+    {
+      "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/093D26r87WUjIS9cPvSuOT"
       },
@@ -1056,7 +1136,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169946,
       "name": "Papa",
       "url": "https://open.spotify.com/track/4LXEefVm05vkHCF43zC8bJ"
@@ -1400,6 +1480,24 @@
       "duration_ms": 189760,
       "name": "Ta couleur pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/2qBOBonAOBUyLIls4XRr7s"
+    },
+    {
+      "album": {
+        "name": "Tant pis",
+        "url": "https://open.spotify.com/album/0ZiQ50GgM9ZJ7xBTDCcJ1L"
+      },
+      "artists": [
+        {
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187844,
+      "name": "Tant pis",
+      "url": "https://open.spotify.com/track/6n7hzVFg5Xn7VCthjITRsW"
     },
     {
       "album": {

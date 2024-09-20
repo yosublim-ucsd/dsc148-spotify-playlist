@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,304 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,332 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 8 | [Sauda Khara Khara \- From "Good Newwz"](https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sauda Khara Khara \(From "Good Newwz"\)](https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5) | 3:31 |
 | 9 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
 | 10 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 |
-| 11 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
-| 12 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
-| 13 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Prem & Hardeep](https://open.spotify.com/artist/1KMTSdLr6l8gfRWYa9iXMQ), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/3Ufqd4oqfv4LQ4G0cP71hj) | [Jawaani Jaaneman \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 |
-| 14 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 |
+| 11 | [Feature](https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG) | [Arav Sidhu](https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Feature](https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq) | 2:03 |
+| 12 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
+| 13 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
+| 14 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Prem & Hardeep](https://open.spotify.com/artist/1KMTSdLr6l8gfRWYa9iXMQ), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/3Ufqd4oqfv4LQ4G0cP71hj) | [Jawaani Jaaneman \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 |
 | 15 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 |
 | 16 | [Panjeban](https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Panjeban](https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB) | 3:20 |
 | 17 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 49 | [Daru Band](https://open.spotify.com/track/6o1Pu5qBxa9JzsKOYDbJzV) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Daru Band](https://open.spotify.com/album/419F65C5oUVOVDPqgwJ12t) | 3:17 |
 | 50 | [Prada](https://open.spotify.com/track/6NLzzwFbAD1imLXGBMj9jo) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5) | [Prada](https://open.spotify.com/album/7rQXwz0QDBSB0S0kavDEgK) | 3:05 |
 
-Snapshot ID: `ZqIUdwAAAABaTmbD1Ls6uIVQ3MVkXB9g`
+Snapshot ID: `Zuu75QAAAACibsNNrxTz1VzLWp1TK98L`

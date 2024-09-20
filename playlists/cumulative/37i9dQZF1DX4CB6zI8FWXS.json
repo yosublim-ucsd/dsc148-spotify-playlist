@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Joey Bada$$",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Yo-Sea",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193846,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq"
@@ -1782,6 +1782,28 @@
       "duration_ms": 174248,
       "name": "child of GOD",
       "url": "https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt"
+    },
+    {
+      "album": {
+        "name": "Chipped (feat. Paul Grant)",
+        "url": "https://open.spotify.com/album/6NntNSt2xW3vpEQgkoc0CA"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "Chipped (feat. Paul Grant)",
+      "url": "https://open.spotify.com/track/5msQK0csOeAT6dCL9FBLl1"
     },
     {
       "album": {
@@ -4747,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
+    },
+    {
+      "album": {
         "name": "I'm OK",
         "url": "https://open.spotify.com/album/7KswRniquJQKeP0AnFctC6"
       },
@@ -5902,7 +5942,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 242608,
       "name": "Mama",
       "url": "https://open.spotify.com/track/465KB3bJ4exmQmJWWpF1hJ"
@@ -6004,10 +6044,28 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/1rNWlNl9xcl2vp3v4aUV6s"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170720,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1"
     },
     {
       "album": {
@@ -10360,7 +10418,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189759,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6"
@@ -10708,7 +10766,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 152290,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
@@ -11034,6 +11092,28 @@
       "duration_ms": 243380,
       "name": "We Don't Make Sense",
       "url": "https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4B2gfyDO3wslxRbwWw0w8l"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/71ZF6Lyg6lmqy78h275YMv"
     },
     {
       "album": {
@@ -11640,6 +11720,24 @@
       "duration_ms": 214038,
       "name": "Your Friends (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3051\u8db3\u65cf",
+        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224767,
+      "name": "\u304b\u3051\u8db3\u65cf",
+      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
     },
     {
       "album": {

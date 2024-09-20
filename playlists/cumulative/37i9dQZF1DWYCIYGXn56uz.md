@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Tananai
 
-496 songs - 22 hr 58 min
+500 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 | 2023-05-15 | 2024-03-29 |
 | [Antiproiettile](https://open.spotify.com/track/1RwgqtkCbCWafDa6NFnd1m) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Antiproiettile](https://open.spotify.com/album/77dLEvgklE2aHse254YZVs) | 2:34 | 2024-04-18 | 2024-06-01 |
 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 | 2023-06-08 | 2023-10-06 |
+| [aria](https://open.spotify.com/track/0xryh8A0H9gaqau8JtobTy) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [aria](https://open.spotify.com/album/4jyju09H9enkSvlupvGSZm) | 2:35 | 2024-09-19 |  |
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-06-30 |
 | [Assurdo](https://open.spotify.com/track/3ZXL0jrjFsK5tlMifAohYg) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Assurdo](https://open.spotify.com/album/1m64K87nJYI6lwpCQKET7h) | 3:01 | 2024-01-04 | 2024-03-15 |
 | [ATTIMO](https://open.spotify.com/track/0KM17GZroJQiZUkQZEUH1I) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [ATTIMO](https://open.spotify.com/album/46oN09hGI1JujQaLgv1kbL) | 3:07 | 2024-03-07 | 2024-03-29 |
@@ -248,6 +249,7 @@
 | [LIBERATEMI](https://open.spotify.com/track/1vKqI6G0dSqURi5vxdz09k) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [LIBERATEMI](https://open.spotify.com/album/783m7OtnMt3fv1PcFjPSXw) | 2:22 | 2023-04-20 | 2023-05-19 |
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2023-03-23 | 2023-04-07 |
 | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7) | 2:25 | 2024-07-11 | 2024-07-19 |
+| [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 | 2024-09-19 |  |
 | [LOVE SONG](https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [LOVE SONG](https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1) | 3:11 | 2023-09-21 | 2023-10-20 |
 | [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 | 2024-07-25 |  |
 | [luna di miele](https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 3:02 | 2024-05-23 |  |
@@ -290,6 +292,7 @@
 | [MOSTRO](https://open.spotify.com/track/2AzbPKN2Vf3CUukNZGnjYx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [MOSTRO](https://open.spotify.com/album/21aHeeZe4eCanYhoAPuiaX) | 2:55 | 2023-03-23 | 2023-04-28 |
 | [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-06-12 |  |
 | [MUSICA CUBANA](https://open.spotify.com/track/0eE6mgYwcz6IsAK7Az131Z) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [MUSICA CUBANA](https://open.spotify.com/album/408LOLgn21BkpGEvHu4HzJ) | 2:37 | 2024-08-01 | 2024-09-06 |
+| [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-19 |  |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 |  |
 | [NEVE SU MARTE \(feat\. Annalisa\)](https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FRAGILE](https://open.spotify.com/album/6W0JuhlBiFbVakn06IpC63) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR) | [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo) | 2:45 | 2024-06-20 | 2024-07-19 |
@@ -342,6 +345,7 @@
 | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/album/7xK11JFoSuQ1I6pqYEITzJ) | 3:22 | 2023-09-14 | 2023-11-10 |
 | [PARTE DI ME](https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Donis & Dazzo](https://open.spotify.com/artist/1n4rkQyy6PoU70egXjAQYG) | [PARTE DI ME](https://open.spotify.com/album/2j1M7CmnPiKsvf4JpnFEmd) | 3:07 | 2024-04-18 | 2024-06-01 |
 | [Passatempo](https://open.spotify.com/track/1AbZOYo9Dmi2uLpg1ZhVl4) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [Passatempo](https://open.spotify.com/album/49usaRKGtRl621DLOE3qGv) | 2:57 | 2023-03-30 | 2023-04-14 |
+| [PEGGIO DI COSÌ](https://open.spotify.com/track/7x4PciuQrmMr6YW7SaUjFx) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PEGGIO DI COSÌ](https://open.spotify.com/album/2KBXv5o2hBSE4172C0fXhp) | 2:42 | 2024-09-19 |  |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2023-03-23 | 2023-12-22 |
 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 | 2023-04-13 | 2023-05-19 |
 | [PER AVERTI \(feat\. Rkomi\)](https://open.spotify.com/track/6oHLm5t10rVyFzTdYu0xGx) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [PER AVERTI \(feat\. Rkomi\)](https://open.spotify.com/album/4ZXWhGsqfY4pyJIxmN53Kp) | 3:27 | 2023-03-23 | 2023-09-22 |

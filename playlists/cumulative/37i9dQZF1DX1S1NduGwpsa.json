@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203520,
       "name": "Before You Walk",
       "url": "https://open.spotify.com/track/2ekSaRSd5y7tVl1FKdWy6K"
@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Trumpets of Michel-Ange",
+        "url": "https://open.spotify.com/album/6DG1fFlFCKOfwijUzTjGeZ"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Capitals",
+      "url": "https://open.spotify.com/track/0NOH86zJJPRShN5ShondVZ"
+    },
+    {
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
       },
@@ -1980,6 +2002,28 @@
       "duration_ms": 360093,
       "name": "Chic O'Clock",
       "url": "https://open.spotify.com/track/5823hf55oABckejkndnNXR"
+    },
+    {
+      "album": {
+        "name": "Chop Chop",
+        "url": "https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za"
+      },
+      "artists": [
+        {
+          "name": "Peter Somuah",
+          "url": "https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU"
+        },
+        {
+          "name": "Gyedu-Blay Ambolley",
+          "url": "https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286640,
+      "name": "Chop Chop",
+      "url": "https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS"
     },
     {
       "album": {
@@ -2593,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292786,
+      "name": "Dawn [ft. esperanza spalding]",
+      "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
+    },
+    {
+      "album": {
         "name": "Day Dream",
         "url": "https://open.spotify.com/album/406jynG8Y0juiFhyOaviak"
       },
@@ -3022,7 +3088,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230094,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7akGwptM8F18yYMpWedA1d"
@@ -3660,6 +3726,24 @@
       "duration_ms": 225240,
       "name": "First Shot",
       "url": "https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li"
+    },
+    {
+      "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "album": {
@@ -4613,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190060,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
+    },
+    {
+      "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj"
       },
@@ -5430,7 +5532,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
@@ -5805,6 +5907,28 @@
     },
     {
       "album": {
+        "name": "Joueurs de Blues",
+        "url": "https://open.spotify.com/album/57VvNZxCeOJBlggCNeZcX9"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        },
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Joueurs de Blues",
+      "url": "https://open.spotify.com/track/0EQ1qbMWNqHKx65xI7SK0a"
+    },
+    {
+      "album": {
         "name": "Maelstr\u00f6m",
         "url": "https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz"
       },
@@ -6139,6 +6263,32 @@
     },
     {
       "album": {
+        "name": "La javanaise",
+        "url": "https://open.spotify.com/album/4i3K5vEnyHDGNQlIqfl3AO"
+      },
+      "artists": [
+        {
+          "name": "Pierre G\u00e9nisson",
+          "url": "https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        },
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337560,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/5ViznvnYZBURd5hjnxsyQD"
+    },
+    {
+      "album": {
         "name": "La \u00d1apa",
         "url": "https://open.spotify.com/album/3irpaaj5nCOgJSZe56PNWt"
       },
@@ -6326,7 +6476,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 258045,
       "name": "Let the Creek Rise",
       "url": "https://open.spotify.com/track/6fL9DVn4aYglOZBUkoguzi"
@@ -6406,7 +6556,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 245773,
       "name": "Life in a Wind",
       "url": "https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx"
@@ -6658,7 +6808,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 244000,
       "name": "Love Anthem",
       "url": "https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1"
@@ -6756,6 +6906,28 @@
       "duration_ms": 210066,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/3lauZVK01epUHhvuVmK2uA"
+    },
+    {
+      "album": {
+        "name": "Luned\u00ec Cinema",
+        "url": "https://open.spotify.com/album/7FppMFSh52y4EsaPE5oI5c"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        },
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116226,
+      "name": "Luned\u00ec Cinema",
+      "url": "https://open.spotify.com/track/69Me4kAmiwMxyqarz4zZVW"
     },
     {
       "album": {
@@ -7426,6 +7598,24 @@
       "duration_ms": 235004,
       "name": "Moonlight - Live at The Pool",
       "url": "https://open.spotify.com/track/6gGTm4ceRg1eE604KhJnXX"
+    },
+    {
+      "album": {
+        "name": "Morning Song",
+        "url": "https://open.spotify.com/album/2b50IRXHjpNA23g74a7I3V"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sanz",
+          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/2I7NgypzBFRj5tIa2Q4YTu"
     },
     {
       "album": {
@@ -8658,7 +8848,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 195505,
       "name": "Piano joyeux",
       "url": "https://open.spotify.com/track/63CQJBqsGstpaRu43lBkQY"
@@ -9342,6 +9532,24 @@
       "duration_ms": 232213,
       "name": "Seine de la vie parisienne",
       "url": "https://open.spotify.com/track/4xc9dTPrGEvoHmvdiCYCdT"
+    },
+    {
+      "album": {
+        "name": "Selma Ya Salama",
+        "url": "https://open.spotify.com/album/5Uf2MlHHkesnWRHuk4yzC3"
+      },
+      "artists": [
+        {
+          "name": "Nesrine",
+          "url": "https://open.spotify.com/artist/3nCNWyIpMAMYnnCPrLtNAo"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Selma Ya Salama",
+      "url": "https://open.spotify.com/track/4gNOOYD7qMtHFn3G4mFNHn"
     },
     {
       "album": {
@@ -11918,7 +12126,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214593,
       "name": "Wait A While",
       "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
@@ -12504,7 +12712,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
@@ -12782,7 +12990,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 252378,
       "name": "Zulu Coconuts",
       "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"

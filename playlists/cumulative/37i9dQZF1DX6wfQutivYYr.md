@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Karol G sulla cover della più grande playlist in Italia! 🏆
+> Olly & Angelina Mango sulla cover della più grande playlist in Italia! 🏆
 
 81 songs - 4 hr 6 min
 

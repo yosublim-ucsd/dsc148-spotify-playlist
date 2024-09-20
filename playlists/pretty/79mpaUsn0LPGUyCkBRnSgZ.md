@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 521 songs - 1 day 10 hr 14 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 522 songs - 1 day 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 164 | [Hanif Reads Toni](https://open.spotify.com/track/4qTGN4ThY42Zl4N02II7rX) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Hanif](https://open.spotify.com/artist/4XbJPicIyitMdRuYN1gE7K) | [Beloved! Paradise! Jazz!?](https://open.spotify.com/album/79cZfoRuFR4M6y8Fcn58E3) | 2:23 |
 | 165 | [\#GAMIGANG](https://open.spotify.com/track/1Vfe6FT2Gba7Lz5fbgvyry) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [GAMI GANG](https://open.spotify.com/album/2ohtZdoMSFtr2JrO3lJbB5) | 0:28 |
 | 166 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 |
-| 167 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \- Bonus Track Version](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 |
+| 167 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 |
 | 168 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 |
 | 169 | [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 |
 | 170 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 |
@@ -529,5 +529,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 519 | [Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 2:35 |
 | 520 | [Life's Greatest Fool](https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 4:44 |
 | 521 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 |
+| 522 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
 
-Snapshot ID: `AAAGfrYL5g4h9gBQt0Qo/Jawng7G5d3T`
+Snapshot ID: `AAAGf3sbh71M+j5235X8jiMDeFIzJXzu`

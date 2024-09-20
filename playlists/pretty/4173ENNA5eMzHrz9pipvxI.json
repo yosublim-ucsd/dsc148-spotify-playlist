@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. ",
-  "num_followers": 120184,
+  "num_followers": 120189,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAeAAu2FzLfCeXzQZ0j8zCrq9k2QTJV",
+  "snapshot_id": "AAAeCeDFD5G0E44AX9XEtfq3D/rytF87",
   "tracks": [
     {
       "added_at": "2024-09-13 09:00:55",
@@ -427,6 +427,230 @@
       "duration_ms": 156190,
       "name": "We Don\u2019t Need",
       "url": "https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg"
+    },
+    {
+      "added_at": "2024-09-19 12:01:35",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+    },
+    {
+      "added_at": "2024-09-19 12:02:24",
+      "album": {
+        "name": "Monaco (Live Acoustic)",
+        "url": "https://open.spotify.com/album/1KRdnsgZNQnqDV9Agt4bEG"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Monaco (Live Acoustic)",
+      "url": "https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd"
+    },
+    {
+      "added_at": "2024-09-19 12:03:07",
+      "album": {
+        "name": "Dominvs",
+        "url": "https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R"
+      },
+      "artists": [
+        {
+          "name": "Raffaele Del Zingaro",
+          "url": "https://open.spotify.com/artist/7H5kcgVjOBdswviEpDMNgF"
+        },
+        {
+          "name": "Jumphertz",
+          "url": "https://open.spotify.com/artist/0I91neoDzmKeuzbXTJwCW5"
+        }
+      ],
+      "duration_ms": 182189,
+      "name": "Dominvs",
+      "url": "https://open.spotify.com/track/0t4D3Wpuzn0gMqDeoIC5qh"
+    },
+    {
+      "added_at": "2024-09-19 12:03:59",
+      "album": {
+        "name": "The Chant (feat. Savage) - Anderex Remix",
+        "url": "https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 153036,
+      "name": "The Chant (feat. Savage) - Anderex Remix",
+      "url": "https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ"
+    },
+    {
+      "added_at": "2024-09-19 12:05:10",
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/3VzalDyO27VRVRsuukDl9a"
+      },
+      "artists": [
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/047UnCFE2OuyfRR2kx0o5j"
+        },
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
+        },
+        {
+          "name": "Crasca",
+          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
+        }
+      ],
+      "duration_ms": 158015,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/7532rqVHUqlSfFUMVo65yx"
+    },
+    {
+      "added_at": "2024-09-19 12:06:07",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/3RAfb3xCWXRVo9m77hFwqQ"
+      },
+      "artists": [
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
+        },
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Girls Just Wanna Have Fun",
+      "url": "https://open.spotify.com/track/0bHJwpXNSEYjzxSiADRTfG"
+    },
+    {
+      "added_at": "2024-09-19 12:06:47",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/0JrTNFTEiCBo2UPKtgMSHQ"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        }
+      ],
+      "duration_ms": 165908,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/1I5gFwsDUOcIJoz0sdfHAs"
+    },
+    {
+      "added_at": "2024-09-19 12:07:24",
+      "album": {
+        "name": "Favorite Mistakes (feat. Victoria Nadine) [VIP Mixes]",
+        "url": "https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 150444,
+      "name": "Favorite Mistakes (feat. Victoria Nadine) [HEDEGAARD VIP Mix]",
+      "url": "https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr"
+    },
+    {
+      "added_at": "2024-09-19 12:08:10",
+      "album": {
+        "name": "Hours and Hours (Remixes)",
+        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Hours and Hours - Dropack Remix",
+      "url": "https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF"
+    },
+    {
+      "added_at": "2024-09-19 12:08:10",
+      "album": {
+        "name": "Hours and Hours (Remixes)",
+        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Parallel Lines",
+          "url": "https://open.spotify.com/artist/7fnYvZsEKXKoJtnsu7mgnU"
+        }
+      ],
+      "duration_ms": 283814,
+      "name": "Hours and Hours - Parallel Lines Remix",
+      "url": "https://open.spotify.com/track/5HJp6xSFqoANcH1i6UHaWI"
+    },
+    {
+      "added_at": "2024-09-19 12:08:10",
+      "album": {
+        "name": "Hours and Hours (Remixes)",
+        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Sonnero",
+          "url": "https://open.spotify.com/artist/1UCmm2m2khcmuvzJ0tuqBU"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Hours and Hours - Sonnero Remix",
+      "url": "https://open.spotify.com/track/0vdOEq5yJhtNrpzn2Tx8Xl"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

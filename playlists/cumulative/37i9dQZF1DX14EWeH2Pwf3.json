@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Shiva in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Lazza in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "-3 (PERDERE IL VOLO) (feat. Marracash)",
+      "url": "https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo"
+    },
     {
       "album": {
         "name": "00",
@@ -704,7 +726,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 166153,
       "name": "Adrenalina (feat. BLANCO, Marracash)",
       "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
@@ -1396,7 +1418,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 167111,
       "name": "BACIO DI GIUDA (feat. Mida & VillaBanks)",
       "url": "https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j"
@@ -4300,7 +4322,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207967,
       "name": "EXIT (feat. Lazza & Duki)",
       "url": "https://open.spotify.com/track/1VRJ2mhJ3qjUiAdMKs1H8O"
@@ -4440,6 +4462,28 @@
       "duration_ms": 200213,
       "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188081,
+      "name": "FENTANYL (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc"
     },
     {
       "album": {
@@ -4922,6 +4966,28 @@
       "duration_ms": 144724,
       "name": "GHETTO LOVE (feat. CLARA)",
       "url": "https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "GHETTO SUPERSTAR (feat. Ghali)",
+      "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"
     },
     {
       "album": {
@@ -5512,7 +5578,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164847,
       "name": "HONEY (feat. Lazza & Capo Plaza)",
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
@@ -7438,7 +7504,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214000,
       "name": "MANDANTE",
       "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
@@ -7686,6 +7752,28 @@
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
     },
     {
       "album": {
@@ -12596,6 +12684,36 @@
       "duration_ms": 144210,
       "name": "TT LE GIRLZ (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
+    },
+    {
+      "album": {
+        "name": "Tu Me Quieres",
+        "url": "https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Tu Me Quieres - Prod. by Higashi x Roberto Ferrante",
+      "url": "https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g"
     },
     {
       "album": {

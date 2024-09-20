@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Mala Gestión.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,800 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,810 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 17 | [+ que amigos](https://open.spotify.com/track/01S3BymKdbz4EYl5Iwtkav) | [MADROÑOBOYZZ](https://open.spotify.com/artist/1s2LE3Mm2QgMCzRm6kDQHX), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [+ que amigos](https://open.spotify.com/album/5Uxr0iywxVoMg7GIx7U03h) | 2:52 |
 | 18 | [Un Poco Más](https://open.spotify.com/track/0NTGA9P6SbfgTK38EgixWI) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ), [Laiv](https://open.spotify.com/artist/0xxNvec6IJfdJ0QH7OMos6) | [Un Poco Más](https://open.spotify.com/album/10vgFEtL0nvqNcUIAr8Yb4) | 3:36 |
 | 19 | [Nada es para siempre](https://open.spotify.com/track/13DJhF8vkfQZ9y0lYNbIlu) | [TAURO](https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN) | [Nada es para siempre](https://open.spotify.com/album/60fPPWFXGhMrnQoP4akV4R) | 2:40 |
-| 20 | [de verde y olivo](https://open.spotify.com/track/2HtKZcrj4zJbgYEzr7g1yZ) | [MANVA NEGRA](https://open.spotify.com/artist/4kMQxuSx3x4lNG6BLGmv6w) | [de verde y olivo](https://open.spotify.com/album/47Vqb4Cs78Rdn6AWM8hsNI) | 3:08 |
+| 20 | [de verde y olivo](https://open.spotify.com/track/2HtKZcrj4zJbgYEzr7g1yZ) | [MANVA NEGRA](https://open.spotify.com/artist/4kMQxuSx3x4lNG6BLGmv6w), [JORGE IBIZA CORTÉS](https://open.spotify.com/artist/66OjjFcrQkZUiuUcbvSKrb) | [de verde y olivo](https://open.spotify.com/album/47Vqb4Cs78Rdn6AWM8hsNI) | 3:08 |
 | 21 | [Increíble Rayo Cósmico](https://open.spotify.com/track/7hfjCQ5tEeyI58dCDhoWYq) | [Jason Rivas](https://open.spotify.com/artist/6764SDB0nJncdof1kz3O3U) | [Increíble Rayo Cósmico](https://open.spotify.com/album/4xMgpO5w8bfv3mVevoCMM3) | 2:54 |
 | 22 | [Saudade](https://open.spotify.com/track/4tkXBEaSMtrKblrp8Siuzv) | [Casi Famosos](https://open.spotify.com/artist/7Br1PZyaa58mje6Ova9sBK) | [Saudade](https://open.spotify.com/album/3tyMos1FttaIA2Igyb4YIE) | 2:51 |
 | 23 | [De Plástico](https://open.spotify.com/track/5BH9Eb31sQVmfsyzDHj5UT) | [La Culpa](https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx) | [Clavos en el Tiempo](https://open.spotify.com/album/6dCGkj7igWUeC6zfYEV5BG) | 1:39 |

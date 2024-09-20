@@ -1,12 +1,12 @@
 {
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp-bzUrQ>Freke Umoh</a>",
-  "num_followers": 32441,
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=OiB17V4xTiC44evkJ0hdLg>Reblah</a>",
+  "num_followers": 32456,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuRr1gAAAAAI0LzEkmt2TdwMoFAzSnsv",
+  "snapshot_id": "Zuy7PAAAAAAh9Sd4jpRYCx2kpAUE4f/x",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
     },
     {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Kingdom Love",
+        "url": "https://open.spotify.com/album/1mkKTWvru1BNoKlQAHdn79"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Kingdom Love",
+      "url": "https://open.spotify.com/track/0qpm1Y3DmQoln4BA49x3PQ"
+    },
+    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
@@ -69,22 +85,6 @@
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
       "added_at": "2024-09-06 00:01:00",
       "album": {
         "name": "Courts",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Believe For It",
@@ -119,22 +135,6 @@
       "duration_ms": 297693,
       "name": "Goodness Of God - Live",
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Don't Fight Alone",
-        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 240097,
-      "name": "Don't Fight Alone",
-      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -179,22 +179,18 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Life After Death",
-        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
+        "name": "Don't Fight Alone",
+        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Cornerstone (feat. Zach Williams)",
-      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
+      "duration_ms": 240097,
+      "name": "Don't Fight Alone",
+      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -225,6 +221,26 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Life After Death",
+        "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Cornerstone (feat. Zach Williams)",
+      "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "B'Ola (Honour)",
@@ -239,26 +255,6 @@
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Take Me to the River (I Will Swim)",
-        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
-      },
-      "artists": [
-        {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
-        }
-      ],
-      "duration_ms": 176104,
-      "name": "Take Me to the River (I Will Swim)",
-      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -309,6 +305,42 @@
       "url": "https://open.spotify.com/track/6ZcTz36h42wamrZbhkkEHs"
     },
     {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "Take Me to the River (I Will Swim)",
+        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "duration_ms": 176104,
+      "name": "Take Me to the River (I Will Swim)",
+      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
+    },
+    {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "AMEN ALBUM",
+        "url": "https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "Covered by Grace",
+      "url": "https://open.spotify.com/track/3vzHLZAnhOUb6eDlKQEHQg"
+    },
+    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "GOD IS GOOD",
@@ -329,20 +361,20 @@
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
-      "added_at": "2024-09-06 00:01:00",
+      "added_at": "2024-09-13 16:44:06",
       "album": {
-        "name": "AMEN ALBUM",
-        "url": "https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK"
+        "name": "Done me well - Live",
+        "url": "https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3"
       },
       "artists": [
         {
-          "name": "MUNGU FENI",
-          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+          "name": "Segun John",
+          "url": "https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2"
         }
       ],
-      "duration_ms": 177658,
-      "name": "Covered by Grace",
-      "url": "https://open.spotify.com/track/3vzHLZAnhOUb6eDlKQEHQg"
+      "duration_ms": 522958,
+      "name": "Done me well - Live",
+      "url": "https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -365,22 +397,6 @@
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
-      "added_at": "2024-09-13 16:44:06",
-      "album": {
-        "name": "Done me well - Live",
-        "url": "https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3"
-      },
-      "artists": [
-        {
-          "name": "Segun John",
-          "url": "https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2"
-        }
-      ],
-      "duration_ms": 522958,
-      "name": "Done me well - Live",
-      "url": "https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3"
-    },
-    {
       "added_at": "2024-04-26 00:01:00",
       "album": {
         "name": "The Great Commission",
@@ -399,26 +415,6 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -455,6 +451,26 @@
       "duration_ms": 183050,
       "name": "You Are Great",
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -497,22 +513,6 @@
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -587,6 +587,22 @@
       "duration_ms": 156108,
       "name": "E Dey Flow",
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -793,26 +809,6 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chigozie Achugo",
-          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
-        }
-      ],
-      "duration_ms": 271438,
-      "name": "You Are God (feat. Chigozie Achugo)",
-      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Grace (Live/Deluxe)",
@@ -847,6 +843,26 @@
       "duration_ms": 220545,
       "name": "No Greater Love",
       "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chigozie Achugo",
+          "url": "https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko"
+        }
+      ],
+      "duration_ms": 271438,
+      "name": "You Are God (feat. Chigozie Achugo)",
+      "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -897,26 +913,6 @@
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Son of God (& Imela)",
-        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Enitan Adaba",
-          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
-        }
-      ],
-      "duration_ms": 354572,
-      "name": "Imela (feat. Enitan Adaba)",
-      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Chapter Two",
@@ -959,18 +955,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+        "name": "The Son of God (& Imela)",
+        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Enitan Adaba",
+          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
         }
       ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+      "duration_ms": 354572,
+      "name": "Imela (feat. Enitan Adaba)",
+      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     }
   ],
   "unique_name": "Testify",

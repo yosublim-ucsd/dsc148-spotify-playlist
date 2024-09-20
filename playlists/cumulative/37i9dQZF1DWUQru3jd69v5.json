@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Low-Red in cover",
+  "description": "Raspyy in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 278802,
       "name": "1234 POSSE (feat. Faneto, Artie 5ive, Astro, Niky Savage, Lito, Low-Red, Kid Yugi, RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135211,
       "name": "Acelera",
       "url": "https://open.spotify.com/track/0IFP432yqZum54SnELuKHH"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 129136,
       "name": "Casa Di Nonna (feat. Papa V)",
       "url": "https://open.spotify.com/track/2ZwiOSkaCWcQ19GgMjmcb9"
@@ -6995,6 +6995,28 @@
     },
     {
       "album": {
+        "name": "Diamanti Persi",
+        "url": "https://open.spotify.com/album/1MYwG2fmIjA52JcICcGJoh"
+      },
+      "artists": [
+        {
+          "name": "JELECROIS",
+          "url": "https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP"
+        },
+        {
+          "name": "Milano Mobster",
+          "url": "https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Diamanti Persi",
+      "url": "https://open.spotify.com/track/2nR854DsAZWRlPJHAPpxf9"
+    },
+    {
+      "album": {
         "name": "Diario del Bando 2",
         "url": "https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8"
       },
@@ -7404,6 +7426,32 @@
       "duration_ms": 161352,
       "name": "DRIN DRIN (feat. LJK)",
       "url": "https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD"
+    },
+    {
+      "album": {
+        "name": "DRIP (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "DRIP (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
     },
     {
       "album": {
@@ -7840,6 +7888,24 @@
       "duration_ms": 166736,
       "name": "Emotions (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq"
+    },
+    {
+      "album": {
+        "name": "ENEMIES",
+        "url": "https://open.spotify.com/album/0Wnb1e4sXWNpoPK3CrjIut"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120043,
+      "name": "ENEMIE2",
+      "url": "https://open.spotify.com/track/76u819Qt0qds4r3GfVHOEB"
     },
     {
       "album": {
@@ -8764,6 +8830,24 @@
       "duration_ms": 101647,
       "name": "FIGLIO DI PAPI",
       "url": "https://open.spotify.com/track/72YluxGFurbKqbplTgWFBp"
+    },
+    {
+      "album": {
+        "name": "FILLER",
+        "url": "https://open.spotify.com/album/4f6ZrCXaC1yxTo6QT1bHvT"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171221,
+      "name": "FILLER",
+      "url": "https://open.spotify.com/track/3DMSz9IhDVwCl0UEyAFnVP"
     },
     {
       "album": {
@@ -10076,7 +10160,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 149691,
       "name": "Gli Uomini Ti Scammano (Tutorial 3)",
       "url": "https://open.spotify.com/track/74aqL0F3igurqJUxizBt2u"
@@ -14767,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "Martire",
+        "url": "https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r"
+      },
+      "artists": [
+        {
+          "name": "Rayan & Intifaya",
+          "url": "https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "Martire",
+      "url": "https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5"
+    },
+    {
+      "album": {
         "name": "MARYMARY",
         "url": "https://open.spotify.com/album/3EprkkwftNaHwjMyVSh7cu"
       },
@@ -15557,6 +15659,24 @@
     },
     {
       "album": {
+        "name": "MILANOBELLADADIO",
+        "url": "https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL"
+      },
+      "artists": [
+        {
+          "name": "Raspyy",
+          "url": "https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114929,
+      "name": "MILANOBELLADADIO",
+      "url": "https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F"
+    },
+    {
+      "album": {
         "name": "MILKA",
         "url": "https://open.spotify.com/album/4HrdgI2KCz1ROl1GlrumeR"
       },
@@ -15878,7 +15998,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 138996,
       "name": "MODEM",
       "url": "https://open.spotify.com/track/0ol4jOFFh80BGkb6q4j0YL"
@@ -16538,7 +16658,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 143702,
       "name": "MY BOO",
       "url": "https://open.spotify.com/track/5KYsIT6wnW54LCJ1inu3Xm"
@@ -21283,6 +21403,24 @@
     },
     {
       "album": {
+        "name": "RIP",
+        "url": "https://open.spotify.com/album/5fVm5sLJr1a7oVApONzlFq"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138333,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/2hlm13i9IpSFjOT1dbrJGq"
+    },
+    {
+      "album": {
         "name": "Fame di Rivalsa",
         "url": "https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC"
       },
@@ -21870,7 +22008,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 147750,
       "name": "SAILOR MOON (feat. Sacky)",
       "url": "https://open.spotify.com/track/3iLsttjW4zAVo4NfJJ5MHK"
@@ -25528,7 +25666,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188842,
       "name": "Trench Code (feat. Faneto)",
       "url": "https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok"
@@ -25568,6 +25706,28 @@
       "duration_ms": 122677,
       "name": "Trendsetter",
       "url": "https://open.spotify.com/track/2SektBPshBcB4rLKQUxDQY"
+    },
+    {
+      "album": {
+        "name": "Trincee (feat. Rondodasosa)",
+        "url": "https://open.spotify.com/album/2mKjDMufiYjhZbAuiAplZc"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Trincee (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/2tsrnrD6DVCfxVUn0oEPTR"
     },
     {
       "album": {
@@ -25784,7 +25944,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176000,
       "name": "tutte le mie notti",
       "url": "https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY"
@@ -26490,6 +26650,28 @@
       "duration_ms": 147310,
       "name": "Victoria's Secret (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
+    },
+    {
+      "album": {
+        "name": "VIEN",
+        "url": "https://open.spotify.com/album/07lUE05Kpe2i0K7u8jgZm5"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "VIEN",
+      "url": "https://open.spotify.com/track/4HeOiMGIHqTbknru5JDOT2"
     },
     {
       "album": {

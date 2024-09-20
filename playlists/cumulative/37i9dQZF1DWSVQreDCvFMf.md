@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
 
-153 songs - 9 hr 46 min
+154 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |
 | [Hiraya](https://open.spotify.com/track/7hKefTBNDE5VuVruNmvu5N) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Hiraya](https://open.spotify.com/album/7nb9CSpOvsRJbrCXPLIJtt) | 4:12 | 2024-07-02 | 2024-07-09 |
+| [Hiwaga](https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Hiwaga](https://open.spotify.com/album/76OJy2zIxbNCDMKivaLNpd) | 3:53 | 2024-09-19 |  |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-07-02 | 2024-07-19 |
 | [I hope you're doing well](https://open.spotify.com/track/6RxfdQPBpHHrPokap0mzzq) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [I hope you're doing well](https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m) | 3:31 | 2024-09-06 |  |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-02 |  |

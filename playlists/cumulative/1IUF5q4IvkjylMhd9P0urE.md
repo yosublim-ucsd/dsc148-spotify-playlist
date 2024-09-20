@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-655 songs - 1 day 13 hr 53 min
+657 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-23 | 2023-10-20 |
 | [Caution](https://open.spotify.com/track/6WH3twQZkHy9gEgm9p0KAz) | [Bony Fly](https://open.spotify.com/artist/4txxnm9n7BbkE5Srh1hvhb) | [Cabal](https://open.spotify.com/album/5iJjtQm6vFxxLXRJ6GjpWe) | 2:54 | 2022-12-15 | 2023-02-11 |
 | [CHAKRa](https://open.spotify.com/track/0X8wuklQTi8fVrdeNAj6Au) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [YaTOO + CHAKRa](https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy) | 2:15 | 2024-09-07 |  |
+| [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2024-09-19 |  |
 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-23 | 2023-10-20 |
 | [Channel Your Anger](https://open.spotify.com/track/2r8UcAkXvBxNt6O34pnpxo) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 4:47 | 2022-10-10 | 2023-01-19 |
 | [Charlie](https://open.spotify.com/track/0AADlRaTFNy5eL6dCy2IRo) | [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9) | [Charlie](https://open.spotify.com/album/5r6dJqvZoJYqFlHIFnVOCs) | 5:46 | 2024-09-07 |  |
@@ -157,6 +158,7 @@
 | [Cry Without End \- Equiknoxx Remix, part 1](https://open.spotify.com/track/7ss4nVdsmqiNADdAv1QKGv) | [SAM MORTON](https://open.spotify.com/artist/3AUG2k8d0nEovQT9uleNPq), [Equiknoxx](https://open.spotify.com/artist/6FbXoMCYyZ0YgBY8CzrlS6) | [Cry Without End \(Equiknoxx Remix, part 1\)](https://open.spotify.com/album/2ZTvKjQ6UfGPKuD6I8GcQn) | 5:37 | 2024-09-07 |  |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-21 | 2024-09-08 |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2022-10-10 | 2022-12-20 |
+| [Cyan Blue \- Live at Maida Vale](https://open.spotify.com/track/1duAM9Na66GNZvfK4JXhqR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Charlotte Day Wilson Live at Maida Vale](https://open.spotify.com/album/7doBS2ss9PFnCpfltsDadg) | 2:54 | 2024-09-19 |  |
 | [D 4 N](https://open.spotify.com/track/2qBLm8T8vfrB4ckc9yByhi) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [D 4 N](https://open.spotify.com/album/0wrQNZzeksleaKfKGc92NH) | 5:25 | 2023-08-03 | 2024-03-22 |
 | [Daddy](https://open.spotify.com/track/7FOaukJwvpts8X2g48kXSi) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Daddy](https://open.spotify.com/album/5wI4yxpS20ZASlkALcKN2z) | 4:06 | 2023-03-15 | 2023-07-04 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-09-07 |  |

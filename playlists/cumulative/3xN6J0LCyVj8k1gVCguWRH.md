@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-3,934 songs - 9 day 5 hr 18 min
+3,937 songs - 9 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1137,6 +1137,7 @@
 | [Feel Alright](https://open.spotify.com/track/503wBuHZS6Y0NeMU5x5ORS) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Feel Alright](https://open.spotify.com/album/1nSygjYUhxXUFHPL81Crz5) | 2:22 | 2021-09-04 | 2022-02-06 |
 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 | 2022-04-29 | 2022-05-15 |
 | [Feel Infinity](https://open.spotify.com/track/21TArjiFP7xKOCGVMKlShP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Feel Infinity](https://open.spotify.com/album/3iDcLGZK4E8EX4AL0iTfqw) | 3:15 | 2020-04-12 | 2020-04-25 |
+| [Feel it](https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Feel It](https://open.spotify.com/album/3ByY2aAABrEwPf61Ex7zT0) | 3:15 | 2024-09-19 |  |
 | [Feel Like Home](https://open.spotify.com/track/4cPsK6f8ErDfqVNwJkSiKq) | [Emmanuel Franco](https://open.spotify.com/artist/0CCkqy7dxiaL42wQcbhpeH) | [Feel Like Home](https://open.spotify.com/album/38IzST20LmkRtzFfKaPRQx) | 3:19 | 2021-11-20 | 2022-04-17 |
 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 | 2022-07-22 | 2022-08-08 |
 | [Feel Me](https://open.spotify.com/track/3tkPbqHL6u54kajQmXzBNy) | [BContheTrack](https://open.spotify.com/artist/6nU8yWD7zEyOYw647iHgrW), [Beaux](https://open.spotify.com/artist/24sHuQcJEHBZc86B65tRiX) | [Feel Me](https://open.spotify.com/album/0gU1rllffZVsxEEgauVJSV) | 2:23 | 2023-05-26 | 2023-06-17 |
@@ -1733,6 +1734,7 @@
 | [In The Kitchen](https://open.spotify.com/track/2z1p5RMHXtIRtCDW1T0etZ) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [In The Kitchen](https://open.spotify.com/album/04a6Y7k3OtUm3DKwUzFO9o) | 2:31 | 2021-10-23 | 2021-11-07 |
 | [In the Middle](https://open.spotify.com/track/13Laiar8MFcjtGC751Xbth) | [Desert Mambas](https://open.spotify.com/artist/2Xcu6O14xGAF8WS2xJT2oX) | [In the Middle](https://open.spotify.com/album/3vo8KAiIgLEaw3ePXZcNwJ) | 2:33 | 2023-06-09 | 2023-06-30 |
 | [In The Middle of The Game](https://open.spotify.com/track/2Pb1PyhmGAuQPl6Vk9MxlH) | [Eve Rosja'](https://open.spotify.com/artist/1daqYzrk0ZRDcbFTRfGlCr) | [In The Middle of The Game](https://open.spotify.com/album/4rAJin1Fvs896RKBmp1m78) | 3:49 | 2024-06-12 | 2024-06-24 |
+| [In The Mood](https://open.spotify.com/track/4oGvFg5XEGVoyJ4vMyy1db) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [In The Mood](https://open.spotify.com/album/1ei39QNC7IxOd8wVSEhCBA) | 3:18 | 2024-09-19 |  |
 | [In the Night](https://open.spotify.com/track/5MRxebGV84pKaV1HQmPUsR) | [SOMA](https://open.spotify.com/artist/3kBialmR0u2rd85GwC54hx) | [In the Night](https://open.spotify.com/album/1qJwiNWHZbS3CUOY6PWoz8) | 3:09 | 2021-06-04 | 2021-06-20 |
 | [In the Open](https://open.spotify.com/track/6NCtK5h2WV5r2pGo5zBY4v) | [JAMESC.EU](https://open.spotify.com/artist/4IpjUg9YAo8eb0iopzqUqF) | [3](https://open.spotify.com/album/4Ws2VRaDU4QIsAWeKVdM30) | 2:47 | 2024-04-19 | 2024-04-30 |
 | [In Time](https://open.spotify.com/track/71d0LLbBBL4jSSW6wEi46L) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [In Time](https://open.spotify.com/album/5XZ7G9zMJi24jBlHPCvJov) | 3:09 | 2022-10-07 | 2022-10-29 |
@@ -3559,6 +3561,7 @@
 | [Tuesday](https://open.spotify.com/track/1dteoSlOryXd0OgghCm1QO) | [STREAMLYNE](https://open.spotify.com/artist/62qsp33q5CVMl9FzQyH14Z) | [Tuesday](https://open.spotify.com/album/2pJeIiKxfCM5DMg7Z7ScvU) | 3:46 | 2020-12-25 | 2021-01-09 |
 | [Tulip Girl](https://open.spotify.com/track/7jdbYJi1X4aGAB0gS3aLiD) | [Luego](https://open.spotify.com/artist/4BbSoSyv1hi5DUIQy8AdnL) | [Ristretto](https://open.spotify.com/album/6I5JKptxyigh74bILx904l) | 3:54 | 2023-02-10 | 2023-05-27 |
 | [Tumbling Dice](https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:46 | 2021-07-11 | 2024-04-21 |
+| [Tunnels](https://open.spotify.com/track/67KIcqIxHXdEeDzGzrws88) | [Orbit 17](https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8) | [Tunnels](https://open.spotify.com/album/0CnUuDUZlurypPr7t9ukNr) | 3:31 | 2024-09-19 |  |
 | [Turbo](https://open.spotify.com/track/4t7eqr4WKrAqvnhXBWwGRh) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Turbo](https://open.spotify.com/album/5MiBPRTqS9H3P8Kgd0NF9i) | 2:35 | 2020-12-11 | 2020-12-26 |
 | [Turn Back Time](https://open.spotify.com/track/2XUIkIILwkuanYhmnGHCiT) | [Rachel Barnes](https://open.spotify.com/artist/23lZ8vn5pRfuiNEIkBZnWi) | [Turn Back Time](https://open.spotify.com/album/4Red8xI74wRj2np6fGntAL) | 3:22 | 2024-08-28 | 2024-09-07 |
 | [Turn the Radio Up](https://open.spotify.com/track/4vsh2XzY2gON5xpPuS8ktO) | [Pep Rally](https://open.spotify.com/artist/0AZBC6CqzryEVNHejdOn6j) | [Turn the Radio Up](https://open.spotify.com/album/7kTPw6anTCe3OJhzFHin2k) | 3:34 | 2022-04-22 | 2022-05-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 29766,
+  "num_followers": 29767,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAABpTZtATlI1E35s+W+v7i7/",
+  "snapshot_id": "ZuoYAAAAAAC3yQZQmYHMgK5cLwd78I7C",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTiNUE",
-        "url": "https://open.spotify.com/album/0eIsz8eZgH87x9ZVSRyirR"
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
       },
       "artists": [
-        {
-          "name": "CHiCO",
-          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
-        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 241026,
-      "name": "\u6211\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/6Z6WQkTZiGX0nWRhENBi3H"
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+        "name": "CONTiNUE",
+        "url": "https://open.spotify.com/album/0eIsz8eZgH87x9ZVSRyirR"
       },
       "artists": [
+        {
+          "name": "CHiCO",
+          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
+        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 225800,
-      "name": "GLORY DAYS",
-      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
+      "duration_ms": 241026,
+      "name": "\u6211\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/6Z6WQkTZiGX0nWRhENBi3H"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "United Sparrows",
-        "url": "https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj"
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 222693,
-      "name": "United Sparrows",
-      "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INNOSENSE Special Edition",
-        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "INNOSENSE",
-      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MICROCOSM",
         "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
-        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
+        "name": "INNOSENSE Special Edition",
+        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
       },
       "artists": [
         {
@@ -684,9 +668,25 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 245693,
-      "name": "\u30e1\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+      "duration_ms": 242373,
+      "name": "INNOSENSE",
+      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "United Sparrows",
+        "url": "https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "United Sparrows",
+      "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"
     },
     {
       "added_at": null,

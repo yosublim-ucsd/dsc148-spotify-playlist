@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14500,
+  "num_followers": 14499,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Matecki",
-        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
-      },
-      "artists": [
-        {
-          "name": "Matecki",
-          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
-        }
-      ],
-      "duration_ms": 181548,
-      "name": "Summerland",
-      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Piosenki domowe",
         "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 127535,
       "name": "Coincidence - Part 1 - Prologue",
       "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Matecki",
+        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
+      },
+      "artists": [
+        {
+          "name": "Matecki",
+          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
+        }
+      ],
+      "duration_ms": 181548,
+      "name": "Summerland",
+      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Koncert w Rozmarino",
-        "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
-      },
-      "artists": [
-        {
-          "name": "S\u0142awek Wierzcholski",
-          "url": "https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y"
-        },
-        {
-          "name": "Nocna Zmiana Bluesa",
-          "url": "https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I"
-        }
-      ],
-      "duration_ms": 301021,
-      "name": "Polski blues",
-      "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Flying Lion",
         "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 364149,
       "name": "Hi 5",
       "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Koncert w Rozmarino",
+        "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
+      },
+      "artists": [
+        {
+          "name": "S\u0142awek Wierzcholski",
+          "url": "https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y"
+        },
+        {
+          "name": "Nocna Zmiana Bluesa",
+          "url": "https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I"
+        }
+      ],
+      "duration_ms": 301021,
+      "name": "Polski blues",
+      "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
     },
     {
       "added_at": "2024-03-25 08:52:09",

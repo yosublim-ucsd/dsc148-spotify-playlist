@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Our Mirage",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: All Time Low",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -270,10 +270,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 143312,
       "name": "Alameda Takedown",
       "url": "https://open.spotify.com/track/5AKZqtv8OIc17e3Hq2pJm0"
+    },
+    {
+      "album": {
+        "name": "Megalomanium II",
+        "url": "https://open.spotify.com/album/2qcRovVIQoONJXgO5EMG6G"
+      },
+      "artists": [
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4Vtj3Az6rt21hxQs3IsN0b"
     },
     {
       "album": {
@@ -456,6 +474,24 @@
       "duration_ms": 219468,
       "name": "ARTIFICIAL",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "album": {
+        "name": "The Surface (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "ATTN.",
+      "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
     },
     {
       "album": {
@@ -887,6 +923,24 @@
     },
     {
       "album": {
+        "name": "COME ALIVE",
+        "url": "https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "COME ALIVE",
+      "url": "https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ"
+    },
+    {
+      "album": {
         "name": "Come Undone",
         "url": "https://open.spotify.com/album/554Oi7129Uejpl9k9lNBJt"
       },
@@ -898,7 +952,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 210640,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/0R8u2YkiDG0rr6sfGn44PX"
@@ -1000,6 +1054,24 @@
       "duration_ms": 188155,
       "name": "DANCE WITH ME",
       "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
+    },
+    {
+      "album": {
+        "name": "Dancing On Our Graves",
+        "url": "https://open.spotify.com/album/4ByYuycBApJhP2etbfsrzF"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Dancing On Our Graves",
+      "url": "https://open.spotify.com/track/1YBV9KZxVbZX98glIFxfvy"
     },
     {
       "album": {
@@ -1308,7 +1380,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209189,
       "name": "EYE FOR AN EYE",
       "url": "https://open.spotify.com/track/4SmbjgQFYXh8HnfrLmr6Fq"
@@ -1508,7 +1580,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191666,
       "name": "Fuse",
       "url": "https://open.spotify.com/track/0UYOncanPfTJVemojPksIP"
@@ -1551,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "God Gets You Back",
+        "url": "https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400842,
+      "name": "God Gets You Back",
+      "url": "https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K"
+    },
+    {
+      "album": {
         "name": "GOING PLACES",
         "url": "https://open.spotify.com/album/6TyCueMW56lTdTihls5zVY"
       },
@@ -1562,7 +1652,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176321,
       "name": "GOING PLACES",
       "url": "https://open.spotify.com/track/6Cg9KS7mamFAA0UYrlnLYI"
@@ -1657,6 +1747,28 @@
     },
     {
       "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "album": {
         "name": "HEAT ME UP",
         "url": "https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt"
       },
@@ -1690,7 +1802,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 200026,
       "name": "Heavy Lifting",
       "url": "https://open.spotify.com/track/5TwyfOdwtktWwmTXOXlJZV"
@@ -1994,7 +2106,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 153200,
       "name": "It Is What It Is Till It Is What It Isn't",
       "url": "https://open.spotify.com/track/003GV9E40ndIuqo9eZYrYD"
@@ -2243,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "The Surface Seems So Far",
+        "url": "https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273173,
+      "name": "Lost All Control",
+      "url": "https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6"
+    },
+    {
+      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -2316,6 +2446,28 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
+        "name": "Masochistic Lovers",
+        "url": "https://open.spotify.com/album/1wlFijcLqrd0mQbBrVzUe8"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "Masochistic Lovers",
+      "url": "https://open.spotify.com/track/0J5uv1lTpYslQnbSlWBQYL"
     },
     {
       "album": {
@@ -2966,7 +3118,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 220285,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/07lDQBet0tjH77t5T1YtGH"
@@ -3056,7 +3208,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 206015,
       "name": "Shadowlight",
       "url": "https://open.spotify.com/track/1U292iuwphTOCGq1npE5Az"
@@ -3132,6 +3284,24 @@
       "duration_ms": 191188,
       "name": "Silence & The Sound",
       "url": "https://open.spotify.com/track/46DNOidW3taZozJggUr1Sd"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225175,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
     },
     {
       "album": {
@@ -3327,6 +3497,32 @@
     },
     {
       "album": {
+        "name": "Greetings From Suffocate City",
+        "url": "https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Spencer Charnas",
+          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/6KGn5dPsENHWHcgvZLIo0o"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -3356,7 +3552,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 187444,
       "name": "Sweet Machine",
       "url": "https://open.spotify.com/track/2d4E9PWXoxCZ0JDXyqKmdq"

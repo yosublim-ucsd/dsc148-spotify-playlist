@@ -575,6 +575,32 @@
     },
     {
       "album": {
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Ashewo",
+      "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "album": {
         "name": "Last Son of a Widow",
         "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
       },
@@ -857,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147955,
+      "name": "BACK IN OFFICE",
+      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
+    },
+    {
+      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -1022,7 +1066,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185714,
       "name": "Bag of Money",
       "url": "https://open.spotify.com/track/6oB9epBZc6bnBjAgUCiIq0"
@@ -2034,7 +2078,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170727,
       "name": "Catch Me Outside",
       "url": "https://open.spotify.com/track/0UWyHT8g7D7XYMCdeNfTQV"
@@ -2219,6 +2263,32 @@
     },
     {
       "album": {
+        "name": "Close To Me (feat. Bnxn)",
+        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "Close To Me (feat. Bnxn)",
+      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+    },
+    {
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -2358,7 +2428,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
@@ -2782,7 +2852,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
@@ -3396,7 +3466,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135652,
       "name": "Emmanuella",
       "url": "https://open.spotify.com/track/3sgFQajQAvJTYny1e8pJS4"
@@ -3782,7 +3852,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 133561,
       "name": "FILE FUN",
       "url": "https://open.spotify.com/track/1u928hWuzkxEIipQCl0tCx"
@@ -4038,7 +4108,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 166071,
       "name": "FREE",
       "url": "https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA"
@@ -4410,7 +4480,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "Gon Gon",
       "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
@@ -5208,7 +5278,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 139285,
       "name": "Jigga (feat. Khaid)",
       "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
@@ -5434,6 +5504,52 @@
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+    },
+    {
+      "album": {
+        "name": "Kautaka - Remix",
+        "url": "https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "JFS Music",
+          "url": "https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "Kautaka - Remix",
+      "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
     },
     {
       "album": {
@@ -8838,7 +8954,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 201428,
       "name": "Shagara",
       "url": "https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl"
@@ -10092,7 +10208,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 145200,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi"
@@ -11020,7 +11136,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141756,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/1VgZTEM4FOofjI503IAqWr"

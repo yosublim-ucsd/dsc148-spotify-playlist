@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 56930,
+  "num_followers": 56949,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAAAfysOKrGZLLXXK+bPeHdQ7",
+  "snapshot_id": "ZuoYAAAAAADOTt2nBzLhSnDmEu3/cCR2",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 238826,
-      "name": "-1",
-      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
+      "duration_ms": 328733,
+      "name": "Nothing To Gein",
+      "url": "https://open.spotify.com/track/099F8DBwudywg5KK6WVFox"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 328733,
-      "name": "Nothing To Gein",
-      "url": "https://open.spotify.com/track/099F8DBwudywg5KK6WVFox"
+      "duration_ms": 238826,
+      "name": "-1",
+      "url": "https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
+      "duration_ms": 196866,
+      "name": "Central Disposal",
+      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Central Disposal",
-      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
+      "duration_ms": 303600,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
     },
     {
       "added_at": null,

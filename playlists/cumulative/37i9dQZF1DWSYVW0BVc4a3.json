@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "6 in the morning",
+  "description": "pedro is back!!",
   "name": "Open Air",
   "tracks": [
     {
@@ -8909,6 +8909,28 @@
     },
     {
       "album": {
+        "name": "in2minds",
+        "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "in2minds",
+      "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
+    },
+    {
+      "album": {
         "name": "In2u",
         "url": "https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud"
       },
@@ -9875,7 +9897,7 @@
     },
     {
       "album": {
-        "name": "Lately - Adam Ten & Mita Gami Remix",
+        "name": "Lately (Adam Ten & Mita Gami Remix)",
         "url": "https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc"
       },
       "artists": [
@@ -10684,6 +10706,24 @@
       "duration_ms": 268355,
       "name": "Looking at Your Pager - Solomun Remix",
       "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
+    },
+    {
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/2EI7k906rqXDFYPfLuRUmf"
+      },
+      "artists": [
+        {
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192673,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/4nj114fJEOxfSFobiIn1Bj"
     },
     {
       "album": {
@@ -12590,6 +12630,24 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "album": {
+        "name": "Nextune",
+        "url": "https://open.spotify.com/album/6KRNMKJEIyfbcDMUCXVgB8"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Nextune",
+      "url": "https://open.spotify.com/track/7IcupNXghoI17ZQ2KtCpXN"
     },
     {
       "album": {
@@ -20582,6 +20640,24 @@
       "duration_ms": 294198,
       "name": "Volar La Pluma",
       "url": "https://open.spotify.com/track/3hkp1bFwGrAAHbSTYnw2Bc"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
     },
     {
       "album": {

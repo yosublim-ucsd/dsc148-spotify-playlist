@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Charley Crockett",
-  "num_followers": 64339,
+  "num_followers": 64348,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Still What I'm Looking For",
-        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Still What I'm Looking For",
-      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Milwaukee",
         "url": "https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Still What I'm Looking For",
+        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 187550,
+      "name": "Still What I'm Looking For",
+      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Permanently Lonely (From \"Skincare\")",
-        "url": "https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 215664,
-      "name": "Permanently Lonely (From \"Skincare\")",
-      "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Life Lessons",
-        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+        "name": "Permanently Lonely (From \"Skincare\")",
+        "url": "https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI"
       },
       "artists": [
         {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 195505,
-      "name": "Life Lessons",
-      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+      "duration_ms": 215664,
+      "name": "Permanently Lonely (From \"Skincare\")",
+      "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 200021,
+      "name": "Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 200021,
-      "name": "Burn Me Once - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Where My Wild Things Are",
         "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 237781,
       "name": "Where My Wild Things Are",
       "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 186284,
-      "name": "The Hurtin' Kind",
-      "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 209768,
       "name": "Tumblin Down",
       "url": "https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 186284,
+      "name": "The Hurtin' Kind",
+      "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Concrete And Barbed Wire",
-        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 193274,
-      "name": "Concrete And Barbed Wire",
-      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
+        "name": "Concrete And Barbed Wire",
+        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
+      "duration_ms": 193274,
+      "name": "Concrete And Barbed Wire",
+      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Take It Right On",
-        "url": "https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH"
-      },
-      "artists": [
-        {
-          "name": "Rare Americans",
-          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Take It Right On",
-      "url": "https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dom Louis",
-        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
-      },
-      "artists": [
-        {
-          "name": "Dom Louis",
-          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
-        }
-      ],
-      "duration_ms": 175423,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Our Time In The Sun",
         "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
       },
@@ -1675,6 +1643,38 @@
       "duration_ms": 180475,
       "name": "Our Time In The Sun",
       "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Take It Right On",
+        "url": "https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Take It Right On",
+      "url": "https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
     },
     {
       "added_at": "2024-09-13 04:00:00",

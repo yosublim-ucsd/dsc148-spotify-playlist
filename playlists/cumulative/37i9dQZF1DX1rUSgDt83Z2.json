@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183146,
       "name": "All We Need",
       "url": "https://open.spotify.com/track/6M7IyHyAWnRIVIjqcnjhAO"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169053,
       "name": "Alle sterke mensen",
       "url": "https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Fiasco",
+        "url": "https://open.spotify.com/album/4OXuvQj5PiA5nwTyDvhBK2"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142413,
+      "name": "Fiasco",
+      "url": "https://open.spotify.com/track/7i5x2DcnSzZaysnT9TIlFu"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq"
       },
@@ -359,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Hoeveel Tranen Moet Ik Huilen",
+        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208977,
+      "name": "Hoeveel Tranen Moet Ik Huilen",
+      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
+    },
+    {
+      "album": {
         "name": "Horizon (ft. Julia Zahra)",
         "url": "https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B"
       },
@@ -475,6 +511,42 @@
     },
     {
       "album": {
+        "name": "Ik Weet Dat Jij Het Niet Weet",
+        "url": "https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi"
+      },
+      "artists": [
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222288,
+      "name": "Ik Weet Dat Jij Het Niet Weet",
+      "url": "https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU"
+    },
+    {
+      "album": {
+        "name": "Struikelen",
+        "url": "https://open.spotify.com/album/3ZP5gH8NURtyWDDSX5NBZZ"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180342,
+      "name": "Ik Wil Niet Slapen",
+      "url": "https://open.spotify.com/track/3OvdIGwqjkKYbaH99H57Vb"
+    },
+    {
+      "album": {
         "name": "It's You Or Me",
         "url": "https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl"
       },
@@ -490,6 +562,24 @@
       "duration_ms": 234129,
       "name": "It's You Or Me",
       "url": "https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH"
+    },
+    {
+      "album": {
+        "name": "Kan Ik Iets Voor Je Doen?",
+        "url": "https://open.spotify.com/album/2G5idixK1zfPctvTeRtCfU"
+      },
+      "artists": [
+        {
+          "name": "Dwight Dissels",
+          "url": "https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169491,
+      "name": "Kan Ik Iets Voor Je Doen?",
+      "url": "https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy"
     },
     {
       "album": {
@@ -648,7 +738,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 183966,
       "name": "Middenweg",
       "url": "https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE"
@@ -702,7 +792,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175829,
       "name": "Not a game",
       "url": "https://open.spotify.com/track/1c81DfdPrL41JzciAU3FeX"
@@ -792,7 +882,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209752,
       "name": "Regenhart",
       "url": "https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e"
@@ -850,7 +940,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 130196,
       "name": "Samen \u00c9\u00e9n",
       "url": "https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V"
@@ -1020,6 +1110,24 @@
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
+    },
+    {
+      "album": {
+        "name": "Sweet, Salt, Sour",
+        "url": "https://open.spotify.com/album/0DlOdShIvC2KfD07XDAlzU"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hydro",
+          "url": "https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164966,
+      "name": "Sweet, Salt, Sour",
+      "url": "https://open.spotify.com/track/4wBIyPFm5WKg72pa1qz5Oq"
     },
     {
       "album": {

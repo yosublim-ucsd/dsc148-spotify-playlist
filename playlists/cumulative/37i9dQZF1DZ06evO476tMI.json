@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Whitney Houston. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
   "name": "This Is Whitney Houston",
   "tracks": [
     {
@@ -710,10 +710,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 321666,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX"
+    },
+    {
+      "album": {
+        "name": "Love Will Save the Day (Live in Kings Park Stadium, Durban, South Africa - November 8, 1994)",
+        "url": "https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376986,
+      "name": "Love Will Save the Day - Live in Kings Park Stadium, Durban, South Africa - November 8, 1994",
+      "url": "https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7"
     },
     {
       "album": {
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 256200,
       "name": "You're Still My Man",
       "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"

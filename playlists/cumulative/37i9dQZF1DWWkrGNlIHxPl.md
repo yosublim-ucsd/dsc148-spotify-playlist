@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Kali\-B & Wazic
+> Global crossovers by/with Arab artists\. Cover: Lana Lubany
 
-344 songs - 18 hr 56 min
+345 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 | 2023-06-02 | 2024-06-01 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-02-22 | 2024-03-21 |
 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 | 2023-04-27 | 2024-06-01 |
+| [NAZARETH](https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [NAZARETH](https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd) | 3:04 | 2024-09-19 |  |
 | [Needless](https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Needless](https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA) | 2:16 | 2023-09-19 | 2023-10-28 |
 | [Neighborhood](https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Neighborhood](https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf) | 2:48 | 2022-02-03 | 2022-12-08 |
 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 | 2023-09-06 |  |

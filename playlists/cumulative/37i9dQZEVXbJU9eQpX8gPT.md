@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,513 songs - 3 day 11 hr 6 min
+1,514 songs - 3 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,7 +782,7 @@
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-03-30 | 2022-06-26 |
 | [Lmadi](https://open.spotify.com/track/5dFEs0UYNN8X05d6SzlPTC) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Lmadi](https://open.spotify.com/album/5BtOncH7szKPdItM1i7xJm) | 3:42 | 2021-04-26 | 2021-05-23 |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-10-02 | 2023-10-07 |
-| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 |  |
+| [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-06-11 | 2024-09-20 |
 | [Local](https://open.spotify.com/track/67SRXY0G8by6iElzIGhTyq) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:53 | 2021-11-28 | 2021-11-28 |
 | [Lore \- Intro](https://open.spotify.com/track/3DcjhqPaJQrbobPrnbadwv) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 1:59 | 2021-04-18 | 2021-04-19 |
 | [Lost](https://open.spotify.com/track/62LM5V7p7Pzq6NVRAwhxay) | [KowKow](https://open.spotify.com/artist/2fNi6fQDoYiOyTj9iUkPih) | [Lost](https://open.spotify.com/album/1RszKGwyHJBvSSa0TW0q1I) | 2:57 | 2022-10-10 | 2022-10-13 |
@@ -1263,6 +1263,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 | 2023-10-28 |
 | [Stafeta](https://open.spotify.com/track/7h2WNXMAJTKH3Ttwff1oti) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 2:49 | 2024-06-25 | 2024-06-30 |
 | [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-11 | 2024-05-19 |
+| [Staline](https://open.spotify.com/track/5JGhrQuSz5ZkBMVXpynajp) | [Joe Prod](https://open.spotify.com/artist/1wFPvFmZ2g4rzYS2rNncJJ), [Egtoto](https://open.spotify.com/artist/5IawoPaqWPiQqDmruv4p0J) | [Staline](https://open.spotify.com/album/77fkMZXBOlvqjlpnPHVdx1) | 3:58 | 2024-09-19 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2023-11-27 |
 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-14 | 2023-05-19 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |

@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Supertramp",
+        "url": "https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334360,
+      "name": "School",
+      "url": "https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8"
+    },
+    {
+      "album": {
         "name": "The Jordan Lake Sessions: Volumes 1 and 2",
         "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
       },

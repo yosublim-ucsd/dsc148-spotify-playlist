@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover: thrown",
-  "num_followers": 933399,
+  "num_followers": 933484,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 180134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
+      "duration_ms": 234945,
+      "name": "There\u2019s Fear In Letting Go",
+      "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 234945,
-      "name": "There\u2019s Fear In Letting Go",
-      "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
+      "duration_ms": 180134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Oscillator",
-        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 240786,
-      "name": "Oscillator",
-      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 223405,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Oscillator",
+        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 240786,
+      "name": "Oscillator",
+      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Needle Eye",
+        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
+      },
+      "artists": [
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "duration_ms": 169518,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Forgive and Forget (feat. Fit For A King)",
         "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 215666,
       "name": "Forgive And Forget (feat. Fit For A King)",
       "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Needle Eye",
-        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
-      },
-      "artists": [
-        {
-          "name": "Colorblind",
-          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
-        }
-      ],
-      "duration_ms": 169518,
-      "name": "Needle Eye",
-      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Feeding Demons",
         "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 197093,
       "name": "Feeding Demons",
       "url": "https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Granite",
+        "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Granite",
+      "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Granite",
-        "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Granite",
-      "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-        "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-      "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 152547,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 171838,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/1V4inJk5yBs6RnpRk9R7ba"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 194919,
       "name": "Rise (Redux)",
       "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI"
-      },
-      "artists": [
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 171838,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/1V4inJk5yBs6RnpRk9R7ba"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "XOXO (feat. From Ashes to New)",
-        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
+        "name": "Invisible Rain",
+        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
       },
       "artists": [
         {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        },
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
         }
       ],
-      "duration_ms": 173180,
-      "name": "XOXO (feat. From Ashes to New)",
-      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
+      "duration_ms": 159285,
+      "name": "Invisible Rain",
+      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1243,34 +1239,38 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Invisible Rain",
-        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
+        "name": "XOXO (feat. From Ashes to New)",
+        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
       },
       "artists": [
         {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 159285,
-      "name": "Invisible Rain",
-      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+      "duration_ms": 173180,
+      "name": "XOXO (feat. From Ashes to New)",
+      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
     },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0kx1za1jusot7RDE1RdsKR"
       },
       "artists": [
         {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+          "name": "Acres",
+          "url": "https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD"
         }
       ],
-      "duration_ms": 240037,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
+      "duration_ms": 213913,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6eun1tlXigwFqVdNdn4nKj"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0kx1za1jusot7RDE1RdsKR"
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
       },
       "artists": [
         {
-          "name": "Acres",
-          "url": "https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD"
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
         }
       ],
-      "duration_ms": 213913,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6eun1tlXigwFqVdNdn4nKj"
+      "duration_ms": 240037,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "A Mind Short Circuiting",
-        "url": "https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ"
-      },
-      "artists": [
-        {
-          "name": "Born Of Osiris",
-          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
-        }
-      ],
-      "duration_ms": 267956,
-      "name": "A Mind Short Circuiting",
-      "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 260820,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "A Mind Short Circuiting",
+        "url": "https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "duration_ms": 267956,
+      "name": "A Mind Short Circuiting",
+      "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Dreamlike",
+        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 208645,
+      "name": "Dreamlike",
+      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Start A Comeback",
         "url": "https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 181521,
       "name": "Start A Comeback",
       "url": "https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Dreamlike",
-        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 208645,
-      "name": "Dreamlike",
-      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Cycles Of Trying To Cope",
-        "url": "https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM"
+        "name": "A Crooked Melody",
+        "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
       },
       "artists": [
         {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 232900,
-      "name": "Over the Garden Wall",
-      "url": "https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL"
+      "duration_ms": 235835,
+      "name": "A Crooked Melody",
+      "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
     }
   ],
   "unique_name": "The Core",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073,054 likes - 134 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073,091 likes - 134 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

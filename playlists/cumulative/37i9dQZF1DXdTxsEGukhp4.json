@@ -6709,6 +6709,28 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30fc\u30d3\u30fc\u30ae\u30e3\u30eb!!",
+        "url": "https://open.spotify.com/album/7gvsEKyLF7ekWeK0bmW5Wk"
+      },
+      "artists": [
+        {
+          "name": "PAIN",
+          "url": "https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0"
+        },
+        {
+          "name": "PIEC3 POPPO",
+          "url": "https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "\u30d0\u30fc\u30d3\u30fc\u30ae\u30e3\u30eb!!",
+      "url": "https://open.spotify.com/track/74DQoWIJNeRqo42fj4JjNr"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
         "url": "https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu"
       },
@@ -8114,7 +8136,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 118554,
       "name": "\u6e0b\u6ca2\u6804\u4e00",
       "url": "https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA"

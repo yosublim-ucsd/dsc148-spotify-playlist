@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Apollo 12",
+        "url": "https://open.spotify.com/album/6NWrbi4iHYkh6ZDA7FjM6w"
+      },
+      "artists": [
+        {
+          "name": "YOF",
+          "url": "https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166381,
+      "name": "Apollo 12",
+      "url": "https://open.spotify.com/track/58APyqFAronCSnzG9EBD0t"
+    },
+    {
+      "album": {
         "name": "Appassire",
         "url": "https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 159351,
       "name": "Calibro (feat. Pitta)",
       "url": "https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s"
+    },
+    {
+      "album": {
+        "name": "CALICE",
+        "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
+      },
+      "artists": [
+        {
+          "name": "WALTER",
+          "url": "https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "CALICE",
+      "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
     },
     {
       "album": {
@@ -3890,6 +3926,24 @@
       "duration_ms": 163134,
       "name": "FOTO NUDE",
       "url": "https://open.spotify.com/track/7wS6RViV6lpPea9olpNKlQ"
+    },
+    {
+      "album": {
+        "name": "Fotoricordo",
+        "url": "https://open.spotify.com/album/1yXnI5FcLRTGITuPRmpehy"
+      },
+      "artists": [
+        {
+          "name": "panetto",
+          "url": "https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Fotoricordo",
+      "url": "https://open.spotify.com/track/4awSy4eb4hEu8RnSWOJWIP"
     },
     {
       "album": {

@@ -742,7 +742,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 168624,
       "name": "ADELINE",
       "url": "https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Alone in the Dark",
+        "url": "https://open.spotify.com/album/4l7xgeq26WRqCk3CoSWHhG"
+      },
+      "artists": [
+        {
+          "name": "Buttercats",
+          "url": "https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Alone in the Dark",
+      "url": "https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -2386,6 +2404,24 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "album": {
+        "name": "Light Sides",
+        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243087,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
       "album": {
@@ -3578,6 +3614,24 @@
       "duration_ms": 178000,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176718,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD"
     },
     {
       "album": {
@@ -7041,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Electric Feel - Spotify Singles",
+        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Electric Feel - Spotify Singles",
+      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
+    },
+    {
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -8554,6 +8626,24 @@
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
+    },
+    {
+      "album": {
+        "name": "Freckles",
+        "url": "https://open.spotify.com/album/3qBdcWx8e9slG982z16f47"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179741,
+      "name": "Freckles",
+      "url": "https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV"
     },
     {
       "album": {
@@ -18738,7 +18828,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
@@ -18818,7 +18908,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
@@ -21652,7 +21742,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
@@ -23166,7 +23256,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162639,
       "name": "Swarm",
       "url": "https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j"
@@ -26596,6 +26686,24 @@
       "duration_ms": 153554,
       "name": "Whip",
       "url": "https://open.spotify.com/track/6yUJas4I1fJ7wIrITiPWJW"
+    },
+    {
+      "album": {
+        "name": "WHITNEY",
+        "url": "https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164021,
+      "name": "WHITNEY",
+      "url": "https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR"
     },
     {
       "album": {

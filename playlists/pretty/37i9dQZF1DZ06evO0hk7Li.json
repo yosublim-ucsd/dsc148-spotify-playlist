@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38046,
+  "num_followers": 38049,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADuwjqWY4XhqK//sv4PAwwf",
+  "snapshot_id": "ZuoYAAAAAAD3vHcnJ89EB97YtpcpAACw",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 290115,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+      "duration_ms": 170803,
+      "name": "Devil That I Know",
+      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 170803,
-      "name": "Devil That I Know",
-      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
+      "duration_ms": 290115,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "You Might Find Me",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster 2.0",
         "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II (Score & Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "You Might Find Me",
-      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Zones & Tylenol",
         "url": "https://open.spotify.com/album/7ENBhxS8JNn1ZOs3aMk7wv"
       },
@@ -715,6 +715,34 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOOD HYMNS",
+        "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Keisha Renee",
+          "url": "https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA"
+        }
+      ],
+      "duration_ms": 192938,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/6KYp8pZIRjDnU8CVyDghOc"
     },
     {
       "added_at": null,
@@ -763,34 +791,6 @@
       "duration_ms": 342012,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOOD HYMNS",
-        "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Keisha Renee",
-          "url": "https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA"
-        }
-      ],
-      "duration_ms": 192938,
-      "name": "GOLD",
-      "url": "https://open.spotify.com/track/6KYp8pZIRjDnU8CVyDghOc"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Love Ain't Enough",
-      "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 293244,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Love Ain't Enough",
+      "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
     },
     {
       "added_at": null,

@@ -1,13 +1,93 @@
 {
-  "description": "A collection of the best recent Prog Rock tracks. Cover: VOLA",
-  "num_followers": 101957,
+  "description": "A collection of the best recent Prog Rock tracks. Cover: VOLA, Anders Friden",
+  "num_followers": 102031,
   "original_name": "Prog Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOOkAAAAAA+wxkXR+/kBfFqWjiAlvRT",
+  "snapshot_id": "ZuuhwAAAAABg4aCMv8u8ppu1sVCwYi8h",
   "tracks": [
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Cannibal (feat. Anders Frid\u00e9n)",
+        "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 302866,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "added_at": "2024-09-08 05:14:53",
+      "album": {
+        "name": "Harridan",
+        "url": "https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0"
+      },
+      "artists": [
+        {
+          "name": "Porcupine Tree",
+          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
+        }
+      ],
+      "duration_ms": 487559,
+      "name": "Harridan",
+      "url": "https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW"
+    },
+    {
+      "added_at": "2024-09-08 05:14:53",
+      "album": {
+        "name": "Signals (Volkor X Remix)",
+        "url": "https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA"
+      },
+      "artists": [
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        },
+        {
+          "name": "Volkor X",
+          "url": "https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Signals - Volkor X Remix",
+      "url": "https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Jainism",
+        "url": "https://open.spotify.com/album/2pplRHhezNgAkNUJ1nXvCZ"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 256890,
+      "name": "Jainism",
+      "url": "https://open.spotify.com/track/7o3rmtT5FdBISM6L3I9wTn"
+    },
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
@@ -47,22 +127,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "Of The New Day",
-        "url": "https://open.spotify.com/album/3obQwZCLBjFsNAPLBobslJ"
-      },
-      "artists": [
-        {
-          "name": "Porcupine Tree",
-          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
-        }
-      ],
-      "duration_ms": 283023,
-      "name": "Of the New Day",
-      "url": "https://open.spotify.com/track/5RL3Bec5a1QbdCBIoomJAJ"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Festina Lente",
         "url": "https://open.spotify.com/album/6aL7jzlucXGRg7t6Z5tri5"
       },
@@ -93,6 +157,22 @@
       "url": "https://open.spotify.com/track/0vt2eeGySaIBsyK7hgbOAb"
     },
     {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "The Century of the Self",
+        "url": "https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC"
+        }
+      ],
+      "duration_ms": 404480,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu"
+    },
+    {
       "added_at": "2024-09-08 05:14:53",
       "album": {
         "name": "Suffering",
@@ -107,6 +187,22 @@
       "duration_ms": 351920,
       "name": "Suffering",
       "url": "https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0"
+    },
+    {
+      "added_at": "2024-09-08 05:14:53",
+      "album": {
+        "name": "Eldur",
+        "url": "https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN"
+      },
+      "artists": [
+        {
+          "name": "Coridian",
+          "url": "https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR"
+        }
+      ],
+      "duration_ms": 200892,
+      "name": "Seed II",
+      "url": "https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -143,22 +239,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "Eldur",
-        "url": "https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN"
-      },
-      "artists": [
-        {
-          "name": "Coridian",
-          "url": "https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR"
-        }
-      ],
-      "duration_ms": 200892,
-      "name": "Seed II",
-      "url": "https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/56wRI2u3cxOM6CHEG9S9kY"
       },
@@ -171,6 +251,22 @@
       "duration_ms": 340146,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/00gHK05ITKDT2c40WJDevj"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "All the Rage",
+        "url": "https://open.spotify.com/album/05RRKpehX1NxHo2ncDSEtm"
+      },
+      "artists": [
+        {
+          "name": "Neal Morse",
+          "url": "https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq"
+        }
+      ],
+      "duration_ms": 334095,
+      "name": "All the Rage",
+      "url": "https://open.spotify.com/track/3zpcjUIikRrHP3uz6E2tNf"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -205,28 +301,56 @@
       "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"
     },
     {
-      "added_at": "2024-09-08 05:14:53",
+      "added_at": "2024-09-19 04:00:00",
       "album": {
-        "name": "Signals (Volkor X Remix)",
-        "url": "https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA"
+        "name": "MelancHoly",
+        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
       },
       "artists": [
         {
-          "name": "Fury Weekend",
-          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        },
-        {
-          "name": "Volkor X",
-          "url": "https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq"
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
         }
       ],
-      "duration_ms": 299000,
-      "name": "Signals - Volkor X Remix",
-      "url": "https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq"
+      "duration_ms": 218000,
+      "name": "MelancHoly",
+      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Never Right - HORSKH Remix",
+        "url": "https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM"
+      },
+      "artists": [
+        {
+          "name": "SIERRA",
+          "url": "https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4"
+        },
+        {
+          "name": "HORSKH",
+          "url": "https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Never Right - HORSKH Remix",
+      "url": "https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Eraser",
+        "url": "https://open.spotify.com/album/4ukZYmOiQ9Kz2jjK39tNo8"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Giants Leaving",
+      "url": "https://open.spotify.com/track/2r6myX3qOu9SDUbYhxnanU"
     },
     {
       "added_at": "2024-09-13 01:00:00",
@@ -261,20 +385,20 @@
       "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
     },
     {
-      "added_at": "2024-09-13 01:00:00",
+      "added_at": "2024-09-19 04:00:00",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/3pt9hca9XBtC0EkU9FqzDy"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2CATRWH2YIdajne7jXHzB5"
       },
       "artists": [
         {
-          "name": "Tayne",
-          "url": "https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF"
+          "name": "Amarok",
+          "url": "https://open.spotify.com/artist/7wzRaLHNSWIG8ZHK2hQljt"
         }
       ],
-      "duration_ms": 209636,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3IBJBG25WdRnc9YKaZI38v"
+      "duration_ms": 284426,
+      "name": "Hope Is",
+      "url": "https://open.spotify.com/track/4jy8mXwqnOmKGrwB64zKc6"
     },
     {
       "added_at": "2024-09-13 01:00:00",
@@ -311,22 +435,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "Harridan",
-        "url": "https://open.spotify.com/album/3vjYPAzHWD2jB3SeIpoAp0"
-      },
-      "artists": [
-        {
-          "name": "Porcupine Tree",
-          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
-        }
-      ],
-      "duration_ms": 487559,
-      "name": "Harridan",
-      "url": "https://open.spotify.com/track/2ixHZTXZwFkPGauOYTLQrW"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Remember That You Will Die",
         "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
       },
@@ -343,6 +451,22 @@
       "duration_ms": 350085,
       "name": "Ego Death (feat. Steve Vai)",
       "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
+    },
+    {
+      "added_at": "2024-09-08 05:14:53",
+      "album": {
+        "name": "Of The New Day",
+        "url": "https://open.spotify.com/album/3obQwZCLBjFsNAPLBobslJ"
+      },
+      "artists": [
+        {
+          "name": "Porcupine Tree",
+          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
+        }
+      ],
+      "duration_ms": 283023,
+      "name": "Of the New Day",
+      "url": "https://open.spotify.com/track/5RL3Bec5a1QbdCBIoomJAJ"
     },
     {
       "added_at": "2024-09-13 01:00:00",
@@ -375,6 +499,22 @@
       "duration_ms": 371440,
       "name": "Love Is the Light",
       "url": "https://open.spotify.com/track/46lxaVFH4hZpiemf6Rx1qd"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Key",
+        "url": "https://open.spotify.com/album/4lvhLVlxROwIWD87GGOj7J"
+      },
+      "artists": [
+        {
+          "name": "pg.lost",
+          "url": "https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "Terrain",
+      "url": "https://open.spotify.com/track/25s1qqeuHILtIlg0mTplBt"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -431,6 +571,22 @@
     {
       "added_at": "2024-09-13 01:00:00",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/3pt9hca9XBtC0EkU9FqzDy"
+      },
+      "artists": [
+        {
+          "name": "Tayne",
+          "url": "https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF"
+        }
+      ],
+      "duration_ms": 209636,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3IBJBG25WdRnc9YKaZI38v"
+    },
+    {
+      "added_at": "2024-09-13 01:00:00",
+      "album": {
         "name": "Moral and Consequence",
         "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
       },
@@ -459,22 +615,6 @@
       "duration_ms": 303426,
       "name": "The Voice of What Whispers",
       "url": "https://open.spotify.com/track/7G4DNvXzhaxIY2nALYR6f8"
-    },
-    {
-      "added_at": "2024-09-13 01:00:00",
-      "album": {
-        "name": "Polline",
-        "url": "https://open.spotify.com/album/1Zc6WoBOHKLT79K6mtvoUk"
-      },
-      "artists": [
-        {
-          "name": "Hand of Juno",
-          "url": "https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj"
-        }
-      ],
-      "duration_ms": 238161,
-      "name": "Polline",
-      "url": "https://open.spotify.com/track/5cZn53LpcP6K3XO9nSXwZQ"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -575,6 +715,54 @@
       "duration_ms": 257861,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/3DZ0YXVKAI2bJ6w5vlOQ3h"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "SHELTERING SKIES (Live in Fr\u00e9jus, August 27th 1982)",
+        "url": "https://open.spotify.com/album/50PE5AvcgV0Ro1OkHWUotV"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "Heartbeat - Live in Fr\u00e9jus",
+      "url": "https://open.spotify.com/track/31gH3jGEwA9R8uzznh7zln"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Live at Morsefest 2022: The Absolute Whirlwind (Night 2)",
+        "url": "https://open.spotify.com/album/0Pk9h6mA3UslI786gGn0e1"
+      },
+      "artists": [
+        {
+          "name": "Transatlantic",
+          "url": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Can You Feel It - Live at Morsefest 2022",
+      "url": "https://open.spotify.com/track/23AD5f1W9GDhtFU1P2UBig"
+    },
+    {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "A Flare On The Lens (Live)",
+        "url": "https://open.spotify.com/album/73v44ExX2MnFSbPQWRoLGt"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        }
+      ],
+      "duration_ms": 972766,
+      "name": "East Coast Racer - Live in London 2023",
+      "url": "https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N"
     },
     {
       "added_at": "2024-09-13 01:00:00",
@@ -705,6 +893,22 @@
       "url": "https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8"
     },
     {
+      "added_at": "2024-09-19 04:00:00",
+      "album": {
+        "name": "Point of No Return",
+        "url": "https://open.spotify.com/album/2RoHfEj9a6ynuaavGqdakl"
+      },
+      "artists": [
+        {
+          "name": "Craneium",
+          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
+        }
+      ],
+      "duration_ms": 302480,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3aoEzuyxvnHxlqRodDkwaX"
+    },
+    {
       "added_at": "2024-09-08 05:14:53",
       "album": {
         "name": "In the Autumn",
@@ -755,22 +959,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1at11cxee5blIgarVbwuY0"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        }
-      ],
-      "duration_ms": 315062,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Bringing It Down to the Bass",
         "url": "https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir"
       },
@@ -815,22 +1003,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "If You Deserve It, You Deserve It",
-        "url": "https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ"
-      },
-      "artists": [
-        {
-          "name": "The Seafloor Cinema",
-          "url": "https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "If You Deserve It, You Deserve It",
-      "url": "https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Return Of The Ellington",
         "url": "https://open.spotify.com/album/0Bm3jXwKOJZkawHIwsm34N"
       },
@@ -859,42 +1031,6 @@
       "duration_ms": 347384,
       "name": "Shaping Mirrors Like Smoke",
       "url": "https://open.spotify.com/track/59NxjcwDh1fIZdmJx4NGus"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5OaH8LibquPKILvehfV0gH"
-      },
-      "artists": [
-        {
-          "name": "Storm Deva",
-          "url": "https://open.spotify.com/artist/123FxVi00P6AN2cks8FBfE"
-        }
-      ],
-      "duration_ms": 275004,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1s2nolY8iX6hkKd4TFhb5b"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "ELDOVAR - A Story of Darkness & Light",
-        "url": "https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e"
-      },
-      "artists": [
-        {
-          "name": "Kadavar",
-          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
-        },
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 664413,
-      "name": "Blood Moon Night",
-      "url": "https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -931,54 +1067,6 @@
       "duration_ms": 300181,
       "name": "It's Only Smiles - Acoustic",
       "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Zest",
-        "url": "https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd"
-      },
-      "artists": [
-        {
-          "name": "Pelagos",
-          "url": "https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Zest",
-      "url": "https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/6jnRsK6HHmSL12NuVL1ygi"
-      },
-      "artists": [
-        {
-          "name": "Relent",
-          "url": "https://open.spotify.com/artist/3BcuUq1rwq2xlcyab2w3lu"
-        }
-      ],
-      "duration_ms": 228383,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "The Dandelion Child",
-        "url": "https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E"
-      },
-      "artists": [
-        {
-          "name": "Franklin Zoo",
-          "url": "https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3"
-        }
-      ],
-      "duration_ms": 353093,
-      "name": "The Cynic",
-      "url": "https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -1055,22 +1143,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "The Quest",
-        "url": "https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 307920,
-      "name": "Future Memories",
-      "url": "https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/710dhYTLq50hAYZN1Kavab"
       },
@@ -1083,38 +1155,6 @@
       "duration_ms": 235784,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/56X96FF5Z4GkA269Gn7wGD"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Unknown Heights",
-        "url": "https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX"
-      },
-      "artists": [
-        {
-          "name": "Craneium",
-          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
-        }
-      ],
-      "duration_ms": 372570,
-      "name": "Somber Aeons",
-      "url": "https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Follow The Fool",
-        "url": "https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Follow The Fool",
-      "url": "https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso"
     },
     {
       "added_at": "2024-09-08 05:14:53",
@@ -1167,38 +1207,6 @@
     {
       "added_at": "2024-09-08 05:14:53",
       "album": {
-        "name": "Shiram",
-        "url": "https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1"
-      },
-      "artists": [
-        {
-          "name": "The Brandy Alexanders",
-          "url": "https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Shiram",
-      "url": "https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Oceans Of Time",
-        "url": "https://open.spotify.com/album/7HAAFpp4vxMDZuVrax7sje"
-      },
-      "artists": [
-        {
-          "name": "Jonas Lindberg",
-          "url": "https://open.spotify.com/artist/2fcCXP984B9PnVxcUKfYa1"
-        }
-      ],
-      "duration_ms": 696866,
-      "name": "Oceans Of Time",
-      "url": "https://open.spotify.com/track/1I2sRZz3TzBzx0Gu1tY4Tb"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
         "name": "The Siren",
         "url": "https://open.spotify.com/album/2yR9vhxFCXePR2qrQhEn0B"
       },
@@ -1211,22 +1219,6 @@
       "duration_ms": 439874,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/4EYrwXmCcnCw9bRuFrK21W"
-    },
-    {
-      "added_at": "2024-09-08 05:14:53",
-      "album": {
-        "name": "Act Like an Animal",
-        "url": "https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa"
-      },
-      "artists": [
-        {
-          "name": "6:33",
-          "url": "https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj"
-        }
-      ],
-      "duration_ms": 231929,
-      "name": "Act Like an Animal",
-      "url": "https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca"
     },
     {
       "added_at": "2024-09-08 05:14:53",

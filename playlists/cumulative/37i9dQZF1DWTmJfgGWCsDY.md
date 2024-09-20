@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-110 songs - 7 hr 39 min
+111 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 | 2023-09-01 |  |
 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 | 2022-11-24 |  |
 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 | 2022-08-05 |  |
-| [Kuchi Kuchi](https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9), [Kinata MC](https://open.spotify.com/artist/7y5en0LMphmD7mNKnEvB0b) | [Kuchi Kuchi](https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w) | 4:24 | 2023-12-15 |  |
+| [Kuchi Kuchi](https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9), [Kinata MC](https://open.spotify.com/artist/7y5en0LMphmD7mNKnEvB0b) | [Kuchi Kuchi](https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w) | 4:24 | 2023-12-15 | 2024-09-20 |
 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 |  |
 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [MPM Mshamba](https://open.spotify.com/artist/4goaGLkAElWhEltQeiJmKB), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 | 2022-08-05 |  |
 | [Kwanini](https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kwanini](https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA) | 4:35 | 2022-09-22 |  |
@@ -111,6 +111,7 @@
 | [Usinichiti](https://open.spotify.com/track/4jLz75KL9XYcrbAFcmAb4P) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Singeli Money](https://open.spotify.com/album/6IBQqUY6TGbmFDJIjSsfjR) | 4:13 | 2024-06-28 |  |
 | [UTAMUWA BAKHRESA](https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [UTAMUWA BAKHRESA](https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc) | 4:37 | 2023-06-30 |  |
 | [Viburi](https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Chief Becka](https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6) | [Viburi](https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk) | 3:21 | 2022-08-05 |  |
+| [Wachaa](https://open.spotify.com/track/34zNCXVtH4OiZgQMVv4O1L) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Wachaa](https://open.spotify.com/album/7HHta5EhaHlRfu8HkvVomv) | 2:59 | 2024-09-12 |  |
 | [Wanga](https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wanga](https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx) | 4:04 | 2022-08-05 |  |
 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 | 2022-08-05 |  |
 | [Wapambe](https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl) | [Elisha](https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Wapambe](https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie) | 4:00 | 2022-08-05 |  |

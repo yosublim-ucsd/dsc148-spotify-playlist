@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie W\u0119giel, Maryla Rodowicz",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Dominik Dudek",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197333,
       "name": "12 zmys\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3SSFzI5YpojR8fzirESKBj"
@@ -172,6 +172,24 @@
       "duration_ms": 159537,
       "name": "Asereje (Airplane Mode)",
       "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
+    },
+    {
+      "album": {
+        "name": "Tylko Lepiej EP",
+        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
+      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
     },
     {
       "album": {
@@ -505,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Chmury",
+        "url": "https://open.spotify.com/album/1hxnd69QJWRy56zlBAuhVd"
+      },
+      "artists": [
+        {
+          "name": "Efi",
+          "url": "https://open.spotify.com/artist/4Y4VJE5fBAGHfZw0ctUsR3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Chmury",
+      "url": "https://open.spotify.com/track/15WtVL7P6tBzXDY87zPjUd"
+    },
+    {
+      "album": {
         "name": "Chory",
         "url": "https://open.spotify.com/album/4H7MofJfhX9kDJNGkEFocy"
       },
@@ -680,7 +716,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 127500,
       "name": "Dalej",
       "url": "https://open.spotify.com/track/62EtR6rTcBc3b6rCDz28S5"
@@ -1283,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "kochaj na serio",
+        "url": "https://open.spotify.com/album/581rUrcXqf5JvYMVT4abjE"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160709,
+      "name": "kochaj na serio",
+      "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
+    },
+    {
+      "album": {
         "name": "Kosmos",
         "url": "https://open.spotify.com/album/0LTabfkCAKxFHn4rNyUxlQ"
       },
@@ -1298,6 +1352,42 @@
       "duration_ms": 191701,
       "name": "Kosmos",
       "url": "https://open.spotify.com/track/4w7gUp41Q2QpudY88FLB9K"
+    },
+    {
+      "album": {
+        "name": "Krzysztof Br\u0105z",
+        "url": "https://open.spotify.com/album/3RuVPEOkNQVwOImKzNSm9R"
+      },
+      "artists": [
+        {
+          "name": "MILI JACK",
+          "url": "https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139473,
+      "name": "Krzysztof Br\u0105z",
+      "url": "https://open.spotify.com/track/6WzuMCv5mQdGkL90cj8K5j"
+    },
+    {
+      "album": {
+        "name": "Kwiaty wi\u015bni",
+        "url": "https://open.spotify.com/album/4C7w9M2Yamf803QeVdPsAs"
+      },
+      "artists": [
+        {
+          "name": "Ikarus Feel",
+          "url": "https://open.spotify.com/artist/0RoPyAx0YmN0xndt3Wfz1V"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Kwiaty wi\u015bni",
+      "url": "https://open.spotify.com/track/5t48tix53qeFWmNeQ08gVQ"
     },
     {
       "album": {
@@ -1415,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Lloret de Mar",
+        "url": "https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125732,
+      "name": "Lloret de Mar",
+      "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
+    },
+    {
+      "album": {
         "name": "MAZZY STAR",
         "url": "https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno"
       },
@@ -1498,7 +1606,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 195001,
       "name": "milcz\u0119",
       "url": "https://open.spotify.com/track/4nCNsCZt14oI1GodbRKcRo"
@@ -1622,6 +1730,24 @@
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "album": {
+        "name": "Na drodze do wspomnie\u0144",
+        "url": "https://open.spotify.com/album/0JnlXIVqa3n8K3dUuMCTxk"
+      },
+      "artists": [
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "Na drodze do wspomnie\u0144",
+      "url": "https://open.spotify.com/track/0o47I063bicp11QIF3eY2E"
     },
     {
       "album": {
@@ -1813,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Nie musisz si\u0119 ba\u0107",
+        "url": "https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Nie musisz si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2"
+    },
+    {
+      "album": {
         "name": "Nie m\u00f3w",
         "url": "https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF"
       },
@@ -1828,7 +1972,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162000,
       "name": "Nie m\u00f3w",
       "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
@@ -1908,7 +2052,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161328,
       "name": "Niepoprawny",
       "url": "https://open.spotify.com/track/3lUWohokIPaYQSl6jngB4n"
@@ -2151,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Pod niebem",
+        "url": "https://open.spotify.com/album/4iGkuhElmJluQ9Qq1SNQVi"
+      },
+      "artists": [
+        {
+          "name": "Serafine",
+          "url": "https://open.spotify.com/artist/2Wxu5iYmxrkbDInfmRmDyv"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Pod niebem",
+      "url": "https://open.spotify.com/track/1Xe7kB9DUEVdnD1pJGHSxP"
+    },
+    {
+      "album": {
         "name": "Wachlarz Wad EP",
         "url": "https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe"
       },
@@ -2162,7 +2324,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 124235,
       "name": "Poka\u017c Twarz (t\u0105 naprawd\u0119)",
       "url": "https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy"
@@ -2224,7 +2386,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178570,
       "name": "Pop\u0142yniemy",
       "url": "https://open.spotify.com/track/66jkTQje4DSEe72yG8HhKz"
@@ -2308,7 +2470,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 186315,
       "name": "Presja",
       "url": "https://open.spotify.com/track/5PaZC5nA3HLHHI2Q7w4jIR"
@@ -2400,7 +2562,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155207,
       "name": "SAM SOBIE NA Z\u0141O\u015a\u0106",
       "url": "https://open.spotify.com/track/1h31HcvjAxWOrexsiT4Za5"
@@ -2541,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/5O6V94tvuF1JkvL9SJ1yEF"
+      },
+      "artists": [
+        {
+          "name": "Kayomee",
+          "url": "https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/4ByFyvkzkGqup81BF1S894"
+    },
+    {
+      "album": {
         "name": "Szach i mat",
         "url": "https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh"
       },
@@ -2639,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Wracam do siebie",
+        "url": "https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Tak jak ja",
+      "url": "https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg"
+    },
+    {
+      "album": {
         "name": "taki ma\u0142y ja",
         "url": "https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK"
       },
@@ -2712,7 +2910,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175000,
       "name": "Ta\u0144cz\u0119 do Ciebie",
       "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
@@ -2958,7 +3156,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 125714,
       "name": "We Girls",
       "url": "https://open.spotify.com/track/0JlQ9LybFRSU96B1wESXLI"
@@ -3138,7 +3336,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 154977,
       "name": "Za Miasto",
       "url": "https://open.spotify.com/track/4PXLCS8HNjWiJARIyv7mhp"
@@ -3294,6 +3492,24 @@
       "duration_ms": 235592,
       "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
       "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
+    },
+    {
+      "album": {
+        "name": "Znak",
+        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Znak",
+      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
     },
     {
       "album": {

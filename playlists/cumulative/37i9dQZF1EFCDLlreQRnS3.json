@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "1200 Beats Per Minute",
+        "url": "https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201582,
+      "name": "Details",
+      "url": "https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr"
+    },
+    {
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/5vgiAIFtHN4DRQjBG5wf5F"
       },

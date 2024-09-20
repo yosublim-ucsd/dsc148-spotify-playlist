@@ -4,12 +4,12 @@
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-104 songs - 8 hr 18 min
+105 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 | 2021-07-28 |  |
-| [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 | 2021-07-28 |  |
+| [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 | 2021-07-28 | 2024-09-20 |
 | [A Dormir](https://open.spotify.com/track/5GZaVGl3gtqJQIsGacAhXX) | [ASH Trio](https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm), [Hernan Hecht](https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB), [Juan Pablo Arredondo](https://open.spotify.com/artist/60cGWQvC5gsGlxBihniRCS), [Natalio Sued](https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs) | [Salt](https://open.spotify.com/album/2nekkd7Ip0LxXpFIM85epo) | 4:42 | 2022-09-02 | 2022-10-21 |
 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 | 2021-07-28 | 2024-08-24 |
 | [Activo De Guayaba](https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:06 | 2024-08-29 |  |
@@ -35,6 +35,7 @@
 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 | 2021-07-28 |  |
 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 | 2021-07-28 |  |
 | [Desafío](https://open.spotify.com/track/7sCMzJYlmvLFnc4luMmwwD) | [Adrián Oropeza](https://open.spotify.com/artist/0UHpgEgbDNRk7EHwuh5Adt) | [Desafío](https://open.spotify.com/album/6xcsSLLM7E47iJIzuNmEWL) | 8:19 | 2022-09-02 | 2023-01-02 |
+| [Dulces y caramelos](https://open.spotify.com/track/4XxaUIzWA7pRXWyTk9GE2X) | [Cris Lobo](https://open.spotify.com/artist/56x9ETUTHSCk1q7OshZWqD) | [Tati](https://open.spotify.com/album/43GUikhIGxaAOfidGHCm8Z) | 4:30 | 2021-07-28 |  |
 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 | 2021-07-28 | 2024-04-19 |
 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr) | [Cuco Valtierra](https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa) | [Bonita](https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb) | 2:40 | 2021-07-28 | 2024-04-19 |
 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 | 2021-07-28 | 2024-08-30 |

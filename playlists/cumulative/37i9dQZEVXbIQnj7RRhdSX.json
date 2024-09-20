@@ -905,6 +905,36 @@
     },
     {
       "album": {
+        "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        },
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ"
+    },
+    {
+      "album": {
         "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
       },
@@ -21082,7 +21112,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170444,
       "name": "Let's Go (feat. Paky & NLE Choppa)",
       "url": "https://open.spotify.com/track/4PSTZL2XEGLcBhoDeTukXp"
@@ -25652,7 +25682,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -31962,7 +31992,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 210677,
       "name": "RAGNI",
       "url": "https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy"

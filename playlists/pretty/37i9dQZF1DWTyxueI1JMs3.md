@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.イケメン役者育成ゲーム『A3!』公式プレイリスト！©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,037 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,039 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 28 | [Spring has come!](https://open.spotify.com/track/2RRBQEw3laesyrXApTgWnV) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [茅ヶ崎至\(CV:浅沼晋太郎\)](https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE), [シトロン\(CV:五十嵐雅\)](https://open.spotify.com/artist/0pU543iZpOQwuwXK19t3SX), [碓氷真澄\(CV:白井悠介\)](https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf), [皆木綴\(CV:西山宏太朗\)](https://open.spotify.com/artist/5cstQE5eMNhvkVsJmOJz3N) | [A3! First SPRING EP](https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M) | 4:18 |
 | 29 | [蜃気楼は奇術の夜に](https://open.spotify.com/track/0yLz8shFdFLZJiqTQQGocf) | [碓氷真澄\(CV:白井悠介\)](https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf), [須玖キエル&宇曽ペテン](https://open.spotify.com/artist/51yM8t8QYurzscTXnLUd7b), [卯木千景\(CV:羽多野渉\)](https://open.spotify.com/artist/2q1iYBonWHVaAKjA7RgzYO) | [A3! EVER LASTING LP](https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA) | 4:21 |
 | 30 | [Just For Myself](https://open.spotify.com/track/3HzM39Uj7U0FLzLqXOtudU) | [ヴォルフ\[伏見臣\(CV:熊谷健太郎\)\]](https://open.spotify.com/artist/2zUq4WFQ6wzxBZw9KAVjL7), [ゼロ\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1Db3nv4s9FccdwVxOR9zX4) | [A3! Blooming AUTUMN EP](https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb) | 3:30 |
-| 31 | [Living The Dream](https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag) | [七尾太一\(CV:濱健人\)](https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1) | [A3! Blooming AUTUMN EP](https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb) | 4:47 |
-| 32 | [ロードトゥ饅頭マスター!](https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH) | [チャン\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI), [ユン\[泉田莇\(CV:小西成弥\)\]](https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:01 |
+| 31 | [ロードトゥ饅頭マスター!](https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH) | [チャン\[七尾太一\(CV:濱健人\)\]](https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI), [ユン\[泉田莇\(CV:小西成弥\)\]](https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG) | [A3! VIVID AUTUMN EP](https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS) | 4:01 |
+| 32 | [Living The Dream](https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag) | [七尾太一\(CV:濱健人\)](https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1) | [A3! Blooming AUTUMN EP](https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb) | 4:47 |
 | 33 | [Real Luck](https://open.spotify.com/track/0mZfyxlDOBt0oRSH9Ig795) | [茅ヶ崎至\(CV:浅沼晋太郎\)](https://open.spotify.com/artist/1bspajJhduKH7NOdfQPaRE) | [A3! SUNNY SPRING EP](https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e) | 3:32 |
 | 34 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 |
 | 35 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |

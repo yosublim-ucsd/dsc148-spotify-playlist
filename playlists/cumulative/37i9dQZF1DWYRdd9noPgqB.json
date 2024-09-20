@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+    },
+    {
+      "album": {
         "name": "Get Ready",
         "url": "https://open.spotify.com/album/3SnHhdCpWinISvVLHjFgHM"
       },
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 241503,
       "name": "I'm In Love (Subaru)",
       "url": "https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO"
@@ -2021,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "La vie est belle",
+        "url": "https://open.spotify.com/album/05ZXeyRiAR5uSwRypmDaEp"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Busy Twist",
+          "url": "https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189762,
+      "name": "La vie est belle",
+      "url": "https://open.spotify.com/track/75D4TY961T5u3FNo3O2vtq"
+    },
+    {
+      "album": {
         "name": "Ladies Room",
         "url": "https://open.spotify.com/album/2VS5Fo6wObpQqkPCm25LVL"
       },
@@ -2162,7 +2206,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 163458,
       "name": "Look At That Woman",
       "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
@@ -2314,7 +2358,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 194885,
       "name": "Macaroni Moon",
       "url": "https://open.spotify.com/track/5hxbl4ZGUPlYZU0wa5v2B3"
@@ -2832,7 +2876,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207669,
       "name": "Naked And Alive",
       "url": "https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF"
@@ -2920,7 +2964,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
@@ -3054,6 +3098,24 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
+      },
+      "artists": [
+        {
+          "name": "Jil Is Lucky",
+          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167114,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
     },
     {
       "album": {
@@ -3429,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/7JXIy8lvrYZTFAhmwG5bRx"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205251,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/7hFuGabcWfCfRKYpQxQ7qu"
+    },
+    {
+      "album": {
         "name": "Rose Colored",
         "url": "https://open.spotify.com/album/1QHJmVUnKt0jhoUNMK7VlI"
       },
@@ -3776,7 +3856,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 132640,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/0B9QFGFixYDCLKzPmN45KV"
@@ -3805,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Get Sick Get Better",
+        "url": "https://open.spotify.com/album/2vgmK0FxvLfrDOMazgGWbo"
+      },
+      "artists": [
+        {
+          "name": "Superjava",
+          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213386,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/3olBzBt2hQTUz8mgbfQJ6Q"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK"
       },
@@ -3816,10 +3914,28 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162019,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
+    },
+    {
+      "album": {
+        "name": "Lunch EP",
+        "url": "https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169407,
+      "name": "Sober Up",
+      "url": "https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3"
     },
     {
       "album": {
@@ -4286,6 +4402,28 @@
       "duration_ms": 206893,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
+    },
+    {
+      "album": {
+        "name": "The Last Sad Song",
+        "url": "https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "The Last Sad Song",
+      "url": "https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8"
     },
     {
       "album": {

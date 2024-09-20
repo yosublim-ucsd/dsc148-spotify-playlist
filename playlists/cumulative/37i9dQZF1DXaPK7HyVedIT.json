@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171585,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
+    },
+    {
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/2o0LavVNrpftVIQReVS0G8"
       },
@@ -2659,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167716,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/2vVkHhEsdBVdz9Plsouag7"
       },
@@ -3366,7 +3410,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 371844,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/5onEEf02y74La3YKychBPy"
@@ -3796,6 +3840,28 @@
       "duration_ms": 315483,
       "name": "Hope",
       "url": "https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6"
+    },
+    {
+      "album": {
+        "name": "Hours and Hours (Remixes)",
+        "url": "https://open.spotify.com/album/5GCHrMEmki7o7tO5JiTvqU"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Dropack",
+          "url": "https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Hours and Hours - Dropack Remix",
+      "url": "https://open.spotify.com/track/4UM3eO0keTNNvePOKGDUTF"
     },
     {
       "album": {
@@ -6523,6 +6589,28 @@
     },
     {
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/4ZRf9czIO2joiMoDBWbzul"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155748,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1uv6iYfmG2vBotgFMR2NXY"
+    },
+    {
+      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3leEcSpfr1uqP5PXgmRbXI"
       },
@@ -7038,7 +7126,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175931,
       "name": "Ressaca De Amor",
       "url": "https://open.spotify.com/track/5E0VQXQQU4m7gIR759nQxm"
@@ -9262,7 +9350,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230166,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/5aoy0Xf1ojp3NAaRImuEz8"

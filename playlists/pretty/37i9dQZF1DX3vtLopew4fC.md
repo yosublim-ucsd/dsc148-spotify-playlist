@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Nelly Furtado
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,752 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,754 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 23 | [can we NOT!](https://open.spotify.com/track/763GMHssYL2a8XWro8csMH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [can we NOT!](https://open.spotify.com/album/52v6O0aOHD7Md6fjk3m8ff) | 2:52 |
 | 24 | [fool's gold](https://open.spotify.com/track/2pwD0LWnZGhwF4oUu84MAJ) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [loving in the dark](https://open.spotify.com/album/1FkdDokTWbDhBrgtFDQS0D) | 2:23 |
 | 25 | [I WANT IT](https://open.spotify.com/track/0SPLgtGu9zrhYvVmMIeb7J) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [I WANT IT](https://open.spotify.com/album/3dxhVOuWEaCI7oQSCYtFF6) | 2:00 |
-| 26 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:12 |
+| 26 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 |
 | 27 | [905](https://open.spotify.com/track/6h0NtDxCJT0E34ycRGyUeR) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [905](https://open.spotify.com/album/0WgQMlX2oSD7n9eTqYiYce) | 2:24 |
 | 28 | [Julia, East Coast](https://open.spotify.com/track/0kkYVRYnDbL0VE4etDz9UX) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Julia, East Coast](https://open.spotify.com/album/6VmUsbgyoxoz1yOsqNLUgp) | 3:08 |
 | 29 | [WITH ME](https://open.spotify.com/track/7eCAmXqtRYrRhyu3WbsdZo) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [WITH ME](https://open.spotify.com/album/37owlD1LKiAHE5n6gZcxlU) | 2:23 |

@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Gomma Podu",
+        "url": "https://open.spotify.com/album/69MCTdiYHPHIJmHf5z2NEn"
+      },
+      "artists": [
+        {
+          "name": "V3K",
+          "url": "https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe"
+        },
+        {
+          "name": "Ungal Nachi",
+          "url": "https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164364,
+      "name": "Gomma Podu",
+      "url": "https://open.spotify.com/track/6hSuVbNKcKnc3KXoqZCIU9"
+    },
+    {
+      "album": {
         "name": "Rebirth 2020",
         "url": "https://open.spotify.com/album/4xwnRTi0isDNpmy3VDpbuM"
       },
@@ -2335,6 +2357,44 @@
     },
     {
       "album": {
+        "name": "Morattu School - From \"Think Indie\"",
+        "url": "https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz"
+      },
+      "artists": [
+        {
+          "name": "Madurai Souljour",
+          "url": "https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F"
+        },
+        {
+          "name": "Syan Saheer",
+          "url": "https://open.spotify.com/artist/3HIsm0H9DN47NZpHzOx8n9"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        },
+        {
+          "name": "Nowsa G",
+          "url": "https://open.spotify.com/artist/6JnLqE6htWnUihm5sJaK71"
+        },
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/2CPmjbtBNgcIo0nBVQCqIg"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Morattu School - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
+    },
+    {
+      "album": {
         "name": "Savadi(Individual Album Soundtrack)",
         "url": "https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ"
       },
@@ -2628,7 +2688,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"
@@ -4854,7 +4914,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198094,
       "name": "Uno",
       "url": "https://open.spotify.com/track/3NoyjWzdNxy5E7FF0gEALi"

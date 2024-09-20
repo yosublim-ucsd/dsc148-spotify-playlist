@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,996 likes - 66 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,267 likes - 66 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 2 | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de) | 4:07 |
 | 3 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 |
 | 4 | [Naina Da Kya Kasoor](https://open.spotify.com/track/2g3o6I7YuKFEUn9OOfuAfP) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K6B1gFrapG4pq719Q6r7h) | 3:30 |
-| 5 | [Vekh Sohneyaa \(From "Call Me Bae"\) \- From "Call Me Bae"](https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Vekh Sohneyaa \- From "Call Me Bae"](https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1) | 3:36 |
+| 5 | [Vekh Sohneyaa \- From "Call Me Bae"](https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Vekh Sohneyaa \(From "Call Me Bae"\)](https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1) | 3:36 |
 | 6 | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aayi Nai \(From "Stree 2"\)](https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc) | 2:58 |
 | 7 | [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 |
 | 8 | [Warey \- From "Call Me Bae"](https://open.spotify.com/track/76oiHh32ncf50ieMGcthHd) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb) | [Call Me Bae \- Original Series Soundtrack](https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL) | 2:51 |

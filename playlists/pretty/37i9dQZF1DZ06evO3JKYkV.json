@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 67166,
+  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "num_followers": 67188,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACrh15be/08ovxWlLc/w3vk",
+  "snapshot_id": "ZuoYAAAAAAC7ebzV/n00aUbCQ7sF4j0o",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 323186,
-      "name": "Ageispolis",
-      "url": "https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb"
+      "duration_ms": 228053,
+      "name": "Pulsewidth",
+      "url": "https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 228053,
-      "name": "Pulsewidth",
-      "url": "https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm"
+      "duration_ms": 323186,
+      "name": "Ageispolis",
+      "url": "https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp-bzUrQ>Freke Umoh</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=OiB17V4xTiC44evkJ0hdLg>Reblah</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -3430,6 +3430,24 @@
       "duration_ms": 360277,
       "name": "Kadosh Reprise",
       "url": "https://open.spotify.com/track/3f5ofl31bMBhueyCvQL2C5"
+    },
+    {
+      "album": {
+        "name": "Kingdom Love",
+        "url": "https://open.spotify.com/album/1mkKTWvru1BNoKlQAHdn79"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Kingdom Love",
+      "url": "https://open.spotify.com/track/0qpm1Y3DmQoln4BA49x3PQ"
     },
     {
       "album": {

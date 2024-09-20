@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-257 songs - 22 hr 30 min
+260 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Made In Finland](https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit) | [Made in Finland](https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7) | 4:26 | 2023-03-31 |  |
 | [Matka](https://open.spotify.com/track/1oQGPJopKpQ8amfXDfE37W) | [Leo Hynninen](https://open.spotify.com/artist/2sGqLEHBjdeKv6hi3tAsqj) | [Matka](https://open.spotify.com/album/3SQeJqqtmhPYfd3OCB6mUY) | 2:30 | 2023-12-15 | 2024-04-27 |
 | [Mercy](https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Mercy](https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU) | 5:00 | 2022-09-02 | 2023-09-15 |
+| [Metamorfoosi](https://open.spotify.com/track/3zaWDBpjSCi8zQfBCqEgoG) | [Viba](https://open.spotify.com/artist/6n4ZZlO4ciufCP2R5ul7Ni) | [Metamorfoosi](https://open.spotify.com/album/5sJ2n8A9aQfcsekOElCqKF) | 5:42 | 2024-09-19 |  |
 | [Miked Up! \- Single Version](https://open.spotify.com/track/6ArOfditpv6yFDP69kcpzn) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG), [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Miked Up!](https://open.spotify.com/album/3ndkwWjE0AQrwrrXLtxo8J) | 6:28 | 2024-08-15 |  |
 | [Moon Over Mysore](https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY) | [Kokko Quartet](https://open.spotify.com/artist/3KHGL7g4Udxn7D3Tja53Ve) | [Moon over Mysore](https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT) | 4:39 | 2022-09-02 | 2023-11-24 |
 | [More from Her](https://open.spotify.com/track/3IAcrSQpmuOHMd672Zi5Ac) | [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [More from Her](https://open.spotify.com/album/0dEOv7WHeFq5nRa2UqYAlb) | 3:40 | 2024-04-05 |  |
@@ -163,6 +164,7 @@
 | [One Perfect Morning](https://open.spotify.com/track/0E6lLl60PZYQIVRVsdTzVV) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [One Perfect Morning](https://open.spotify.com/album/7b9GDccYEQB9ccL7rPxuK3) | 5:18 | 2023-04-28 | 2023-05-13 |
 | [One Room](https://open.spotify.com/track/0wQBQupdAOsf2HG8f9cPuS) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME) | [One Room](https://open.spotify.com/album/3RAURon5042NskNxGXlC3t) | 5:37 | 2024-09-12 |  |
 | [One small step](https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [One small step](https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap) | 4:49 | 2022-09-22 | 2023-11-17 |
+| [Onko jo myöhäistä](https://open.spotify.com/track/77qSlRCqomEWW8S51Fx2kM) | [Piip](https://open.spotify.com/artist/0RGJUX5KEDFxMQxZ0N2fpS) | [Onko jo myöhäistä](https://open.spotify.com/album/3Ye5UkeeZcubn5vMil6W24) | 7:14 | 2024-09-19 |  |
 | [Onnela](https://open.spotify.com/track/5zj4zvqA463FiyeRmmQrUQ) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Onnela](https://open.spotify.com/album/56YkLuiw2D9RDKZcNOTTPg) | 5:45 | 2024-03-15 | 2024-03-23 |
 | [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 | 2022-09-02 | 2023-02-18 |
 | [Paint It Blue](https://open.spotify.com/track/0o5TqLCM8VoKMZId4l8BpY) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Paint It Blue](https://open.spotify.com/album/1vSTZbV19dtlr34CiqjLOx) | 5:16 | 2024-03-08 | 2024-07-06 |
@@ -190,6 +192,7 @@
 | [Reida](https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK) | [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Kosmoksen erakko](https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF) | 4:48 | 2022-09-02 | 2024-01-20 |
 | [Rhythm and Rhymes](https://open.spotify.com/track/3u1l3jkmcZe5wHTYIe7wi0) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Rhythm and Rhymes](https://open.spotify.com/album/0BXOiqvpJvUgwdwQ1JcE6N) | 5:02 | 2024-04-05 | 2024-07-06 |
 | [Rise By Descent](https://open.spotify.com/track/60Kj5zxGAJaASNjMLZzq0a) | [Pessi Parviainen](https://open.spotify.com/artist/23Do8i6Yu6VdhgL9BLlJhd) | [Rise By Descent](https://open.spotify.com/album/5ig5UwNFmil6iEwMpxQKAp) | 3:50 | 2022-09-02 | 2022-09-17 |
+| [Robin Childhood](https://open.spotify.com/track/1r0PS85Jt79L0QUUq4MRbo) | [D.O.P.A.](https://open.spotify.com/artist/1uGwYyqQ8YZ8xzkVmQh3Sb) | [Vivid Dreams](https://open.spotify.com/album/4LISy4V620cezE6xgkOEsw) | 3:46 | 2024-09-19 |  |
 | [Round Midnight](https://open.spotify.com/track/0gyHPSc26NDtQejC4Q2ynm) | [Simon Zion](https://open.spotify.com/artist/3qrNawSjdfCiAaTHmo5UOb), [Ville Luukkonen Trio](https://open.spotify.com/artist/1GEqXst78kpxeGlfaWAJZr) | [Round Midnight](https://open.spotify.com/album/4NepFUlHASISmO4P7KVAj9) | 5:42 | 2024-02-23 |  |
 | [Saami Rights](https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi) | [Jani Malmi](https://open.spotify.com/artist/7riUWstfEMI59UAvTmIKbS) | [Saami Rights](https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d) | 4:33 | 2022-09-02 | 2023-11-24 |
 | [Sao Paolo](https://open.spotify.com/track/6HmYcMEJQlMDXHjaYRQJF6) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Sao Paolo](https://open.spotify.com/album/3NYIyxSA052F9t9YuIhez7) | 2:37 | 2023-11-10 | 2023-11-24 |

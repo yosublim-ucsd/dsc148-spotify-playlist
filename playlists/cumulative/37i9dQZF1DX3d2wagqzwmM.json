@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 140575,
       "name": "Bad Cop",
       "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
@@ -1307,7 +1307,7 @@
     },
     {
       "album": {
-        "name": "Cannonball (Will Sparks Remix)",
+        "name": "Cannonball - Will Sparks Remix",
         "url": "https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8"
       },
       "artists": [
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
+        "url": "https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
+      "url": "https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
       },
@@ -1714,6 +1736,28 @@
       "duration_ms": 185624,
       "name": "Criminal Minds",
       "url": "https://open.spotify.com/track/661SaL85Dv0NV0wGhClHeq"
+    },
+    {
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
     },
     {
       "album": {
@@ -2322,7 +2366,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 139354,
       "name": "Drumroll Please",
       "url": "https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ"
@@ -2661,6 +2705,28 @@
     },
     {
       "album": {
+        "name": "Fall Down",
+        "url": "https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO"
+      },
+      "artists": [
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        },
+        {
+          "name": "MOTVS",
+          "url": "https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172004,
+      "name": "Fall Down",
+      "url": "https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj"
+    },
+    {
+      "album": {
         "name": "Feel My Love (feat. Joe Taylor) [Festival Mix]",
         "url": "https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1"
       },
@@ -2790,7 +2856,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160869,
       "name": "Fight Club",
       "url": "https://open.spotify.com/track/4Hpi4pDDXLIgUaefY97vdA"
@@ -2852,7 +2918,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 159777,
       "name": "Flight 643 - KAAZE Remix",
       "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
@@ -3054,7 +3120,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 187111,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0TqBVW2OXLf6UaNmBZtARL"
@@ -3084,7 +3150,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162857,
       "name": "Friends - Bassjackers Remix",
       "url": "https://open.spotify.com/track/4s69BXFmdssMXfSllZ2zlf"
@@ -3808,7 +3874,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 241870,
       "name": "High For This",
       "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
@@ -4268,7 +4334,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 192619,
       "name": "It Burns",
       "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
@@ -4758,7 +4824,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190746,
       "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
       "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
@@ -4780,7 +4846,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 181875,
       "name": "Living On Video (feat. DTale) [Festival Mix]",
       "url": "https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU"
@@ -4864,7 +4930,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 179045,
       "name": "Lost In The Music",
       "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
@@ -4886,7 +4952,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170880,
       "name": "Lost In The Rhythm",
       "url": "https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL"
@@ -5072,7 +5138,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135111,
       "name": "Mary Go Wild (Firebeatz Remix)",
       "url": "https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8"
@@ -5352,6 +5418,24 @@
     {
       "album": {
         "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/1ChOyl3SuWRyWPQsqvEQJj"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0cnSoVmeUWyNwUzbbYjbeI"
+    },
+    {
+      "album": {
+        "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
       "artists": [
@@ -5370,7 +5454,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
@@ -5444,7 +5528,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
@@ -5536,7 +5620,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182769,
       "name": "Motor",
       "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
@@ -7128,7 +7212,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 112499,
       "name": "Rave Generator",
       "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
@@ -7690,7 +7774,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 177810,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7MFNxZl1k1zvnqNWfWWZKH"
@@ -8718,7 +8802,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 169333,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab"
@@ -8754,7 +8838,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 206068,
       "name": "Tamara",
       "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
@@ -8838,7 +8922,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 202421,
       "name": "Techno Syndrome (Mortal Kombat)",
       "url": "https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg"
@@ -9620,7 +9704,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141333,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
@@ -9642,7 +9726,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 128274,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
@@ -10294,7 +10378,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176571,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
@@ -10394,7 +10478,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 156338,
       "name": "You Like It Rough (feat. Lee McKing)",
       "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"

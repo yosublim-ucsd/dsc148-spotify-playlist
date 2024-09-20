@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Despistaos.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 179705,
       "name": "Alguien pa ti",
       "url": "https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V"
+    },
+    {
+      "album": {
+        "name": "Aliento",
+        "url": "https://open.spotify.com/album/7bDAlSKUBnOucRPGvcBQaR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Aliento",
+      "url": "https://open.spotify.com/track/3g5tVCjkO5n1DgnWLOm0Pr"
     },
     {
       "album": {
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -4842,7 +4860,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 249186,
       "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
       "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
@@ -5230,7 +5248,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -5534,6 +5552,24 @@
       "duration_ms": 155328,
       "name": "Mi Madre Me Lo Dijo",
       "url": "https://open.spotify.com/track/45EACTzy62c5oy6ztZjW7q"
+    },
+    {
+      "album": {
+        "name": "Mi mejor momento",
+        "url": "https://open.spotify.com/album/5aIqBI7Qr46sGnPNuPNMJ3"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182877,
+      "name": "Mi mejor momento",
+      "url": "https://open.spotify.com/track/5uL8xCBHneH0lB9RlmRfqY"
     },
     {
       "album": {
@@ -8636,6 +8672,24 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "album": {
+        "name": "Yo no estoy pa' esto",
+        "url": "https://open.spotify.com/album/2iYmWXvBVwn1zAt3Zl4ivV"
+      },
+      "artists": [
+        {
+          "name": "Maruja Lim\u00f3n",
+          "url": "https://open.spotify.com/artist/15weuOZLZZBnFfkmkfVxPu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174325,
+      "name": "Yo no estoy pa' esto",
+      "url": "https://open.spotify.com/track/41j3sgBWERZD6D8bBr7U2y"
     },
     {
       "album": {

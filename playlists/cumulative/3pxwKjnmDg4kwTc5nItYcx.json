@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "album": {
         "name": "BUTTERFLIES",
         "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
@@ -13222,6 +13240,24 @@
       "duration_ms": 200758,
       "name": "The One",
       "url": "https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L"
+    },
+    {
+      "album": {
+        "name": "12 Notes (Deluxe) [16 Notes]",
+        "url": "https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169081,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg"
     },
     {
       "album": {

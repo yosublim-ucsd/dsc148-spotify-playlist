@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Blanco",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nines",
   "name": "Rap UK",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 218343,
       "name": "100 Crops",
       "url": "https://open.spotify.com/track/0fsuOUFS7qkJksHYJKf9Ru"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 119600,
       "name": "100 Thou",
       "url": "https://open.spotify.com/track/7HOWVw8cHA1nq4dzP1NY4N"
@@ -11101,6 +11101,24 @@
     },
     {
       "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ"
+      },
+      "artists": [
+        {
+          "name": "D7",
+          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/38ogb7mIY9QNJfQQjgyX8k"
       },
@@ -14291,6 +14309,28 @@
     },
     {
       "album": {
+        "name": "Gang Ties (feat. Headie One)",
+        "url": "https://open.spotify.com/album/7EoemSCOLGwqP6QwOly6eR"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Gang Ties (feat. Headie One)",
+      "url": "https://open.spotify.com/track/24MvIfLvlRyemQX4ena9W6"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -16089,6 +16129,24 @@
     },
     {
       "album": {
+        "name": "High Again",
+        "url": "https://open.spotify.com/album/461BHt5dj2EfuVwHQol0ol"
+      },
+      "artists": [
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193802,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/1X2h661BuAGlYXAvqODwFX"
+    },
+    {
+      "album": {
         "name": "High Profile (feat. Rimzee)",
         "url": "https://open.spotify.com/album/3oWmGiCzArFHRO4wbX8IGS"
       },
@@ -17764,6 +17822,24 @@
       "duration_ms": 167137,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW"
+    },
+    {
+      "album": {
+        "name": "Instantly",
+        "url": "https://open.spotify.com/album/1W9MbesLzpo7CrvWMANJcU"
+      },
+      "artists": [
+        {
+          "name": "BlazeYL",
+          "url": "https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "Instantly",
+      "url": "https://open.spotify.com/track/2ZKigFND4unNopll76YEp4"
     },
     {
       "album": {
@@ -21210,7 +21286,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 206261,
       "name": "Low Fading (feat. Tay Jordan)",
       "url": "https://open.spotify.com/track/5l7iC1vXA6K3hMbKMYZWLe"
@@ -22170,6 +22246,28 @@
       "duration_ms": 153720,
       "name": "Maybach Wallet",
       "url": "https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9"
+    },
+    {
+      "album": {
+        "name": "Mayor",
+        "url": "https://open.spotify.com/album/53NHY16ccFIhomJMzy0Sd7"
+      },
+      "artists": [
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        },
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Mayor",
+      "url": "https://open.spotify.com/track/78JW2b8R8sTERHwJ46eSqg"
     },
     {
       "album": {
@@ -27052,7 +27150,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 121951,
       "name": "PAWZ",
       "url": "https://open.spotify.com/track/7HgIsm8Oq9akUEUaLNBYHM"
@@ -28978,6 +29076,24 @@
       "duration_ms": 191792,
       "name": "Ramsay",
       "url": "https://open.spotify.com/track/5NpbhGYMPEPMylfVKBI0Tt"
+    },
+    {
+      "album": {
+        "name": "Rap Game",
+        "url": "https://open.spotify.com/album/5WWZSXOImWqiXuIGcNN7lH"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163935,
+      "name": "Rap Game",
+      "url": "https://open.spotify.com/track/7MtWFi9UcmQQw4cFw1DEWt"
     },
     {
       "album": {
@@ -32522,7 +32638,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175483,
       "name": "Snakes & Ladders",
       "url": "https://open.spotify.com/track/3W1ithMTcEj32nRh3lQrF0"
@@ -38178,7 +38294,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 123750,
       "name": "We're Online",
       "url": "https://open.spotify.com/track/5SjxzOqRIjYy6hNY5ad9Sr"
@@ -39136,7 +39252,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 81103,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/0DsVNV75FloiUdbebs0mSo"
@@ -39726,6 +39842,24 @@
       "duration_ms": 164475,
       "name": "Ying Dat",
       "url": "https://open.spotify.com/track/0iT6u0OSo1lthHCAruJEuw"
+    },
+    {
+      "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/3r1nWyM1kvgkl6ePN58pzR"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "YO",
+      "url": "https://open.spotify.com/track/3x6x1N8AXvmmlrTAlqAR83"
     },
     {
       "album": {

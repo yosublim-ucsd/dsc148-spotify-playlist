@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Krys",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150562,
       "name": "Bando",
       "url": "https://open.spotify.com/track/4TH0SmEfwT5LA70Ek5xqD4"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135824,
       "name": "Basshall Sound",
       "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
@@ -3047,6 +3047,32 @@
     },
     {
       "album": {
+        "name": "Full Plastique",
+        "url": "https://open.spotify.com/album/6oiOkRNRABM02BwSvERdXx"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        },
+        {
+          "name": "Youth CrazySquad",
+          "url": "https://open.spotify.com/artist/7c0anpzJb2ssRsmpmoKRZ2"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152352,
+      "name": "Full Plastique",
+      "url": "https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs"
+    },
+    {
+      "album": {
         "name": "G-Side: The Way I Do It",
         "url": "https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe"
       },
@@ -3506,7 +3532,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 146400,
       "name": "Hadouken",
       "url": "https://open.spotify.com/track/5mnG4NDkKDLCCNbEBvXAbc"
@@ -6237,6 +6263,28 @@
     },
     {
       "album": {
+        "name": "Bat\u00e9",
+        "url": "https://open.spotify.com/album/67eNLPFbkFfVpGY7ECQkyA"
+      },
+      "artists": [
+        {
+          "name": "Saina Manotte",
+          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
+        },
+        {
+          "name": "Sikem",
+          "url": "https://open.spotify.com/artist/47aVsamA2qdWHrbMPeW25b"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143518,
+      "name": "Pal\u00e9",
+      "url": "https://open.spotify.com/track/6SqWSOpX9ZWi7vA4eaA7bU"
+    },
+    {
+      "album": {
         "name": "PAPA",
         "url": "https://open.spotify.com/album/2s1k5Xgidmo3UdJc7jYdCl"
       },
@@ -8786,6 +8834,28 @@
       "duration_ms": 146731,
       "name": "U'r Bad",
       "url": "https://open.spotify.com/track/6fJmOSkPSqTETDvBFyiyXb"
+    },
+    {
+      "album": {
+        "name": "UNCLE",
+        "url": "https://open.spotify.com/album/5UYU2bazxYdOFtMKs89CLx"
+      },
+      "artists": [
+        {
+          "name": "KILLI",
+          "url": "https://open.spotify.com/artist/2VHuInTKPsBGsCDFn5WkxW"
+        },
+        {
+          "name": "Badbay Mono",
+          "url": "https://open.spotify.com/artist/057IZtL2EQtspbfn8zIe4w"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "UNCLE",
+      "url": "https://open.spotify.com/track/4kri0tYpk1eIktB2FeUE1g"
     },
     {
       "album": {

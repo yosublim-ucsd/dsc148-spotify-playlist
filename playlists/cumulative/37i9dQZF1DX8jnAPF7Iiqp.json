@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/03TI13zwgG29Hies8HBbdm"
+      },
+      "artists": [
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO"
+    },
+    {
+      "album": {
         "name": "Ex Machina",
         "url": "https://open.spotify.com/album/7ojYx4vW64prZ1bZy4r0cB"
       },
@@ -3908,7 +3930,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"

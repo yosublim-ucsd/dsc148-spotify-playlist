@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Mago de Tarso, Xand Avião
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,976 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,960 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Spice](https://open.spotify.com/track/40pvoMvErxOKzeXSScaUaV) | [Espectro](https://open.spotify.com/artist/7phgIJ88gDxkUK6pbkQw8r), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Spice](https://open.spotify.com/album/2qhHeH0LDJrQVjK4sHvsP6) | 2:41 |
 | 75 | [Rico](https://open.spotify.com/track/6P9kSBHa1OzK4yKbple5aI) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Rico](https://open.spotify.com/album/29qFEzG4cTvdJle2D3cgdv) | 2:57 |
 
-Snapshot ID: `ZuOq7AAAAADLumoMk/KQUlj0nXTKwXfi`
+Snapshot ID: `ZuOq7AAAAADl2FmsDBkEgMZNIAvXjLct`

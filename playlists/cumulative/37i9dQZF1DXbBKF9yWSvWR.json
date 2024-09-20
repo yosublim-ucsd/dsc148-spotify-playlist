@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "For your daily dosis of music with an Indie twist. Cover: Warhaus",
+  "description": "For your daily dosis of music with an Indie twist. Cover: Bon Iver",
   "name": "A Shot Of Indie",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189053,
       "name": "All A Mystery",
       "url": "https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177106,
       "name": "Artificial Bliss - demo",
       "url": "https://open.spotify.com/track/2Aj78pYcs3mhiuieOmNd34"
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Do I Know Myself At All?",
+        "url": "https://open.spotify.com/album/3ASaIg3bWEMdDOvJKDLhRg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259821,
+      "name": "Do I Know Myself At All?",
+      "url": "https://open.spotify.com/track/6KlmtPCVaW3V8nfKRq6Efd"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm"
       },
@@ -677,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+    },
+    {
+      "album": {
         "name": "Give It Back to Me",
         "url": "https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0"
       },
@@ -814,7 +854,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185038,
       "name": "House Down",
       "url": "https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh"
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 202173,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH"
@@ -1452,7 +1492,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 154051,
       "name": "Peachy Free",
       "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
@@ -1492,6 +1532,24 @@
       "duration_ms": 102305,
       "name": "perfume",
       "url": "https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F"
+    },
+    {
+      "album": {
+        "name": "Picture",
+        "url": "https://open.spotify.com/album/6rwvim3fD0WIOrbro1d0me"
+      },
+      "artists": [
+        {
+          "name": "Nagasaki Swim",
+          "url": "https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419008,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/3je6Qe27q1ygRvYZ408wHM"
     },
     {
       "album": {
@@ -1618,6 +1676,24 @@
       "duration_ms": 204634,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
+    },
+    {
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "album": {
@@ -1802,6 +1878,24 @@
       "duration_ms": 146605,
       "name": "sunflower boy",
       "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "album": {
+        "name": "Send Me Flowers",
+        "url": "https://open.spotify.com/album/1U83vSAotohihqF292ZcaN"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Swimming in the Garden",
+      "url": "https://open.spotify.com/track/4qAWtO9SxAfH23y98EezVc"
     },
     {
       "album": {
@@ -2098,6 +2192,24 @@
       "duration_ms": 184312,
       "name": "Underground",
       "url": "https://open.spotify.com/track/34NlD5bQB7Z7UgGHiI4lZh"
+    },
+    {
+      "album": {
+        "name": "Watsu",
+        "url": "https://open.spotify.com/album/5LntLFtQ8Sz7DePmn5lQll"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259795,
+      "name": "Watsu",
+      "url": "https://open.spotify.com/track/1m70Nwk89mGu0g61EPiwN2"
     },
     {
       "album": {

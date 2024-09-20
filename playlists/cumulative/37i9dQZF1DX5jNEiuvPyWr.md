@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : HOUDI
 
-422 songs - 20 hr 40 min
+423 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [CYCLOPE](https://open.spotify.com/track/7xFKQU5QkRuVCxIoWseuMv) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [CYCLOPE](https://open.spotify.com/album/7wbaB5YZY7gzv93wm1ZIdu) | 2:04 | 2024-02-08 | 2024-04-12 |
 | [Cômelepadre.](https://open.spotify.com/track/7ciz0C3oekfibO6zLUiZEO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ) | [APHANTASIA](https://open.spotify.com/album/1njQ4QdbKaz7d5aATknk5J) | 2:58 | 2024-06-27 |  |
 | [D'une vie à l'autre](https://open.spotify.com/track/6N64lJLiw3QqhWjZlhKJvB) | [Lacraps](https://open.spotify.com/artist/082dnQ2APdm4cFw8eILB4u), [Dezef](https://open.spotify.com/artist/6MAtTUpkhJRcdgGRQUotX1) | [Associés](https://open.spotify.com/album/7cKu958VBrfEhv5UQLeY0v) | 3:06 | 2023-06-29 | 2023-08-25 |
+| [DALIDA](https://open.spotify.com/track/0tMQTxZBDZydVHi2YUwJOz) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [LE DERNIER RAYON DE SOLEIL](https://open.spotify.com/album/0RKowuKEHhFPmQlLbZi9Qv) | 3:23 | 2024-09-19 |  |
 | [DANS L'TRAP](https://open.spotify.com/track/374qdqFUlA7IwLSuC23WQE) | [AAMO](https://open.spotify.com/artist/5PQWIvBPwezhXhqnr4gpdm) | [DANS L'TRAP](https://open.spotify.com/album/3R96xzeG9JkMeeWBy1k626) | 2:51 | 2024-02-29 |  |
 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 | 2023-07-06 | 2023-10-06 |
 | [De moins en moins](https://open.spotify.com/track/10CpduevjmNyjSDzmZfKCD) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [De moins en moins](https://open.spotify.com/album/5YCvDkugYHZC0ohDY2NOhO) | 2:38 | 2024-01-11 | 2024-02-16 |
@@ -278,7 +279,7 @@
 | [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 | 2023-07-20 | 2024-04-12 |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 | 2022-12-16 |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
-| [NEWBARBIE](https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ) | [LOVSZN](https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO) | 1:49 | 2024-08-01 |  |
+| [NEWBARBIE](https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ) | [LOVSZN](https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO) | 1:49 | 2024-08-01 | 2024-09-20 |
 | [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 | 2023-06-02 |
 | [NO PASSION](https://open.spotify.com/track/393Tn6mkpkkfpXEAknAYOL) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e) | [NO PASSION](https://open.spotify.com/album/2UOOv8ZIeVZv6IowBZwdYS) | 2:04 | 2023-08-24 | 2023-10-13 |
 | [Noir](https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk) | [ONZ](https://open.spotify.com/artist/2cHLzuB7J9TfkwTMFmTe5E), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [OPAQUE](https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk) | 2:46 | 2022-12-01 | 2023-03-18 |

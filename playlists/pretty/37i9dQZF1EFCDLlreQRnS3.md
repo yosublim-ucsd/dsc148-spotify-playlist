@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 114 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 115 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 74 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
 | 75 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
 | 76 | [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 |
-| 77 | [Fine Without You](https://open.spotify.com/track/2ADQwsjzZIEJYi2QtfAvqc) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Fine Without You](https://open.spotify.com/album/2cgbaxqFkFGzx1gHzQN9zW) | 3:04 |
-| 78 | [I Like You](https://open.spotify.com/track/6lraE2NC35v7UCYBoq55Jd) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [I Like You](https://open.spotify.com/album/2iKM8ya2CYQPkVefK8ywvV) | 3:17 |
+| 77 | [I Like You](https://open.spotify.com/track/6lraE2NC35v7UCYBoq55Jd) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [I Like You](https://open.spotify.com/album/2iKM8ya2CYQPkVefK8ywvV) | 3:17 |
+| 78 | [Fine Without You](https://open.spotify.com/track/2ADQwsjzZIEJYi2QtfAvqc) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Fine Without You](https://open.spotify.com/album/2cgbaxqFkFGzx1gHzQN9zW) | 3:04 |
 | 79 | [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 |
 | 80 | [The Point in Loving You](https://open.spotify.com/track/2yqvG9Izoq4CNPEgL1Ek41) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 2:55 |
 | 81 | [What I Wanted \- Denis Neve Remix](https://open.spotify.com/track/2KmS4tAa0XegfGt5LOHCsj) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t), [Denis Neve](https://open.spotify.com/artist/5IROUcc1w1dYbubLCM3Dsl) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:46 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 100 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
 | 101 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 |
 | 102 | [No Man's Land](https://open.spotify.com/track/3lQIahCMwi22O2DP1J6q7K) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 3:02 |
-| 103 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
-| 104 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 |
+| 103 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 |
+| 104 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
 | 105 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
 | 106 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 |
 | 107 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 |
@@ -121,6 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 111 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
 | 112 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 113 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
-| 114 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
+| 114 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 |
+| 115 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbcgSgAAAAAdLctVzfGmXrCMUAcb8aEQ`
+Snapshot ID: `Abcl6gAAAADAv209ynIAv+fAy4YnbAqW`

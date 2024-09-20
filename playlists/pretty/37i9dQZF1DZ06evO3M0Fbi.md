@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3M0Fbi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3M0Fbi)
 
-### [This Is Nirvana ነው](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M0Fbi)
+### [This Is Nirvana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M0Fbi)
 
-> This is Nirvana\. አስፈላጊዎቹ ሙዚቃዎች፣ ሁሉም በአንድ አጫዋች ዝርዝር ውስጥ።
+> This Is Nirvana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,650 likes - 38 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,812 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 37 | [Verse Chorus Verse \- Outtake](https://open.spotify.com/track/27sz8XfkjnUqTRJwxjHrS1) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:16 |
 | 38 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 
-Snapshot ID: `Zud1AAAAAAAsjJ5v7Fmj+9xT5m49EmbA`
+Snapshot ID: `ZuoYAAAAAADa8LbEJNfAVI8rmUv2Zv0v`

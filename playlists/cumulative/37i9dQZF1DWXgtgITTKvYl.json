@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of the best recent Prog Rock tracks. Cover: VOLA",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: VOLA, Anders Friden",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 231929,
       "name": "Act Like an Animal",
       "url": "https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "All the Rage",
+        "url": "https://open.spotify.com/album/05RRKpehX1NxHo2ncDSEtm"
+      },
+      "artists": [
+        {
+          "name": "Neal Morse",
+          "url": "https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334095,
+      "name": "All the Rage",
+      "url": "https://open.spotify.com/track/3zpcjUIikRrHP3uz6E2tNf"
+    },
+    {
+      "album": {
         "name": "Alpha Howl",
         "url": "https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 503893,
       "name": "Atropos",
       "url": "https://open.spotify.com/track/0pfbHUS1He5Mjt0EmP8Mrl"
+    },
+    {
+      "album": {
+        "name": "The Century of the Self",
+        "url": "https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404480,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu"
     },
     {
       "album": {
@@ -280,7 +316,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 664413,
       "name": "Blood Moon Night",
       "url": "https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY"
@@ -389,6 +425,50 @@
     },
     {
       "album": {
+        "name": "Live at Morsefest 2022: The Absolute Whirlwind (Night 2)",
+        "url": "https://open.spotify.com/album/0Pk9h6mA3UslI786gGn0e1"
+      },
+      "artists": [
+        {
+          "name": "Transatlantic",
+          "url": "https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Can You Feel It - Live at Morsefest 2022",
+      "url": "https://open.spotify.com/track/23AD5f1W9GDhtFU1P2UBig"
+    },
+    {
+      "album": {
+        "name": "Cannibal (feat. Anders Frid\u00e9n)",
+        "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "album": {
         "name": "Castaway Angels",
         "url": "https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB"
       },
@@ -436,7 +516,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 315062,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N"
@@ -472,7 +552,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 228383,
       "name": "Danger",
       "url": "https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS"
@@ -566,6 +646,24 @@
       "duration_ms": 209636,
       "name": "Down",
       "url": "https://open.spotify.com/track/3IBJBG25WdRnc9YKaZI38v"
+    },
+    {
+      "album": {
+        "name": "A Flare On The Lens (Live)",
+        "url": "https://open.spotify.com/album/73v44ExX2MnFSbPQWRoLGt"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 972766,
+      "name": "East Coast Racer - Live in London 2023",
+      "url": "https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N"
     },
     {
       "album": {
@@ -768,7 +866,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 225320,
       "name": "Follow The Fool",
       "url": "https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso"
@@ -858,7 +956,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 275004,
       "name": "Free",
       "url": "https://open.spotify.com/track/1s2nolY8iX6hkKd4TFhb5b"
@@ -876,10 +974,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 307920,
       "name": "Future Memories",
       "url": "https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP"
+    },
+    {
+      "album": {
+        "name": "Eraser",
+        "url": "https://open.spotify.com/album/4ukZYmOiQ9Kz2jjK39tNo8"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Giants Leaving",
+      "url": "https://open.spotify.com/track/2r6myX3qOu9SDUbYhxnanU"
     },
     {
       "album": {
@@ -952,6 +1068,42 @@
       "duration_ms": 368973,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/3kBTxzdPJzP399hYP9BoaW"
+    },
+    {
+      "album": {
+        "name": "SHELTERING SKIES (Live in Fr\u00e9jus, August 27th 1982)",
+        "url": "https://open.spotify.com/album/50PE5AvcgV0Ro1OkHWUotV"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Heartbeat - Live in Fr\u00e9jus",
+      "url": "https://open.spotify.com/track/31gH3jGEwA9R8uzznh7zln"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2CATRWH2YIdajne7jXHzB5"
+      },
+      "artists": [
+        {
+          "name": "Amarok",
+          "url": "https://open.spotify.com/artist/7wzRaLHNSWIG8ZHK2hQljt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284426,
+      "name": "Hope Is",
+      "url": "https://open.spotify.com/track/4jy8mXwqnOmKGrwB64zKc6"
     },
     {
       "album": {
@@ -1046,7 +1198,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198880,
       "name": "If You Deserve It, You Deserve It",
       "url": "https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni"
@@ -1234,6 +1386,24 @@
       "duration_ms": 300181,
       "name": "It's Only Smiles - Acoustic",
       "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
+    },
+    {
+      "album": {
+        "name": "Jainism",
+        "url": "https://open.spotify.com/album/2pplRHhezNgAkNUJ1nXvCZ"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256890,
+      "name": "Jainism",
+      "url": "https://open.spotify.com/track/7o3rmtT5FdBISM6L3I9wTn"
     },
     {
       "album": {
@@ -1435,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "MelancHoly",
+        "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
+      },
+      "artists": [
+        {
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "MelancHoly",
+      "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+    },
+    {
+      "album": {
         "name": "Gordian Naught",
         "url": "https://open.spotify.com/album/65scVmou0spzWY2FllcQay"
       },
@@ -1468,6 +1656,28 @@
       "duration_ms": 493223,
       "name": "Moral and Consequence",
       "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
+    },
+    {
+      "album": {
+        "name": "Never Right - HORSKH Remix",
+        "url": "https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM"
+      },
+      "artists": [
+        {
+          "name": "SIERRA",
+          "url": "https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4"
+        },
+        {
+          "name": "HORSKH",
+          "url": "https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "Never Right - HORSKH Remix",
+      "url": "https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy"
     },
     {
       "album": {
@@ -1572,7 +1782,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 696866,
       "name": "Oceans Of Time",
       "url": "https://open.spotify.com/track/1I2sRZz3TzBzx0Gu1tY4Tb"
@@ -1698,7 +1908,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 238161,
       "name": "Polline",
       "url": "https://open.spotify.com/track/5cZn53LpcP6K3XO9nSXwZQ"
@@ -2170,7 +2380,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 165746,
       "name": "Shiram",
       "url": "https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY"
@@ -2268,7 +2478,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 372570,
       "name": "Somber Aeons",
       "url": "https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT"
@@ -2365,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Key",
+        "url": "https://open.spotify.com/album/4lvhLVlxROwIWD87GGOj7J"
+      },
+      "artists": [
+        {
+          "name": "pg.lost",
+          "url": "https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329280,
+      "name": "Terrain",
+      "url": "https://open.spotify.com/track/25s1qqeuHILtIlg0mTplBt"
+    },
+    {
+      "album": {
         "name": "War Is Over",
         "url": "https://open.spotify.com/album/4QAEcrM4zKTByiscO3eA90"
       },
@@ -2448,7 +2676,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 353093,
       "name": "The Cynic",
       "url": "https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK"
@@ -2689,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "Point of No Return",
+        "url": "https://open.spotify.com/album/2RoHfEj9a6ynuaavGqdakl"
+      },
+      "artists": [
+        {
+          "name": "Craneium",
+          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302480,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3aoEzuyxvnHxlqRodDkwaX"
+    },
+    {
+      "album": {
         "name": "The Voice of What Whispers",
         "url": "https://open.spotify.com/album/73hzW7c39KRCBuBRqiTZf3"
       },
@@ -2888,7 +3134,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 289026,
       "name": "Zest",
       "url": "https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ"

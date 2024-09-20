@@ -1,15 +1,35 @@
 {
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Ian",
-  "num_followers": 18895,
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Pepy, Sami G",
+  "num_followers": 18900,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsem0AAAAABMdhE27TeFC/uupKR39B5r",
+  "snapshot_id": "ZuyQ0AAAAACGvgoWr2JiTm4XJOlXGfn5",
   "tracks": [
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Antidot",
+        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
+      },
+      "artists": [
+        {
+          "name": "Pepy",
+          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Antidot",
+      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "BEAST MODE +",
         "url": "https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg"
@@ -29,23 +49,7 @@
       "url": "https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "BANII",
-        "url": "https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ"
-      },
-      "artists": [
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "BANII",
-      "url": "https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
@@ -69,7 +73,23 @@
       "url": "https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "duration_ms": 90612,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Bun Venit Acasa (Deluxe)",
         "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
@@ -85,39 +105,67 @@
       "url": "https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+        "name": "Geamu Jos",
+        "url": "https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "Shift",
+          "url": "https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy"
+        },
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK"
+        },
+        {
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+      "duration_ms": 151741,
+      "name": "Geamu Jos",
+      "url": "https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "SLIPPER\u0218I NOI",
-        "url": "https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H"
+        "name": "BANII",
+        "url": "https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ"
       },
       "artists": [
         {
-          "name": "NANE",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
         }
       ],
-      "duration_ms": 166082,
-      "name": "SLIPPER\u0218I NOI",
-      "url": "https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy"
+      "duration_ms": 120000,
+      "name": "BANII",
+      "url": "https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "NOTSOZEN",
+        "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "SPARGEM",
+      "url": "https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Femei \u00een Parlament",
         "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
@@ -133,43 +181,39 @@
       "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Scandal",
-        "url": "https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q"
+        "name": "Transportin' (Remix)",
+        "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
       },
       "artists": [
         {
-          "name": "Sapte",
-          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Scandal",
-      "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
+      "duration_ms": 134000,
+      "name": "Transportin' - Remix",
+      "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "VREM",
-        "url": "https://open.spotify.com/album/1xkhCX1MGv3uS1kEjGD0Q7"
+        "name": "SLIPPER\u0218I NOI",
+        "url": "https://open.spotify.com/album/40AzON3oRfcVwzOqrxnY9H"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
         }
       ],
-      "duration_ms": 139354,
-      "name": "VREM",
-      "url": "https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP"
+      "duration_ms": 166082,
+      "name": "SLIPPER\u0218I NOI",
+      "url": "https://open.spotify.com/track/1yudIFzWBSY4SR3G6jW1Jy"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "CONTACT FATAL 3",
         "url": "https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr"
@@ -185,47 +229,23 @@
       "url": "https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "CEVA UMAN - INTERLUDIU",
-        "url": "https://open.spotify.com/album/2SDJj446sLnv6Bm288MWxG"
-      },
-      "artists": [
-        {
-          "name": "andrei",
-          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
-        },
-        {
-          "name": "Raul Ws",
-          "url": "https://open.spotify.com/artist/0jd4rNLzxZYyxEcvOGRtO4"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "CEVA UMAN - INTERLUDIU",
-      "url": "https://open.spotify.com/track/2gxUwygMzhdPhgHf07dYOA"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Soarele R\u0103sare Din Nou",
         "url": "https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW"
@@ -241,23 +261,71 @@
       "url": "https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+        "name": "Banii Vin, Banii Pleaca",
+        "url": "https://open.spotify.com/album/4tQ5FqvXxVkhNw02Z0mUTs"
       },
       "artists": [
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z"
+        },
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        },
+        {
+          "name": "Mutu",
+          "url": "https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Sper Ca Esti Bine",
-      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
+      "duration_ms": 238762,
+      "name": "Banii Vin, Banii Pleaca",
+      "url": "https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "C\u0103l\u0103torie la cap\u0103tul nop\u021bii",
+        "url": "https://open.spotify.com/album/6ZvTBbHpPiA8pf7I7dylLm"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "DOC",
+          "url": "https://open.spotify.com/artist/29yuPsAM84rlPk1IUWu3UP"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "C\u0103l\u0103torie la cap\u0103tul nop\u021bii",
+      "url": "https://open.spotify.com/track/6gPzJBlXHZ6iVDccBWoCPB"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Un vibe",
+        "url": "https://open.spotify.com/album/6ygjbwFvmZXFP77Cgx1OEG"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        },
+        {
+          "name": "Seredinschi",
+          "url": "https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN"
+        }
+      ],
+      "duration_ms": 139192,
+      "name": "Un vibe",
+      "url": "https://open.spotify.com/track/6Q7FRyOQuqrNPVzjiI261m"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "TURURU",
         "url": "https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK"
@@ -277,7 +345,47 @@
       "url": "https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Derni\u00e8re Cigarette",
+        "url": "https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 174871,
+      "name": "Derni\u00e8re Cigarette",
+      "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "iNGER",
         "url": "https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw"
@@ -293,27 +401,23 @@
       "url": "https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Chiar acum",
-        "url": "https://open.spotify.com/album/5kpiuzVOp1VGQ3sI5HR4Lq"
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
       },
       "artists": [
         {
-          "name": "Criss Blaziny",
-          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
-        },
-        {
-          "name": "Macanache",
-          "url": "https://open.spotify.com/artist/4tr1nXsLLAQj86Hs5VyU2w"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 137282,
-      "name": "Chiar acum",
-      "url": "https://open.spotify.com/track/1SuivczL8L4e0e2yS8UNqA"
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Dela Dela",
         "url": "https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz"
@@ -329,27 +433,7 @@
       "url": "https://open.spotify.com/track/5IdyQNtt6kWq1vft7P2HPh"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "VIEW",
-        "url": "https://open.spotify.com/album/2HSJcRXaC5TaVo3sySevhK"
-      },
-      "artists": [
-        {
-          "name": "NANE",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
-        },
-        {
-          "name": "Alduts Sherdley",
-          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
-        }
-      ],
-      "duration_ms": 177551,
-      "name": "VIEW",
-      "url": "https://open.spotify.com/track/7b2QrCqjeZBKt0bvc5fP0S"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "70 De Grade",
         "url": "https://open.spotify.com/album/5mqTP2YNFlsAKwxvH9BFUa"
@@ -369,7 +453,23 @@
       "url": "https://open.spotify.com/track/290VWceE1PQqfj3tIqHbEZ"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "0 contact",
+        "url": "https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH"
+      },
+      "artists": [
+        {
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "0 contact",
+      "url": "https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "OCHI ALBA\u0218TRI",
         "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
@@ -389,7 +489,23 @@
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "PESTE TOT",
         "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
@@ -405,7 +521,23 @@
       "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "VREM",
+        "url": "https://open.spotify.com/album/1xkhCX1MGv3uS1kEjGD0Q7"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "VREM",
+      "url": "https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
@@ -425,23 +557,7 @@
       "url": "https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Tu, M\u0103rie!",
-        "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
-      },
-      "artists": [
-        {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Tu, M\u0103rie!",
-      "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "\u0218tefan IV: Umbra",
         "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
@@ -461,31 +577,7 @@
       "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Cel mai frumos show",
-        "url": "https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b"
-      },
-      "artists": [
-        {
-          "name": "OG Eastbull",
-          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
-        },
-        {
-          "name": "Guess Who",
-          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Am Zis Ceva",
         "url": "https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY"
@@ -505,27 +597,67 @@
       "url": "https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "7 v\u0103i \u0219i o vale",
-        "url": "https://open.spotify.com/album/0ZCxIHLBxERqxBRVaJslpQ"
+        "name": "\u0218tefan IV",
+        "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
       "artists": [
         {
-          "name": "El Nino",
-          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         },
         {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        },
+        {
+          "name": "Pitariu George",
+          "url": "https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s"
         }
       ],
-      "duration_ms": 163225,
-      "name": "7 v\u0103i \u0219i o vale",
-      "url": "https://open.spotify.com/track/0mLDTm9K7vbdjtnSGjYwxG"
+      "duration_ms": 194936,
+      "name": "inexplicabil",
+      "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Scandal",
+        "url": "https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q"
+      },
+      "artists": [
+        {
+          "name": "Sapte",
+          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Scandal",
+      "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Tu, M\u0103rie!",
+        "url": "https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Tu, M\u0103rie!",
+      "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "\u0218TII\u2026",
         "url": "https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4"
@@ -545,7 +677,7 @@
       "url": "https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Legenda",
         "url": "https://open.spotify.com/album/15IKtAuzpuD5JeBr35X7uP"
@@ -561,7 +693,7 @@
       "url": "https://open.spotify.com/track/6dqC4isK1jxuzhjxsSBo5S"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "X6",
         "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
@@ -577,7 +709,7 @@
       "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY"
@@ -593,7 +725,7 @@
       "url": "https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Flori de Lavand\u0103",
         "url": "https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD"
@@ -613,23 +745,7 @@
       "url": "https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Transportin' (Remix)",
-        "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Transportin' - Remix",
-      "url": "https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Ochii",
         "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
@@ -645,7 +761,7 @@
       "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Vise La Plic",
         "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
@@ -661,7 +777,7 @@
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "HANNIBAL LECTER",
         "url": "https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N"
@@ -681,7 +797,7 @@
       "url": "https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "31 Februarie",
         "url": "https://open.spotify.com/album/1sy5FydU38TaXUe6dbdb1A"
@@ -701,7 +817,7 @@
       "url": "https://open.spotify.com/track/31Xr1dMPE183zUQbEpgqHG"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
@@ -721,7 +837,7 @@
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
@@ -757,7 +873,7 @@
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Meditez",
         "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
@@ -777,7 +893,7 @@
       "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
@@ -801,160 +917,48 @@
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "TEL AVIV",
-        "url": "https://open.spotify.com/album/6KOfz6EiIEDW8qTRSlPiwV"
+        "name": "Cel mai frumos show",
+        "url": "https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 124540,
-      "name": "TEL AVIV",
-      "url": "https://open.spotify.com/track/5RuV7f3rEoQeqZ8YvT4mVZ"
+      "duration_ms": 174066,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se"
     },
     {
-      "added_at": "2024-08-22 21:00:00",
+      "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Banii Vin, Banii Pleaca",
-        "url": "https://open.spotify.com/album/4tQ5FqvXxVkhNw02Z0mUTs"
+        "name": "7 v\u0103i \u0219i o vale",
+        "url": "https://open.spotify.com/album/0ZCxIHLBxERqxBRVaJslpQ"
       },
       "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z"
-        },
         {
           "name": "El Nino",
           "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
         },
         {
-          "name": "Mutu",
-          "url": "https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP"
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
         }
       ],
-      "duration_ms": 238762,
-      "name": "Banii Vin, Banii Pleaca",
-      "url": "https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "0 contact",
-        "url": "https://open.spotify.com/album/6hudyDipDsV6IfhkM0aJhH"
-      },
-      "artists": [
-        {
-          "name": "Alduts Sherdley",
-          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "0 contact",
-      "url": "https://open.spotify.com/track/38tDAt21w69fQetCU2zwa6"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Casa Goala",
-        "url": "https://open.spotify.com/album/0vL1n2GZ9N4GI3HMjimeMF"
-      },
-      "artists": [
-        {
-          "name": "Kepa",
-          "url": "https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Casa Goala",
-      "url": "https://open.spotify.com/track/5RQMopEH1rc9BqQjlpvXAO"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Bilateral",
-        "url": "https://open.spotify.com/album/6e3RHMdj3iGViUgzm7d9d9"
-      },
-      "artists": [
-        {
-          "name": "libEluLLah",
-          "url": "https://open.spotify.com/artist/47s4jfzj4DOUP5zj53qHJv"
-        },
-        {
-          "name": "A.U.G.",
-          "url": "https://open.spotify.com/artist/7lc9emmSaHSmjEKbqLtYxE"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Bilateral",
-      "url": "https://open.spotify.com/track/5tsdJCTthJlYcLRpEL80qm"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "\u0218tefan IV",
-        "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        },
-        {
-          "name": "Stefan Costea",
-          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
-        },
-        {
-          "name": "Pitariu George",
-          "url": "https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s"
-        }
-      ],
-      "duration_ms": 194936,
-      "name": "inexplicabil",
-      "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Seria 5",
-        "url": "https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I"
-      },
-      "artists": [
-        {
-          "name": "Kepa",
-          "url": "https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Seria 5",
-      "url": "https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Derni\u00e8re Cigarette",
-        "url": "https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy"
-      },
-      "artists": [
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        },
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
-        }
-      ],
-      "duration_ms": 174871,
-      "name": "Derni\u00e8re Cigarette",
-      "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+      "duration_ms": 163225,
+      "name": "7 v\u0103i \u0219i o vale",
+      "url": "https://open.spotify.com/track/0mLDTm9K7vbdjtnSGjYwxG"
     }
   ],
   "unique_name": "Suflet + Sunet",

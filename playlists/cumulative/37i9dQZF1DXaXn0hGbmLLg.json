@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145190,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1CLVN50LxZ1XSmigiNxY1s"
       },

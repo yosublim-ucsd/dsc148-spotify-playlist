@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Victor Marc",
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
   "name": "Made in France",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161360,
       "name": "BETTER PLACE",
       "url": "https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180913,
       "name": "Even Now",
       "url": "https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5"
@@ -2644,6 +2644,24 @@
       "duration_ms": 203186,
       "name": "Exotica",
       "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
+    },
+    {
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
     },
     {
       "album": {
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 242979,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
@@ -5798,6 +5816,24 @@
       "duration_ms": 198973,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "album": {
+        "name": "Monde Nouveau",
+        "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157116,
+      "name": "Monde Nouveau",
+      "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
     },
     {
       "album": {
@@ -6460,6 +6496,24 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9"
+    },
+    {
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
+      },
+      "artists": [
+        {
+          "name": "Jil Is Lucky",
+          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167114,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
     },
     {
       "album": {
@@ -7508,7 +7562,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209525,
       "name": "Run",
       "url": "https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf"
@@ -8235,6 +8289,24 @@
     },
     {
       "album": {
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258239,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7"
+    },
+    {
+      "album": {
         "name": "St\u00f6rm",
         "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
       },
@@ -8586,6 +8658,36 @@
       "duration_ms": 196546,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0J92jWQySAfKXhXApETKR0"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        },
+        {
+          "name": "Diane Sagnier",
+          "url": "https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay"
+        },
+        {
+          "name": "Rocket Mike",
+          "url": "https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU"
+        },
+        {
+          "name": "Leo Hellden",
+          "url": "https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv"
     },
     {
       "album": {
@@ -9574,7 +9676,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185968,
       "name": "what have u done",
       "url": "https://open.spotify.com/track/2CVjS07I3t34ULLDSPRLLW"
@@ -9712,7 +9814,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 128546,
       "name": "Xany",
       "url": "https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn"
@@ -9942,6 +10044,24 @@
       "duration_ms": 194986,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"
+    },
+    {
+      "album": {
+        "name": "\u00c9TINCELLE",
+        "url": "https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215550,
+      "name": "\u00c9TINCELLE",
+      "url": "https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG"
     },
     {
       "album": {

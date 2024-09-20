@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-742 songs - 2 day 0 hr 37 min
+743 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Earthquake](https://open.spotify.com/track/1X9468G9BtZSdjYGV3QBWm) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [My Heart Is An Open Field](https://open.spotify.com/album/6Ks507WDVnwn2p9VANI2No) | 4:14 | 2024-02-07 |  |
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 | 2024-04-03 |
 | [easy](https://open.spotify.com/track/0wJvASZtBXXxNAfnmHd0Tr) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 5:41 | 2024-01-03 | 2024-07-09 |
-| [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \- Bonus Track Version](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 | 2023-06-24 |  |
+| [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 | 2023-06-24 |  |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2024-01-08 |  |
 | [Erase You](https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:17 | 2024-02-15 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |
@@ -340,6 +340,7 @@
 | [Introduction](https://open.spotify.com/track/25BcBVAoG8bZ2m63bYiAAZ) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 0:32 | 2024-02-11 |  |
 | [Isometric \(Intro\)](https://open.spotify.com/track/4RWeizdES94TbsDWSrQdLU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 1:20 | 2022-08-20 |  |
 | [It Ain't Easy, It Ain't Easy \(feat\. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR\)](https://open.spotify.com/track/4krhkcFf3OqxHSS1QUIsmc) | [Beast Coast](https://open.spotify.com/artist/1Nd1g8fezKoJ6DGauWbZIm), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Escape From New York](https://open.spotify.com/album/1NPxBmG3k3UzybcaxxSVuB) | 3:40 | 2022-10-18 |  |
+| [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 | 2024-09-19 |  |
 | [It's A Passage](https://open.spotify.com/track/2AEfMWp1FGvgjASlFPqu8K) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:58 | 2024-06-11 |  |
 | [It's Gonna Be A Long Night](https://open.spotify.com/track/0vpN0CT9JT9wQ4cQeCXfjF) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 2:50 | 2024-01-15 |  |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2022-12-29 |  |

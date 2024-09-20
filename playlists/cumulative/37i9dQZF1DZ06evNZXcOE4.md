@@ -4,7 +4,7 @@
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 24 min
+60 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Three Days](https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 10:48 | 2022-01-11 |  |
 | [To Match The Sun](https://open.spotify.com/track/3XYHyEs2go41Bcsbn2vPXz) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:25 | 2022-01-27 | 2022-01-29 |
 | [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 | 2022-01-11 | 2022-10-13 |
+| [True Love](https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [True Love](https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF) | 3:43 | 2024-09-20 |  |
 | [True Nature](https://open.spotify.com/track/2iAo34ybicqwWVYM2aF3xr) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:49 | 2022-01-11 |  |
 | [Twisted Tales](https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 | 2022-01-11 |  |
 | [Underground](https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:07 | 2022-01-11 |  |

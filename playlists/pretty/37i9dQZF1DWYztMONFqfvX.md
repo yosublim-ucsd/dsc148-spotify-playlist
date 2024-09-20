@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,453 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,894 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 14 | [Sooiyan](https://open.spotify.com/track/6OTfUkn4BwQtSnWvwO9vyR) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Guddu Rangeela](https://open.spotify.com/album/341FZdVIVGwER19ZnZBTLW) | 4:01 |
 | 15 | [Rasiya Reprise \(From "Brahmastra"\)](https://open.spotify.com/track/1iuAKcOYX0TtIM6EbKPbTW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rasiya Reprise \(From "Brahmastra"\)](https://open.spotify.com/album/4mDNKf2XHGQbgFtShU6RaT) | 4:45 |
 | 16 | [Sanam Re](https://open.spotify.com/track/0CVfovmUv7BnemOyTtOcbL) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Re](https://open.spotify.com/album/5xP2I1UDXhE7D4GpMOoZY9) | 5:08 |
-| 17 | [Phir Bhi Tumko Chaahunga](https://open.spotify.com/track/3oNVqllTnz7bHrY3f0nICg) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Half Girlfriend \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03) | 5:51 |
+| 17 | [Phir Bhi Tumko Chaahunga](https://open.spotify.com/track/3oNVqllTnz7bHrY3f0nICg) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Half Girlfriend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03) | 5:51 |
 | 18 | [Jeena Sikha De](https://open.spotify.com/track/4XaTifRBp47wWiIW1chpn5) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Srikanth](https://open.spotify.com/album/02MStK0KNHY9H6xkmJX5qB) | 4:30 |
 | 19 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 |
 | 20 | [Tere Sang Ishq Hua \(From "Yodha"\)](https://open.spotify.com/track/2BJCgb5RvPSLBsx6UYfJV2) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tere Sang Ishq Hua \(From "Yodha"\)](https://open.spotify.com/album/1mzuRaOlm89DHVV57sa3XC) | 3:38 |

@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Nikita Kering'
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-194 songs - 10 hr 45 min
+196 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:49 | 2024-06-27 |  |
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 |  |
 | [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 | 2024-04-19 |
-| [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 |  |
+| [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 | 2024-09-20 |
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 | 2023-08-18 |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 | 2023-05-19 |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 | 2023-05-27 |
@@ -53,6 +53,7 @@
 | [Feel](https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:01 | 2024-04-25 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 | 2022-07-23 |
 | [Fire](https://open.spotify.com/track/4N7Hgi6ED70sEQvahUDz9p) | [Ayrosh](https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l) | [Fire](https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK) | 3:28 | 2021-12-28 | 2022-05-13 |
+| [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-19 |  |
 | [Fire on Fire](https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo) | [Moraa](https://open.spotify.com/artist/3KXgIveLaCqHIvZPex0HE8) | [Feelings Station](https://open.spotify.com/album/6JQB8PzILyZHsYEMLejthu) | 2:33 | 2024-01-19 |  |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-19 |  |
 | [Forever](https://open.spotify.com/track/3w0UpkLT8xMKX0HqBkLUQV) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Forever](https://open.spotify.com/album/4Hu3aPRRM4bVU3kujeUT8H) | 3:27 | 2022-06-30 | 2024-06-21 |
@@ -98,6 +99,7 @@
 | [Love](https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Love](https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC) | 3:40 | 2022-01-20 | 2022-04-29 |
 | [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-09-13 |  |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-24 | 2023-09-01 |
+| [Love Somebody](https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK) | [Love Somebody](https://open.spotify.com/album/7leuw9dFN1tJtTqWR24cwu) | 3:00 | 2024-09-19 |  |
 | [Love Song](https://open.spotify.com/track/0kYTjcTXayQcdUzohxfAqp) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/0xNOx0ypbNqtjYKKhs1Xza) | 3:11 | 2022-05-26 | 2023-08-25 |
 | [Love Song](https://open.spotify.com/track/6eUMsc38EqwN70ggjXnWBV) | [TrishaGrey](https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx) | [Love Song](https://open.spotify.com/album/4ioUbWV9uoKVBGwSiqjrpC) | 3:11 | 2022-05-26 | 2022-08-25 |
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-08-31 | 2024-06-01 |
@@ -176,7 +178,7 @@
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-15 |  |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 | 2023-10-20 |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-08-24 | 2024-09-13 |
-| [TLC \(No Love Lost\)](https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [TLC \(No Love Lost\)](https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW) | 3:45 | 2024-05-30 |  |
+| [TLC \(No Love Lost\)](https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [TLC \(No Love Lost\)](https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW) | 3:45 | 2024-05-30 | 2024-09-20 |
 | [Tonight](https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Tonight](https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz) | 1:40 | 2024-08-15 |  |
 | [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |
 | [Tosheka](https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/7nuk7Wcfcv8UyMDfRimD4I) | 4:02 | 2021-12-28 | 2023-03-25 |

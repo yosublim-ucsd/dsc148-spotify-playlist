@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف:ماجد المهندس
+> كل شي خليجي جديد\. داليا
 
-366 songs - 1 day 1 hr 14 min
+367 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 | 2023-03-25 |
 | [Abghani](https://open.spotify.com/track/2dCjWuh8bNEU0gkWrlUbvD) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Abghani](https://open.spotify.com/album/6BPDqnmk4okiP45OUTQo6F) | 3:55 | 2023-12-29 | 2024-07-27 |
 | [Abiha Mn Allah](https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Abiha Mn Allah](https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r) | 4:11 | 2023-06-13 | 2023-12-30 |
-| [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 |  |
+| [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 | 2024-09-20 |
 | [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-05 |  |
 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-15 | 2023-06-14 |
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 | 2022-11-08 |
@@ -254,6 +254,7 @@
 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 | 2022-09-01 | 2023-03-15 |
 | [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 | 2022-11-10 | 2023-05-13 |
 | [Talebk Bellah](https://open.spotify.com/track/2y5ENCjOsCZIqyM7Tuz7p0) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Talebk Bellah](https://open.spotify.com/album/1QFAQJuygvWFhUmnMSoXXa) | 4:58 | 2024-05-09 |  |
+| [Tammeni Aleik](https://open.spotify.com/track/07w6Wpbcn1CyQY8SwTcg7K) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Tammeni Aleik](https://open.spotify.com/album/79GYIpfuKlcQxfhyhjFhML) | 3:55 | 2024-09-19 |  |
 | [Tamnony Aleh](https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT) | [Rola Kadri](https://open.spotify.com/artist/28Jx760F4Z37RhCtjOrLGj) | [Tamnony Aleh](https://open.spotify.com/album/4bRULRxIQFGrAXXl5nu2C6) | 3:02 | 2021-12-23 | 2022-06-04 |
 | [Taraf Thaleth](https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Taraf Thaleth](https://open.spotify.com/album/10nwn4BzwNQAnePtj07bwo) | 3:54 | 2023-01-20 | 2023-06-14 |
 | [Taraf Wahed](https://open.spotify.com/track/1p9RcdO0iNFyj0Cz29MBHo) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Taraf Wahed](https://open.spotify.com/album/0eIinkQDLHDD8hxoerZt8O) | 3:14 | 2024-08-19 |  |

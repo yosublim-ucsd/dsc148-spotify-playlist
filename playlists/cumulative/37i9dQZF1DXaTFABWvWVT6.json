@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151384,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
@@ -1108,6 +1108,28 @@
       "duration_ms": 184790,
       "name": "Face In The Crowd",
       "url": "https://open.spotify.com/track/26u8BxcbNNRlbreUeIwXnP"
+    },
+    {
+      "album": {
+        "name": "Famax (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Famax - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2"
     },
     {
       "album": {
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 158666,
       "name": "Junction 3",
       "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
@@ -3343,6 +3365,36 @@
     },
     {
       "album": {
+        "name": "take your vibes and go",
+        "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134844,
+      "name": "take your vibes and go",
+      "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
         "name": "Talk About",
         "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
       },
@@ -3362,6 +3414,28 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Fairground",
+          "url": "https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197355,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH"
     },
     {
       "album": {
@@ -3680,7 +3754,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 122790,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/5SyTXTAj6vVzkGlfLoNoCq"

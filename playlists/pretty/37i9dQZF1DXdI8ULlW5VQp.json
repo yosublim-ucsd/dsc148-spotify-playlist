@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
-  "num_followers": 71984,
+  "num_followers": 72010,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-09-13 14:25:29",
       "album": {
+        "name": "ojal\u00e1 </3",
+        "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 171290,
+      "name": "ojal\u00e1 </3",
+      "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+    },
+    {
+      "added_at": "2024-09-13 14:25:29",
+      "album": {
         "name": "Inmortal",
         "url": "https://open.spotify.com/album/7iPWGMxFzD5FesNdN9WjWH"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-09-13 14:25:29",
       "album": {
-        "name": "ojal\u00e1 </3",
-        "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
+        "name": "c\u00f3mo acaba",
+        "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 171290,
-      "name": "ojal\u00e1 </3",
-      "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
     },
     {
       "added_at": "2024-09-13 14:25:29",
@@ -1335,22 +1351,6 @@
       "duration_ms": 209052,
       "name": "\u00bfQu\u00e9 Hago Con los Besos?",
       "url": "https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0"
-    },
-    {
-      "added_at": "2024-09-13 14:25:29",
-      "album": {
-        "name": "c\u00f3mo acaba",
-        "url": "https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
     }
   ],
   "unique_name": "Cantamores",

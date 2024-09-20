@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-917 songs - 2 day 1 hr 42 min
+918 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 | 2023-01-24 |
 | [Jahli Aashiq](https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:36 | 2024-02-07 | 2024-02-13 |
+| [Jannataan](https://open.spotify.com/track/3nfhaBOqvypXW2dKfXLeic) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Jannataan](https://open.spotify.com/album/4pS7yOiK9vRxVkugAR3EO9) | 2:45 | 2024-09-19 |  |
 | [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 | 2023-02-02 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 | 2023-02-04 |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
@@ -374,7 +375,7 @@
 | [Kachi Neend \("Haye Bibbye Kithe Fas Gaye"\)](https://open.spotify.com/track/3Vl2tpB9tofxxc59eFzVMN) | [Dhira Gill](https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Kachi Neend \("Haye Bibbye Kithe Fas Gaye"\)](https://open.spotify.com/album/7hNTwQSjv4EVtGXPXrhtOt) | 3:23 | 2024-08-26 | 2024-09-06 |
 | [Kachi Umar \(feat\. Aman Aujla,Simran Dhiman\)](https://open.spotify.com/track/12HPzRdSPwOd4AD1nUiwZw) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Aman Aujla](https://open.spotify.com/artist/2ZDVI9q5zWuIC0WGBMUOJy), [Simran Dhiman](https://open.spotify.com/artist/6iJ8WCYRWsIlIw0cbVy00O) | [Kachi Umar](https://open.spotify.com/album/19RO9vz5tKBnXPO9wFSdOt) | 3:04 | 2022-02-16 | 2022-03-11 |
 | [Kadar](https://open.spotify.com/track/0OuVLayFkarLKlGXuA3fzL) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Bakht Ali Khan](https://open.spotify.com/artist/5NVwL0wr9patdsl0fV3cvC) | [Kadar](https://open.spotify.com/album/5Yns2wDmk9hVnVN7rsW4eu) | 3:43 | 2022-09-21 | 2022-12-16 |
-| [Kahani Khatam Hui](https://open.spotify.com/track/1h8Zjud9HqRJ317mfOSqSU) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Kahani Khatam Hui](https://open.spotify.com/album/0dO5E3HAwqv4SPMMpNl1f7) | 3:13 | 2024-09-05 |  |
+| [Kahani Khatam Hui](https://open.spotify.com/track/1h8Zjud9HqRJ317mfOSqSU) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Kahani Khatam Hui](https://open.spotify.com/album/0dO5E3HAwqv4SPMMpNl1f7) | 3:13 | 2024-09-05 | 2024-09-20 |
 | [Kajla](https://open.spotify.com/track/4inpAUR0gA7alZ8wjBtVnD) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Kajla](https://open.spotify.com/album/3u2oiK1O1f4TIbASBeddgA) | 3:01 | 2022-09-08 | 2022-09-16 |
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2022-10-11 | 2022-12-16 |
 | [Kala Tikka](https://open.spotify.com/track/0sRvMdVDukSw6QIgVnbxoZ) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D), [Harman Kular](https://open.spotify.com/artist/73Yz4ecFAAf24PKjgaEbS4) | [Kala Tikka](https://open.spotify.com/album/14b04H9DPEaDCtbmLL1z39) | 2:58 | 2022-01-21 | 2022-02-01 |

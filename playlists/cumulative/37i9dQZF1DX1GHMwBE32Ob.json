@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/3WzgZdTWq4Yrm4gPyZpFCw"
+      },
+      "artists": [
+        {
+          "name": "Ayomide",
+          "url": "https://open.spotify.com/artist/60ugXjqZGlhC7aLMRL49Dl"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161765,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/4qEm3JiU5GkeWKtnL5FmxG"
+    },
+    {
+      "album": {
         "name": "Bust Down",
         "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
       },
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 133561,
       "name": "FILE FUN",
       "url": "https://open.spotify.com/track/1u928hWuzkxEIipQCl0tCx"
@@ -2926,7 +2948,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180000,
       "name": "Kelegbe",
       "url": "https://open.spotify.com/track/0cyG4z70VsqPCjC61v1Oz7"
@@ -3182,7 +3204,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 157758,
       "name": "My Niqqa",
       "url": "https://open.spotify.com/track/71xowQywqqeA2EV6wGLC3S"
@@ -4351,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "Partey",
+        "url": "https://open.spotify.com/album/3JNYuMpXnuYGifDBD2qDwv"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Partey",
+      "url": "https://open.spotify.com/track/4eDZ5jfKINvJmIMcDdKxyh"
+    },
+    {
+      "album": {
         "name": "PASSPORT",
         "url": "https://open.spotify.com/album/0ur6MSEB0rf5Qg5wqh3ZvK"
       },
@@ -4370,7 +4414,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 186206,
       "name": "PASSPORT",
       "url": "https://open.spotify.com/track/3vtvE4NMSmJQDzdB9ktXKk"
@@ -5936,6 +5980,28 @@
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4vBwmlkNzKGOcfaNkYK59B"
+      },
+      "artists": [
+        {
+          "name": "Luca Zuccotti",
+          "url": "https://open.spotify.com/artist/455sSMlijr7BLQjQj2QbsO"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148953,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6ZhqlOBOzMDNhM2IZD5X4H"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob"

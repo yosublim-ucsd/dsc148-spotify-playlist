@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,355 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,425 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 96 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 |
 | 97 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
 | 98 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 |
-| 99 | [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 |
-| 100 | [Looking For You](https://open.spotify.com/track/6vHuAZ9orqsewmJibrQUwY) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Looking For You](https://open.spotify.com/album/42AbWcVDR2P1aosRDdJ7Yl) | 3:18 |
+| 99 | [Looking For You](https://open.spotify.com/track/6vHuAZ9orqsewmJibrQUwY) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Looking For You](https://open.spotify.com/album/42AbWcVDR2P1aosRDdJ7Yl) | 3:18 |
+| 100 | [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 |
 
 Snapshot ID: `ZuO4wAAAAAAnjFfx4XPuV1MUjUIpN9rd`

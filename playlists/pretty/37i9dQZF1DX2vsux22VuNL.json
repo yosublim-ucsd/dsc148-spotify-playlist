@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 290731,
+  "num_followers": 290736,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -118,6 +118,10 @@
         {
           "name": "IZA",
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
       "duration_ms": 201264,
@@ -403,8 +407,8 @@
     {
       "added_at": "2024-09-13 02:41:51",
       "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
       "artists": [
         {
@@ -412,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2024-09-13 02:41:51",
@@ -607,6 +611,22 @@
     {
       "added_at": "2024-09-13 02:41:51",
       "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2024-09-13 02:41:51",
+      "album": {
         "name": "Cairo",
         "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
       },
@@ -623,22 +643,6 @@
       "duration_ms": 205672,
       "name": "Cairo",
       "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
-    },
-    {
-      "added_at": "2024-09-13 02:41:51",
-      "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2024-09-13 02:41:51",
@@ -791,26 +795,6 @@
     {
       "added_at": "2024-09-13 02:41:51",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-09-13 02:41:51",
-      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -827,6 +811,26 @@
       "duration_ms": 161632,
       "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-09-13 02:41:51",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2024-09-13 02:41:51",
@@ -979,26 +983,6 @@
     {
       "added_at": "2024-09-13 02:41:51",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
-    },
-    {
-      "added_at": "2024-09-13 02:41:51",
-      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp"
       },
@@ -1067,6 +1051,26 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
+    },
+    {
+      "added_at": "2024-09-13 02:41:51",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-09-13 02:41:51",
@@ -1307,6 +1311,22 @@
     {
       "added_at": "2024-09-13 02:41:51",
       "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2024-09-13 02:41:51",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1331,22 +1351,6 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
-    },
-    {
-      "added_at": "2024-09-13 02:41:51",
-      "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2024-09-13 02:41:51",

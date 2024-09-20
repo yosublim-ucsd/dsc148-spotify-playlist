@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Feid, Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,048 likes - 39 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,996 likes - 39 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

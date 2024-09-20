@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Maddie & Tae, Miranda Lambert, Parker McCollum and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,723 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,867 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 16 | [Stand](https://open.spotify.com/track/3bV1iS1qWgbS9hGqM45wyj) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stand](https://open.spotify.com/album/6QVcVdbZCcNmrZSgAu0BJo) | 3:29 |
 | 17 | [Scared To Love Again](https://open.spotify.com/track/6uVbSAvKzTRgWj0IQ094En) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Scared To Love Again](https://open.spotify.com/album/7o0OCzWlZR3pyOOsRWzdAc) | 4:13 |
 | 18 | [Drinkin' in a Dry County](https://open.spotify.com/track/6dr8G1gO9Oa6gVlQV76R4v) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Drinkin' in a Dry County](https://open.spotify.com/album/36u3tJfsZ89Qi4QDkqtA4h) | 3:01 |
-| 19 | [Sunday in the South](https://open.spotify.com/track/05ij6sLi5xRb2s2yOCSvPN) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Sunday in the South](https://open.spotify.com/album/0oOoMX85F7EnoLB0PM5Q2e) | 4:15 |
+| 19 | [Sunday in the South \(feat\. Jason Aldean & Luke Bryan\)](https://open.spotify.com/track/05ij6sLi5xRb2s2yOCSvPN) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Sunday in the South \(feat\. Jason Aldean & Luke Bryan\)](https://open.spotify.com/album/0oOoMX85F7EnoLB0PM5Q2e) | 4:15 |
 | 20 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Father’s Søn \- Acoustic](https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN) | 4:32 |
 | 21 | [Hangover At My Place](https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Hangover At My Place](https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD) | 3:16 |
 | 22 | [Good Ol' Boys](https://open.spotify.com/track/0mJwh7DgT6nX6E7vlJvpH9) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Good Ol' Boys](https://open.spotify.com/album/5MFao6EdeWOIy9yDqMRLnj) | 3:18 |

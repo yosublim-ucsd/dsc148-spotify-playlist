@@ -1,12 +1,12 @@
 {
-  "description": "This Is Rod Wave. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 209713,
+  "description": "This is Rod Wave. The essential tracks, all in one playlist.",
+  "num_followers": 209845,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACp6znftJXiYKQzDhvNeh7x",
+  "snapshot_id": "ZuoYAAAAAAACJj/jqQbdYzvRgxIg4rOi",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passport Junkie",
+        "url": "https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 147749,
+      "name": "Passport Junkie",
+      "url": "https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pray 4 Love",
         "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 169453,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 194050,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passport Junkie",
-        "url": "https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 147749,
-      "name": "Passport Junkie",
-      "url": "https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Paint The Sky Red",
-      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 135418,
       "name": "Close Enough to Hurt",
       "url": "https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 183850,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 121521,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 183850,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly - Deluxe Version",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 155259,
-      "name": "What's Wrong",
-      "url": "https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 144960,
       "name": "Dark Conversation",
       "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly - Deluxe Version",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 155259,
+      "name": "What's Wrong",
+      "url": "https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Popular Loner",
-      "url": "https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 178677,
       "name": "Sky Priority",
       "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Popular Loner",
+      "url": "https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Sweet Little Lies",
-      "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Sweet Little Lies",
+      "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hunger Games 3",
         "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
       },
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+        "name": "Numb (2024)",
+        "url": "https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 191158,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1"
+      "duration_ms": 174645,
+      "name": "Numb - 2024",
+      "url": "https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numb (2024)",
-        "url": "https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70"
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 174645,
-      "name": "Numb - 2024",
-      "url": "https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1"
+      "duration_ms": 191158,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/5eSRsILuZOdEz55igfg9qV"
+      "duration_ms": 142285,
+      "name": "Love Overdose",
+      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Love Overdose",
-      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
+      "duration_ms": 169411,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/5eSRsILuZOdEz55igfg9qV"
     },
     {
       "added_at": null,

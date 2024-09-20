@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 236468,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5nXNPNH2bsyIwWBwWoY4i9"
@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "DUALIDAD",
+        "url": "https://open.spotify.com/album/2E8uAhpPNGEzKPfuojbLHj"
+      },
+      "artists": [
+        {
+          "name": "Malena Narvay",
+          "url": "https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5IF3wRy67JqKEMLduiSSFX"
+    },
+    {
+      "album": {
         "name": "Maldita Foto",
         "url": "https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6"
       },
@@ -4002,6 +4020,24 @@
       "duration_ms": 181791,
       "name": "ME GUSTAN TODAS",
       "url": "https://open.spotify.com/track/360nASHrDZlY2REawPoE20"
+    },
+    {
+      "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "album": {
@@ -6198,7 +6234,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 205136,
       "name": "Tanya Loca",
       "url": "https://open.spotify.com/track/3czd1OJ74I5QGwGsKVmcH3"
@@ -7046,7 +7082,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233406,
-      "name": "WE PRAY - TINI Version",
+      "name": "WE PRAY - (TINI Version)",
       "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
     },
     {

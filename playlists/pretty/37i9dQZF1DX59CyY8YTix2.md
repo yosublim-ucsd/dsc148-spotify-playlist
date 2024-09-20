@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Aooo
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,298 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,300 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 24 | [SHOW THEM](https://open.spotify.com/track/70Xjen27QvHRdRPLHGu63F) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [SHOW THEM](https://open.spotify.com/album/6AnkB6TmegA5OeHlVwyaoA) | 3:15 |
 | 25 | [君にさよならを言わない](https://open.spotify.com/track/6L3OTo89iy6RqJFhVwIuv2) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [君にさよならを言わない](https://open.spotify.com/album/3dZO6OPLzn4jmMqvXnbSNf) | 4:21 |
 | 26 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
-| 27 | [CROWN \- Digital Single](https://open.spotify.com/track/3iEDGTJMwWGZiaWYnbRHAw) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [CROWN](https://open.spotify.com/album/3tbZnA7NixrMCVrrNbq68M) | 3:38 |
+| 27 | [CROWN](https://open.spotify.com/track/3iEDGTJMwWGZiaWYnbRHAw) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [CROWN](https://open.spotify.com/album/3tbZnA7NixrMCVrrNbq68M) | 3:38 |
 | 28 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
 | 29 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 |
 | 30 | [Meant to Be](https://open.spotify.com/track/38Dd9iFFq7Me7b6JkbMr68) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Meant to Be](https://open.spotify.com/album/0pPbQtxkmOUqvSaZ6Q0RIH) | 3:46 |

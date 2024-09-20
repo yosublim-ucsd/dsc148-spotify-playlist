@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Floating Points",
+  "description": "The home for alternative electronic music. Cover: Jamie xx",
   "name": "Altar",
   "tracks": [
     {
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 249894,
       "name": "CHROMA 002 L.A.V.A",
       "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 279875,
       "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161840,
       "name": "ILIKEU",
       "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
@@ -9114,6 +9114,28 @@
       "duration_ms": 205026,
       "name": "In-between and Overseas",
       "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
+    },
+    {
+      "album": {
+        "name": "in2minds",
+        "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "in2minds",
+      "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
     },
     {
       "album": {
@@ -9526,6 +9548,28 @@
       "duration_ms": 203320,
       "name": "JOY (404)",
       "url": "https://open.spotify.com/track/0tw9UWpHoJCSesaoE4912U"
+    },
+    {
+      "album": {
+        "name": "JOY (By My Side)",
+        "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222675,
+      "name": "JOY (By My Side)",
+      "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
     },
     {
       "album": {
@@ -16225,6 +16269,28 @@
     },
     {
       "album": {
+        "name": "Trusting Theta",
+        "url": "https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222219,
+      "name": "Slay The Beast",
+      "url": "https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG"
+    },
+    {
+      "album": {
         "name": "Small Sanctuary",
         "url": "https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH"
       },
@@ -19226,7 +19292,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197036,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
@@ -19610,6 +19676,36 @@
       "duration_ms": 205016,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd"
+    },
+    {
+      "album": {
+        "name": "Waited All Night",
+        "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208334,
+      "name": "Waited All Night",
+      "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
     },
     {
       "album": {

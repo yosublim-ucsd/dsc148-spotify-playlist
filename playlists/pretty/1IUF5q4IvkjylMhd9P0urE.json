@@ -1,13 +1,49 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 16090,
+  "num_followers": 16097,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAYguNnA8NjV4WUia3azT/JM9939Ulq",
+  "snapshot_id": "AAAYhTNyOQ3/THjYYtjyXiMnPh73CMou",
   "tracks": [
+    {
+      "added_at": "2024-09-19 16:08:38",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 196021,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
+    },
+    {
+      "added_at": "2024-09-19 16:09:41",
+      "album": {
+        "name": "Charlotte Day Wilson Live at Maida Vale",
+        "url": "https://open.spotify.com/album/7doBS2ss9PFnCpfltsDadg"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 174042,
+      "name": "Cyan Blue - Live at Maida Vale",
+      "url": "https://open.spotify.com/track/1duAM9Na66GNZvfK4JXhqR"
+    },
     {
       "added_at": "2024-09-07 15:56:47",
       "album": {

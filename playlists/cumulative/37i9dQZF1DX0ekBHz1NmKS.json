@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Aldrig sluta tro",
+        "url": "https://open.spotify.com/album/2pZyc1EWuU8GyqVEbI3ODr"
+      },
+      "artists": [
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Aldrig sluta tro",
+      "url": "https://open.spotify.com/track/4NRt5YL8h9nqcaIOO5dMD0"
+    },
+    {
+      "album": {
         "name": "Aldrig s\u00e4ga aldrig",
         "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
       },
@@ -5096,7 +5114,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 297895,
       "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
       "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
@@ -7042,6 +7060,24 @@
       "duration_ms": 198461,
       "name": "En v\u00e4n som du",
       "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
+    },
+    {
+      "album": {
+        "name": "En v\u00e4n till mig",
+        "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "En v\u00e4n till mig",
+      "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
     },
     {
       "album": {
@@ -12272,7 +12308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176776,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
@@ -15557,6 +15593,24 @@
     },
     {
       "album": {
+        "name": "Louise",
+        "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "album": {
         "name": "PART TWO",
         "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
       },
@@ -16514,7 +16568,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169559,
       "name": "Masken av",
       "url": "https://open.spotify.com/track/58ATiWksUkCYPVqgFCX6TX"
@@ -19804,7 +19858,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 151348,
       "name": "Parasit",
       "url": "https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ"
@@ -20466,6 +20520,24 @@
       "duration_ms": 191073,
       "name": "P\u00e5 sommaren",
       "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "P\u00e5 v\u00e4g",
+      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
     },
     {
       "album": {
@@ -24046,7 +24118,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155520,
       "name": "St\u00e5lar p\u00e5 Dovas",
       "url": "https://open.spotify.com/track/5Lex8jg34MtSI3k35Izbps"
@@ -24887,6 +24959,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
@@ -25108,6 +25198,24 @@
       "duration_ms": 180127,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224001,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B"
     },
     {
       "album": {
@@ -26454,7 +26562,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 204489,
       "name": "Trouble in Paradise",
       "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"

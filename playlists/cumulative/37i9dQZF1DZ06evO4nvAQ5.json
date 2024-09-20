@@ -944,10 +944,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 217360,
       "name": "Police and Theives",
       "url": "https://open.spotify.com/track/4C7ywbJNrB81ZYmKnPOj6S"
+    },
+    {
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
     },
     {
       "album": {

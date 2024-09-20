@@ -1,12 +1,12 @@
 {
-  "description": "This is City Girls. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 38110,
+  "description": "This is City Girls. The essential tracks, all in one playlist.",
+  "num_followers": 38115,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAADJt8eV55YlCSoNmixr0Mqx",
+  "snapshot_id": "ZuoYAAAAAACwiOnAhMaL5CLvUxBoN7Hl",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 198762,
-      "name": "Emotions (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 194693,
       "name": "Fu*k Dat Ni**a",
       "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 198762,
+      "name": "Emotions (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
     },
     {
       "added_at": null,

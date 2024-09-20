@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Ege Can Sal
+> Geleceğin seslerini dinle! Kapak: Paptircem
 
 51 songs - 2 hr 27 min
 

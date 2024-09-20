@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : La Femme
 
-197 songs - 10 hr 38 min
+198 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
+| [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 |  |
 | [Lune](https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Lune](https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC) | 3:45 | 2024-06-06 |  |
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 | 2023-11-24 |
 | [LUX](https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAHA](https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7) | 3:49 | 2024-06-13 |  |
@@ -196,7 +197,7 @@
 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 | 2023-09-28 | 2023-11-24 |
 | [We are many](https://open.spotify.com/track/2nkDgyJE1YvNczhHaW6vwt) | [Le Peuple de L'Herbe](https://open.spotify.com/artist/3TQ7yQyNz2JvOXqiO5Tpz2) | [10](https://open.spotify.com/album/2qUV7cyxVq9HCffujWykjU) | 4:10 | 2024-03-21 | 2024-05-03 |
 | [We Walk](https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [We Walk](https://open.spotify.com/album/1YhST40WDQUfrTExNtOARC) | 5:01 | 2023-09-28 | 2023-11-24 |
-| [Witch Coast](https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Witch Coast](https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS) | 3:43 | 2024-02-01 |  |
+| [Witch Coast](https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Witch Coast](https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS) | 3:43 | 2024-02-01 | 2024-09-20 |
 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 | 2023-09-28 | 2023-10-27 |
 | [Wreckin' My Soul \(Dance Around The Fire\)](https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK) | [Theodora](https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2) | [Wreckin' My Soul \(Dance Around The Fire\)](https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54) | 3:39 | 2024-06-27 |  |
 | [Z](https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI) | 2:59 | 2024-03-21 | 2024-04-19 |

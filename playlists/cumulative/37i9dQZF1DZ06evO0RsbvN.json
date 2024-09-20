@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Ma Rainey. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ma Rainey\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Ma Rainey",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 167367,
       "name": "Deep Moaning Blues (Take 2)",
       "url": "https://open.spotify.com/track/46XLxe3VhYFyQ7ZSsEpR05"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Four Day Honorary Scat: 2",
       "url": "https://open.spotify.com/track/7GPJS2ML5iURFTlNElxyhd"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155373,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 183886,
       "name": "Moonshine Blues",
       "url": "https://open.spotify.com/track/77UZbLjQfGxe1NcgvPbf76"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "South Bound Blues",
       "url": "https://open.spotify.com/track/1sJWRE6ntcQMkYK3d18721"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 189057,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/3zWkb6MVafKd6ZEUjyryv1"

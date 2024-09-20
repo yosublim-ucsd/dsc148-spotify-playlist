@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17495,
+  "num_followers": 17492,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Be My Ocean",
-        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
-      },
-      "artists": [
-        {
-          "name": "IOHBOY",
-          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Be My Ocean",
-      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
+        "name": "Be My Ocean",
+        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
+      },
+      "artists": [
+        {
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Be My Ocean",
+      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
         "name": "Dear.",
         "url": "https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
         }
       ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

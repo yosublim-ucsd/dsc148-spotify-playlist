@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,710 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,710 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
+| 1 | [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 |
 | 2 | [Fallin' For You](https://open.spotify.com/track/2Y6wSXRh6K9KslWFFDLCHa) | [ANLYN](https://open.spotify.com/artist/1nBE2DWEcpcB440KWFKEL8) | [Fallin' For You](https://open.spotify.com/album/2f7gK2nup2ueWWvsO7eJK9) | 2:32 |
 | 3 | [Ik Ken Jou](https://open.spotify.com/track/7qoAdOVGvFp9oLfPdglYaV) | [Zulema](https://open.spotify.com/artist/4zZNKi7LpDeLANCiozqMv4) | [Ik Ken Jou](https://open.spotify.com/album/4gc28mrrkCIpD6iLE6QuqA) | 2:22 |
 | 4 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 |
@@ -27,17 +27,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 17 | [Needs](https://open.spotify.com/track/7rJ8yvDZAqSNuV5PAkVal6) | [Giefa Sparkle](https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh) | [Needs](https://open.spotify.com/album/3L9WJS1qGI45VZRu0zXJob) | 1:29 |
 | 18 | [Nieuwe Wensen](https://open.spotify.com/track/2WzJZXrFZ0BPWQETcwJMaT) | [Ella John](https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9), [Blanke Roy](https://open.spotify.com/artist/2snnqKGi87l4WBaPDp9pFP) | [Nieuwe Wensen](https://open.spotify.com/album/1U7qLBbhOasxs8nK0jGoVb) | 3:07 |
 | 19 | [You](https://open.spotify.com/track/7oFkZCfTbdOZDmdC56Rkc7) | [débora](https://open.spotify.com/artist/5IgYmHX5r1fM24QAMta710) | [You](https://open.spotify.com/album/0EfeuCg8XzjIk27eT5LNtw) | 3:08 |
-| 20 | [Wait For You](https://open.spotify.com/track/7tAihCBA6pWDWs7iwLkO9l) | [DOMINIQUE](https://open.spotify.com/artist/64mHKQP2E5nzRCINX7E4Ak) | [Wait For You](https://open.spotify.com/album/3JcjWiL13wftM7jv4ihz8l) | 2:54 |
-| 21 | [MY TURN](https://open.spotify.com/track/2T9wHmWcwJ12f7VqX3fhBv) | [Cherliza](https://open.spotify.com/artist/61ppTPyXXyOEywMua72GSU) | [MY TURN](https://open.spotify.com/album/0IiImgRrvwaKGDalD0nbIS) | 2:28 |
-| 22 | [Stp](https://open.spotify.com/track/6JGcomXnwz8P9M3Ky4HmAc) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Stp](https://open.spotify.com/album/1MORwDF6Eu2niMJBGBgYAS) | 2:33 |
-| 23 | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a) | 4:17 |
-| 24 | [Zorgen Voor Mij](https://open.spotify.com/track/4VUVNj4wsyzOl9FcdWWO8m) | [Lotte De Clerck](https://open.spotify.com/artist/2oCOukG7N7ppuaFQ5Cnquz) | [Zorgen Voor Mij](https://open.spotify.com/album/2HEuNb0F4DFqI76qmdKENT) | 2:40 |
-| 25 | [Trampoline](https://open.spotify.com/track/3DotR5tILj4MzrLyjsL3d0) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Trampoline](https://open.spotify.com/album/5gvUf3EhNwPfPZbTHP2tsW) | 2:43 |
-| 26 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
-| 27 | [The One You Need](https://open.spotify.com/track/6Wbt5lijWeBJdfQ39Buvg8) | [Anna Maehl](https://open.spotify.com/artist/20qznmlJaqbaszjeAqIri4) | [The One You Need](https://open.spotify.com/album/3PaMEMnFW8ccywQSNHllmW) | 3:51 |
-| 28 | [Can I Get a Kiss Please](https://open.spotify.com/track/16aXG45gnixKdg9RW39vTO) | [YSABEL](https://open.spotify.com/artist/4n75TryfAf8J78YRo1uv12) | [Can I Get a Kiss Please](https://open.spotify.com/album/6lOZ5nayaP8IkzKuRbc7Gi) | 2:54 |
-| 29 | [Rock You Nicely](https://open.spotify.com/track/123RsZR7GMH4Inx2rIMqMa) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Rock You Nicely](https://open.spotify.com/album/3dsOZakn28upnAzbmzxZKM) | 3:02 |
-| 30 | [The Crying Room](https://open.spotify.com/track/1eI3ZMVBhaqVKaBsAPJvaT) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [The Crying Room](https://open.spotify.com/album/0AJUcdvl9KQEemaaHHQ7kR) | 5:15 |
-| 31 | [Distraction](https://open.spotify.com/track/6qohcGUuSMLT9QRaDBoV9Y) | [SAFRAN](https://open.spotify.com/artist/7vEksAfgUuvza552VUDJmg) | [Distraction](https://open.spotify.com/album/6DQ3RluSVpZbfPDpahmxsP) | 3:29 |
+| 20 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
+| 21 | [Wait For You](https://open.spotify.com/track/7tAihCBA6pWDWs7iwLkO9l) | [DOMINIQUE](https://open.spotify.com/artist/64mHKQP2E5nzRCINX7E4Ak) | [Wait For You](https://open.spotify.com/album/3JcjWiL13wftM7jv4ihz8l) | 2:54 |
+| 22 | [MY TURN](https://open.spotify.com/track/2T9wHmWcwJ12f7VqX3fhBv) | [Cherliza](https://open.spotify.com/artist/61ppTPyXXyOEywMua72GSU) | [MY TURN](https://open.spotify.com/album/0IiImgRrvwaKGDalD0nbIS) | 2:28 |
+| 23 | [Stp](https://open.spotify.com/track/6JGcomXnwz8P9M3Ky4HmAc) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Stp](https://open.spotify.com/album/1MORwDF6Eu2niMJBGBgYAS) | 2:33 |
+| 24 | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a) | 4:17 |
+| 25 | [Zorgen Voor Mij](https://open.spotify.com/track/4VUVNj4wsyzOl9FcdWWO8m) | [Lotte De Clerck](https://open.spotify.com/artist/2oCOukG7N7ppuaFQ5Cnquz) | [Zorgen Voor Mij](https://open.spotify.com/album/2HEuNb0F4DFqI76qmdKENT) | 2:40 |
+| 26 | [Trampoline](https://open.spotify.com/track/3DotR5tILj4MzrLyjsL3d0) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Trampoline](https://open.spotify.com/album/5gvUf3EhNwPfPZbTHP2tsW) | 2:43 |
+| 27 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
+| 28 | [The One You Need](https://open.spotify.com/track/6Wbt5lijWeBJdfQ39Buvg8) | [Anna Maehl](https://open.spotify.com/artist/20qznmlJaqbaszjeAqIri4) | [The One You Need](https://open.spotify.com/album/3PaMEMnFW8ccywQSNHllmW) | 3:51 |
+| 29 | [Can I Get a Kiss Please](https://open.spotify.com/track/16aXG45gnixKdg9RW39vTO) | [YSABEL](https://open.spotify.com/artist/4n75TryfAf8J78YRo1uv12) | [Can I Get a Kiss Please](https://open.spotify.com/album/6lOZ5nayaP8IkzKuRbc7Gi) | 2:54 |
+| 30 | [Rock You Nicely](https://open.spotify.com/track/123RsZR7GMH4Inx2rIMqMa) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Rock You Nicely](https://open.spotify.com/album/3dsOZakn28upnAzbmzxZKM) | 3:02 |
+| 31 | [The Crying Room](https://open.spotify.com/track/1eI3ZMVBhaqVKaBsAPJvaT) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [The Crying Room](https://open.spotify.com/album/0AJUcdvl9KQEemaaHHQ7kR) | 5:15 |
+| 32 | [Distraction](https://open.spotify.com/track/6qohcGUuSMLT9QRaDBoV9Y) | [SAFRAN](https://open.spotify.com/artist/7vEksAfgUuvza552VUDJmg) | [Distraction](https://open.spotify.com/album/6DQ3RluSVpZbfPDpahmxsP) | 3:29 |
 
-Snapshot ID: `ZteG4AAAAAClbdlD6Y86jNpgKvq9WRV7`
+Snapshot ID: `Zuye4AAAAADs9B97YuGL88XB6bD6ENfy`

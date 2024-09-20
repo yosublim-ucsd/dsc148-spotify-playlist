@@ -2,7 +2,7 @@
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This is Lila Downs\. The essential tracks, all in one playlist.
+> This is Lila Downs\. Track\-track unggulan, semuanya dalam satu playlist.
 
 70 songs - 4 hr 19 min
 

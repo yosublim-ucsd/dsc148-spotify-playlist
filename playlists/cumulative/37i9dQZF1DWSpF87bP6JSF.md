@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
 
-> Los éxitos del pop latino con Luck Ra y Nicki Nicole.
+> Los éxitos del pop latino con KAROL G.
 
 484 songs - 1 day 0 hr 57 min
 

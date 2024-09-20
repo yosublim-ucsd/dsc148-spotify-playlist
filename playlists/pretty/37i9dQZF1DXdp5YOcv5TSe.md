@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,554 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,611 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 44 | [Dear Boy](https://open.spotify.com/track/4yTeQK2XThWYeEW8D72XmU) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 7:59 |
 | 45 | [West Coast Shit \(feat\. Tyga & Quavo\)](https://open.spotify.com/track/1JDhNQ0oOT7XpclZn3aQ8F) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:12 |
 | 46 | [Marvelous Day \(feat\. Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/4kfEy7h6bWBS5OaDpccTap) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Mood](https://open.spotify.com/album/4X4eIXh8tgQPiwxkxsp5lz) | 3:43 |
-| 47 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |
-| 48 | [Again](https://open.spotify.com/track/01TV5z8ij5Lipu7dB6BaQq) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/2IPrSr4rOtsy6c4AaRjfbl) | 6:03 |
+| 47 | [Again](https://open.spotify.com/track/01TV5z8ij5Lipu7dB6BaQq) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/2IPrSr4rOtsy6c4AaRjfbl) | 6:03 |
+| 48 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |
 | 49 | [Lagana](https://open.spotify.com/track/0RjVoktGn4BWvCKcVpo95s) | [Amna](https://open.spotify.com/artist/1xrPCPIPZUekjoVY5lRrOe) | [Lagana](https://open.spotify.com/album/57YuixvjtMcokwykgU314v) | 2:14 |
 | 50 | [Somebody That I Used To Know](https://open.spotify.com/track/5fmqHkDeezD3eFxU52kVyF) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Deepierro](https://open.spotify.com/artist/6RjLqpWiji9AdDMVNm6QrX) | [Somebody That I Used To Know](https://open.spotify.com/album/0LhH26IhizANNyTbJCu1rl) | 2:36 |
 

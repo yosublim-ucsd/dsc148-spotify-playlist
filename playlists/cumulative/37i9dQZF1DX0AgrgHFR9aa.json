@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : LauCarr\u00e9",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Heykel",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 200296,
       "name": "10h du mat'",
       "url": "https://open.spotify.com/track/1haWmfk43cAfj6M4O3t7NY"
+    },
+    {
+      "album": {
+        "name": "Petit prince",
+        "url": "https://open.spotify.com/album/5tqRZ4Yjk6YpJWQF9GZtXj"
+      },
+      "artists": [
+        {
+          "name": "LMA",
+          "url": "https://open.spotify.com/artist/5TkDGv15Vfe7X91xleonsi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212995,
+      "name": "24 ans",
+      "url": "https://open.spotify.com/track/2WoL0xAc3ngFWyMhgI1UV9"
     },
     {
       "album": {
@@ -116,7 +134,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 219000,
       "name": "Alain",
       "url": "https://open.spotify.com/track/0ddKHPkFBKA2UqIQu9YMcj"
@@ -451,6 +469,28 @@
     },
     {
       "album": {
+        "name": "SOIZETTE",
+        "url": "https://open.spotify.com/album/2fG6WJKoJrQmjE6Suojppw"
+      },
+      "artists": [
+        {
+          "name": "SKRIZ",
+          "url": "https://open.spotify.com/artist/59OVD8Vap8QSm5daZ0uw0d"
+        },
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "L'Amour",
+      "url": "https://open.spotify.com/track/64CEYM2rKpmeNYNKHg3bfC"
+    },
+    {
+      "album": {
         "name": "Particule \u00e9l\u00e9mentaire",
         "url": "https://open.spotify.com/album/7regmM3e5xX9iggFNBT7Zb"
       },
@@ -616,7 +656,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161479,
       "name": "Le plan B",
       "url": "https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX"
@@ -986,7 +1026,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 382226,
       "name": "Toujours rien \u00e0 remplacer",
       "url": "https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8"
@@ -1012,6 +1052,28 @@
       "duration_ms": 178574,
       "name": "Trap House",
       "url": "https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9"
+    },
+    {
+      "album": {
+        "name": "Unique & ordinaire, Vol. 2",
+        "url": "https://open.spotify.com/album/5r5IoJl8UNIiUxbrGL7Zw1"
+      },
+      "artists": [
+        {
+          "name": "Sentin\u2019l",
+          "url": "https://open.spotify.com/artist/49eWq2JOL6lBj9ELT70IWi"
+        },
+        {
+          "name": "Yamoy",
+          "url": "https://open.spotify.com/artist/39pzhf6yFUFgGzUdwk4sne"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Un monde meilleur",
+      "url": "https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV"
     },
     {
       "album": {

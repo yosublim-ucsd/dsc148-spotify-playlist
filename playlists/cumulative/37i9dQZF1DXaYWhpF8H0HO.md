@@ -2,13 +2,14 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  GAC \(Gamaliél Audrey Cantika\)
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Jasmine Nadya
 
-157 songs - 9 hr 9 min
+162 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4ever \(We Could Be\)](https://open.spotify.com/track/2gQMIaCNRbI0n3GpVG295o) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [4ever \(We Could Be\)](https://open.spotify.com/album/77irLJ47lsUbChZ2KlGQxx) | 3:09 | 2024-06-27 | 2024-09-06 |
+| [4head](https://open.spotify.com/track/66lKXZ6uhPyH5ayIB3jdXJ) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [4head](https://open.spotify.com/album/57MhcQJOX9zXvAQKNGqpZv) | 2:48 | 2024-09-19 |  |
 | [\[STILL ON\] REPEAT](https://open.spotify.com/track/6ZPBJ8uWEAiit8PcVk4uOS) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [\[STILL ON\] REPEAT](https://open.spotify.com/album/3Y3xfXevhPYBy4YqJpbCwU) | 4:10 | 2024-06-27 |  |
 | [After All](https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [After All](https://open.spotify.com/album/0FXuhf7oz9QFTYKET9a5uF) | 2:35 | 2024-06-27 |  |
 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 | 2024-06-27 | 2024-08-30 |
@@ -42,6 +43,7 @@
 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 | 2024-07-11 |  |
 | [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-06-27 |  |
 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 | 2024-06-27 | 2024-08-10 |
+| [Dreamscape](https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2) | [Peonies](https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp) | [Dreamscape](https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E) | 4:28 | 2024-09-19 |  |
 | [Ethereal](https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Manic](https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr) | 4:12 | 2024-08-09 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [Fade](https://open.spotify.com/track/6ZMImaADsVEfPjkk7HlcTS) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fade](https://open.spotify.com/album/4HaJqLpzs9dIYrZULKImav) | 3:18 | 2024-06-27 | 2024-07-27 |
@@ -75,6 +77,7 @@
 | [hummingbird](https://open.spotify.com/track/31xqomlJ4stcUu7qNh2T6Q) | [Syifa Aulia](https://open.spotify.com/artist/4tk8VSSlczStF09XO55bi4) | [hummingbird](https://open.spotify.com/album/17l0GOj1WbHijklNtyQLRY) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [Hush](https://open.spotify.com/track/4L6CcNShN9p1sYbXob1yYn) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Hush](https://open.spotify.com/album/54Fd94bm66PcrqaqUBnZOk) | 2:43 | 2024-06-27 |  |
 | [I Can't Be Mad At You](https://open.spotify.com/track/5ztr9sYuVpYiTseGJmbVyv) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [I Can't Be Mad At You](https://open.spotify.com/album/2KfvtIrGVDouoHHv1skgyQ) | 4:06 | 2024-07-25 |  |
+| [i don't want forever without you](https://open.spotify.com/track/0pHFtqtRTZ5M5oq7FUdiHU) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa) | [i don't want forever without you](https://open.spotify.com/album/06IRKuYvnFpgbnzx2fpmPI) | 3:16 | 2024-09-19 |  |
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-06-27 |  |
 | [I Lost My Smile Somewhere](https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [I Lost My Smile Somewhere](https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS) | 3:21 | 2024-07-25 |  |
 | [I Will](https://open.spotify.com/track/2QZUzL17JAxao5dFkZuqte) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [I Will](https://open.spotify.com/album/2tsNcReLshp2lOODqJmYje) | 3:10 | 2024-06-27 | 2024-08-02 |
@@ -85,6 +88,7 @@
 | [Just A Matter Of Time](https://open.spotify.com/track/6lKxwOcrkrj5qzWFBdytwt) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Just A Matter Of Time](https://open.spotify.com/album/7zBav3UT0TUO4ewfDTcey4) | 3:42 | 2024-07-11 |  |
 | [Last Call](https://open.spotify.com/track/4hmwFUEmlQnAykPXRHDDKf) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Last Call](https://open.spotify.com/album/0RQR6FybUkNj0Pb7T3qsKH) | 4:07 | 2024-06-27 | 2024-07-27 |
 | [Last Right One](https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Last Right One](https://open.spotify.com/album/4pIZut1MFibakG5NQLSewa) | 3:47 | 2024-06-27 |  |
+| [Lead The Way](https://open.spotify.com/track/1cLPH5uHyByVdRFMGlnGRE) | [Fleeting Echo](https://open.spotify.com/artist/7bVJizir9RN4yN2pTmEasC) | [Lead The Way](https://open.spotify.com/album/363Q8R5QfP0wjGaRsPMdx3) | 3:58 | 2024-09-19 |  |
 | [Lean on a Friend](https://open.spotify.com/track/02ilB5DYOmrAauOgORODcY) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Lean on a Friend](https://open.spotify.com/album/3AySg2p6QXJFkUV8xbKjRP) | 3:27 | 2024-07-23 |  |
 | [let me go](https://open.spotify.com/track/6TWugtzLkUTWnyiHhGmj6n) | [RAJASINAGA](https://open.spotify.com/artist/4EMAvLGauV6azMgm7j6KQe) | [let me go](https://open.spotify.com/album/2y6uzhjzlP2N0er9tlbltS) | 3:50 | 2024-06-27 | 2024-08-10 |
 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 | 2024-06-27 |  |
@@ -130,6 +134,7 @@
 | [Sandy Shores](https://open.spotify.com/track/4Q8Djo5qXzHHC5XPuZcdau) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [reverie](https://open.spotify.com/album/67BJw0CEEx8R80cKVSIem3) | 3:32 | 2024-09-05 |  |
 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 | 2024-06-27 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 |  |
+| [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-09-19 |  |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-27 |
 | [Sucks](https://open.spotify.com/track/1eJyzy33IN2JLkWMde4Yvc) | [Midnight Lobster](https://open.spotify.com/artist/1qIfVmeDHgmbWXVf3V0wxs) | [Sucks](https://open.spotify.com/album/1V0IbxCdhIrE1me8T9T01q) | 2:46 | 2024-06-27 | 2024-07-27 |

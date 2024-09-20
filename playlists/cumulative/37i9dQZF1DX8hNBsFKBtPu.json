@@ -1385,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "album": {
         "name": "GREEN GRASS",
         "url": "https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj"
       },
@@ -2141,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/7HvwMFz2rJAU9ftzX9oMGf"
       },
@@ -2210,6 +2250,28 @@
       "duration_ms": 210202,
       "name": "Love, Come Down",
       "url": "https://open.spotify.com/track/5QN5EEA03w34Ukygz7ujwJ"
+    },
+    {
+      "album": {
+        "name": "Lover Online",
+        "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "Lover Online",
+      "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
     },
     {
       "album": {
@@ -2525,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "N\u00e5r Jeg V\u00e5gner II",
+        "url": "https://open.spotify.com/album/4UG8Uf9sK2m94ymQ0yBMLw"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178284,
+      "name": "N\u00e5r Jeg V\u00e5gner II",
+      "url": "https://open.spotify.com/track/3DWixpLy6fxCf79Lxcp76q"
+    },
+    {
+      "album": {
         "name": "N\u00e6ste B\u00f8lge",
         "url": "https://open.spotify.com/album/7f5l0CFX0Ajmf9z5Kw4JWX"
       },
@@ -2680,7 +2760,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 160054,
       "name": "Point Out The Crime",
       "url": "https://open.spotify.com/track/3eMQWAvCNS5ZUMrkTFdsv1"
@@ -2966,6 +3046,24 @@
       "duration_ms": 148319,
       "name": "Sommerregn",
       "url": "https://open.spotify.com/track/1haBPCTX5PC7baqot4Jf4D"
+    },
+    {
+      "album": {
+        "name": "Spot a Fake",
+        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167621,
+      "name": "Spot a Fake",
+      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
     },
     {
       "album": {
@@ -3480,6 +3578,24 @@
       "duration_ms": 162863,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0vdgqKnjg1tyIgkkzucxyJ"
+    },
+    {
+      "album": {
+        "name": "Verdens St\u00f8rste Idiot",
+        "url": "https://open.spotify.com/album/2TWPcEGi2QFw6CpLycKVpg"
+      },
+      "artists": [
+        {
+          "name": "Laura4evigt",
+          "url": "https://open.spotify.com/artist/38loz68LLQSxadt4CJZq0O"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205206,
+      "name": "Verdens St\u00f8rste Idiot",
+      "url": "https://open.spotify.com/track/2qhqM5uFpEwCL3isdxD8rs"
     },
     {
       "album": {

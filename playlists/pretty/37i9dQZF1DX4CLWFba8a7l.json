@@ -1,12 +1,12 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121501,
+  "num_followers": 121513,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuLz4AAAAAAUL/PL3YprzL8vPSHSqISv",
+  "snapshot_id": "ZuwuYAAAAAANagtLDrB+unHE6JYD6dXH",
   "tracks": [
     {
       "added_at": "2024-08-30 00:24:34",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "What You've Lost",
         "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
       "artists": [
         {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -619,6 +603,22 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Give You Love (feat. Jason Derulo)",
-        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Give You Love (feat. Jason Derulo)",
-      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "When We Were Younger",
         "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Light Sides",
+        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 243087,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -843,6 +859,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
+      },
+      "artists": [
+        {
+          "name": "Jerome Farah",
+          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
+        }
+      ],
+      "duration_ms": 232978,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
       },
@@ -859,34 +891,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
+        "name": "Like A Girl Does",
+        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
       },
       "artists": [
         {
-          "name": "Jerome Farah",
-          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
         }
       ],
-      "duration_ms": 232978,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
-    },
-    {
-      "added_at": "2024-09-12 14:00:00",
-      "album": {
-        "name": "Light Sides",
-        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 243087,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
+      "duration_ms": 172427,
+      "name": "Like A Girl Does",
+      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -909,20 +925,20 @@
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-09-05 14:00:00",
       "album": {
-        "name": "Like A Girl Does",
-        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
       },
       "artists": [
         {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 172427,
-      "name": "Like A Girl Does",
-      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -973,22 +989,6 @@
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     },
     {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 213258,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Snack",
@@ -1003,6 +1003,22 @@
       "duration_ms": 153726,
       "name": "Snack",
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
+    },
+    {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "duration_ms": 195307,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1035,22 +1051,6 @@
       "duration_ms": 227142,
       "name": "Touchy Subject",
       "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "The Second Act",
-        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 195307,
-      "name": "Craters",
-      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Field of Vision",
-        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "Field of Vision",
-      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
-    },
-    {
       "added_at": "2024-09-05 14:00:00",
       "album": {
         "name": "Archaeology",
@@ -1155,6 +1139,22 @@
       "duration_ms": 252905,
       "name": "Archaeology",
       "url": "https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+        "name": "MAJORDOMO",
+        "url": "https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+      "duration_ms": 217602,
+      "name": "Boarding Pass",
+      "url": "https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "MAJORDOMO",
-        "url": "https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq"
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
       },
       "artists": [
         {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 217602,
-      "name": "Boarding Pass",
-      "url": "https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf"
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-08-30 00:24:34",

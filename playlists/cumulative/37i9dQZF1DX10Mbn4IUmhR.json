@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA\">Sabrina Carpenter</a> ",
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=Y3NfsvD3TQGd_AIxZZX4Tw\">Tate McRae</a> ",
   "name": "POP JOY",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 147428,
       "name": "bloom",
       "url": "https://open.spotify.com/track/43Nbcj9BLgwTgDXXVLkV9w"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 122303,
       "name": "i'll be waiting",
       "url": "https://open.spotify.com/track/0uOeZVpJSYW3g9d3VYKgcS"
@@ -1282,6 +1282,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
       "album": {
@@ -1582,6 +1600,24 @@
       "duration_ms": 193825,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu"
+    },
+    {
+      "album": {
+        "name": "One Last Chance",
+        "url": "https://open.spotify.com/album/3ZD7EyDa4Tb3kPPVvog8xQ"
+      },
+      "artists": [
+        {
+          "name": "Ben Rodrigues",
+          "url": "https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "One Last Chance",
+      "url": "https://open.spotify.com/track/67KTEMcMLq0rrByxzzZku8"
     },
     {
       "album": {

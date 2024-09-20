@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "30 under 30",
+        "url": "https://open.spotify.com/album/7DRt4eLn3btxQF8KSYSol1"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179969,
+      "name": "30 under 30",
+      "url": "https://open.spotify.com/track/3atoN74BRD90F3NRo4uhUo"
+    },
+    {
+      "album": {
         "name": "360 featuring robyn and yung lean",
         "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214555,
       "name": "beat up car",
       "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 218880,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191573,
       "name": "Hemmelighet",
       "url": "https://open.spotify.com/track/70KTjCosrAcVr2da6y1mTq"
@@ -688,6 +706,28 @@
       "duration_ms": 183615,
       "name": "Jeg vil ha (Parlamentet)",
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
+    },
+    {
+      "album": {
+        "name": "Kite (Acoustic)",
+        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149996,
+      "name": "Kite - Acoustic",
+      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
     },
     {
       "album": {
@@ -1538,7 +1578,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 266346,
       "name": "Zanotti",
       "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"

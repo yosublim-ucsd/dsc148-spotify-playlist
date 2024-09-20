@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: CLARA",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Yaraki",
   "name": "Caleido",
   "tracks": [
+    {
+      "album": {
+        "name": ") ) ) echo ( ( ( (",
+        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
+      },
+      "artists": [
+        {
+          "name": "Memento",
+          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127049,
+      "name": "( ARIA )",
+      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
+    },
     {
       "album": {
         "name": "))) CORRO FORTE",
@@ -64,6 +82,28 @@
       "duration_ms": 194400,
       "name": "8 PM",
       "url": "https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX"
+    },
+    {
+      "album": {
+        "name": "A cosa serve l'estate",
+        "url": "https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        },
+        {
+          "name": "Leo Gassmann",
+          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221451,
+      "name": "A cosa serve l'estate",
+      "url": "https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3"
     },
     {
       "album": {
@@ -217,6 +257,24 @@
     },
     {
       "album": {
+        "name": "ancora",
+        "url": "https://open.spotify.com/album/6j0zCgkS5LhYgUL6YkeY4i"
+      },
+      "artists": [
+        {
+          "name": "Luca Re",
+          "url": "https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165057,
+      "name": "ancora",
+      "url": "https://open.spotify.com/track/31FieNBJupbKsWKW76SM9t"
+    },
+    {
+      "album": {
         "name": "Anni Luce",
         "url": "https://open.spotify.com/album/4LTmcKBhBw9lj2MVAWcZnU"
       },
@@ -272,6 +330,24 @@
       "duration_ms": 170000,
       "name": "apriti grattacielo",
       "url": "https://open.spotify.com/track/6oZjhWplQju9xUtVXrAm51"
+    },
+    {
+      "album": {
+        "name": "Araba Fenice",
+        "url": "https://open.spotify.com/album/4WpUUTNmz2mw526952tnYi"
+      },
+      "artists": [
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172300,
+      "name": "Araba Fenice",
+      "url": "https://open.spotify.com/track/1Vpt6JiW5JZ0EQLgCvWWek"
     },
     {
       "album": {
@@ -1064,7 +1140,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 167338,
       "name": "ESTATE 80",
       "url": "https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO"
@@ -1082,7 +1158,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135389,
       "name": "estrella",
       "url": "https://open.spotify.com/track/1As7Zzx15VZPrSy1NpjgDf"
@@ -1539,6 +1615,36 @@
     },
     {
       "album": {
+        "name": "Immagina (feat. Tredici Pietro, Francesca Michielin & Mecna)",
+        "url": "https://open.spotify.com/album/0hNUsncA7gOGjc0nSP9Ffu"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        },
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190107,
+      "name": "Immagina (feat. Tredici Pietro, Francesca Michielin & Mecna)",
+      "url": "https://open.spotify.com/track/61JX1tmCPidoTJiKqieFb5"
+    },
+    {
+      "album": {
         "name": "Imperdonabile",
         "url": "https://open.spotify.com/album/4odVD47NOubjyeuLrV96Ff"
       },
@@ -1648,7 +1754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193544,
       "name": "La versione migliore di me",
       "url": "https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS"
@@ -1702,10 +1808,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 156407,
       "name": "Le Cose",
       "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "album": {
+        "name": "Le Ore / Poesia",
+        "url": "https://open.spotify.com/album/4AIqAnYJti6as9GV7Pn32p"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221521,
+      "name": "Le Ore",
+      "url": "https://open.spotify.com/track/3Tsoph6eDqtW1E5NKk4b8B"
     },
     {
       "album": {
@@ -1724,6 +1848,46 @@
       "duration_ms": 166071,
       "name": "Leggera",
       "url": "https://open.spotify.com/track/2U1jRNDyOLw4V5agzt1lpZ"
+    },
+    {
+      "album": {
+        "name": "Letto Micro",
+        "url": "https://open.spotify.com/album/5n5WqTPLkrJq7OhuZ6G9gy"
+      },
+      "artists": [
+        {
+          "name": "maisola",
+          "url": "https://open.spotify.com/artist/2ctwLObzObVxJjzHCMfDM0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "Letto Micro",
+      "url": "https://open.spotify.com/track/7o5CX9a4vlG7eyRbb7V0Et"
+    },
+    {
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN"
+      },
+      "artists": [
+        {
+          "name": "M.E.R.L.O.T",
+          "url": "https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1"
+        },
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V"
     },
     {
       "album": {
@@ -2635,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "PEGGIO DI COS\u00cc",
+        "url": "https://open.spotify.com/album/2KBXv5o2hBSE4172C0fXhp"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "PEGGIO DI COS\u00cc",
+      "url": "https://open.spotify.com/track/7x4PciuQrmMr6YW7SaUjFx"
+    },
+    {
+      "album": {
         "name": "Per due come noi",
         "url": "https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ"
       },
@@ -2676,6 +2858,24 @@
       "duration_ms": 191423,
       "name": "PERDONIAMOCI LO STESSO",
       "url": "https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF"
+    },
+    {
+      "album": {
+        "name": "Piazza Samba",
+        "url": "https://open.spotify.com/album/7hA7jB2SxONB4m4x9wj9K9"
+      },
+      "artists": [
+        {
+          "name": "Yaraki",
+          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155811,
+      "name": "Piazza Samba",
+      "url": "https://open.spotify.com/track/4mxoVyaAfwUaGEmWaxk3WV"
     },
     {
       "album": {
@@ -2868,6 +3068,24 @@
       "duration_ms": 138103,
       "name": "Ricchezza",
       "url": "https://open.spotify.com/track/0uKeTxLRjaRjnaggnYlxzl"
+    },
+    {
+      "album": {
+        "name": "Rigacuore",
+        "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
+      },
+      "artists": [
+        {
+          "name": "CRETA",
+          "url": "https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Rigacuore",
+      "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
     },
     {
       "album": {
@@ -3218,7 +3436,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 172079,
       "name": "Sotto Effetto",
       "url": "https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh"

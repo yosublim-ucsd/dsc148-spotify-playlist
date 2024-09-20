@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,288 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,326 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 66 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
 | 67 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
 | 68 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 |
-| 69 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
-| 70 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
+| 69 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
+| 70 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
 | 71 | [Status](https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Status](https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F) | 2:31 |
 | 72 | [My Baby](https://open.spotify.com/track/4I2Asr8QXhpF7lhizSEnwW) | [Furacao Love](https://open.spotify.com/artist/6DR8ile3ilLZdfuA1lllNZ) | [My Baby](https://open.spotify.com/album/0gkG52D2tjgCCSF4DeGFtM) | 2:24 |
 | 73 | [Matuto de Verdade](https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Matuto de Verdade](https://open.spotify.com/album/5u5l9acR8uBt6xtVFSdoF9) | 2:26 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 86 | [O Amor da Minha Vida Sou Eu](https://open.spotify.com/track/2KyZiXLKOPnQkuPWFhMUjj) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [O Amor da Minha Vida Sou Eu](https://open.spotify.com/album/2XdII8oK3HEPmd5xmbhRT0) | 3:14 |
 | 87 | [Na Madrugada Você Volta \- Ao Vivo](https://open.spotify.com/track/5N50khwtctS9mdLK0uvVJB) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Cavaleiros Inesquecível \(Ao Vivo em Natal/RN\)](https://open.spotify.com/album/2frt7dymwzO4Xxi6Sax9d8) | 2:48 |
 | 88 | [Galera do Interior](https://open.spotify.com/track/5xKFBjIEeEzvrAvWDgaEeA) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Galera do Interior](https://open.spotify.com/album/4l8lO3NVtTl199UYdaGwDk) | 2:30 |
-| 89 | [Bumbum Granada \- Ao Vivo](https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \- Ao Vivo](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:46 |
-| 90 | [Me Apaixonei Me Apeguei \- Ao Vivo](https://open.spotify.com/track/4sCVm7tnUCYmuYaKZLxLVB) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Rolê De Milhões](https://open.spotify.com/album/3g6g4ypWPpVqSzkmrth4E0) | 2:46 |
+| 89 | [Me Apaixonei Me Apeguei \- Ao Vivo](https://open.spotify.com/track/4sCVm7tnUCYmuYaKZLxLVB) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Rolê De Milhões](https://open.spotify.com/album/3g6g4ypWPpVqSzkmrth4E0) | 2:46 |
+| 90 | [Bumbum Granada \- Ao Vivo](https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \- Ao Vivo](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:46 |
 | 91 | [Solinho Descarado](https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit) | [Pedrinho Pegação](https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc) | [Solinho Descarado](https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE) | 1:54 |
 | 92 | [Morena](https://open.spotify.com/track/1NwfsZ9RW0Iq16RpxKIUXU) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Cavaleiros Summer 2K21: Meio a Meio](https://open.spotify.com/album/2zMqokr7nnE0tLlUohwLoo) | 2:41 |
 | 93 | [Voltar Atrás \- Ao Vivo](https://open.spotify.com/track/4VkIaYvfmdOMY4xeFGB6hy) | [Tico](https://open.spotify.com/artist/5hebGYlrm4mQdILPO5XA8o), [Dorgival Dantas](https://open.spotify.com/artist/3J4WurF5XyCy2ToWeCof5Y) | [Voltar Atrás \(Ao Vivo\)](https://open.spotify.com/album/6V0dXeGGozjuwVXSpIZVgi) | 2:54 |

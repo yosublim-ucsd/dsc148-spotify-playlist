@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Brazy",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Odunsi (the Engine)",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 122392,
       "name": "4r U",
       "url": "https://open.spotify.com/track/0yeOy13aMktGb7NCWww0oC"
@@ -668,6 +668,32 @@
       "duration_ms": 166336,
       "name": "Again",
       "url": "https://open.spotify.com/track/7GkRkWItM8dpCwaV302ZEK"
+    },
+    {
+      "album": {
+        "name": "Ah Well",
+        "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ah Well",
+      "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
     },
     {
       "album": {
@@ -1168,6 +1194,24 @@
       "duration_ms": 219865,
       "name": "Back 2 Ya",
       "url": "https://open.spotify.com/track/737wrM4gGWNlkQZRLQz541"
+    },
+    {
+      "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147955,
+      "name": "BACK IN OFFICE",
+      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
     },
     {
       "album": {
@@ -2642,7 +2686,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 108679,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/6BYjJobgPPKpO61Ry4HyQp"
@@ -3420,7 +3464,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 153298,
       "name": "Crown Bounce - Real Groovers RMX",
       "url": "https://open.spotify.com/track/6w3SC2q3bQKexbk9NaLWmL"
@@ -7801,6 +7845,28 @@
     },
     {
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq"
+      },
+      "artists": [
+        {
+          "name": "88 Shades",
+          "url": "https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ"
+        },
+        {
+          "name": "Zilla Oaks",
+          "url": "https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV"
+    },
+    {
+      "album": {
         "name": "Lights go dim",
         "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
       },
@@ -8978,7 +9044,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162545,
       "name": "My Ones",
       "url": "https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG"
@@ -9480,6 +9546,24 @@
       "duration_ms": 156269,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/5CEjDNYlE2T2iBrQRN3PAU"
+    },
+    {
+      "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/1r7kH9IJZp5u7r4LlWIjIo"
+      },
+      "artists": [
+        {
+          "name": "UCHE",
+          "url": "https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2k5PoyzxiOwyfvgDn8Jitp"
     },
     {
       "album": {
@@ -10308,6 +10392,32 @@
       "duration_ms": 183925,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf"
+    },
+    {
+      "album": {
+        "name": "Patience Ozokwor",
+        "url": "https://open.spotify.com/album/3Iur68f8UK7ZNeBZ2iGNwA"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Patience Ozokwor",
+      "url": "https://open.spotify.com/track/1LNvzS4MixvOYyAIHorfVO"
     },
     {
       "album": {
@@ -11824,7 +11934,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 115662,
       "name": "Shhhhet!",
       "url": "https://open.spotify.com/track/06CtBZYVp1KKnMJZsKqAjK"
@@ -11894,6 +12004,32 @@
       "duration_ms": 140800,
       "name": "showmetheway !!",
       "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "album": {
+        "name": "A Place 4 You (Songs For Amahle)",
+        "url": "https://open.spotify.com/album/5zUHSvE8bYXIsazHmkbcyK"
+      },
+      "artists": [
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        },
+        {
+          "name": "Waltar",
+          "url": "https://open.spotify.com/artist/1zguzPA6Qj9VEI2C3frGRd"
+        },
+        {
+          "name": "9roovy",
+          "url": "https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161703,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/1liuSUuFDJm5FFNaljnQXX"
     },
     {
       "album": {
@@ -12570,7 +12706,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 126040,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/1hJBvJ2d2F9ipxKNKO1nVx"
@@ -13364,6 +13500,24 @@
       "duration_ms": 163095,
       "name": "TDK (feat. SirBastien)",
       "url": "https://open.spotify.com/track/3615rdkHPXPOOs1PFWd2ec"
+    },
+    {
+      "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/6CIsnjBgkGz9vHXxptckxn"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/5aY8QMTFfS8Tc0DBydnBDE"
     },
     {
       "album": {
@@ -14446,7 +14600,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 172782,
       "name": "Vita",
       "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"

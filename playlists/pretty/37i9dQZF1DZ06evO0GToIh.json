@@ -1,12 +1,12 @@
 {
-  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 245641,
+  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
+  "num_followers": 245774,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAABr/uWZnU8vONU9h/4PIVkO",
+  "snapshot_id": "ZuoYAAAAAADV7E0DfUTBgDcjV+lCdDVE",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 185738,
-      "name": "Y Me Ver\u00e1n",
-      "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+      "duration_ms": 185738,
+      "name": "Y Me Ver\u00e1n",
+      "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 165750,
       "name": "No Sab\u00eda Cu\u00e1nto",
       "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Ni Te Conozco, Ni Me Saludes",
+      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 241029,
-      "name": "Ni Te Conozco, Ni Me Saludes",
-      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
         "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 189000,
       "name": "Provocame - En Vivo",
       "url": "https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245846,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
     },
     {
       "added_at": null,
@@ -655,42 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245846,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Del Trigo",
-        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cheko Mg",
-          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
-        }
-      ],
-      "duration_ms": 178864,
-      "name": "El Del Trigo",
-      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -703,22 +683,6 @@
       "duration_ms": 122242,
       "name": "Oficialmente en Solter\u00eda",
       "url": "https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Sangoloteadito - En Vivo",
-      "url": "https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU"
     },
     {
       "added_at": null,
@@ -755,22 +719,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "El Del Trigo",
+        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         },
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        }
+      ],
+      "duration_ms": 178864,
+      "name": "El Del Trigo",
+      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 150424,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
+      "duration_ms": 254000,
+      "name": "Sangoloteadito - En Vivo",
+      "url": "https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 151600,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 150424,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
     },
     {
       "added_at": null,

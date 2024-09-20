@@ -474,6 +474,24 @@
     {
       "album": {
         "name": "El Proveedor",
+        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231402,
+      "name": "El Proveedor",
+      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+    },
+    {
+      "album": {
+        "name": "El Proveedor",
         "url": "https://open.spotify.com/album/7jOpehP0DGSfoG5314Im7v"
       },
       "artists": [
@@ -484,7 +502,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 231402,
       "name": "El Proveedor",
       "url": "https://open.spotify.com/track/3AVEHsmsDr6MuGLRZS8Pev"
@@ -712,6 +730,24 @@
     {
       "album": {
         "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232031,
+      "name": "Me Vuelve Loco",
+      "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
+    },
+    {
+      "album": {
+        "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf"
       },
       "artists": [
@@ -722,7 +758,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 232031,
       "name": "Me Vuelve Loco",
       "url": "https://open.spotify.com/track/3QqjIX7MHwmip6AGbATwTU"
@@ -918,6 +954,24 @@
     {
       "album": {
         "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/0sh8CBGWBvJyNmWBRhZ8dU"
+    },
+    {
+      "album": {
+        "name": "Playball",
         "url": "https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU"
       },
       "artists": [
@@ -928,7 +982,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214840,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P"
@@ -1116,10 +1170,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 255401,
       "name": "Si Es Posible",
       "url": "https://open.spotify.com/track/1uQhUupvikvunqykML6NPd"
+    },
+    {
+      "album": {
+        "name": "Si Es Posible",
+        "url": "https://open.spotify.com/album/1QlZL4Vc5MozT8GdlE6h8j"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255401,
+      "name": "Si Es Posible",
+      "url": "https://open.spotify.com/track/1zQhxXlnXqWk3KpUBhPpQC"
     },
     {
       "album": {

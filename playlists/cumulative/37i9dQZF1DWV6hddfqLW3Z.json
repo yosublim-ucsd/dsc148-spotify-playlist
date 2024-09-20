@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170706,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
@@ -2732,6 +2732,28 @@
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "album": {
+        "name": "Te espero ou fujo?",
+        "url": "https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134161,
+      "name": "Te espero ou fujo?",
+      "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
     },
     {
       "album": {

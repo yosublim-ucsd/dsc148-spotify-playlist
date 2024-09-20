@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 297895,
       "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
       "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Du \u00e4r inte ensam",
+        "url": "https://open.spotify.com/album/00veIC6BKJUrFwhxISPhUu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jeff Johnson",
+          "url": "https://open.spotify.com/artist/3ta73ydktHSzZRez9vzyUV"
+        },
+        {
+          "name": "Sonja Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191229,
+      "name": "Du \u00e4r inte ensam",
+      "url": "https://open.spotify.com/track/6hysTRJfm36bH5gyGhMokz"
+    },
+    {
+      "album": {
         "name": "Elaine",
         "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
       },
@@ -792,7 +814,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 286200,
       "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
       "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 187333,
       "name": "John Denver",
       "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
@@ -1692,6 +1714,28 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "album": {
+        "name": "Kyrie Eleison",
+        "url": "https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA"
+      },
+      "artists": [
+        {
+          "name": "Erlend Ropstad",
+          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282613,
+      "name": "Kyrie Eleison",
+      "url": "https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2"
     },
     {
       "album": {
@@ -2170,7 +2214,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 214541,
       "name": "Nu n\u00e4r vi \u00e4nd\u00e5 talar om d\u00f6den - Mauro Scocco Remix",
       "url": "https://open.spotify.com/track/3M0Mg0TNCRegl84z83T8oW"
@@ -3226,7 +3270,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197173,
       "name": "Vi st\u00e5r inte ut",
       "url": "https://open.spotify.com/track/79SPnz1ts8Qky3HrWxj3YA"
@@ -3309,6 +3353,28 @@
     },
     {
       "album": {
+        "name": "V\u00e5r v\u00e4nskap best\u00e5r",
+        "url": "https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x"
+      },
+      "artists": [
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        },
+        {
+          "name": "Anna Stadling",
+          "url": "https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "V\u00e5r v\u00e4nskap best\u00e5r",
+      "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
+    },
+    {
+      "album": {
         "name": "V\u00e5t cigg",
         "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
       },
@@ -3324,6 +3390,24 @@
       "duration_ms": 177000,
       "name": "V\u00e5t cigg",
       "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
+    },
+    {
+      "album": {
+        "name": "Atlas - Outtakes & Acoustics",
+        "url": "https://open.spotify.com/album/6qWPpu964E3p2WcHg9q5lF"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243720,
+      "name": "Waiting For The Storm To Pass",
+      "url": "https://open.spotify.com/track/3MFAqUVRhIj3LBmoodruF8"
     },
     {
       "album": {
@@ -3368,6 +3452,24 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "album": {
+        "name": "Wasting Years",
+        "url": "https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw"
+      },
+      "artists": [
+        {
+          "name": "Ulf Nilsson",
+          "url": "https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225976,
+      "name": "Wasting Years",
+      "url": "https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj"
     },
     {
       "album": {

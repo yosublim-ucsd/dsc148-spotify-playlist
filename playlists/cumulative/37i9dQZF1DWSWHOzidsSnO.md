@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Laura Pérez.
 
-407 songs - 22 hr 12 min
+408 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 | 2022-01-05 | 2022-03-10 |
 | [Amor de mi vida](https://open.spotify.com/track/53TlwMMz8k4wrfmcXyALIq) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Amor de mi vida](https://open.spotify.com/album/1PpckLJMITfyaGw4yrWCZu) | 3:04 | 2022-08-03 |  |
 | [Antonia](https://open.spotify.com/track/74T7fxdDqnDiqRX3ezajVj) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Amores Prestados \(Pt\. 1\)](https://open.spotify.com/album/3sVsdIw45I4vbjoK5Lowit) | 3:31 | 2024-03-06 | 2024-04-04 |
+| [Apartamento](https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Apartamento](https://open.spotify.com/album/0ime5jbko8tGB7Ca1khdQY) | 2:51 | 2024-09-19 |  |
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2023-11-21 |  |
 | [Aquello](https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Aquello](https://open.spotify.com/album/61QtJjPRIjhMRHGFToskyk) | 3:06 | 2022-01-05 | 2023-06-08 |
 | [Arráncame las ganas \- Primer Conjuro](https://open.spotify.com/track/5Pz8gWDuyF07TwvqFdmlsD) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Arráncame las ganas \(Primer Conjuro\)](https://open.spotify.com/album/54kqmsWB0dt0PAVbpF8pGZ) | 2:21 | 2022-01-05 | 2024-06-06 |
@@ -116,7 +117,7 @@
 | [Dead To Me](https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:19 | 2024-08-07 |  |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-09 | 2022-04-09 |
 | [Demasiao](https://open.spotify.com/track/61BQX0yQEUUTWlYZg1CxBY) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Demasiao](https://open.spotify.com/album/3ErfNfpKjlVaavyhWc4MG2) | 2:46 | 2022-03-04 | 2023-01-05 |
-| [Dementes](https://open.spotify.com/track/4gkrTk54yo0erGO3nXiIil) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Dementes](https://open.spotify.com/album/0l6QOaxT9LRFinKi7lhjLu) | 3:43 | 2023-11-21 |  |
+| [Dementes](https://open.spotify.com/track/4gkrTk54yo0erGO3nXiIil) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Dementes](https://open.spotify.com/album/0l6QOaxT9LRFinKi7lhjLu) | 3:43 | 2023-11-21 | 2024-09-20 |
 | [Desconocidos \- Cinco de Mil Pedazos](https://open.spotify.com/track/4MMgut3ltwpW6pGO0iZxUD) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Desconocidos \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/6asUSscngBCoG8DvRTq98W) | 3:15 | 2023-11-21 |  |
 | [Desde que te fuiste](https://open.spotify.com/track/1rrH9cVutzoTeoZFyYQZDM) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tristes, pero no tanto](https://open.spotify.com/album/20zvxpE7iqkvjmh3fFy3Wc) | 2:52 | 2024-03-06 | 2024-04-04 |
 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-11-01 | 2023-11-22 |

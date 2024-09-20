@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: House of Protection
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,521 likes - 131 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,561 likes - 131 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

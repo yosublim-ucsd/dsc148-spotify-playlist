@@ -1,12 +1,12 @@
 {
-  "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 33273,
+  "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
+  "num_followers": 33298,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAABK1xTlpCaELxBTlsTafNld",
+  "snapshot_id": "ZuoYAAAAAAABXkg4saWCdqL9Nr+ul1lh",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
         "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 272146,
       "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
       "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siguiendo La L\u00ednea",
-        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 254615,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.F.",
         "url": "https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 243946,
       "name": "Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siguiendo La L\u00ednea",
+        "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 254615,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+        "name": "Quiero Cambiar (Remastered 2000)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 258438,
-      "name": "No Puedo So\u00f1ar",
-      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+      "duration_ms": 252029,
+      "name": "Mandar una Flor - Remastered 2000",
+      "url": "https://open.spotify.com/track/768gdK0kUekavH5CCqie9o"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 258438,
+      "name": "No Puedo So\u00f1ar",
+      "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Cambiar (Remastered 2000)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 252029,
-      "name": "Mandar una Flor - Remastered 2000",
-      "url": "https://open.spotify.com/track/768gdK0kUekavH5CCqie9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambios",
         "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 239583,
       "name": "Eres Fuego",
       "url": "https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Cambiar (Remastered 2000)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 176889,
+      "name": "Sue\u00f1o Loco - Remastered 2000",
+      "url": "https://open.spotify.com/track/5U0XaYTkNC2NwFYvHiRca9"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 344633,
       "name": "El \u00daltimo Viaje (En Vivo)",
       "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiero Cambiar (Remastered 2000)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 176889,
-      "name": "Sue\u00f1o Loco - Remastered 2000",
-      "url": "https://open.spotify.com/track/5U0XaYTkNC2NwFYvHiRca9"
     },
     {
       "added_at": null,

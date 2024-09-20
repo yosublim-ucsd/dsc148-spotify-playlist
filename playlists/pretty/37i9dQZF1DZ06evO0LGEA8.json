@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 244387,
+  "num_followers": 244539,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACaXECSlTeYQscrgrfkzsOt",
+  "snapshot_id": "ZuoYAAAAAADxNYG7Zy5xrDC3aJDQZHhW",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 345861,
-      "name": "Hasta Donde Se Pueda",
-      "url": "https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv"
+      "duration_ms": 316003,
+      "name": "Si Tuviera una Fortuna",
+      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 316003,
-      "name": "Si Tuviera una Fortuna",
-      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
+      "duration_ms": 345861,
+      "name": "Hasta Donde Se Pueda",
+      "url": "https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Fumando",
-        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "Como Borrar Tus Besos",
-      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos Fumando",
+        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "Como Borrar Tus Besos",
+      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Donde Se Pueda, Vol. 2",
         "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 404375,
       "name": "Celoso Enfermo",
       "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Compatible Contigo",
-      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 330161,
-      "name": "Las Chidas Pal Cuarto",
-      "url": "https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX"
+      "duration_ms": 275500,
+      "name": "Compatible Contigo",
+      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 245562,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+      "duration_ms": 330161,
+      "name": "Las Chidas Pal Cuarto",
+      "url": "https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 530280,
       "name": "A Su Vato Enga\u00f1a",
       "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -763,6 +747,46 @@
       "duration_ms": 295345,
       "name": "En el Espacio",
       "url": "https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico 20s",
+        "url": "https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "No que no eras fan",
+      "url": "https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 291974,
+      "name": "Alcoholizados",
+      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
     },
     {
       "added_at": null,
@@ -819,26 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico 20s",
-        "url": "https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um"
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
         }
       ],
-      "duration_ms": 202597,
-      "name": "No que no eras fan",
-      "url": "https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW"
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
       "duration_ms": 294504,
       "name": "Primero Lo Que Deja",
       "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,

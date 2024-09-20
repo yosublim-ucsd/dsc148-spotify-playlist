@@ -1745,6 +1745,36 @@
     },
     {
       "album": {
+        "name": "Manasilaayo - From \"Vettaiyan\"",
+        "url": "https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Yugendran Vasudevan",
+          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235629,
+      "name": "Manasilaayo (From \"Vettaiyan\")",
+      "url": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3"
+    },
+    {
+      "album": {
         "name": "Eeswaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf"
       },
@@ -1974,7 +2004,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 275093,
       "name": "Moongil Thottam",
       "url": "https://open.spotify.com/track/5PNZX8yqzqqAMPpl3UAoaP"
@@ -2898,7 +2928,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 311428,
       "name": "Seramal Ponal",
       "url": "https://open.spotify.com/track/0FTPiuMAGuvXVjeXh7g8ot"

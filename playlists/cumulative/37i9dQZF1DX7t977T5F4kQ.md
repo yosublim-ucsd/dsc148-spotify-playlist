@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Kelvyn boy
 
-405 songs - 21 hr 14 min
+406 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Makoma](https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn) | [Becca](https://open.spotify.com/artist/6vMTJy1XlG5FzAuuSLLTAX) | [Makoma](https://open.spotify.com/album/27Nr3Bf2wlj1pyPLNodfA5) | 3:07 | 2024-03-22 | 2024-06-01 |
 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-05 |  |
 | [Man Down](https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk) | [Ahkan](https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT) | [Man Down](https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32) | 3:16 | 2023-04-27 | 2023-05-05 |
+| [Man Down](https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Man Down](https://open.spotify.com/album/4e9P24WR2Efz4WS4yozl9S) | 3:21 | 2024-09-20 |  |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 |  |
 | [Maradona](https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Maradona](https://open.spotify.com/album/0DklTPJBpPqQaAUP6ZXmhR) | 3:14 | 2023-10-20 | 2023-11-10 |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 |  |

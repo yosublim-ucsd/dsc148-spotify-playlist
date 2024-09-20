@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Chico",
-  "num_followers": 347343,
+  "num_followers": 347363,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Telegrama",
-        "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Telegrama",
-      "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Telegrama",
+        "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Telegrama",
+      "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "m\u00e3eana canta JG",
+        "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "duration_ms": 268593,
+      "name": "Tapete Voador - Ciganada",
+      "url": "https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "m\u00e3eana canta JG",
-        "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3eana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "duration_ms": 268593,
-      "name": "Tapete Voador - Ciganada",
-      "url": "https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "a trilha do carro dos meus pais (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
-      },
-      "artists": [
-        {
-          "name": "Maria Maud",
-          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
-        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 244150,
-      "name": "Flecha do Dedo",
-      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Doce Vampiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 169890,
       "name": "Doce Vampiro - Ao Vivo",
       "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
+        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Flecha do Dedo",
+      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
-      },
-      "artists": [
-        {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 256344,
       "name": "Multicolorida",
       "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "real cinema",
+        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
+      },
+      "artists": [
+        {
+          "name": "LUIZGA",
+          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
+        },
+        {
+          "name": "Jo\u00e3o Silva",
+          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
+        }
+      ],
+      "duration_ms": 203827,
+      "name": "aprender a perder",
+      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "A Calma Acalma",
         "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
       },
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "real cinema",
-        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
-      },
-      "artists": [
-        {
-          "name": "LUIZGA",
-          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
-        },
-        {
-          "name": "Jo\u00e3o Silva",
-          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
-        }
-      ],
-      "duration_ms": 203827,
-      "name": "aprender a perder",
-      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Donatural - Ao Vivo",
         "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 215173,
       "name": "Balan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "CORAL",
+        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 269374,
+      "name": "Iy\u00e1 Mesan",
+      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "SEGUNDA OU TER\u00c7A",
         "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
@@ -1423,22 +1443,18 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "CORAL",
-        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        },
-        {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
         }
       ],
-      "duration_ms": 269374,
-      "name": "Iy\u00e1 Mesan",
-      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Menina Preta de Cocar",
+        "url": "https://open.spotify.com/album/4ChgYlmQMNxZs3itprZj5j"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        }
+      ],
+      "duration_ms": 233023,
+      "name": "Menina Preta de Cocar",
+      "url": "https://open.spotify.com/track/2VEiUwfkJ75b75qRdeaU1n"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Camangada",
         "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 178072,
       "name": "Diva",
       "url": "https://open.spotify.com/track/3lLqTdC6VqZNszK6vITf56"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Menina Preta de Cocar",
-        "url": "https://open.spotify.com/album/4ChgYlmQMNxZs3itprZj5j"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        }
-      ],
-      "duration_ms": 233023,
-      "name": "Menina Preta de Cocar",
-      "url": "https://open.spotify.com/track/2VEiUwfkJ75b75qRdeaU1n"
     },
     {
       "added_at": "2024-09-13 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: BLOK3\n",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Critical x UZI x Heijan x Muti \n",
   "name": "NKVT",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 146797,
       "name": "Arama Bir Daha",
       "url": "https://open.spotify.com/track/61atU9vDAWG3le4fUAcvXw"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 133755,
       "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
@@ -3386,6 +3386,36 @@
       "duration_ms": 162581,
       "name": "Her An\u0131m\u0131z Yalan",
       "url": "https://open.spotify.com/track/04NyI7FUO6arfT5KnoX9el"
+    },
+    {
+      "album": {
+        "name": "HER YER FAVELA",
+        "url": "https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb"
+      },
+      "artists": [
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213565,
+      "name": "HER YER FAVELA",
+      "url": "https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr"
     },
     {
       "album": {
@@ -4739,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "Otonom Piyade: Kuzular\u0131n Sessizli\u011fi",
+        "url": "https://open.spotify.com/album/4O0Va9SCV5pkAVnDpBVs4l"
+      },
+      "artists": [
+        {
+          "name": "Saian",
+          "url": "https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi"
+        },
+        {
+          "name": "K''st",
+          "url": "https://open.spotify.com/artist/4x19qDNFXvWQnudUjs0XOE"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199263,
+      "name": "LA HAVLE VELA BOOM BAP",
+      "url": "https://open.spotify.com/track/3hQn0Fpg8pKvKv6voVvj7p"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8"
       },
@@ -4852,7 +4904,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178053,
       "name": "Lavinia 2",
       "url": "https://open.spotify.com/track/4LZQ6ErsWXmZAJZCfi4l68"
@@ -5229,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "HIGHLAND PARK",
+        "url": "https://open.spotify.com/album/5vEggLudPuNA8zcXtwJGp9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132548,
+      "name": "MASKEL\u0130 BE\u015eLER",
+      "url": "https://open.spotify.com/track/00sf8pPbUkL62I1Upv3lbw"
+    },
+    {
+      "album": {
         "name": "Mavi Chivas",
         "url": "https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I"
       },
@@ -5520,6 +5590,36 @@
       "duration_ms": 138817,
       "name": "N'apt\u0131\u011f\u0131n\u0131 bilmesem de",
       "url": "https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf"
+    },
+    {
+      "album": {
+        "name": "NAM NAM",
+        "url": "https://open.spotify.com/album/4CskKrWmvhLHyAODpngaGe"
+      },
+      "artists": [
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        },
+        {
+          "name": "Merdov",
+          "url": "https://open.spotify.com/artist/5hQRnQh0rQORV1E9Gc4qL6"
+        },
+        {
+          "name": "Ege Boran",
+          "url": "https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn"
+        },
+        {
+          "name": "Kuty",
+          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "NAM NAM",
+      "url": "https://open.spotify.com/track/4BaDMyA1nxnLn9mBOEvC39"
     },
     {
       "album": {
@@ -6808,7 +6908,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 228000,
       "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
       "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"
@@ -7152,7 +7252,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 123519,
       "name": "Sezen Aksu",
       "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
@@ -7294,7 +7394,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155500,
       "name": "Sokakta Stres",
       "url": "https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb"
@@ -7800,6 +7900,24 @@
       "duration_ms": 132244,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"
+    },
+    {
+      "album": {
+        "name": "Tom&Jerry - Walk And Flow",
+        "url": "https://open.spotify.com/album/6HccvGrEfTb01BHTDTlel7"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94285,
+      "name": "Tom&Jerry - Walk And Flow",
+      "url": "https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty"
     },
     {
       "album": {

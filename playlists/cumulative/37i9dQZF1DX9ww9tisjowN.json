@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 179998,
       "name": "FLY",
       "url": "https://open.spotify.com/track/69TWjExg7jIsKppVduemkN"
@@ -2358,6 +2358,24 @@
       "duration_ms": 241600,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp"
+    },
+    {
+      "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u524d\u7bc7",
+        "url": "https://open.spotify.com/album/2IsZa7R866e4nDA3iME83H"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "IMA IMA IMA",
+      "url": "https://open.spotify.com/track/53hS9eKKsLAtSsydsc9NUn"
     },
     {
       "album": {
@@ -7967,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD"
+      },
+      "artists": [
+        {
+          "name": "issey",
+          "url": "https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155981,
+      "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30ea\u30a4\u30ab",
         "url": "https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0"
       },
@@ -9984,7 +10020,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 301000,
       "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
       "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"

@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-107 songs - 6 hr 4 min
+111 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Mask of My Own Face](https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 3:30 | 2022-08-01 |  |
 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2023-03-26 | 2023-12-14 |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
+| [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2024-09-19 |  |
 | [Artificial Intelligence](https://open.spotify.com/track/3H65hbZNMHDCiFo3vhiAOA) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:57 | 2022-05-06 |  |
 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 | 2024-09-16 |  |
 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 | 2024-05-28 |  |
@@ -28,6 +29,7 @@
 | [Come Along](https://open.spotify.com/track/17q1nFo1UQvXiQ8TD7aI8H) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Come Along](https://open.spotify.com/album/5vxcQ2itLPBAhiPSRMN4ls) | 3:39 | 2022-05-06 |  |
 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 | 2023-06-03 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-09-17 |  |
+| [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2024-09-19 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-23 |  |
 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2023-11-20 |  |
 | [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Do It All The Time](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS) | 2:47 | 2022-09-07 |  |
@@ -66,6 +68,7 @@
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Mr\. Fear](https://open.spotify.com/track/5XeIQO9gGkGo54naYVVeJP) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 4:06 | 2023-10-28 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-05-13 |  |
+| [My Mama Said](https://open.spotify.com/track/7IHKr96kTrygmAoLyu4zMw) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:15 | 2024-09-19 |  |
 | [My Trains](https://open.spotify.com/track/2ZDyf27V6u99YgChCffKSy) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Nature Tapes](https://open.spotify.com/album/4Julje5zwF2IRlSqBOQ2oJ) | 4:04 | 2022-08-01 |  |
 | [New Invention](https://open.spotify.com/track/5vRXG939KMWdIPdLRYo9kw) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:11 | 2023-01-07 |  |
 | [No One Lives Forever](https://open.spotify.com/track/3kdSHY9ZQIjyg4Q68YG4Qz) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 4:14 | 2023-07-31 |  |
@@ -90,6 +93,7 @@
 | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/track/4BjIajLqiUhAUVnR854RJr) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/album/2quKDe4qshXgtiGogCHq5v) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2024-09-15 |  |
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-04-01 |  |
+| [That's Me](https://open.spotify.com/track/32SHYXEJZkpsnJkcggucM0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:15 | 2024-09-19 |  |
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2022-05-06 |  |
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |
 | [The Home Depot Beat](https://open.spotify.com/track/4euxYgIl5XEqUj5WB9lHNq) | [The Home Depot](https://open.spotify.com/artist/7tzPysmGf12PwEIQ8toFU6) | [The Home Depot Beat](https://open.spotify.com/album/3cflHXbTyEWMDg1ylyO7SS) | 0:35 | 2022-05-06 |  |

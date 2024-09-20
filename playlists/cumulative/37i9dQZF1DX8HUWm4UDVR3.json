@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Z\u00e9lie",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180000,
       "name": "Multicolore",
       "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
@@ -3746,6 +3746,24 @@
       "duration_ms": 164752,
       "name": "Tomb\u00e9e In Love",
       "url": "https://open.spotify.com/track/3A6Co1ShZ3F6z0nBjG40Za"
+    },
+    {
+      "album": {
+        "name": "TOUT PERDU",
+        "url": "https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI"
+      },
+      "artists": [
+        {
+          "name": "Orlane",
+          "url": "https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "TOUT PERDU",
+      "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"
     },
     {
       "album": {

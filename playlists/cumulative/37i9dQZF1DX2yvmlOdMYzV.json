@@ -3857,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "FAIL (APERTURE)",
+        "url": "https://open.spotify.com/album/2phuI68bYAz186QLUhgvzz"
+      },
+      "artists": [
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249657,
+      "name": "FAIL (APERTURE)",
+      "url": "https://open.spotify.com/track/0eYlnUpBri4R5xGgO8dmR2"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -15884,7 +15902,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 123319,
       "name": "You, The World Vs Me",
       "url": "https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI"

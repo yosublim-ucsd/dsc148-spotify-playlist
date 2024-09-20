@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Led Zeppelin. The essential tracks, all in one playlist.",
+  "description": "This Is Led Zeppelin. Los temas esenciales, todos en una lista.",
   "name": "This Is Led Zeppelin",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 262748,
       "name": "D'yer Mak'er - Remaster",
       "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223464,
+      "name": "Dancing Days - Remaster",
+      "url": "https://open.spotify.com/track/43doj2cumGe9W3p5ucxaoH"
     },
     {
       "album": {
@@ -844,7 +862,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197704,
       "name": "The Crunge - Remaster",
       "url": "https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS"

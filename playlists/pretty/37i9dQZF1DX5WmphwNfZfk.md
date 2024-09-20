@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SPIRITSAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,648 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,653 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 16 | [The Lineup](https://open.spotify.com/track/2PAYdUnvgkgPYz1uMKBg7U) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [The Lineup](https://open.spotify.com/album/3At0BxhuPDAtOCpHZ434Mf) | 2:41 |
 | 17 | [SINGLE\*](https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SINGLE\*](https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm) | 1:54 |
 | 18 | [Find My Way](https://open.spotify.com/track/3XlHdDuwPGjk63ruhqLUAW) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Find My Way](https://open.spotify.com/album/5XB7j90lRW2QYzCK41m6Df) | 2:01 |
-| 19 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:12 |
+| 19 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 |
 | 20 | [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 |
 | 21 | [Joint](https://open.spotify.com/track/2RSc8TYtlm50XLcXTnwxvd) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [Joint](https://open.spotify.com/album/2yYHAHN6GhlD3mT8os1xDk) | 2:28 |
 | 22 | [I'm Not Alone](https://open.spotify.com/track/1HP7tKTAfMVyfratNpc6be) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I'm Not Alone](https://open.spotify.com/album/7JoWwQpUV2moBx52rhNLri) | 5:43 |

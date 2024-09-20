@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Bayanni",
+  "description": "Tracks popping off in the Afro scene. Cover: Ya Levis",
   "name": "Afro Station",
   "tracks": [
     {
@@ -333,6 +333,42 @@
     },
     {
       "album": {
+        "name": "Amapiupiu",
+        "url": "https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Amapiupiu",
+      "url": "https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE"
+    },
+    {
+      "album": {
+        "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
+        "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186922,
+      "name": "Amar Pela Metade",
+      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
+    },
+    {
+      "album": {
         "name": "Amaria",
         "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
       },
@@ -531,6 +567,28 @@
     },
     {
       "album": {
+        "name": "OFA - Oxlade From Africa",
+        "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "ASUNASA - HOLD YOUR WAIST",
+      "url": "https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4"
+    },
+    {
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR"
       },
@@ -612,7 +670,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 173855,
       "name": "AYA BB",
       "url": "https://open.spotify.com/track/6K2y9U8wzNIddX3EpraCOx"
@@ -818,7 +876,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
@@ -1320,7 +1378,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 166134,
       "name": "C'est ton jour",
       "url": "https://open.spotify.com/track/6Y8hafOUvX1ChbtYBC5m5D"
@@ -1408,6 +1466,24 @@
       "duration_ms": 219813,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "album": {
+        "name": "Cam\u00e9ra",
+        "url": "https://open.spotify.com/album/7CBvhywoWNCovsppvHPfoz"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Cam\u00e9ra",
+      "url": "https://open.spotify.com/track/1w4wrabnubzXTdlXobHjmB"
     },
     {
       "album": {
@@ -1617,6 +1693,32 @@
     },
     {
       "album": {
+        "name": "Close To Me (feat. Bnxn)",
+        "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
+      },
+      "artists": [
+        {
+          "name": "Niphkeys",
+          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "Close To Me (feat. Bnxn)",
+      "url": "https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD"
+    },
+    {
+      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -1684,6 +1786,24 @@
       "duration_ms": 212307,
       "name": "Comment \u00e7a va ?",
       "url": "https://open.spotify.com/track/3hRKgaVHrMsFzMw1rnoFa9"
+    },
+    {
+      "album": {
+        "name": "THE GOOD TYPE OF BAD",
+        "url": "https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "COMPLACENT",
+      "url": "https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC"
     },
     {
       "album": {
@@ -3114,7 +3234,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162061,
       "name": "Fallin in Love",
       "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
@@ -3309,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Ferrero",
+        "url": "https://open.spotify.com/album/3Wvtueg0tQYf6iVt9v94E2"
+      },
+      "artists": [
+        {
+          "name": "Diane Dddd",
+          "url": "https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161854,
+      "name": "Ferrero",
+      "url": "https://open.spotify.com/track/7fJ7mEdFiOQ0JkZ1LoDNVG"
+    },
+    {
+      "album": {
         "name": "Fine Girl",
         "url": "https://open.spotify.com/album/4UFfCfzRXHZXoiWUWeL6zq"
       },
@@ -3478,7 +3616,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 174213,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6S2nSU6FmY2xCJFkh1lHER"
@@ -3534,6 +3672,28 @@
       "duration_ms": 154040,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6kZkSWQOWE3zpekjg0Jrpq"
+    },
+    {
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/3OQtDpMO5nKNHDU453ZoNS"
+      },
+      "artists": [
+        {
+          "name": "Magasco",
+          "url": "https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD"
+        },
+        {
+          "name": "Kameni",
+          "url": "https://open.spotify.com/artist/6kzVncWDmhnNOtlfvgBpfg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/2ENRA23j9XVJJiklsPxsvG"
     },
     {
       "album": {
@@ -3770,7 +3930,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150333,
       "name": "GoGo",
       "url": "https://open.spotify.com/track/2lfiR09w0PJQzk9Z3UR9Or"
@@ -5147,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "Love Machine, pt. 1",
+        "url": "https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Lifobo",
+      "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
+    },
+    {
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -5821,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Mauvais",
+        "url": "https://open.spotify.com/album/6itxauVuV7tHcCLMNCMSL8"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Mauvais",
+      "url": "https://open.spotify.com/track/0iR8UY4N51vzA3GJHZrF7O"
+    },
+    {
+      "album": {
         "name": "Mauvais choix",
         "url": "https://open.spotify.com/album/3nem9uxRb5gTgxFi5KvmML"
       },
@@ -6484,7 +6680,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185191,
       "name": "Ne doute pas",
       "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
@@ -6907,6 +7103,40 @@
     },
     {
       "album": {
+        "name": "Ohnana (feat. Farruko & Nicky Jam) [Remix]",
+        "url": "https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317714,
+      "name": "Ohnana (feat. Farruko & Nicky Jam) - Remix",
+      "url": "https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l"
+    },
+    {
+      "album": {
         "name": "Omo Ope",
         "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
       },
@@ -7246,7 +7476,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 143713,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/41wy2A1XfCaQJc3dgMulwB"
@@ -9434,7 +9664,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 188160,
       "name": "Tout Donner",
       "url": "https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L"
@@ -10078,7 +10308,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
@@ -10194,7 +10424,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,943 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,987 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
 | 70 | [Aquariano Nato](https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 1:56 |
 
-Snapshot ID: `ZuCdZwAAAACijZZVGEP17qa/jaBvZ/Jr`
+Snapshot ID: `ZuCdZwAAAAD85l2acYBBw9njS3ZdI0wr`

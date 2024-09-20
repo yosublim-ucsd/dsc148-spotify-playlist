@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Feature",
+        "url": "https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq"
+      },
+      "artists": [
+        {
+          "name": "Arav Sidhu",
+          "url": "https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123488,
+      "name": "Feature",
+      "url": "https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG"
+    },
+    {
+      "album": {
         "name": "Jawaani Jaaneman - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR"
       },
@@ -592,7 +614,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193190,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"

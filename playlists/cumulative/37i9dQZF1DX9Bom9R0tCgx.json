@@ -1877,6 +1877,32 @@
     },
     {
       "album": {
+        "name": "DIZZY",
+        "url": "https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "DIZZY",
+      "url": "https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ"
+    },
+    {
+      "album": {
         "name": "DJ Turn It Up (Ben Nicky Remix)",
         "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
       },
@@ -2714,7 +2740,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 197777,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/4ym9Ti3UWOduBs7eh2KaCG"
@@ -3001,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "GO BACK (We Can't)",
+        "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "GO BACK (We Can't)",
+      "url": "https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY"
+    },
+    {
+      "album": {
         "name": "Good In Goodbye",
         "url": "https://open.spotify.com/album/7vQEMQoNJZHIFHRSpyae9C"
       },
@@ -3050,7 +3094,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 138337,
       "name": "Guess",
       "url": "https://open.spotify.com/track/7a16HY8r534sdRJtw1spIS"
@@ -5075,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Moonlight - Rework",
+        "url": "https://open.spotify.com/album/2uRWXCyL1Cjrq37UkKgNVJ"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Moonlight - Rework",
+      "url": "https://open.spotify.com/track/72Gh9sEY2u6qZr2wUvsq3R"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -5340,6 +5402,32 @@
       "duration_ms": 235111,
       "name": "New Generation - Space 92 Remix",
       "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
+    },
+    {
+      "album": {
+        "name": "Ninacamina - KAVARI Remix",
+        "url": "https://open.spotify.com/album/463TZROEe8FY9MT5SUmewI"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        },
+        {
+          "name": "KAVARI",
+          "url": "https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Ninacamina - KAVARI Remix",
+      "url": "https://open.spotify.com/track/78vEiwVkGUsbL4r32GfHJ8"
     },
     {
       "album": {
@@ -5814,7 +5902,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 117882,
       "name": "P.I.M.P",
       "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
@@ -6072,7 +6160,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 117888,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/29T0IAQ18DxIWTZfc15Vkk"
@@ -7056,7 +7144,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198620,
       "name": "Satisfaction - Netsky Remix",
       "url": "https://open.spotify.com/track/5jAerxpObr7r1S957nWe1X"
@@ -8994,6 +9082,24 @@
       "duration_ms": 161377,
       "name": "Watch Me Break Free",
       "url": "https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD"
+    },
+    {
+      "album": {
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
     },
     {
       "album": {

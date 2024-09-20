@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 ### [MEXCLA](https://open.spotify.com/playlist/37i9dQZF1DWVACbHMzNf0B)
 
-> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://subelealamexcla.byspotify.com/"> AQUÍ</a>
+> 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,917 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,458 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 77 | [Adiós a los amigos](https://open.spotify.com/track/6c2vIoB8VITm9Mey69BqkJ) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 3:12 |
 | 78 | [Mantis](https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:31 |
 
-Snapshot ID: `ZuR5QAAAAACUKY/yYPCWJZUA6uG1hkLE`
+Snapshot ID: `ZuxyFQAAAABJgFmEVqrf/m631uN5/w9o`

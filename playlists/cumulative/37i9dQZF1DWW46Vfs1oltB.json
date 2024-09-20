@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Paloalto(\ud314\ub85c\uc54c\ud1a0))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Jay Park(\ubc15\uc7ac\ubc94))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 278118,
       "name": "29",
       "url": "https://open.spotify.com/track/0TDB7Tsqwyg3Pk5IaZGvCH"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 179200,
       "name": "AI (Feat. Loco)",
       "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177026,
       "name": "BASTARD (feat. CHANGMO)",
       "url": "https://open.spotify.com/track/1EPw2pYx7WRlVMmLp3GHFP"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150466,
       "name": "BEAT THE CASE",
       "url": "https://open.spotify.com/track/5yFccytHVcHeeI6pUhGUkb"
@@ -5246,7 +5246,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 180626,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230741,
       "name": "darling",
       "url": "https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF"
@@ -8456,7 +8456,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 131764,
       "name": "Focused On Getting Rich",
       "url": "https://open.spotify.com/track/7dTSf8ocCEl9HXKOioF6aj"
@@ -8938,7 +8938,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 173793,
       "name": "Galleria (feat. YLN Foreign)",
       "url": "https://open.spotify.com/track/01TAX4shfADEKYjv3GHo9o"
@@ -10796,7 +10796,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 182000,
       "name": "HBD",
       "url": "https://open.spotify.com/track/4A1ebEAzG7zN385y88Rs5F"
@@ -10988,7 +10988,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 267346,
       "name": "HELLA DOPE (feat. icecream drum, Leellamarz, White Punk)",
       "url": "https://open.spotify.com/track/6Gv5YJE8UkKCZHJxzphH7C"
@@ -11168,7 +11168,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203015,
       "name": "HIGH (Feat. pH-1)",
       "url": "https://open.spotify.com/track/17kihypOP5Q7c22iLAdg8E"
@@ -13280,7 +13280,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 148200,
       "name": "JEALOUSYVALHALLA",
       "url": "https://open.spotify.com/track/53pgU100GX5E2EDp50eIvZ"
@@ -14922,7 +14922,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 143293,
       "name": "LIKE ME!",
       "url": "https://open.spotify.com/track/0yWFtXiYxj52v94wc1Gm2b"
@@ -15244,6 +15244,24 @@
       "duration_ms": 142341,
       "name": "Look (Feat. Blase)",
       "url": "https://open.spotify.com/track/7HvjsQzCtP8lEBfZ8NIxOk"
+    },
+    {
+      "album": {
+        "name": "Webtoon 'The Heir' Original Soundtrack Part.1",
+        "url": "https://open.spotify.com/album/4FcGMi1u0HcQjtl31BT1tc"
+      },
+      "artists": [
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Look at Me",
+      "url": "https://open.spotify.com/track/3KIThw7S5IVduW1XW3kVep"
     },
     {
       "album": {
@@ -15718,7 +15736,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 162000,
       "name": "LTOR (Left Them On Read)",
       "url": "https://open.spotify.com/track/55KZrqOn7a6qEq511Rjn3U"
@@ -17470,7 +17488,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193866,
       "name": "MUSE! (Feat. Loco)",
       "url": "https://open.spotify.com/track/2lnxrwZDiXYCyyeXp6oQxh"
@@ -19596,7 +19614,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 148080,
       "name": "pain (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/3Nf9yBKwJxjKk2hO6OK7jx"
@@ -21232,7 +21250,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 171933,
       "name": "Reset (Feat. pH-1)",
       "url": "https://open.spotify.com/track/0xErW6hiZXYK4MlpkTej93"
@@ -22920,7 +22938,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 230480,
       "name": "SHOOT",
       "url": "https://open.spotify.com/track/5TWjs4p7y3mhtkL7Ptbj2S"
@@ -24416,7 +24434,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 199866,
       "name": "Summer (Feat. BE\u2019O)",
       "url": "https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8"
@@ -24760,7 +24778,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141000,
       "name": "Swaggers in Korea",
       "url": "https://open.spotify.com/track/2R2pch4wez5eM89vN8Cxll"
@@ -24778,7 +24796,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177226,
       "name": "Swear",
       "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
@@ -25558,7 +25576,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 131162,
       "name": "The Cult",
       "url": "https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR"
@@ -27053,6 +27071,32 @@
     },
     {
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/6VYC3AJkBYltP9ajuEHQgJ"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/2SZV68dIWppxeD6y7ndQXk"
+    },
+    {
+      "album": {
         "name": "NOMINATE",
         "url": "https://open.spotify.com/album/0Wuc3nyECbctfSVlH2eK6p"
       },
@@ -28194,7 +28238,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 140733,
       "name": "Well\u2026?",
       "url": "https://open.spotify.com/track/4dIhOd9VXoBDsq1RUO6rvK"
@@ -30118,7 +30162,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193714,
       "name": "\uc5b4\ub5a1\ud574",
       "url": "https://open.spotify.com/track/3CXjs9mrGvsa0b63FjynKd"
@@ -30144,7 +30188,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198053,
       "name": "\uc5ec\ud638\uc640",
       "url": "https://open.spotify.com/track/3y5fFi4bOSCFRiUfAWxhEV"

@@ -81,6 +81,6 @@
 | [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 | 2022-05-31 | 2024-04-19 |
 | [world](https://open.spotify.com/track/4hFZF8l3pJfFOtXs7K0nUJ) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:02 | 2023-08-02 |  |
 | [You Wouldn't like Me](https://open.spotify.com/track/5XrpGRTACaYCT7ijWtnUsI) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:56 | 2023-08-02 |  |
-| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \- Deluxe](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2022-05-26 |  |
+| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2022-05-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

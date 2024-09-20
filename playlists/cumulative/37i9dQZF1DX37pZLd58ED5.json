@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Tony Boy",
+  "description": "Solo beat e rime avvolgenti. Cover: Lazza",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
+    },
+    {
+      "album": {
         "name": "CASA",
         "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
       },
@@ -790,6 +812,24 @@
       "duration_ms": 170196,
       "name": "Cenere",
       "url": "https://open.spotify.com/track/45xyKCey4BM3fMeFEsF1Hp"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218848,
+      "name": "CERTE COSE",
+      "url": "https://open.spotify.com/track/1Oq3J5blhz3N6IiWJVZRgm"
     },
     {
       "album": {
@@ -944,6 +984,24 @@
       "duration_ms": 203720,
       "name": "Come Mai (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/0ImvhtUWThEVg2d7KQPT1N"
+    },
+    {
+      "album": {
+        "name": "Going Hard 2",
+        "url": "https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Come mi guardi",
+      "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
     },
     {
       "album": {

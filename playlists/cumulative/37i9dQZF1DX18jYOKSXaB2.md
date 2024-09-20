@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-142 songs - 7 hr 15 min
+143 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-02-11 | 2022-09-02 |
 | [Peace of Mind](https://open.spotify.com/track/3iSPa1byIatby865yq5GwD) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Peace of Mind](https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc) | 2:53 | 2023-03-17 | 2023-03-25 |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-03 |  |
+| [perfect union](https://open.spotify.com/track/5J62LqX6Sz0oisKKDkfcFK) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [perfect union](https://open.spotify.com/album/53HnNVVIVvgsRMNI49KLip) | 3:30 | 2024-09-20 |  |
 | [Plans](https://open.spotify.com/track/0WoT1vggiErQBlgzft2X77) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Plans](https://open.spotify.com/album/6rCRtmadXMUoZgJYZ3RtsN) | 2:52 | 2023-03-24 | 2024-03-01 |
 | [Rara](https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Waje 2.0](https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH) | 2:04 | 2022-07-22 | 2023-08-01 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 |  |
@@ -130,7 +131,7 @@
 | [Special Day](https://open.spotify.com/track/12EIFU5WhqshWw6tiPLcWe) | [Dasmart](https://open.spotify.com/artist/1TR30QWtapklwjTmVV89v6) | [The Lost Son](https://open.spotify.com/album/3PSnyYzuHQvhigJU16rPOJ) | 2:53 | 2024-05-17 | 2024-07-19 |
 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 | 2023-04-14 | 2024-04-19 |
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-29 | 2023-04-23 |
-| [Stand By You](https://open.spotify.com/track/6Y8rlNz9wcfWOMGiHPgYzI) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/39WVQ6PF89aHiysP6RXCdT) | 2:55 | 2024-04-19 |  |
+| [Stand By You](https://open.spotify.com/track/6Y8rlNz9wcfWOMGiHPgYzI) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/39WVQ6PF89aHiysP6RXCdT) | 2:55 | 2024-04-19 | 2024-09-20 |
 | [Surrender](https://open.spotify.com/track/1pLOxV11pQRIyHnGIVZVDH) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 2:42 | 2024-04-19 |  |
 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 | 2022-02-11 | 2024-04-19 |
 | [The Best Part \- Remix](https://open.spotify.com/track/2FXWJ4fRWlbdtk3mdwLHct) | [Savy Henry](https://open.spotify.com/artist/6Wf1QL4mEnFckePmc4nPjT), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Best Part \(Remix\)](https://open.spotify.com/album/5tykI2qlQC4bsIOAWNh1fX) | 2:27 | 2024-07-26 | 2024-08-31 |

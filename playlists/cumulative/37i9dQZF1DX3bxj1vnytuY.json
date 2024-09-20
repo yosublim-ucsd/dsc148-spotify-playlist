@@ -5311,6 +5311,32 @@
     },
     {
       "album": {
+        "name": "Toscali",
+        "url": "https://open.spotify.com/album/2GwT1vJhinoHfStwEAx0La"
+      },
+      "artists": [
+        {
+          "name": "Makemba",
+          "url": "https://open.spotify.com/artist/0ZzJ4DRXdgRqxoPsV9rIx4"
+        },
+        {
+          "name": "El Khatib",
+          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
+        },
+        {
+          "name": "Mosii",
+          "url": "https://open.spotify.com/artist/30cqa2CuqgbfqOXWCRS3Hz"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148278,
+      "name": "Toscali",
+      "url": "https://open.spotify.com/track/51nl15CGPLhbcR25zawzg6"
+    },
+    {
+      "album": {
         "name": "Trailblazer",
         "url": "https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS"
       },

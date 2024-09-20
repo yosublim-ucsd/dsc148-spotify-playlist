@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,381 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,357 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 79 | [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 |
 | 80 | [Teoria](https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Teoria](https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf) | 1:53 |
 
-Snapshot ID: `ZttaTQAAAACE9W9RV68FiTorPq7rtMge`
+Snapshot ID: `ZttaTQAAAACPpGfzesmKDAC4JMCc2YfF`

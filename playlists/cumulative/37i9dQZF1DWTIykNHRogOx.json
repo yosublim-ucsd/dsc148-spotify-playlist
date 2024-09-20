@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Louis Chedid",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Marie-Flore",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 216093,
       "name": "AMOURFOU",
       "url": "https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev"
@@ -110,10 +110,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 137650,
       "name": "c'\u00e9tait mieux avant",
       "url": "https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu"
+    },
+    {
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4"
+      },
+      "artists": [
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217819,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw"
     },
     {
       "album": {
@@ -355,6 +373,24 @@
     },
     {
       "album": {
+        "name": "ils en savent quoi ?",
+        "url": "https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "ils en savent quoi ?",
+      "url": "https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D"
+    },
+    {
+      "album": {
         "name": "Insolation",
         "url": "https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp"
       },
@@ -384,7 +420,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 135490,
       "name": "J'connais des gens",
       "url": "https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2"
@@ -637,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Le c\u0153ur qui bat - Bande originale du film",
+        "url": "https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Delerm",
+          "url": "https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Le c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC"
+    },
+    {
+      "album": {
         "name": "Le Grand Sommeil",
         "url": "https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR"
       },
@@ -728,7 +782,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 236315,
       "name": "Le temps qui passe sans moi - Version symphonique",
       "url": "https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg"
@@ -955,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Quelques centimes",
+        "url": "https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237933,
+      "name": "Quelques centimes",
+      "url": "https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2"
+    },
+    {
+      "album": {
         "name": "Quitter la ville",
         "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
       },
@@ -1013,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Tout pour moi",
+        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077"
+    },
+    {
+      "album": {
         "name": "Rome (Version acoustique)",
         "url": "https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu"
       },
@@ -1060,7 +1150,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 222220,
       "name": "Salut",
       "url": "https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE"

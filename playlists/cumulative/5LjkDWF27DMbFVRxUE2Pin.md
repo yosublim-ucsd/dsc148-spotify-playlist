@@ -4,7 +4,7 @@
 
 > 
 
-466 songs - 1 day 5 hr 41 min
+468 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Danger! High Voltage \- Soulchild Radio Mix](https://open.spotify.com/track/2VHfyWLlvCvbkIqtS5tqt3) | [Electric Six](https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua) | [Fire](https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx) | 3:34 | 2024-07-16 |  |
 | [Dark Nights](https://open.spotify.com/track/491QwqKYW0pX7uN8ObMHQA) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Thrive In The Darkness](https://open.spotify.com/album/4NYEzTWPmAaxA0UfvtFJfM) | 3:09 | 2024-07-16 |  |
 | [Dat Vibe Pt\. 2](https://open.spotify.com/track/0HT6fy0Y6FIG5Gg8mE7Cni) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Dat Vibe Pt\. 2](https://open.spotify.com/album/5oE7kDE8KBAVVB9Xwpyf0I) | 3:47 | 2024-08-23 | 2024-09-09 |
+| [Dearly Loved](https://open.spotify.com/track/339gbkFVGkQTIPM9A15VZq) | [Gianna Minichiello](https://open.spotify.com/artist/2opSEMQBfqfYDAiFBwDdk5) | [Dearly Loved](https://open.spotify.com/album/70G3EkWnamHdFF7Oddrm8v) | 4:07 | 2024-09-19 |  |
 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2024-07-04 |  |
 | [Devil in the Detail](https://open.spotify.com/track/6iq4BE1bh5BTvQ8eZEpVWs) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:22 | 2024-07-16 |  |
 | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla) | 6:45 | 2024-07-16 |  |
@@ -383,6 +384,7 @@
 | [Suzy Lee](https://open.spotify.com/track/53Oagu1oWjuyISkTKswMOZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:21 | 2024-07-17 |  |
 | [Sweet](https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:52 | 2024-07-19 |  |
 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-08-14 | 2024-08-24 |
+| [Take It Through the Night](https://open.spotify.com/track/1gIAdQnDMhaKnByELvnFSu) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:38 | 2024-09-19 |  |
 | [Take Me First](https://open.spotify.com/track/6ERSCeGFBSwvHCvBjwrmwE) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:19 | 2024-07-16 |  |
 | [Take on Me](https://open.spotify.com/track/23STx1IIxNhpX6sbANkcwa) | [Northern Kings](https://open.spotify.com/artist/2mKiBiT7SkTNNgWqaZynfw) | [Rethroned](https://open.spotify.com/album/5wM6nxS1YYZgWSgRCOqeSe) | 3:56 | 2024-07-04 |  |
 | [Taken a Tumble](https://open.spotify.com/track/59ZUWLEDnnONfLfiTHLB8v) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Scream Above the Sounds \(Deluxe Edition\)](https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI) | 3:36 | 2024-07-16 |  |

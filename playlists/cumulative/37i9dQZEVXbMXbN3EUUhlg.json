@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 199389,
       "name": "04AM",
       "url": "https://open.spotify.com/track/2fTTmjyF7pfarDBAbsJkvb"
@@ -232,6 +232,36 @@
       "duration_ms": 167034,
       "name": "30 Cadeados - Ao Vivo",
       "url": "https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr"
+    },
+    {
+      "album": {
+        "name": "300 no 7",
+        "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "300 no 7",
+      "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
     },
     {
       "album": {
@@ -1020,6 +1050,10 @@
         {
           "name": "IZA",
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
       "date_added": "2024-09-18",

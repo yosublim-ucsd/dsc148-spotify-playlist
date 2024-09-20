@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "The Jesus I Know",
+        "url": "https://open.spotify.com/album/2VXaTH9YwEfPyO1m4j9nSs"
+      },
+      "artists": [
+        {
+          "name": "Brennley Brown",
+          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162323,
+      "name": "The Jesus I Know",
+      "url": "https://open.spotify.com/track/62FEtKRUj9QXjQgO40eJ16"
+    },
+    {
+      "album": {
         "name": "The Lord's Prayer (as heard on BibleProject)",
         "url": "https://open.spotify.com/album/1GFmnyT54HWj1u2ldVA7Pt"
       },

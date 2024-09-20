@@ -4,7 +4,7 @@
 
 > Celebrating the women of worship music!  Cover: <a href="spotify:artist:0XnterAMV09fuPjq4joR0c">Rita Springer<br/></a>
 
-170 songs - 13 hr 28 min
+171 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Take Me Back](https://open.spotify.com/track/29JYehak0dkokrxhsLVOeN) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [DOE \- EP](https://open.spotify.com/album/2Qsk6hOtjEoBPURQWEppLo) | 4:01 | 2021-03-02 | 2022-03-10 |
 | [Testament](https://open.spotify.com/track/64VGyBMqnwD7kbLZf8oJvv) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59) | 4:55 | 2024-07-26 |  |
 | [The Detour \- Live](https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [The Detour \(Live\)](https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5) | 6:41 | 2022-03-09 | 2024-07-27 |
+| [The Jesus I Know](https://open.spotify.com/track/62FEtKRUj9QXjQgO40eJ16) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [The Jesus I Know](https://open.spotify.com/album/2VXaTH9YwEfPyO1m4j9nSs) | 2:42 | 2024-07-26 |  |
 | [The Lord's Prayer \(as heard on BibleProject\)](https://open.spotify.com/track/0ILlUV6eXOCx4svPMZCXP7) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [The Lord's Prayer \(as heard on BibleProject\)](https://open.spotify.com/album/1GFmnyT54HWj1u2ldVA7Pt) | 1:20 | 2024-07-26 |  |
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2021-03-02 | 2024-07-27 |
 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 | 2021-03-02 | 2022-03-10 |

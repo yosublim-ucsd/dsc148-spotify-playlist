@@ -370,7 +370,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 352945,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -1097,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
+    },
+    {
+      "album": {
         "name": "Spectral Frequency - EP",
         "url": "https://open.spotify.com/album/4BcHyTvzqQ8ID7kQUGMcK3"
       },
@@ -1155,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "AURIq",
+          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
+    },
+    {
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -1192,7 +1240,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 196500,
       "name": "Friday Lake",
       "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
@@ -1542,7 +1590,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 258084,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
@@ -1676,10 +1724,46 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 252062,
       "name": "Incomplete Dreaming",
       "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
+    },
+    {
+      "album": {
+        "name": "Indefinitely",
+        "url": "https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Indefinitely",
+      "url": "https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn"
+    },
+    {
+      "album": {
+        "name": "Isla",
+        "url": "https://open.spotify.com/album/1ZVe213YDbHlpSIPFkeqW8"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229774,
+      "name": "Isla",
+      "url": "https://open.spotify.com/track/1TyJYuuPJHwlxRgaXrH8nj"
     },
     {
       "album": {
@@ -2506,7 +2590,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 46813,
       "name": "need u tonight",
       "url": "https://open.spotify.com/track/3FZFI1p9qhX0FWQIsklTFW"
@@ -2546,6 +2630,24 @@
       "duration_ms": 164572,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v"
+    },
+    {
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "album": {
@@ -2705,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156688,
+      "name": "open this wall",
+      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "album": {
         "name": "Opening Credits",
         "url": "https://open.spotify.com/album/1nOiKTQoMr3t3DaaZPozus"
       },
@@ -2734,7 +2854,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 243008,
       "name": "Opening Credits",
       "url": "https://open.spotify.com/track/7zuMvkTqp8RQpJqSHCFofp"
@@ -3594,6 +3714,28 @@
       "duration_ms": 247266,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5dv0oirEwweEZtMkjpabnz"
+    },
+    {
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "album": {

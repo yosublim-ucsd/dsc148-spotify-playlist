@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 399 songs - 1 day 1 hr 52 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 401 songs - 1 day 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -407,5 +407,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 397 | [KMAG YOYO](https://open.spotify.com/track/54BYHlZdV2QsnoPPSnAK8t) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [KMAG YOYO \(& Other American Stories\)](https://open.spotify.com/album/1DZTkteQGTi9Ko7CwZKnWc) | 4:19 |
 | 398 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 399 | [Rrrrrollin](https://open.spotify.com/track/7I6Gp2dEZQMnsOmgdUR1c7) | [Imperial Leisure](https://open.spotify.com/artist/0BCEwn9PxFIhe99I8KI5wK) | [Rrrrrollin](https://open.spotify.com/album/0YERjefDcz0e5A02l7OHbg) | 3:08 |
+| 400 | [Take It Through the Night](https://open.spotify.com/track/1gIAdQnDMhaKnByELvnFSu) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:38 |
+| 401 | [Dearly Loved](https://open.spotify.com/track/339gbkFVGkQTIPM9A15VZq) | [Gianna Minichiello](https://open.spotify.com/artist/2opSEMQBfqfYDAiFBwDdk5) | [Dearly Loved](https://open.spotify.com/album/70G3EkWnamHdFF7Oddrm8v) | 4:07 |
 
-Snapshot ID: `AAAB4fgIS4eEGCeoBkmpqKeWfLi7ILIE`
+Snapshot ID: `AAAB47CdlyIf4tdsx3r/HHZF0+sHmRHi`

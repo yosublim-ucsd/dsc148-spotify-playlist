@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7B4HyZbWHdY.md) - [plain]
 
 > Babae ka, hindi babae lang\. Celebrate Pinay power by listening here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 9 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 8 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7B4HyZbWHdY.md) - [plain]
 | 4 | [Before you drive away the love you have, consider it may be the greatest love](https://open.spotify.com/episode/4RlhGlsT3pekNQH1glop1i) | [Chloe’s Inbox](https://open.spotify.com/show/4kn5yt3amPQxF3CDNid3jL) | [Chloe’s Inbox](https://open.spotify.com/album/4kn5yt3amPQxF3CDNid3jL) | 6:45 |
 | 5 | [Episode 109: To Patol or Not to Patol, That is the Question.](https://open.spotify.com/episode/0rJsD5F3YiCR9asVGQaDu7) | [Trying Hard with Lyqa Maravilla](https://open.spotify.com/show/3vClQB2S16wnoNk2QK58I6) | [Trying Hard with Lyqa Maravilla](https://open.spotify.com/album/3vClQB2S16wnoNk2QK58I6) | 36:04 |
 | 6 | [How To Let Go Of Regret?](https://open.spotify.com/episode/3oeQbsQyLXHMCHXCf0bSlJ) | [Free Yourself Podcast With Gayle De Chavez \- The Self\-Love Boss](https://open.spotify.com/show/5ud3AJkylWzljzYFdgHfDd) | [Free Yourself Podcast With Gayle De Chavez \- The Self\-Love Boss](https://open.spotify.com/album/5ud3AJkylWzljzYFdgHfDd) | 11:22 |
-| 7 | [’Yung taong sobrang mahal mo, puwede kang bitawan](https://open.spotify.com/episode/6KHr1k4ZA28eGtXCWWY5Op) | [Raqi’s Secret Files](https://open.spotify.com/show/01w2EPoowMVJoIL9TiukaI) | [Raqi’s Secret Files](https://open.spotify.com/album/01w2EPoowMVJoIL9TiukaI) | 16:18 |
-| 8 | [Reading your Delulu moments](https://open.spotify.com/episode/7qnSJotFYaYp1gdcDuVla8) | [Gift Podcast](https://open.spotify.com/show/27mE8nd1Fi2hpQ5piapX98) | [Gift Podcast](https://open.spotify.com/album/27mE8nd1Fi2hpQ5piapX98) | 20:45 |
-| 9 | [Ep 7: The 3 Kinds of Love](https://open.spotify.com/episode/5YHiXUKjhnj0hVSH3YMdyR) | [Love TONIght](https://open.spotify.com/show/7g00qHYPnnZzPgobjZX3qU) | [Love TONIght](https://open.spotify.com/album/7g00qHYPnnZzPgobjZX3qU) | 15:53 |
+| 7 | [Reading your Delulu moments](https://open.spotify.com/episode/7qnSJotFYaYp1gdcDuVla8) | [Gift Podcast](https://open.spotify.com/show/27mE8nd1Fi2hpQ5piapX98) | [Gift Podcast](https://open.spotify.com/album/27mE8nd1Fi2hpQ5piapX98) | 20:45 |
+| 8 | [Ep 7: The 3 Kinds of Love](https://open.spotify.com/episode/5YHiXUKjhnj0hVSH3YMdyR) | [Love TONIght](https://open.spotify.com/show/7g00qHYPnnZzPgobjZX3qU) | [Love TONIght](https://open.spotify.com/album/7g00qHYPnnZzPgobjZX3qU) | 15:53 |
 
 Snapshot ID: `ZWbqXAAAAADg3J1p3OtA2PkLCyC14cAU`

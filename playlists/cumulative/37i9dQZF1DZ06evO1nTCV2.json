@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Ryan Adams. \u12a0\u1235\u1348\u120b\u130a\u12ce\u1279 \u1219\u12da\u1243\u12ce\u127d\u1363 \u1201\u1209\u121d \u1260\u12a0\u1295\u12f5 \u12a0\u132b\u12cb\u127d \u12dd\u122d\u12dd\u122d \u12cd\u1235\u1325\u1362",
-  "name": "This Is Ryan Adams \u1290\u12cd",
+  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
+  "name": "This Is Ryan Adams",
   "tracks": [
     {
       "album": {
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 139360,
       "name": "Sword and Stone",
       "url": "https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF"
@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 239025,
       "name": "War Pigs - Live from Birmingham, UK. 2023",
       "url": "https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u"

@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 20794,
+  "num_followers": 20797,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zud1AAAAAACa2HdpLn9tcny1nlkz82tv",
+  "snapshot_id": "ZuoYAAAAAAD0iXun4EqyJwV0CfDf/0vf",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Dethbed",
-      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
+      "duration_ms": 198266,
+      "name": "Fall Victim",
+      "url": "https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Fall Victim",
-      "url": "https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk"
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Alkaline Trio",
         "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 170360,
       "name": "Goodbye Forever",
       "url": "https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,

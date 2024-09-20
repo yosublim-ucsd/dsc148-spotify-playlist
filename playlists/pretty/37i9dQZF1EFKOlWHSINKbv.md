@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185 likes - 149 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 108 | [Nothing To Lose](https://open.spotify.com/track/3dcLr0Nf8uy5UdqjEH0u3g) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Nothing To Lose](https://open.spotify.com/album/0iBO5wsvuNE3xY9V1cXfSm) | 3:37 |
 | 109 | [SUPERFINE](https://open.spotify.com/track/7BBdodDRaP6waS34503kCd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 4:22 |
 | 110 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 |
-| 111 | [Running Blind \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Running Blind \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/74XnffQl19Z2WAErQ4DjZb) | 3:13 |
-| 112 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 111 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 112 | [Running Blind \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Running Blind \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/74XnffQl19Z2WAErQ4DjZb) | 3:13 |
 | 113 | [I Will](https://open.spotify.com/track/11dFezSZ2BbFgfxFjtuAOf) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 3:29 |
 | 114 | [Overrated](https://open.spotify.com/track/6uQzUSCR5DAPx6zgvDpC0M) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Cuffing Season](https://open.spotify.com/album/02Pte1TJ00hQSaWJCyJLzm) | 3:33 |
 | 115 | [Still Miss You](https://open.spotify.com/track/4dVbGJjN7yjcfabOVBbX8p) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 2:52 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 149 | [Die With A Smile](https://open.spotify.com/track/2LGyDir74jpzOxXH4hh2SC) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Die With A Smile](https://open.spotify.com/album/464spd8BJg1Y9SQZB4DGX6) | 2:37 |
 
-Snapshot ID: `AbcgSgAAAAATGrg4YpmLnWGdB3GNXNct`
+Snapshot ID: `Abcl6gAAAABQiyCpSylzT/RIsOrEE81/`

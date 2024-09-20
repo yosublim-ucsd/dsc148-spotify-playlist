@@ -1,13 +1,45 @@
 {
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Fajar Merah",
-  "num_followers": 26448,
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Peonies",
+  "num_followers": 26477,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO5GwAAAAAjsZ+yO16ubSf7RUEefGsh",
+  "snapshot_id": "ZuzPbwAAAADsI6XoJisPK2b5n8uXj5Y7",
   "tracks": [
+    {
+      "added_at": "2024-09-20 01:27:10",
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/0dejROLfRMDRahNLvpB57E"
+      },
+      "artists": [
+        {
+          "name": "Peonies",
+          "url": "https://open.spotify.com/artist/7AwVFAfR7FOu8r4oZ8vwOp"
+        }
+      ],
+      "duration_ms": 268343,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/7iQ5HEi9HHzlQTZHvF7lM2"
+    },
+    {
+      "added_at": "2024-09-20 01:27:10",
+      "album": {
+        "name": "Secercah",
+        "url": "https://open.spotify.com/album/0FmqdVa9xGnCAeW5Xly5DS"
+      },
+      "artists": [
+        {
+          "name": "Syarikat Idola Remaja",
+          "url": "https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO"
+        }
+      ],
+      "duration_ms": 243145,
+      "name": "Secercah",
+      "url": "https://open.spotify.com/track/2lJ8p5Khj22dEtcYQzkf23"
+    },
     {
       "added_at": "2024-09-13 04:01:31",
       "album": {
@@ -831,22 +863,6 @@
     {
       "added_at": "2024-09-05 17:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/6x5ROoQjb8aG1uLhvFt6sn"
-      },
-      "artists": [
-        {
-          "name": "ATSEA",
-          "url": "https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/3PNY3KOBwCWoMlgcZqhblh"
-    },
-    {
-      "added_at": "2024-09-05 17:00:00",
-      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r"
       },
@@ -979,42 +995,6 @@
     {
       "added_at": "2024-09-05 17:00:00",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/0lNWarNgs53juMp9eUs7VD"
-      },
-      "artists": [
-        {
-          "name": "Ras Muhamad",
-          "url": "https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3"
-        },
-        {
-          "name": "Ken Jenie Jirapah",
-          "url": "https://open.spotify.com/artist/7J7x64n8LMbc2ZljdrooJ0"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/67GIaO3ENhQPzHHtPsR5Y4"
-    },
-    {
-      "added_at": "2024-09-05 17:00:00",
-      "album": {
-        "name": "insecure",
-        "url": "https://open.spotify.com/album/3jM42OfJaEIYPmjKmN4JBo"
-      },
-      "artists": [
-        {
-          "name": "Penky Adam",
-          "url": "https://open.spotify.com/artist/42TWgEtVzIeKjg7S4mUNXQ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "insecure",
-      "url": "https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL"
-    },
-    {
-      "added_at": "2024-09-05 17:00:00",
-      "album": {
         "name": "How Could You Still Love Me",
         "url": "https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33"
       },
@@ -1079,22 +1059,6 @@
       "duration_ms": 308885,
       "name": "Perihal Omongan Belaka",
       "url": "https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS"
-    },
-    {
-      "added_at": "2024-09-05 17:00:00",
-      "album": {
-        "name": "End Differently",
-        "url": "https://open.spotify.com/album/29P6fKBt4dH1B54VzH2g37"
-      },
-      "artists": [
-        {
-          "name": "adoracion",
-          "url": "https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "End Differently",
-      "url": "https://open.spotify.com/track/1nOcvj8h1IrxceTisMyqdR"
     },
     {
       "added_at": "2024-09-05 17:00:00",

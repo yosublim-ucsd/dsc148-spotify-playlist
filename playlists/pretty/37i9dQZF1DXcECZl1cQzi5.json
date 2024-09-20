@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 34471,
+  "num_followers": 34567,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
+        "name": "Devine Waves",
+        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Devine Waves",
+      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
         "name": "Eyes On The Horizon",
         "url": "https://open.spotify.com/album/6VOiDfGiCViDdTB5Ds0mIg"
       },
@@ -223,22 +239,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Devine Waves",
-        "url": "https://open.spotify.com/album/7987vByLF9HkepU0VIabSG"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Devine Waves",
-      "url": "https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Restore",
         "url": "https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0"
       },
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Dawning (Sound Bath)",
-        "url": "https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8"
-      },
-      "artists": [
-        {
-          "name": "Yaalani",
-          "url": "https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Dawning - Sound Bath",
-      "url": "https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Eternals",
         "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 134369,
       "name": "Breath",
       "url": "https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "Dawning (Sound Bath)",
+        "url": "https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8"
+      },
+      "artists": [
+        {
+          "name": "Yaalani",
+          "url": "https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Dawning - Sound Bath",
+      "url": "https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4"
     },
     {
       "added_at": "2024-09-04 13:28:58",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Delightful Waves",
-        "url": "https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8"
-      },
-      "artists": [
-        {
-          "name": "Peaceful Plausible",
-          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
-        }
-      ],
-      "duration_ms": 194437,
-      "name": "Delightful Waves",
-      "url": "https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Paessagio Naturale",
         "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 163250,
       "name": "Paessagio Naturale",
       "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "Delightful Waves",
+        "url": "https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "duration_ms": 194437,
+      "name": "Delightful Waves",
+      "url": "https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2"
     },
     {
       "added_at": "2024-09-04 13:28:58",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ"
-      },
-      "artists": [
-        {
-          "name": "A.Z. Louna",
-          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
-        }
-      ],
-      "duration_ms": 132541,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Healing Vibrations",
         "url": "https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 228364,
       "name": "Healing Vibrations",
       "url": "https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/6sWwvTF9xh2XXWcY6yhpuQ"
+      },
+      "artists": [
+        {
+          "name": "A.Z. Louna",
+          "url": "https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk"
+        }
+      ],
+      "duration_ms": 132541,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1MLXR6OqagKLfIsUv5MHfV"
     },
     {
       "added_at": "2024-09-04 13:28:58",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "174 Hz Luminous Reefs",
-        "url": "https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd"
-      },
-      "artists": [
-        {
-          "name": "Earthbound",
-          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
-        }
-      ],
-      "duration_ms": 125964,
-      "name": "174 Hz Luminous Reefs",
-      "url": "https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Sunayama Waves",
         "url": "https://open.spotify.com/album/1P1b2rr8ePh6iGxy2brHv7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 166000,
       "name": "Sunayama Waves",
       "url": "https://open.spotify.com/track/5CDCVLx37JUz3TNkmzxxZk"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "174 Hz Luminous Reefs",
+        "url": "https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "duration_ms": 125964,
+      "name": "174 Hz Luminous Reefs",
+      "url": "https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz"
     },
     {
       "added_at": "2024-09-04 13:28:58",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
+        "name": "Wavelines",
+        "url": "https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "duration_ms": 148624,
+      "name": "Wavelines",
+      "url": "https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
         "name": "A Lake Almost Still",
         "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Wavelines",
-        "url": "https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL"
-      },
-      "artists": [
-        {
-          "name": "Sangenjaya",
-          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
-        }
-      ],
-      "duration_ms": 148624,
-      "name": "Wavelines",
-      "url": "https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "The Tower of Embellion",
-        "url": "https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8"
-      },
-      "artists": [
-        {
-          "name": "Muni Yogi",
-          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
-        }
-      ],
-      "duration_ms": 188584,
-      "name": "The Tower of Embellion",
-      "url": "https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Reaching Waves",
         "url": "https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 158750,
       "name": "Reaching Waves",
       "url": "https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "The Tower of Embellion",
+        "url": "https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "duration_ms": 188584,
+      "name": "The Tower of Embellion",
+      "url": "https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT"
     },
     {
       "added_at": "2024-09-04 13:28:58",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-09-04 13:28:58",
       "album": {
-        "name": "Ocean Dreaming",
-        "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
-      },
-      "artists": [
-        {
-          "name": "Semaphore",
-          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "Ocean Dreaming",
-      "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
-    },
-    {
-      "added_at": "2024-09-04 13:28:58",
-      "album": {
         "name": "Obscure Ocean",
         "url": "https://open.spotify.com/album/3d2kKnsb4KIGKDjWlOuXVo"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 148035,
       "name": "Obscure Ocean",
       "url": "https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L"
+    },
+    {
+      "added_at": "2024-09-04 13:28:58",
+      "album": {
+        "name": "Ocean Dreaming",
+        "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
+      },
+      "artists": [
+        {
+          "name": "Semaphore",
+          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "Ocean Dreaming",
+      "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
     },
     {
       "added_at": "2024-09-04 13:28:58",

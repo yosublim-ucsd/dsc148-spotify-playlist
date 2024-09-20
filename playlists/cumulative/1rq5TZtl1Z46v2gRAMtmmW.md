@@ -4,7 +4,7 @@
 
 > 
 
-332 songs - 22 hr 28 min
+333 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-18 | 2024-09-12 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
+| [go! \- George Daniel Remix](https://open.spotify.com/track/0wtbc9t9qvEX5ELtUHJNJX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [go! \(George Daniel Remixes\)](https://open.spotify.com/album/7ItBR9lQlb3LNXeiSy25IG) | 3:41 | 2024-09-19 |  |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-24 | 2023-10-17 |
 | [Gone](https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Gone](https://open.spotify.com/album/2fSm1YvQwa77zAQ7PRBUnI) | 2:14 | 2024-06-11 | 2024-08-28 |
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-04 | 2022-09-17 |
@@ -233,7 +234,7 @@
 | [Passionfruit](https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 9:22 | 2024-01-18 | 2024-06-01 |
 | [Pearl of Hail](https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Torch / Pearl of Hail](https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL) | 1:50 | 2024-04-12 | 2024-06-26 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-18 |  |
-| [Phantom](https://open.spotify.com/track/3SOwkDDyiegwk2QesTLWxV) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Phantom](https://open.spotify.com/album/4RkLjqwlS19WIvOPZWAp4a) | 4:41 | 2024-06-25 |  |
+| [Phantom](https://open.spotify.com/track/3SOwkDDyiegwk2QesTLWxV) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Phantom](https://open.spotify.com/album/4RkLjqwlS19WIvOPZWAp4a) | 4:41 | 2024-06-25 | 2024-09-20 |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-21 |
 | [PIÑATA](https://open.spotify.com/track/4ikBG94HHwxAjOKAJeKvbQ) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [PIÑATA](https://open.spotify.com/album/1PL3VNtkZ1PJrWSpibyRx6) | 2:50 | 2023-07-06 | 2023-07-26 |
 | [Plate](https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 3:27 | 2023-03-17 | 2023-07-26 |

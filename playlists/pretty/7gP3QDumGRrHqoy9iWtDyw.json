@@ -1,13 +1,77 @@
 {
   "description": "",
-  "num_followers": 22355,
+  "num_followers": 22357,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJKx5cqkTW8wyMoHVAKNY9eDBEedvv",
+  "snapshot_id": "AAAJMyaynr+bKlKl1slMi1qHUrRoO308",
   "tracks": [
+    {
+      "added_at": "2024-09-19 06:29:04",
+      "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Bump Artist",
+      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
+    },
+    {
+      "added_at": "2024-09-19 06:29:29",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/1Jpk8k6Ji1yQdMsX2gW8eC"
+      },
+      "artists": [
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs"
+    },
+    {
+      "added_at": "2024-09-19 06:33:23",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 174616,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6"
+    },
+    {
+      "added_at": "2024-09-19 06:31:44",
+      "album": {
+        "name": "As The Beat Goes Onnn",
+        "url": "https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 159283,
+      "name": "As The Beat Goes Onnn",
+      "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+    },
     {
       "added_at": "2024-08-28 05:20:54",
       "album": {

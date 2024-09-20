@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 407523,
+  "num_followers": 407599,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -215,34 +215,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Deep in a Dream",
-        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
-      },
-      "artists": [
-        {
-          "name": "Dmitry Baevsky",
-          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
-        },
-        {
-          "name": "Clovis Nicolas",
-          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
-        },
-        {
-          "name": "Jason Brown",
-          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
-        },
-        {
-          "name": "St\u00e9phane Belmondo",
-          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
-        }
-      ],
-      "duration_ms": 340760,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Deep in a Dream",
+        "url": "https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F"
+      },
+      "artists": [
+        {
+          "name": "Dmitry Baevsky",
+          "url": "https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq"
+        },
+        {
+          "name": "Clovis Nicolas",
+          "url": "https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY"
+        },
+        {
+          "name": "St\u00e9phane Belmondo",
+          "url": "https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ"
+        }
+      ],
+      "duration_ms": 340760,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 270613,
       "name": "The Rumor",
       "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
-      },
-      "artists": [
-        {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
     },
     {
       "added_at": "2024-09-12 09:35:20",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-09-12 09:35:20",
       "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 521373,
+      "name": "Colour Yes - Special Edition",
+      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
+    },
+    {
+      "added_at": "2024-09-12 09:35:20",
+      "album": {
         "name": "Professor Nelson Strikes Again",
         "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 251863,
       "name": "Professor Nelson Strikes Again - Single Version",
       "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
-    },
-    {
-      "added_at": "2024-09-12 09:35:20",
-      "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 521373,
-      "name": "Colour Yes - Special Edition",
-      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
     },
     {
       "added_at": "2024-09-12 09:35:20",

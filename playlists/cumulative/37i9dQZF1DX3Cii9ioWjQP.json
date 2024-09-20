@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: YUNSEOKCHEOL TRIO(\uc724\uc11d\ucca0\ud2b8\ub9ac\uc624))",
+  "description": "All about Korean Jazz hits & new (Cover: CADEJO(\uae4c\ub370\ud638))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "bye summer",
+        "url": "https://open.spotify.com/album/3zWePPmeOOZVOjLMWsPqRv"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "bye summer",
+      "url": "https://open.spotify.com/track/61CZH3oXQ7pkcTCwo1MoXa"
+    },
+    {
+      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/3G6PJpsgX2sVFqMsQwmKz6"
       },
@@ -680,10 +698,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 191208,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/3Z1KCZyrhWSCXkO19acBA8"
+      },
+      "artists": [
+        {
+          "name": "Cho Junghyun",
+          "url": "https://open.spotify.com/artist/7D8fJXr0xCPQQvkVgEx7Nf"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196868,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/0OevcboX4JSYxC2o9RtOOm"
     },
     {
       "album": {
@@ -898,7 +934,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 256885,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp"
@@ -974,7 +1010,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203781,
       "name": "Difference (with Park Chan Young)",
       "url": "https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 213000,
       "name": "Eollebit",
       "url": "https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI"
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 237326,
       "name": "Escape from the city",
       "url": "https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl"
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 250880,
       "name": "Home",
       "url": "https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg"
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 192592,
       "name": "Isolate (feat. \uace0\uc544\ub78c)",
       "url": "https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q"
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 195413,
       "name": "Late Autumn",
       "url": "https://open.spotify.com/track/3mi9ZwNuK4rG3nVyAZJajb"
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 139322,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/0lcoFS3nK9fZoWxUSMff0I"
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 201676,
       "name": "November Rain (Feat. Groovy D)",
       "url": "https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW"
@@ -2362,7 +2398,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 255759,
       "name": "Petrichor (Nature)",
       "url": "https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y"
@@ -2611,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "\uc774\uc0c1\uc544\uc758 \uc7ac\uc988&\ud53c\uc544\ub178 Pt.2",
+        "url": "https://open.spotify.com/album/3xsnHn0sZPPBagZ4uo17aQ"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc0c1\uc544",
+          "url": "https://open.spotify.com/artist/4tMWqFLIMTK1L9hiTLZqpJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Roses and Pictures",
+      "url": "https://open.spotify.com/track/2ZLUEHafxht1XPrpvXfPqk"
+    },
+    {
+      "album": {
         "name": "Rum Pum Pum",
         "url": "https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au"
       },
@@ -2822,7 +2876,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 217613,
       "name": "Sorcery Soup",
       "url": "https://open.spotify.com/track/1ddVTVxABHqds436IzH004"
@@ -3013,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4HYMYaXJfzGhBHS6pPkdui"
+      },
+      "artists": [
+        {
+          "name": "SERENE",
+          "url": "https://open.spotify.com/artist/1lasMrJRy7xZ7xjxNwDTgs"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1diaSeNj5bvc48mTGrabJQ"
+    },
+    {
+      "album": {
         "name": "Supernova - Jazz Version",
         "url": "https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7"
       },
@@ -3150,7 +3222,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 312414,
       "name": "The Day Of My Naughty Cat",
       "url": "https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1"
@@ -3388,7 +3460,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 260499,
       "name": "Unspoken Words",
       "url": "https://open.spotify.com/track/4mTXOg7AweKIjmqSk0CP7c"
@@ -3406,7 +3478,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 207240,
       "name": "Ureonada",
       "url": "https://open.spotify.com/track/4YS7FPQN5hGBzrBC9X55Hf"
@@ -3428,7 +3500,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 232533,
       "name": "Vacancy Hugs Time",
       "url": "https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB"
@@ -3651,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "Woo-Woo-Ah-Ah",
+        "url": "https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M"
+      },
+      "artists": [
+        {
+          "name": "CADEJO",
+          "url": "https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Woo-Woo-Ah-Ah",
+      "url": "https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel"
+    },
+    {
+      "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"
       },
@@ -3836,7 +3926,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 178000,
       "name": "\uc218\uc554\ub85c",
       "url": "https://open.spotify.com/track/1agp7haerf4CHKUOix59bO"
@@ -3930,10 +4020,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 150301,
       "name": "\ud480\ube5b\ud478\ub978",
       "url": "https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN"
+    },
+    {
+      "album": {
+        "name": "\ud55c\uac00\uc704 \ube14\ub8e8\uc2a4",
+        "url": "https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ"
+      },
+      "artists": [
+        {
+          "name": "Yun Siwon",
+          "url": "https://open.spotify.com/artist/1L60NRbDnl7w1sX54R7ICt"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151255,
+      "name": "\ud55c\uac00\uc704 \ube14\ub8e8\uc2a4",
+      "url": "https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms"
     },
     {
       "album": {

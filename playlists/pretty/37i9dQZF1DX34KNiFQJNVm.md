@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Araújo com Felipe & Rodrigo, Matuê, Ana Castela  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,842 likes - 83 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,011 likes - 83 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

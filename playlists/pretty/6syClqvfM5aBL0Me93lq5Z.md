@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 38 songs - 2 hr 16 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 36 | [Lady, What Do You Do All Day?](https://open.spotify.com/track/3LTn81Zr4LWGBXFz9kUDpi) | [Peggy Seeger](https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU) | [Folkways Years, 1955\-1992: Songs of Love and Politics](https://open.spotify.com/album/3uDKUH0dPtS3Ii0CLB9Bw7) | 3:46 |
 | 37 | [Casey Jones \(The Union Scab\)](https://open.spotify.com/track/6h54Z2xhKwPKDI4yfv4dGA) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 1:58 |
 | 38 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 |
+| 39 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
+| 40 | [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 |
 
-Snapshot ID: `AAAAK1UzDAioU8gIbV4nvf788x/fyfyM`
+Snapshot ID: `AAAALRisbvPYhrmDM5ACcwLRPMjr2eEg`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO, Nina Chuba",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 138025,
       "name": "22 Uhr",
       "url": "https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 170000,
       "name": "9 To 5",
       "url": "https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs"
@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "BUBE",
+        "url": "https://open.spotify.com/album/5PfHkFlPlselXKuiqPjnfX"
+      },
+      "artists": [
+        {
+          "name": "BUBE",
+          "url": "https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Almost Hit By A Discokugel",
+      "url": "https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40"
+    },
+    {
+      "album": {
         "name": "Andere Stadt",
         "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
       },
@@ -1417,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "balkon",
+        "url": "https://open.spotify.com/album/5c7I4pV8XrbKcJrmfKuiBp"
+      },
+      "artists": [
+        {
+          "name": "YRRRE",
+          "url": "https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155320,
+      "name": "balkon",
+      "url": "https://open.spotify.com/track/28rBk6CtAEJJaVIzsSK5gV"
+    },
+    {
+      "album": {
         "name": "Balladen",
         "url": "https://open.spotify.com/album/3M9OiEvddu4EiNxVDdrDJ6"
       },
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155218,
       "name": "Bevor du gehst",
       "url": "https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F"
@@ -2233,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "caddy",
+        "url": "https://open.spotify.com/album/6fna6U60qL09WcIwtS8eYY"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167487,
+      "name": "caddy",
+      "url": "https://open.spotify.com/track/6AaXUanD29RCGcyDBvhoAP"
+    },
+    {
+      "album": {
         "name": "Candy Crush",
         "url": "https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq"
       },
@@ -2493,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Daheim",
+        "url": "https://open.spotify.com/album/0UeOLfsU54pJ5keXrqa97k"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Daheim",
+      "url": "https://open.spotify.com/track/70jxUq8a5GgI6rdQjksbx8"
+    },
+    {
+      "album": {
         "name": "Dahinter ist blau",
         "url": "https://open.spotify.com/album/2JSazwh5Chyqj6X7QGxjNJ"
       },
@@ -2544,10 +2616,28 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 168954,
       "name": "darth vader",
       "url": "https://open.spotify.com/track/0cCNOiul92riHmV1DHPdr4"
+    },
+    {
+      "album": {
+        "name": "Das Beste",
+        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
     },
     {
       "album": {
@@ -2775,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Der Moment archiviert",
+        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Der Moment archiviert",
+      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
+    },
+    {
+      "album": {
         "name": "Der neue Stil meiner Generation",
         "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
       },
@@ -2858,7 +2966,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161093,
       "name": "Die Jungs",
       "url": "https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M"
@@ -4186,7 +4294,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 171049,
       "name": "fallenf\u00fcrimmer",
       "url": "https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv"
@@ -4407,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "fliegen",
+        "url": "https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139911,
+      "name": "fliegen",
+      "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
+    },
+    {
+      "album": {
         "name": "Fluch",
         "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
       },
@@ -4618,6 +4744,28 @@
       "duration_ms": 180923,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/6pYc06ZDKBe10F1q9jVvaM"
+    },
+    {
+      "album": {
+        "name": "Schlaraffenland",
+        "url": "https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
+      "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
     },
     {
       "album": {
@@ -6011,6 +6159,24 @@
     },
     {
       "album": {
+        "name": "Ich f\u00fchl alles",
+        "url": "https://open.spotify.com/album/0UVl5ZvXuisLNeyMKj2IwA"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "Ich f\u00fchl alles",
+      "url": "https://open.spotify.com/track/5XE72unEySdfH6DYPu3qOE"
+    },
+    {
+      "album": {
         "name": "ich f\u00fchl nix",
         "url": "https://open.spotify.com/album/71XURvc8OHrIcyn66mhjbW"
       },
@@ -6614,6 +6780,24 @@
       "duration_ms": 177240,
       "name": "Irgendwo",
       "url": "https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7"
+    },
+    {
+      "album": {
+        "name": "Irgendwo geht immer die Sonne auf",
+        "url": "https://open.spotify.com/album/0J15UePv70KAHKXwkul6W2"
+      },
+      "artists": [
+        {
+          "name": "BRUCHBUDE",
+          "url": "https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164443,
+      "name": "Irgendwo geht immer die Sonne auf",
+      "url": "https://open.spotify.com/track/5GC2iwAJH4Bh2hKvMwHL35"
     },
     {
       "album": {
@@ -8542,7 +8726,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155205,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3"
@@ -9122,6 +9306,24 @@
       "duration_ms": 180933,
       "name": "Nach Hause",
       "url": "https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n"
+    },
+    {
+      "album": {
+        "name": "nachts wach",
+        "url": "https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH"
+      },
+      "artists": [
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "nachts wach",
+      "url": "https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4"
     },
     {
       "album": {
@@ -10105,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181926,
+      "name": "Pazifik",
+      "url": "https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW"
+    },
+    {
+      "album": {
         "name": "peace of mind",
         "url": "https://open.spotify.com/album/5IAxGDmzefVlZXEz8XIuv5"
       },
@@ -10228,6 +10448,24 @@
       "duration_ms": 161000,
       "name": "Plottwist",
       "url": "https://open.spotify.com/track/6yx2Rb4TUAKjSMClabhdAu"
+    },
+    {
+      "album": {
+        "name": "8 stufen ep",
+        "url": "https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172138,
+      "name": "pok\u00e9mon",
+      "url": "https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP"
     },
     {
       "album": {
@@ -10523,6 +10761,28 @@
     },
     {
       "album": {
+        "name": "Revolutionieren",
+        "url": "https://open.spotify.com/album/4y4dL4cusUtoR7iV4WZqHT"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        },
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187132,
+      "name": "Revolutionieren",
+      "url": "https://open.spotify.com/track/5JOvpppkQEqkIXSkDmcQIq"
+    },
+    {
+      "album": {
         "name": "Richtung Mars",
         "url": "https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj"
       },
@@ -10628,7 +10888,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 138260,
       "name": "rohbeton",
       "url": "https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw"
@@ -11346,7 +11606,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 147043,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/0z8QuPlayYfAHZJmKixb5l"
@@ -11672,7 +11932,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 142479,
       "name": "so sch\u00f6n",
       "url": "https://open.spotify.com/track/6y8VFRPbnCmABVPNtPwExr"
@@ -11690,7 +11950,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 154511,
       "name": "so sch\u00f6n rot",
       "url": "https://open.spotify.com/track/79crABfcQo5b1viw1gBZi5"
@@ -12456,7 +12716,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164307,
       "name": "Tanz",
       "url": "https://open.spotify.com/track/5XwP6iVIosNHDJpjGCALcW"
@@ -13406,7 +13666,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 203285,
       "name": "VERSPRICH, DASS DU IMMER ALLES SAGST",
       "url": "https://open.spotify.com/track/2G5HtTYmtKEdGCqtqxtmUJ"
@@ -13536,7 +13796,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 134570,
       "name": "vier songs",
       "url": "https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf"
@@ -13745,6 +14005,24 @@
     },
     {
       "album": {
+        "name": "Was ich Liebe nenn",
+        "url": "https://open.spotify.com/album/2Gqr2EGrQFfugs5kMu2yzN"
+      },
+      "artists": [
+        {
+          "name": "Fosca & Samt",
+          "url": "https://open.spotify.com/artist/0bQgPpusac5d5hUBP9CUhR"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218452,
+      "name": "Was ich Liebe nenn",
+      "url": "https://open.spotify.com/track/22QjPOsDRpqud1yZjYKS2E"
+    },
+    {
+      "album": {
         "name": "Was ich will",
         "url": "https://open.spotify.com/album/0Hy10iQNqlseGiXEpgEa5b"
       },
@@ -13792,7 +14070,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 200339,
       "name": "was passiert wenn die stra\u00dfe kommt ?",
       "url": "https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm"

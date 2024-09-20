@@ -3983,7 +3983,7 @@
     },
     {
       "album": {
-        "name": "King Bubba Mashup Volume 1",
+        "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
@@ -3994,6 +3994,10 @@
         {
           "name": "Lil Rick",
           "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        },
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
         }
       ],
       "date_added": "2023-02-21",

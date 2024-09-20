@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: LAYYI",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Tasha Low",
   "name": "Rising 65",
   "tracks": [
+    {
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/3QGPvNpwttv2jOsnCmvp77"
+      },
+      "artists": [
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85206,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/5AAdFGz3cPQUl6SOoZ9nbU"
+    },
     {
       "album": {
         "name": "3 new words",
@@ -74,6 +92,24 @@
       "duration_ms": 213375,
       "name": "ALL I WANTED",
       "url": "https://open.spotify.com/track/6Jt5rPgQqTnZ9iGfoMogFk"
+    },
+    {
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2hNOmcWgklXOLW7jLM0Aid"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5CPWV0SfZaQ3YCYAyTvhHr"
     },
     {
       "album": {
@@ -528,6 +564,28 @@
       "duration_ms": 131650,
       "name": "call it love",
       "url": "https://open.spotify.com/track/2oyKUJQ58lxzDufBlIgkJE"
+    },
+    {
+      "album": {
+        "name": "Can't Heal My Heart",
+        "url": "https://open.spotify.com/album/71srviZHaUPQIgQQeA2NyQ"
+      },
+      "artists": [
+        {
+          "name": "DISHII",
+          "url": "https://open.spotify.com/artist/5tzqjfthIsjdctRbRovv22"
+        },
+        {
+          "name": "Chelsea Cara",
+          "url": "https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160766,
+      "name": "Can't Heal My Heart",
+      "url": "https://open.spotify.com/track/7dBOMWNBJFPzwGxUiUD5oh"
     },
     {
       "album": {
@@ -1081,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91"
+      },
+      "artists": [
+        {
+          "name": "Tasha Low",
+          "url": "https://open.spotify.com/artist/4QzbAeoA1sNSvY0WLtzVgQ"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157083,
+      "name": "Everything You Wanted",
+      "url": "https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ"
+    },
+    {
+      "album": {
         "name": "Evolution Of NDP Songs",
         "url": "https://open.spotify.com/album/1k9IbRlny2vNJe1L6DFUAp"
       },
@@ -1154,6 +1234,28 @@
       "duration_ms": 194181,
       "name": "fantasy",
       "url": "https://open.spotify.com/track/2sVira6wIbxbpYCClbNsar"
+    },
+    {
+      "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/1mjfXWkqNb5gdPHbqiEboY"
+      },
+      "artists": [
+        {
+          "name": "Nipun Kapoor",
+          "url": "https://open.spotify.com/artist/09jdEbCnXigbjZvS3KDzGW"
+        },
+        {
+          "name": "Aryan Nabar",
+          "url": "https://open.spotify.com/artist/3zmiW6ahKu6wzzDIwr9MTg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182482,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/0uEhnUgbk1ObFbdjDXvKgN"
     },
     {
       "album": {
@@ -1705,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "I'm Just a Frog",
+        "url": "https://open.spotify.com/album/5IAl9iZQTtfZKZZFUyexb5"
+      },
+      "artists": [
+        {
+          "name": "lewloh",
+          "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "I'm Just a Frog",
+      "url": "https://open.spotify.com/track/1o8Si20IJ0HFvZ5IfTfjKY"
+    },
+    {
+      "album": {
         "name": "I've Already Known You",
         "url": "https://open.spotify.com/album/0Xvx4J4lnpoKHRRgBuLKnY"
       },
@@ -1861,6 +1981,32 @@
     },
     {
       "album": {
+        "name": "IRON MIKE",
+        "url": "https://open.spotify.com/album/028uBTEowynwUISRqpuGcz"
+      },
+      "artists": [
+        {
+          "name": "Martin Spacely",
+          "url": "https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS"
+        },
+        {
+          "name": "Sharbil",
+          "url": "https://open.spotify.com/artist/5V0a9aIe2TMOGWECwBUG9n"
+        },
+        {
+          "name": "Ki Zikry",
+          "url": "https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155369,
+      "name": "IRON MIKE",
+      "url": "https://open.spotify.com/track/409IZ4xmIq6Gfh5Cac6cpB"
+    },
+    {
+      "album": {
         "name": "Jacob's Ladder",
         "url": "https://open.spotify.com/album/3yCE2dAESNvQaIrFhG1FR4"
       },
@@ -1988,6 +2134,24 @@
       "duration_ms": 176842,
       "name": "kiss u there",
       "url": "https://open.spotify.com/track/7AkDyHuvur7ARUmH4bWfTS"
+    },
+    {
+      "album": {
+        "name": "Know U Like I Do",
+        "url": "https://open.spotify.com/album/7M6YHqwcphyxyGSWdJ5jep"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179743,
+      "name": "Know U Like I Do",
+      "url": "https://open.spotify.com/track/6bZhtPzWbXLEsGDZFg5seY"
     },
     {
       "album": {
@@ -2192,6 +2356,28 @@
       "duration_ms": 250000,
       "name": "Lover's Speed",
       "url": "https://open.spotify.com/track/4uJfTCq45lCznMPeCPuWOH"
+    },
+    {
+      "album": {
+        "name": "Made Up Your Mind",
+        "url": "https://open.spotify.com/album/4tLvpS6rqdf5VAgBCUAsZO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "sarah su",
+          "url": "https://open.spotify.com/artist/7o75L7nxbMGT9OZ0UQODOm"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202156,
+      "name": "Made Up Your Mind",
+      "url": "https://open.spotify.com/track/56wusiS0BFtTPpsqtXINwS"
     },
     {
       "album": {
@@ -2613,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "PHASES",
+        "url": "https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3"
+      },
+      "artists": [
+        {
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "PHASES",
+      "url": "https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek"
+    },
+    {
+      "album": {
         "name": "coming home",
         "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
       },
@@ -2686,6 +2890,24 @@
       "duration_ms": 269477,
       "name": "Rain In Manhattan",
       "url": "https://open.spotify.com/track/6RA4Lkqah33nNfNadjuPdW"
+    },
+    {
+      "album": {
+        "name": "Rawan",
+        "url": "https://open.spotify.com/album/4U1FImW4oJe9njptCD3wJw"
+      },
+      "artists": [
+        {
+          "name": "Hazrul Nizam",
+          "url": "https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235523,
+      "name": "Rawan",
+      "url": "https://open.spotify.com/track/2H6X5Vqfm6Dbn0ALy326De"
     },
     {
       "album": {
@@ -2783,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "RKO",
+        "url": "https://open.spotify.com/album/5wDzMIWjEsyzIJ7xLoSdTd"
+      },
+      "artists": [
+        {
+          "name": "nic.zj",
+          "url": "https://open.spotify.com/artist/1wUTMd52qXoDPjRaccy956"
+        },
+        {
+          "name": "Mud B",
+          "url": "https://open.spotify.com/artist/26PTth0r70W0SAdyT47tPr"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132333,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/2oh2dHXTOOL2mCKR0E8apu"
+    },
+    {
+      "album": {
         "name": "ROUNDABOUT",
         "url": "https://open.spotify.com/album/1PetiQ0Jbju87l6c1YG0ey"
       },
@@ -2838,6 +3082,32 @@
       "duration_ms": 198829,
       "name": "Sambut - Imran Ajmain Remix",
       "url": "https://open.spotify.com/track/6icIwZ2yydCmnxOfz5hdpi"
+    },
+    {
+      "album": {
+        "name": "SAVADIII (SG EDITION) - AK VALLY & Thambi Natta Remix",
+        "url": "https://open.spotify.com/album/7BJ3qVIFkTTAjau38JszQ3"
+      },
+      "artists": [
+        {
+          "name": "JANGGO",
+          "url": "https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn"
+        },
+        {
+          "name": "AK VALLY",
+          "url": "https://open.spotify.com/artist/7BQk3607za9yehaAKvNqRr"
+        },
+        {
+          "name": "Thambi Natta",
+          "url": "https://open.spotify.com/artist/5fQTI3d5juxXlwfnWckJPH"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "SAVADIII (SG EDITION) - AK VALLY & Thambi Natta Remix",
+      "url": "https://open.spotify.com/track/5fMb3hekUehr6GHWdo7F6b"
     },
     {
       "album": {
@@ -3120,6 +3390,28 @@
       "duration_ms": 131086,
       "name": "Soul",
       "url": "https://open.spotify.com/track/2UwqfYaH2lNOoptPyZAHUJ"
+    },
+    {
+      "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/24mzJpI9k27aGZA4elCy6K"
+      },
+      "artists": [
+        {
+          "name": "Kartik Kuna",
+          "url": "https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du"
+        },
+        {
+          "name": "Tahlia Eve",
+          "url": "https://open.spotify.com/artist/3TqT9LO38ojg10swNydIDi"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/4sRt5xP6aDV1D8eyDf4M3k"
     },
     {
       "album": {
@@ -3436,7 +3728,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 100500,
       "name": "The Name Is (Bro Unga Peru)",
       "url": "https://open.spotify.com/track/7dgvXRjFRde7AghLhzi5kZ"
@@ -4299,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
+      },
+      "artists": [
+        {
+          "name": "bertandlulu",
+          "url": "https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "\u60f3\u548c\u4f60",
+      "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "album": {
         "name": "\u60f3\u8d77\u4f60\u9084\u662f\u5fc3\u75db",
         "url": "https://open.spotify.com/album/4jcIunWtt0hg8JbSLcR6AO"
       },
@@ -4332,6 +4642,28 @@
       "duration_ms": 224911,
       "name": "\u662f\u4e00\u7a2e\u7f6a",
       "url": "https://open.spotify.com/track/5sNqJKk9vo1E8wDmuRaiD0"
+    },
+    {
+      "album": {
+        "name": "\u662f\u4e0d\u662f ,\u4f60\u4e0d\u611b\u6211\u4e86",
+        "url": "https://open.spotify.com/album/0XkiQ8C6UJFtgv7p05elPC"
+      },
+      "artists": [
+        {
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9"
+        },
+        {
+          "name": "\u9ec3\u9577\u4fca",
+          "url": "https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259297,
+      "name": "\u662f\u4e0d\u662f ,\u4f60\u4e0d\u611b\u6211\u4e86",
+      "url": "https://open.spotify.com/track/6tOmex4lvDlbMoZFPFz0aD"
     },
     {
       "album": {
@@ -4560,6 +4892,32 @@
       "duration_ms": 197000,
       "name": "\u83ab\u540d\u7684\u60f3\u4f60",
       "url": "https://open.spotify.com/track/11nQNM8Dz2Hw6aD59Sn3SR"
+    },
+    {
+      "album": {
+        "name": "\u83ab\u6bd4\u4e4c\u65af",
+        "url": "https://open.spotify.com/album/7J7fCgpim4kCrSYKH52cFm"
+      },
+      "artists": [
+        {
+          "name": "\u5fe7\u90c1\u738b\u5b50",
+          "url": "https://open.spotify.com/artist/1K1r87DoJHbxoF9ACx3sgr"
+        },
+        {
+          "name": "\u5f20\u5976\u5976",
+          "url": "https://open.spotify.com/artist/1IDwpuFu98lJs8aR5KAL8Q"
+        },
+        {
+          "name": "\u674e\u51f1\u99a8",
+          "url": "https://open.spotify.com/artist/518RcnWW9JQh3Sf9aKsAAI"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "\u83ab\u6bd4\u4e4c\u65af",
+      "url": "https://open.spotify.com/track/42MDucwZAG3OEgPoDapcXk"
     },
     {
       "album": {

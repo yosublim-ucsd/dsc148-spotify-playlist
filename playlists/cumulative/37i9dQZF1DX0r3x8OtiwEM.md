@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-656 songs - 2 day 16 hr 34 min
+657 songs - 2 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Serene](https://open.spotify.com/track/1dcf0QKivMDYgnZSWoMQht) | [Austrek](https://open.spotify.com/artist/5o9ehF7eb3bPeKdf4LXUmz) | [Serene](https://open.spotify.com/album/1zRJ5Q0nj2yAuQoyvCDE2S) | 6:08 | 2019-09-19 | 2020-04-05 |
 | [Set to Glow \- Miyagi Remix](https://open.spotify.com/track/4jrNWxMrhWuLRONHxl7jwi) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc), [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Set to Glow Remixes](https://open.spotify.com/album/5rkmbztHuzzyejMTbRJ2ey) | 7:30 | 2020-03-30 | 2020-07-31 |
 | [Shades](https://open.spotify.com/track/5xLW8Ct1MuMTFQMUhlGzAW) | [Fur Coat](https://open.spotify.com/artist/26J5ZprV3p7jv4fHTmpXsB) | [Polyphony](https://open.spotify.com/album/0V5Uf2RwJbyJVqvaM2QxXP) | 6:52 | 2020-11-03 | 2021-01-15 |
-| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 |  |
+| [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 | 2023-04-05 | 2024-09-20 |
 | [Shipwreck](https://open.spotify.com/track/0gNfWEUXLlkH73wDzMCzBx) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck](https://open.spotify.com/album/1xUmLruPIKpNE3DzRjAUv4) | 4:03 | 2020-06-29 | 2022-04-21 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2022-07-08 | 2022-10-08 |
 | [Shout](https://open.spotify.com/track/22ZKJNtawShU4ZnhJrcTWw) | [Qplex](https://open.spotify.com/artist/6jzKbs2y3hrAeiM5frPVbY) | [Shout EP](https://open.spotify.com/album/7xwHiWuo5BG4EbYrKBATmG) | 6:01 | 2020-02-22 | 2021-03-19 |
@@ -654,6 +654,7 @@
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-06-05 | 2023-09-02 |
 | [Wildlands](https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Wildlands](https://open.spotify.com/album/3MpQaMH6DFQcBnVSUEA7fn) | 3:24 | 2022-06-24 | 2022-07-29 |
 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 | 2024-09-13 |  |
+| [Within You \- Kölsch Mix](https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU) | [GusGus](https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Within You \(Kölsch Mix\)](https://open.spotify.com/album/0DA1F1TcRgvcisPqFF8qx4) | 10:15 | 2024-09-13 |  |
 | [X](https://open.spotify.com/track/0pORLCI6Ep1eyqHJXbUPKG) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:33 | 2021-05-07 | 2021-05-28 |
 | [Yonio](https://open.spotify.com/track/32aYqy7QSeJBKxkAXR26p5) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Yonio](https://open.spotify.com/album/5Y2cCWWxiVgdIoaW4sUF4m) | 7:24 | 2021-09-07 | 2021-10-28 |
 | [You](https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Unity](https://open.spotify.com/album/6oHRy3qEVtV2ihezwKZRjR) | 6:58 | 2020-03-21 | 2020-03-22 |

@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Cris Mj x FloyyMenor
+> Tous les hits latino du moment sont ici\. Photo : KAROL G
 
 153 songs - 8 hr 4 min
 

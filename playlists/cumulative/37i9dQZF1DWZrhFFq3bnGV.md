@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-208 songs - 14 hr 47 min
+209 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 | 2022-09-22 | 2022-11-13 |
 | [Swarna Jingga](https://open.spotify.com/track/0J7GpXSdG2U6WNvyT8vnYj) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weckl](https://open.spotify.com/artist/5Oa5VCcY0RBBSz7AGgDkOr), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/1DhDO5lZznfjIqmZdZfMCi) | 6:51 | 2024-04-18 | 2024-08-02 |
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 | 2023-06-30 |
+| [Tanya](https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Perasa](https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i) | 4:16 | 2024-09-19 |  |
 | [Tarian Panen](https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Tarian Panen](https://open.spotify.com/album/1lMep6P15PRNw9N8TG5yst) | 5:46 | 2023-07-13 |  |
 | [Tasty](https://open.spotify.com/track/4OssZd7mNskFiUZ40ukFkx) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF) | [Laughter Master](https://open.spotify.com/album/2PV9HDLaFPcepNYU6iJDY8) | 5:29 | 2022-11-17 | 2023-08-25 |
 | [Terjebak Rasa](https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm) | [Dony Koeswinarno](https://open.spotify.com/artist/2Hayo3Hkb9m2qOcyRKkzFG), [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Terjebak Rasa](https://open.spotify.com/album/1JZnaNG5spkRUh7eV8y99e) | 3:41 | 2022-09-02 | 2023-08-25 |

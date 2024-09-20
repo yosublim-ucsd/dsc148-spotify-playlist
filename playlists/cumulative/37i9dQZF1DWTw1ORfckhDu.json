@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Lukas Leon.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Turisti.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1288,6 +1288,24 @@
       "duration_ms": 164247,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/7KJjoWwfR3W6MvvFwjfOXu"
+    },
+    {
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA"
+      },
+      "artists": [
+        {
+          "name": "Adi L Hasla",
+          "url": "https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177804,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF"
     },
     {
       "album": {
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141994,
       "name": "HARLEY QUINN (feat. Sara Bee)",
       "url": "https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe"
@@ -3374,6 +3392,24 @@
       "duration_ms": 134399,
       "name": "Hymy",
       "url": "https://open.spotify.com/track/6zgw3TXZVHKcsVt8WJdf23"
+    },
+    {
+      "album": {
+        "name": "HYV\u00c4 SYD\u00c4N, PAHA SUU",
+        "url": "https://open.spotify.com/album/1LDra5gUrgQ3Vs6M7prCMg"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140722,
+      "name": "H\u00e4fl\u00e4",
+      "url": "https://open.spotify.com/track/2yEVWfpe2JKjidkQpFW3I2"
     },
     {
       "album": {
@@ -6204,7 +6240,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 146666,
       "name": "Lightskinboy (feat. Sexmane)",
       "url": "https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO"
@@ -7308,6 +7344,24 @@
       "duration_ms": 184615,
       "name": "MILANOON",
       "url": "https://open.spotify.com/track/2QQBRLylUj3qJz447iqq14"
+    },
+    {
+      "album": {
+        "name": "MILJON\u00c4\u00c4RI",
+        "url": "https://open.spotify.com/album/6nyYCDTAQRDTAOUKlFy8rT"
+      },
+      "artists": [
+        {
+          "name": "Bojos",
+          "url": "https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182368,
+      "name": "MILJON\u00c4\u00c4RI",
+      "url": "https://open.spotify.com/track/0K6Lmd36re3KZb1FdkIehh"
     },
     {
       "album": {
@@ -8710,7 +8764,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 124381,
       "name": "Oulunkyl\u00e4st ikuisuuteen (feat. VilleGalle) - Gnistan Remix",
       "url": "https://open.spotify.com/track/5CaQCCTayPEW74Ap3ChQYz"
@@ -11553,6 +11607,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176788,
+      "name": "Taikuri",
+      "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
+    },
+    {
+      "album": {
         "name": "Taistelut",
         "url": "https://open.spotify.com/album/1Q0a4jmtaLvD5L9zgHqQiT"
       },
@@ -13286,7 +13358,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 164776,
       "name": "Vippip\u00f6yt\u00e4 huudeilla (feat. JV)",
       "url": "https://open.spotify.com/track/152IZJyxREI8WFSSaWpQHZ"

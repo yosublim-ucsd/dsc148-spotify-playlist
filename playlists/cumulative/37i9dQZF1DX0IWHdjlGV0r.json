@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Lazza",
+  "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
   "name": "Arsenico ",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 206510,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
@@ -724,6 +724,28 @@
       "duration_ms": 189108,
       "name": "Caff\u00e8",
       "url": "https://open.spotify.com/track/4V5gmy8imyB0TJwdIYuGRv"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
     },
     {
       "album": {
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 167727,
       "name": "Dimenticare",
       "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
@@ -2195,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
+    },
+    {
+      "album": {
         "name": "MI AMI O NO (feat. Capo Plaza)",
         "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
       },
@@ -2862,7 +2906,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 194861,
       "name": "Prometto (feat. Rkomi & Luch\u00e8)",
       "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
@@ -3030,6 +3074,24 @@
       "duration_ms": 272973,
       "name": "Rose Nere",
       "url": "https://open.spotify.com/track/1PhB6n0TlYLSHn29v2vDXC"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "SAFARI",
+      "url": "https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy"
     },
     {
       "album": {

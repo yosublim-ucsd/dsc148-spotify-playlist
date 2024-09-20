@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Kalipsxau",
+  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 168593,
       "name": "Amour Consum\u00e9 (version zouk)",
       "url": "https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 185382,
       "name": "Distance",
       "url": "https://open.spotify.com/track/5gm1YR7hZceqQybXUsYJTH"
@@ -746,6 +746,24 @@
       "duration_ms": 196362,
       "name": "D\u00e9conner",
       "url": "https://open.spotify.com/track/4TJ8SEE9DJqWlTRhuUQKiy"
+    },
+    {
+      "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/0y6C7alW7UrijgYpYw4mDV"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218850,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/0qUAcMqe3voelZveN75MDN"
     },
     {
       "album": {
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193333,
       "name": "Partons",
       "url": "https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ"
@@ -2370,6 +2388,32 @@
       "duration_ms": 195381,
       "name": "R\u00e9sign\u00e9e",
       "url": "https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n"
+    },
+    {
+      "album": {
+        "name": "San vou",
+        "url": "https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH"
+      },
+      "artists": [
+        {
+          "name": "Ina Lina",
+          "url": "https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT"
+        },
+        {
+          "name": "Venssy",
+          "url": "https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf"
+        },
+        {
+          "name": "Rohane",
+          "url": "https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206176,
+      "name": "San vou",
+      "url": "https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj"
     },
     {
       "album": {
@@ -3138,6 +3182,28 @@
       "duration_ms": 182068,
       "name": "Vivre ou Pardonner",
       "url": "https://open.spotify.com/track/5JMZ9ZTlkTRTH9jsL0sNlF"
+    },
+    {
+      "album": {
+        "name": "Vou Et Mwen",
+        "url": "https://open.spotify.com/album/6CAnEVMN8pVMjlKp1oIXX7"
+      },
+      "artists": [
+        {
+          "name": "Sauce",
+          "url": "https://open.spotify.com/artist/3Jrb45fRTmSOk2w2TePU4r"
+        },
+        {
+          "name": "S.A.M.O",
+          "url": "https://open.spotify.com/artist/1FCBufI9ovdHlo2bSwGNvV"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Vou Et Mwen",
+      "url": "https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM"
     },
     {
       "album": {

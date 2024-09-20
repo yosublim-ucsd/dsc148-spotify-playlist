@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368 likes - 119 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 43 | [There Is Nothin' Like A Dame](https://open.spotify.com/track/4BlSoGubODlTUB594lXdBc) | [Ken Darby Male Chorus](https://open.spotify.com/artist/59Gk1wc3QsasqaglzYllZX) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:48 |
 | 44 | [I Whistle A Happy Tune](https://open.spotify.com/track/5Z2gU4zFvyZ1qlnazZ9U6s) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Jake Lucas](https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:44 |
 | 45 | [Hello Young Lovers](https://open.spotify.com/track/3MBtLt6wkxFt5PZNfrmzxW) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 3:14 |
-| 46 | [South Pacific Overture](https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48) | [Alfred Newman](https://open.spotify.com/artist/2e7myQwGa7Vyp7sss8brVC) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:01 |
-| 47 | [Bali Ha'i \- \(From the 20th Century\-Fox film "South Pacific"\)](https://open.spotify.com/track/3xeZCv2zJguniFYYvGQceq) | [Bloody Mary](https://open.spotify.com/artist/0qU4ACuOtta4asBwNalSkk), [The Ken Darby Singers](https://open.spotify.com/artist/78KqMiKmzLeBjvh0LwCTlp) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:39 |
+| 46 | [Bali Ha'i \- \(From the 20th Century\-Fox film "South Pacific"\)](https://open.spotify.com/track/3xeZCv2zJguniFYYvGQceq) | [Bloody Mary](https://open.spotify.com/artist/0qU4ACuOtta4asBwNalSkk), [The Ken Darby Singers](https://open.spotify.com/artist/78KqMiKmzLeBjvh0LwCTlp) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:39 |
+| 47 | [South Pacific Overture](https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48) | [Alfred Newman](https://open.spotify.com/artist/2e7myQwGa7Vyp7sss8brVC) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 3:01 |
 | 48 | [The Farmer and the Cowman](https://open.spotify.com/track/1ulnjkCFmYYSxlNsIWjLu8) | [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 402: Shirley Jones](https://open.spotify.com/album/6pL645ZdB87vyOiY3tmKPu) | 3:54 |
 | 49 | [Honey Bun](https://open.spotify.com/track/3XYEV3l6Dfm0skHyzknAGn) | [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:45 |
 | 50 | [I Enjoy Being A Girl](https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [The Marvelous Mrs\. Maisel: Season 1 \(Music From The Prime Original Series\)](https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu) | 3:15 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 118 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 119 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AbcgSgAAAACUm3PS0l8y3E25hun0BqTh`
+Snapshot ID: `Abcl6gAAAADbkhQ6PJ/9slTofMboGiRA`

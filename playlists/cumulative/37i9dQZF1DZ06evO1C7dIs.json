@@ -1474,10 +1474,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 305972,
       "name": "The Islander",
       "url": "https://open.spotify.com/track/7Ce61NyQM0XfGbVHSUBBOG"
+    },
+    {
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305972,
+      "name": "The Islander",
+      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
     },
     {
       "album": {

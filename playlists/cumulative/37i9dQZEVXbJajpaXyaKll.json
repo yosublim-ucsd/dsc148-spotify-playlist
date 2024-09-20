@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "2 Peine",
+        "url": "https://open.spotify.com/album/0FqjTX6ROxnzkSgNQBLSfs"
+      },
+      "artists": [
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164423,
+      "name": "2 Peine",
+      "url": "https://open.spotify.com/track/30wqSNwxGMXVidA53Nhkfe"
+    },
+    {
+      "album": {
         "name": "Los Sentimientos De un Robot",
         "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
       },
@@ -1232,7 +1254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 171243,
       "name": "BABY I'M BACK",
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
@@ -1640,7 +1662,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -4158,7 +4180,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 263600,
       "name": "ella brilla",
       "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
@@ -6106,7 +6128,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
@@ -7911,6 +7933,24 @@
     },
     {
       "album": {
+        "name": "El Mixetape",
+        "url": "https://open.spotify.com/album/4bnbvbzrk4at0ePHHuZO3P"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142565,
+      "name": "Memas en el Parking",
+      "url": "https://open.spotify.com/track/13jFVlbPGmPrq5o4RYEigY"
+    },
+    {
+      "album": {
         "name": "Meninos Do Favela",
         "url": "https://open.spotify.com/album/6oamJM64EV5MH8Na9jVckf"
       },
@@ -8982,7 +9022,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -9710,7 +9750,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"

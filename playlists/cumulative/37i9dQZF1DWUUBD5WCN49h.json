@@ -821,6 +821,32 @@
     },
     {
       "album": {
+        "name": "Ah Well",
+        "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ah Well",
+      "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
+    },
+    {
+      "album": {
         "name": "Align (Sorry)",
         "url": "https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6"
       },
@@ -1358,7 +1384,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 141055,
       "name": "Amg",
       "url": "https://open.spotify.com/track/2Qby1reHz7h5nFDwEI9Afq"
@@ -3008,7 +3034,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 140357,
       "name": "California",
       "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
@@ -3836,7 +3862,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 116400,
       "name": "CRAZY SEXY PERFECT GIRLS",
       "url": "https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj"
@@ -7115,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Hotel",
+        "url": "https://open.spotify.com/album/3EGCVkmOmG3PhWPu9qNWrs"
+      },
+      "artists": [
+        {
+          "name": "Yugoszn",
+          "url": "https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114874,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/0GdDl6vT07F0kr7mwVyyJE"
+    },
+    {
+      "album": {
         "name": "Torn Tapestries",
         "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
       },
@@ -9587,6 +9631,28 @@
     },
     {
       "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "111SYRI",
+          "url": "https://open.spotify.com/artist/3s4Yx1pnz3Lgqfdw9jpC9e"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129007,
+      "name": "LANGUAGE",
+      "url": "https://open.spotify.com/track/5aPSQ4ZTGPLJ95tIZejyHK"
+    },
+    {
+      "album": {
         "name": "Okay Baby, Lets Do This",
         "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
       },
@@ -11972,7 +12038,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 63780,
       "name": "Nashona Item",
       "url": "https://open.spotify.com/track/48EPXhVdEjKo60RSap6Gzn"
@@ -12485,6 +12551,24 @@
     },
     {
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/1r7kH9IJZp5u7r4LlWIjIo"
+      },
+      "artists": [
+        {
+          "name": "UCHE",
+          "url": "https://open.spotify.com/artist/2btRDq0MHpAfXJREWx4Xzs"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/2k5PoyzxiOwyfvgDn8Jitp"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
         "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
       },
@@ -12874,7 +12958,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 192262,
       "name": "Ogechi (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
@@ -13538,7 +13622,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193846,
       "name": "Over",
       "url": "https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H"
@@ -14784,7 +14868,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 155368,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK"
@@ -15563,6 +15647,28 @@
     },
     {
       "album": {
+        "name": "Story of Our Lives",
+        "url": "https://open.spotify.com/album/11She1URb5G1orrCZeLFsG"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        },
+        {
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162841,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2"
+    },
+    {
+      "album": {
         "name": "Saints Row",
         "url": "https://open.spotify.com/album/6kEjvHgwHodZdPhLBpQzxu"
       },
@@ -15698,6 +15804,28 @@
       "duration_ms": 230498,
       "name": "Santi",
       "url": "https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O"
+    },
+    {
+      "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/795ErC3i2caERgRMek4BFV"
+      },
+      "artists": [
+        {
+          "name": "Cool Paul",
+          "url": "https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX"
+        },
+        {
+          "name": "Spaceray",
+          "url": "https://open.spotify.com/artist/0BOIHlez70gvxoqGXmCUQB"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179745,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2UPFRDIBBlBPrcLoEG4D8Y"
     },
     {
       "album": {
@@ -15985,6 +16113,24 @@
     },
     {
       "album": {
+        "name": "Service",
+        "url": "https://open.spotify.com/album/6RxOYbrRvkRnBaRoEknEYy"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149887,
+      "name": "Service",
+      "url": "https://open.spotify.com/track/23OzpJciOsxrB2oTrWQL3W"
+    },
+    {
+      "album": {
         "name": "Sexy Depression",
         "url": "https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l"
       },
@@ -16160,6 +16306,24 @@
       "duration_ms": 178363,
       "name": "Show Me Something",
       "url": "https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v"
+    },
+    {
+      "album": {
+        "name": "SICK AND TIRED",
+        "url": "https://open.spotify.com/album/2zyUcbQjCEALmUl7H2BGmx"
+      },
+      "artists": [
+        {
+          "name": "Dredi",
+          "url": "https://open.spotify.com/artist/285oq5GDuecOufpeMqfl0l"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169631,
+      "name": "SICK AND TIRED",
+      "url": "https://open.spotify.com/track/2FDtc1HGTwPX3Wy5Mq3AMM"
     },
     {
       "album": {
@@ -17346,7 +17510,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 158400,
       "name": "Sweet Escape",
       "url": "https://open.spotify.com/track/5AexqVtUzB7tDZSfvLeNTk"
@@ -18404,7 +18568,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
@@ -18444,6 +18608,24 @@
       "duration_ms": 154005,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5vVK17McjmUaEXBBtmgvHW"
+    },
+    {
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/0O3GM44tWAKIrzzK0UxjHV"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161320,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/3oNOHoKJd2DlVb3NJvXh0j"
     },
     {
       "album": {

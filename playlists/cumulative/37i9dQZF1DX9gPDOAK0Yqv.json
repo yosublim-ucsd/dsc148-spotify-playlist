@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 190641,
       "name": "A Cappella",
       "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 316517,
       "name": "Continuum - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/3LriBnhljZSB6xWmqP5Pqw"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 261025,
       "name": "Dreamer Soul",
       "url": "https://open.spotify.com/track/0benNH9aLheGOG1nJ6olPf"
@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 224634,
       "name": "Eyes Open, Mind Free",
       "url": "https://open.spotify.com/track/6fLaa3R4VYfRDObtzgic6a"
@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 187200,
       "name": "Four Elements",
       "url": "https://open.spotify.com/track/3tgiIyHKe9vuxBbkLSDBT1"
@@ -6292,7 +6292,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 193548,
       "name": "Make Me Wonder",
       "url": "https://open.spotify.com/track/4oyBrEmGQTvtRK48q3shSx"
@@ -6332,6 +6332,28 @@
       "duration_ms": 226560,
       "name": "Mankind",
       "url": "https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF"
+    },
+    {
+      "album": {
+        "name": "March Of Avalon",
+        "url": "https://open.spotify.com/album/2EfaEXWtpJZeunshGo4xUP"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "March Of Avalon",
+      "url": "https://open.spotify.com/track/34c8sV0uwzssoKjOskYMNn"
     },
     {
       "album": {
@@ -6689,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "Morana",
+        "url": "https://open.spotify.com/album/0VMZaGPtMmk0PD4j3t030p"
+      },
+      "artists": [
+        {
+          "name": "Artaria",
+          "url": "https://open.spotify.com/artist/54LH798QKraEZosT57zMqU"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332810,
+      "name": "Morana",
+      "url": "https://open.spotify.com/track/23PNuzSj04sjeLJKzd8TiY"
+    },
+    {
+      "album": {
         "name": "4:23",
         "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
       },
@@ -7042,7 +7082,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 249998,
       "name": "Never Say Never - Colyn Remix",
       "url": "https://open.spotify.com/track/3OMkjlhiBfQcBtPVA3AkaF"
@@ -8905,6 +8945,28 @@
     },
     {
       "album": {
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+    },
+    {
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/32qLU1MffxZU1biGO3dciZ"
       },
@@ -9238,7 +9300,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 220153,
       "name": "Shik Shak Shok - Apotech Remix",
       "url": "https://open.spotify.com/track/7g029MDvdG3mt5NmGnyEC7"
@@ -11170,7 +11232,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"

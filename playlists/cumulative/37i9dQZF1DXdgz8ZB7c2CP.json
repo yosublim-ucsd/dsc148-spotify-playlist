@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Mura Masa",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
   "name": "creamy",
   "tracks": [
     {
@@ -206,6 +206,28 @@
       "duration_ms": 293124,
       "name": "A Little Bit Further (Chrome Sparks Remix)",
       "url": "https://open.spotify.com/track/0ZOcp6c2qoxOmdM04ufpG5"
+    },
+    {
+      "album": {
+        "name": "A Little Closer (Oppidan Remix)",
+        "url": "https://open.spotify.com/album/39uwE626Jtfpte7ss1nk7o"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        },
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182070,
+      "name": "A Little Closer - Oppidan Remix",
+      "url": "https://open.spotify.com/track/2B700PMxvSrrzlSTURPzag"
     },
     {
       "album": {
@@ -460,7 +482,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 163944,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/23DvufvHJAr0OUPfrB7g2J"
@@ -3542,7 +3564,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 374122,
       "name": "Del Oro",
       "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
@@ -3844,7 +3866,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 158339,
       "name": "DON'T MIND",
       "url": "https://open.spotify.com/track/2RiChw50yt1KrKshZ9FL3w"
@@ -6524,7 +6546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
@@ -7493,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213722,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
+    },
+    {
+      "album": {
         "name": "Polychrome",
         "url": "https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva"
       },
@@ -7508,6 +7548,24 @@
       "duration_ms": 286034,
       "name": "I'll Be There for You",
       "url": "https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y"
+    },
+    {
+      "album": {
+        "name": "I'M A GREAT DAY",
+        "url": "https://open.spotify.com/album/0Nzxfeb85vGezniAlYMMK9"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124702,
+      "name": "I'M A GREAT DAY",
+      "url": "https://open.spotify.com/track/5nYmcW3XwVzEuPRvOh4Cpv"
     },
     {
       "album": {
@@ -8743,6 +8801,28 @@
     },
     {
       "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202386,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/331ExbnOwb1FqXnt82qcqL"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
       },
@@ -9429,6 +9509,24 @@
     },
     {
       "album": {
+        "name": "makeumine",
+        "url": "https://open.spotify.com/album/35azUZq2Jck9VeetQdpjk8"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160055,
+      "name": "makeumine",
+      "url": "https://open.spotify.com/track/3l3CC45fmYwMnB5lYxjdRz"
+    },
+    {
+      "album": {
         "name": "MAKING NEW",
         "url": "https://open.spotify.com/album/77ge2itrYfe8Sfe5poNE3F"
       },
@@ -9600,7 +9698,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 232151,
       "name": "Migration - DJ Carpenter Remix",
       "url": "https://open.spotify.com/track/173CXAiXVxzfNZzfqFGyfP"
@@ -13061,6 +13159,24 @@
     },
     {
       "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL"
+      },
+      "artists": [
+        {
+          "name": "Tornado Club",
+          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231349,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
       },
@@ -14481,6 +14597,28 @@
     },
     {
       "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "1996Montana",
+          "url": "https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "Supercharger",
+      "url": "https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn"
+    },
+    {
+      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -14640,7 +14778,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 209445,
       "name": "TAKA - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
@@ -15180,7 +15318,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
@@ -16089,6 +16227,36 @@
     },
     {
       "album": {
+        "name": "Waited All Night",
+        "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208334,
+      "name": "Waited All Night",
+      "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
+    },
+    {
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -16130,7 +16298,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 253846,
       "name": "Waiting 4",
       "url": "https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L"
@@ -16802,6 +16970,24 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "album": {
+        "name": "Wise Heart",
+        "url": "https://open.spotify.com/album/0nlMtkdfpMHNby5avmtAcY"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "Wise Heart",
+      "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"
     },
     {
       "album": {

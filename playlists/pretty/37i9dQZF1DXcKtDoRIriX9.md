@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,910 likes - 76 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,931 likes - 76 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 14 | [The Moment](https://open.spotify.com/track/56ipY1eWnzIWk2HD2AHozQ) | [Frankey & Sandrino](https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk) | [The Moment](https://open.spotify.com/album/4Qg5arxXebkkwwnXtIOzhI) | 5:53 |
 | 15 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 |
 | 16 | [Gasp](https://open.spotify.com/track/6mUmO7Qgpks9qFxqDuVJjG) | [Groovemonk](https://open.spotify.com/artist/1e60UFGxRZ9Hxa0QrHETn7) | [Status Update](https://open.spotify.com/album/1YvOQVHirmHl3LZOCb2sIo) | 4:47 |
-| 17 | [Lately \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/5HgrvZrpVrxBNoI7ZBrVm6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Lately \- Adam Ten & Mita Gami Remix](https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc) | 3:36 |
+| 17 | [Lately \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/5HgrvZrpVrxBNoI7ZBrVm6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Lately \(Adam Ten & Mita Gami Remix\)](https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc) | 3:36 |
 | 18 | [Captivated Heart \- Nathan Fake Remix](https://open.spotify.com/track/7o6GTt1gL6AWflc1QHen9z) | [Hrdvsion](https://open.spotify.com/artist/0NSRwgABwqwjns8lJhIoTx), [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Captivated Heart: Remixed](https://open.spotify.com/album/6lKxBU11CWV8sWyUZBQApW) | 5:08 |
 | 19 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
 | 20 | [Zone 3 \(City Limits\) \- Beatrice Dillon Remix](https://open.spotify.com/track/4kXUcqkPueZoqOtoqLeFKG) | [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97) | [City Planning \(Deluxe\)](https://open.spotify.com/album/3tTbpwaa195u8qmVWZyXGC) | 1:39 |

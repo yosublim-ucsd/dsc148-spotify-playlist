@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Warning.
 
-1,641 songs - 3 day 17 hr 30 min
+1,642 songs - 3 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE](https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW) | 3:08 | 2024-04-05 | 2024-06-09 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-02-03 | 2022-09-16 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-02-03 | 2022-03-02 |
-| [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 |  |
+| [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 | 2024-09-20 |
 | [Blame Me](https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Blame Me](https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ) | 2:43 | 2024-06-28 |  |
 | [blanket](https://open.spotify.com/track/1HtOV8CG71MY8kjqbaTrEm) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [blanket](https://open.spotify.com/album/77rv24srv70kCBADI5nB1d) | 3:03 | 2022-02-03 | 2022-08-02 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/0EXd3T4RUhTowr4S5XRGS5) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 4:06 | 2022-02-03 | 2022-08-02 |
@@ -1063,6 +1063,7 @@
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2022-02-03 | 2022-03-11 |
 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 | 2024-08-23 |  |
 | [Polonia](https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Polonia](https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ) | 2:45 | 2024-03-15 | 2024-08-03 |
+| [poltergeist](https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [poltergeist](https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG) | 2:33 | 2024-09-13 |  |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-03-24 | 2022-08-02 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2022-03-24 | 2022-04-17 |
 | [POPULAR](https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [POPULAR](https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I) | 3:35 | 2022-02-10 | 2022-04-20 |

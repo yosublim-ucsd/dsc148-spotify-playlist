@@ -4,7 +4,7 @@
 
 > 🍂
 
-108 songs - 5 hr 27 min
+110 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2024-06-27 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 |  |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 |  |
-| [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2024-06-27 |  |
+| [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2024-06-27 | 2024-09-20 |
 | [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 | 2024-06-27 |  |
 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 | 2024-06-27 |  |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2024-06-27 |  |
@@ -46,6 +46,7 @@
 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 | 2024-06-27 | 2024-07-30 |
 | [Hvalfangerbyen](https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Hvalfangerbyen](https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK) | 3:20 | 2024-06-27 | 2024-09-17 |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-06-27 |  |
+| [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 |  |
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2024-06-27 |  |
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 |  |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 |  |
@@ -67,7 +68,7 @@
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 |  |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2024-09-01 |
-| [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 |  |
+| [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 | 2024-06-27 |  |
 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-09-06 |
 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 | 2024-09-12 |  |
@@ -89,6 +90,7 @@
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 |  |
 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-06-27 |  |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-06-27 | 2024-09-10 |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 | 2024-07-18 |  |
 | [Sommartid](https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Sommartid](https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs) | 2:54 | 2024-06-27 |  |
 | [Sommer i Norge](https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Sommer i Norge](https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh) | 2:49 | 2024-06-27 |  |

@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 161236,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
@@ -610,6 +610,32 @@
       "duration_ms": 182839,
       "name": "Blindly [Thom Merlin Remix]",
       "url": "https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
     },
     {
       "album": {
@@ -4841,6 +4867,32 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj"
+      },
+      "artists": [
+        {
+          "name": "Lulleaux",
+          "url": "https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh"
+        },
+        {
+          "name": "BnO",
+          "url": "https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186984,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm"
+    },
+    {
+      "album": {
         "name": "Talk (Remixes)",
         "url": "https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k"
       },
@@ -5134,10 +5186,32 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-20",
       "duration_ms": 177423,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh"
+    },
+    {
+      "album": {
+        "name": "Touch The Sun",
+        "url": "https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8"
+      },
+      "artists": [
+        {
+          "name": "Wontu",
+          "url": "https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb"
+        },
+        {
+          "name": "Woodworks",
+          "url": "https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "Touch The Sun",
+      "url": "https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ"
     },
     {
       "album": {
