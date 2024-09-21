@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
-  "num_followers": 96826,
+  "num_followers": 96846,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -79,34 +79,22 @@
     {
       "added_at": "2024-09-12 08:41:14",
       "album": {
-        "name": "Bu\u1ed3n Hay Vui",
-        "url": "https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M"
+        "name": "B\u1eacT N\u00d3 L\u00caN",
+        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
       },
       "artists": [
         {
-          "name": "VSOUL",
-          "url": "https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q"
+          "name": "SOOBIN",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
         },
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        },
-        {
-          "name": "Boyzed",
-          "url": "https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb"
-        },
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 291750,
-      "name": "Bu\u1ed3n Hay Vui",
-      "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
+      "duration_ms": 240000,
+      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
+      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
     },
     {
       "added_at": "2024-09-12 08:41:14",
@@ -143,22 +131,34 @@
     {
       "added_at": "2024-09-12 08:41:14",
       "album": {
-        "name": "B\u1eacT N\u00d3 L\u00caN",
-        "url": "https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi"
+        "name": "Bu\u1ed3n Hay Vui",
+        "url": "https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M"
       },
       "artists": [
         {
-          "name": "SOOBIN",
-          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+          "name": "VSOUL",
+          "url": "https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q"
         },
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "Boyzed",
+          "url": "https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb"
+        },
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
-      "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+      "duration_ms": 291750,
+      "name": "Bu\u1ed3n Hay Vui",
+      "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
     },
     {
       "added_at": "2024-09-12 08:41:14",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-09-12 08:41:14",
       "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2024-09-12 08:41:14",
+      "album": {
         "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
         "url": "https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 187454,
       "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
       "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"
-    },
-    {
-      "added_at": "2024-09-12 08:41:14",
-      "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2024-09-12 08:41:14",

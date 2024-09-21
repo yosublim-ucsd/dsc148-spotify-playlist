@@ -8073,6 +8073,36 @@
     },
     {
       "album": {
+        "name": "Jim Jones",
+        "url": "https://open.spotify.com/album/24p4dRI3Pg0Vmfm3GKC1s3"
+      },
+      "artists": [
+        {
+          "name": "Lenco",
+          "url": "https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif"
+        },
+        {
+          "name": "Luathug",
+          "url": "https://open.spotify.com/artist/0burD8ydqCkfyVSMR2xZhu"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118651,
+      "name": "Jim Jones",
+      "url": "https://open.spotify.com/track/1CyB5cIlYj7Sjg2yYdpBk5"
+    },
+    {
+      "album": {
         "name": "Joelhos No Ch\u00e3o",
         "url": "https://open.spotify.com/album/63YQkmhOycBeCQo8yPjyEg"
       },

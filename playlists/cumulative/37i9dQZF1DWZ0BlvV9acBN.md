@@ -2,9 +2,9 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
+> Grandes sucessos e novidades do rock Cristão\. Foto: Resgate
 
-167 songs - 12 hr 54 min
+168 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 | 2022-09-02 | 2023-11-04 |
 | [Bartimeu](https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k), [Marcos Miranda](https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F) | [Bartimeu](https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam) | 3:51 | 2023-05-19 | 2023-11-04 |
 | [Bitcoins](https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Bitcoins](https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0) | 3:42 | 2023-10-06 | 2023-11-25 |
-| [Bênçãos Que Não Têm Fim \- Counting My Blessings](https://open.spotify.com/track/21KBpbibTPe8joYvT48nzY) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx) | 2:38 | 2024-06-07 |  |
+| [Bênçãos Que Não Têm Fim \- Counting My Blessings](https://open.spotify.com/track/21KBpbibTPe8joYvT48nzY) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx) | 2:38 | 2024-06-07 | 2024-09-21 |
 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 | 2022-11-26 |
 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 | 2022-09-02 |  |
 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 | 2022-09-02 | 2023-04-16 |
@@ -117,6 +117,7 @@
 | [Novo Gênesis \- Ao Vivo](https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [No Jardim Parte 1/3 \(Ao Vivo\)](https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX) | 5:13 | 2022-09-02 | 2022-10-15 |
 | [Náufrago](https://open.spotify.com/track/4S59qX21KI984gd80DhHCx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Hoje](https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z) | 4:04 | 2022-09-02 | 2023-09-05 |
 | [Não Há Variação](https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ) | [Redentto](https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj) | [Não Há Variação](https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr) | 4:25 | 2022-09-02 | 2023-07-15 |
+| [Não Sou Mais Eu](https://open.spotify.com/track/0NANS67Rs3DifKlnYn0FNb) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Não Sou Mais Eu](https://open.spotify.com/album/3MLgBydwGv53WSnkEbOFyx) | 4:47 | 2024-09-20 |  |
 | [Não é Por Vista](https://open.spotify.com/track/5NXnb2R2cctmTNQHG8vD4K) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Não é Por Vista](https://open.spotify.com/album/7oyB8gcwr8GxqvxpxYNXnN) | 4:42 | 2023-09-04 | 2023-09-16 |
 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 | 2023-10-06 |  |
 | [O Mundo ao Seu Redor](https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [O Mundo ao Seu Redor](https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K) | 3:08 | 2022-09-02 | 2022-12-10 |

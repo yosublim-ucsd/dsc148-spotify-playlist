@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 272399,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
@@ -2464,6 +2464,24 @@
       "duration_ms": 282906,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0"
+    },
+    {
+      "album": {
+        "name": "If God Is A woman",
+        "url": "https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205962,
+      "name": "If God Is A Woman",
+      "url": "https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op"
     },
     {
       "album": {

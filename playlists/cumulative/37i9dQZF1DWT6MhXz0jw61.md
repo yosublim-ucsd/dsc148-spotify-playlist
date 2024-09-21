@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Big Sean
 
-1,012 songs - 2 day 5 hr 28 min
+1,013 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Footprints](https://open.spotify.com/track/6VwiIlkMlY83oITeZbOOCF) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM) | [Footprints + Jungle](https://open.spotify.com/album/176jw5UiicZw8mkCk1tyEv) | 2:39 | 2024-05-31 | 2024-06-15 |
 | [For DOOM](https://open.spotify.com/track/0xFiDbmCNEcs8TE9hToHpa) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Component System with the Auto Reverse](https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk) | 2:02 | 2022-10-07 | 2023-02-04 |
 | [Forever](https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Forever](https://open.spotify.com/album/4DEBKvrM10SocqyACeW5wF) | 3:07 | 2021-10-07\* | 2021-12-11 |
+| [Forever Alone](https://open.spotify.com/track/7er838bEBPYSiVsDzdSfJV) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Days Before October](https://open.spotify.com/album/1p1snBtfr3hPI9bQPULv1y) | 2:05 | 2024-09-20 |  |
 | [Forgot We Were Seeds](https://open.spotify.com/track/6XK53Z4myhw8Q6iu6L3ie2) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Forgot We Were Seeds](https://open.spotify.com/album/6MAvM1jyyUbparAYvp2zjK) | 3:40 | 2024-04-12 | 2024-04-27 |
 | [Formal Invite](https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:05 | 2024-01-12 | 2024-01-27 |
 | [Fortune 500](https://open.spotify.com/track/4lYWHwaljHyjOpb2cRcqoE) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 2:52 | 2023-04-07 | 2023-06-10 |
@@ -769,7 +770,7 @@
 | [saguaro](https://open.spotify.com/track/5ol7syxdYTCrgPMv3KGB0T) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [saguaro](https://open.spotify.com/album/34fHFsOFEzhM1ImYnIzeHF) | 2:18 | 2024-07-12 | 2024-09-07 |
 | [Saints Vs\. Sinners](https://open.spotify.com/track/3IsplUwPCinemOUn3hmcsf) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Saints vs\. Sinners](https://open.spotify.com/album/45VnPMf6CgbjCiRuPxSqHI) | 2:32 | 2024-01-20 | 2024-02-17 |
 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 | 2024-05-24 |  |
-| [Saluted From Jay \(feat\. Babyface Ray\)](https://open.spotify.com/track/5ZWdJ0BvVjQCl6fbr3bC8v) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Super Villain Origin Story](https://open.spotify.com/album/6nktPfZaCWa46fFSGO6ctI) | 3:13 | 2024-08-23 |  |
+| [Saluted From Jay \(feat\. Babyface Ray\)](https://open.spotify.com/track/5ZWdJ0BvVjQCl6fbr3bC8v) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Super Villain Origin Story](https://open.spotify.com/album/6nktPfZaCWa46fFSGO6ctI) | 3:13 | 2024-08-23 | 2024-09-21 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 |  |
 | [Sandbox](https://open.spotify.com/track/5FpA9VUCUquTkHPpn5Uaiq) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Sandbox](https://open.spotify.com/album/4XH6r97ff6p58FGNxexSBy) | 3:37 | 2022-10-07 | 2023-12-02 |
 | [SANGRE / AGUA \(feat\. Mick Jenkins & AMARAH\)](https://open.spotify.com/track/0eQxD7LMq3Q3c6GFx7tmwm) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [AMARAH](https://open.spotify.com/artist/3WZGJETwBoBc3BV8rsxXFS) | [PIRANHA](https://open.spotify.com/album/3OTyL5ef5Q7WWlpVUVBV5Q) | 4:24 | 2024-02-09 | 2024-06-01 |

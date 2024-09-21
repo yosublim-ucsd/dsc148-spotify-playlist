@@ -2,7 +2,7 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. داليا
+> كل شي خليجي جديد\. غلاف: اميمة طالب
 
 367 songs - 1 day 1 hr 18 min
 

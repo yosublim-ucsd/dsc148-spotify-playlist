@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-240 songs - 13 hr 39 min
+241 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [N.I.G.A](https://open.spotify.com/track/73ajgrXAIIMcRkkY8KI7Fk) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Dishonored](https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE) | 2:10 | 2022-01-05 | 2022-06-16 |
 | [Naakula Mookula](https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:22 | 2022-07-27 | 2024-04-16 |
 | [Naam Ninaithaal](https://open.spotify.com/track/5xGB1V0iv33quTPsN1KrRm) | [Rathya](https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy), [Dhikshi Baskaran](https://open.spotify.com/artist/2XuIe5HofW12NbqpHPL1yA), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Naam Ninaithaal](https://open.spotify.com/album/6YpQ4Lt6mHFxGKQwWGHJkm) | 3:16 | 2021-12-01 |  |
-| [Naan Yaar](https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/4Zhr35lEc3bXeyXzPyj48c) | 3:05 | 2021-12-01 |  |
+| [Naan Yaar](https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/4Zhr35lEc3bXeyXzPyj48c) | 3:05 | 2021-12-01 | 2024-09-21 |
 | [Naan Yaar](https://open.spotify.com/track/4MDli7VJ9RiKhngv4eFeFN) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/7Cy0J2uxMY6NSHelxmE991) | 3:05 | 2021-12-01 | 2024-04-19 |
 | [Naan Yaar](https://open.spotify.com/track/5d9alcJcZ8PKIyDOsFHsk7) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/0Vvu96doHMiLDUAT4RUOhG) | 3:05 | 2021-12-01 | 2023-11-11 |
 | [Naanum Rowdy Dhan](https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:05 | 2022-07-27 | 2023-04-29 |
@@ -182,6 +182,7 @@
 | [Samaneedhi](https://open.spotify.com/track/5xcyZcXh1uFZJtrlq1XMuA) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Rayappan Francis](https://open.spotify.com/artist/3AQl4DRqtyp3brOXMWZ5S8) | [Samaneedhi](https://open.spotify.com/album/43pjDsRPz53Ue7f9CseErh) | 3:19 | 2021-12-01 |  |
 | [Sarithiram \(feat\. MC Sai, Nirujan & Vernon G Segaram\)](https://open.spotify.com/track/007NRfGHZODSi1L55LnqjR) | [MC Qiru](https://open.spotify.com/artist/52ORLxhGh7aTIKjTeq0WYe), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Nirujan](https://open.spotify.com/artist/5Rc7Pvj8aqgeou7q2sqNuA), [Vernon G Segaram](https://open.spotify.com/artist/1vvVThBkJdiUch8q3DoH4p) | [Sarithiram](https://open.spotify.com/album/4FfPZ8tU7uYWtTJp23OC3k) | 3:42 | 2021-12-01 | 2023-03-14 |
 | [Savadi](https://open.spotify.com/track/54OfF7DAB19wrSJQvAXenZ) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:30 | 2021-12-01 | 2021-12-30 |
+| [SAVADIII \(SG EDITION\) \- AK VALLY & Thambi Natta Remix](https://open.spotify.com/track/5fMb3hekUehr6GHWdo7F6b) | [JANGGO](https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn), [AK VALLY](https://open.spotify.com/artist/7BQk3607za9yehaAKvNqRr), [Thambi Natta](https://open.spotify.com/artist/5fQTI3d5juxXlwfnWckJPH) | [SAVADIII \(SG EDITION\) \- AK VALLY & Thambi Natta Remix](https://open.spotify.com/album/7BJ3qVIFkTTAjau38JszQ3) | 3:05 | 2024-09-20 |  |
 | [Self Nalam](https://open.spotify.com/track/7chs0PFyLWg9pCrNQqGPjr) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Self Nalam](https://open.spotify.com/album/5HXwZqBUaIQE1PYDyUlbwo) | 3:40 | 2021-12-01 | 2022-06-16 |
 | [She](https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Lost In Your Love](https://open.spotify.com/album/5XeSjQGfJiI8kJ9jjvO1Gl) | 3:00 | 2023-02-01 | 2023-05-12 |
 | [SHIMMER](https://open.spotify.com/track/5RAAqKEgzyeXQebm1kvnJC) | [MC Chetan](https://open.spotify.com/artist/6xVCfFjIqeehPyqll3aVNb), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [SHIMMER](https://open.spotify.com/album/0Dt7PHrLJLtpTA3QLAYQsn) | 2:21 | 2024-08-30 |  |

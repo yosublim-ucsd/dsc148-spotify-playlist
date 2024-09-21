@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-95 songs - 6 hr 50 min
+96 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Kasiyoli](https://open.spotify.com/track/6dMX9Ky6PCqtNZ6uSarXqU) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Jutimala](https://open.spotify.com/artist/2vO1IbLmGJkYK9LXFQipqP) | [Kasiyoli](https://open.spotify.com/album/3hkQpICrJkdU3eglPS2qkf) | 3:46 | 2023-05-30 | 2024-06-17 |
 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 | 2023-03-10 |  |
 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 | 2023-10-26 |  |
-| [Khud Se Naina Char](https://open.spotify.com/track/3OyYf83Obloj5HkWWjJ2eb) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:23 | 2024-07-11 |  |
+| [Khud Se Naina Char](https://open.spotify.com/track/3OyYf83Obloj5HkWWjJ2eb) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:23 | 2024-07-11 | 2024-09-21 |
 | [Ki Jaana](https://open.spotify.com/track/7sCtnlyuxm07ISQg5ErK0Z) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ki Jaana](https://open.spotify.com/album/2w05JOdoxAmsvpPvbeuLtP) | 4:37 | 2023-03-10 | 2023-08-22 |
 | [Kitse](https://open.spotify.com/track/5lRpjhcokr9ICFEgWnWmZK) | [Nyn Music](https://open.spotify.com/artist/1mdpuEMzGFix1xdvjOma0t), [Mohito](https://open.spotify.com/artist/47iQfoE3WJMcR4QtOHNc1M) | [Kitse](https://open.spotify.com/album/369HA88bBIUJuvF7nLdkJM) | 3:25 | 2023-08-28 |  |
 | [Kon Halave Limdi \- Reprise](https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Kon Halave Limdi \(Reprise\)](https://open.spotify.com/album/5tyRG2a7FMXAVr39NmOYKS) | 3:58 | 2023-03-10 |  |
@@ -58,6 +58,7 @@
 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 | 2023-09-11 |  |
 | [Maari Maavadi](https://open.spotify.com/track/2l9NMCiCXC7UfXPuPdMbDU) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [Maari Maavadi](https://open.spotify.com/album/4cqzsdKCIQ59kOazoOVU5v) | 4:51 | 2023-10-05 |  |
 | [Madano](https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Madano](https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1) | 4:28 | 2023-07-28 | 2023-09-24 |
+| [Madhaniya](https://open.spotify.com/track/6O43xZgX8jkN4nek5XyP33) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Madhaniya](https://open.spotify.com/album/7MWiDSiUTM0gfrwp2rl0mE) | 4:49 | 2024-09-20 |  |
 | [Maenziraat](https://open.spotify.com/track/6BMwADwJAgnHWhANiDinwd) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Maenziraat](https://open.spotify.com/album/5fbzhkM3nBxtQcifrXa6dL) | 2:46 | 2024-02-07 | 2024-03-02 |
 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 | 2023-03-10 |  |
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2023-03-10 |  |

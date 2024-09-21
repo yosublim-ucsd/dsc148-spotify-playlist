@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Eclat Story
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,413 likes - 111 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,444 likes - 111 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Yseult au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 351822,
+  "num_followers": 351928,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAABgwxECn5X+rdt26H+i+XR+",
+  "snapshot_id": "Zu1JswAAAACGtqS9TZGG0JinrBaY2p8C",
   "tracks": [
     {
       "added_at": "2024-09-19 22:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 205730,
+      "name": "TOO FAST",
+      "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Apr\u00e8s l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
       },
@@ -368,7 +384,7 @@
           "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
         }
       ],
-      "duration_ms": 238202,
+      "duration_ms": 239684,
       "name": "Apr\u00e8s l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-20 10:08:51",
       "album": {
         "name": "Amar Pela Metade / Aimer \u00c0 Moiti\u00e9",
         "url": "https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu"
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
         }
       ],
-      "duration_ms": 186922,
-      "name": "Amar Pela Metade",
-      "url": "https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz"
+      "duration_ms": 186333,
+      "name": "Amar Pela Metade (Aimer \u00c0 Moiti\u00e9)",
+      "url": "https://open.spotify.com/track/56NoXkahPdeKwnGzq2VTGe"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -807,6 +823,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Bleus",
         "url": "https://open.spotify.com/album/5CyRyM3u0aNopCwdn2Dqxc"
       },
@@ -835,22 +867,6 @@
       "duration_ms": 186512,
       "name": "D\u00e9cibels",
       "url": "https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Turn Up A Notch",
-        "url": "https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 135355,
-      "name": "Turn Up A Notch",
-      "url": "https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM"
     },
     {
       "added_at": "2024-09-19 22:00:00",

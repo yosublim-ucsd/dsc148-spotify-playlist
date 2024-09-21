@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv"
+    },
+    {
+      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 84981,
       "name": "Dawn town",
       "url": "https://open.spotify.com/track/6OI7UF4dZxf8BqYnA5btz2"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 206878,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "I Think He Knows",
       "url": "https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214320,
       "name": "King Of My Heart",
       "url": "https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 201252,
       "name": "Last Summer ( I Know What You Did)",
       "url": "https://open.spotify.com/track/7JwfMTnMQmo74ZezZtsOJt"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155497,
       "name": "Savage",
       "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 190813,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"

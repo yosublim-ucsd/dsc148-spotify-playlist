@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> aiiiiiiii eu sou tao fofinha pequenininha / Foto: Sabrina Carpenter
+> e a mente da palhaça como eh q fica????  / Foto: Lady Gaga, Bruno Mars
 
 382 songs - 20 hr 24 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Julinho Ksd",
-  "num_followers": 47051,
+  "num_followers": 47065,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuys8AAAAACD3l+M5l3eKaIrGIAFxil0",
+  "snapshot_id": "Zu0oJAAAAABKN/M4BRoEGBwZnKhWGLw6",
   "tracks": [
     {
       "added_at": "2024-09-19 23:00:00",
@@ -171,42 +171,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Perco-me em Ti 2",
-        "url": "https://open.spotify.com/album/5fB4mO73AQoAP4dIw1RNJq"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        },
-        {
-          "name": "TeniTeach",
-          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
-        }
-      ],
-      "duration_ms": 186195,
-      "name": "Perco-me em Ti 2",
-      "url": "https://open.spotify.com/track/0Zqgoi1rqZSeQQrVdI286S"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Buqu\u00ea",
-        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 211584,
-      "name": "Buqu\u00ea",
-      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -223,6 +187,22 @@
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Buqu\u00ea",
+        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 211584,
+      "name": "Buqu\u00ea",
+      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -279,6 +259,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 242970,
+      "name": "Dire\u00e7\u00e3o Paris",
+      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Anos 90",
         "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
       },
@@ -295,22 +291,6 @@
       "duration_ms": 178014,
       "name": "Anos 90",
       "url": "https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 242970,
-      "name": "Dire\u00e7\u00e3o Paris",
-      "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -367,22 +347,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "NADA DE NOVO",
-        "url": "https://open.spotify.com/album/6qzOOim4Cn6gYlOtNCxeBU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Quest",
-          "url": "https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC"
-        }
-      ],
-      "duration_ms": 164732,
-      "name": "NADA DE NOVO",
-      "url": "https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -395,6 +359,22 @@
       "duration_ms": 243180,
       "name": "Do You No Wrong",
       "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "NADA DE NOVO",
+        "url": "https://open.spotify.com/album/6qzOOim4Cn6gYlOtNCxeBU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Quest",
+          "url": "https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC"
+        }
+      ],
+      "duration_ms": 164732,
+      "name": "NADA DE NOVO",
+      "url": "https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -647,22 +627,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Gota D'Espa\u00e7o",
         "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
       },
@@ -691,6 +655,22 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -839,22 +819,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "CorDaPele",
-        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 178815,
-      "name": "CorDaPele",
-      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Povo",
         "url": "https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D"
       },
@@ -875,18 +839,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Ber\u00e7o de Ouro",
-        "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Ber\u00e7o de Ouro",
-      "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -903,6 +867,22 @@
       "duration_ms": 248421,
       "name": "Para Casa",
       "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Ber\u00e7o de Ouro",
+        "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Ber\u00e7o de Ouro",
+      "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -935,26 +915,6 @@
       "duration_ms": 194039,
       "name": "Pontos Finais",
       "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208119,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1015,6 +975,26 @@
       "duration_ms": 212727,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208119,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/05O2kCMeVH9SwXzmUCs0dB"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1087,6 +1067,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "\u00c0 Tua Porta",
         "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
       },
@@ -1103,22 +1099,6 @@
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Oj\u00e9 Oj\u00e9",
-        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Oj\u00e9 Oj\u00e9",
-      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1167,6 +1147,22 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Trovador",
+        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "Trovador",
+      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1235,22 +1231,6 @@
       "duration_ms": 209708,
       "name": "Loko Loko",
       "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Trovador",
-        "url": "https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "Trovador",
-      "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Boca Boca",
+        "url": "https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Edson Mausse",
+          "url": "https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw"
+        }
+      ],
+      "duration_ms": 196911,
+      "name": "Boca Boca",
+      "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
     }
   ],
   "unique_name": "Seda",

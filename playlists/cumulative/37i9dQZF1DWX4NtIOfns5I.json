@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom \ud83c\udf43 cover: Chance Pe\u00f1a",
+  "description": "new music from Bon iver \ud83c\udf42\u2764\ufe0f\u200d\ud83e\ude79 cover: Infinity Song",
   "name": "juniper",
   "tracks": [
     {
@@ -1694,6 +1694,24 @@
       "duration_ms": 185520,
       "name": "Foundry",
       "url": "https://open.spotify.com/track/1CjRmbOw9rR7AiH4s8xa32"
+    },
+    {
+      "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160044,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
     },
     {
       "album": {
@@ -4009,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "album": {
         "name": "Heaven Is a Junkyard",
         "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
       },
@@ -4247,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -4464,6 +4518,24 @@
       "duration_ms": 167623,
       "name": "silence,",
       "url": "https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176647,
+      "name": "Sinking Boat",
+      "url": "https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC"
     },
     {
       "album": {

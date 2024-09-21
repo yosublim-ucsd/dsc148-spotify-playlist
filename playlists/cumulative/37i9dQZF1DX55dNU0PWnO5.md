@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-415 songs - 1 day 1 hr 5 min
+416 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ascendence](https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY), [Svoy](https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO) | [Ascendence](https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV) | 3:54 | 2024-03-01 |  |
 | [Aurora](https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ) | [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Volte\-Face](https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE) | 2:42 | 2024-08-23 |  |
 | [Autophagy Master](https://open.spotify.com/track/3p0bE9o9cM1sFafJUjqKDT) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DJ PRAWN](https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x), [Trey Tarzia](https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Jellowstoned](https://open.spotify.com/album/3gzVnpDE5qcrusH3UuNOZT) | 2:52 | 2024-04-19 |  |
-| [Back to the Grind](https://open.spotify.com/track/2eFudpKhUZAai09n869l2g) | [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Back to the Grind](https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y) | 2:46 | 2024-03-29 |  |
+| [Back to the Grind](https://open.spotify.com/track/2eFudpKhUZAai09n869l2g) | [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Back to the Grind](https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y) | 2:46 | 2024-03-29 | 2024-09-21 |
 | [Bangerang](https://open.spotify.com/track/6s28dDs4TFJiLUbtpPCQJW) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Bangerang](https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Beacons](https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX) | [Sunda Arc](https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj) | [Night Lands](https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82) | 5:08 | 2022-11-18 |  |
 | [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 | 2023-07-28 |  |
@@ -126,6 +126,7 @@
 | [Dust](https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dust](https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5) | 2:59 | 2024-01-12 | 2024-02-10 |
 | [DustyRhodes](https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV) | [Beats on Road Vol\. 1](https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX) | 2:51 | 2021-01-29 | 2022-02-27 |
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
+| [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 |  |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |
 | [Elegua](https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Elegua](https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA) | 2:28 | 2022-07-05 |  |
 | [Elias](https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC) | [pyxis](https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5) | [Gradients Part One](https://open.spotify.com/album/2Cyt2GG3bGywzFbgOt2y7k) | 4:56 | 2022-07-29 |  |

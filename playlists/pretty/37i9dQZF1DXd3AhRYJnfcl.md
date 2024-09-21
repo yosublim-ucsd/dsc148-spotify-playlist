@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf?si=5k8k1uIjSlKx2mISuMSn\-Q"> توو ليت </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,969 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,160 likes - 48 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 47 | [ياما ليالي وانت مش معايا](https://open.spotify.com/track/4OCP9kY5Mnyv3AprGs9Zsk) | [Sara Haitham](https://open.spotify.com/artist/754hCO2owSoa0vKgRiGTq0) | [ياما ليالي وانت مش معايا](https://open.spotify.com/album/7CRtNqX3fCBubRoNUO3JjG) | 3:51 |
 | 48 | [Shyaf Nafsk](https://open.spotify.com/track/3a7QA108PHmYTGzaQvorSg) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Shyaf Nafsk](https://open.spotify.com/album/79KTwmLoafLHSbn37XOQKd) | 3:56 |
 
-Snapshot ID: `Zt8KrgAAAAA1rcUhnszwOh/mlGjrixw9`
+Snapshot ID: `Zt8KrgAAAABMFq0InVLX+rlsljz1VRV5`

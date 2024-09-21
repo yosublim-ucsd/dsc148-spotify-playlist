@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Pson",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Tiakola",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -394,6 +394,24 @@
       "duration_ms": 207000,
       "name": "Amani Bombe",
       "url": "https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk"
+    },
+    {
+      "album": {
+        "name": "Amapiupiu",
+        "url": "https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Amapiupiu",
+      "url": "https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE"
     },
     {
       "album": {
@@ -3571,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Je la connais (Na Y\u00e9bi Yo)",
+        "url": "https://open.spotify.com/album/4gmaQf9nTAJSzt64Uq2sOR"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "Je la connais (Na Y\u00e9bi Yo)",
+      "url": "https://open.spotify.com/track/0dN5SWsBHb4rGV7yDCuh2t"
+    },
+    {
+      "album": {
         "name": "Je sais faire",
         "url": "https://open.spotify.com/album/65HMSuWazqfmdwXlpUyj1g"
       },
@@ -4220,6 +4256,24 @@
       "duration_ms": 217186,
       "name": "Licolo",
       "url": "https://open.spotify.com/track/4sxulmCPiTVmFuvRfTbMij"
+    },
+    {
+      "album": {
+        "name": "Love Machine, pt. 1",
+        "url": "https://open.spotify.com/album/0ZKtlzCPx0pVK4nCBBU5RJ"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Lifobo",
+      "url": "https://open.spotify.com/track/2DoDYXfl9QQhrWCuJcpSo1"
     },
     {
       "album": {
@@ -5444,7 +5498,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 139222,
       "name": "Motorsport",
       "url": "https://open.spotify.com/track/0dDis2bdAYXAogzrULQx6u"
@@ -6963,6 +7017,32 @@
     },
     {
       "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246978,
+      "name": "PONA NINI",
+      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
+    },
+    {
+      "album": {
         "name": "L\u00e9gende Ed. Diamond",
         "url": "https://open.spotify.com/album/6WLcNTGv7zF3bp03dmg3aP"
       },
@@ -7620,7 +7700,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166774,
       "name": "Sugar daddy",
       "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
@@ -7664,7 +7744,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 221000,
       "name": "T.I.A - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
@@ -8696,7 +8776,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 273133,
       "name": "Yo Pe (Remix)",
       "url": "https://open.spotify.com/track/4VPPV88siS7jGQpAwOkkoP"

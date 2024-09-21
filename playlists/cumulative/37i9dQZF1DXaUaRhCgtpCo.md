@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-156 songs - 8 hr 31 min
+157 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Jabba Flow \- From "Star Wars: The Force Awakens"](https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf) | [Shag Kava](https://open.spotify.com/artist/6FaemkK7TGHziDP6UGijh3) | [Jabba Flow \(From "Star Wars: The Force Awakens"\)](https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna) | 1:38 | 2021-05-14 |  |
 | [Jyn Erso & Hope Suite](https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 5:51 | 2021-05-14 |  |
 | [Kara and Father](https://open.spotify.com/track/5diAxn9AwjFu4xLe8YDXT3) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 3:47 | 2021-10-14 |  |
+| [Kay Vess, The Outlaw](https://open.spotify.com/track/0YhWpeIfuyqHKPt0bwssCR) | [Nick Pingree](https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 3](https://open.spotify.com/album/3vPzpEXIJ7o1Lmgl9LvJY3) | 2:17 | 2024-09-20 |  |
 | [Kylo Ren Arrives at the Battle](https://open.spotify.com/track/4iMmW8NcVFU5ytJkHa6IbA) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:01 | 2021-05-14 |  |
 | [L3 & Millennium Falcon](https://open.spotify.com/track/3eAQQB5gp7ckbsbnbyq7x8) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 3:16 | 2021-05-14 |  |
 | [Leaving Kamino](https://open.spotify.com/track/3vUf87AxnftaJiEYAjUmg2) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch \- Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS) | 2:50 | 2021-08-20 |  |

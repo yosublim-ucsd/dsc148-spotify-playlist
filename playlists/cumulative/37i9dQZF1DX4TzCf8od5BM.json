@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Let's Play! Halloween",
+        "url": "https://open.spotify.com/album/3F6qZTElQKaT2uR8pQTsY9"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57301,
+      "name": "All The Pumpkins on Halloween - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/1qrBZuxWKAbvtxux7DoYkr"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: SuperKitties Su-Purr Edition",
         "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
       },

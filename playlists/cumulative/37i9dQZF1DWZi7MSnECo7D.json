@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Ale Sater",
+  "description": "M\u00fasica brasileira fora da curva. Foto: DAPARTE, Ana Caetano",
   "name": "alt BR",
   "tracks": [
     {
@@ -1538,6 +1538,28 @@
       "duration_ms": 163860,
       "name": "Beijo Roubado em Segredo",
       "url": "https://open.spotify.com/track/1W4xAsOUhLNlfnUjsmKwMR"
+    },
+    {
+      "album": {
+        "name": "Belo Horizonte",
+        "url": "https://open.spotify.com/album/2Gu9UuNap99b2IkZOzehvu"
+      },
+      "artists": [
+        {
+          "name": "Daparte",
+          "url": "https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL"
+        },
+        {
+          "name": "Ana Caetano",
+          "url": "https://open.spotify.com/artist/12zdfTW9H2vtFe0WriVUhG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184799,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/4biV8Kff5Rumi3txnfDpRI"
     },
     {
       "album": {
@@ -4296,7 +4318,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 301491,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/5LLTSKqMVbygdQzOnPCK1s"

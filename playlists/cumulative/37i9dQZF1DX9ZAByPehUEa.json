@@ -800,7 +800,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 229893,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 170357,
       "name": "CHIKI",
       "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
@@ -6843,6 +6843,24 @@
     },
     {
       "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf"
+    },
+    {
+      "album": {
         "name": "Pagaia",
         "url": "https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew"
       },
@@ -7703,6 +7721,32 @@
     },
     {
       "album": {
+        "name": "Secretariat (feat. Shaun J. Wright & Kon)",
+        "url": "https://open.spotify.com/album/0uqwUBeEk4WYoLt5ZJdirW"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Shaun J. Wright",
+          "url": "https://open.spotify.com/artist/31iZW0Zin2Ibzfr1BzXqpJ"
+        },
+        {
+          "name": "Kon",
+          "url": "https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248573,
+      "name": "Secretariat (feat. Shaun J. Wright & Kon)",
+      "url": "https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh"
+    },
+    {
+      "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
       },
@@ -8012,6 +8056,32 @@
       "duration_ms": 195483,
       "name": "Slide",
       "url": "https://open.spotify.com/track/7gZAxiXoVDDEAx9URqEzRB"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/7c3lIXqJlyyV2HQSEbVul5"
+      },
+      "artists": [
+        {
+          "name": "Tollef",
+          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
+        },
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "RVLE",
+          "url": "https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Slowly (feat. RVLE)",
+      "url": "https://open.spotify.com/track/2sJlklZ3wN2Y5dv6aE2JPo"
     },
     {
       "album": {
@@ -9052,7 +9122,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 213578,
       "name": "U Want More",
       "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
@@ -9454,7 +9524,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167906,
       "name": "Without U",
       "url": "https://open.spotify.com/track/1S9e5tJI9K8Qpgrh7MKgnM"

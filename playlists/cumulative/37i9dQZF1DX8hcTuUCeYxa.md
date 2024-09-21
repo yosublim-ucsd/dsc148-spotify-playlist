@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Bon Iver
 
-456 songs - 1 day 1 hr 49 min
+457 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-07-19 |
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-28 | 2024-07-05 |
 | [Fakest Bitch](https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Fakest Bitch](https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti) | 4:19 | 2024-08-08 | 2024-09-06 |
+| [Family of Three](https://open.spotify.com/track/4Vnn1k6Lx8sq8kX3NS4ynq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE), [Rick West](https://open.spotify.com/artist/4dTIbB0OEQb7vl4pRqLxKZ) | [Sun Chaser](https://open.spotify.com/album/4dzigeoYCPHj6xxmTwHJ2k) | 1:28 | 2024-09-19 |  |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-28 | 2024-07-19 |
 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 | 2024-09-19 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 | 2024-08-23 |

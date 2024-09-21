@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-435 songs - 1 day 1 hr 44 min
+437 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 da Manhã](https://open.spotify.com/track/6RFz9gCDHuReBLY2yQNfzO) | [emma's](https://open.spotify.com/artist/3xsjdP29DfhVVr9foYBei2) | [2 da Manhã](https://open.spotify.com/album/0pCcnOLSL2OP6aqsHsZpiQ) | 2:17 | 2022-03-25 | 2022-04-20 |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-08 |  |
 | [3 da Manhã](https://open.spotify.com/track/3NCpBBT9G5eIDQxTRMacBm) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [3 da Manhã](https://open.spotify.com/album/1cmitdTovHw7ONVeZy9KAF) | 3:02 | 2021-12-24 | 2022-07-15 |
-| [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 | 2024-08-30 |  |
+| [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 | 2024-08-30 | 2024-09-21 |
 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 | 2021-12-24 | 2022-07-29 |
 | [A Estrada](https://open.spotify.com/track/1HjKLr16ZhZ79Lh5GnDPZE) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Gaveta](https://open.spotify.com/album/3DDhp8UHXbfqCdlhhaX2KP) | 3:38 | 2022-02-18 | 2022-06-25 |
 | [A Jangada Voltou Só](https://open.spotify.com/track/4VqHrlqwFZc5nxGkVlhvB1) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [A Jangada Voltou Só](https://open.spotify.com/album/3UCO6kzqMxwSMjUVHmG5wM) | 5:30 | 2022-03-25 | 2022-04-21 |
@@ -194,6 +194,7 @@
 | [I Went Hunting](https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2022-11-25 | 2023-08-05 |
 | [Ilustração](https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Ilustração](https://open.spotify.com/album/4b9bgPJYL0keoE67LGYv1g) | 3:47 | 2021-12-24 | 2022-07-28 |
 | [Imaginário](https://open.spotify.com/track/5RsjEJZda5J49PKRxnAi4t) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw) | [Imaginário](https://open.spotify.com/album/6NRYZW2NSJbzycvCi9YKGH) | 3:14 | 2022-03-25 | 2022-04-21 |
+| [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 | 2024-09-20 |  |
 | [INCONSCIENTEMENTE](https://open.spotify.com/track/5KMi5R3gNyYFID5OzHA4iG) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [INCONSCIENTEMENTE](https://open.spotify.com/album/20zy3AllALKXGUvrosORrE) | 2:22 | 2022-04-29 | 2022-07-28 |
 | [itajaí](https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [itajaí](https://open.spotify.com/album/3AYHSnmSBTiVmrx0aSAOwF) | 2:32 | 2021-12-24 | 2022-07-29 |
 | [Japão](https://open.spotify.com/track/2AK1IHG1OarphQqcCp2CXI) | [Lucas Guido](https://open.spotify.com/artist/5pJkGvrkBHgUADZ2f44jP1) | [Japão](https://open.spotify.com/album/3AakEFLFU3Fau6LTraQ2G1) | 3:00 | 2022-03-25 | 2022-04-25 |
@@ -203,6 +204,7 @@
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-02 |  |
 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 | 2022-07-04 |  |
 | [Kids](https://open.spotify.com/track/3Dy8QVSgVB3qNw9Xtc2Jjw) | [Lady Danville](https://open.spotify.com/artist/4vzLZN7MD9TVnsLK7bR5oF) | [Kids \- Single](https://open.spotify.com/album/43dppTgh3gnnO5oFOspAyv) | 3:55 | 2022-03-25 | 2022-04-04 |
+| [KINTSUGI](https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [KINTSUGI](https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t) | 4:17 | 2024-09-20 |  |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2022-03-25 | 2023-01-28 |
 | [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 | 2023-01-13 | 2024-04-19 |
 | [Kudra \(feat\. Amora\)](https://open.spotify.com/track/3808CHJaPqPpBP2VCamiTN) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Amora](https://open.spotify.com/artist/5XluTD7tExrpBELm0mI5Lc) | [Kudra](https://open.spotify.com/album/4yfu7IM77tu5OTrayc7E3w) | 4:47 | 2021-12-24 | 2022-07-29 |
@@ -373,7 +375,7 @@
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-30 | 2024-07-03 |
 | [Something to Believe In \- Live Acoustic](https://open.spotify.com/track/6j0OqIhUxvOgGPTXxNj124) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Something to Believe In \(Live Acoustic\)](https://open.spotify.com/album/7jVFivHz6EeB2Ywx9wUG6j) | 3:44 | 2022-03-25 | 2022-04-21 |
 | [Space & Time](https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd) | [Rafael Witt](https://open.spotify.com/artist/3MKdDfOZF0Simyf5JWXpg3) | [Space & Time](https://open.spotify.com/album/6A8cfnHoYihiXnPNdheurz) | 4:16 | 2021-12-24 | 2022-07-27 |
-| [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 |  |
+| [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 | 2024-09-21 |
 | [Stars](https://open.spotify.com/track/0IR7vgkswrIXuFNEyinMoH) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC), [Clara Gurjão](https://open.spotify.com/artist/2crvpY41nDEZIQp3Po3j4H) | [Stars](https://open.spotify.com/album/42wFYqAd8stbXgHy388s8t) | 4:02 | 2022-03-25 | 2022-04-19 |
 | [Stay Alive](https://open.spotify.com/track/4MUvy2JhahEbfpWuGvhqlz) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/7fddgN7eLxI79dLIk9qlLh) | 3:01 | 2022-03-25 | 2022-04-15 |
 | [Still What I'm Looking For](https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Still What I'm Looking For](https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE) | 3:07 | 2024-07-12 |  |

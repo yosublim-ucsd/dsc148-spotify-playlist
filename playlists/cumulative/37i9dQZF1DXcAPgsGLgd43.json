@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
+    },
+    {
+      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -566,7 +588,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 175537,
       "name": "Bala (feat. Flori del Pino)",
       "url": "https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD"
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150967,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
@@ -2626,7 +2648,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199133,
       "name": "Fan\u00e1tico",
       "url": "https://open.spotify.com/track/0zjlFMd5NRR1XrOwP2ZTtQ"
@@ -3196,6 +3218,24 @@
       "duration_ms": 199424,
       "name": "La Chica",
       "url": "https://open.spotify.com/track/5mtKD2WWmYe8mQm2H4kNrb"
+    },
+    {
+      "album": {
+        "name": "La Cumbia EP",
+        "url": "https://open.spotify.com/album/26c1NAnQWJtGMzREcD5PsE"
+      },
+      "artists": [
+        {
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180988,
+      "name": "La Cumbia",
+      "url": "https://open.spotify.com/track/1kqIoDHvjRijxRdCFNFVwM"
     },
     {
       "album": {
@@ -5452,6 +5492,28 @@
       "duration_ms": 205440,
       "name": "Si Tu Sabe",
       "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
+    },
+    {
+      "album": {
+        "name": "Sima Agua (feat. Mayra Andrade)",
+        "url": "https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Sima Agua (feat. Mayra Andrade)",
+      "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
     },
     {
       "album": {

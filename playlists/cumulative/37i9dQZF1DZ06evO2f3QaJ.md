@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 25 min
+74 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,9 @@
 | [Bom Senso](https://open.spotify.com/track/5BOMNZGF1d9KPpxt3jUaCE) | [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Otra Fita](https://open.spotify.com/album/1n5u2u4AjMFS06YyZIBNSs) | 3:04 | 2023-09-18 |  |
 | [Ciclos](https://open.spotify.com/track/6n1f4TRCr1G8OzgoZJDAqH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Cachola](https://open.spotify.com/artist/7J3EYB97apm5pjDU6kzife) | [Ciclos](https://open.spotify.com/album/6oX71svzC11H8IS3cgvH51) | 2:48 | 2023-09-18 | 2023-12-30 |
 | [DCAC \- de César a Cristo](https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [DCAC \- de César a Cristo](https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl) | 5:38 | 2023-11-10 |  |
-| [De Longe](https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Shuna](https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:21 | 2024-07-19 |  |
+| [De Longe](https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Shuna](https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:21 | 2024-07-19 | 2024-09-21 |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-09-18 | 2024-02-24 |
-| [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 | 2024-09-16 |
+| [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 |  |
 | [Faça a Coisa Certa](https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:14 | 2023-09-18 |  |
 | [Febre](https://open.spotify.com/track/6S30GnSKCDEQ7uC7Hy40zo) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:17 | 2023-09-18 | 2024-08-10 |
 | [Flor de Oxalá](https://open.spotify.com/track/6trqX1VGaQsrw0usSb81ky) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Flor de Oxalá](https://open.spotify.com/album/7ezWRaB3cnEXXJQ5CjqrzZ) | 2:55 | 2023-09-18 | 2024-02-26 |
@@ -81,5 +81,6 @@
 | [Vibranium](https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nabil](https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Vibranium](https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w) | 4:34 | 2023-09-18 |  |
 | [Vista](https://open.spotify.com/track/56oUBxmhZ7qREYWrFUOao7) | [Julie Schiavon](https://open.spotify.com/artist/1snAs6XuIZv9E3H2NA3ZxS), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [djmichacnr](https://open.spotify.com/artist/580g4riq4xAXx75aOlkgKD) | [Vista](https://open.spotify.com/album/6LYU3W3zDK7hKaq8W2b6JV) | 3:17 | 2024-04-25 | 2024-04-27 |
 | [Zara](https://open.spotify.com/track/2tcjnmQJAhx3uyObrami7w) | [Melvin Santhana](https://open.spotify.com/artist/5x9bR21HvAYoXdqby0L73G), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Melifona](https://open.spotify.com/artist/3Qs2ORfABK6Fmm64zdJ1lU) | [Zara](https://open.spotify.com/album/2Qai1BNR4Xn6Hl9NuA66wD) | 2:47 | 2024-08-03 | 2024-08-30 |
+| [Zara](https://open.spotify.com/track/479l1cHLoJiQhJZWzkfCTE) | [Melvin Santhana](https://open.spotify.com/artist/5x9bR21HvAYoXdqby0L73G), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Melifona](https://open.spotify.com/artist/3Qs2ORfABK6Fmm64zdJ1lU) | [Cor & Tom](https://open.spotify.com/album/1JLvhSfIEK3XDUBUeZm0eR) | 2:47 | 2024-09-21 |  |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

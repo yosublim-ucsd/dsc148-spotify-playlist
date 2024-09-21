@@ -5405,6 +5405,32 @@
     },
     {
       "album": {
+        "name": "Maniaka",
+        "url": "https://open.spotify.com/album/3uyEAObA05tQximOWGTpOQ"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Dayner \"El Especialista\"",
+          "url": "https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "Maniaka",
+      "url": "https://open.spotify.com/track/4V3Rey40fJS8JowOeQmpQi"
+    },
+    {
+      "album": {
         "name": "MANIAKA",
         "url": "https://open.spotify.com/album/4qS3CNS00fkzgzW39Pfy05"
       },
@@ -5812,6 +5838,24 @@
       "duration_ms": 183895,
       "name": "Mexicana (feat. El Malilla)",
       "url": "https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8"
+    },
+    {
+      "album": {
+        "name": "UNDERWATER",
+        "url": "https://open.spotify.com/album/6Q6k7LvauK7jFZNe3hnRqB"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162812,
+      "name": "MI AMIGA ES UNA P",
+      "url": "https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P"
     },
     {
       "album": {
@@ -7586,7 +7630,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 154128,
       "name": "Pin Pan (feat. DJ Goldy)",
       "url": "https://open.spotify.com/track/6ptetmMKbYWtd4y62xyeGC"
@@ -9868,7 +9912,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 203529,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Plastic Plastic, Whal & Dolph
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Famoso
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,411 likes - 55 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,422 likes - 55 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 |
-| 2 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
-| 3 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 |
+| 1 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
+| 2 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 |
+| 3 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
 | 4 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 5 | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/track/7Ktt0XzFxAkiix4uUsmmgj) | [uptrend](https://open.spotify.com/artist/3NrXEEQS9rT3suVMTmZTYu) | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/album/6msdO5alw939U94TIqyU4f) | 4:12 |
+| 5 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 |
 | 6 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
 | 7 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [C h A 0 '' d i N g "](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 |
 | 8 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 |
 | 55 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 |
 
-Snapshot ID: `ZuQU0wAAAACbUyVfGKKNCMyhedy8+a61`
+Snapshot ID: `Zu1M1AAAAADUPV+gPcIJ2oYs1YSazgBs`

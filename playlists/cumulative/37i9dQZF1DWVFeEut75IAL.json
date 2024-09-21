@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+        "url": "https://open.spotify.com/album/3y59zcMN0zoBuTSpQEyLTT"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224422,
+      "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+      "url": "https://open.spotify.com/track/2aWm6k9oNgtqJVq61KlANg"
+    },
+    {
+      "album": {
         "name": "Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano",
         "url": "https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM"
       },
@@ -3454,6 +3472,28 @@
       "duration_ms": 112226,
       "name": "The Well-Tempered Clavier, Book 1: Prelude No. 1 in C Major, BWV 846/1",
       "url": "https://open.spotify.com/track/2w2FzZKSwudBZjOsCei9Qz"
+    },
+    {
+      "album": {
+        "name": "Newman: Theme (From \"American Beauty\")",
+        "url": "https://open.spotify.com/album/2BB8KvmXDHz69BVSpFI6Pb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231944,
+      "name": "Theme - From \"American Beauty\"",
+      "url": "https://open.spotify.com/track/0YjaC9peYewdRxCTCNd3hX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-11",
-  "description": "Prepare for the upcoming world tour by listening to ZEROBASEONE's best songs! (\uc81c\ub85c\ubca0\uc774\uc2a4\uc6d0\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \uc6d4\ub4dc \ud22c\uc5b4\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Listen to the setlist of the Zero Base One World Tour and relive those emotions! (\uc81c\ub85c\ubca0\uc774\uc2a4\uc6d0 \uc6d4\ub4dc\ud22c\uc5b4\uc758 \uc14b\ub9ac\uc2a4\ud2b8\ub97c \uac10\uc0c1\ud558\uba70 \uadf8 \ub54c\uc758 \uac10\ub3d9\uc744 \ub2e4\uc2dc \ub290\uaef4\ubcf4\uc138\uc694!)",
   "name": "ZEROBASEONE WORLD TOUR [TIMELESS WORLD]",
   "tracks": [
     {
@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Dear ECLIPSE",
+      "url": "https://open.spotify.com/track/2RFKh6vVYQuUtG5iIaIocR"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "En Butter",
+          "url": "https://open.spotify.com/artist/3X6XIt8zNXvrNzxb1R8TW5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "En Garde",
+      "url": "https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3"
+    },
+    {
+      "album": {
         "name": "CINEMA PARADISE",
         "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
       },
@@ -70,7 +106,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 156681,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6p3DzMUqCSaxl3mvtxBbiz"
@@ -92,6 +128,24 @@
       "duration_ms": 176191,
       "name": "Feel the POP",
       "url": "https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG"
+    },
+    {
+      "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179044,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3WQYdKHLbXQGitt7exmMXW"
     },
     {
       "album": {
@@ -124,10 +178,28 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 213960,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/3IC7avdtSBvXxGc9sM9ntd"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - Here I Am",
+        "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q"
     },
     {
       "album": {
@@ -146,6 +218,24 @@
       "duration_ms": 7340,
       "name": "Hi ZEROSE",
       "url": "https://open.spotify.com/track/19Gd56Bm7BkQWXtGuDNuXf"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - FINAL TOP9 BATTLE",
+        "url": "https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226840,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/4eSaL5oRwSHcMGvmIrgYzP"
     },
     {
       "album": {
@@ -185,6 +275,24 @@
     },
     {
       "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "Kidz Zone",
+      "url": "https://open.spotify.com/track/5Nj2wlNSc9H9L7NoDxPfQg"
+    },
+    {
+      "album": {
         "name": "CINEMA PARADISE",
         "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
       },
@@ -214,7 +322,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173029,
       "name": "MELTING POINT",
       "url": "https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU"
@@ -302,12 +410,48 @@
           "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "date_added": "2024-09-09",
+      "date_added": "2024-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212928,
+      "name": "New Kidz on the Block",
+      "url": "https://open.spotify.com/track/4i7iGaXbW1dKBZD5tZuvZt"
+    },
+    {
+      "album": {
+        "name": "YOUTH IN THE SHADE",
+        "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-09-21",
       "duration_ms": 177858,
       "name": "Our Season",
       "url": "https://open.spotify.com/track/5NSfzS7hcpm3qPphy5o07V"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Overdose",
+          "url": "https://open.spotify.com/artist/32jdgEsyvdXqUoReMyR0gl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
     },
     {
       "album": {
@@ -326,6 +470,42 @@
       "duration_ms": 180402,
       "name": "Road Movie",
       "url": "https://open.spotify.com/track/4R4tnT0Av8hOulD9Kjo8pd"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Say Yes!",
+          "url": "https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC"
+    },
+    {
+      "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171374,
+      "name": "Solar POWER",
+      "url": "https://open.spotify.com/track/7jM327zCfEdVid194Rn8Sk"
     },
     {
       "album": {
@@ -358,10 +538,46 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191018,
       "name": "SWEAT",
       "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
+    },
+    {
+      "album": {
+        "name": "You had me at HELLO",
+        "url": "https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/4Q9JSHmd4qhHTOzZMnyaCm"
+    },
+    {
+      "album": {
+        "name": "BOYS PLANET - ARTIST BATTLE",
+        "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
+      },
+      "artists": [
+        {
+          "name": "Gguggugi",
+          "url": "https://open.spotify.com/artist/0SLGKxtZbiQFfJGtJ8TDTo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE"
     },
     {
       "album": {
@@ -394,7 +610,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160105,
       "name": "The Sea - ZB1 Remake",
       "url": "https://open.spotify.com/track/10WDNCAnPkUUZhAZneTWNh"

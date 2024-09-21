@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f"
+    },
+    {
+      "album": {
         "name": "I Am the President",
         "url": "https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 227500,
       "name": "Dear X",
       "url": "https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 237400,
       "name": "My Vow",
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
@@ -2892,6 +2910,24 @@
       "duration_ms": 264333,
       "name": "Nikupende",
       "url": "https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa"
+    },
+    {
+      "album": {
+        "name": "Nimekoma",
+        "url": "https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM"
+      },
+      "artists": [
+        {
+          "name": "Centano",
+          "url": "https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "Nimekoma",
+      "url": "https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo"
     },
     {
       "album": {
@@ -3902,6 +3938,24 @@
       "duration_ms": 118526,
       "name": "Till I Die",
       "url": "https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR"
+    },
+    {
+      "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/0PenAHs174BfKImPfisGti"
+      },
+      "artists": [
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186470,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn"
     },
     {
       "album": {

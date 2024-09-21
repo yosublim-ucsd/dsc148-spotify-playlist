@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, emo, post-hardcore, alt & more. Cover: State Champs",
+  "description": "pop punk, emo, post-hardcore, alt & more. Cover: Winona Fighter",
   "name": "The Scene",
   "tracks": [
     {
@@ -7661,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "Warmer Weather",
+        "url": "https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Fly Move (The Whole Time)",
+      "url": "https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs"
+    },
+    {
+      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
       },
@@ -9145,6 +9163,28 @@
     },
     {
       "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -9232,7 +9272,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 175937,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
@@ -10632,7 +10672,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160683,
       "name": "I'M IN THE MARKET TO PLEASE NO ONE",
       "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
@@ -12303,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "Light Blue",
+        "url": "https://open.spotify.com/album/2aVOJTBuaBYiw6D81TPnQr"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/7jsx6taYSIBP0Oy5mBXPqh"
+    },
+    {
+      "album": {
         "name": "Light Me Up",
         "url": "https://open.spotify.com/album/1ekVC8kUU2NxTxYo2kA3JU"
       },
@@ -12726,7 +12784,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
@@ -12900,7 +12958,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 176495,
       "name": "LOVE U ANYWAY",
       "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
@@ -15822,7 +15880,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 193976,
       "name": "Permanent Rebellion",
       "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
@@ -18401,6 +18459,24 @@
     },
     {
       "album": {
+        "name": "Slide 2 Me",
+        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Slide 2 Me",
+      "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
+    },
+    {
+      "album": {
         "name": "Sliding Doors",
         "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
       },
@@ -18448,7 +18524,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 212034,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
@@ -19490,7 +19566,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 172478,
       "name": "Stupefied",
       "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
@@ -19710,6 +19786,24 @@
       "duration_ms": 201600,
       "name": "Swear Jar",
       "url": "https://open.spotify.com/track/3sS8rnl4PiCn1VnM556GLg"
+    },
+    {
+      "album": {
+        "name": "Swear To God That I'm (FINE)",
+        "url": "https://open.spotify.com/album/2gdsdtTVmE82lRhrZefClz"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138120,
+      "name": "Swear To God That I'm (FINE)",
+      "url": "https://open.spotify.com/track/4f4nkhurM65iKrNRHw3r2z"
     },
     {
       "album": {
@@ -22488,7 +22582,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
@@ -22532,6 +22626,28 @@
       "duration_ms": 198788,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/71idbHTgcRCXijxQlfVsTX"
+    },
+    {
+      "album": {
+        "name": "Watch the Fire",
+        "url": "https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        },
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Watch the Fire",
+      "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
     },
     {
       "album": {

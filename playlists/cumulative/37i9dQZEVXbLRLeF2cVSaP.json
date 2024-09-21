@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/3JlIUrzdTsW3tpFiwYOpJJ"
+    },
+    {
+      "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
@@ -665,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Ice + Alabaster",
+      "url": "https://open.spotify.com/track/01OCztdBtk4POwQcqV1LrZ"
+    },
+    {
+      "album": {
         "name": "juice",
         "url": "https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV"
       },
@@ -904,7 +948,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169846,
       "name": "November",
       "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
@@ -926,6 +970,28 @@
       "duration_ms": 152500,
       "name": "Ome Robert",
       "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150441,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4gypp6InByEhUi7ssgWtAx"
     },
     {
       "album": {
@@ -1056,7 +1122,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -1744,7 +1810,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -1842,7 +1908,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
@@ -2110,7 +2176,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174842,
       "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
       "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"
@@ -3290,7 +3356,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138512,
       "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0435 \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a"
@@ -3346,6 +3412,28 @@
       "duration_ms": 161142,
       "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
       "url": "https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115135,
+      "name": "\u0420\u0438\u043d\u043e\u043f\u043b\u0430\u0441\u0442\u0438\u043a\u0430 - Surgery",
+      "url": "https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK"
     },
     {
       "album": {
@@ -3520,7 +3608,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188240,
       "name": "\u0421\u0442\u0430\u043d\u044c",
       "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"
@@ -4056,6 +4144,24 @@
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
+    },
+    {
+      "album": {
+        "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC"
+      },
+      "artists": [
+        {
+          "name": "Car-Man",
+          "url": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
+      "url": "https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V"
     },
     {
       "album": {

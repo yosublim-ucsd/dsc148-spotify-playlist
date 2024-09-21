@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-161 songs - 9 hr 32 min
+162 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 |  |
 | [GALAXER](https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [GALAXER](https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI) | 3:09 | 2024-06-28 | 2024-09-20 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-28 | 2024-08-30 |
+| [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 |  |
 | [Havet](https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD) | [Marcus Berggren](https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv) | [Havet](https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo) | 4:22 | 2024-08-15 |  |
 | [Hayaku](https://open.spotify.com/track/4RAKxRPufWs8zWDsjslNBP) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd), [Elz](https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY) | [Hayaku](https://open.spotify.com/album/2LczPni9Kre7g5291eA0gN) | 3:47 | 2024-06-28 | 2024-08-30 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-28 |  |
@@ -156,7 +157,7 @@
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-28 | 2024-08-30 |
 | [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-28 | 2024-09-14 |
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-28 |  |
-| [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 |  |
+| [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 | 2024-09-21 |
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 |  |
 | [Tu Mirada](https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Tu Mirada](https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7) | 3:15 | 2024-08-15 |  |
 | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/track/0JcirT3JdGx29UAECyRhVV) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF) | 2:38 | 2024-06-28 | 2024-08-23 |

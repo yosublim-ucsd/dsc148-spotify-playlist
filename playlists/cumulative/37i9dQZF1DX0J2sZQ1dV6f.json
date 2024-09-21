@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Alex Favela",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Ganggy, Victor Medivil & El Padrinito Toys",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -3251,6 +3251,28 @@
     },
     {
       "album": {
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+    },
+    {
+      "album": {
         "name": "En La Intimidad",
         "url": "https://open.spotify.com/album/0O7dhX2Oj4DK7RTQQX1GsL"
       },
@@ -5135,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "La Ni\u00f1a II",
+        "url": "https://open.spotify.com/album/2aFDwJXGlSJhHS6SzHOik9"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165731,
+      "name": "La Ni\u00f1a II",
+      "url": "https://open.spotify.com/track/6Wjc5mi3MN9IAJeOcImYl3"
+    },
+    {
+      "album": {
         "name": "La Plata Los Culos",
         "url": "https://open.spotify.com/album/58RdZIXAYJODfBjh1QwNXk"
       },
@@ -5616,6 +5656,32 @@
       "duration_ms": 132355,
       "name": "Los Malacostumbr\u00e9",
       "url": "https://open.spotify.com/track/6Jrp7alMvsw2Nj80XpIGba"
+    },
+    {
+      "album": {
+        "name": "LVL",
+        "url": "https://open.spotify.com/album/0Z5JUq1Ot8WQEPSYI0hk8O"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "LVL",
+      "url": "https://open.spotify.com/track/4DrtWtE0ljRCFVB5cMZhBb"
     },
     {
       "album": {

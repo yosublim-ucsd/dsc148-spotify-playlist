@@ -2,7 +2,7 @@
 
 ### [This Is ROSALÍA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lAAFJ)
 
-> This is ROSALÍA\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is ROSALÍA\. Los temas esenciales, todos en una lista.
 
 56 songs - 2 hr 40 min
 

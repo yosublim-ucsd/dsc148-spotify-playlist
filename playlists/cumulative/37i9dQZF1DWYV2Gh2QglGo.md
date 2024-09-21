@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Sacha
+> The home of Canadian country music\. Cover: Josh Ross
 
-121 songs - 6 hr 29 min
+122 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 | 2024-08-31 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 |  |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 |  |
+| [Nashville, Nashville](https://open.spotify.com/track/4mMW9MinyGBln3OIGspXRr) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Nashville, Nashville](https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH) | 4:08 | 2024-09-20 |  |
 | [Never Leave](https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud) | [Chase Heaslip](https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr) | [Never Leave](https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1) | 3:33 | 2024-07-12 | 2024-09-14 |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-06-28 | 2024-08-31 |
 | [New Paint](https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Westerly](https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj) | 3:13 | 2024-07-12 |  |
@@ -91,7 +92,7 @@
 | [Pure Country](https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Pure Country](https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8) | 2:51 | 2024-06-28 | 2024-08-31 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-28 | 2024-08-31 |
 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-07-26 |  |
-| [Race To The Bottom](https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Race To The Bottom](https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up) | 2:30 | 2024-08-02 |  |
+| [Race To The Bottom](https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Race To The Bottom](https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up) | 2:30 | 2024-08-02 | 2024-09-21 |
 | [Redneck Rehab](https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Redneck Rehab](https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D) | 3:09 | 2024-06-28 | 2024-08-03 |
 | [Right Around Sundown](https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Right Around Sundown](https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV) | 2:41 | 2024-06-28 |  |
 | [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 | 2024-08-24 |

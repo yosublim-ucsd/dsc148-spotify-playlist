@@ -4,14 +4,14 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-97 songs - 5 hr 57 min
+98 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2021-02-17 |  |
 | [\(You Keep Me\) Hangin' On](https://open.spotify.com/track/5wqVSRl6jmST73Qs5UWGYG) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:44 | 2021-02-17 |  |
 | [After Midnight](https://open.spotify.com/track/1PC5GV3OaoXx5em8ttQOMI) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 2:23 | 2021-02-17 |  |
-| [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 |  |
+| [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 | 2024-09-21 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2021-02-17 |  |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2021-02-17 |  |
 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 | 2021-02-17 |  |
@@ -20,6 +20,7 @@
 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/1uUQSqOtwBUWuyyNYmlQxi) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 4:24 | 2021-02-17 | 2024-04-19 |
 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/6TX6ERqjxAFMaRGMmbdhXs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 4:24 | 2021-02-17 |  |
 | [Call to Arms](https://open.spotify.com/track/4m1opmaYT9zk5OP7IHUb9R) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:29 | 2021-02-17 |  |
+| [Can I Get An Amen](https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Can I Get An Amen](https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N) | 3:40 | 2024-09-20 |  |
 | [Can't Nobody Love You](https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:33 | 2021-02-17 |  |
 | [Cry](https://open.spotify.com/track/3wxJXJsgEr1hBV4ej5sUCY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/0KcAmKDwqxuKpL8o3jEyva) | 2:48 | 2023-05-26 | 2024-04-19 |
 | [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 | 2022-08-26 |  |
@@ -79,7 +80,7 @@
 | [Sun Come Ease Me In](https://open.spotify.com/track/19IrqW4afAqPLpfpPXF3qV) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 2:55 | 2021-02-17 | 2022-09-15 |
 | [Sun Come Ease Me In](https://open.spotify.com/track/2NmXILVmHTxxBGXy2W1VgM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 2:55 | 2021-02-17 | 2024-04-19 |
 | [Sunday Morning Coming Down](https://open.spotify.com/track/0gSc5Vo4tczXkHb2V208jz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 5:19 | 2021-02-17 |  |
-| [Sunday's Children](https://open.spotify.com/track/6B29urREjvzoQgCzSbgnQy) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [White Noise / White Lines](https://open.spotify.com/album/19aVoxGenyWL3zULEefF9a) | 3:30 | 2021-02-17 |  |
+| [Sunday's Children](https://open.spotify.com/track/6B29urREjvzoQgCzSbgnQy) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [White Noise / White Lines](https://open.spotify.com/album/19aVoxGenyWL3zULEefF9a) | 3:30 | 2021-02-17 | 2024-09-21 |
 | [Take These Chains From My Heart](https://open.spotify.com/track/3FQWctzZxGRaIbzX6YDNPB) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 2:56 | 2021-02-17 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2021-02-17 |  |
 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 | 2021-02-17 |  |

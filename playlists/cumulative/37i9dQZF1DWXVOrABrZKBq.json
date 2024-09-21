@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
+    },
+    {
+      "album": {
         "name": "Pourvu qu'il pleuve",
         "url": "https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8"
       },
@@ -3348,7 +3374,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152727,
       "name": "Sens interdit (feat. Ninho)",
       "url": "https://open.spotify.com/track/0SCdkVwfYVHT0OwHIpePdf"

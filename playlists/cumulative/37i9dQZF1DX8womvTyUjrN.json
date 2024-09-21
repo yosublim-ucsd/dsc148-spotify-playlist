@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 163928,
       "name": "biensinm\u00ed",
       "url": "https://open.spotify.com/track/7vfFxwfgVZF2zGwETvMLn8"
@@ -5193,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Francotirador",
+        "url": "https://open.spotify.com/album/1Pen9l4kglBO8TIn1kwarb"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "Francotirador",
+      "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
+    },
+    {
+      "album": {
         "name": "Freno",
         "url": "https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd"
       },
@@ -5657,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "haz lo que quieras conmigo",
+        "url": "https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208603,
+      "name": "haz lo que quieras conmigo",
+      "url": "https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9"
+    },
+    {
+      "album": {
         "name": "Hechizado",
         "url": "https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78"
       },
@@ -5730,7 +5766,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146165,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH"
@@ -7386,7 +7422,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 195862,
       "name": "Luna mar",
       "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
@@ -7480,7 +7516,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 217586,
       "name": "MALLORCA",
       "url": "https://open.spotify.com/track/4WmmHZjvXV9H0kjKawXVum"
@@ -7586,7 +7622,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 151105,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03"
@@ -7808,6 +7844,28 @@
       "duration_ms": 202250,
       "name": "Me He Pillao x Ti",
       "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
+    },
+    {
+      "album": {
+        "name": "me late",
+        "url": "https://open.spotify.com/album/6Bynn9N2B48mpY70TEV4lU"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "me late",
+      "url": "https://open.spotify.com/track/6yvC6eDToeKUnrWwl0JU46"
     },
     {
       "album": {
@@ -8044,7 +8102,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164565,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
@@ -8566,7 +8624,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146000,
       "name": "Mr. Dalaba \u5927\u5587\u53ed",
       "url": "https://open.spotify.com/track/2VIonqUEKrsSGkm75mYSsm"
@@ -9780,7 +9838,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 113560,
       "name": "ojitos",
       "url": "https://open.spotify.com/track/5IH0Dy9tmUQlfVdpu1XR1D"
@@ -10520,7 +10578,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 189626,
       "name": "playa rinc\u00f3n",
       "url": "https://open.spotify.com/track/2G44TDemMwipPekDCHOVz5"
@@ -12833,6 +12891,24 @@
     },
     {
       "album": {
+        "name": "Te Hice Un Reggae",
+        "url": "https://open.spotify.com/album/6vfx7UDOvo3Smffaygj88x"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Te Hice Un Reggae",
+      "url": "https://open.spotify.com/track/55pb3ivPdoG9pk3MY3jQDy"
+    },
+    {
+      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -14010,7 +14086,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 176470,
       "name": "Ve y Diles V2 - Remix",
       "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
@@ -14246,6 +14322,24 @@
       "duration_ms": 201887,
       "name": "vuelve",
       "url": "https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP"
+    },
+    {
+      "album": {
+        "name": "Vuelvo a ser",
+        "url": "https://open.spotify.com/album/3Ze9vfK4F0H2SaLCUknEyH"
+      },
+      "artists": [
+        {
+          "name": "Grecia Vallejo",
+          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163550,
+      "name": "Vuelvo a ser",
+      "url": "https://open.spotify.com/track/6qbqw8UEeW7uASjgqZ71B7"
     },
     {
       "album": {

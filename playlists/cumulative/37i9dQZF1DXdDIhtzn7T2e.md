@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-93 songs - 5 hr 43 min
+96 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Time High](https://open.spotify.com/track/3TEbThqomZVo8Fpe5TiWfW) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:52 | 2021-04-20 |  |
 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 | 2023-08-21 |
 | [Boys From Oklahoma](https://open.spotify.com/track/3R2TX8QbAKYE6ldlrnirrY) | [Boys From Oklahoma](https://open.spotify.com/artist/71l8QhJo5TLQzFbGJursbf) | [Outlaw Trails](https://open.spotify.com/album/3xB5EwbkzW4gH1FlHnouQP) | 5:01 | 2021-04-20 | 2023-08-21 |
+| [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-09-20 |  |
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2021-04-20 |  |
 | [Daddy's Weed](https://open.spotify.com/track/2ecckyK40HInSrKyGwRWNj) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [Daddy's Weed](https://open.spotify.com/album/4WeriBjfXOyIw7k4gAzmgz) | 4:01 | 2023-03-03 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 |  |
@@ -34,6 +35,7 @@
 | [High Feeling](https://open.spotify.com/track/4wqi04nuwUIzG5zXxrUdmD) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [High Feeling](https://open.spotify.com/album/5sS58KZBYfNxFHQVeRUH41) | 2:57 | 2022-09-23 | 2022-11-21 |
 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 | 2022-09-23 | 2024-04-19 |
 | [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 | 2022-11-18 |  |
+| [High Road](https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [High Road](https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly) | 4:19 | 2024-09-20 |  |
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/3Q0sFo2GJdSp3K4E1N7WEc) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/0JNnoUpkLCLzdI9pIfWfQi) | 5:48 | 2023-04-20 | 2024-04-19 |
@@ -72,6 +74,7 @@
 | [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 | 2024-03-29 |  |
 | [Smoke It \- Demo](https://open.spotify.com/track/5nNvU45Ngzvm29gNChh7mq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Smoke It \(Demo\)](https://open.spotify.com/album/3JLtWB0tw1aMnqO9zaMtaY) | 3:03 | 2022-09-02 |  |
 | [Smokin' A Doobie](https://open.spotify.com/track/6tzknxnekWR1cs7aT165Ow) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:55 | 2022-09-02 |  |
+| [Sober](https://open.spotify.com/track/79mK0g0E4VxwY8MroggugG) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Sober](https://open.spotify.com/album/1RiA5Wa5zMTNkUhFhkEl51) | 4:57 | 2024-09-20 |  |
 | [Stoned At The Jukebox](https://open.spotify.com/track/4LzwAHl0qQJkfECwhmwj3Y) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Lone Wolf](https://open.spotify.com/album/67FryHZj95IDkBAanbBMFc) | 2:59 | 2021-04-20 |  |
 | [Stoned In Traffic](https://open.spotify.com/track/1kQfN9SZbv6jvgfAV4LjVD) | [Porter and The Bluebonnet Rattlesnakes](https://open.spotify.com/artist/2E99cSqPWtmAFiuzWTE5HQ) | [Don't Go Baby It's Gonna Get Weird Without You](https://open.spotify.com/album/2TIA1N6WhgzAY3eRWpfmCF) | 2:48 | 2021-11-26 | 2023-08-21 |
 | [Stop Drop and Roll One](https://open.spotify.com/track/2Je5HiZUABcRsPV6DQwhph) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:02 | 2021-04-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,930 likes - 131 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,931 likes - 131 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

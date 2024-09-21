@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 230170,
+  "num_followers": 230228,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "The Star Compass",
-      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Milliseconds",
         "url": "https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 177000,
       "name": "Milliseconds",
       "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "The Star Compass",
+      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -655,22 +655,6 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
-    },
-    {
-      "added_at": "2023-04-15 02:42:19",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 511951,
-      "name": "Lotus Light",
-      "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -735,6 +719,22 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2023-04-15 02:42:19",
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 511951,
+      "name": "Lotus Light",
+      "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
-      "added_at": "2023-06-02 00:27:20",
-      "album": {
-        "name": "Common Land",
-        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
-      },
-      "artists": [
-        {
-          "name": "James Holden",
-          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
-        }
-      ],
-      "duration_ms": 321482,
-      "name": "Common Land",
-      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Onism",
@@ -927,6 +911,22 @@
       "duration_ms": 198881,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
+    },
+    {
+      "added_at": "2023-06-02 00:27:20",
+      "album": {
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+      },
+      "artists": [
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Blinking/Aubades",
         "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 194000,
       "name": "The Pier",
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Vril & R\u00f8dh\u00e5d Presents Out Of Place Artefacts",
         "url": "https://open.spotify.com/album/4eVEuSJZiFT5bIvkHzS78w"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 350752,
       "name": "APOPHENIA",
       "url": "https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
     },
     {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
       "added_at": "2023-02-16 00:21:45",
       "album": {
         "name": "I Can't Die as Well",
@@ -1231,6 +1215,22 @@
       "duration_ms": 145774,
       "name": "I Can't Die as Well",
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
+    },
+    {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
-      },
-      "artists": [
-        {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
-        }
-      ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
-    },
-    {
       "added_at": "2023-05-24 01:46:16",
       "album": {
         "name": "Uncanny Otion",
@@ -1355,6 +1339,22 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+      },
+      "artists": [
+        {
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+        }
+      ],
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2022-08-24 01:27:39",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "R\u00f6schen",
-        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 199455,
-      "name": "R\u00f6schen - Edit",
-      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
-    },
-    {
       "added_at": "2022-01-12 18:40:19",
       "album": {
         "name": "E2-XO",
@@ -1437,6 +1421,22 @@
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "R\u00f6schen",
+        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 199455,
+      "name": "R\u00f6schen - Edit",
+      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
+    },
+    {
       "added_at": "2024-05-08 03:01:37",
       "album": {
         "name": "Derrwut",
@@ -1451,22 +1451,6 @@
       "duration_ms": 161052,
       "name": "Derrwut",
       "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2024-02-08 23:12:47",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Nightwidth",
-        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
-      },
-      "artists": [
-        {
-          "name": "Anders Ilar",
-          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
-        }
-      ],
-      "duration_ms": 439786,
-      "name": "Riding Metal Mosquitos",
-      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1535,6 +1519,22 @@
       "duration_ms": 208375,
       "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Nightwidth",
+        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
+      },
+      "artists": [
+        {
+          "name": "Anders Ilar",
+          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Riding Metal Mosquitos",
+      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
       "added_at": "2022-08-03 02:50:08",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
-      "added_at": "2022-11-09 13:54:27",
-      "album": {
-        "name": "sssssmilinggggg",
-        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
-      },
-      "artists": [
-        {
-          "name": "Kaho Matsui",
-          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "sssssmilinggggg",
-      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Obit For Sunshade",
@@ -1599,22 +1583,6 @@
       "duration_ms": 171020,
       "name": "Resounding",
       "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
-    },
-    {
-      "added_at": "2023-03-22 17:48:40",
-      "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
-      },
-      "artists": [
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1635,6 +1603,38 @@
       "duration_ms": 316000,
       "name": "Attende",
       "url": "https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm"
+    },
+    {
+      "added_at": "2022-11-09 13:54:27",
+      "album": {
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
+      },
+      "artists": [
+        {
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
+        }
+      ],
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
+    },
+    {
+      "added_at": "2023-03-22 17:48:40",
+      "album": {
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+      },
+      "artists": [
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2024-03-21 23:28:58",
@@ -1669,20 +1669,24 @@
       "url": "https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-01-12 02:35:30",
       "album": {
-        "name": "Modern Species",
-        "url": "https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL"
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
       },
       "artists": [
         {
-          "name": "DJ Sports",
-          "url": "https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb"
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
         }
       ],
-      "duration_ms": 358051,
-      "name": "Reluctant Memory",
-      "url": "https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM"
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     }
   ],
   "unique_name": "bleeps ^ glitches",

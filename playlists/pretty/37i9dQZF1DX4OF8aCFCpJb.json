@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69647,
+  "num_followers": 69652,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Du som snodde min cykel",
-        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
+        "name": "Pusher",
+        "url": "https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38"
       },
       "artists": [
         {
-          "name": "Kronofogden",
-          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Prodotto di Superti",
+          "url": "https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy"
         }
       ],
-      "duration_ms": 223515,
-      "name": "Du som snodde min cykel",
-      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
+      "duration_ms": 209133,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pusher",
-        "url": "https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38"
+        "name": "Du som snodde min cykel",
+        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        },
-        {
-          "name": "Prodotto di Superti",
-          "url": "https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy"
+          "name": "Kronofogden",
+          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
+      "duration_ms": 223515,
+      "name": "Du som snodde min cykel",
+      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
     },
     {
       "added_at": "2024-06-24 11:19:01",

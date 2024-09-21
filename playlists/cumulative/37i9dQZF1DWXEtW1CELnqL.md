@@ -2,7 +2,7 @@
 
 ### [Balec !](https://open.spotify.com/playlist/37i9dQZF1DWXEtW1CELnqL)
 
-> Avec des titres de 🟢🎲, 🟥🥵🇨🇱👨‍🦳👨‍🦳, 3️⃣✖️ 7️⃣👨‍✈️,🔨🎃,  , 🐺👩‍🍼 et 👑🩸.
+> Avec des titres de 🟢🎲, 🟥🥵🇨🇱👨‍🦳👨‍🦳, 3️⃣❌7️⃣👨‍✈️,🔨🎃,  , 🐺👩‍🍼 et 👑🩸.
 
 181 songs - 10 hr 31 min
 

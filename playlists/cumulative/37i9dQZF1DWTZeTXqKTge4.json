@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Atari",
+        "url": "https://open.spotify.com/album/6qUMwUVNpa89Xyi2YskqN7"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146468,
+      "name": "Atari",
+      "url": "https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP"
+    },
+    {
+      "album": {
         "name": "Attrape-moi si tu peux",
         "url": "https://open.spotify.com/album/7loflFAMtP4zW5gGTYXZAd"
       },
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
@@ -6314,7 +6332,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/1TL0xU4txhsLwKAFl29N5Z"
@@ -11097,6 +11115,28 @@
     },
     {
       "album": {
+        "name": "Quand le soleil dort",
+        "url": "https://open.spotify.com/album/2xvjP4iuOahJN7wmKGnt6x"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "D4vid Lee",
+          "url": "https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163118,
+      "name": "Quand le soleil dort",
+      "url": "https://open.spotify.com/track/42qKe6HxCMUh8hpJWpxaF0"
+    },
+    {
+      "album": {
         "name": "Qui d'Autre",
         "url": "https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY"
       },
@@ -12644,7 +12684,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150000,
       "name": "Sur moi",
       "url": "https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz"
@@ -14256,6 +14296,28 @@
       "duration_ms": 154689,
       "name": "ZIP",
       "url": "https://open.spotify.com/track/7CB0hUjOnkftS5NSNh9bgc"
+    },
+    {
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK"
+      },
+      "artists": [
+        {
+          "name": "QCLTUR",
+          "url": "https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180976,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1"
     },
     {
       "album": {

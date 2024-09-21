@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 153053,
+  "num_followers": 153056,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Krystal",
         "url": "https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 79989,
       "name": "Intolewd",
       "url": "https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Hey Ya!",
         "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 214689,
       "name": "Hey Ya! - Acoustic",
       "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
+        "name": "May I Have This Dance",
+        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 211316,
+      "name": "May I Have This Dance",
+      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
         "name": "Soulprints",
         "url": "https://open.spotify.com/album/0qovTAXnJUCwDspFQfT5k1"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 237875,
       "name": "Feathers & Gasoline",
       "url": "https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
-        "name": "May I Have This Dance",
-        "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 211316,
-      "name": "May I Have This Dance",
-      "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "So Last Year",
-        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
-      },
-      "artists": [
-        {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
-        }
-      ],
-      "duration_ms": 205579,
-      "name": "So Last Year",
-      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "So Last Year",
+        "url": "https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        }
+      ],
+      "duration_ms": 205579,
+      "name": "So Last Year",
+      "url": "https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Inner Critic's Choice Awards",
-        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 235715,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Wish I Was Right For You",
         "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 182562,
       "name": "Wish I Was Right For You",
       "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "Inner Critic's Choice Awards",
+        "url": "https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 235715,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
-      },
-      "artists": [
-        {
-          "name": "Matt Wills",
-          "url": "https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT"
-        }
-      ],
-      "duration_ms": 176859,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
-    },
-    {
-      "added_at": "2024-08-13 10:19:04",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q"
       },
@@ -1783,18 +1767,18 @@
     {
       "added_at": "2024-08-13 10:19:04",
       "album": {
-        "name": "The First To Know",
-        "url": "https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
       },
       "artists": [
         {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+          "name": "Matt Wills",
+          "url": "https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT"
         }
       ],
-      "duration_ms": 183853,
-      "name": "The First To Know",
-      "url": "https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva"
+      "duration_ms": 176859,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
     },
     {
       "added_at": "2024-08-13 10:19:04",
@@ -1811,6 +1795,22 @@
       "duration_ms": 174333,
       "name": "Blind You",
       "url": "https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U"
+    },
+    {
+      "added_at": "2024-08-13 10:19:04",
+      "album": {
+        "name": "The First To Know",
+        "url": "https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "The First To Know",
+      "url": "https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva"
     },
     {
       "added_at": "2024-08-13 10:19:04",

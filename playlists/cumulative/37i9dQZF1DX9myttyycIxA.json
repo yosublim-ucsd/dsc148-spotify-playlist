@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Lunar Vacation",
+  "description": "Underground indie rock gems. Cover: Lutalo",
   "name": "undercurrents",
   "tracks": [
     {
@@ -8527,6 +8527,24 @@
     },
     {
       "album": {
+        "name": "The Academy",
+        "url": "https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "Ganon",
+      "url": "https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl"
+    },
+    {
+      "album": {
         "name": "Girl In The Half Pearl",
         "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
       },
@@ -8708,6 +8726,24 @@
       "duration_ms": 148506,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0mDCPRA0M98EaViYWI0mGo"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257687,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7iZuydBaeVdETro5wdcomc"
     },
     {
       "album": {
@@ -14709,6 +14745,24 @@
     },
     {
       "album": {
+        "name": "Mudglimmer/Compromised Dirt",
+        "url": "https://open.spotify.com/album/2cn2pjXIxV5Huj9e3CD2aQ"
+      },
+      "artists": [
+        {
+          "name": "The Slaps",
+          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296413,
+      "name": "Mudglimmer",
+      "url": "https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC"
+    },
+    {
+      "album": {
         "name": "Muscle Memory",
         "url": "https://open.spotify.com/album/1iAFICvSpHa8ikT8MOLdI7"
       },
@@ -19050,6 +19104,24 @@
       "duration_ms": 239983,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6HgPV8z2FNoLVQtvJKY5Do"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Life",
+        "url": "https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB"
+      },
+      "artists": [
+        {
+          "name": "Starcleaner Reunion",
+          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Snowfeel",
+      "url": "https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe"
     },
     {
       "album": {

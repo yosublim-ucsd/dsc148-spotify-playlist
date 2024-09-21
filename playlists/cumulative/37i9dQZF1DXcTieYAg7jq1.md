@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Michael Bublé
 
-414 songs - 23 hr 44 min
+415 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2023-03-18 |
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-08-12 | 2023-07-08 |
 | [Baby](https://open.spotify.com/track/7bxXiHye5YkfWVzB1KpKDu) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Tim Presley](https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:36 | 2022-10-28 | 2023-02-16 |
-| [Baby I'll Wait](https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 2:23 | 2022-03-25 |  |
+| [Baby I'll Wait](https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 2:23 | 2022-03-25 | 2024-09-21 |
 | [Baby I'm Yours](https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/36gyE5ONEx9pKCMoQdcUI6) | 2:32 | 2021-12-03 | 2022-04-21 |
 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 | 2021-12-03 | 2022-10-01 |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-12-03 | 2023-01-28 |
@@ -137,6 +137,7 @@
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-04-22 | 2023-04-01 |
 | [Good Man \(First Love\)](https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Man \(First Love\)](https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ) | 2:40 | 2022-06-24 |  |
+| [Good Time Tavern](https://open.spotify.com/track/5ETuNqDyD25GQ6ygYHaDcd) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Something for Everybody](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 3:33 | 2024-09-20 |  |
 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 | 2024-03-01 | 2024-04-19 |
 | [Gotta Be Lovin Me](https://open.spotify.com/track/0GN7hYVgkvzVgGs6fO8dj6) | [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Watch The Ton3s \- EP](https://open.spotify.com/album/6YVSAUnKDj3xq7tIjtbadH) | 4:19 | 2021-12-03 | 2022-06-04 |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2023-05-06 |
@@ -323,7 +324,7 @@
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
 | [Shoegaze](https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 2:59 | 2021-12-03 | 2023-01-28 |
 | [Shook](https://open.spotify.com/track/15mlyFocsUp6NsURCb8MI4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:23 | 2023-03-10 | 2024-03-16 |
-| [Short Hair](https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Short Hair](https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6) | 4:14 | 2024-06-07 |  |
+| [Short Hair](https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Short Hair](https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6) | 4:14 | 2024-06-07 | 2024-09-21 |
 | [Shoulda](https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Starlight](https://open.spotify.com/album/1yFYrWlcucrG2gI2AzowyP) | 3:24 | 2022-05-06 | 2023-06-24 |
 | [Silence](https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Silence](https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx) | 2:15 | 2024-04-05 |  |
 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2021-12-03 | 2023-01-28 |

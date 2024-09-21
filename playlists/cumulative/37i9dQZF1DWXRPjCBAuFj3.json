@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Central Cee, Raye",
+  "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Future",
   "name": "Rap Internazionale",
   "tracks": [
     {
@@ -2230,6 +2230,28 @@
       "duration_ms": 198146,
       "name": "Cannelloni",
       "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162969,
+      "name": "CANZONE D'ODIO (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
     },
     {
       "album": {
@@ -5751,6 +5773,36 @@
     },
     {
       "album": {
+        "name": "HIND'S HALL 2 (feat. Amer Zahr)",
+        "url": "https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Amer Zahr",
+          "url": "https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317725,
+      "name": "HIND'S HALL 2 (feat. Amer Zahr)",
+      "url": "https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG"
+    },
+    {
+      "album": {
         "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe"
       },
@@ -7530,7 +7582,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 154760,
       "name": "LIMIT YOK (feat. Geolier)",
       "url": "https://open.spotify.com/track/0oeklrrzFKY6GUay5zkpm7"
@@ -7566,7 +7618,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 205714,
       "name": "Lo Niego",
       "url": "https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N"
@@ -9322,7 +9374,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
@@ -13602,6 +13654,24 @@
       "duration_ms": 245960,
       "name": "Tony Montana (feat. Drake)",
       "url": "https://open.spotify.com/track/1IWXAWo4u0H1D0QvSpvldn"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205730,
+      "name": "TOO FAST",
+      "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
     },
     {
       "album": {

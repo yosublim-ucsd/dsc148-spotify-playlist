@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 575133,
+  "num_followers": 575181,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAAVqn2/K49FYTxqcuIwea0H",
+  "snapshot_id": "ZuzzQAAAAAD4+LQqytJbkoBsigqeVUYp",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Eating Stars",
+        "url": "https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "duration_ms": 175136,
+      "name": "Eating Stars",
+      "url": "https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -47,26 +67,6 @@
       "duration_ms": 183920,
       "name": "WHAT IS ??",
       "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Extra Life",
-        "url": "https://open.spotify.com/album/13M2Y8Kpqlo40he5J3GkY1"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Gianluca Pellerito",
-          "url": "https://open.spotify.com/artist/6aV2vnPLlORDtjoaMg1zTJ"
-        }
-      ],
-      "duration_ms": 183516,
-      "name": "Extra Life",
-      "url": "https://open.spotify.com/track/2uDVeER8QitZUXQfUu9eVU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -155,6 +155,26 @@
       "duration_ms": 204000,
       "name": "YEASH",
       "url": "https://open.spotify.com/track/2VE6qe0SlQ77meIahr0Liu"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Extra Life",
+        "url": "https://open.spotify.com/album/13M2Y8Kpqlo40he5J3GkY1"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Gianluca Pellerito",
+          "url": "https://open.spotify.com/artist/6aV2vnPLlORDtjoaMg1zTJ"
+        }
+      ],
+      "duration_ms": 183516,
+      "name": "Extra Life",
+      "url": "https://open.spotify.com/track/2uDVeER8QitZUXQfUu9eVU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -283,26 +303,6 @@
       "duration_ms": 161860,
       "name": "First Lemonade",
       "url": "https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Back to the Grind",
-        "url": "https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y"
-      },
-      "artists": [
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Back to the Grind",
-      "url": "https://open.spotify.com/track/2eFudpKhUZAai09n869l2g"
     },
     {
       "added_at": "2024-02-16 05:01:00",

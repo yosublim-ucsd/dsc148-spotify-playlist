@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Duckwrth",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Orion Sun",
   "name": "Vanguard",
   "tracks": [
     {
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 290810,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/3S4dS34keJs4DJrvPLLoEw"
@@ -5576,7 +5576,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167983,
       "name": "day+night (feat. Wolfacejoeyy)",
       "url": "https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR"
@@ -7530,7 +7530,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146332,
       "name": "fingerprints",
       "url": "https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5"
@@ -12515,6 +12515,24 @@
     },
     {
       "album": {
+        "name": "LIMERENCE",
+        "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146735,
+      "name": "LIMERENCE",
+      "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+    },
+    {
+      "album": {
         "name": "Limit To Your Love",
         "url": "https://open.spotify.com/album/6ml6TLxKN2US1F7u7cYtzA"
       },
@@ -12674,6 +12692,28 @@
       "duration_ms": 164386,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/197Jh1YGNedmMXKCU784ku"
+    },
+    {
+      "album": {
+        "name": "Lockjaw 2",
+        "url": "https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Lockjaw 2",
+      "url": "https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7"
     },
     {
       "album": {
@@ -13560,6 +13600,36 @@
       "duration_ms": 207053,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
+    },
+    {
+      "album": {
+        "name": "GEMS IN THE CORNERSTORE II",
+        "url": "https://open.spotify.com/album/2KhWIDrrHqMEdXZsSj8vNk"
+      },
+      "artists": [
+        {
+          "name": "JEMS!",
+          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160490,
+      "name": "MASHUP",
+      "url": "https://open.spotify.com/track/70KlBBhGkQtuVICtZwt9zL"
     },
     {
       "album": {
@@ -14626,6 +14696,24 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR"
     },
     {
       "album": {
@@ -21244,7 +21332,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166760,
       "name": "Test It",
       "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"

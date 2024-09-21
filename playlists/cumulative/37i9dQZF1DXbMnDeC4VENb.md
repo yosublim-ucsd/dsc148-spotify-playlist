@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-278 songs - 15 hr 43 min
+281 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cada Noche](https://open.spotify.com/track/0Rj2gmEcyAOSxYMh2YGxR7) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/4HAKbXAdUnsyRNtW3dZdGW) | 3:25 | 2022-06-27 | 2024-04-19 |
 | [Cada Noche](https://open.spotify.com/track/7KiDbUVG7iJeFoEaHC3oja) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/1W8mhbDRuIVtsNAcDB7pJZ) | 3:25 | 2022-05-25 |  |
 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 | 2023-09-08 |  |
+| [Camuflaje](https://open.spotify.com/track/0KVPZop01sUcUOFLl9AeVo) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Camuflaje](https://open.spotify.com/album/2wkphVHKHAkRltmQy4VHkL) | 4:19 | 2024-09-20 |  |
 | [Cara Bonita](https://open.spotify.com/track/7luI1wVUAJ3SkmpUJvqBZC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cara Bonita](https://open.spotify.com/album/5F8BSnBKdH0hCuDUjcsRpF) | 3:40 | 2023-02-10 |  |
 | [Cenicero](https://open.spotify.com/track/4LJK2c7xkKZXw6yzK3pfyc) | [PAVEL](https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv) | [Izanami](https://open.spotify.com/album/6kCGxm24938re9YtwSBnEq) | 2:48 | 2024-06-04 |  |
 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 | 2023-07-21 |  |
@@ -58,6 +59,7 @@
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2022-05-25 |  |
 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 | 2022-06-27 |  |
 | [Corazón Frío](https://open.spotify.com/track/6xCltTC8YJC4JYQCfCbvuy) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Corazón Frío](https://open.spotify.com/album/4V2Qhhq5WnanWILWxP1Nic) | 3:21 | 2024-07-05 |  |
+| [Cuanto Te Quiero](https://open.spotify.com/track/0jGb8pJxrEYSFlODVZ4k7D) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Cuanto Te Quiero](https://open.spotify.com/album/2pVZlqqcCf4Pk0JSPFIlsU) | 3:20 | 2024-09-20 |  |
 | [Cuatro Paredes](https://open.spotify.com/track/5YzYf1636ixpWoLYuQZ9O6) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cuatro Paredes](https://open.spotify.com/album/2QUCFoOF9BiRyVE4SReMJ9) | 3:15 | 2022-05-25 | 2022-06-17 |
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-05-25 | 2023-07-15 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-05-25 | 2023-07-15 |
@@ -82,6 +84,7 @@
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2022-05-25 |  |
 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 | 2022-05-25 |  |
 | [Fake Love](https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Fake Love](https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn) | 2:54 | 2024-07-26 |  |
+| [Feliz Sin Ti](https://open.spotify.com/track/2lbfwbCyZ98mzVXImczWzz) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Feliz Sin Ti](https://open.spotify.com/album/3JgNrlhWSU0D0ltJo4GWne) | 2:42 | 2024-09-20 |  |
 | [Findes](https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Findes](https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy) | 2:41 | 2024-01-19 |  |
 | [Flakita](https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313) | [D’Garay](https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz), [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U), [Gardu](https://open.spotify.com/artist/6pgBGo3QGFtzdVciDvscrn) | [Flakita](https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN) | 2:51 | 2024-06-21 |  |
 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 | 2024-06-04 |  |

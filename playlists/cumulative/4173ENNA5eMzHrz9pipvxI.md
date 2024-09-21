@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>.
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lucas &amp; Steve
 
-1,516 songs - 3 day 0 hr 30 min
+1,517 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Divide Us \(feat\. Overhowl\)](https://open.spotify.com/track/0DFg4qDEzyJ9kZkGwnx3jB) | [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [RUSHÖ](https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N), [Overhowl](https://open.spotify.com/artist/54ROsLIjoMVpbAm8oyYxpv) | [Divide Us \(feat\. Overhowl\)](https://open.spotify.com/album/1DVsZGYMEZs2Jwd8tGJ908) | 3:58 | 2022-12-08 | 2023-01-06 |
 | [DM ME](https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [DM ME](https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J) | 3:03 | 2022-12-01 | 2022-12-16 |
 | [DNA](https://open.spotify.com/track/1M1AmQMeDGcYJIYKYSaaDd) | [Univz](https://open.spotify.com/artist/3M5KlNoSagESIwlTMiHygu) | [DNA](https://open.spotify.com/album/6xIsr4rcZhIsV4jzUhfn1h) | 4:14 | 2023-03-23 | 2023-04-07 |
+| [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-09-20 |  |
 | [Do It Better](https://open.spotify.com/track/36juLMM7pOwFdz8I7xktdD) | [Beachcrimes](https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Do It Better](https://open.spotify.com/album/4j5VPjoi6FtSvDtkw8Ev8p) | 2:35 | 2023-07-07 | 2023-07-21 |
 | [Do It For Daddy](https://open.spotify.com/track/5fz5ngZgEW7bCZYhM0RP2o) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l) | [Do It For Daddy](https://open.spotify.com/album/5XB8KtmyeQQVTe3IrTPCFl) | 2:23 | 2023-07-28 | 2023-08-20 |
 | [Do It For Myself](https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY) | [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Do It For Myself](https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD) | 2:24 | 2024-03-22 | 2024-03-29 |

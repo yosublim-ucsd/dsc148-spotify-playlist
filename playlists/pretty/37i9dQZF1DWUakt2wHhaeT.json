@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: The Great Gatsby",
-  "num_followers": 110391,
+  "num_followers": 110390,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn47pQAAAADGuoyz88FJwdqc402aS9kV",
+  "snapshot_id": "ZuzzQAAAAABiPS4txfIA7qpUToM3agor",
   "tracks": [
     {
       "added_at": "2024-06-28 04:27:17",
@@ -31,6 +31,26 @@
       "duration_ms": 291967,
       "name": "My Green Light",
       "url": "https://open.spotify.com/track/62Y2MyXpDYWc93zUWNKrke"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
     },
     {
       "added_at": "2024-06-28 04:27:17",
@@ -1135,38 +1155,6 @@
       "duration_ms": 198066,
       "name": "The Sheep Chose a Wolf",
       "url": "https://open.spotify.com/track/2r00OW9OwUZTqY4OKvoUkc"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Figaro: An Original Musical (World Premiere Cast Recording)",
-        "url": "https://open.spotify.com/album/755sxiW1Krgodlevh4rGed"
-      },
-      "artists": [
-        {
-          "name": "Ashley Jana",
-          "url": "https://open.spotify.com/artist/0V9kj419qKJ3DsnAXEsh9G"
-        },
-        {
-          "name": "Will Nunziata",
-          "url": "https://open.spotify.com/artist/72mgZSxoOUIo20pJYGl6f3"
-        },
-        {
-          "name": "Figaro",
-          "url": "https://open.spotify.com/artist/4qBIW3OmdzxMpbAxwUYAV5"
-        },
-        {
-          "name": "Mauricio Martinez",
-          "url": "https://open.spotify.com/artist/4xSw3pVBVGc0BN0kTvFt5k"
-        },
-        {
-          "name": "Cayleigh Capaldi",
-          "url": "https://open.spotify.com/artist/442uswOMTkvXreCYuXAL94"
-        }
-      ],
-      "duration_ms": 406956,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/2PpXdGIe2zDxnC2QwUURip"
     }
   ],
   "unique_name": "Broadway Rising",

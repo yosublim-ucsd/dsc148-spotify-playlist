@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,992 songs - 6 day 14 hr 15 min
+2,993 songs - 6 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-30 | 2024-06-02 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 | 2024-06-01 | 2024-06-26 |
 | [A Culpa É Tua Você Falou pra Fulana](https://open.spotify.com/track/3jdvNmhtvtk9bFb3vb6E9s) | [Selminho DJ](https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib), [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [A Culpa É Tua Você Falou pra Fulana](https://open.spotify.com/album/4GmjiPFA9UDECDAfdyXdxP) | 2:19 | 2022-09-08 | 2022-09-20 |
-| [A Danada Me Ligando](https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [A Danada Me Ligando](https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE) | 4:43 | 2024-09-17 |  |
+| [A Danada Me Ligando](https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [A Danada Me Ligando](https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE) | 4:43 | 2024-09-17 | 2024-09-21 |
 | [A Dança \- Ao Vivo](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Funk Superação \- Ao Vivo](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 4:04 | 2024-09-11 |  |
 | [A Dónde Quiera Que Vaya](https://open.spotify.com/track/3SAuHX9P3o0MIu7PDxFVur) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 3:55 | 2022-06-23 | 2022-07-06 |
 | [A Gangster's Wife](https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi) | [Ms Krazie](https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz), [Chino Grande](https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j) | [Smile Now Cry Never](https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79) | 3:49 | 2022-09-26 | 2022-11-11 |
@@ -2734,6 +2734,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-06 | 2022-10-12 |
 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-09-19 |  |
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-04-21 | 2023-05-16 |
+| [UNE HISTOIRE ÉTRANGE](https://open.spotify.com/track/1LqDW54jByEjfZJMadiLJU) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 4:37 | 2024-09-20 |  |
 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 | 2024-05-17 | 2024-05-20 |
 | [Unforgettable](https://open.spotify.com/track/2cLVmV34MkYw8IDz5nkK5r) | [Miyuze](https://open.spotify.com/artist/1IS7bD5eZp5n0rfTWEg6gQ) | [Unforgettable](https://open.spotify.com/album/2Hoc71FO6tW7VPlwWFXBMo) | 2:02 | 2024-05-27 | 2024-06-02 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-18 | 2022-11-20 |

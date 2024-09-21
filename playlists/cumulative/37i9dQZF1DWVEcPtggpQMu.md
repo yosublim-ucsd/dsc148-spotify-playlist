@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=kGyefAXHTP62tJ5iYxL4\-g">Usimamane</a>
+> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=FT41P0ZTTbavn79ogA0qmA">Loatinover Pounds</a>
 
-831 songs - 1 day 20 hr 38 min
+832 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Power](https://open.spotify.com/track/6Pye5o65HC4VwzfHF2hI3L) | [yungseruno](https://open.spotify.com/artist/5sQfJS73DtZdQlA00Fg5La), [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [Power](https://open.spotify.com/album/4t4AqORfYDyMwZVGDO0Z8V) | 3:22 | 2024-09-05 |  |
 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 | 2023-01-19 | 2023-07-07 |
 | [Pramis, Swuh](https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Pramis, Swuh](https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80) | 2:14 | 2023-02-09 | 2024-01-26 |
+| [Pray 4 Me](https://open.spotify.com/track/7oH2WeHDDiCC4guHrhjYMJ) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Pray 4 Pitori](https://open.spotify.com/album/6ixv7oc58aBXFYoTDBKCa9) | 4:08 | 2024-09-20 |  |
 | [Pride](https://open.spotify.com/track/00uAA4zq3d6sr4aC8AodXK) | [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [Pride](https://open.spotify.com/album/3TUlvIylVs6ZIVAiB1nvSe) | 2:38 | 2024-03-07 | 2024-06-07 |
 | [Pride](https://open.spotify.com/track/4k12ggWuUFQ8wllmREXKTd) | [Slay\_Auto](https://open.spotify.com/artist/5BKzRJw13eXNNrHZ6RYPiI) | [PRIDE](https://open.spotify.com/album/3sUAo42NGTPLOXrMHXeSTa) | 3:46 | 2022-03-10 | 2022-03-25 |
 | [PROBLEMZ](https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Frank Casino](https://open.spotify.com/artist/7MF9LuUK0sWH8WXBoiPMNy), [Loatinover Pounds](https://open.spotify.com/artist/7c3N4lOnDqTJiSK1bQoGXh) | [V I R A L.](https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG) | 4:23 | 2023-07-20 | 2024-04-05 |

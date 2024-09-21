@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s pop punk, it\u2019s the best. Celebrating 30 years of Hopeless Records.",
-  "num_followers": 43643,
+  "num_followers": 43639,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAbF56ICufmIC3CimZcdH4BJnP2y7o4",
+  "snapshot_id": "AAAbHCHawhVR0L0/m8elvnWx0LLO/fJi",
   "tracks": [
     {
       "added_at": "2024-08-29 18:03:30",
@@ -775,6 +775,22 @@
       "duration_ms": 205320,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/6JBX1drGsMrTE8JrAYYoou"
+    },
+    {
+      "added_at": "2024-09-20 16:50:35",
+      "album": {
+        "name": "Sleep On The Floor",
+        "url": "https://open.spotify.com/album/6PgUPkqJUjz4FN8yts57Ri"
+      },
+      "artists": [
+        {
+          "name": "Crash the Calm",
+          "url": "https://open.spotify.com/artist/4z0T4u61g7AUCjxoygPCAT"
+        }
+      ],
+      "duration_ms": 214443,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/6OcPCa0QD8WydtjDrmlzm3"
     },
     {
       "added_at": "2024-01-09 23:10:41",
@@ -2187,6 +2203,54 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
+    },
+    {
+      "added_at": "2024-09-13 20:13:30",
+      "album": {
+        "name": "Enemy Of The World (Special Edition)",
+        "url": "https://open.spotify.com/album/0gjHvmSpyBfFZDkIELtpzK"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Wasting Time (Eternal Summer)",
+      "url": "https://open.spotify.com/track/14wr2I5FsCigi2Pkbr2qDf"
+    },
+    {
+      "added_at": "2024-09-13 20:13:36",
+      "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
+    },
+    {
+      "added_at": "2024-09-13 20:15:43",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     }
   ],
   "unique_name": "Best Of Pop Punk ",

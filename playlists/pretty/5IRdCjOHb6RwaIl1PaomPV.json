@@ -1,52 +1,272 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Madeline, Merry Lamb Lamb  &amp; more.",
-  "num_followers": 50738,
+  "description": "The latest tracks from Mad Decent and friends. Featuring Snow Strippers, and new music from Kito, DJ_Dave, evilgiane, and more. ",
+  "num_followers": 50736,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAavLsLVK0kqIx+bQLhEurEIRypLrBv",
+  "snapshot_id": "AAAbABkzK8rBhtXc4EL1A2IH/c5CKaIj",
   "tracks": [
     {
-      "added_at": "2024-08-28 16:47:58",
+      "added_at": "2024-09-20 16:23:43",
       "album": {
-        "name": "INSTANT DEATH",
-        "url": "https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u"
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
       },
       "artists": [
         {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        },
-        {
-          "name": "Goner",
-          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         }
       ],
-      "duration_ms": 155408,
-      "name": "INSTANT DEATH",
-      "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/2VhIrOqGmhSuTKhKG2KCux"
     },
     {
-      "added_at": "2024-08-28 16:47:45",
+      "added_at": "2024-09-20 16:23:35",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/1od34k2qnVdccjj2GDfiY0"
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
       },
       "artists": [
         {
-          "name": "Eera",
-          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         }
       ],
-      "duration_ms": 313043,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ"
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg"
+    },
+    {
+      "added_at": "2024-09-20 16:23:49",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 140408,
+      "name": "Aching Like It's",
+      "url": "https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 107612,
+      "name": "Cautious",
+      "url": "https://open.spotify.com/track/0dNLgNa4IiwsiebqEz5UZ5"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 134496,
+      "name": "Touching Yours",
+      "url": "https://open.spotify.com/track/7vTKFevDv6L2gry4PAdDxl"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Just A Hint",
+      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Comin Down",
+      "url": "https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp"
+    },
+    {
+      "added_at": "2024-09-20 16:23:43",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Another High",
+      "url": "https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "Chained Up",
+      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 174035,
+      "name": "Favorite Lifeline",
+      "url": "https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "Back N Forth",
+      "url": "https://open.spotify.com/track/0L4dXJnz7HHnnqtfOoDUbE"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Draw A Heart",
+      "url": "https://open.spotify.com/track/52k1yKl2F0RD48jcenwPKn"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 148846,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/6qMEgI3Q98leMOlFeAKqmW"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Throw It Back Away",
+      "url": "https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh"
+    },
+    {
+      "added_at": "2024-09-20 16:23:35",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "name": "PurpleSparklyBentley",
+          "url": "https://open.spotify.com/artist/3bd8Wm66L86xHkqcGnKVy6"
+        }
+      ],
+      "duration_ms": 154394,
+      "name": "Video Games 2",
+      "url": "https://open.spotify.com/track/6OcdE1JNrGx3ONvMbrVds3"
     },
     {
       "added_at": "2024-08-28 16:48:39",
@@ -77,6 +297,186 @@
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
     },
     {
+      "added_at": "2024-09-20 16:26:47",
+      "album": {
+        "name": "BIMYOU",
+        "url": "https://open.spotify.com/album/1qlAvPHKc6Rs2Cpcf5YnAB"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 171208,
+      "name": "back 2 love",
+      "url": "https://open.spotify.com/track/6ihpgFagnilliKyz2gTqik"
+    },
+    {
+      "added_at": "2024-08-28 16:47:58",
+      "album": {
+        "name": "INSTANT DEATH",
+        "url": "https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        },
+        {
+          "name": "Goner",
+          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
+        }
+      ],
+      "duration_ms": 155408,
+      "name": "INSTANT DEATH",
+      "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+    },
+    {
+      "added_at": "2024-09-20 16:28:21",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/0MyZPl6tut29fADexADyqw"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/79czPfl52BLZvhZ89JzauG"
+    },
+    {
+      "added_at": "2024-08-28 16:47:45",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/1od34k2qnVdccjj2GDfiY0"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        }
+      ],
+      "duration_ms": 313043,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ"
+    },
+    {
+      "added_at": "2024-09-20 16:28:06",
+      "album": {
+        "name": "SO DRAMATIC DELUXE",
+        "url": "https://open.spotify.com/album/4uqRuuh4rQcvaPPM5Rmjt9"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 149152,
+      "name": "ACT BAD",
+      "url": "https://open.spotify.com/track/3M2wwNtrtuRDZGTKNRnOP5"
+    },
+    {
+      "added_at": "2024-09-20 16:27:08",
+      "album": {
+        "name": "Forever (feat. Malou & Yuna)",
+        "url": "https://open.spotify.com/album/5Vg7VGD673yE2mDt4SxZD2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Forever (feat. Malou & Yuna)",
+      "url": "https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT"
+    },
+    {
+      "added_at": "2024-09-20 16:22:55",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+    },
+    {
+      "added_at": "2024-09-20 16:28:56",
+      "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+    },
+    {
+      "added_at": "2024-09-20 16:29:08",
+      "album": {
+        "name": "You Weren't Supposed To See That...",
+        "url": "https://open.spotify.com/album/2kZI8xYKOgZ5bEWLEhGmqI"
+      },
+      "artists": [
+        {
+          "name": "DJmegan23",
+          "url": "https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA"
+        }
+      ],
+      "duration_ms": 64768,
+      "name": "Put The Gloxx Down",
+      "url": "https://open.spotify.com/track/5AwERbJzHU89ztgK1vAjOA"
+    },
+    {
       "added_at": "2024-08-28 17:09:22",
       "album": {
         "name": "Shake It Like A (feat. Danny Brown)",
@@ -95,6 +495,50 @@
       "duration_ms": 197765,
       "name": "Shake It Like A (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
+    },
+    {
+      "added_at": "2024-09-20 16:22:59",
+      "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
+    {
+      "added_at": "2024-09-20 16:23:02",
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/2ngzamcbAFveP9OLRGUOry"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 125687,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I"
     },
     {
       "added_at": "2024-08-28 16:48:11",
@@ -557,26 +1001,6 @@
       "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
     },
     {
-      "added_at": "2024-07-26 19:58:05",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
       "added_at": "2024-07-18 15:40:58",
       "album": {
         "name": "Mietzee",
@@ -611,22 +1035,6 @@
       "duration_ms": 158367,
       "name": "Precision",
       "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
-    },
-    {
-      "added_at": "2024-07-14 22:52:29",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2mtrMjRecF7rZAsmpoMvp8"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/6PqwDTrBeCkRnfTvLsqIQT"
     },
     {
       "added_at": "2024-07-14 23:05:51",
@@ -743,22 +1151,6 @@
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
-    },
-    {
-      "added_at": "2024-05-24 18:17:53",
-      "album": {
-        "name": "Night Killaz Vol. 2",
-        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "So What If I'm A Freak",
-      "url": "https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg"
     },
     {
       "added_at": "2024-06-22 00:40:42",
@@ -1061,22 +1453,6 @@
       "url": "https://open.spotify.com/track/3CctKDDCTPmAHUmpRfVBg7"
     },
     {
-      "added_at": "2024-05-10 21:05:41",
-      "album": {
-        "name": "Night Killaz Vol. 2",
-        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Chained Up",
-      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
-    },
-    {
       "added_at": "2024-06-22 00:40:50",
       "album": {
         "name": "BRAT",
@@ -1117,26 +1493,6 @@
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
     },
     {
-      "added_at": "2024-05-24 17:53:12",
-      "album": {
-        "name": "JaJaJa (JO\u00c3O L\u00c1GRIMA DE OURO REMIX)",
-        "url": "https://open.spotify.com/album/14IxalFKKZWFWyjuQ9GDM2"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        },
-        {
-          "name": "Jo\u00e3o L\u00e1grima de Ouro",
-          "url": "https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "JaJaJa - JO\u00c3O L\u00c1GRIMA DE OURO REMIX",
-      "url": "https://open.spotify.com/track/5zWtPQUALuDdeh7ALn0iMk"
-    },
-    {
       "added_at": "2024-06-07 19:32:16",
       "album": {
         "name": "Any Way (feat. Maggie Rogers)",
@@ -1171,22 +1527,6 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-05-10 21:05:53",
-      "album": {
-        "name": "Night Killaz Vol. 2",
-        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 174035,
-      "name": "Favorite Lifeline",
-      "url": "https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp"
     },
     {
       "added_at": "2024-06-07 19:33:03",
@@ -1289,22 +1629,6 @@
       "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
     },
     {
-      "added_at": "2024-05-10 21:23:19",
-      "album": {
-        "name": "Silence Is Loud",
-        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Out Of Options",
-      "url": "https://open.spotify.com/track/1ygHZpILmwL7EaByT1SVAO"
-    },
-    {
       "added_at": "2024-05-10 21:20:06",
       "album": {
         "name": "Starchitect",
@@ -1319,74 +1643,6 @@
       "duration_ms": 166059,
       "name": "Starchitect",
       "url": "https://open.spotify.com/track/0SS6bzzAh8e2wkEkvqAPVS"
-    },
-    {
-      "added_at": "2024-05-10 21:05:08",
-      "album": {
-        "name": "Simple Times",
-        "url": "https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 254314,
-      "name": "Simple Times",
-      "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "MYCELiUM (UTOPIA Remixes)",
-        "url": "https://open.spotify.com/album/2oqCKGQTfy3ft0UGzpuzRg"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        }
-      ],
-      "duration_ms": 183007,
-      "name": "Mine O' Mine - P-rallel Remix",
-      "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
-    },
-    {
-      "added_at": "2024-04-26 18:21:32",
-      "album": {
-        "name": "Jam City Presents EFM (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/15moYugx2ORv9pIOYnJ0yE"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        },
-        {
-          "name": "Aidan",
-          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
-        }
-      ],
-      "duration_ms": 212745,
-      "name": "Touch Me - B Roll Mix",
-      "url": "https://open.spotify.com/track/6GF5IvnyvZiHchFf6haVOs"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1427,30 +1683,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Affect / Neverend",
         "url": "https://open.spotify.com/album/4JDRioCPrW1ZxHmAI9tvxX"
       },
@@ -1463,94 +1695,6 @@
       "duration_ms": 114284,
       "name": "Affect",
       "url": "https://open.spotify.com/track/3yVB7bWzS0bzqD6IuqzUgA"
-    },
-    {
-      "added_at": "2024-04-26 18:15:17",
-      "album": {
-        "name": "Nausia",
-        "url": "https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB"
-      },
-      "artists": [
-        {
-          "name": "Delachute",
-          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
-        }
-      ],
-      "duration_ms": 112094,
-      "name": "Nausia",
-      "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Koster",
-        "url": "https://open.spotify.com/album/36shxepZGDqHwetjwYU3et"
-      },
-      "artists": [
-        {
-          "name": "Soft Blade",
-          "url": "https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG"
-        }
-      ],
-      "duration_ms": 185882,
-      "name": "Koster",
-      "url": "https://open.spotify.com/track/27hPuZbAnNH0LrtdBiNZsW"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Wild n Sweet (Paul Woolford's Special Request Mix)",
-        "url": "https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        }
-      ],
-      "duration_ms": 260941,
-      "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
-      "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Flexulant",
-          "url": "https://open.spotify.com/artist/7KPkt13eGzrIOc8jShZzSi"
-        },
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Rahrah Gabor",
-          "url": "https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        }
-      ],
-      "duration_ms": 286014,
-      "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor & Brazy",
-      "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1575,70 +1719,6 @@
       "duration_ms": 64614,
       "name": "40",
       "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Just Your Doll",
-        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 147234,
-      "name": "Just Your Doll",
-      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "World's Hardest Game",
-        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 208967,
-      "name": "World's Hardest Game",
-      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "I Saw U",
-        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 137506,
-      "name": "I Saw U",
-      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1707,38 +1787,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "TINKERBELL",
-        "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
-      },
-      "artists": [
-        {
-          "name": "Palmistry",
-          "url": "https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY"
-        }
-      ],
-      "duration_ms": 77000,
-      "name": "Rainer",
-      "url": "https://open.spotify.com/track/6UEKpBUM9dhgqZ3DFZmgGo"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Police Scanner",
-        "url": "https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 142456,
-      "name": "Police Scanner",
-      "url": "https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Tiny Dancer",
         "url": "https://open.spotify.com/album/1FkKpFNNxxvGTRWVe1xmW4"
       },
@@ -1755,82 +1803,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Erbil",
-        "url": "https://open.spotify.com/album/12kpVIlrWxmOJV7wX4JL8M"
-      },
-      "artists": [
-        {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Yal Harak Qalbe",
-      "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "40 (Dj Ess Mix)",
-        "url": "https://open.spotify.com/album/1WyMw8WTwFn0kIeTFkrgbT"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "xaviersobased",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        },
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        },
-        {
-          "name": "DJ Ess",
-          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
-        }
-      ],
-      "duration_ms": 81658,
-      "name": "40 - Dj Ess Mix",
-      "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Diamond Shovel",
-        "url": "https://open.spotify.com/album/3F9riix3fTmzx7xRkun9qf"
-      },
-      "artists": [
-        {
-          "name": "Blue Hawaii",
-          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Diamond Shovel",
-      "url": "https://open.spotify.com/track/2Ij8nA08Iz2Zl0sA1Wnd9T"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "harry houdini",
-        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "the life and death of a dog",
-      "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "re",
         "url": "https://open.spotify.com/album/3rxprzmVdO5HkFphAqk2Uw"
       },
@@ -1843,22 +1815,6 @@
       "duration_ms": 164085,
       "name": "backseat",
       "url": "https://open.spotify.com/track/1bzhYxg44jtG54r4kDmiBa"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Like A Ribbon",
-        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
     }
   ],
   "unique_name": "Mad Decent Weekly",

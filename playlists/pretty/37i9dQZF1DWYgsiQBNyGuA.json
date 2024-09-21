@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 86633,
+  "num_followers": 86678,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-30 05:32:52",
       "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -221,28 +221,20 @@
       "url": "https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
+      "added_at": "2024-09-13 09:24:57",
       "album": {
-        "name": "Why Lawd?",
-        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
       },
       "artists": [
         {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 167894,
-      "name": "MoveOn",
-      "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -293,20 +285,28 @@
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
     },
     {
-      "added_at": "2024-09-13 09:24:57",
+      "added_at": "2024-08-30 05:32:52",
       "album": {
-        "name": "Waiting on the Right Time",
-        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+        "name": "Why Lawd?",
+        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 219786,
-      "name": "Waiting on the Right Time",
-      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
+      "duration_ms": 167894,
+      "name": "MoveOn",
+      "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Walk With the Father",
@@ -907,6 +891,22 @@
       "duration_ms": 226153,
       "name": "Walk With the Father",
       "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 214517,
       "name": "All Your Love - Single Edit",
       "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Medicine 4 My Pain",
-        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
-      },
-      "artists": [
-        {
-          "name": "Lynden David Hall",
-          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
-        }
-      ],
-      "duration_ms": 316093,
-      "name": "There Goes My Sanity",
-      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/4xXFyI9A7KrpUK2PrVkzmG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 241346,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2C5KLdNvduql2CBS2w1DYq"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Medicine 4 My Pain",
+        "url": "https://open.spotify.com/album/0wTxFbAFh9Ig1LgZ4axaIK"
+      },
+      "artists": [
+        {
+          "name": "Lynden David Hall",
+          "url": "https://open.spotify.com/artist/3fLIciFr0hJk9Mh0K6RLgQ"
+        }
+      ],
+      "duration_ms": 316093,
+      "name": "There Goes My Sanity",
+      "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"
     },
     {
       "added_at": "2024-03-08 13:51:25",

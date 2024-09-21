@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,676 likes - 106 songs - 6 hr 9 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,675 likes - 108 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 104 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 |
 | 105 | [Are You Happy Now](https://open.spotify.com/track/3ecUcDxrUZHdpNq9XdeOI5) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Are You Happy Now](https://open.spotify.com/album/5BGQ43Yb9mwLWA9MViSwY7) | 4:02 |
 | 106 | [Closer](https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Angela Krüsi](https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1) | [How To Run Away \- 10 Year Bonus Disk](https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq) | 4:10 |
+| 107 | [Copy Ur Keys \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/58b73azvRIEuESgCzxAjfR) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Copy Ur Keys \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/174vRe5qVjRVdncyGbhRmE) | 3:11 |
+| 108 | [In My Mind](https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [In My Mind](https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j) | 3:09 |
 
-Snapshot ID: `AAAqKH1dvI5J5G1NQ5fbC3BqoE53/qYe`
+Snapshot ID: `AAAqKsePyy11asud9kfV1M5BdI51CuN7`

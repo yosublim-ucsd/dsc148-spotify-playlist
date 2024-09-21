@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Delacruz, IZA",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Sevdaliza, Anitta, Pabllo Vittar, Yseult",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -120,6 +120,24 @@
       "duration_ms": 177397,
       "name": "4AM",
       "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/2smAEK1NsZ8WF3fxtjte59"
+      },
+      "artists": [
+        {
+          "name": "Angela Destro",
+          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "7AM 00s",
+      "url": "https://open.spotify.com/track/2WkVq24b888EIce8HOWofB"
     },
     {
       "album": {
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
@@ -5469,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188791,
+      "name": "Romance Em Cena",
+      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
@@ -6754,7 +6794,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"

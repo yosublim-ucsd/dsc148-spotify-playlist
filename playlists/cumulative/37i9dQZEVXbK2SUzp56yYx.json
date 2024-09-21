@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 279910,
       "name": "Fine",
       "url": "https://open.spotify.com/track/7pUcuw1LB3p0GI4xo4v6k3"
@@ -6453,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "FAMILY FIRST",
+        "url": "https://open.spotify.com/album/1uvpd5fyNlm710BghOR8OL"
+      },
+      "artists": [
+        {
+          "name": "J. ROUH",
+          "url": "https://open.spotify.com/artist/6g87QXCVhSIvOMfOrG5vfL"
+        },
+        {
+          "name": "SALUKI",
+          "url": "https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223385,
+      "name": "SALUT",
+      "url": "https://open.spotify.com/track/7HzZCzyUHv07CFwWMQ9elS"
+    },
+    {
+      "album": {
         "name": "Se Paciente Funk",
         "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
       },
@@ -6590,7 +6612,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
@@ -7102,7 +7124,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -7348,7 +7370,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155391,
       "name": "Tailor Swif",
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
@@ -7906,7 +7928,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 68442,
       "name": "VAPO DO VAPO",
       "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
@@ -8688,6 +8710,28 @@
       "duration_ms": 126129,
       "name": "X-SLIDE - Ultra Slowed",
       "url": "https://open.spotify.com/track/0iaa1DkqOki4FFGq3QjGs3"
+    },
+    {
+      "album": {
+        "name": "X-TALI",
+        "url": "https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw"
+      },
+      "artists": [
+        {
+          "name": "MXCCREE",
+          "url": "https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt"
+        },
+        {
+          "name": "DJ GL3CHEKY",
+          "url": "https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72352,
+      "name": "X-TALI",
+      "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
     },
     {
       "album": {
@@ -9830,7 +9874,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 245000,
       "name": "\u0412\u0435\u0440\u0430",
       "url": "https://open.spotify.com/track/1sIQ6fHLxlaQGoiK6F6Rk0"
@@ -10012,7 +10056,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 201019,
       "name": "\u0433\u0434\u0435 \u0442\u044b?",
       "url": "https://open.spotify.com/track/5Om5hEHe2lKknhmveGXA2j"
@@ -11742,7 +11786,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 114346,
       "name": "\u043c\u043e\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/2zQYnQQDFuW5rCBaXlkodn"
@@ -11850,7 +11894,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 111948,
       "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0435 \u0431\u0443\u0434\u043d\u0438",
       "url": "https://open.spotify.com/track/7zm9Z9l9egDsRyQKwLICXJ"
@@ -13360,7 +13404,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 161142,
       "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
       "url": "https://open.spotify.com/track/3Xbu5aXLapPvbsKztc3PMf"

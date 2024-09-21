@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 253948,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 161500,
       "name": "Miss Strut",
       "url": "https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78"
@@ -5702,6 +5702,24 @@
       "duration_ms": 257157,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/4zDm8fwLbBwt3DX4txjuZA"
+    },
+    {
+      "album": {
+        "name": "Queen Of Hearts",
+        "url": "https://open.spotify.com/album/0zoK1cfLzct3p6W6TABxeN"
+      },
+      "artists": [
+        {
+          "name": "Isak Thomas and The Stoop Boys",
+          "url": "https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Queen Of Hearts",
+      "url": "https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq"
     },
     {
       "album": {
@@ -7022,6 +7040,24 @@
       "duration_ms": 190915,
       "name": "Stretch Out",
       "url": "https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU"
+    },
+    {
+      "album": {
+        "name": "Sugar Me Up",
+        "url": "https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o"
+      },
+      "artists": [
+        {
+          "name": "Allie Dunn",
+          "url": "https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253517,
+      "name": "Sugar Me Up",
+      "url": "https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc"
     },
     {
       "album": {

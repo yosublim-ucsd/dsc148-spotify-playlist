@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "7 D\u00edas",
+        "url": "https://open.spotify.com/album/5YF1AWnlgwMkDXwxpaV0E9"
+      },
+      "artists": [
+        {
+          "name": "Alma Zarza",
+          "url": "https://open.spotify.com/artist/0a6LKkN5w6MkqokXAbePRL"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/4PVXolDGjeVeqNAnDLnpRP"
+    },
+    {
+      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -584,7 +602,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186373,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
@@ -899,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
@@ -1299,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Las Canciones de Plim Plim Vol. 13",
+        "url": "https://open.spotify.com/album/1qGRsKNDzShW8KNHeKquuc"
+      },
+      "artists": [
+        {
+          "name": "El Payaso Plim Plim",
+          "url": "https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200633,
+      "name": "Hickory Dickory Dock de Animales",
+      "url": "https://open.spotify.com/track/10SpITzPB6kcx0Qj7b2Qrr"
+    },
+    {
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -1328,7 +1382,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 185306,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40"
@@ -2267,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Pica",
+        "url": "https://open.spotify.com/album/3apeY7Fk0f3Y9c5gcCsTL3"
+      },
+      "artists": [
+        {
+          "name": "Los Me\u00f1iques De La Casa",
+          "url": "https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR"
+        },
+        {
+          "name": "Saritah Beb\u00e9",
+          "url": "https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169826,
+      "name": "Pica",
+      "url": "https://open.spotify.com/track/6cv6Ad76x8EX5LmS7Nq883"
+    },
+    {
+      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -2736,7 +2812,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 189333,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"

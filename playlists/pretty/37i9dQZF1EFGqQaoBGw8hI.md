@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,402 likes - 587 songs - 1 day 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,405 likes - 587 songs - 1 day 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 157 | [Friends](https://open.spotify.com/track/0v76A4FVc6OYkhwJXA3xVc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 2:24 |
 | 158 | [Jack Rabbit \- Single Version](https://open.spotify.com/track/2FXtoMPJJkxCcQbFjwuZJa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 1:49 |
 | 159 | [Amy](https://open.spotify.com/track/06jttXe119nc0r9Brkpn8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:03 |
-| 160 | [Intermission](https://open.spotify.com/track/1r1qbU1AfoL3HglCyOUXso) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:36 |
-| 161 | [Ballad Of A Well\-Known Gun](https://open.spotify.com/track/0h3ZbeBFe6jEQCQuuM0WWx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:01 |
+| 160 | [Ballad Of A Well\-Known Gun](https://open.spotify.com/track/0h3ZbeBFe6jEQCQuuM0WWx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:01 |
+| 161 | [Intermission](https://open.spotify.com/track/1r1qbU1AfoL3HglCyOUXso) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC) | 2:36 |
 | 162 | [Cold As Christmas \(In The Middle Of The Year\)](https://open.spotify.com/track/2eCdGml2e9dBfSygX0ItC0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:21 |
 | 163 | [Slave](https://open.spotify.com/track/41UXf5Tt4FShNileQJyubw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:22 |
 | 164 | [Can't Stay Alone Tonight](https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:48 |
@@ -427,8 +427,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 417 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 418 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 |
 | 419 | [Madness](https://open.spotify.com/track/7jOu8dOL0lRL8E1y8Zwe4V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 5:53 |
-| 420 | [The Scaffold](https://open.spotify.com/track/3RiHICh0pAvLGTluo12D5V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:18 |
-| 421 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 |
+| 420 | [Nina \- Stereo Mix](https://open.spotify.com/track/3xjhO7i96jCZUgscFmrSTF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 3:52 |
+| 421 | [The Scaffold](https://open.spotify.com/track/3RiHICh0pAvLGTluo12D5V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:18 |
 | 422 | [Suit Of Wolves](https://open.spotify.com/track/7mvK7JHc1fOVs7HLVP3fwV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:48 |
 | 423 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mona Lisa Smile \(Music from the Motion Picture\)](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
 | 424 | [I Stop And I Breathe](https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 3:39 |
@@ -596,4 +596,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 586 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 | 587 | [Driving To Universal](https://open.spotify.com/track/040KoSuQEPnxcuOoEYJVVI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:17 |
 
-Snapshot ID: `Abcl9AAAAAALM+pBbs1zhfzVKSfzSs8L`
+Snapshot ID: `AbcrlAAAAACLEkwawhLJf6uo+uPWmfjr`

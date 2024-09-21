@@ -1,13 +1,33 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Isaiah Falls",
-  "num_followers": 2354377,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Jordan Ward & Joony",
+  "num_followers": 2354430,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAACYnRpWjmybv0uVtyyyP190",
+  "snapshot_id": "Zuz85QAAAAAANQcHLfqeH5CT/7HJ6+KA",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 191940,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -61,22 +81,6 @@
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
-      "added_at": "2024-07-19 04:04:58",
-      "album": {
-        "name": "I'll Always Come Find You",
-        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 163695,
-      "name": "To The Moon",
-      "url": "https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Bring It Back",
@@ -95,22 +99,6 @@
       "duration_ms": 193846,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq"
-    },
-    {
-      "added_at": "2024-08-23 05:05:01",
-      "album": {
-        "name": "Kissing In Da Club",
-        "url": "https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 147317,
-      "name": "Kissing In Da Club",
-      "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -153,6 +141,90 @@
       "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/2KoY8Zzf0mVM34MQrNasSC"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Finer Things",
+      "url": "https://open.spotify.com/track/5ctfg8YxHUYbVFUPchrr8D"
+    },
+    {
+      "added_at": "2024-07-19 04:04:58",
+      "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 163695,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/6dfCnnBrqYANJSU3tpG5pI"
+    },
+    {
+      "added_at": "2024-08-23 05:05:01",
+      "album": {
+        "name": "Kissing In Da Club",
+        "url": "https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 147317,
+      "name": "Kissing In Da Club",
+      "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "F.N.F.",
+        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 129029,
+      "name": "F.N.F.",
+      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "i do this sh*t in my sleep",
@@ -187,6 +259,22 @@
       "duration_ms": 269055,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "If I Never See You Again",
+      "url": "https://open.spotify.com/track/3cEuOEpVmWnvF4RES78ZZi"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -321,6 +409,26 @@
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "SIMS CASTAWAY",
+      "url": "https://open.spotify.com/track/5pnjyl99t1xwcDCLC7zkAe"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "PINACOLADA",
@@ -363,22 +471,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "F.N.F.",
-        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 129029,
-      "name": "F.N.F.",
-      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Gap Year!",
         "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
       },
@@ -391,6 +483,26 @@
       "duration_ms": 146341,
       "name": "Want 2",
       "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "roll da dice",
+        "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "roll da dice",
+      "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
     },
     {
       "added_at": "2024-06-21 06:16:54",
@@ -459,6 +571,22 @@
       "duration_ms": 182666,
       "name": "Check - Acoustic",
       "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0AxEd8nvoSTMwZnrBsVkaB"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4c1z8cUi0nSLD6LTcbNZYn"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -845,26 +973,6 @@
       "url": "https://open.spotify.com/track/1QAmVJiBVbCr3MYQ7XNQAY"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 159818,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Trouble In Paradise",
@@ -1247,26 +1355,6 @@
       "duration_ms": 282315,
       "name": "Mary",
       "url": "https://open.spotify.com/track/1Ox21gx050alMVNZL3XCMJ"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 190412,
-      "name": "Tantrums (feat. James Blake)",
-      "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     },
     {
       "added_at": "2024-06-07 11:27:49",
@@ -1893,22 +1981,6 @@
       "url": "https://open.spotify.com/track/69OzoqYO4vR1FeNyOq5FOu"
     },
     {
-      "added_at": "2024-05-03 15:06:51",
-      "album": {
-        "name": "Cyan Blue",
-        "url": "https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 211574,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
-    },
-    {
       "added_at": "2024-03-29 06:29:51",
       "album": {
         "name": "Sadboy, Vol. 2",
@@ -2041,22 +2113,6 @@
       "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/3dcCGh01JOXtrefNVmOpsk"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Afro Blue",
@@ -2071,22 +2127,6 @@
       "duration_ms": 231427,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 225829,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -2311,26 +2351,6 @@
       "duration_ms": 166000,
       "name": "What's Luv?",
       "url": "https://open.spotify.com/track/5nsHsXk8ViwtKaBM99fAy2"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF"
-      },
-      "artists": [
-        {
-          "name": "Tyler Daley",
-          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
-        },
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar"
     },
     {
       "added_at": "2023-11-10 05:00:00",

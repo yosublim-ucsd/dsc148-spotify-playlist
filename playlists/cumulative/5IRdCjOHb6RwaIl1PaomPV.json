@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Madeline, Merry Lamb Lamb  &amp; more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring Snow Strippers, and new music from Kito, DJ_Dave, evilgiane, and more. ",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 81658,
       "name": "40 - Dj Ess Mix",
       "url": "https://open.spotify.com/track/1Ik9cfzeFLGzGPr3g6G1jz"
@@ -439,6 +439,46 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140408,
+      "name": "Aching Like It's",
+      "url": "https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x"
+    },
+    {
+      "album": {
+        "name": "SO DRAMATIC DELUXE",
+        "url": "https://open.spotify.com/album/4uqRuuh4rQcvaPPM5Rmjt9"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149152,
+      "name": "ACT BAD",
+      "url": "https://open.spotify.com/track/3M2wwNtrtuRDZGTKNRnOP5"
+    },
+    {
+      "album": {
         "name": "Admit It (u don't want 2)",
         "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
       },
@@ -520,6 +560,24 @@
       "duration_ms": 269026,
       "name": "Airborne Ashes - Eartheater & Aleksandir Remix",
       "url": "https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T"
+    },
+    {
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/2ngzamcbAFveP9OLRGUOry"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125687,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I"
     },
     {
       "album": {
@@ -739,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "Another High",
+      "url": "https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t"
+    },
+    {
+      "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
       },
@@ -944,6 +1020,50 @@
       "duration_ms": 168173,
       "name": "Babylon - Bree Runway & Jimmy Edgar Remix",
       "url": "https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR"
+    },
+    {
+      "album": {
+        "name": "BIMYOU",
+        "url": "https://open.spotify.com/album/1qlAvPHKc6Rs2Cpcf5YnAB"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "back 2 love",
+      "url": "https://open.spotify.com/track/6ihpgFagnilliKyz2gTqik"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Back N Forth",
+      "url": "https://open.spotify.com/track/0L4dXJnz7HHnnqtfOoDUbE"
     },
     {
       "album": {
@@ -1418,7 +1538,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -1903,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107612,
+      "name": "Cautious",
+      "url": "https://open.spotify.com/track/0dNLgNa4IiwsiebqEz5UZ5"
+    },
+    {
+      "album": {
         "name": "Night Killaz Vol. 2",
         "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
       },
@@ -2168,7 +2306,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 286014,
       "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor & Brazy",
       "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
@@ -2190,6 +2328,24 @@
       "duration_ms": 243665,
       "name": "Club Thanz - Dub",
       "url": "https://open.spotify.com/track/6aNpuvprwmlDKe11EfXaTl"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Comin Down",
+      "url": "https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp"
     },
     {
       "album": {
@@ -2485,6 +2641,36 @@
     },
     {
       "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
+    {
+      "album": {
         "name": "Dance For You (Blue Hawaii and DJ Kirby Remix)",
         "url": "https://open.spotify.com/album/0TWtR6w6CC5Xs64UQWJImq"
       },
@@ -2676,7 +2862,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 209600,
       "name": "Diamond Shovel",
       "url": "https://open.spotify.com/track/2Ij8nA08Iz2Zl0sA1Wnd9T"
@@ -3167,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Draw A Heart",
+      "url": "https://open.spotify.com/track/52k1yKl2F0RD48jcenwPKn"
+    },
+    {
+      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -3332,7 +3536,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 204916,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
@@ -3412,6 +3616,24 @@
       "duration_ms": 216592,
       "name": "Europatr\u00e4ume",
       "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
+    },
+    {
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "album": {
@@ -3910,6 +4132,36 @@
       "duration_ms": 263111,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
+    },
+    {
+      "album": {
+        "name": "Forever (feat. Malou & Yuna)",
+        "url": "https://open.spotify.com/album/5Vg7VGD673yE2mDt4SxZD2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Forever (feat. Malou & Yuna)",
+      "url": "https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT"
     },
     {
       "album": {
@@ -5112,7 +5364,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 137506,
       "name": "I Saw U",
       "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
@@ -5538,7 +5790,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 203636,
       "name": "JaJaJa - JO\u00c3O L\u00c1GRIMA DE OURO REMIX",
       "url": "https://open.spotify.com/track/5zWtPQUALuDdeh7ALn0iMk"
@@ -5654,7 +5906,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "Just A Hint",
       "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
@@ -5672,10 +5924,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 147234,
       "name": "Just Your Doll",
       "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/2VhIrOqGmhSuTKhKG2KCux"
     },
     {
       "album": {
@@ -5972,7 +6242,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 185882,
       "name": "Koster",
       "url": "https://open.spotify.com/track/27hPuZbAnNH0LrtdBiNZsW"
@@ -6440,7 +6710,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180840,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
@@ -6986,7 +7256,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183007,
       "name": "Mine O' Mine - P-rallel Remix",
       "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
@@ -7325,6 +7595,28 @@
     },
     {
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/0MyZPl6tut29fADexADyqw"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/79czPfl52BLZvhZ89JzauG"
+    },
+    {
+      "album": {
         "name": "Nausia",
         "url": "https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB"
       },
@@ -7336,10 +7628,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 112094,
       "name": "Nausia",
       "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/6qMEgI3Q98leMOlFeAKqmW"
     },
     {
       "album": {
@@ -7804,7 +8114,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168888,
       "name": "OMG",
       "url": "https://open.spotify.com/track/6PqwDTrBeCkRnfTvLsqIQT"
@@ -7998,7 +8308,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 128703,
       "name": "Out Of Options",
       "url": "https://open.spotify.com/track/1ygHZpILmwL7EaByT1SVAO"
@@ -8276,7 +8586,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 142456,
       "name": "Police Scanner",
       "url": "https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY"
@@ -8589,6 +8899,24 @@
     },
     {
       "album": {
+        "name": "You Weren't Supposed To See That...",
+        "url": "https://open.spotify.com/album/2kZI8xYKOgZ5bEWLEhGmqI"
+      },
+      "artists": [
+        {
+          "name": "DJmegan23",
+          "url": "https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64768,
+      "name": "Put The Gloxx Down",
+      "url": "https://open.spotify.com/track/5AwERbJzHU89ztgK1vAjOA"
+    },
+    {
+      "album": {
         "name": "Rahat Al Chant Ymme",
         "url": "https://open.spotify.com/album/5h3JKxrpvcQs3BbPM1sAUF"
       },
@@ -8618,7 +8946,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 77000,
       "name": "Rainer",
       "url": "https://open.spotify.com/track/6UEKpBUM9dhgqZ3DFZmgGo"
@@ -9626,7 +9954,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 254314,
       "name": "Simple Times",
       "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
@@ -10038,7 +10366,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188320,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
@@ -10264,6 +10592,24 @@
       "duration_ms": 238763,
       "name": "Tacon (feat. Six Sex, OH!DULCEARi & Methmath)",
       "url": "https://open.spotify.com/track/2CsIRWODFyAzwcYkgoEW5G"
+    },
+    {
+      "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
       "album": {
@@ -10552,7 +10898,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214615,
       "name": "the life and death of a dog",
       "url": "https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX"
@@ -10785,6 +11131,24 @@
     },
     {
       "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Throw It Back Away",
+      "url": "https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh"
+    },
+    {
+      "album": {
         "name": "SHHHHHHH!",
         "url": "https://open.spotify.com/album/4KyU3E5Xw6TVBz2yCuUfeW"
       },
@@ -10940,10 +11304,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 212745,
       "name": "Touch Me - B Roll Mix",
       "url": "https://open.spotify.com/track/6GF5IvnyvZiHchFf6haVOs"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134496,
+      "name": "Touching Yours",
+      "url": "https://open.spotify.com/track/7vTKFevDv6L2gry4PAdDxl"
     },
     {
       "album": {
@@ -11199,6 +11581,24 @@
     },
     {
       "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "album": {
         "name": "MYCELiUM",
         "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
       },
@@ -11254,6 +11654,28 @@
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
+    },
+    {
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        },
+        {
+          "name": "PurpleSparklyBentley",
+          "url": "https://open.spotify.com/artist/3bd8Wm66L86xHkqcGnKVy6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154394,
+      "name": "Video Games 2",
+      "url": "https://open.spotify.com/track/6OcdE1JNrGx3ONvMbrVds3"
     },
     {
       "album": {
@@ -11728,7 +12150,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 260941,
       "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
       "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
@@ -11764,7 +12186,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 208967,
       "name": "World's Hardest Game",
       "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
@@ -11898,7 +12320,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 236373,
       "name": "Yal Harak Qalbe",
       "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"

@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-345 songs - 18 hr 56 min
+346 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2023-09-15 |  |
 | [Praying](https://open.spotify.com/track/79NlESqzFSW0hdBWgls4FX) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Praying](https://open.spotify.com/album/4pfzhxwwQy4B8lySxjwKdt) | 3:50 | 2023-09-15 |  |
 | [Prove Them Wrong](https://open.spotify.com/track/3PRdZK9wZhSr4GpbuJy4nC) | [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Prove Them Wrong](https://open.spotify.com/album/43GkBDgIeZypvGelDFCjiH) | 2:45 | 2023-09-15 |  |
+| [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 |  |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2023-09-15 |  |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2023-09-15 |  |
 | [Reason To Stay](https://open.spotify.com/track/3DS707nbYWCSB9h2gm8j3E) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/4RSKXvLmT3lHlPlJWsewyk) | 3:08 | 2023-09-15 |  |

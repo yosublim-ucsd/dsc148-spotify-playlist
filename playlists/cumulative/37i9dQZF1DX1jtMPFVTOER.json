@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 264066,
       "name": "90s - Butcher Brown Remix",
       "url": "https://open.spotify.com/track/7fyFC72pjitDo4cmL0gX4W"
@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180634,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6c6Wle9do1ThhMpEQzpG1B"
@@ -8100,6 +8100,28 @@
       "duration_ms": 235081,
       "name": "Nothing Can Tear Us Apart",
       "url": "https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB"
+    },
+    {
+      "album": {
+        "name": "Nothing Much",
+        "url": "https://open.spotify.com/album/2WGQ4kDAjeqZze2a2LzFTz"
+      },
+      "artists": [
+        {
+          "name": "The O'My's",
+          "url": "https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286215,
+      "name": "Nothing Much",
+      "url": "https://open.spotify.com/track/3e8p14OhUmrHbugk5aSg8f"
     },
     {
       "album": {
@@ -12444,6 +12466,28 @@
       "duration_ms": 172423,
       "name": "We Good",
       "url": "https://open.spotify.com/track/0lDV0fFZoExtkbPPSAXWea"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4B2gfyDO3wslxRbwWw0w8l"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/71ZF6Lyg6lmqy78h275YMv"
     },
     {
       "album": {

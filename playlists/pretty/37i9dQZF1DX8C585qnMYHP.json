@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 171937,
+  "num_followers": 172021,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "duration_ms": 320044,
+      "name": "Moonlit Whispers",
+      "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+    },
+    {
       "added_at": "2024-08-16 15:22:57",
       "album": {
         "name": "K.O.",
@@ -731,22 +747,6 @@
       "duration_ms": 191145,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
-      },
-      "artists": [
-        {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
-        }
-      ],
-      "duration_ms": 320044,
-      "name": "Moonlit Whispers",
-      "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Northern Classic",
@@ -1139,6 +1123,22 @@
       "duration_ms": 336786,
       "name": "Drifting Around",
       "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Cr\u00edo Cuervos",
-        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
-      },
-      "artists": [
-        {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        }
-      ],
-      "duration_ms": 238808,
-      "name": "Cr\u00edo Cuervos",
-      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "hope's return",
@@ -1277,20 +1261,20 @@
       "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+        "name": "Cr\u00edo Cuervos",
+        "url": "https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld"
       },
       "artists": [
         {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+      "duration_ms": 238808,
+      "name": "Cr\u00edo Cuervos",
+      "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 223098,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Bearings: Soundtracks for the Bardos",
-        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
-      },
-      "artists": [
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 240868,
-      "name": "Gate VIII",
-      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "R.N.A.O Meets P.O.P.O",
         "url": "https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
+        "name": "Bearings: Soundtracks for the Bardos",
+        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
       "artists": [
         {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Ines",
-      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
+      "duration_ms": 240868,
+      "name": "Gate VIII",
+      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1555,6 +1539,22 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
+      },
+      "artists": [
+        {
+          "name": "Alena Spanger",
+          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Airdrop 04 (Squeeze Yer Lemon)",
-        "url": "https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf"
-      },
-      "artists": [
-        {
-          "name": "Low End Activist",
-          "url": "https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Airdrop 04 (Squeeze Yer Lemon)",
-      "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Cold Drinks, Hot Dreams",
         "url": "https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 628000,
       "name": "Cold Drinks",
       "url": "https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Airdrop 04 (Squeeze Yer Lemon)",
+        "url": "https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf"
+      },
+      "artists": [
+        {
+          "name": "Low End Activist",
+          "url": "https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Airdrop 04 (Squeeze Yer Lemon)",
+      "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
     },
     {
       "added_at": "2024-08-21 04:00:00",

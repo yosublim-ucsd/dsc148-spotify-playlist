@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-314 songs - 20 hr 16 min
+315 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-11-29 | 2023-04-27 |
 | [Can't Fight Love](https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW) | [Marifé](https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X) | [Can't Fight Love](https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV) | 4:16 | 2021-11-19 |  |
 | [Catwoman](https://open.spotify.com/track/1bOkcokcnMh8xwjwkIDfM6) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/6TvDKiV5Wd3D4NiF9oywoX) | 3:31 | 2024-02-02 | 2024-04-19 |
-| [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 | 2021-11-19 |  |
+| [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 | 2021-11-19 | 2024-09-21 |
 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 | 2021-11-19 |  |
 | [Changing Lanes](https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes](https://open.spotify.com/album/79kk1P3ZjLoVtsWveGxF5C) | 3:19 | 2021-11-19 | 2022-07-29 |
 | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/track/59BleZfCXAjHvpbfFJYnYZ) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes \(from "The Publicist"\)](https://open.spotify.com/album/3vYXzcHYfiJDrgzg4TakHm) | 3:19 | 2022-07-14 | 2023-09-02 |
@@ -96,6 +96,7 @@
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 | 2023-12-14 |
 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 | 2024-04-10 |
 | [Follow](https://open.spotify.com/track/54klJfQfIJY2CrU1VOJHxk) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/2wPswblTpxjufCoGGyilYs) | 3:52 | 2021-11-19 | 2022-07-29 |
+| [forever](https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [forever](https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh) | 3:39 | 2024-09-18 |  |
 | [Forever Now](https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:40 | 2021-11-19 | 2024-04-10 |
 | [Fragile](https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:01 | 2022-08-11 | 2022-10-14 |
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2022-10-13 | 2022-12-08 |

@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-133 songs - 13 hr 54 min
+134 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:12 | 2022-09-02 | 2024-04-19 |
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [É Tudo Sobre Você \(Ao Vivo\)](https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok) | 6:12 | 2022-10-07 | 2022-11-13 |
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/7o00LMD8A69Ghc2KznnRFL) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS) | 6:12 | 2024-01-05 |  |
-| [Único \- Live](https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:59 | 2023-06-02 |  |
+| [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \- Acústico](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 | 2024-09-20 |  |
+| [Único \- Live](https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:59 | 2023-06-02 | 2024-09-21 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

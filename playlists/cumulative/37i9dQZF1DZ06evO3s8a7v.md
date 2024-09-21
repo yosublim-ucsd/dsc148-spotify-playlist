@@ -2,7 +2,7 @@
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is MYA\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is MYA\. Les titres incontournables, réunis dans une seule et même playlist.
 
 59 songs - 3 hr 5 min
 

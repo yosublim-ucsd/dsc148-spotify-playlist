@@ -7391,6 +7391,28 @@
     },
     {
       "album": {
+        "name": "Raba",
+        "url": "https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Sir hopy",
+          "url": "https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158590,
+      "name": "Raba",
+      "url": "https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm"
+    },
+    {
+      "album": {
         "name": "Rabba Vs Love",
         "url": "https://open.spotify.com/album/76VsVMPLci9DBejCpvzFit"
       },
@@ -8950,7 +8972,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 141771,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf"

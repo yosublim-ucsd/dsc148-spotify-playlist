@@ -1,12 +1,12 @@
 {
   "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 211571,
+  "num_followers": 211626,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAADSRsf/KNQ42sl8MnoTIwg2",
+  "snapshot_id": "ZutpgAAAAACWCFV8SJo3rYFW6kWIY42x",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Me Gustas Mucho (En Vivo)",
-      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Movimiento Alterado Vol. 3",
         "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 142933,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Me Gustas Mucho (En Vivo)",
+      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricias de Prepago",
-        "url": "https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH"
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
+        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 172821,
-      "name": "Caricias de Prepago",
-      "url": "https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD"
+      "duration_ms": 248000,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
-        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
+        "name": "Caricias de Prepago",
+        "url": "https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
+      "duration_ms": 172821,
+      "name": "Caricias de Prepago",
+      "url": "https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD"
     },
     {
       "added_at": null,
@@ -871,38 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Enamorada",
-        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 140511,
-      "name": "Mujer Enamorada",
-      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 182212,
       "name": "Fuga Pa Maza",
       "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El cantador (En vivo)",
+        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "El cantador - En vivo",
+      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Enamorada",
+        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 140511,
+      "name": "Mujer Enamorada",
+      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
     }
   ],
   "unique_name": "This Is El Komander",

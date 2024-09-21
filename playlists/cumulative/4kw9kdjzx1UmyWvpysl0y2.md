@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-820 songs - 1 day 22 hr 48 min
+821 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 | 2024-09-05 |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |
+| [POWER](https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [POWER](https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn) | 3:00 | 2024-09-20 |  |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |
 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 | 2023-02-07 | 2023-04-25 |
 | [Pressure](https://open.spotify.com/track/365IYr43HlceGJWG5ENNQ5) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Pressure](https://open.spotify.com/album/1Pa9ilp1EF4CoSJAcd25Ma) | 3:24 | 2024-07-12 |  |
@@ -571,7 +572,7 @@
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Ready Now](https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ary kemler](https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69) | [Ready Now](https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU) | 3:21 | 2024-08-07 |  |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
-| [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 |  |
+| [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 | 2024-09-21 |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 | 2024-08-22 |  |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Ainda",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Chechi de Marcos.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
+    },
+    {
+      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -1244,6 +1262,24 @@
       "duration_ms": 236229,
       "name": "cuando te perd\u00ed",
       "url": "https://open.spotify.com/track/4zuHDOyshbR9i8l02FfVGj"
+    },
+    {
+      "album": {
+        "name": "cuidar el mango",
+        "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "cuidar el mango",
+      "url": "https://open.spotify.com/track/7wktHW9MlxOYsvxJoAmdsM"
     },
     {
       "album": {
@@ -2144,6 +2180,28 @@
       "duration_ms": 154033,
       "name": "flashi\u00e9",
       "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
+    },
+    {
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/3mVMYocHzvOhcpN6rGj2PJ"
+      },
+      "artists": [
+        {
+          "name": "GATITAS VEGANAS",
+          "url": "https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28"
+        },
+        {
+          "name": "Gordo Larvo",
+          "url": "https://open.spotify.com/artist/0xXkM0BNmY1NZeruflUzng"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/44goxeEbeHVBMVyX5GKWIa"
     },
     {
       "album": {
@@ -3176,6 +3234,24 @@
       "duration_ms": 229249,
       "name": "Nada para siempre",
       "url": "https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB"
+    },
+    {
+      "album": {
+        "name": "Nada Que Decir",
+        "url": "https://open.spotify.com/album/0QMciV8uK7PpIVr5Uy3eEX"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Nada Que Decir",
+      "url": "https://open.spotify.com/track/7n6Judorbmi3LyykG9AcYP"
     },
     {
       "album": {
@@ -4235,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/4VOkgMhd0vF1msSlm3HuRs"
+      },
+      "artists": [
+        {
+          "name": "Ruido Cassette",
+          "url": "https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx"
+        },
+        {
+          "name": "Camila Coccia",
+          "url": "https://open.spotify.com/artist/6Kx2DXNALSAnsFwQHK5mhm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198909,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/3tkbJtsTpgsjiB9zMXByy0"
+    },
+    {
+      "album": {
         "name": "Siempre Me Dejaste Volver",
         "url": "https://open.spotify.com/album/314UhDRgPlhLpFWm1p5vyd"
       },
@@ -4700,7 +4798,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
@@ -4983,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "Uno de los dos",
+        "url": "https://open.spotify.com/album/6G3KBtsRXGRm0byS7kYAtK"
+      },
+      "artists": [
+        {
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+        },
+        {
+          "name": "Sim\u00f3n Hempe",
+          "url": "https://open.spotify.com/artist/7j2GnY0aIf1AVSCynkX3yn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197086,
+      "name": "Uno de los dos",
+      "url": "https://open.spotify.com/track/7eHE04K3TFinAUUv9ShX9Q"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz"
       },
@@ -5086,6 +5206,24 @@
       "duration_ms": 181226,
       "name": "Visa Gold Miami",
       "url": "https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg"
+    },
+    {
+      "album": {
+        "name": "Vos y Yo :3",
+        "url": "https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193270,
+      "name": "Vos y Yo :3",
+      "url": "https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g"
     },
     {
       "album": {

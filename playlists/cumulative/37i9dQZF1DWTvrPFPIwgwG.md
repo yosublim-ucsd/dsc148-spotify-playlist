@@ -2,12 +2,13 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Fernanda Brum
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Aline Barros
 
-221 songs - 19 hr 1 min
+223 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 | 2024-09-20 |  |
 | [A Cura do Céu](https://open.spotify.com/track/1X0bDwAikhhYczLtG6Ckp7) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Cura do Céu](https://open.spotify.com/album/619OqlqJ59fsZde9KAUUmG) | 4:12 | 2023-09-01 | 2023-09-09 |
 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 | 2024-08-09 |  |
 | [A Igreja Vai Rompendo](https://open.spotify.com/track/4dgefmixhra06k2ugKL33e) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [A Igreja Vai Rompendo](https://open.spotify.com/album/1t27h2udoKp1zAmS4HBTFe) | 6:15 | 2023-06-23 | 2023-07-08 |
@@ -114,6 +115,7 @@
 | [Marcas da Dor](https://open.spotify.com/track/0n3kpiCcgLLZpuiKy0CBeC) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [Marcas da Dor](https://open.spotify.com/album/0Z9pMXe3ViuOtPmLIxMWtN) | 6:43 | 2023-06-23 | 2023-07-08 |
 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 | 2023-01-13 | 2023-02-25 |
 | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi) | 8:13 | 2023-03-24 | 2023-05-13 |
+| [Meu Deus É Grande](https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f) | [Conceição Cabral](https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF) | [Meu Deus É Grande](https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa) | 5:34 | 2024-09-20 |  |
 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \- Ao Vivo](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 | 2024-08-16 |  |
 | [Meu Perfume \- Ao Vivo](https://open.spotify.com/track/4CvqtrYo12Nmyd0j88LJbq) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Meu Perfume \(Ao Vivo\)](https://open.spotify.com/album/1qtwvGqyEdfabD3y1DSL9o) | 7:12 | 2023-05-12 | 2023-06-24 |
 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 | 2024-04-19 |  |
@@ -198,7 +200,7 @@
 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 | 2024-04-26 |  |
 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 | 2022-09-09 |  |
 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 | 2022-09-09 |  |
-| [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 | 2023-03-17 |  |
+| [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 | 2023-03-17 | 2024-09-21 |
 | [Tranquiliza \- Ao Vivo](https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Tranquiliza \(Ao Vivo\)](https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ) | 7:09 | 2023-08-18 |  |
 | [Treinar Você](https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO) | [Kemily Maciel](https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Treinar Você](https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc) | 5:01 | 2022-09-30 | 2022-10-15 |
 | [Tua Graça Me Basta \- Ao Vivo](https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv) | [Esther Fiaux](https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tua Graça Me Basta \(Ao Vivo\)](https://open.spotify.com/album/61uch0I53YX2d3eifc15D7) | 8:07 | 2024-04-26 |  |

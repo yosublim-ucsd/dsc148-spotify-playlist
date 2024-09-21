@@ -1,13 +1,77 @@
 {
-  "description": "Underground indie rock gems. Cover: Lunar Vacation",
-  "num_followers": 296979,
+  "description": "Underground indie rock gems. Cover: Lutalo",
+  "num_followers": 297000,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4/AAAAABhmrbZsw/JoyPGC5nibNQQ",
+  "snapshot_id": "ZuzzQAAAAABzhwf6TNQFaN8MvO8efTPx",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Academy",
+        "url": "https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN"
+      },
+      "artists": [
+        {
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Ganon",
+      "url": "https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Caf\u00e9 Life",
+        "url": "https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB"
+      },
+      "artists": [
+        {
+          "name": "Starcleaner Reunion",
+          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Snowfeel",
+      "url": "https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mudglimmer/Compromised Dirt",
+        "url": "https://open.spotify.com/album/2cn2pjXIxV5Huj9e3CD2aQ"
+      },
+      "artists": [
+        {
+          "name": "The Slaps",
+          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Mudglimmer",
+      "url": "https://open.spotify.com/track/4h7iOSpLHzHcZqL80SkMAC"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 209695,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
+    },
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
@@ -25,20 +89,20 @@
       "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Crow",
-        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0mDCPRA0M98EaViYWI0mGo"
       },
       "artists": [
         {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
         }
       ],
-      "duration_ms": 209695,
-      "name": "Crow",
-      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
+      "duration_ms": 257687,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7iZuydBaeVdETro5wdcomc"
     },
     {
       "added_at": "2024-09-13 04:01:00",

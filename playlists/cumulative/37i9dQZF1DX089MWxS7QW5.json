@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168760,
       "name": "Dive",
       "url": "https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164215,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7"
@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210680,
       "name": "it's my fault",
       "url": "https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx"
@@ -4726,6 +4726,28 @@
       "duration_ms": 198690,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS"
+    },
+    {
+      "album": {
+        "name": "Man Like You",
+        "url": "https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jang",
+          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158469,
+      "name": "Man Like You",
+      "url": "https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40"
     },
     {
       "album": {
@@ -6462,7 +6484,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160106,
       "name": "Squat",
       "url": "https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ"

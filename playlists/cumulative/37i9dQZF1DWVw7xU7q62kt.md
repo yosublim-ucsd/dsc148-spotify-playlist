@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-251 songs - 12 hr 55 min
+252 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |
 | [do good, think bad](https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [stealing from cats](https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv) | 2:22 | 2024-06-04 |  |
 | [Dog Dad](https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O) | [Dog Dad](https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f) | 4:00 | 2023-10-13 |  |
-| [Dominoes](https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM) | [moondiver](https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp) | [Dominoes](https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB) | 4:20 | 2023-08-22 |  |
+| [Dominoes](https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM) | [moondiver](https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp) | [Dominoes](https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB) | 4:20 | 2023-08-22 | 2024-09-21 |
 | [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 | 2024-08-19 |
 | [Doomed](https://open.spotify.com/track/5hSdWD0d2yWdLe8LHh7S60) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:32 | 2024-03-08 | 2024-04-19 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 |  |
@@ -220,6 +220,7 @@
 | [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-08-22 |  |
+| [Tea Ceremony](https://open.spotify.com/track/23cLHNTqtU9BjKoLUgD1c0) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Tea Ceremony](https://open.spotify.com/album/3UtYd1smJnxZX5jGRuHRo3) | 2:36 | 2024-09-20 |  |
 | [Tears of Fate](https://open.spotify.com/track/4zrlJ5ukxX2dDxgPAcSZiw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 4:33 | 2023-10-13 |  |
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 |  |
 | [Terra](https://open.spotify.com/track/6RHmpxgOzMYsZHhhkM4D3l) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Terra](https://open.spotify.com/album/75NSOvwrQGZmbzS88DblU5) | 2:21 | 2024-09-06 |  |

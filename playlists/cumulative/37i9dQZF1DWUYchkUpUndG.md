@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=IsFwsk8TRPummkMhBslTUg>Ada Ehi</a>
 
-3,502 songs - 10 day 14 hr 52 min
+3,504 songs - 10 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [Found](https://open.spotify.com/track/3eHiUte3rNC9lK2rh2uLEW) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [Found](https://open.spotify.com/album/0nbtsOnA6Vj0LQZgWl17Y7) | 2:27 | 2023-07-28 | 2023-08-11 |
 | [Found Me](https://open.spotify.com/track/6f6YrZaGV5HfcCPjwFrlyt) | [Flowzbevtz](https://open.spotify.com/artist/1xdjeiB1Muh9RWJA8EvMXO), [Mawat](https://open.spotify.com/artist/57ITpWc60F6Asghn09mvPC), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Found Me](https://open.spotify.com/album/6YeSZ8hFMIBbdqQKfXUQUr) | 2:30 | 2024-08-23 | 2024-09-06 |
 | [Found You](https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Found You](https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx) | 3:45 | 2024-02-16 | 2024-03-01 |
+| [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/033NkNjZZYViLZm4UOi9hT) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Lifted](https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe) | 4:27 | 2024-09-20 |  |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2023-12-01 | 2023-12-15 |
 | [Free](https://open.spotify.com/track/6gmZZ6tLBlJ1fU9X6QpB0k) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Free](https://open.spotify.com/album/1ERf14KBAvrpHuoDCXCz4t) | 2:38 | 2024-05-31 | 2024-06-14 |
 | [Free](https://open.spotify.com/track/41HYH4xwi9lv6ZiVsxTL3S) | [Lapel J Datpastorboi](https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6), [G ben](https://open.spotify.com/artist/7gxmVlZ8xqNzB9Sup3rh21) | [Free](https://open.spotify.com/album/6oeNMAEIvOiiPc4dRpwlkI) | 4:13 | 2023-07-14 | 2023-07-28 |
@@ -2935,6 +2936,7 @@
 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 | 2024-09-20 |  |
 | [The Difference](https://open.spotify.com/track/2rJ3Bsew0FYLz9OIPk92vf) | [Kenny Sam](https://open.spotify.com/artist/3ics8hSY9l9aIBHboZ5Go2) | [The Difference](https://open.spotify.com/album/3WXxj4iehhjYjvQ5mFjHeH) | 4:25 | 2024-04-12 | 2024-04-26 |
 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-01-26 | 2024-02-09 |
+| [The Edge](https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Shiv Musiq](https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH) | [The Edge](https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK) | 3:56 | 2024-09-20 |  |
 | [The Fall of Judas](https://open.spotify.com/track/0ksQzPD3lHWNwzkgq7puJD) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [The Fall of Judas](https://open.spotify.com/album/45kewqxvp7w8OxwmIWzpof) | 2:20 | 2024-07-05 | 2024-07-19 |
 | [The Fire Anthem](https://open.spotify.com/track/7fBGyMmZ04f4Y3CzTgoLTT) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [The Fire Anthem](https://open.spotify.com/album/1IvMg4pbeLLpatGD0PmTII) | 4:58 | 2024-07-12 | 2024-07-27 |
 | [The God of the Angel Armies \| Prayer Chant](https://open.spotify.com/track/1xzVKMyL6mKQlYup0ERibs) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [The God of the Angel Armies \| Prayer Chant](https://open.spotify.com/album/3irzxOlrRS9ePnG8ol2K1o) | 7:30 | 2024-07-12 | 2024-07-27 |

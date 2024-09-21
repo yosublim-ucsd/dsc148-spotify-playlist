@@ -1,12 +1,12 @@
 {
-  "description": "This is Gabriela Rocha. Tutti i brani in un'unica playlist.",
-  "num_followers": 263588,
+  "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
+  "num_followers": 263614,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAABkqJ34GgyG5Sp8+icOp73x",
+  "snapshot_id": "ZutpgAAAAAAgbZe1KV+7JlULrl8+U/0m",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yahweh - Ao Vivo",
-        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 797796,
-      "name": "Yahweh - Ao Vivo",
-      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yahweh - Ao Vivo",
+        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 797796,
+      "name": "Yahweh - Ao Vivo",
+      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 344746,
-      "name": "Meu Cora\u00e7\u00e3o \u00c9 Teu / Pra Te Adorar",
-      "url": "https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 266029,
       "name": "Outro Na Fornalha",
       "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 344746,
+      "name": "Meu Cora\u00e7\u00e3o \u00c9 Teu / Pra Te Adorar",
+      "url": "https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o H\u00e1 Nome Maior",
         "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
-        "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 305180,
-      "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
-      "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acts 2",
         "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 375735,
       "name": "Acts 2",
       "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+        "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 305180,
+      "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
+      "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

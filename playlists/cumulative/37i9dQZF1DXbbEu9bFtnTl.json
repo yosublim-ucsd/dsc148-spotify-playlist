@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/0ffBeyikivwlryVXY33Afv"
+      },
+      "artists": [
+        {
+          "name": "Pokito Paranoiko",
+          "url": "https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag"
+        },
+        {
+          "name": "Tresfou",
+          "url": "https://open.spotify.com/artist/4DtCGaOs1KNyniHfNmW1lX"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168992,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/7maZnc0kfq8FcsvQgK6YBE"
+    },
+    {
+      "album": {
         "name": "AUN ASI, SON MIS SENTIMIENTOS",
         "url": "https://open.spotify.com/album/55u0eEB25TTmxApTl0KCu7"
       },
@@ -156,6 +178,28 @@
       "duration_ms": 149802,
       "name": "AUN SI MA\u00d1ANA TE VAS",
       "url": "https://open.spotify.com/track/2PkYzjOfu80w5CYOP0gs1K"
+    },
+    {
+      "album": {
+        "name": "aunque digas que lo sientes (og)",
+        "url": "https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML"
+      },
+      "artists": [
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "Yakashi X",
+          "url": "https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115105,
+      "name": "aunque digas que lo sientes (og)",
+      "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
     },
     {
       "album": {
@@ -312,7 +356,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179920,
       "name": "C0N MI V0Z SOL4!",
       "url": "https://open.spotify.com/track/4AV05lvc5McRLNzjGtD4iY"
@@ -352,6 +396,64 @@
       "duration_ms": 142451,
       "name": "CICATRIZ",
       "url": "https://open.spotify.com/track/6kdfiouvVHeYbcvgUIv1eQ"
+    },
+    {
+      "album": {
+        "name": "CIELO",
+        "url": "https://open.spotify.com/album/6LI2QWSO7ZhHgCcL655vDX"
+      },
+      "artists": [
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "CIELO",
+      "url": "https://open.spotify.com/track/0OKlLkNL565cpOdogA0ZuM"
+    },
+    {
+      "album": {
+        "name": "contacto visual",
+        "url": "https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116454,
+      "name": "contacto visual",
+      "url": "https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc"
+    },
+    {
+      "album": {
+        "name": "Cruz Invertida",
+        "url": "https://open.spotify.com/album/0AKJqDM2XiycnJmGVSWbA8"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139791,
+      "name": "Cruz Invertida ft. Rojuu",
+      "url": "https://open.spotify.com/track/4MzZhicdTzuhnY9fSDhMeL"
     },
     {
       "album": {
@@ -700,7 +802,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 231000,
       "name": "Estoy cansao",
       "url": "https://open.spotify.com/track/22i7tRTyAQSSkgLNmpZ7ao"
@@ -836,6 +938,32 @@
       "duration_ms": 200733,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/7suv2VlY9SC5W0rUjneAdD"
+    },
+    {
+      "album": {
+        "name": "VAMPIRITO",
+        "url": "https://open.spotify.com/album/78QMaAzOYW0KIOlVIIHUpI"
+      },
+      "artists": [
+        {
+          "name": "Young Aleexx",
+          "url": "https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL"
+        },
+        {
+          "name": "Tomasa del Real",
+          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+        },
+        {
+          "name": "xKori",
+          "url": "https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/7DuHhFDPkuEDYEtYaRC2Or"
     },
     {
       "album": {
@@ -1294,6 +1422,28 @@
       "duration_ms": 139718,
       "name": "LOKI",
       "url": "https://open.spotify.com/track/1aT4PaBwWMoQpLqdtj8g2S"
+    },
+    {
+      "album": {
+        "name": "LokO d amOor",
+        "url": "https://open.spotify.com/album/1Nmrwk4EMuvBw2vPGGNQEv"
+      },
+      "artists": [
+        {
+          "name": "Jota Ce",
+          "url": "https://open.spotify.com/artist/2pCTP41trGs1HpF3HdyKxW"
+        },
+        {
+          "name": "Miko.666",
+          "url": "https://open.spotify.com/artist/7wun6kOabfdY0WjXVm6aZY"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156858,
+      "name": "LokO d amOor",
+      "url": "https://open.spotify.com/track/4brP3sMu279Ym4gwSgilWn"
     },
     {
       "album": {
@@ -1780,7 +1930,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150902,
       "name": "para siempre(\uff61>\ufe4f<)",
       "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
@@ -1846,7 +1996,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146511,
       "name": "Pienso D+",
       "url": "https://open.spotify.com/track/3h6quy9cymRyTWugH702vk"
@@ -2168,7 +2318,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138937,
       "name": "Suspiro",
       "url": "https://open.spotify.com/track/5r8yTDFdDRSRnyiu9i07DD"

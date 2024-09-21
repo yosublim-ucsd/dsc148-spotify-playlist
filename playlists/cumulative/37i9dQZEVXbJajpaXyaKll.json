@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 184621,
       "name": "Corazones Rojos",
       "url": "https://open.spotify.com/track/14szvbja0XoHuX5FuEnjqm"
@@ -3321,6 +3321,40 @@
     },
     {
       "album": {
+        "name": "De La Nada (Remix)",
+        "url": "https://open.spotify.com/album/4e1FxXlZZmbi9R6Pqpmau1"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Los G4",
+          "url": "https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300373,
+      "name": "De La Nada - Remix",
+      "url": "https://open.spotify.com/track/2OfBHBXUv6G3PYFaiFYEEM"
+    },
+    {
+      "album": {
         "name": "De Repente",
         "url": "https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq"
       },
@@ -3408,7 +3442,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 140668,
       "name": "Despues de la 1 (Frikitona)",
       "url": "https://open.spotify.com/track/4ntpKl358A7Vue01uHmTx0"
@@ -4238,6 +4272,24 @@
       "duration_ms": 107218,
       "name": "ellas",
       "url": "https://open.spotify.com/track/1A2iEt3LpHuVEH5Dz2Lrer"
+    },
+    {
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "album": {
@@ -5150,7 +5202,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -9750,7 +9802,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"

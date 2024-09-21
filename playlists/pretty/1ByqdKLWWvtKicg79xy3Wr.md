@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/1ByqdKLWWvtKicg79xy3Wr.md) - [plain](/playlists/plain/1ByqdKLWWvtKicg79xy3Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1ByqdKLWWvtKicg79xy3Wr)
 
-### [Not So Chill \- House Music 2024](https://open.spotify.com/playlist/1ByqdKLWWvtKicg79xy3Wr)
+### [Not So Chill Radio](https://open.spotify.com/playlist/1ByqdKLWWvtKicg79xy3Wr)
 
 > House Music 🏠🎵 + everything else \| Updated Weekly\-ish
 
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/1ByqdKLWWvtKicg79xy3Wr.md) - [plain]
 | 248 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6) | 2:50 |
 | 249 | [What U Need](https://open.spotify.com/track/24So6fkqwwNQRsIF8AyPw9) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [What U Need](https://open.spotify.com/album/2FS1NEPMbPVMtjnJASbpuZ) | 2:57 |
 
-Snapshot ID: `AAAGIaP89U/P9k1kDSnhiLiFvYBu9gVX`
+Snapshot ID: `AAAGItl7ne2mh5Vu78tAxAOODlJwt5hP`

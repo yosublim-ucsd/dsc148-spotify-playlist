@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92190,
+  "num_followers": 92201,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
       "artists": [
         {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
         }
       ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "I'm Not Dead Yet",
-        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "If You Lose Her, You're A Loser",
-      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Del av dig",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 221418,
       "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "I'm Not Dead Yet",
+        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "If You Lose Her, You're A Loser",
+      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
-      },
-      "artists": [
-        {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Tar det upp i topp",
+        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Tar det upp i topp",
+      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Finish Line",
         "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Mordbrand",
         "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 218103,
       "name": "Mordbrand",
       "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tar det upp i topp",
-        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Tar det upp i topp",
-      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
         "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 237508,
       "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
       "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Tiden f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "Tiden f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 183053,
       "name": "Elaine",
       "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tiden f\u00f6rsvinner",
-        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "Tiden f\u00f6rsvinner",
-      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Caught Me On A Bad Day",
+        "url": "https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN"
+      },
+      "artists": [
+        {
+          "name": "Martin Almgren",
+          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
+        }
+      ],
+      "duration_ms": 210468,
+      "name": "Caught Me On A Bad Day",
+      "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Double Up",
         "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Caught Me On A Bad Day",
-        "url": "https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN"
-      },
-      "artists": [
-        {
-          "name": "Martin Almgren",
-          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
-        }
-      ],
-      "duration_ms": 210468,
-      "name": "Caught Me On A Bad Day",
-      "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "En k\u00e4rlek sj\u00e4lv",
         "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
       },
       "artists": [
         {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+          "name": "Lexi Berg",
+          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
         }
       ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+      "duration_ms": 200000,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     }
   ],
   "unique_name": "Aktuellt",

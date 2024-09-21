@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover:  張蔓姿 Gigi Cheung
 
-372 songs - 22 hr 19 min
+373 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [What You Get](https://open.spotify.com/track/44PGzR19q2lueHkZGar6mm) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [What You Get](https://open.spotify.com/album/2VRaFTFydFnj6K1MPFezFd) | 4:08 | 2024-06-27 |  |
 | [Why You](https://open.spotify.com/track/6I5pK5EWlBChGfU3irrc0O) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 3:35 | 2024-06-27 |  |
 | [XOXO](https://open.spotify.com/track/0lPDGagRD1jCoRDVElX002) | [鍾舒祺](https://open.spotify.com/artist/7D3ifs7oGF0VJ3o8axspUu) | [XOXO](https://open.spotify.com/album/2aMutS8BUTZDJoUcI858DX) | 3:34 | 2024-06-27 |  |
+| [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-19 |  |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 |  |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 |  |

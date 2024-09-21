@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Rhys",
-  "num_followers": 97963,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Samantha Ebert",
+  "num_followers": 97986,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAAl87PRkGRCpOUzeeCW7wsc",
+  "snapshot_id": "Zu21lgAAAACIs+3MJuoEpihJva6jsZo1",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "duration_ms": 166912,
+      "name": "If You Were A Person (Ruby's Song)",
+      "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 235287,
       "name": "Heathrow",
       "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
+    },
+    {
+      "added_at": "2024-09-20 17:49:09",
+      "album": {
+        "name": "Old Car",
+        "url": "https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "duration_ms": 199922,
+      "name": "Old Car",
+      "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8"
+      },
+      "artists": [
+        {
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+        }
+      ],
+      "duration_ms": 153687,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -927,22 +991,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Don\u2019t Look At Me",
-        "url": "https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY"
-      },
-      "artists": [
-        {
-          "name": "Maddy Hicks",
-          "url": "https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Don\u2019t Look At Me",
-      "url": "https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/5XjFDl6uxHa69kd2fW40hr"
       },
@@ -1003,54 +1051,6 @@
       "duration_ms": 222270,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "I'm The Sinner",
-        "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 132821,
-      "name": "I'm The Sinner",
-      "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Sorry to Little Me",
-        "url": "https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD"
-      },
-      "artists": [
-        {
-          "name": "Carolina Rial",
-          "url": "https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "Sorry to Little Me",
-      "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Enough of Me",
-        "url": "https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 148978,
-      "name": "Enough of Me",
-      "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

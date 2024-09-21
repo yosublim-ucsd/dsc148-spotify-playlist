@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Grupo Frontera & Gabito Ballesteros
 
-500 songs - 1 day 4 hr 31 min
+503 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Buscando Un Amor](https://open.spotify.com/track/333dP0lCe9CNZ4sBlReABw) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Buscando Un Amor](https://open.spotify.com/album/6p1rFIAqTxUFtO62nmhQTH) | 3:48 | 2023-02-03 | 2023-03-16 |
 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-07-19 | 2023-02-14 |
 | [Cada Ves Te Extraño Más](https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/29O8xR6EgbPGmjCrwV7aB8) | 3:29 | 2022-07-19 | 2023-01-14 |
+| [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 | 2024-09-20 |  |
 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 |  |
 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 | 2023-07-07 | 2024-04-06 |
 | [Calumnia](https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Calumnia](https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX) | 3:05 | 2024-03-08 | 2024-06-29 |
@@ -203,6 +204,8 @@
 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 | 2024-08-02 |  |
 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 | 2022-03-04 | 2022-06-30 |
 | [I Want It That Way](https://open.spotify.com/track/0awFFNXz16071v0bVTFOJi) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [I Want It That Way](https://open.spotify.com/album/10c7YM2PevTrTkbCQNCMRW) | 3:33 | 2024-05-17 | 2024-06-29 |
+| [Ibiza \- Merengue Remix](https://open.spotify.com/track/6cvHS1QEXpUGGWOJMGQwiK) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Ibiza \(Merengue Remix\)](https://open.spotify.com/album/0HYgPJV6ghBjVWmzVH6mHM) | 3:20 | 2024-09-20 |  |
+| [Imaginate](https://open.spotify.com/track/5tVRV2dEkTRfZS3MUdb140) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv), [Frank Santos](https://open.spotify.com/artist/7a6MDGQsPtRUbENWSjTjhf), [Dimen5ions](https://open.spotify.com/artist/78bzUCJmEsEgENTy7rjMCV), [Airin Music](https://open.spotify.com/artist/1UJYX9dJRliP8NxJ7Am7oX) | [Imaginate](https://open.spotify.com/album/392UFfjeAUuKwCJns8T5lg) | 3:32 | 2024-09-20 |  |
 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 | 2023-02-25 |
 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 | 2023-11-03 | 2024-01-13 |
 | [Indiferencia](https://open.spotify.com/track/3F9R0He2vnBCMk32p4ddgT) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY) | [Indiferencia](https://open.spotify.com/album/67OhhoEyfKhXiVPySmVlZT) | 4:35 | 2024-05-10 | 2024-07-13 |

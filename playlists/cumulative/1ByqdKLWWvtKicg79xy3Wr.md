@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1ByqdKLWWvtKicg79xy3Wr.md) - cumulative - [plain](/playlists/plain/1ByqdKLWWvtKicg79xy3Wr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1ByqdKLWWvtKicg79xy3Wr)
 
-### [Not So Chill \- House Music 2024](https://open.spotify.com/playlist/1ByqdKLWWvtKicg79xy3Wr)
+### [Not So Chill Radio](https://open.spotify.com/playlist/1ByqdKLWWvtKicg79xy3Wr)
 
 > House Music 🏠🎵 + everything else \| Updated Weekly\-ish
 

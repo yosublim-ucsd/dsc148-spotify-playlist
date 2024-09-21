@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: ODUMODUBLVCK
 
-472 songs - 22 hr 32 min
+473 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 | 2024-07-19 |
 | [PS2](https://open.spotify.com/track/360eQCVMiXHI9zqkduxbVf) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [GOD'S ENGINEERING 2](https://open.spotify.com/album/7Ml0G3q46jK8eDDtVTp2Ul) | 3:22 | 2023-05-04 | 2023-05-15 |
 | [PULL UP](https://open.spotify.com/track/3seFszD60GPDuyVMmPs7LQ) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Vector](https://open.spotify.com/artist/02r5as63OlkJomim50Zgzx), [Idyl](https://open.spotify.com/artist/2L7Vza3szswJ0fGJiVK61J), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:27 | 2023-09-29 | 2023-10-13 |
+| [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 | 2024-09-20 |  |
 | [Rabba Vs Love](https://open.spotify.com/track/1XV5g12UC2C9YOHcyq3yFS) | [Illbliss](https://open.spotify.com/artist/0aunKsCBtJ67KiUJ2gIwsq), [Tha Suspect](https://open.spotify.com/artist/2aYhZWTjIsfvQOkWvKMQrA) | [Rabba Vs Love](https://open.spotify.com/album/76VsVMPLci9DBejCpvzFit) | 4:18 | 2024-08-30 | 2024-09-06 |
 | [Rap Jesu](https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Rap Jesu](https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w) | 2:31 | 2022-08-05 | 2023-02-04 |
 | [RASTAMAN DREADS](https://open.spotify.com/track/1MSWJn48CNMSMShwUGC4xY) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [I Know You Miss Me](https://open.spotify.com/album/3UZ8eKlCaYcPbUoowG9SM5) | 3:02 | 2023-05-26 | 2023-06-10 |
@@ -425,7 +426,7 @@
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
 | [To the Max](https://open.spotify.com/track/36Sml2B1lkLGDbiU5tZ63o) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odunsi The Engine](https://open.spotify.com/artist/6JIIBiPRVuu8JUv0BWqCS1) | [To the Max](https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF) | 3:24 | 2022-10-14 | 2022-10-29 |
 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 | 2022-10-07 | 2022-11-29 |
-| [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 | 2024-07-19 |  |
+| [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 | 2024-07-19 | 2024-09-21 |
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 |  |
 | [Trapping](https://open.spotify.com/track/7dTf5PWqNfWcRTlgw8d4fu) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 3:45 | 2022-10-14 | 2022-10-29 |
 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 | 2023-11-10 |

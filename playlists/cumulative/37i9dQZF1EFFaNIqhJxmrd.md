@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 5 hr 13 min
+104 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [White Horses \(feat\. Crooked Bangs\)](https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:56 | 2024-05-31 |  |
 | [Wicked Rhythm](https://open.spotify.com/track/4nqYQNGEozDAAHgr7mpdpD) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:00 | 2024-01-29 |  |
 | [wish I didn't know you](https://open.spotify.com/track/6AQx8XPDGpyS4EAuKx2wZH) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:53 | 2024-01-29 |  |
-| [Yellow \(feat\. Liv Dawson\)](https://open.spotify.com/track/0lC83S3FdN9tMUZz6RVQAr) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Yellow \(feat\. Liv Dawson\)](https://open.spotify.com/album/7xWfj3fmILRUZOkkVVT25K) | 3:03 | 2024-01-29 |  |
+| [Yellow](https://open.spotify.com/track/0jGUDxjgD4M8YTRzaehmHj) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Yellow](https://open.spotify.com/album/05CVwLD4Y4g9QNrNebTn49) | 3:03 | 2024-09-20 |  |
+| [Yellow \(feat\. Liv Dawson\)](https://open.spotify.com/track/0lC83S3FdN9tMUZz6RVQAr) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Yellow \(feat\. Liv Dawson\)](https://open.spotify.com/album/7xWfj3fmILRUZOkkVVT25K) | 3:03 | 2024-01-29 | 2024-09-21 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

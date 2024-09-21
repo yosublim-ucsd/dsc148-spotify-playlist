@@ -9487,6 +9487,32 @@
     },
     {
       "album": {
+        "name": "Hunter Vantaar (From \"Vettaiyan\")",
+        "url": "https://open.spotify.com/album/6CY60Vp4NLViTNb9dtijBq"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Siddharth Basrur",
+          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Hunter Vantaar (From \"Vettaiyan\")",
+      "url": "https://open.spotify.com/track/3h9UdkxpoUQxNqS8IeTC4Z"
+    },
+    {
+      "album": {
         "name": "Adipurush (TAMIL)",
         "url": "https://open.spotify.com/album/6bMBoIbi4sb2gngx4dC6TT"
       },

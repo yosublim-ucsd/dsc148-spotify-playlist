@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Isaiah Falls",
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Jordan Ward & Joony",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 157000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 237500,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/0yJIF1o3HggZCMgTSGWlEj"
@@ -6111,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/2KoY8Zzf0mVM34MQrNasSC"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235966,
+      "name": "Finer Things",
+      "url": "https://open.spotify.com/track/5ctfg8YxHUYbVFUPchrr8D"
+    },
+    {
+      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx"
       },
@@ -7908,7 +7926,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 225829,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
@@ -8641,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144133,
+      "name": "If I Never See You Again",
+      "url": "https://open.spotify.com/track/3cEuOEpVmWnvF4RES78ZZi"
+    },
+    {
+      "album": {
         "name": "Insecure: Music From The HBO Original Series, Season 4",
         "url": "https://open.spotify.com/album/6So5eJKJo1Jyv9Mh8bYnNY"
       },
@@ -9172,6 +9208,28 @@
       "duration_ms": 175031,
       "name": "IYD",
       "url": "https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg"
+    },
+    {
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191940,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB"
     },
     {
       "album": {
@@ -11083,6 +11141,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0AxEd8nvoSTMwZnrBsVkaB"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190129,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4c1z8cUi0nSLD6LTcbNZYn"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
       },
@@ -11537,6 +11613,28 @@
     },
     {
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219628,
+      "name": "MMS",
+      "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/06KGWP0CRqWNQ4i7RkcFXN"
       },
@@ -11606,7 +11704,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 211574,
       "name": "Money",
       "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
@@ -13724,7 +13822,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 159818,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
@@ -14723,6 +14821,28 @@
     },
     {
       "album": {
+        "name": "roll da dice",
+        "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190948,
+      "name": "roll da dice",
+      "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
+    },
+    {
+      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
       },
@@ -15712,6 +15832,28 @@
       "duration_ms": 165980,
       "name": "SIDE OF YOU",
       "url": "https://open.spotify.com/track/0hopOaAzbOL1JjVz0NVsg2"
+    },
+    {
+      "album": {
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SIMS CASTAWAY",
+      "url": "https://open.spotify.com/track/5pnjyl99t1xwcDCLC7zkAe"
     },
     {
       "album": {
@@ -17602,7 +17744,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190412,
       "name": "Tantrums (feat. James Blake)",
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"

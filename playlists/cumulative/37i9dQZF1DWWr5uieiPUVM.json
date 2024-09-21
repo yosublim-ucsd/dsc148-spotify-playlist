@@ -4197,6 +4197,36 @@
     },
     {
       "album": {
+        "name": "Dinheiro Ameniza",
+        "url": "https://open.spotify.com/album/05FFPQ6aWmPEQY0cwh5kE2"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228221,
+      "name": "Dinheiro Ameniza",
+      "url": "https://open.spotify.com/track/2mYETW5jAAIxrpIatuNwy1"
+    },
+    {
+      "album": {
         "name": "Nova Onda",
         "url": "https://open.spotify.com/album/5QKQNitKbjqpjdv7e02JaM"
       },
@@ -7290,7 +7320,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"

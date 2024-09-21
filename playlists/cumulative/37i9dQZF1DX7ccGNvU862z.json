@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Highhot",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tobii",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -4587,6 +4587,32 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e47\u0e22\u0e2d\u0e21\u0e41\u0e25\u0e49\u0e27\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/6MjQAAN4R6qKXFau3iG1Dg"
+      },
+      "artists": [
+        {
+          "name": "MQT Squad",
+          "url": "https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif"
+        },
+        {
+          "name": "Jakkaphat MQT",
+          "url": "https://open.spotify.com/artist/6Xv0v3Vlmgax5RVQYPcZs6"
+        },
+        {
+          "name": "GTK",
+          "url": "https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232004,
+      "name": "\u0e01\u0e47\u0e22\u0e2d\u0e21\u0e41\u0e25\u0e49\u0e27\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/5D6HCnIGWvGmtVi4nckhkD"
+    },
+    {
+      "album": {
         "name": "BANGKOK LEGACY (\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01 \u0e40\u0e25\u0e01\u0e32\u0e0b\u0e35\u0e48)",
         "url": "https://open.spotify.com/album/21LG4vnSC0pmcDaB1ICoi2"
       },
@@ -6499,6 +6525,52 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e27\u0e01\u0e01\u0e39\u0e40\u0e14\u0e47\u0e01\u0e0a\u0e25",
+        "url": "https://open.spotify.com/album/6dkdDTdpnFUD1nQ1UZ4590"
+      },
+      "artists": [
+        {
+          "name": "CHONBURI FLOW",
+          "url": "https://open.spotify.com/artist/4AJ6SzUA48oysxryOgj4GS"
+        },
+        {
+          "name": "CHUNWEN",
+          "url": "https://open.spotify.com/artist/6aKTTNpVT14jiyZkjL9hDW"
+        },
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "JONIN",
+          "url": "https://open.spotify.com/artist/5ktolN2P450N6F6CsYnKQH"
+        },
+        {
+          "name": "NICKNVME",
+          "url": "https://open.spotify.com/artist/2OT18vviMPwIpC2OlycS1b"
+        },
+        {
+          "name": "FURLONG",
+          "url": "https://open.spotify.com/artist/6VYlnUxmceXems3akrCPCv"
+        },
+        {
+          "name": "God",
+          "url": "https://open.spotify.com/artist/1KWlCxMLkAu2mYTYiFm7s2"
+        },
+        {
+          "name": "Guy James",
+          "url": "https://open.spotify.com/artist/31HltmR0mYE4uFDqY8ctYy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "\u0e1e\u0e27\u0e01\u0e01\u0e39\u0e40\u0e14\u0e47\u0e01\u0e0a\u0e25",
+      "url": "https://open.spotify.com/track/5D7f7WJXLooIKr1QuIxtAW"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/7xEX4LGaf8goQWX18DjW4e"
       },
@@ -7082,7 +7154,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 197333,
       "name": "\u0e23\u0e31\u0e1a\u0e2a\u0e32\u0e22",
       "url": "https://open.spotify.com/track/3f5ZDLhxTLbXxalR4c2CMG"
@@ -8922,7 +8994,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150400,
       "name": "\u0e40\u0e2d\u0e34\u0e07\u0e40\u0e2d\u0e22 - Aoeng aoey",
       "url": "https://open.spotify.com/track/4I5snEZVRem8PYXa5mrN4K"

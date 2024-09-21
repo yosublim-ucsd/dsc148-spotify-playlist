@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0SLXOHoqcGPOsH9RZETtp1\">7 Hills Worship</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:26T4yOaOoFJvUvxR87Y9HO\">Bethel Music</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 251895,
       "name": "Beautiful Scandalous Night",
       "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 310200,
       "name": "Because Of Christ",
       "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 303449,
       "name": "Build an Altar (Live)",
       "url": "https://open.spotify.com/track/6WAuc401nzSQn4p8JlB0Td"
@@ -2342,6 +2342,24 @@
       "duration_ms": 561680,
       "name": "City of God",
       "url": "https://open.spotify.com/track/4e4UH7glPNLLB6JKazJNQT"
+    },
+    {
+      "album": {
+        "name": "Clean Heart",
+        "url": "https://open.spotify.com/album/1N9mn75d2RWisjhJ7qzIcM"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314427,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/5qwztsDLBLKRqcd3pgWeGb"
     },
     {
       "album": {
@@ -3687,6 +3705,28 @@
     },
     {
       "album": {
+        "name": "Give Thanks To God",
+        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Give Thanks To God",
+      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+    },
+    {
+      "album": {
         "name": "DOXA (Live)",
         "url": "https://open.spotify.com/album/285bUfwUpRzkbNy9ISXgRt"
       },
@@ -4914,6 +4954,28 @@
       "duration_ms": 303187,
       "name": "Holy In My Heart",
       "url": "https://open.spotify.com/track/0Ekk7wvWBiklPnsZWCMUnL"
+    },
+    {
+      "album": {
+        "name": "Holy Song - Live",
+        "url": "https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336634,
+      "name": "Holy Song - Live",
+      "url": "https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P"
     },
     {
       "album": {
@@ -7652,7 +7714,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 385506,
       "name": "Made For More - Live",
       "url": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi"
@@ -7802,6 +7864,28 @@
       "duration_ms": 250200,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/1zlsN35XHeANKr2v3T4Wir"
+    },
+    {
+      "album": {
+        "name": "Mighty Name of Jesus & This Place (Live)",
+        "url": "https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482500,
+      "name": "Mighty Name of Jesus - Live",
+      "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
     },
     {
       "album": {
@@ -13918,6 +14002,24 @@
       "duration_ms": 430747,
       "name": "Yahweh We \ud83e\udd0d You",
       "url": "https://open.spotify.com/track/6AJYNru2GfKj46emhLMtuJ"
+    },
+    {
+      "album": {
+        "name": "Hijos Live (Deluxe Version) - Live From San Juan PR",
+        "url": "https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513466,
+      "name": "Yahweh Will Manifest - Live From San Juan PR",
+      "url": "https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm"
     },
     {
       "album": {

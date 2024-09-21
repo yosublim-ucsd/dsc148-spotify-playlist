@@ -1975,6 +1975,40 @@
     },
     {
       "album": {
+        "name": "AKWARELE",
+        "url": "https://open.spotify.com/album/4u46zklPIFerBz1cQyRrPS"
+      },
+      "artists": [
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        },
+        {
+          "name": "Malarz",
+          "url": "https://open.spotify.com/artist/7uYbHPpvar4PXV2XgXDZq4"
+        },
+        {
+          "name": "DummyBeatz",
+          "url": "https://open.spotify.com/artist/6DlmkiSOfcq7QDTlAKWb7v"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192729,
+      "name": "AKWARELE",
+      "url": "https://open.spotify.com/track/0PhUeOr6ykXUNUqAaUHM44"
+    },
+    {
+      "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
       },
@@ -17298,6 +17332,28 @@
       "duration_ms": 147828,
       "name": "KAUCJA",
       "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
+    },
+    {
+      "album": {
+        "name": "Kawa\u0142ek nieba",
+        "url": "https://open.spotify.com/album/7shIMmorOWFXhmtUluA9Z3"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169371,
+      "name": "Kawa\u0142ek nieba",
+      "url": "https://open.spotify.com/track/6oCMGHf3T6X8S4JlG0vC5L"
     },
     {
       "album": {
@@ -32919,6 +32975,24 @@
     },
     {
       "album": {
+        "name": "SLS",
+        "url": "https://open.spotify.com/album/3VCT6V0D6zYLGUszax7LBj"
+      },
+      "artists": [
+        {
+          "name": "SVM!R",
+          "url": "https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "SLS",
+      "url": "https://open.spotify.com/track/6poRnCH1N2fwpreGWFlvGJ"
+    },
+    {
+      "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
@@ -33876,7 +33950,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183703,
       "name": "STRZELAM PETEM",
       "url": "https://open.spotify.com/track/7yHuqNnOtkfc2k9GF7nMMR"
@@ -35814,7 +35888,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -36224,7 +36298,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -36242,7 +36316,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -39704,7 +39778,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164446,
       "name": "YALLA ARA BABA",
       "url": "https://open.spotify.com/track/0j9OYj0JOrZUIgYk6SKX9v"

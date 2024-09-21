@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Mike Bahía
 
-280 songs - 20 hr 35 min
+281 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 | 2022-01-01 |  |
 | [Rebelión](https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Grandes Exitos](https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51) | 4:47 | 2024-01-12 |  |
 | [Resistiré \- Salsa](https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Resistiré \(Salsa\)](https://open.spotify.com/album/4uJZ8kVOQW8T1ehTZqltfy) | 4:48 | 2022-01-01 | 2022-11-13 |
-| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-19 |  |
+| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-19 | 2024-09-21 |
 | [Salsa Con Coco](https://open.spotify.com/track/1XONug0va1DREQdZZlA30K) | [Pochi Y Su Cocoband](https://open.spotify.com/artist/1gCNIckvK4GTbbRa8c3CLi) | [El Arrollador](https://open.spotify.com/album/0EnSVKULe1MN6qZjLukamq) | 4:54 | 2022-01-01 | 2022-07-29 |
 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 | 2022-05-20 | 2024-04-19 |
 | [Salsa de Ahora](https://open.spotify.com/track/0owEuZsTB5525nGXNCpgXh) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Salsa de Ahora](https://open.spotify.com/album/2tJozh0xhFgh8zg2Xj28NE) | 2:57 | 2023-12-22 | 2024-06-20 |
@@ -247,6 +247,7 @@
 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 | 2022-05-20 | 2024-04-19 |
 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 | 2022-01-01 |  |
 | [Tengo Que Colgar](https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Hot Salsa 2017 \[19 Salsa Latin Hits \(Salsa Romántica, Urbana, para Bailar\)\]](https://open.spotify.com/album/4UfiwSxgoLBp2FDEZjHCve) | 3:40 | 2022-01-01 | 2022-07-22 |
+| [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 | 2024-08-23 |  |
 | [The Reason \- Latin Version](https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 | 2023-08-04 |  |
 | [Todavía](https://open.spotify.com/track/4e8sb5gR73rQVgdARJ59Dm) | [Nacho Acero](https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR) | [Todavía](https://open.spotify.com/album/7lYHc37Okae8cZn20LaBlc) | 4:18 | 2022-01-21 | 2022-04-22 |
 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 | 2022-04-29 | 2024-06-05 |

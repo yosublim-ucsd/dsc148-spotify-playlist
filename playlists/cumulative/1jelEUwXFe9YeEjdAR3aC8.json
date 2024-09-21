@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Doing So Much Better",
+        "url": "https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Doing So Much Better",
+      "url": "https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4"
+    },
+    {
+      "album": {
         "name": "Abington Grove",
         "url": "https://open.spotify.com/album/5C14IfR0VeIhLeYT2f2GOy"
       },

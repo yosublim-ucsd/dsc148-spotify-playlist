@@ -4,7 +4,7 @@
 
 > Il top dello street rap italiano 🔥 Cover: Shiva
 
-620 songs - 1 day 4 hr 28 min
+621 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-30 | 2022-07-22 |
 | [Bibidi Bobidi Bu \(feat\. Paky\)](https://open.spotify.com/track/0wSpx49DTwBplnkeqH6zep) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 2:46 | 2023-06-08 | 2023-11-17 |
 | [BIBITA](https://open.spotify.com/track/4t9i0H25aA1yj1kY9iorRP) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [BIBITA](https://open.spotify.com/album/0iKlod0dukLX4mwniCk2vN) | 2:00 | 2024-07-18 | 2024-09-03 |
-| [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 | 2024-06-20 |  |
+| [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 | 2024-06-20 | 2024-09-21 |
 | [Big VROOM Big Ah Ah](https://open.spotify.com/track/0GXP7aq6Ec8b4tx1w8VNcu) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Big VROOM Big Ah Ah](https://open.spotify.com/album/5uqthSZzxmDYVXErwPgkUG) | 2:54 | 2023-02-16 | 2023-03-25 |
 | [BIKINI \(feat\. Guè\)](https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 1:59 | 2024-07-11 |  |
 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 | 2023-11-23 | 2024-02-16 |
@@ -381,6 +381,7 @@
 | [Monte Fuji](https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Monte Fuji](https://open.spotify.com/album/34MxwfHZXGN7wNjJ9FRk1m) | 3:01 | 2023-05-04 | 2023-05-26 |
 | [MULAN \(feat\. Tony Effe\)](https://open.spotify.com/track/3EBldocOhHQoa9NRT739as) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:25 | 2024-06-27 | 2024-07-12 |
 | [N.47](https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [N.47](https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC) | 2:25 | 2023-09-28 | 2024-04-12 |
+| [NA/RM \(feat\. Yung Snapp, MV Killa\)](https://open.spotify.com/track/3BO6xH8rcVVNCzQUpV8UAt) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:59 | 2024-09-20 |  |
 | [Napoletano](https://open.spotify.com/track/3aUtI5J9jU7n0OQDzl2egV) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:12 | 2023-05-25 | 2023-08-04 |
 | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/1t8fZilEEUPk6DCHVAQQTZ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [INNOCENTE](https://open.spotify.com/album/7BgKnIEiobf2VaITPMojh5) | 2:56 | 2023-08-03 | 2023-10-13 |
 | [NASTY](https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [NASTY](https://open.spotify.com/album/03x49jYtwYvQuvAsiOdcm2) | 2:41 | 2023-02-23 | 2023-03-18 |

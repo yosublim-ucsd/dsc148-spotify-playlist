@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-255 songs - 15 hr 11 min
+257 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Charged Up](https://open.spotify.com/track/4pc01CAhGKx15PY23uPjHp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Charged Up](https://open.spotify.com/album/2b3q6C2zmtXRKlk0j4eX4v) | 3:09 | 2023-12-13 |  |
 | [Checkin For You](https://open.spotify.com/track/5KCUeOuwZQ5CBqj578NUJD) | [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq) | [Free Agent](https://open.spotify.com/album/0Gqp3g3MVpf1I3bl6ohg16) | 3:56 | 2023-12-13 | 2023-12-24 |
 | [Checkin For You](https://open.spotify.com/track/769mylV0XZHGL3r0rItmGF) | [Joell Ortiz](https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq) | [Free Agent](https://open.spotify.com/album/4oJJmlHoxfiolh4d72XyIM) | 3:56 | 2023-12-23 |  |
+| [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 | 2024-09-20 |  |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2023-12-13 |  |
 | [Circles](https://open.spotify.com/track/7AH5pivzIXEriMZuXAUwiJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/6G2sA4e0lg9Vz3VCsB5fM5) | 3:46 | 2023-12-15 | 2024-02-01 |
 | [Cold](https://open.spotify.com/track/1QWmKmqhv5zcsS3v45FNl0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \- Deluxe](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:28 | 2023-12-13 |  |
@@ -141,6 +142,7 @@
 | [Kids](https://open.spotify.com/track/0iUxQW0LRXKHcnur6CGu2c) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:30 | 2024-01-24 |  |
 | [Kids](https://open.spotify.com/track/5zXK1z8U96zU3tZlFFXYdH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 4:30 | 2023-12-13 | 2024-01-25 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2023-12-13 |  |
+| [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2024-09-20 |  |
 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 | 2023-12-13 |  |
 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 | 2023-12-13 |  |
 | [lose](https://open.spotify.com/track/2AGUFka8kBWCM47h5uTlDb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:20 | 2023-12-13 |  |

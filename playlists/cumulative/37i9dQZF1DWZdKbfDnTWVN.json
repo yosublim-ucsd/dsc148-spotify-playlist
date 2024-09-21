@@ -1639,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Hoes and Girls",
+        "url": "https://open.spotify.com/album/7FM7gh7PyOAemZtb3U8TEj"
+      },
+      "artists": [
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        },
+        {
+          "name": "Kingpheezle",
+          "url": "https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/13MSgnllGZ47ZYteqGwAbX"
+    },
+    {
+      "album": {
         "name": "Gloom",
         "url": "https://open.spotify.com/album/0JWUu4GXllJVhGMcG72SQi"
       },
@@ -1736,6 +1758,28 @@
       "duration_ms": 308000,
       "name": "Grey Area",
       "url": "https://open.spotify.com/track/6mtiCdPpaaJxMX3tckWfnS"
+    },
+    {
+      "album": {
+        "name": "ESCOBAR",
+        "url": "https://open.spotify.com/album/71sTYeu27jvOCfcBdZ2DVU"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece King",
+          "url": "https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF"
+        },
+        {
+          "name": "DOMANI MKADINALI",
+          "url": "https://open.spotify.com/artist/0E2SnFa1zHrnkq9XILmxRY"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "GUZA UMBWA",
+      "url": "https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB"
     },
     {
       "album": {
@@ -2796,7 +2840,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 151091,
       "name": "Majirani",
       "url": "https://open.spotify.com/track/4N6oK5NkAG4em9uPUffiWr"
@@ -5630,7 +5674,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 120805,
       "name": "Woo",
       "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"

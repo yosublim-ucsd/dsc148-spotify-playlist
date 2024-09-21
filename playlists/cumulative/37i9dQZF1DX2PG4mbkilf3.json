@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Yoko Gold, from Brampton, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with JON VINYL from Toronto, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194184,
+      "name": "All Comes Back (Feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/01U03Xx5AnOh1zOeY0vmtn"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/5BfxdwzF7282Kn8G3VNF1Z"
       },
@@ -1426,6 +1448,24 @@
       "duration_ms": 163636,
       "name": "Astro Travel",
       "url": "https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/3Ry2uFhnLrwic8tVP7Og1o"
+      },
+      "artists": [
+        {
+          "name": "Leila Dey",
+          "url": "https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160692,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3agMNl8z0dW6sTplN0pRsx"
     },
     {
       "album": {
@@ -4220,7 +4260,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 142714,
       "name": "Day One",
       "url": "https://open.spotify.com/track/3jEoO6WtYjoKJ7VJGK6bC8"
@@ -4238,7 +4278,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188771,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/5U6ovBPdj8odCloFHdd0rQ"
@@ -8230,7 +8270,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 220512,
       "name": "homies",
       "url": "https://open.spotify.com/track/6hbCFrTMnTsGUm1sLSw5yx"
@@ -9590,7 +9630,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 212133,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2S89P2c2Vk7pn0moME75Mb"
@@ -18513,6 +18553,24 @@
     },
     {
       "album": {
+        "name": "CHLORINE",
+        "url": "https://open.spotify.com/album/1TlcrVtv4pZGw2Pk5Ug2gy"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138785,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/3pe2HrrcBCRPHzvVvVfQpC"
+    },
+    {
+      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
       },
@@ -19402,7 +19460,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 187750,
       "name": "THE SUMMER",
       "url": "https://open.spotify.com/track/0bokXvbMOlt3oKGq3JLLYP"
@@ -20596,6 +20654,24 @@
       "duration_ms": 218629,
       "name": "Ur Loss",
       "url": "https://open.spotify.com/track/3rvnZ6pD9XiYeoTpZYTqNK"
+    },
+    {
+      "album": {
+        "name": "ur mine",
+        "url": "https://open.spotify.com/album/0bliReSpZNmIskXlhE5qq9"
+      },
+      "artists": [
+        {
+          "name": "Kaleia",
+          "url": "https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201608,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/6jhxnr1aivQvPY4fOTrUaP"
     },
     {
       "album": {
@@ -21956,6 +22032,24 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "album": {
+        "name": "you and me",
+        "url": "https://open.spotify.com/album/6cNeV49Ky6KaveuJV9Qp9g"
+      },
+      "artists": [
+        {
+          "name": "Divine Lightbody",
+          "url": "https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "you and me",
+      "url": "https://open.spotify.com/track/6rVf6E7uSYUQ45O5LqUSoW"
     },
     {
       "album": {

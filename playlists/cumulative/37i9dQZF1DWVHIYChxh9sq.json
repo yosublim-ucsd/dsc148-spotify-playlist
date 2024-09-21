@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme",
+  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme, Hernan Sepulveda.",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -540,6 +540,24 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "album": {
+        "name": "De Parranda (En Vivo)",
+        "url": "https://open.spotify.com/album/2gxMpzhIWe1UKwNFaP5LwV"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192457,
+      "name": "Amor Falso - En Vivo",
+      "url": "https://open.spotify.com/track/3zzm0N0fxALsRHwOLKhHmp"
     },
     {
       "album": {
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171327,
       "name": "El de los 7 Chinos (En Vivo)",
       "url": "https://open.spotify.com/track/35LrSWA4EBbB3vOcAALOZe"
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144871,
       "name": "El Doble R - En Vivo",
       "url": "https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 203168,
       "name": "El Mago de la Sierra - En Vivo",
       "url": "https://open.spotify.com/track/1N6GONbD8DbxrBPY9qi4zp"
@@ -3414,6 +3432,24 @@
       "duration_ms": 169373,
       "name": "El Muletas (En Vivo)",
       "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
+    },
+    {
+      "album": {
+        "name": "El Paciente (En Vivo)",
+        "url": "https://open.spotify.com/album/13iDyP4NPWpzcV7quQyRFr"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203012,
+      "name": "El Paciente - En Vivo",
+      "url": "https://open.spotify.com/track/3mjojHhX1GWB26RWmd2Ut2"
     },
     {
       "album": {
@@ -4025,6 +4061,32 @@
     },
     {
       "album": {
+        "name": "La Revancha (En Vivo)",
+        "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146656,
+      "name": "El Viejo Bravo (En Vivo)",
+      "url": "https://open.spotify.com/track/3zlEe2n3ByzK0tuseDlY6m"
+    },
+    {
+      "album": {
         "name": "El Viejo Olvidado (En Vivo)",
         "url": "https://open.spotify.com/album/2b8YpPGIzrvM2dvA2uRgmr"
       },
@@ -4608,7 +4670,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160501,
       "name": "Gente Del Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
@@ -4724,7 +4786,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 211945,
       "name": "Hace Un A\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
@@ -5666,6 +5728,28 @@
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
+      "album": {
+        "name": "Tequileando en Chicago - En Vivo",
+        "url": "https://open.spotify.com/album/6dbpafxg6UrMJITr64xdV0"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        },
+        {
+          "name": "Grupo Sekta",
+          "url": "https://open.spotify.com/artist/3pVczEvmnAbdKsaalbgy4j"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169061,
+      "name": "La Parranda - En Vivo",
+      "url": "https://open.spotify.com/track/7rYMjpB0FJGw5Fl6jMZpWm"
     },
     {
       "album": {
@@ -7945,6 +8029,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "album": {
         "name": "En Vivo Puros Corridos",
         "url": "https://open.spotify.com/album/6cuMLImONAtfxkZOOIaIev"
       },
@@ -8036,6 +8142,24 @@
       "duration_ms": 203174,
       "name": "Sangre De Reyes (En Vivo)",
       "url": "https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm"
+    },
+    {
+      "album": {
+        "name": "Se Cans\u00f3 - En Vivo",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "album": {
@@ -9137,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "Y Me Volvi\u00f3 A Pasar - En Vivo",
+        "url": "https://open.spotify.com/album/1U254BDVZ4a4J28wpv9obk"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "Y Me Volvi\u00f3 A Pasar - En Vivo",
+      "url": "https://open.spotify.com/track/03XLJ8srj37wGSV5uLn1s1"
+    },
+    {
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -9378,7 +9520,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 208405,
       "name": "Zutano (En Vivo)",
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"

@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 404329,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 232656,
       "name": "Moon River - Live from Newcastle, UK. 2023",
       "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
@@ -2702,6 +2702,24 @@
       "duration_ms": 252207,
       "name": "Outbound Train - Live at Carnegie Hall, May 14. 2022",
       "url": "https://open.spotify.com/track/1QCxDteS6iTc60cQXbivZw"
+    },
+    {
+      "album": {
+        "name": "Panic (Live from London, UK, 2023)",
+        "url": "https://open.spotify.com/album/0nzIVcx2OJD3WfelSNaGUs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212233,
+      "name": "Panic - Live from London, UK. 2023",
+      "url": "https://open.spotify.com/track/43WHot4yQv8Qvm7FpkGlA2"
     },
     {
       "album": {
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 194164,
       "name": "The Tracks of my Tears - Live from Newcastle, UK. 2023",
       "url": "https://open.spotify.com/track/5EAoqZo78ggyMnPV5YO4rc"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 239025,
       "name": "War Pigs - Live from Birmingham, UK. 2023",
       "url": "https://open.spotify.com/track/3xvxLbvFqzz1IwXVpZ9D2u"

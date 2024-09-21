@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  bedacerita.
 
-3,885 songs - 9 day 22 hr 30 min
+3,889 songs - 9 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,6 +1191,7 @@
 | [Got My Mind](https://open.spotify.com/track/7Kh43PTs2LtRDJw2aiVH6z) | [Stanley Hao](https://open.spotify.com/artist/2zyCIsZHG0cCF3ttinGHVz) | [Got My Mind](https://open.spotify.com/album/6hCh2QKGKmVXXcnq6eCi6z) | 3:36 | 2024-09-19 |  |
 | [Gotham Beauty \(I Love Crime\)](https://open.spotify.com/track/3gdhhk3dyL614D14qsKbIp) | [ABÉ](https://open.spotify.com/artist/150IvOIVvRlF7JX3sjKcc7) | [Gotham Beauty \(I Love Crime\)](https://open.spotify.com/album/05Qsuq4SIOiYQMiTMTBHFP) | 5:02 | 2023-08-11 | 2023-08-25 |
 | [Gotta Move](https://open.spotify.com/track/5jfAoIIo5gJbyeCyhApv5M) | [Steph'A](https://open.spotify.com/artist/7dgEQy7vwItrsdTSd32GTh) | [Gotta Move](https://open.spotify.com/album/10mnRcQJWvu5mSjJiDO14E) | 2:21 | 2022-04-22 | 2022-05-13 |
+| [Goyang Kanan Kiri](https://open.spotify.com/track/5fKOKceIghzYeC6ZyxuOuk) | [Indomusik Team](https://open.spotify.com/artist/7jTXG4yKeX4acFBNkIwtGE) | [Goyang Kanan Kiri](https://open.spotify.com/album/2mC8SiGy4anoPVECVmbCHx) | 2:19 | 2024-09-20 |  |
 | [Grand Failure](https://open.spotify.com/track/0XFUwu46u7iKQRC9TAEdsP) | [Settle](https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr), [Bird Bone](https://open.spotify.com/artist/7bQYmQQJtuyhodMUQtC3GB) | [Grand Failure](https://open.spotify.com/album/37KZ7OPCxcfnrJx9iBefpf) | 3:30 | 2023-09-07 | 2023-09-23 |
 | [Grateful](https://open.spotify.com/track/1zzzcBjIgSNe1MuE81ZKIp) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw), [Gok Malau](https://open.spotify.com/artist/5g61CgtjkYr7XMGQvgtM6l), [Stephanie](https://open.spotify.com/artist/1fOZOi2dKy57s1B2q2dxhO) | [Grateful](https://open.spotify.com/album/3t1OSpGaVdsoqStvF6Sb7z) | 3:53 | 2023-04-06 | 2023-04-28 |
 | [Grateful](https://open.spotify.com/track/0bIHWqf6BPq14lP2Zo3YKS) | [re:NAN](https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW) | [4:1 Leaving Depression](https://open.spotify.com/album/3wfaSp1CXX8rm7ukzk8i18) | 3:17 | 2023-05-25 | 2023-06-09 |
@@ -1413,6 +1414,7 @@
 | [I Gotta Know](https://open.spotify.com/track/5YriYgPWdPI9wAcRJoJjLr) | [Harvey Christo](https://open.spotify.com/artist/5RNblqAYP4u0DPKLfV8Jtz) | [I Gotta Know](https://open.spotify.com/album/1UENxiB8tSYK2eCIDWEzK5) | 3:10 | 2023-11-17 | 2023-12-01 |
 | [I Hate This One Particular Girl](https://open.spotify.com/track/1YSYE9Q9XE0Ic90SE04jO0) | [pinklipps](https://open.spotify.com/artist/3QG7ORNz4JgV0AOnK8BcGt) | [I Hate This One Particular Girl](https://open.spotify.com/album/26aFGT75EGN1WOlrZZkiCL) | 2:57 | 2023-10-27 | 2023-11-18 |
 | [I Hate U](https://open.spotify.com/track/5FnbkqiNlu2CnjbKOUthmm) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [I Hate U](https://open.spotify.com/album/6xXKIRevIrv8peRBPCCJ7o) | 3:40 | 2022-11-17 | 2022-12-01 |
+| [i hope this day never ends](https://open.spotify.com/track/767MlIfSM3yRJkmwdUrnl4) | [erickotaryana](https://open.spotify.com/artist/6LRFgMk8sWQp68cDT9LbLG) | [i hope this day never ends](https://open.spotify.com/album/5PGtrq1bvm1jnMIjhYIymq) | 3:30 | 2024-09-19 |  |
 | [i just can't stop loving you \- Acoustic](https://open.spotify.com/track/3AjyDAWFcLXzk0etMxdHun) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4), [sam.and.oreos](https://open.spotify.com/artist/2qXFaBTW6iEV0g0JIajGJf) | [i just can't stop loving you \- Acoustic](https://open.spotify.com/album/7LiA3gL9CMDycp1ZhB4yOB) | 2:30 | 2024-09-19 |  |
 | [I Just Wanna Dance With You](https://open.spotify.com/track/3rVvzQrxOnoJdGJ87WLDrr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [I Just Wanna Dance With You](https://open.spotify.com/album/1w49WZhXvxtMKydYxYLgjB) | 3:47 | 2023-09-28 | 2023-10-14 |
 | [I Know](https://open.spotify.com/track/6eKfrP5b05Cqp37DaVr60U) | [L.K.B](https://open.spotify.com/artist/5UnXQTgHRqe8YIj49DFdGb), [ELKEY](https://open.spotify.com/artist/1XnABxYpl4Oe36V8TZpC4J) | [I Know](https://open.spotify.com/album/6Gzsbtpn7NmsbWvzRZPYwE) | 5:53 | 2022-09-22 | 2022-10-14 |
@@ -2328,6 +2330,7 @@
 | [Musafir](https://open.spotify.com/track/0mgX5zkM58JEaXu51UsnZX) | [Threesixty Skatepunk](https://open.spotify.com/artist/2pgx5wRVYyEXLRDsRmQt4J) | [Musafir](https://open.spotify.com/album/7iBfkFXwSfeFceSiD9eRr0) | 3:32 | 2023-11-17 | 2023-12-01 |
 | [Museum Memori](https://open.spotify.com/track/1ON8jFskrGzOVtKYJW5qTh) | [Dua Kota](https://open.spotify.com/artist/2Pyk4d6ruGoNcqtflFJDzy) | [Museum Memori](https://open.spotify.com/album/1UybQpJfqA2ZUpb7s7ay3U) | 5:43 | 2023-10-05 | 2023-11-03 |
 | [Musim Berburu](https://open.spotify.com/track/34EVbRl06rWhChcFGfYgqg) | [Jontrall](https://open.spotify.com/artist/5MxY6A3rwCgi1y4oVS1VNk) | [Musim Berburu](https://open.spotify.com/album/6WA5VpikqazoHCNgR0YBpS) | 3:12 | 2024-02-02 | 2024-02-16 |
+| [Mustikaning Laku](https://open.spotify.com/track/5s8sdw1o9HBQXZ8qTBs8kY) | [Lealona](https://open.spotify.com/artist/2x1DNuXSksxjEjQK8UE3WD) | [Mustikaning Laku](https://open.spotify.com/album/7HK2IozQzNDFcy6wHZpF5n) | 4:31 | 2024-09-20 |  |
 | [Musuh Wong Sugih](https://open.spotify.com/track/5BlLPmOF72VggZqWRMnmCp) | [Alvan Septy](https://open.spotify.com/artist/17mrfVWIyiGpeyJkeFmbDz) | [Musuh Wong Sugih](https://open.spotify.com/album/6c62GqLBgRr4AZ6BebpCrI) | 4:07 | 2022-09-09 | 2022-09-23 |
 | [Muteki na Feeling](https://open.spotify.com/track/4xHbdpAHBzWe3y2sODAr2z) | [LEMON](https://open.spotify.com/artist/0UDpQOXtscRkCJYylmx123) | [Muteki na Feeling](https://open.spotify.com/album/5WpB7rZoqYyelHdoVTi5pK) | 3:45 | 2024-05-24 | 2024-06-14 |
 | [My 20's Diary](https://open.spotify.com/track/6Bgq0UKFLGXONfk11sSI8T) | [SLURR](https://open.spotify.com/artist/3dqhKYLki5cvny5XXg24xW) | [My 20's Diary](https://open.spotify.com/album/13kiDfyn9wbYFDWBZD7D0S) | 3:37 | 2023-08-03 | 2023-08-18 |
@@ -3352,6 +3355,7 @@
 | [Tak Lagi Sama](https://open.spotify.com/track/4Anesm4EHw6NsJ8WnXo9CI) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tak Lagi Sama](https://open.spotify.com/album/4g7zsb46SxBSuorGLdWJMv) | 3:22 | 2023-06-22 | 2023-07-07 |
 | [Tak Masalah](https://open.spotify.com/track/05QYcEboiQno5QQmQbr4rF) | [Indah Aqila](https://open.spotify.com/artist/0W9e1Ynzjurb3VAE1atJGD) | [Tak Masalah](https://open.spotify.com/album/49CI1tIBEN1VjxgMjvjFu3) | 3:45 | 2024-05-13 | 2024-06-01 |
 | [Tak Mau Kalah Demi Cintamu](https://open.spotify.com/track/2MVApBui5INPICshBjS2CS) | [Ryan Ho](https://open.spotify.com/artist/40NWNAIk0ACC7FYJP0Pp0O) | [Tak Mau Kalah Demi Cintamu](https://open.spotify.com/album/5AjtE4y56Elv5HeFAbAhye) | 3:06 | 2023-11-17 | 2023-12-01 |
+| [Tak Memaksa Bertahan](https://open.spotify.com/track/0Qp3AGCpoxYWx7PqBwlTiv) | [RSKVR](https://open.spotify.com/artist/4nDmpzB0yuyI91XQoyWeja) | [Tak Memaksa Bertahan](https://open.spotify.com/album/2yUlNFbktgHHE1i1K4StIy) | 4:17 | 2024-09-20 |  |
 | [Tak Mengerti](https://open.spotify.com/track/49m0XTlDAdn58muf2y5d4T) | [Efah Aaralyn](https://open.spotify.com/artist/5icFX2Js5xKYshp78XxEzP) | [Tak Mengerti](https://open.spotify.com/album/7b1vTxHMTuhYbQreIJnKCe) | 4:10 | 2023-05-11 | 2023-05-26 |
 | [Tak Mungkin](https://open.spotify.com/track/4HOlRwnMgTjB9SHo6FC0j1) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp) | [Tak Mungkin](https://open.spotify.com/album/6W72whTj0horCle4i9YxwG) | 4:02 | 2023-07-27 | 2023-08-12 |
 | [Tak Mungkin Satu](https://open.spotify.com/track/3mZykX2xYeweYkFYMN1BzS) | [Azzahra Banilia](https://open.spotify.com/artist/1oxk7hKykMs6ziUyHTJjJY) | [Tak Mungkin Satu](https://open.spotify.com/album/2CpRoIIgvwcS1BKpzyOkCC) | 4:23 | 2023-01-19 | 2023-02-10 |

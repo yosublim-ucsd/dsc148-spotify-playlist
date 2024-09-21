@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Aaj Rang Hai (Sufi Expressions)",
+        "url": "https://open.spotify.com/album/31TAjuLbbBqGGXqkzdrCZY"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "Aaj Rang Hai - Sufi Expressions",
+      "url": "https://open.spotify.com/track/2MZiWzBGuyaiNDdry7Sxg8"
+    },
+    {
+      "album": {
         "name": "Aakhiyaan Laagi",
         "url": "https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 217689,
       "name": "Aan Milo Sajna",
       "url": "https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8"
@@ -3782,7 +3800,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 161333,
       "name": "Nadiya Bairi Bhayi",
       "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
@@ -4436,6 +4454,24 @@
       "duration_ms": 361080,
       "name": "Palkan",
       "url": "https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ"
+    },
+    {
+      "album": {
+        "name": "Panchii",
+        "url": "https://open.spotify.com/album/15dguOp3WQC16Gw7bD0jV4"
+      },
+      "artists": [
+        {
+          "name": "Akshay - Ninaad",
+          "url": "https://open.spotify.com/artist/3T3CqgjgFXbag2RS5JNq5X"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204625,
+      "name": "Panchii",
+      "url": "https://open.spotify.com/track/61v9NMnW3ssoI0RkW8Cghu"
     },
     {
       "album": {

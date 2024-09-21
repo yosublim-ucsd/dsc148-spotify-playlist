@@ -6,37 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC3wGhDDo0loQS0SbZZBytw",
+  "snapshot_id": "AAAAAAAAAACXDhT/OZ+e8CjfRzDK2gZH",
   "tracks": [
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
-        "url": "https://open.spotify.com/album/5mjH6kL3zysY2X8VZVb9BU"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        },
-        {
-          "name": "GRIP",
-          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
-      "url": "https://open.spotify.com/track/2By3Bbd6UYQqdhLnkMHZb6"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "An Ocean Of Strange Islands",
-        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
       "artists": [
         {
@@ -44,12 +20,276 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 566413,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
+      "duration_ms": 366986,
+      "name": "Lanternlight",
+      "url": "https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "TMG II",
+        "url": "https://open.spotify.com/album/3XBPJBGtH4FIucLfPt81VF"
+      },
+      "artists": [
+        {
+          "name": "TMG",
+          "url": "https://open.spotify.com/artist/64mOijpAMeO7jaZRajmuaN"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 184849,
+      "name": "Eternal Flames",
+      "url": "https://open.spotify.com/track/3PZoH1puEcvvcE96caguta"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
+        "url": "https://open.spotify.com/album/66ifWgXVUmxAaVaaOYqkYm"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
+      "url": "https://open.spotify.com/track/1TLJVrZwI5nMmIhJvH6dXv"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Earth Blues - Alternate Mix",
+        "url": "https://open.spotify.com/album/6hJdSF1sZ0hsTm6PE1HFgL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Earth Blues - Alternate Mix",
+      "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Love (the) Ominous World",
+        "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        },
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 171241,
+      "name": "Intro - Hello LA",
+      "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+        }
+      ],
+      "duration_ms": 248098,
+      "name": "Lyte Ghost Lil Mama",
+      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
+      },
+      "artists": [
+        {
+          "name": "Suli4Q",
+          "url": "https://open.spotify.com/artist/2QJUzTehLJmQg4uVAAVyl7"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "2gunn Kevi",
+          "url": "https://open.spotify.com/artist/0GZZY4DPEAAQyVryasiqXE"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+        "url": "https://open.spotify.com/album/3ANdGEVavDd9YK2V0abBiC"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 534130,
+      "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/2tCb63qwibZi8EbkkNuv8g"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Swingin' Swordz",
+        "url": "https://open.spotify.com/album/720B5inATpD4iJ4XkyU0N9"
+      },
+      "artists": [
+        {
+          "name": "Loco Mic",
+          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
+        },
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Swingin' Swordz",
+      "url": "https://open.spotify.com/track/1KoCqUBLF5VJQOW8PSGKXy"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Just Dreams",
+        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Just Dreams",
+      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
+        "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 252799,
+      "name": "Kyrie & Luka",
+      "url": "https://open.spotify.com/track/6AgMzkvClobScVCFOyxGDD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Nintindo Soul",
         "url": "https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR"
@@ -60,52 +300,16 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Read the Room",
-      "url": "https://open.spotify.com/track/4SUFYzuSOqqVIwZJrkGD1W"
+      "duration_ms": 260571,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/71weanEoaxtIlkHt4EkZ5j"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS",
-      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
-        "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 187781,
-      "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
-      "url": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Exhumed",
         "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
@@ -121,7 +325,7 @@
       "url": "https://open.spotify.com/track/704Eo3Eekkgmi99DXUbYXn"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Still Infinite (Redux)",
         "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
@@ -145,7 +349,7 @@
       "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
         "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
@@ -161,39 +365,7 @@
       "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Immortal Hip-Hop (RMX)",
-        "url": "https://open.spotify.com/album/5kjX6SgEGCQnDJmnXAdEfZ"
-      },
-      "artists": [
-        {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Golem MC",
-          "url": "https://open.spotify.com/artist/1eVryYBR7GV1898QUB3EBI"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 349900,
-      "name": "Immortal Hip-Hop - RMX",
-      "url": "https://open.spotify.com/track/5YhPjlrCA6VjQYhS928elE"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
@@ -209,7 +381,7 @@
       "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "8 Days",
         "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
@@ -225,35 +397,7 @@
       "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "The Confidence Of Knowing",
-        "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "J. Rawls",
-          "url": "https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        },
-        {
-          "name": "Jimetta Rose",
-          "url": "https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX"
-        }
-      ],
-      "duration_ms": 257502,
-      "name": "Love For Life",
-      "url": "https://open.spotify.com/track/1NQiKzwNuh20nHgEXYjRxR"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
@@ -269,7 +413,7 @@
       "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "precious mind",
         "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
@@ -289,31 +433,7 @@
       "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Schoenberg: Verkl\u00e4rte Nacht",
-        "url": "https://open.spotify.com/album/4j1EWVu3EcXt0pCyHwaA5d"
-      },
-      "artists": [
-        {
-          "name": "Arnold Schoenberg",
-          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
-        },
-        {
-          "name": "Danish National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
-        },
-        {
-          "name": "Fabio Luisi",
-          "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
-        }
-      ],
-      "duration_ms": 415311,
-      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): I. Grave",
-      "url": "https://open.spotify.com/track/4kuaftyCpeFIp7zZWsw6Br"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Sicilienne, Op. 78",
         "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
@@ -337,7 +457,31 @@
       "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Schoenberg: Verkl\u00e4rte Nacht",
+        "url": "https://open.spotify.com/album/4j1EWVu3EcXt0pCyHwaA5d"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Danish National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6kClxEibflIbA231B95OYX"
+        },
+        {
+          "name": "Fabio Luisi",
+          "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
+        }
+      ],
+      "duration_ms": 415311,
+      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): I. Grave",
+      "url": "https://open.spotify.com/track/4kuaftyCpeFIp7zZWsw6Br"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Abysses & Ivresse des profondeurs",
         "url": "https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU"
@@ -353,7 +497,7 @@
       "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
         "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
@@ -369,7 +513,7 @@
       "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "We Will Rock You - Megan Thee Stallion Version",
         "url": "https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO"
@@ -389,7 +533,7 @@
       "url": "https://open.spotify.com/track/04EzyNDx8TPjFYYi0FWzDT"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "C,XOXO - Magic City Edition",
         "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
@@ -405,7 +549,7 @@
       "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Hate Me If You Want",
         "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
@@ -421,31 +565,7 @@
       "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Lights Camera Action",
-        "url": "https://open.spotify.com/album/6Vxivqp9jbqZ2xpS1HGG9r"
-      },
-      "artists": [
-        {
-          "name": "Cultcha Shoc",
-          "url": "https://open.spotify.com/artist/4xi7MNQn3EK1UhaOT16tyc"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Solomon Childs",
-          "url": "https://open.spotify.com/artist/6rp60Uul0bpZWR6B3a6wCc"
-        }
-      ],
-      "duration_ms": 206597,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/7catGSR9PjA4RbprIJEAWS"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Perchance to Dream Concept Album",
         "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
@@ -473,7 +593,7 @@
       "url": "https://open.spotify.com/track/5RVcl0ORBdrHxBCCr3737j"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
@@ -497,7 +617,7 @@
       "url": "https://open.spotify.com/track/0fmDqeTBrZhWDgK6qBtiPu"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
@@ -513,7 +633,7 @@
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "On Sum",
         "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
@@ -537,7 +657,7 @@
       "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Detonator [Feat. Rock D The Legend] - Call of Duty: Black Ops 6",
         "url": "https://open.spotify.com/album/2piAGlf00AZ1wCItv2KOaQ"
@@ -557,7 +677,7 @@
       "url": "https://open.spotify.com/track/5LqgsjpIR3uLj06hjlG3Wz"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/0bf3519W3wgmPXssbEwfPk"
@@ -577,7 +697,7 @@
       "url": "https://open.spotify.com/track/7s62mYqs8RVpozHlLYijEn"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
@@ -597,27 +717,7 @@
       "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
         "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
@@ -641,7 +741,7 @@
       "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Quit Calling",
         "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
@@ -657,7 +757,7 @@
       "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "A Ballet Through Mud",
         "url": "https://open.spotify.com/album/52JbblOmGbKWmQkJWMKe6Y"
@@ -681,7 +781,7 @@
       "url": "https://open.spotify.com/track/4pLQQTQJy76L6IbHi88RhA"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Truman sleeps (for guitar ensemble)",
         "url": "https://open.spotify.com/album/0VabAGTGRwNdUO9gQPSkDt"

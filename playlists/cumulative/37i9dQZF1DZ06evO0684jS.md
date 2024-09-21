@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This is Nicki Minaj\. Az összes kihagyhatatlan szám egyetlen műsorlistában.
+> This is Nicki Minaj\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 9 min
 

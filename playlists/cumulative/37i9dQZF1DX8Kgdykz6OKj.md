@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-402 songs - 22 hr 45 min
+403 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Blue Skies](https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9) | 2:37 | 2022-10-13 | 2024-04-19 |
 | [Blue Skies](https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn) | 2:37 | 2022-07-28 | 2022-11-20 |
 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 | 2024-07-05 |  |
-| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 |  |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 | 2024-09-21 |
 | [Bowl of Ramen](https://open.spotify.com/track/7ihA0OZAAftQpOGTnFnN4s) | [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bowl of Ramen](https://open.spotify.com/album/6tQAWwBl1bZe9A4T0TmJv0) | 2:48 | 2021-12-16 | 2022-12-28 |
 | [Brain](https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Lori](https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn) | [Fried](https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD) | 3:48 | 2023-04-27 | 2024-04-19 |
 | [Brain](https://open.spotify.com/track/3xD9KPvIfr5YxcJw5XaXvf) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Lori](https://open.spotify.com/artist/3NTT4t9lNkD2dphAGHMIqO) | [Brain](https://open.spotify.com/album/5y8tNprFrcaQftlvVWBrW5) | 3:50 | 2021-12-16 | 2022-07-29 |
@@ -140,6 +140,7 @@
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2021-12-16 | 2022-11-20 |
 | [Flowers On The Weekend](https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 2:32 | 2022-04-11 | 2024-06-22 |
 | [Fly god manners](https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:10 | 2023-09-21 |  |
+| [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 | 2024-09-20 |  |
 | [FORKS ON THE ROAD](https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [FORKS ON THE ROAD](https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs) | 3:03 | 2024-04-05 | 2024-05-25 |
 | [Fossils](https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg) | [Loop Faction](https://open.spotify.com/artist/1f0dZqs2JpuHbHDtxaNdKq), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [Fossils](https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [Free Your Mind](https://open.spotify.com/track/50iCTSYg5gE5QTKgSvIGe8) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Majical](https://open.spotify.com/artist/6G1msbNwej8ibSdhWTFY6w), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [Free Your Mind](https://open.spotify.com/album/5eBucUE8tI6aH18HXrCgbg) | 4:09 | 2021-12-16 | 2022-07-29 |

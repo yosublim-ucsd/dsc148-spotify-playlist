@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: 鶴 The Crane \(Taiwan\)
 
-1,527 songs - 3 day 20 hr 13 min
+1,528 songs - 3 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2022-06-30 | 2022-07-22 |
 | [Capa City](https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/44F56fsc1H14KG1CvRM4N3) | 3:54 | 2023-06-22 | 2023-06-30 |
 | [Carta de Obon](https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 4:31 | 2024-01-25 | 2024-02-09 |
-| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-06 |  |
+| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-06 | 2024-09-21 |
 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-16 | 2024-08-30 |
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-08-24 | 2024-06-01 |
 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 | 2022-09-16 |
@@ -1320,6 +1320,7 @@
 | [Wheel Chain](https://open.spotify.com/track/5AH2ZIew9FtFDaR9nIEIlx) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wheel Chain](https://open.spotify.com/album/1L1wtYJgBdEsRwqp4To6P1) | 4:23 | 2022-09-01 | 2022-11-25 |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-07-29 |
 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 | 2022-05-19 | 2022-07-08 |
+| [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2024-09-19 |  |
 | [When You Almost Give Up](https://open.spotify.com/track/2kQBpahiunmJ3QaUBhhQhZ) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [When You Almost Give Up](https://open.spotify.com/album/2KfwCzWWc0ieER20WuBkYQ) | 2:46 | 2024-04-18 | 2024-05-28 |
 | [When You Come Around](https://open.spotify.com/track/3hLG4hwrDkQuFCebaEUE5m) | [Sleep Shelter](https://open.spotify.com/artist/5QgDB4A06vPxUinNTsyc97) | [When You Come Around](https://open.spotify.com/album/5om3DzK3YFD8ohDnbQpILu) | 3:30 | 2022-10-06 | 2022-10-08 |
 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 | 2023-02-16 | 2023-06-02 |
@@ -1457,7 +1458,7 @@
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 | 2023-05-13 |
 | [你在哪裡](https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你在哪裡](https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3) | 4:06 | 2024-05-23 | 2024-08-02 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
-| [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 | 2024-06-06 | 2024-09-20 |
+| [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 | 2024-06-06 |  |
 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw), [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 | 2024-07-18 | 2024-08-17 |
 | [冷氣機滴水](https://open.spotify.com/track/2wgDaG3hpn6qd8bOMm6eUZ) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [冷氣機滴水](https://open.spotify.com/album/34LNC8ay7GEQdgr6SOaamZ) | 5:37 | 2024-08-08 | 2024-08-30 |
 | [初恋](https://open.spotify.com/track/1zf8tA4xX7LzhEK4Nm6YYE) | [yomm](https://open.spotify.com/artist/51eUf0X63PMw1Cm8p8xkqV) | [初恋](https://open.spotify.com/album/2CcyWs26HCrKU0v9BFZkYo) | 4:38 | 2024-04-25 | 2024-05-10 |

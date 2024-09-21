@@ -2,9 +2,9 @@
 
 ### [I\-Pop Superhits](https://open.spotify.com/playlist/37i9dQZF1DWU2tlzlUMZTA)
 
-> Only hits! Cover\- 'Kya Logey Tum' by B Praak & Jaani
+> Only hits! Cover\- Zohrajabeen
 
-116 songs - 5 hr 38 min
+117 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 | 2024-08-05 |  |
 | [Khel](https://open.spotify.com/track/6mv8YGvDRwdYiLc5zVdFjO) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Abhinav Shekhar](https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ), [Shekhar Astitwa](https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l) | [Crakk \- Jeetegaa Toh Jiyegaa](https://open.spotify.com/album/6GYYjfTgjkKDoZMVaTSVKX) | 2:24 | 2024-02-22 | 2024-08-06 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2024-08-05 |  |
-| [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 | 2024-08-05 |  |
+| [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 | 2024-08-05 | 2024-09-21 |
 | [Leja Re](https://open.spotify.com/track/68iBMrMRc1rg4eAxJbvxch) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Leja Re](https://open.spotify.com/album/3Qx3ApbCoc45FxqRVkty7E) | 3:25 | 2024-08-16 | 2024-09-16 |
 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 | 2023-02-15 | 2024-08-06 |
 | [Love Dose](https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 3:44 | 2024-08-05 |  |
@@ -124,5 +124,6 @@
 | [Zaroor](https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Zaroor](https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13) | 2:55 | 2024-08-05 |  |
 | [Zihaal e Miskin](https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin](https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd) | 4:03 | 2024-08-05 |  |
 | [Zindagi Picture Hai](https://open.spotify.com/track/61aZkSLmYtcVror3d69l26) | [Salvage Audio Collective](https://open.spotify.com/artist/0vqvLnTCwFbwxMWBeBAXdR), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3) | [Bambai Meri Jaan \(Original Series Soundtrack\)](https://open.spotify.com/album/1YKJ7en4IlL2OewnsqemEb) | 2:10 | 2023-09-11 | 2024-08-06 |
+| [Zohrajabeen](https://open.spotify.com/track/6NSlES5sRnaPDoy6V03wL0) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Zohrajabeen](https://open.spotify.com/album/2xQUtEXyca5co9W1wXFU2w) | 3:54 | 2024-09-20 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

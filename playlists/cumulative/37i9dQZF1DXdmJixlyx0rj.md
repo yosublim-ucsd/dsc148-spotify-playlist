@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Ellui, Richboy Hardy\)
+> New & best K\-Electronic music is here\. \(Cover: Ellui, Richboy Hardy, minlee\)
 
-200 songs - 11 hr 15 min
+201 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bail\-E](https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Eu li EP](https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG) | 7:52 | 2024-04-05 |  |
 | [Bambi \- BRLLNT Remix](https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 2:51 | 2024-04-05 |  |
 | [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 |  |
-| [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 |  |
+| [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 | 2024-09-21 |
 | [Before the Dawn](https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx) | [GLORY](https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr) | [Before the Dawn](https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk) | 2:56 | 2024-04-05 | 2024-06-09 |
 | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C) | [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf) | 3:13 | 2024-06-28 | 2024-07-17 |
 | [Better Things \- Dance Remix](https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [LDN NOISE](https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs) | [Better Things \(Dance Remix\)](https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40) | 3:14 | 2024-04-05 |  |
@@ -182,6 +182,7 @@
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2024-04-05 | 2024-05-19 |
 | [Summer Breeze](https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa) | [NINA](https://open.spotify.com/artist/2P9ftPzTkpvJv2ws2XWHQS) | [Summer Breeze](https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc) | 2:56 | 2024-04-18 | 2024-06-29 |
 | [Super \(Workout Remix\)](https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Super \(Workout Remix\)](https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI) | 3:13 | 2024-06-28 |  |
+| [Supernova \(Grimes Remix\)](https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:47 | 2024-09-20 |  |
 | [Techno Drop](https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Techno Drop](https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC) | 2:41 | 2024-04-05 | 2024-05-22 |
 | [The Feels \(Benny Benassi Remix\)](https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1) | 3:05 | 2024-06-28 |  |
 | [There For You \- Club Mix](https://open.spotify.com/track/4gObgFsFGdKd1qgNEYfNLt) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Rob Adans](https://open.spotify.com/artist/17ofLR1AMLtSrxZO8Ew8Eu) | [There For You \(Club Mix\)](https://open.spotify.com/album/7meNcaWJISNWfOJv4gLv3Q) | 3:10 | 2024-06-28 |  |

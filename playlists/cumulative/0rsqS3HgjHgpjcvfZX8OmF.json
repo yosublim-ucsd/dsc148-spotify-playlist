@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Dear Rouge",
+  "description": "The best and latest rock and alternative. Cover: The Tragically Hip",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 211186,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/1Gq7qJGtmzdqVjAzeoV1Kx"
@@ -1360,6 +1360,24 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/2Xpx4wGbzN73O3qRuF3J9n"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156780,
+      "name": "Hook Me Up",
+      "url": "https://open.spotify.com/track/5XE1yZvWYaxq73n8o2k31q"
     },
     {
       "album": {
@@ -2689,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Slut For Excel",
+        "url": "https://open.spotify.com/album/1p5yOFn5jn3bVvPMBOsSVW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164671,
+      "name": "Slut For Excel",
+      "url": "https://open.spotify.com/track/7KBqbyOkR7JHoOCUroSUuF"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla"
       },
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200266,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE"
@@ -3168,7 +3204,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191732,
       "name": "This Town Ain't Big Enough For Both Of Us",
       "url": "https://open.spotify.com/track/7uxOs9rdEN5raVfcoI1kTA"
@@ -3356,6 +3392,24 @@
       "duration_ms": 265226,
       "name": "Vegas Strip",
       "url": "https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj"
+    },
+    {
+      "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249994,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8"
     },
     {
       "album": {

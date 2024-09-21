@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-472 songs - 1 day 4 hr 14 min
+473 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 | 2023-07-14 | 2023-08-28 |
 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 | 2021-10-03 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
-| [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 |  |
+| [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 | 2024-09-21 |
 | [On lui doit notre sang](https://open.spotify.com/track/0exEszTvulIT0w8W5sSdoC) | [Manahel](https://open.spotify.com/artist/202NYrsgt4o5JUJIVGpKCI) | [On lui doit notre sang](https://open.spotify.com/album/2tuQ4V6oMvfxuAanXSOliP) | 2:26 | 2021-01-03\* | 2021-01-15 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |
@@ -356,6 +356,7 @@
 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 | 2022-07-08 | 2022-11-12 |
 | [Philédouche](https://open.spotify.com/track/2ZtoEn6SXuuZingX5FNPJQ) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/5G9Hkqxr0ROesJU8iU1O12) | 4:40 | 2021-01-03\* | 2022-07-29 |
 | [Platane](https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 2:57 | 2021-01-15 |  |
+| [Pleasure](https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Future Lovers](https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX) | 3:09 | 2024-09-20 |  |
 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 | 2022-05-13 |  |
 | [PLS \- sunrise version](https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [PLS](https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS) | 3:03 | 2021-08-16 | 2022-02-12 |
 | [Plus tard](https://open.spotify.com/track/0JmudqX8823E6sxCTbCWGn) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Plus tard](https://open.spotify.com/album/6TxrGYY2rZAVTYmdsRahM1) | 3:59 | 2021-01-16 | 2021-10-23 |

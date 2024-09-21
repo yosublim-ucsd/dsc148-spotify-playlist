@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,012 likes - 70 songs - 3 hr 37 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,013 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [There It Is](https://open.spotify.com/track/71b4fGIGMUacvD6fg6xltk) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [There It Is](https://open.spotify.com/album/1HIhM9eys4WCCLvgcppZTl) | 3:09 |
 | 70 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 |
 
-Snapshot ID: `AAAZFlzCYLAkXiaFi1iI0Q/jBy98anak`
+Snapshot ID: `AAAZGfTp2zQ5uuHVMIdPewzIyW7WraVI`

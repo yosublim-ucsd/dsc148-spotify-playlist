@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Matroda and Martin Ikin \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
+  "description": "Tech house technicians, featuring SOSA \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -4657,6 +4657,32 @@
     },
     {
       "album": {
+        "name": "BUZZIN' EP",
+        "url": "https://open.spotify.com/album/44nZn39UIrMlQoog5gW5SW"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "ALL U NEED",
+          "url": "https://open.spotify.com/artist/2gFfYjFlwUk1nERTM5Vqgn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Buzzin'",
+      "url": "https://open.spotify.com/track/0v2Q0O4Dqcc8wsAblxaO5e"
+    },
+    {
+      "album": {
         "name": "By Myself (feat. XKYLAR)",
         "url": "https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh"
       },
@@ -4976,7 +5002,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190312,
       "name": "Can You Feel It - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/4Uotr9nrVbAYhorPfIbg8o"
@@ -6297,6 +6323,32 @@
     },
     {
       "album": {
+        "name": "COPY ME",
+        "url": "https://open.spotify.com/album/05vj36c9zDX5pDwmEn7DPe"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "Nao Kawamura",
+          "url": "https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2"
+        },
+        {
+          "name": "Anne Futagami",
+          "url": "https://open.spotify.com/artist/30o8SxkhhVXJbqfuz8stn7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267605,
+      "name": "COPY ME",
+      "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
+    },
+    {
+      "album": {
         "name": "Coquetilla",
         "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
       },
@@ -6751,6 +6803,28 @@
     },
     {
       "album": {
+        "name": "Dance All Day",
+        "url": "https://open.spotify.com/album/2PnFBR5WNofysu20b3866g"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Dance All Day",
+      "url": "https://open.spotify.com/track/2ioL0Gtvei6fkFjigG8UN4"
+    },
+    {
+      "album": {
         "name": "Dance All Night (feat. Sara Sukkha)",
         "url": "https://open.spotify.com/album/4aVAiadvoAFe5zAiXpQTfB"
       },
@@ -7150,7 +7224,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 156000,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/4MAxbsOLvmCs8R44gqD8lV"
@@ -7606,7 +7680,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 151277,
       "name": "Dirty Secret",
       "url": "https://open.spotify.com/track/2EbHWANHfsdKXx1OH40hfw"
@@ -13341,6 +13415,24 @@
     },
     {
       "album": {
+        "name": "Hey Girls, B-Boys",
+        "url": "https://open.spotify.com/album/53cNILMDLUc25kp4DMNt9P"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Hey Girls, B-Boys",
+      "url": "https://open.spotify.com/track/79GMf6RewQhaYZfFvegwJB"
+    },
+    {
+      "album": {
         "name": "Hi Speed Lover",
         "url": "https://open.spotify.com/album/23GrgqUMu7L1PIKMs5jaCH"
       },
@@ -14176,7 +14268,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202207,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/51ZqM59s1tcxlBbcbTz61b"
@@ -14410,7 +14502,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
@@ -15657,6 +15749,28 @@
     },
     {
       "album": {
+        "name": "in2minds",
+        "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "in2minds",
+      "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
+    },
+    {
+      "album": {
         "name": "Industria",
         "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
       },
@@ -15698,6 +15812,32 @@
       "duration_ms": 318414,
       "name": "Infrared",
       "url": "https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2La6X2B2WbRtuGKWAB31Me"
+      },
+      "artists": [
+        {
+          "name": "HAWK.",
+          "url": "https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft"
+        },
+        {
+          "name": "Penn Brothers",
+          "url": "https://open.spotify.com/artist/0fS3JMsMoQmqOY84d74IQD"
+        },
+        {
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/3RJfn1YtXrUestEg2IBSXx"
     },
     {
       "album": {
@@ -16131,6 +16271,28 @@
     },
     {
       "album": {
+        "name": "Jump, Bounce",
+        "url": "https://open.spotify.com/album/1K8X4oyI0CFTgZ94mEDZWz"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Aaron Veal",
+          "url": "https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "Jump, Bounce",
+      "url": "https://open.spotify.com/track/75oyg5VA2vBIwyVvUBO5mk"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/26jD9l49XNSn8rBbpDuOsT"
       },
@@ -16178,7 +16340,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 136386,
       "name": "Just A Beat",
       "url": "https://open.spotify.com/track/5J5aaEvB9wPSB1uS7Ckub6"
@@ -24052,7 +24214,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 153030,
       "name": "People In The Front",
       "url": "https://open.spotify.com/track/0lSVOraKctlmtTKtE5MC1D"
@@ -25235,6 +25397,24 @@
     },
     {
       "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
+    },
+    {
+      "album": {
         "name": "Rave Inside My Head",
         "url": "https://open.spotify.com/album/4jAn4kdK1cGZyblizFYm4V"
       },
@@ -25952,7 +26132,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150634,
       "name": "Rich Baby Daddy",
       "url": "https://open.spotify.com/track/3gfNpIwauhswUG1WB9tfHa"
@@ -27160,7 +27340,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155156,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
@@ -27248,7 +27428,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 194062,
       "name": "Seshy Fodder",
       "url": "https://open.spotify.com/track/2NOfaoUyMBxdjKpICgogPr"
@@ -28548,6 +28728,28 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/79I8szZBf7WVdNd7w43bxf"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147304,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/1EAQZE1J0Gu7w1fTo2Afj8"
     },
     {
       "album": {
@@ -31029,6 +31231,24 @@
     },
     {
       "album": {
+        "name": "The Booth",
+        "url": "https://open.spotify.com/album/1QCqMM5wF867kXVgmW3bKH"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155917,
+      "name": "The Booth",
+      "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
+    },
+    {
+      "album": {
         "name": "The Brave",
         "url": "https://open.spotify.com/album/4xJepEG7yXxA9OWwku8rxn"
       },
@@ -31780,7 +32000,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179815,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/0Gxx41TJ2c6028DB6lpidg"
@@ -35024,6 +35244,24 @@
       "duration_ms": 227127,
       "name": "What",
       "url": "https://open.spotify.com/track/6seHTszvbf07VkWm8rBrUq"
+    },
+    {
+      "album": {
+        "name": "What About Me",
+        "url": "https://open.spotify.com/album/3GHg4jUWzo4y5ZzcWLj3sB"
+      },
+      "artists": [
+        {
+          "name": "Alterboy",
+          "url": "https://open.spotify.com/artist/4yR4Yc8RhsKBEwJ3JQQcY3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/2H0CEWirJNz7k3tr9SPP2B"
     },
     {
       "album": {

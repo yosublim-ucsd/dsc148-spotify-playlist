@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 16930,
+  "num_followers": 16937,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAACojOce5C6ujTAgxSTcWpsD",
+  "snapshot_id": "ZutpgAAAAACW2BJaj5Hu+YYGZ0E/pGXH",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Rated \"U\" For Ugly",
-      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Panty Raid (Bonus Edition)",
         "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205786,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+      "duration_ms": 181933,
+      "name": "Rated \"U\" For Ugly",
+      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lay Me to Rest",
-        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "Lay Me to Rest",
+        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
+      "duration_ms": 219760,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 206178,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 173788,
       "name": "Homesick for Hope",
       "url": "https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 206178,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "The Walking Dead",
-      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "The Walking Dead",
+      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playmate Of The Year",
         "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 179573,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "F.L.F.U.",
+      "url": "https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 196076,
       "name": "Just The Tip",
       "url": "https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "F.L.F.U.",
-      "url": "https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0"
     },
     {
       "added_at": null,

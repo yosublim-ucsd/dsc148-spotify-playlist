@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 275487,
       "name": "Can't Take My Hometown",
       "url": "https://open.spotify.com/track/0ebCxstXoGh2gQ81SaRCku"
@@ -600,6 +600,28 @@
       "duration_ms": 123762,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW"
+    },
+    {
+      "album": {
+        "name": "Firewood",
+        "url": "https://open.spotify.com/album/39Yze1aBAyFyp3fT9nQ2ni"
+      },
+      "artists": [
+        {
+          "name": "Charlie Farley",
+          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "Coulda",
+      "url": "https://open.spotify.com/track/7tf5PYmD9KnOhLLdBoRYeR"
     },
     {
       "album": {
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 109534,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/3STVAAAa4TasjdcYPMtbJN"
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 242000,
       "name": "Kuntry Till I Die",
       "url": "https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw"
@@ -2248,6 +2270,28 @@
       "duration_ms": 192818,
       "name": "Ride 4 Me",
       "url": "https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3"
+    },
+    {
+      "album": {
+        "name": "Riding Dirty",
+        "url": "https://open.spotify.com/album/2UGTOdNjy5OsutvUUZ7cDf"
+      },
+      "artists": [
+        {
+          "name": "Moonshine Bandits",
+          "url": "https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG"
+        },
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Riding Dirty",
+      "url": "https://open.spotify.com/track/1FzJBuKOk5yUrmrg7ujaSu"
     },
     {
       "album": {

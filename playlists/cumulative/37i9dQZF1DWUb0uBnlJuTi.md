@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-430 songs - 1 day 8 hr 46 min
+431 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,8 @@
 | [Wind Parade](https://open.spotify.com/track/4okz1TH0GeLw3J51pNRDGd) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Places And Spaces](https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh) | 6:09 | 2020-10-09 |  |
 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 | 2020-10-09 |  |
 | [With You I Rock](https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [With You I Rock](https://open.spotify.com/album/50k3QZEfxduwieuc9pOjlF) | 3:11 | 2021-08-06 | 2022-07-29 |
-| [Wonder Boy](https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Motionation](https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD) | 3:32 | 2024-04-12 |  |
+| [Wonder Boy](https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Motionation](https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD) | 3:32 | 2024-04-12 | 2024-09-21 |
+| [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 | 2024-09-20 |  |
 | [Wouldn't You](https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Wouldn't You](https://open.spotify.com/album/7uFecTTe825dZGMIneAmj8) | 2:25 | 2022-03-11 |  |
 | [yeah \(ooh\)](https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [yeah \(ooh\)](https://open.spotify.com/album/5jJHiab8xHz0kA3bsBo3h3) | 2:52 | 2023-05-19 | 2023-06-17 |
 | [You Feel Me](https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [You Feel Me](https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK) | 3:11 | 2022-08-19 | 2023-04-22 |

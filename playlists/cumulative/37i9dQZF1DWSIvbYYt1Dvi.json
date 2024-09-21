@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "rashid \u00e9 AULAS",
+  "description": "xam\u00e3 e leall na rel\u00edquia do kof ntj, \u00e9 AULAS",
   "name": "AULAS",
   "tracks": [
     {
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 126323,
       "name": "CHUCRO BUARQUE",
       "url": "https://open.spotify.com/track/5FlzcTY5GRJyPfhxaCDRab"
@@ -8168,6 +8168,32 @@
       "duration_ms": 200307,
       "name": "Seu Pai Falou",
       "url": "https://open.spotify.com/track/1gULlZqzaB2GdqIeMstxD3"
+    },
+    {
+      "album": {
+        "name": "Show My Love",
+        "url": "https://open.spotify.com/album/7pIu9h2ynbzntidblgFSHZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Show My Love",
+      "url": "https://open.spotify.com/track/4IlZc2pTaBy3KS0CDQ2Y3l"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "2 y 3 de noviembre en el Parque Bicentenario \ud83e\udd20 Consigue tus boletos y m\u00e1s info <a href=\"https://bit.ly/mexcla_playlist\"> AQU\u00cd</a> ",
+  "description": "2 y 3 de noviembre en el Parque Bicentenario \ud83e\udd20 Consigue tus boletos y m\u00e1s info <a href=\"https://bit.ly/mexcla_playlist\"> AQU\u00cd</a> Grupo Marca Registrada y Deorro en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -540,6 +540,28 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aVzxKZtuM9hOV0NR2CWqt"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
     },
     {
       "album": {
@@ -4011,6 +4033,28 @@
     },
     {
       "album": {
+        "name": "En El Audi",
+        "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "En El Audi",
+      "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
+    },
+    {
+      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -5495,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "LA 40",
+        "url": "https://open.spotify.com/album/3OzhitEA1330m3Uqiyz80W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "La 40",
+      "url": "https://open.spotify.com/track/2d7KNIUi1hdjrE5WD3iAg0"
+    },
+    {
+      "album": {
         "name": "LPM",
         "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
       },
@@ -5612,6 +5674,24 @@
       "duration_ms": 163335,
       "name": "La Chamba",
       "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
+    },
+    {
+      "album": {
+        "name": "Rancheras & Adictivas",
+        "url": "https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129067,
+      "name": "La Cuichi",
+      "url": "https://open.spotify.com/track/25LBX0hecJR9Ph9tuiO1hT"
     },
     {
       "album": {
@@ -5974,6 +6054,32 @@
       "duration_ms": 180000,
       "name": "La Justiciera",
       "url": "https://open.spotify.com/track/37SX2Yxw00H1e40B5wOE7d"
+    },
+    {
+      "album": {
+        "name": "La Lambo",
+        "url": "https://open.spotify.com/album/2NQZXzGtjkBgGZhFis2Tq7"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Miguel Vega",
+          "url": "https://open.spotify.com/artist/4E3sBdaLm9laUIwDCYCxxE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "La Lambo",
+      "url": "https://open.spotify.com/track/15PwD0Yt1lrpkRD1CdH7LE"
     },
     {
       "album": {
@@ -7570,6 +7676,24 @@
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "album": {
+        "name": "Rancheras & Adictivas",
+        "url": "https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152339,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/4WTxIgoq5yvmUNqxypl7uF"
     },
     {
       "album": {
@@ -9864,6 +9988,28 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "album": {

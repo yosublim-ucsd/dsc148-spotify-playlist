@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 219424,
+  "num_followers": 219507,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAABbaDsSpRjAbYVYzL5mfsMH",
+  "snapshot_id": "ZuzzQAAAAAAswzQgt9ZhwPyU14tNQnqW",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "If God Is A woman",
+        "url": "https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "If God Is A Woman",
+      "url": "https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 281214,
       "name": "Better The Devil You Know",
       "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2024-09-06 04:00:00",

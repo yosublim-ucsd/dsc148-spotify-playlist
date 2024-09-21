@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8?si=4t4Wq6FTQHS-AAIj3gsxPw\">Mas Musiq </a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg?si=Qx3KtNzhRbmTS3S3en4wlw\">Lee McKrazy</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -1370,6 +1370,40 @@
       "duration_ms": 306106,
       "name": "AmaGupta - Radio Edit",
       "url": "https://open.spotify.com/track/4DvwaQUg5R4dSwO5fzabaB"
+    },
+    {
+      "album": {
+        "name": "Intando Ka God 2.0",
+        "url": "https://open.spotify.com/album/7oAeeOBkz1q51TkEwrwBGF"
+      },
+      "artists": [
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411445,
+      "name": "Amagwala (feat. Mellow & Sleazy & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/6k20SpZAK5P9juV4u0PKUc"
     },
     {
       "album": {
@@ -18098,7 +18132,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 408450,
       "name": "Manimkhuza Uthini (feat. Mellow & Sleazy & Cuba Beats)",
       "url": "https://open.spotify.com/track/4g9AF1GrnPnATBzfYyCMCN"

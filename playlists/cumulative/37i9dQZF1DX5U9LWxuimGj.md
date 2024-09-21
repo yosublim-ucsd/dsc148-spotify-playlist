@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-182 songs - 10 hr 1 min
+183 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hell in a Handbag](https://open.spotify.com/track/4bzfqry6i0gBvGTh8mLg9M) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/38TOkbMjRxyTjkEFCNZsGs) | 3:24 | 2023-03-03 | 2023-05-01 |
 | [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 3:13 | 2021-12-10 | 2024-04-10 |
 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 | 2023-01-27 |  |
+| [Hola](https://open.spotify.com/track/0huIntjZ6mdOjk6Dts3j5P) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Hola](https://open.spotify.com/album/341kX7vpGM5PePRtWtTZCs) | 2:42 | 2024-09-20 |  |
 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 | 2021-12-10 |  |
 | [Honky Tonk Education](https://open.spotify.com/track/2e0heBxxDYvsw8MMPhg88z) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Honky Tonk Education](https://open.spotify.com/album/3q9oBglyQUUUmzva0mvU5Y) | 3:26 | 2021-12-10 | 2024-04-10 |
 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 | 2022-02-18 | 2022-09-03 |
@@ -130,7 +131,7 @@
 | [Once Upon a Time \(feat\. Martina McBride\)](https://open.spotify.com/track/4gE9TM6eai2wzYbCga0WmD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Play the Hits](https://open.spotify.com/album/3aAtwgAJcKzXVsxDsotriL) | 2:59 | 2021-12-10 | 2024-04-10 |
 | [Once Upon a Time in Mexico](https://open.spotify.com/track/2OMp5B6BUCvnH7hVlZgMZH) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Once Upon a Time in Mexico](https://open.spotify.com/album/2j7lE1XBdiQdo4T9K2z4ci) | 2:44 | 2021-12-10 | 2024-04-10 |
 | [Overthink](https://open.spotify.com/track/3l0oInOR4MnPPgpG2PYQex) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Overthink](https://open.spotify.com/album/5WcaHxFqd0BjF3xBtZ8Fd9) | 3:50 | 2023-03-03 |  |
-| [Paraíso \(Heaven\) \- Ao Vivo](https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Paraíso \(Heaven\) \[Ao Vivo\]](https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD) | 2:55 | 2021-12-10 |  |
+| [Paraíso \(Heaven\) \- Ao Vivo](https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Paraíso \(Heaven\) \[Ao Vivo\]](https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD) | 2:55 | 2021-12-10 | 2024-09-21 |
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 | 2024-04-10 |
 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 | 2024-06-28 |  |

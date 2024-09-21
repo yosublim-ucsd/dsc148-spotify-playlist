@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Celia Becks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,620 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,621 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 13 | [GiNGA](https://open.spotify.com/track/17aW8EWl8SpI0fHgYvuQTH) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [$kyhook](https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE) | [GINGA](https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z) | 2:17 |
 | 14 | [Lejos](https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Lejos](https://open.spotify.com/album/0VS75j7R4QptNivoeqvasJ) | 3:37 |
 | 15 | [Culpable O No \(Miénteme Como Siempre\)](https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Culpable o No \(Miénteme Como Siempre\)](https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh) | 3:18 |
-| 16 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 17 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 16 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 17 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 18 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 |
-| 19 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 |
+| 19 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
 | 20 | [Cuatro Bodas](https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Generación de Cristal](https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y) | 2:46 |
-| 21 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
+| 21 | [Redención](https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Redención](https://open.spotify.com/album/73rFocl011WgsCQzadxU2A) | 2:18 |
 | 22 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
 | 23 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
 | 24 | [Morreo \(feat\. The Calorettes\)](https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Morreo \(feat\. The Calorettes\)](https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI) | 3:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 43 | [Special K](https://open.spotify.com/track/0jsVPYRgzAFGyQAXihhZnC) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [El Virtual](https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY), [BASS.SEISMIC](https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Special K](https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK) | 2:32 |
 | 44 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
 | 45 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
-| 46 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
-| 47 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
+| 46 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
+| 47 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
 | 48 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
 | 49 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
 | 50 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 |

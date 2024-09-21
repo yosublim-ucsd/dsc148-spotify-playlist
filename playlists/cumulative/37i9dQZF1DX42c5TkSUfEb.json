@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "february tape",
+        "url": "https://open.spotify.com/album/3p6nOmT4UcHVWZWmbNlD9C"
+      },
+      "artists": [
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233076,
+      "name": "only when i was with you",
+      "url": "https://open.spotify.com/track/5GrGDLcNCM2GppSiLKteL7"
+    },
+    {
+      "album": {
         "name": "Oser",
         "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
       },
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198823,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx"

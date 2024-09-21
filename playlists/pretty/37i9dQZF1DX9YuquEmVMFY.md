@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > XG 'The first HOWL \- Landing at Seoul' 2024년 7월 11일\(목\) 오후 8시 @ 예스24 라이브홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,719 likes - 27 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,731 likes - 27 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

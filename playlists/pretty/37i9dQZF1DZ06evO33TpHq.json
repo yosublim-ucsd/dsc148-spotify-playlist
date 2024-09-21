@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 48610,
+  "num_followers": 48622,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAAbmLsSrSUAezWVbna2q302",
+  "snapshot_id": "ZutpgAAAAABZEKBFRC6u4XQt4XWxPGG1",
   "tracks": [
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Response",
-        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
+        "name": "Living Hope (The House Sessions)",
+        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 206280,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
+      "duration_ms": 394626,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope (The House Sessions)",
-        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
+        "name": "Response",
+        "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 394626,
-      "name": "How Great Is Your Love",
-      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
+      "duration_ms": 206280,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Barry White\. The essential tracks, all in one playlist.
 
 93 songs - 7 hr 40 min
 

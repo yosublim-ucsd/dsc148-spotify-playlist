@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Tate McRae
 
-4,143 songs - 10 day 0 hr 39 min
+4,144 songs - 10 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2630,6 +2630,7 @@
 | [Soooo Many Problems feat\. tonun](https://open.spotify.com/track/62JoAITlRfsTGW5RqeeHJd) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Soooo Many Problems feat\. tonun](https://open.spotify.com/album/2NI5oe3R08P9Gb54nehU4i) | 3:11 | 2024-07-18 | 2024-07-27 |
 | [Soran Bushi](https://open.spotify.com/track/5MIGldUdtw8y5WqZYT7ykM) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Soran Bushi](https://open.spotify.com/album/4iRwcagbROsUFQ4GLvEHu2) | 5:11 | 2023-11-05 | 2023-11-13 |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2023-11-12 | 2023-11-27 |
+| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-19 |  |
 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2023-02-05 | 2023-02-13 |
 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 | 2023-02-26 | 2023-03-06 |
 | [Sour Heart](https://open.spotify.com/track/5mt3zQZrKbAwkeez64zS7j) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Sour Heart](https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4) | 3:37 | 2023-04-16 | 2023-04-24 |

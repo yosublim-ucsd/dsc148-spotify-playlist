@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125798,
+  "num_followers": 125788,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATA8qn4NN8rqe23Pz3q+T6zcUPgKfs",
+  "snapshot_id": "AAATBct2t5RsK9v2nGZNuwKrd8pSXhxE",
   "tracks": [
+    {
+      "added_at": "2024-09-20 14:35:45",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        }
+      ],
+      "duration_ms": 180089,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF"
+    },
     {
       "added_at": "2024-09-19 15:00:12",
       "album": {
@@ -1171,26 +1187,6 @@
       "duration_ms": 188800,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj"
-    },
-    {
-      "added_at": "2024-06-28 09:29:37",
-      "album": {
-        "name": "is this real?",
-        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "real 4 me",
-      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

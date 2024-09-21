@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 45612,
+  "num_followers": 45643,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAADmnzN8IuevTT5h++upaWXZ",
+  "snapshot_id": "ZutpgAAAAAA5oa1tXnnSAcbxhDuzwvQt",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 241972,
-      "name": "Kuntry & Wistern",
-      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
+      "duration_ms": 252341,
+      "name": "Ragweed",
+      "url": "https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 252341,
-      "name": "Ragweed",
-      "url": "https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa"
+      "duration_ms": 241972,
+      "name": "Kuntry & Wistern",
+      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
     },
     {
       "added_at": null,

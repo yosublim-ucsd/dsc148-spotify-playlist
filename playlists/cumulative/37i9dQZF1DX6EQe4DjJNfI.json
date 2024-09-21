@@ -1335,6 +1335,32 @@
     },
     {
       "album": {
+        "name": "Dias Melhores",
+        "url": "https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180511,
+      "name": "Dias Melhores",
+      "url": "https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil Lembrar, n\u00e9?",
         "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
       },
@@ -2156,7 +2182,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 253681,
       "name": "Lay Me Down (feat. IZA)",
       "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"

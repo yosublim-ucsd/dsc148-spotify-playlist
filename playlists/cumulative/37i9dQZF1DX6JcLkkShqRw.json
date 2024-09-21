@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Milo J",
+  "description": "Flow sudamericano con Rei.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -4134,7 +4134,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
@@ -5348,6 +5348,32 @@
       "duration_ms": 170073,
       "name": "Cero Coro",
       "url": "https://open.spotify.com/track/6F3fByGnMXy8ZZ9Rp0WpWQ"
+    },
+    {
+      "album": {
+        "name": "CDM Deluxe",
+        "url": "https://open.spotify.com/album/531qkPEqtgpUstoJ5xOBbu"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Koki LS",
+          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Cero Noni",
+      "url": "https://open.spotify.com/track/2KycsIYUCcFKACrrHQXB73"
     },
     {
       "album": {
@@ -7528,7 +7554,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 185806,
       "name": "Dal\u00ed",
       "url": "https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp"
@@ -9494,7 +9520,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 130528,
       "name": "EL INGRESO",
       "url": "https://open.spotify.com/track/6uqkssNW8ZbJI9PiGEk2k9"
@@ -14673,6 +14699,28 @@
     },
     {
       "album": {
+        "name": "LA NOCHE ENTERA",
+        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "LA NOCHE ENTERA",
+      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
+    },
+    {
+      "album": {
         "name": "La Noche Que Te Fuiste",
         "url": "https://open.spotify.com/album/47Pecr6pHRsrdxADjhGqA2"
       },
@@ -15354,6 +15402,32 @@
       "duration_ms": 171000,
       "name": "LEGENDARIO",
       "url": "https://open.spotify.com/track/19DmqfTIVJKQWTexJ0pkt2"
+    },
+    {
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/4AA8iPBtnO0glEM1YNQF0k"
+      },
+      "artists": [
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Fosse En El Track",
+          "url": "https://open.spotify.com/artist/3CHPxzL15iYJbsTR9r1j08"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128585,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/12OXmGuD9iSu3uvyDvhciX"
     },
     {
       "album": {
@@ -17742,7 +17816,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180953,
       "name": "Metido en los verdes",
       "url": "https://open.spotify.com/track/49OSIWq4nZIEeAZ40f1puk"
@@ -21548,6 +21622,28 @@
       "duration_ms": 139346,
       "name": "ORGANIKO",
       "url": "https://open.spotify.com/track/1wEZvDYEUKO2F83LgjThSe"
+    },
+    {
+      "album": {
+        "name": "ORGULLO",
+        "url": "https://open.spotify.com/album/7E89jZLvQK2eKBnpYtlmV8"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        },
+        {
+          "name": "Davus",
+          "url": "https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/5z7by2aX9wuqFfmxr0shY4"
     },
     {
       "album": {

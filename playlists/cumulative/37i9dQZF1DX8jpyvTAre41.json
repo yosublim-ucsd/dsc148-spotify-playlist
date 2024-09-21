@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Linkin Park",
+  "description": "The best rock songs of the moment. Cover: JJ Wilde",
   "name": "Rock Now",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 224849,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
+    },
+    {
+      "album": {
+        "name": "All Bets Are Off",
+        "url": "https://open.spotify.com/album/0V88tyJV7dVXtLeTqjLPCE"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212316,
+      "name": "All Bets Are Off",
+      "url": "https://open.spotify.com/track/1XQCxtiCbNRYWDU2ExDA3q"
     },
     {
       "album": {
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 153906,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188106,
       "name": "Control",
       "url": "https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 185911,
       "name": "D&T",
       "url": "https://open.spotify.com/track/1GcWy9khekaRVprPAJHpcx"
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 123508,
       "name": "Fight For The Right",
       "url": "https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO"
@@ -5894,7 +5912,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 250331,
       "name": "Get Back Again",
       "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
@@ -6414,6 +6432,28 @@
       "duration_ms": 185956,
       "name": "Harder",
       "url": "https://open.spotify.com/track/44CcUcYAGQK8K0COHDxRp3"
+    },
+    {
+      "album": {
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
       "album": {
@@ -7405,6 +7445,24 @@
     },
     {
       "album": {
+        "name": "The Best Part About Being Human (Deluxe)",
+        "url": "https://open.spotify.com/album/3f4elT62cMuAA0MwN4OfhR"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "If I'm Being Honest...",
+      "url": "https://open.spotify.com/track/0md9cavRB4oUI3kG2OXdEO"
+    },
+    {
+      "album": {
         "name": "If You Were Me",
         "url": "https://open.spotify.com/album/7MmxPEfTJp1ZiHkbjVcLCR"
       },
@@ -7676,6 +7734,24 @@
       "duration_ms": 221795,
       "name": "JIM BOB",
       "url": "https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK"
+    },
+    {
+      "album": {
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212008,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ"
     },
     {
       "album": {
@@ -8044,6 +8120,24 @@
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
+    },
+    {
+      "album": {
+        "name": "KILLING ME",
+        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "KILLING ME",
+      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
     },
     {
       "album": {
@@ -9462,7 +9556,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210588,
       "name": "Make Your Way Back To Me",
       "url": "https://open.spotify.com/track/4rm0AaSomwKARe8tWmZa8X"
@@ -9762,6 +9856,24 @@
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1xXeuTUxxquUoRIMTgBeJi"
+    },
+    {
+      "album": {
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/721xgb2DpiQbycWZsicBLL"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159169,
+      "name": "Mess To Make",
+      "url": "https://open.spotify.com/track/0nH27MHmWfVe3RFI9ADq9k"
     },
     {
       "album": {
@@ -10250,7 +10362,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 97215,
       "name": "Mr Midnight",
       "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
@@ -10272,6 +10384,24 @@
       "duration_ms": 153733,
       "name": "Mr. Please",
       "url": "https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb"
+    },
+    {
+      "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214650,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
     },
     {
       "album": {
@@ -11159,6 +11289,24 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6qh59KncDXd9b5zCq5z4dp"
+      },
+      "artists": [
+        {
+          "name": "Hawksley Workman",
+          "url": "https://open.spotify.com/artist/6TXT0xgAes45U8vyHeCIZJ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161279,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/1EoShOxDGs74MKiyhsziiB"
+    },
+    {
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/26Ztf9CMF4nOwB1zLs5Qiw"
       },
@@ -11600,7 +11748,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 205737,
       "name": "Over You",
       "url": "https://open.spotify.com/track/0K8sb4qnfFTuzGGZMDulPu"
@@ -11846,6 +11994,24 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
+    },
+    {
+      "album": {
+        "name": "Peacekeeper",
+        "url": "https://open.spotify.com/album/5uyvBJrxWpCumCEFL52sGh"
+      },
+      "artists": [
+        {
+          "name": "Current Swell",
+          "url": "https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198020,
+      "name": "Peacekeeper",
+      "url": "https://open.spotify.com/track/3diQLXt6yw7bH4FPacw1d2"
     },
     {
       "album": {
@@ -14115,6 +14281,24 @@
     },
     {
       "album": {
+        "name": "OLP 30 Volume 1",
+        "url": "https://open.spotify.com/album/0r7cBZloFk7lWUU8TNuTup"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Sound The Alarm",
+      "url": "https://open.spotify.com/track/5s3bd2OstIJiwvn5EqL5lL"
+    },
+    {
+      "album": {
         "name": "Soundtrack to the End of the World",
         "url": "https://open.spotify.com/album/2rbI0ac0G0WHszqW6wlmG6"
       },
@@ -14422,6 +14606,28 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
+        "name": "Stomach",
+        "url": "https://open.spotify.com/album/0c4YLFLYTR4G1HChoIhqcI"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156761,
+      "name": "Stomach",
+      "url": "https://open.spotify.com/track/31RqWiAuNsNWcUj7VgsO6H"
     },
     {
       "album": {
@@ -14920,7 +15126,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 231729,
       "name": "Takes Me Back",
       "url": "https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29"
@@ -14938,7 +15144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
@@ -15654,7 +15860,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171194,
       "name": "the sex was good!",
       "url": "https://open.spotify.com/track/55PS08HRXhFcUbLG0KypSU"
@@ -16742,6 +16948,24 @@
       "duration_ms": 204650,
       "name": "Wagging Tongue",
       "url": "https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ"
+    },
+    {
+      "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249994,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8"
     },
     {
       "album": {
@@ -18000,7 +18224,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 176936,
       "name": "You Should Belong To Me",
       "url": "https://open.spotify.com/track/79yxj11UfkefuPmN084yzx"

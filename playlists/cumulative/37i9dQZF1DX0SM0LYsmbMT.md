@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,239 songs - 6 day 17 hr 47 min
+4,240 songs - 6 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1779,6 +1779,7 @@
 | [Jaywalking](https://open.spotify.com/track/0jMfLp8Tbfrexm7qgoEgPA) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Jaywalking](https://open.spotify.com/album/5OZclZ32XcBNVhbMhNLNUf) | 1:41 | 2023-05-04 | 2023-07-28 |
 | [Jazz](https://open.spotify.com/track/0kQFM7bNOVlBRBVYmCDKgZ) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Jazz](https://open.spotify.com/album/4RNLKmLCS29J7G9QtQWIYF) | 1:47 | 2020-09-25 | 2021-03-14 |
 | [Jazz](https://open.spotify.com/track/3LkmrB45KwmI3pgBNv5qKX) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [One For: Two](https://open.spotify.com/album/1mrm4vTTNxy0c2caYq54NP) | 2:28 | 2022-08-01 | 2022-09-02 |
+| [Jazz Bulb](https://open.spotify.com/track/3ZLsGN9QLlthbg68RW4N3G) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Jazz Bulb](https://open.spotify.com/album/0gpcPxNCYaOjMpvdwwbcUJ) | 1:21 | 2024-09-16 |  |
 | [Jazz Cat](https://open.spotify.com/track/6Rdzbt8DDH2zLsAI1bXvHP) | [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Jazz Cat](https://open.spotify.com/album/2zHO2Hb77NVUfm564Sp7bM) | 1:45 | 2023-06-01 |  |
 | [Jazz Cats](https://open.spotify.com/track/42GVxIGP9EOoi9OFAhDMhR) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Box of Tricks, Vol.1](https://open.spotify.com/album/3c43fmVPaC1KB3iEooUakt) | 2:22 | 2020-03-10 | 2020-06-09 |
 | [Jazz Hands](https://open.spotify.com/track/1hBEGXANHMGNqIjGvWUFmk) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Jazz Hands](https://open.spotify.com/album/7dMhFvDey2WAFtIomxb6J7) | 1:38 | 2022-11-24 | 2023-02-10 |
@@ -2262,7 +2263,7 @@
 | [Midnight Cruisin'](https://open.spotify.com/track/0e3ist1DMoAGBCV7tyNaZ1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Smooth](https://open.spotify.com/album/0N6QIOAvhMzSpWXtE154Uj) | 2:12 | 2021-12-04 | 2022-09-09 |
 | [Midnight Dinner](https://open.spotify.com/track/288UlMNjTPKmHqSFg7m09C) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Midnight Dinner](https://open.spotify.com/album/1pvKrUZOlXgmxyWRhcPq73) | 1:52 | 2022-08-01 |  |
 | [Midnight Drink](https://open.spotify.com/track/6zXxFwuDElvbRHn0kwqGj8) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Midnight Drinks](https://open.spotify.com/album/12zBOy8lJd9d7NnOxZuMhI) | 2:45 | 2023-11-23 | 2023-12-22 |
-| [Midnight Drive](https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Midnight Drive](https://open.spotify.com/album/2xhBvccmGt1oKQ2SiIJbeV) | 1:51 | 2023-10-26 |  |
+| [Midnight Drive](https://open.spotify.com/track/0RgCZ9RKtQGQpvfASJ01B6) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Midnight Drive](https://open.spotify.com/album/2xhBvccmGt1oKQ2SiIJbeV) | 1:51 | 2023-10-26 | 2024-09-21 |
 | [Midnight Express](https://open.spotify.com/track/0bHSNYDw6S7Pn9AM30Pedt) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Midnight Express](https://open.spotify.com/album/4uGGm4ALjrhH8E5pEwAkd8) | 1:59 | 2022-06-23 | 2023-08-25 |
 | [Midnight Hustle](https://open.spotify.com/track/5jr4qsddnCeVdmYVEoYrmF) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [Nostalgia: Beats of 2008 \- 2020](https://open.spotify.com/album/3DjMEGoq8EuI6LYgOUr9Si) | 4:09 | 2021-01-29 | 2021-02-20 |
 | [Midnight meditation](https://open.spotify.com/track/6O2TF19OgUKc2xlmeu14hf) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v), [Jean Mózg](https://open.spotify.com/artist/3NNZijEUDfehzm0MTRER4c), [Henace](https://open.spotify.com/artist/29UU6amD7qWwNoYkxyc9Sr) | [Midnight Meditation](https://open.spotify.com/album/3Ee5BC5gD6SmZn3mlrBgV3) | 2:28 | 2022-01-20 | 2022-05-21 |

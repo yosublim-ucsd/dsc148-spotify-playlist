@@ -1,28 +1,28 @@
 {
-  "description": "that 50s kinda feeling, cover: Laufey",
-  "num_followers": 63748,
+  "description": "that 50s kinda feeling, cover: Mason Ramsey",
+  "num_followers": 63775,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAABRPGewUDXounqVkMADIZ8m",
+  "snapshot_id": "ZuzzQAAAAABdN+/65uPVT1ArHv1HzwoI",
   "tracks": [
     {
-      "added_at": "2024-07-09 14:14:53",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+        "name": "I'll See You In My Dreams",
+        "url": "https://open.spotify.com/album/6EislLSM2rnb6dmdAGc1t3"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
         }
       ],
-      "duration_ms": 213213,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+      "duration_ms": 231066,
+      "name": "I\u2019ll See You In My Dreams",
+      "url": "https://open.spotify.com/track/6e1etASUJJUrg8LHiV4RI0"
     },
     {
       "added_at": "2024-07-09 14:14:53",
@@ -39,6 +39,22 @@
       "duration_ms": 187130,
       "name": "Picture You",
       "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
+    },
+    {
+      "added_at": "2024-07-09 14:14:53",
+      "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
     },
     {
       "added_at": "2024-07-09 14:14:53",
@@ -119,22 +135,6 @@
       "duration_ms": 145735,
       "name": "this is what slow dancing feels like",
       "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
-    },
-    {
-      "added_at": "2024-07-09 14:14:53",
-      "album": {
-        "name": "Something You Can Hold",
-        "url": "https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs"
-      },
-      "artists": [
-        {
-          "name": "Mason Ramsey",
-          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Something You Can Hold",
-      "url": "https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8"
     },
     {
       "added_at": "2024-07-09 14:14:53",

@@ -1,71 +1,15 @@
 {
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Delacruz, IZA",
-  "num_followers": 2363295,
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Sevdaliza, Anitta, Pabllo Vittar, Yseult",
+  "num_followers": 2363226,
   "original_name": "Pop Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuhH1QAAAAAosvUtDf9Q52hnyiTguQbu",
+  "snapshot_id": "Zu2D9wAAAAAEnArP1tXYVAa/QTEo81h3",
   "tracks": [
     {
-      "added_at": "2024-09-16 14:59:33",
-      "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201264,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2024-09-16 14:59:33",
-      "album": {
-        "name": "No Escuro,",
-        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 169845,
-      "name": "(N\u00e3o) Quero Me Apaixonar",
-      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
-    },
-    {
-      "added_at": "2024-09-16 14:59:33",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
-    },
-    {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
@@ -93,7 +37,83 @@
       "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
+      "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201264,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "added_at": "2024-09-20 14:17:27",
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
+    },
+    {
+      "added_at": "2024-09-20 14:17:27",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "added_at": "2024-09-20 14:17:27",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 188791,
+      "name": "Romance Em Cena",
+      "url": "https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM"
+    },
+    {
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Me Deixa Viver",
         "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
         "url": "https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "solto (hist\u00f3rias de amor)",
         "url": "https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "LolOLove (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Mulher Profissional",
         "url": "https://open.spotify.com/album/2jrWnkDFQzJHlHPC03WUnJ"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/1j23qyRYsRT1tf1NnvnqOw"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
@@ -273,7 +293,23 @@
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/2smAEK1NsZ8WF3fxtjte59"
+      },
+      "artists": [
+        {
+          "name": "Angela Destro",
+          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "7AM 00s",
+      "url": "https://open.spotify.com/track/2WkVq24b888EIce8HOWofB"
+    },
+    {
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Amor Traumatizado",
         "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
@@ -289,7 +325,7 @@
       "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Ensolarada",
         "url": "https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Lay Me Down (feat. IZA)",
         "url": "https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "EPIFANIA",
         "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
@@ -373,7 +409,7 @@
       "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "O Amor e Suas Vari\u00e1veis",
         "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "NOVA ERA",
         "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "EXCLUSIVA: As mais rom\u00e2nticas da IZA",
         "url": "https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ"
@@ -473,7 +509,7 @@
       "url": "https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Pi\u00f1a Colada",
         "url": "https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Double Team",
         "url": "https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Era uma vez",
         "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
@@ -549,7 +585,7 @@
       "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
@@ -565,7 +601,7 @@
       "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
@@ -585,7 +621,7 @@
       "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "REVERSA [in]ato",
         "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
@@ -629,7 +665,7 @@
       "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
         "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "liga\u00e7\u00f5es de alma",
         "url": "https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
@@ -721,7 +757,7 @@
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
@@ -753,7 +789,7 @@
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "recadin no espelho",
         "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Sugar Papi",
         "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
@@ -817,7 +853,7 @@
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "V\u00edcio Inerente",
         "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
@@ -837,7 +873,7 @@
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Campo De Morango",
         "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
@@ -853,7 +889,7 @@
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
@@ -873,7 +909,7 @@
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Funk Rave",
         "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
@@ -889,27 +925,7 @@
       "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
-      "album": {
-        "name": "Vai Vendo",
-        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 162221,
-      "name": "Vai Vendo",
-      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
-    },
-    {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
@@ -949,27 +965,7 @@
       "url": "https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j"
     },
     {
-      "added_at": "2024-09-16 14:59:33",
-      "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
-    },
-    {
-      "added_at": "2024-09-16 14:59:33",
+      "added_at": "2024-09-20 14:17:27",
       "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"

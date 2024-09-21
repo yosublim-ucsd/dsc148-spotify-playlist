@@ -10593,6 +10593,24 @@
     },
     {
       "album": {
+        "name": "Koning van die wentel",
+        "url": "https://open.spotify.com/album/63XESLcdyRadNMdq8Kmw0z"
+      },
+      "artists": [
+        {
+          "name": "Perfect Tz",
+          "url": "https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192221,
+      "name": "Koning van die wentel",
+      "url": "https://open.spotify.com/track/1t5pjQAlp3DNrBllqfwLjt"
+    },
+    {
+      "album": {
         "name": "Koning van harte",
         "url": "https://open.spotify.com/album/2tT8g6TB8bOcxaHAwzlYL8"
       },

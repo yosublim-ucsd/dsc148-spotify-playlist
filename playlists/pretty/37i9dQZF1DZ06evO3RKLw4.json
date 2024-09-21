@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 47331,
+  "num_followers": 47335,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAA8OSzOJL+xPLK49va8LQUN",
+  "snapshot_id": "ZutpgAAAAAAt1PEGbzIkhfupSsvt9j5x",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 129400,
-      "name": "St. Mary",
-      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
+      "duration_ms": 174760,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Hyena",
-      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+      "duration_ms": 129400,
+      "name": "St. Mary",
+      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 86133,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
+      "duration_ms": 117426,
+      "name": "Collision Course",
+      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 117426,
-      "name": "Collision Course",
-      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+      "duration_ms": 86133,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
     },
     {
       "added_at": null,

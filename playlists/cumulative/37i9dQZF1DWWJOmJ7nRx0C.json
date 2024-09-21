@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Linkin Park",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Seether",
   "name": "VOLUME",
   "tracks": [
     {
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Aren't We One?",
+        "url": "https://open.spotify.com/album/2OhusavZtXPF8ZTI2ucECI"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Aren't We One?",
+      "url": "https://open.spotify.com/track/0d54bbfZEOiJjUYw01I528"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
       },
@@ -1486,6 +1504,24 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "album": {
+        "name": "The Surface (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "ATTN.",
+      "url": "https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh"
     },
     {
       "album": {
@@ -7323,6 +7359,24 @@
     },
     {
       "album": {
+        "name": "Fatal Deluxe",
+        "url": "https://open.spotify.com/album/1636Uu93AuJgt7gTlQpL19"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215686,
+      "name": "Fatal Deluxe",
+      "url": "https://open.spotify.com/track/3OIwpfyzmjixIpOPTFTO5H"
+    },
+    {
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN"
       },
@@ -10306,7 +10360,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 184761,
       "name": "Imminent Redemption",
       "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
@@ -10390,6 +10444,28 @@
       "duration_ms": 230635,
       "name": "Imposter Syndrome (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/64wbg9tWc1hKSB4qokoq0e"
+    },
+    {
+      "album": {
+        "name": "In The Night (feat. Underoath)",
+        "url": "https://open.spotify.com/album/7fvirl6DWRAGEQMl36yZZn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279880,
+      "name": "In The Night (feat. Underoath)",
+      "url": "https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD"
     },
     {
       "album": {
@@ -10729,6 +10805,24 @@
     },
     {
       "album": {
+        "name": "The Surface Seems So Far",
+        "url": "https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274106,
+      "name": "Judas Mind",
+      "url": "https://open.spotify.com/track/4wa5SqWwrdm1TRdaO3GdtJ"
+    },
+    {
+      "album": {
         "name": "Judas Mind",
         "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
       },
@@ -10740,7 +10834,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 244728,
       "name": "Judas Mind - edit",
       "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
@@ -11128,6 +11222,24 @@
       "duration_ms": 188127,
       "name": "Kill The Noise",
       "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
+    },
+    {
+      "album": {
+        "name": "KILLING ME",
+        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "KILLING ME",
+      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
     },
     {
       "album": {
@@ -13676,7 +13788,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 235904,
       "name": "National Treasure",
       "url": "https://open.spotify.com/track/1NAelXluOadIs690HXiBu2"
@@ -14012,7 +14124,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202909,
       "name": "New Way Out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
@@ -17696,7 +17808,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 308663,
       "name": "Seven",
       "url": "https://open.spotify.com/track/7BjXA8iyZesD4gyCrwXUrB"
@@ -20521,6 +20633,24 @@
     },
     {
       "album": {
+        "name": "The Longest Kiss",
+        "url": "https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "The Longest Kiss",
+      "url": "https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up"
+    },
+    {
+      "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
       },
@@ -21593,6 +21723,24 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/38LLML1wkkJh8Z3590UmyF"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223673,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/58tzpBiwJ37BdjOmK5X7Hm"
+    },
+    {
+      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -22282,7 +22430,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 341166,
       "name": "Waiting For Stevie",
       "url": "https://open.spotify.com/track/7LMXRhf27EwcBQo2oLkcBa"
@@ -23984,6 +24132,24 @@
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
+    },
+    {
+      "album": {
+        "name": "Zombie (Wild Coming Out)",
+        "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276076,
+      "name": "Zombie (Wild Coming Out)",
+      "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"
     },
     {
       "album": {

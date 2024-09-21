@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
   "name": "EDM\u00e9xico",
   "tracks": [
     {
@@ -130,6 +130,28 @@
       "duration_ms": 322773,
       "name": "ALBA - AZATT Rework",
       "url": "https://open.spotify.com/track/5Mkqw9EMao4EHDI9jRfYLW"
+    },
+    {
+      "album": {
+        "name": "ALINE",
+        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127016,
+      "name": "ALINE",
+      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
     },
     {
       "album": {
@@ -290,7 +312,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174106,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
@@ -522,6 +544,24 @@
       "duration_ms": 109071,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/3k3r8ffYVixma4Dc0PRQdx"
+    },
+    {
+      "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160258,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
     },
     {
       "album": {
@@ -902,6 +942,28 @@
       "duration_ms": 184123,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm"
+    },
+    {
+      "album": {
+        "name": "Cartagena - Sylvan Esso Edit",
+        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207637,
+      "name": "Cartagena - Sylvan Esso Edit",
+      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
     },
     {
       "album": {
@@ -1690,7 +1752,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 369403,
       "name": "El Encantador",
       "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
@@ -3026,7 +3088,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 241874,
       "name": "LA LLORONA",
       "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
@@ -4384,7 +4446,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
@@ -4498,6 +4560,28 @@
       "duration_ms": 202320,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/2t2TsfDm9qmH5xlUm4BsrT"
+    },
+    {
+      "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
+      },
+      "artists": [
+        {
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172827,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
     },
     {
       "album": {
@@ -5840,7 +5924,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 254386,
       "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
       "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
@@ -6322,6 +6406,24 @@
       "duration_ms": 159103,
       "name": "Throw Your Hands Up",
       "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
+    },
+    {
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/4UvYXdtFQOMiFi6AWoOk2l"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Tiene Espinas El Rosal - Original Mix",
+      "url": "https://open.spotify.com/track/3zHXOedEGQGXYgZNzhZTus"
     },
     {
       "album": {

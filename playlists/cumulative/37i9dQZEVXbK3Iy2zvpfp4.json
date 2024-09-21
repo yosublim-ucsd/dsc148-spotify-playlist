@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "A-What",
+        "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
+      },
+      "artists": [
+        {
+          "name": "RELYCT",
+          "url": "https://open.spotify.com/artist/1yvmxpLuFjOlHiplr01Hon"
+        },
+        {
+          "name": "ARKEA",
+          "url": "https://open.spotify.com/artist/598ZvY8cFQtXgFPBSUm28x"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "A-What",
+      "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
+    },
+    {
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
       },
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171243,
       "name": "BABY I'M BACK",
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
@@ -5894,7 +5916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 248571,
       "name": "Bombalaya - Blooom Remix",
       "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
@@ -11864,7 +11886,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-25",
+      "date_removed": null,
       "duration_ms": 183093,
       "name": "Eli",
       "url": "https://open.spotify.com/track/3tT1RSLCBcsaPOXOiC3Tft"
@@ -16102,7 +16124,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -24168,7 +24190,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -26112,7 +26134,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 151384,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/5b3K300uEiVmkoyKZJlgru"
@@ -28946,7 +28968,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -32780,7 +32802,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 217070,
       "name": "Peniaze",
       "url": "https://open.spotify.com/track/51wzXdbSUBQt0bcjBpLqXR"
@@ -40491,6 +40513,24 @@
     },
     {
       "album": {
+        "name": "Subway McFrappe Skibidi Mbappe",
+        "url": "https://open.spotify.com/album/4Seiv2Iip1v5NQO0DjOa0L"
+      },
+      "artists": [
+        {
+          "name": "Y2K SPORTS",
+          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84807,
+      "name": "Subway McFrappe Skibidi Mbappe",
+      "url": "https://open.spotify.com/track/6BNiG9VldRD7rzT8IdErSZ"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: TEMPTATION",
         "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
       },
@@ -43084,7 +43124,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
@@ -47312,6 +47352,24 @@
       "duration_ms": 193515,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/7Ff17wDVMRzK1MNDjPqdMG"
+    },
+    {
+      "album": {
+        "name": "wutuwant",
+        "url": "https://open.spotify.com/album/5RHag2eLXmiwg1nuUSvXll"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106173,
+      "name": "wutiwant - SLOWD",
+      "url": "https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW"
     },
     {
       "album": {

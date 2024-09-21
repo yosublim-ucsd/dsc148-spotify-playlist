@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 161892,
+  "num_followers": 162575,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs2VjAAAAADzGvSozgJtWUsEbJol4BA0",
+  "snapshot_id": "Zu2DewAAAACpiae/ZH7YIjBm2nuBNfFX",
   "tracks": [
     {
       "added_at": "2024-08-05 12:07:26",
@@ -31,26 +31,6 @@
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
-    },
-    {
-      "added_at": "2024-08-27 04:56:53",
-      "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/6iBzzhJ3UzJTkR0tWgHyJu"
-      },
-      "artists": [
-        {
-          "name": "Mano",
-          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
-        },
-        {
-          "name": "Ravi Varma",
-          "url": "https://open.spotify.com/artist/0jKqfBfufNQqaZrLZR6LoH"
-        }
-      ],
-      "duration_ms": 249416,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/18AWYoDcUk4OZuc33H54yq"
     },
     {
       "added_at": "2024-06-05 09:12:34",
@@ -203,6 +183,22 @@
       "duration_ms": 351557,
       "name": "Ghallu Ghallu",
       "url": "https://open.spotify.com/track/4Bb4Vgzp1kAebqI7KnDFPn"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Bommarillu",
+        "url": "https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj"
+      },
+      "artists": [
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        }
+      ],
+      "duration_ms": 243265,
+      "name": "Apudo Ipudo",
+      "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
     },
     {
       "added_at": "2024-06-16 12:40:05",
@@ -367,6 +363,26 @@
       "duration_ms": 195064,
       "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
       "url": "https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW"
+    },
+    {
+      "added_at": "2024-09-20 14:15:23",
+      "album": {
+        "name": "Venky",
+        "url": "https://open.spotify.com/album/5KyjKMeVIJ1vh3rlDMj4Qa"
+      },
+      "artists": [
+        {
+          "name": "Pushpavanam Kuppu Swamy",
+          "url": "https://open.spotify.com/artist/4RlhxPvtJV1ompU5eagU5y"
+        },
+        {
+          "name": "Kalpana",
+          "url": "https://open.spotify.com/artist/1daPDpFyCqVsokg3cZmmjT"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Gongoora Thota",
+      "url": "https://open.spotify.com/track/3TeGBS4boert6YCIkhUaDI"
     },
     {
       "added_at": "2024-06-04 06:47:16",
@@ -839,22 +855,6 @@
       "duration_ms": 218385,
       "name": "Darshana",
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Bommarillu",
-        "url": "https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj"
-      },
-      "artists": [
-        {
-          "name": "Siddharth",
-          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
-        }
-      ],
-      "duration_ms": 243265,
-      "name": "Apudo Ipudo",
-      "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
     },
     {
       "added_at": "2023-08-30 10:44:11",

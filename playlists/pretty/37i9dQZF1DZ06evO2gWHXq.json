@@ -1,12 +1,12 @@
 {
-  "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 221514,
+  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
+  "num_followers": 221554,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAC1qWoONEuimPz0cVxe+1OQ",
+  "snapshot_id": "ZutpgAAAAADIfkDgB1PNMGpBZCITG1OQ",
   "tracks": [
     {
       "added_at": null,
@@ -31,30 +31,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Arm\u00f3 La Peda",
-        "url": "https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Se Arm\u00f3 La Peda",
-      "url": "https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k"
     },
     {
       "added_at": null,
@@ -339,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Menso",
+        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 191917,
+      "name": "Todo Menso",
+      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -363,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Menso",
-        "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
+        "name": "Palo De Amigos",
+        "url": "https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF"
       },
       "artists": [
         {
@@ -372,13 +368,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 191917,
-      "name": "Todo Menso",
-      "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+      "duration_ms": 176842,
+      "name": "Palo De Amigos",
+      "url": "https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z"
     },
     {
       "added_at": null,
@@ -407,26 +403,6 @@
       "duration_ms": 171720,
       "name": "PRENDE LA BOCINA (feat. BeatBoy)",
       "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palo De Amigos",
-        "url": "https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Palo De Amigos",
-      "url": "https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z"
     },
     {
       "added_at": null,
@@ -859,6 +835,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Arm\u00f3 La Peda",
+        "url": "https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 146076,
+      "name": "Se Arm\u00f3 La Peda",
+      "url": "https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Todo Menos Con Miedo",
         "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 156136,
       "name": "Con Todo Menos Con Miedo",
       "url": "https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 205568,
-      "name": "Round 3 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
     },
     {
       "added_at": null,
@@ -911,6 +891,26 @@
       "duration_ms": 196880,
       "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
       "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Round 3 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Ya no hay nada",
+      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Take Over, Vol. 3",
         "url": "https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 236880,
       "name": "Round 5 (feat. MC Davo)",
       "url": "https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Ya no hay nada",
-      "url": "https://open.spotify.com/track/2fSItqlm3Lcqgn9P0CVZvc"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,22 @@
       "duration_ms": 194754,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1083,22 +1099,6 @@
       "duration_ms": 459413,
       "name": "Cuern\u00fa - Remix",
       "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1167,26 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "La Paleta (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 6",
         "url": "https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W"
       },
@@ -1207,22 +1187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cara o cruz, pt. 1",
-        "url": "https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
-          "name": "Arsenal de Rimas",
-          "url": "https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL"
-        },
-        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 272483,
-      "name": "Mi coraz\u00f3n (feat. Mc Davo)",
-      "url": "https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq"
+      "duration_ms": 175500,
+      "name": "La Paleta (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
     }
   ],
   "unique_name": "This Is MC Davo",

@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "sorry i phone you",
+        "url": "https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Nadya",
+          "url": "https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220185,
+      "name": "sorry i phone you",
+      "url": "https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9"
+    },
+    {
+      "album": {
         "name": "Sweet Hurting",
         "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
       },

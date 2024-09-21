@@ -4543,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Give It to You",
+        "url": "https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ"
+      },
+      "artists": [
+        {
+          "name": "Zenemy",
+          "url": "https://open.spotify.com/artist/2cHw7LZDGn9mjTiFTSeEHt"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234375,
+      "name": "Give It to You",
+      "url": "https://open.spotify.com/track/1ChmxHfW4rOM7B8RwEEU8y"
+    },
+    {
+      "album": {
         "name": "GNOR",
         "url": "https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm"
       },
@@ -12628,6 +12646,32 @@
       "duration_ms": 125734,
       "name": "Te Te Te",
       "url": "https://open.spotify.com/track/3ZlKn5vonH5ZsjFmqTX7Fz"
+    },
+    {
+      "album": {
+        "name": "Tears (with Paige Cavell) - Max Styler Remix",
+        "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253228,
+      "name": "Tears (with Paige Cavell) - Max Styler Remix",
+      "url": "https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 120186,
+  "num_followers": 120224,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAAYxlHk35gHTCcxzhnJCHbz",
+  "snapshot_id": "ZuzzQAAAAABSMm0B2DmLLZEpoY/vo25V",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La Ruta",
@@ -157,6 +173,26 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/6XYX6pdP67mlrAfTBfkZAN"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/591VEQvLB3OKAjDM1nOOae"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "BESITOS",
@@ -215,6 +251,22 @@
       "duration_ms": 190909,
       "name": "Tu Traici\u00f3n",
       "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Humo & Party",
+        "url": "https://open.spotify.com/album/1QDMWYQWOGEAhR0xzQ4b1N"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Humo & Party",
+      "url": "https://open.spotify.com/track/5rsan8lppmmLdAd6pEhRiQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -281,6 +333,30 @@
       "url": "https://open.spotify.com/track/3pKUAIXQGfZC2dfWV9nXi2"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Exclu$ivo",
+        "url": "https://open.spotify.com/album/1k6gftNAi1M6kRnxrTxC1G"
+      },
+      "artists": [
+        {
+          "name": "Eriky",
+          "url": "https://open.spotify.com/artist/4yAUOM9VITseWhLAUk7E1r"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
+        }
+      ],
+      "duration_ms": 246953,
+      "name": "Exclu$ivo",
+      "url": "https://open.spotify.com/track/3yk9eoK5VagUA9zfTaRnK6"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "TITI",
@@ -331,6 +407,22 @@
       "duration_ms": 198718,
       "name": "Energias",
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "CAMAVINGA",
+        "url": "https://open.spotify.com/album/1s7QRjvk34afjpscR1vnc6"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "CAMAVINGA",
+      "url": "https://open.spotify.com/track/2ym5HGarbFQOAs7JP9EMqj"
     },
     {
       "added_at": "2024-02-02 05:00:00",

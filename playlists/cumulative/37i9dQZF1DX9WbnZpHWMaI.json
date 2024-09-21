@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Anna Lunoe",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: \u00d8TTA",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -570,6 +570,32 @@
       "duration_ms": 170264,
       "name": "Back",
       "url": "https://open.spotify.com/track/7LlwG3CbBVsSRUkQ3VP1fc"
+    },
+    {
+      "album": {
+        "name": "BIMYOU",
+        "url": "https://open.spotify.com/album/1qlAvPHKc6Rs2Cpcf5YnAB"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "back 2 love",
+      "url": "https://open.spotify.com/track/6ihpgFagnilliKyz2gTqik"
     },
     {
       "album": {
@@ -1418,7 +1444,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 245786,
       "name": "Crystallize",
       "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
@@ -4956,7 +4982,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183035,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7fqonSY5E0ot4r02igxTrn"
@@ -5492,7 +5518,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 136769,
       "name": "over you",
       "url": "https://open.spotify.com/track/1Ynujwvd3Ft2jY8QnEEgos"
@@ -6075,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "In My 2024 Era",
+        "url": "https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339012,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT"
+    },
+    {
+      "album": {
         "name": "TWINSOUL",
         "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
       },
@@ -6176,7 +6220,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152228,
       "name": "set me free",
       "url": "https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP"
@@ -6407,6 +6451,28 @@
     },
     {
       "album": {
+        "name": "Trusting Theta",
+        "url": "https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222219,
+      "name": "Slay The Beast",
+      "url": "https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG"
+    },
+    {
+      "album": {
         "name": "SLB",
         "url": "https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve"
       },
@@ -6476,7 +6542,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 197000,
       "name": "SOMETIMES I NEED TO YELL",
       "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
@@ -6516,6 +6582,24 @@
       "duration_ms": 125809,
       "name": "Special",
       "url": "https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl"
+    },
+    {
+      "album": {
+        "name": "stargirl",
+        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "stargirl",
+      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
     },
     {
       "album": {
@@ -7184,6 +7268,24 @@
       "duration_ms": 270002,
       "name": "The Sun Made For A Soft Landing",
       "url": "https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x"
+    },
+    {
+      "album": {
+        "name": "The Way Of Love",
+        "url": "https://open.spotify.com/album/3hxPIJgp5A0188KdknQOHk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "The Way Of Love",
+      "url": "https://open.spotify.com/track/4YuORB0c2BDXLVxHyz6qrz"
     },
     {
       "album": {

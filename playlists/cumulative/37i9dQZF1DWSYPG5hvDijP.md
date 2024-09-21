@@ -2,9 +2,9 @@
 
 ### [Taaza hai bro!](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> New Hip Hop from India.
+> New Hip Hop from India\. Cover: Emiway Bantai & Maninder Buttar
 
-426 songs - 21 hr 54 min
+427 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Samajh Rahi Hai](https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Samajh Rahi Hai](https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4) | 2:53 | 2023-08-10 | 2024-06-29 |
 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 | 2023-03-29 | 2024-02-14 |
 | [SAZA](https://open.spotify.com/track/7l4dI5Lq7PRP5ADS1NZFEw) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [MC Heam](https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y) | [SAZA](https://open.spotify.com/album/3N9lCq2fVrQGtb8Z1Sfv2V) | 3:48 | 2024-07-12 | 2024-08-31 |
-| [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-08-16 |  |
+| [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-08-16 | 2024-09-21 |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-29 | 2024-03-27 |
 | [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 | 2024-07-13 |
 | [Shaitaani](https://open.spotify.com/track/0EgLqhEB0POPpRc7DT8cMs) | [MC Muztafa](https://open.spotify.com/artist/2cZCopDe1yTOmNXdQS3cG6), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE) | [Shaitaani](https://open.spotify.com/album/6isIWro6HXcOXTxydHzLGn) | 2:43 | 2023-04-16 | 2023-06-02 |
@@ -396,6 +396,7 @@
 | [The Money \- Interlude](https://open.spotify.com/track/4jvE5cbze4hcPhdJS4En6E) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Rajesh Kava](https://open.spotify.com/artist/3S4dclSqWmLB4UaZRmOt3Z), [Roodhar](https://open.spotify.com/artist/5ecwSJKxXkfho3SDlgB0Ho) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 0:24 | 2023-11-06 | 2023-11-16 |
 | [The World Is Mine](https://open.spotify.com/track/7hz8qG2Hs0Z5n3gjt1qTMG) | [Mischief](https://open.spotify.com/artist/1EDYfcvSE4udQAlVKjPY2q) | [The World Is Mine](https://open.spotify.com/album/6WU5JGTTE3gjq90FQd1d5i) | 4:42 | 2024-08-16 | 2024-09-20 |
 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 | 2024-03-22 | 2024-07-13 |
+| [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 |  |
 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2024-06-07 | 2024-08-03 |
 | [TOAST](https://open.spotify.com/track/11gVIGO2OplvyTRN3dXtUH) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [TOAST](https://open.spotify.com/album/2j6LM2qsOMitq8M3u38YuM) | 2:19 | 2024-04-12 | 2024-04-19 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-29 | 2023-04-17 |

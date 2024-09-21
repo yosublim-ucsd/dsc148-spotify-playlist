@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-404 songs - 23 hr 37 min
+405 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Onda Alta](https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Onda Alta](https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx) | 3:34 | 2024-03-27 | 2024-06-12 |
 | [Ostia Lido](https://open.spotify.com/track/2J9TGb5CRT4omfAgnKmXn5) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Ostia Lido](https://open.spotify.com/album/0Tph6OXMMLC4oVAAi0h4Py) | 2:52 | 2022-05-05 | 2022-07-29 |
 | [Paloma \(feat\. Anitta\)](https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paloma \(feat\. Anitta\)](https://open.spotify.com/album/5Fbm6ol0DhVbsBeRsr2fYw) | 2:21 | 2022-05-05 | 2022-07-29 |
+| [Pastello Bianco](https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:56 | 2024-07-23 |  |
 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-03-27 | 2024-06-02 |
 | [Pensare Male \(con Elodie\)](https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Pensare Male \(con Elodie\)](https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ) | 3:29 | 2022-05-05 | 2022-07-28 |
 | [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 | 2024-05-22 |  |
@@ -384,7 +385,7 @@
 | [Una volta ancora \(feat\. Ana Mena\)](https://open.spotify.com/track/6gaeewGjNiQhWOUkWRSLTa) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Una volta ancora \(feat\. Ana Mena\)](https://open.spotify.com/album/7LG2gO6BmpvKbVKHQ4tB7u) | 2:54 | 2022-05-05 | 2022-07-29 |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2022-05-05 |  |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-30 |  |
-| [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-03-27 |  |
+| [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-03-27 | 2024-09-21 |
 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 | 2022-05-05 | 2022-07-29 |
 | [Viceversa](https://open.spotify.com/track/15afXCbiE2sIi3i5Bh9KY7) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viceversa](https://open.spotify.com/album/7qS8Ui2jinmy3prHuwZAGI) | 3:35 | 2022-05-05 | 2022-07-29 |
 | [VIENIMI \(a ballare\)](https://open.spotify.com/track/3VZfK5GR6tN3WH3WsBNMYq) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [VIENIMI \(a ballare\)](https://open.spotify.com/album/5OBOCDuvCojJP5QPnwMxZa) | 2:52 | 2022-05-05 | 2022-07-29 |

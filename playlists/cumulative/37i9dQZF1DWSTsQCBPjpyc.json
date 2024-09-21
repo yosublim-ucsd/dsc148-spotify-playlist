@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Dirt On My Diamonds, Vol. 2",
+        "url": "https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ"
+    },
+    {
+      "album": {
         "name": "Cover To Cover",
         "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
       },

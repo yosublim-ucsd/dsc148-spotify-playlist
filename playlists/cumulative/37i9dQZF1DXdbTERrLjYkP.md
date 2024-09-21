@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Rhys
+> Discover the next wave of talent writing their own songs\. Cover: Samantha Ebert
 
-732 songs - 1 day 15 hr 1 min
+736 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-11-25 | 2023-06-13 |
 | [Don't Wake Me Up](https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Don't Wake Me Up](https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC) | 3:06 | 2024-05-31 |  |
-| [Don’t Look At Me](https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Don’t Look At Me](https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY) | 2:28 | 2024-04-26 |  |
+| [Don’t Look At Me](https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Don’t Look At Me](https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY) | 2:28 | 2024-04-26 | 2024-09-21 |
 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 | 2023-10-01 |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-01-14 | 2022-03-12 |
 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 | 2024-04-26 | 2024-08-03 |
@@ -203,7 +203,7 @@
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
-| [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 | 2024-02-02 |  |
+| [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 | 2024-02-02 | 2024-09-21 |
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-14 |  |
 | [Eternal June](https://open.spotify.com/track/1KKHhlOK0Kt7aCRzccuQ5n) | [Emma Foley](https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x) | [Eternal June](https://open.spotify.com/album/07UddeVlOY0BdtTIkUH51b) | 2:24 | 2024-08-16 |  |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-01-05 |
@@ -227,6 +227,7 @@
 | [First Time Around](https://open.spotify.com/track/7ttmCexFPcRrE4T6REFmWj) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/02FbrawyS5PpJ11VVONnyJ) | 4:45 | 2023-02-03 | 2023-04-29 |
 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2022-01-14 | 2022-03-30 |
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
+| [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 | 2024-09-20 |  |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
 | [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
 | [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 |  |
@@ -342,7 +343,7 @@
 | [I'm not there yet](https://open.spotify.com/track/5wPkADSHUuNOwVQ21QOlZs) | [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [I'm not there yet](https://open.spotify.com/album/01cipgct2Fs6B4erVHVbB6) | 3:40 | 2022-10-14 | 2022-12-24 |
 | [I'm Not Your Girl](https://open.spotify.com/track/0odnQuixwTfcSO0bkZ1EfZ) | [Bonner Black](https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz) | [I'm Not Your Girl](https://open.spotify.com/album/0BuKUzoNyqcaxng1b77CF8) | 4:01 | 2023-08-04 | 2023-12-14 |
 | [I'm Sorry, Tokyo](https://open.spotify.com/track/31eHodIKm5jNVeXjhqevNU) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [I'm Sorry, Tokyo](https://open.spotify.com/album/3pBTeNfzCh6eu6ZyCtufac) | 3:34 | 2022-01-14 | 2022-04-16 |
-| [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 | 2024-03-08 |  |
+| [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 | 2024-03-08 | 2024-09-21 |
 | [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-09 | 2022-12-03 |
 | [If I Don’t Like You](https://open.spotify.com/track/2UBT2n8ajA8lvECemb2DYW) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [If I Don’t Like You](https://open.spotify.com/album/2CyY9XKHpVwpz0iSvZyUfB) | 2:45 | 2024-03-15 | 2024-08-10 |
 | [If I Had Stayed](https://open.spotify.com/track/2C84D0vtpGcohO5yqEnF9o) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/0m8Vg18eqPH7maMYhzyBKB) | 2:11 | 2022-01-14 | 2022-03-12 |
@@ -353,6 +354,7 @@
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-28 | 2023-01-28 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2022-01-14 | 2022-08-06 |
 | [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 | 2024-05-24 |  |
+| [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-09-20 |  |
 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-02 |  |
 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 | 2023-12-15 | 2024-08-17 |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
@@ -449,6 +451,7 @@
 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 | 2023-08-11 | 2023-09-16 |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
+| [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 |  |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 | 2022-05-07 |
 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 | 2024-01-27 |
 | [Mess](https://open.spotify.com/track/1502aGzxNUgwcv2r1rG91S) | [Alaina Ray](https://open.spotify.com/artist/2hcq1PIq9XzXVmrab7mfXr) | [Mess](https://open.spotify.com/album/0WtLqYqc87OEDZ7kFJXjJu) | 2:15 | 2022-12-09 | 2022-12-24 |
@@ -484,6 +487,7 @@
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-11-11 |
 | [oh my god i’m happy what the fuck](https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:03 | 2023-11-10 | 2024-06-08 |
+| [Old Car](https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Old Car](https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA) | 3:19 | 2024-09-20 |  |
 | [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 | 2023-09-05 |
 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 | 2022-08-12 | 2022-12-24 |
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-08-17 |
@@ -593,7 +597,7 @@
 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 | 2022-06-24 | 2022-11-12 |
 | [songs about you](https://open.spotify.com/track/0HrrOhWRCMsPwRN8jKv4ZS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [songs about you](https://open.spotify.com/album/1InJqJj8fQTPNXbdH4E18j) | 3:09 | 2022-01-14 | 2022-05-20 |
 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 | 2022-01-14 | 2022-03-18 |
-| [Sorry to Little Me](https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo) | [Carolina Rial](https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj) | [Sorry to Little Me](https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD) | 2:40 | 2024-03-22 |  |
+| [Sorry to Little Me](https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo) | [Carolina Rial](https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj) | [Sorry to Little Me](https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD) | 2:40 | 2024-03-22 | 2024-09-21 |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2022-01-14 | 2022-06-04 |
 | [space](https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [space](https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [SPACE](https://open.spotify.com/track/0oedTfz3uuPFxmrDVwB0Gc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SPACE](https://open.spotify.com/album/212R86ZzivVW2nNLidAvfO) | 2:03 | 2022-01-14 | 2022-03-12 |

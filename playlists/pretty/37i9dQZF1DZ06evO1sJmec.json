@@ -1,12 +1,12 @@
 {
-  "description": "This Is Metallica. Los temas esenciales, todos en una lista.",
-  "num_followers": 1973832,
+  "description": "This is Metallica. The essential tracks, all in one playlist.",
+  "num_followers": 1974364,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAA8Z+m2HwWvNPp/qPyyM6qw",
+  "snapshot_id": "ZutpgAAAAABp7EpWvePi12doVcRGDv+A",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Disappear",
-        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...And Justice For All",
         "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 400613,
       "name": "Blackened",
       "url": "https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
     },
     {
       "added_at": null,

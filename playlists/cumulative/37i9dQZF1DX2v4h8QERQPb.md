@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Bardero$.
 
-305 songs - 15 hr 32 min
+306 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Pistola$](https://open.spotify.com/track/7nDj7K2tDAx18VCqkCrf56) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Pistola$](https://open.spotify.com/album/08sixJdRCtiGDF1UsF6gPM) | 3:04 | 2021-11-26 | 2022-07-29 |
 | [Plastico](https://open.spotify.com/track/7H6kcoS2H45pK7KMPnNVwK) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG) | [Plastico](https://open.spotify.com/album/6JVDVYZNQuJNBP54P9RWiP) | 4:05 | 2023-02-03 | 2023-06-17 |
 | [PLO PLO!](https://open.spotify.com/track/64yGL8p8jWN41sT38BbYJ3) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 1:57 | 2024-05-24 |  |
+| [Poema Perdido](https://open.spotify.com/track/5DOaRKCKdxpb672NevhiLR) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [TYPE BEAT](https://open.spotify.com/album/17yBGJiBFMw0s7KpmooM6A) | 2:46 | 2024-09-13 |  |
 | [POETA](https://open.spotify.com/track/4ozYm33zhT9DDrGR3y59SU) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [POETA](https://open.spotify.com/track/6T1ZiqhOYwePlT1YGPOm6j) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [POETA](https://open.spotify.com/album/3ffWWsRb6uUZqmH7VTARsm) | 2:51 | 2022-06-10 | 2023-03-31 |
 | [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 | 2023-04-07 | 2023-12-09 |

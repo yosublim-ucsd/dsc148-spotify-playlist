@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "New Hip Hop from India.",
+  "description": "New Hip Hop from India. Cover: Emiway Bantai & Maninder Buttar",
   "name": "Taaza hai bro!",
   "tracks": [
     {
@@ -7590,7 +7590,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 136421,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
@@ -8410,6 +8410,28 @@
       "duration_ms": 142272,
       "name": "Thehra",
       "url": "https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh"
+    },
+    {
+      "album": {
+        "name": "Three Years",
+        "url": "https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL"
+      },
+      "artists": [
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Three Years",
+      "url": "https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv"
     },
     {
       "album": {

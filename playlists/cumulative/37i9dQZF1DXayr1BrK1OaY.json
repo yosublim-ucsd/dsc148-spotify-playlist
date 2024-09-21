@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 153882,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/7e6NccJoAWdOfVsg8uqfKO"
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 192685,
       "name": "idwtwya",
       "url": "https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
@@ -6814,6 +6814,28 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+    },
+    {
+      "album": {
+        "name": "Stuck In The Middle",
+        "url": "https://open.spotify.com/album/3T6IEMgVsALaosMwK4V7bc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        },
+        {
+          "name": "LAYNE",
+          "url": "https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237745,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7g7eqjBT36hZ6VsVk4lWRy"
     },
     {
       "album": {

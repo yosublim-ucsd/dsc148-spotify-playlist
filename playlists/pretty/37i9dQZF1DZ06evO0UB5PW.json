@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 56322,
+  "num_followers": 56344,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAABEFURc4JrfAH6My+gxpSmS",
+  "snapshot_id": "ZutpgAAAAAAMxHnACYogdg0gwFu7EZZW",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 218880,
-      "name": "Divinations",
-      "url": "https://open.spotify.com/track/6HZ8zBamcVKjO46vsLj9vh"
+      "duration_ms": 214160,
+      "name": "The Wolf Is Loose",
+      "url": "https://open.spotify.com/track/4mYpmNDyJv3HEl22hfrDnL"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 214160,
-      "name": "The Wolf Is Loose",
-      "url": "https://open.spotify.com/track/4mYpmNDyJv3HEl22hfrDnL"
+      "duration_ms": 218880,
+      "name": "Divinations",
+      "url": "https://open.spotify.com/track/6HZ8zBamcVKjO46vsLj9vh"
     },
     {
       "added_at": null,

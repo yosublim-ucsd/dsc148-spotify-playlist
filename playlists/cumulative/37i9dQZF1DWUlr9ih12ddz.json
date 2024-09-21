@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Someone to Love",
+        "url": "https://open.spotify.com/album/7eZrFLQtsndLhNxVxRPeMY"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169999,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/72qoGgyiAXxCNUoUN5nJMF"
+    },
+    {
+      "album": {
         "name": "ZOMBIES (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
       },

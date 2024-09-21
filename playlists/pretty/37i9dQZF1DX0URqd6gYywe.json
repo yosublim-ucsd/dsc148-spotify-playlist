@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Plan De La Mariposa",
-  "num_followers": 139066,
+  "num_followers": 139127,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-09-19 17:51:19",
       "album": {
-        "name": "MADRID SIN VOS",
-        "url": "https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 224277,
-      "name": "MADRID SIN VOS",
-      "url": "https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1"
-    },
-    {
-      "added_at": "2024-09-19 17:51:19",
-      "album": {
         "name": "Desprogramado",
         "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 181845,
       "name": "Desprogramado",
       "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
+    },
+    {
+      "added_at": "2024-09-19 17:51:19",
+      "album": {
+        "name": "MADRID SIN VOS",
+        "url": "https://open.spotify.com/album/0YA8mnbTDmJlv13JBP9SK4"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 224277,
+      "name": "MADRID SIN VOS",
+      "url": "https://open.spotify.com/track/3JSvXb9Uk8MgMYYpjzxpr1"
     },
     {
       "added_at": "2024-09-19 17:51:19",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: NCT WISH",
+  "description": "Future K-Pop hits! Cover: JINHO",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -720,6 +720,28 @@
       "duration_ms": 218306,
       "name": "All About You",
       "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+    },
+    {
+      "album": {
+        "name": "All Day (Better Days X Kim Seungmin, Layone)",
+        "url": "https://open.spotify.com/album/3WjMueXXGPIu7VmSQlFzjV"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/4E9kCEWanRaTiaMlyCni7M"
     },
     {
       "album": {
@@ -4986,7 +5008,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168760,
       "name": "Dive",
       "url": "https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC"
@@ -5258,6 +5280,24 @@
       "duration_ms": 223226,
       "name": "DON'T TOUCH ME",
       "url": "https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC"
+    },
+    {
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/0MWTfCeOwdgOZD5J81UfHC"
+      },
+      "artists": [
+        {
+          "name": "n\u00e6vis",
+          "url": "https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/1ISSgsyLmSguaJSM3pnPGk"
     },
     {
       "album": {
@@ -6110,6 +6150,28 @@
       "duration_ms": 185400,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1mUZJVx9XHuWARehDR0g9q"
+    },
+    {
+      "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Falling Down (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/2SbxB27svPKLCoDkavwdHW"
     },
     {
       "album": {
@@ -7448,7 +7510,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 184386,
       "name": "GOAT (feat. MUSHVENOM, Dynamicduo)",
       "url": "https://open.spotify.com/track/2NboXwD8I8N8bWovRE6yp6"
@@ -12908,7 +12970,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174000,
       "name": "Nirvana Blues",
       "url": "https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn"
@@ -14400,7 +14462,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 205546,
       "name": "POM POM POM",
       "url": "https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1"
@@ -18300,7 +18362,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152173,
       "name": "TANG TANG TANG",
       "url": "https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788"
@@ -18470,6 +18532,24 @@
       "duration_ms": 197309,
       "name": "Tear Drop",
       "url": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7"
+    },
+    {
+      "album": {
+        "name": "CHO:RD",
+        "url": "https://open.spotify.com/album/5ruXBpuu335VFUynH3a1VU"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/6FprQS3RsJ0Y4JSzjzbhht"
     },
     {
       "album": {
@@ -19628,6 +19708,32 @@
       "duration_ms": 181106,
       "name": "UNNATURAL",
       "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/6VYC3AJkBYltP9ajuEHQgJ"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/2SZV68dIWppxeD6y7ndQXk"
     },
     {
       "album": {

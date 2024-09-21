@@ -2,9 +2,9 @@
 
 ### [Pop Romántico](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
-> Las románticas de hoy y de siempre\. Foto: Cali Y El Dandee
+> Las románticas de hoy y de siempre\. Foto: Pedro Capó
 
-489 songs - 1 day 8 hr 33 min
+490 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Abril Sin Anestesia](https://open.spotify.com/track/0jQgmYh0j0yjpqTDlCbbhX) | [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Abril Sin Anestesia](https://open.spotify.com/album/0xSI52Ok6xO8vxFkAACXgQ) | 3:55 | 2023-10-12 | 2024-05-11 |
 | [Abriré La Puerta](https://open.spotify.com/track/1btyIQGzPdebh4XwVPMPr5) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [En Tus Planes](https://open.spotify.com/album/63cRlzjRihSdheA6lKonRy) | 3:36 | 2022-01-25 | 2024-05-11 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2022-01-25 |  |
+| [Adios](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adios](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 | 2024-09-20 |  |
 | [Agua Nueva](https://open.spotify.com/track/3oG4RYZCM0hVPo9N46I0E9) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Primer Amor Los Éxitos](https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg) | 3:57 | 2022-01-25 | 2022-07-29 |
 | [Ahora](https://open.spotify.com/track/7pVitP3DTRfjOaL1xhuDFl) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Ahora](https://open.spotify.com/album/3hq6g14B0rYvxzpmGZJIWn) | 3:52 | 2024-05-10 | 2024-05-18 |
 | [Ahora Decide](https://open.spotify.com/track/1iUU0K9bFKJw6dVZp5ZXyY) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Convivencia](https://open.spotify.com/album/6Haezy6jnX1KECgCV17Ofj) | 3:35 | 2022-01-25 | 2024-05-11 |
@@ -146,7 +147,7 @@
 | [Eres Tú](https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:38 | 2022-01-25 | 2024-04-19 |
 | [Eres Tú](https://open.spotify.com/track/4tRFdhdqMUkGfnAkis3lNv) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Eres Tú](https://open.spotify.com/album/5fMxsjcd2Gr3bjYy938V5T) | 3:38 | 2022-01-25 | 2024-05-11 |
 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 | 2022-01-25 | 2024-05-11 |
-| [Eres un Sueño](https://open.spotify.com/track/4gxzgTzA4MSLf5rje1rX65) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:02 | 2022-01-25 |  |
+| [Eres un Sueño](https://open.spotify.com/track/4gxzgTzA4MSLf5rje1rX65) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:02 | 2022-01-25 | 2024-09-21 |
 | [Es Ella Más Que Yo](https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Celebrando La Voz De Yuri](https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p) | 3:48 | 2022-01-25 | 2024-05-11 |
 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 | 2022-01-25 | 2024-05-18 |
 | [Esclavo De Sus Besos](https://open.spotify.com/track/3hm24L4EHjGAJJUtRb0Qhi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sin Mirar Atrás](https://open.spotify.com/album/09ZaJJD92o5nxrRp0EDE8q) | 3:56 | 2022-01-25 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [This Is Adriana Ríos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
 
-> This Is Adriana Ríos\. Los temas esenciales, todos en una lista.
+> This is Adriana Ríos\. De viktigste sporene samlet i én spilleliste.
 
 46 songs - 2 hr 27 min
 

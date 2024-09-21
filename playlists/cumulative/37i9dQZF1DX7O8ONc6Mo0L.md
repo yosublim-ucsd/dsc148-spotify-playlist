@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-160 songs - 11 hr 53 min
+161 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 | 2022-09-02 | 2024-07-19 |
 | [Aba \- Acústico](https://open.spotify.com/track/0EkTVMibjK0km6Aj3Q3mSA) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/5N99X3KKFG4V8eHrttnTRc) | 4:08 | 2023-12-22 | 2024-04-19 |
 | [Aba \- Acústico](https://open.spotify.com/track/0rlCiHbjc4rbkljGdj1QAc) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Melhores Kemuel](https://open.spotify.com/album/1QxbWwl9OA1CnSZCHnL1O3) | 4:08 | 2023-12-22 | 2024-04-07 |
-| [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 |  |
+| [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 | 2024-09-21 |
 | [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 | 2024-08-23 |  |
 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 | 2022-09-02 | 2023-02-04 |
 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 | 2022-09-02 |  |
@@ -89,6 +89,7 @@
 | [Lança Sobre Mim \- Ao Vivo](https://open.spotify.com/track/3NKfKJAnUScbZSk5EU6xfT) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Lança Sobre Mim \(Ao Vivo\)](https://open.spotify.com/album/3dElFFGWuuY118yedT8Oia) | 5:30 | 2024-08-16 | 2024-08-31 |
 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 | 2022-09-02 |  |
 | [Mais Que Uma Voz](https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Mais Que Uma Voz / A Ele a Glória](https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN) | 4:02 | 2022-09-02 | 2023-05-06 |
+| [Manhãs](https://open.spotify.com/track/17r278VUtXd0jcjD7tqp8P) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Julia Weber](https://open.spotify.com/artist/2R1F930UQcZvfatMtQMNOJ) | [Manhãs](https://open.spotify.com/album/6Y4133hR1mTBs2eLU1xOBy) | 2:40 | 2024-09-20 |  |
 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 | 2022-09-02 |  |
 | [Me Enche de Amor \- Acústico](https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Me Enche de Amor \(Acústico\)](https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f) | 5:09 | 2022-09-02 |  |
 | [Me Ensina a Depender \- Acústico](https://open.spotify.com/track/3uwk3N4xVvtdS4mk2AaOB0) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Me Ensina a Depender \(Acústico\)](https://open.spotify.com/album/3xTpjjSHdWJfwYO3lM7kiG) | 4:50 | 2022-09-02 | 2022-10-08 |

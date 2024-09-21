@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-124 songs - 10 hr 7 min
+125 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/6xakJjOW5dkmf6ZMIXP5aj) | [Mr Cutts](https://open.spotify.com/artist/5z8SAymwA5VjLKu6nl7iTN) | [Carriage 8](https://open.spotify.com/album/3zmTRIAOIrd1NCOCJmqx1W) | 3:18 | 2024-09-11 |  |
 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-11 |  |
 | [In The Mood](https://open.spotify.com/track/3BqOGhCJD4qRD6xQjBeT0l) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Shake / In The Mood](https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp) | 3:49 | 2023-10-13 | 2024-02-06 |
+| [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-20 |  |
 | [Indicnation](https://open.spotify.com/track/0Nd433yTaOQcuYxE16290v) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [French Touch Mixtape 002](https://open.spotify.com/album/4ciBijVg4t41PtFJbT1NCi) | 3:42 | 2023-10-13 | 2024-09-12 |
 | [Inspiration \- Afro Mix](https://open.spotify.com/track/6GnrfWmutEw8r9zZUZVFdd) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Inspiration](https://open.spotify.com/album/4fcBiFhHv9FWfnlcOw9ydU) | 7:21 | 2024-07-22 | 2024-09-12 |
 | [Intentions](https://open.spotify.com/track/2cPWsduk8bwppUN4HkXCRs) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Remember That Feeling](https://open.spotify.com/album/6JYt3VwmbRL9zA8ooRUkkK) | 6:09 | 2023-10-13 | 2024-09-12 |

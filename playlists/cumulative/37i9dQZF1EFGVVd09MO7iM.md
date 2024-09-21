@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-806 songs - 2 day 4 hr 17 min
+807 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [CMYK](https://open.spotify.com/track/4Bzwd1e5sfxhGuL8tph1zk) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK](https://open.spotify.com/album/7gcbbflML9B0ayPt11Qina) | 3:39 | 2024-01-29 |  |
 | [Cocaina Shawty](https://open.spotify.com/track/1Dax619B9tgNsPo8L23Ayb) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Dope: Music From The Motion Picture](https://open.spotify.com/album/10hGeHsDksNsVI5pj7pnnO) | 2:55 | 2024-06-20 | 2024-06-22 |
 | [Cocaine Business \(Hysteria\)](https://open.spotify.com/track/4JRfGPxLStj0BAV6jcHv08) | [Noreaga](https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Melvyn Flynt Da Hustler](https://open.spotify.com/album/6lBeIZHlHfJYqOwYgKaKAg) | 4:13 | 2024-09-12 |  |
-| [Cog In The Machine](https://open.spotify.com/track/2bkb668FUQNvFaDV5yE4B4) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [Manifest](https://open.spotify.com/album/7yaxKE3KpatjI5ZYR4U7ZD) | 3:44 | 2024-06-20 |  |
+| [Cog In The Machine](https://open.spotify.com/track/2bkb668FUQNvFaDV5yE4B4) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [Manifest](https://open.spotify.com/album/7yaxKE3KpatjI5ZYR4U7ZD) | 3:44 | 2024-06-20 | 2024-09-21 |
 | [Come Close](https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Electric Circus](https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X) | 4:35 | 2024-01-29 |  |
 | [Come Get It Bae](https://open.spotify.com/track/24MSdaNRlLgjp8xYeJeXwZ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:21 | 2024-01-30 |  |
 | [Come Get It Bae](https://open.spotify.com/track/3FGRLdKEnQStgnG6mnO8gV) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Come Get It Bae \(Video\)](https://open.spotify.com/album/4qHzO2ecLAwMgPJFelcBaf) | 3:28 | 2024-01-29 | 2024-02-02 |
@@ -413,6 +413,7 @@
 | [Kitty Kat](https://open.spotify.com/track/5XagNVHf4diy4zeM5p0VZc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/3MJHoQUI828kmB6IpjejbW) | 3:55 | 2024-01-29 | 2024-02-11 |
 | [Knock Yourself Out \- Edit](https://open.spotify.com/track/3Q13gzzrAUUP7kxNPnkpfU) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Kiss Tha Game Goodbye](https://open.spotify.com/album/1Tjo21h3Fovb4VYTJDvxqe) | 3:33 | 2024-01-29 |  |
 | [Know Who You Are \(with Alicia Keys\)](https://open.spotify.com/track/3dhFRC4YORTaOlRhB9f8Ys) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:56 | 2024-01-29 |  |
+| [LA COMBI VERSACE](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2024-09-20 |  |
 | [Ladies Choice](https://open.spotify.com/track/4e62W9rFx6TyjQD75RFqnN) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 4:39 | 2024-06-20 | 2024-06-22 |
 | [Lapdance](https://open.spotify.com/track/3hMUfzyCcH2pU4YUzU7P6e) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Lapdance](https://open.spotify.com/album/6B7iMTAD7jKhXBGwrMbPRl) | 3:29 | 2024-01-29 | 2024-02-02 |
 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 | 2024-01-29 |  |

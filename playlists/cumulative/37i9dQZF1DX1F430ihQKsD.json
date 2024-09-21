@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: CRi",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Virginie B",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1987,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Corde \u00e0 linge",
+        "url": "https://open.spotify.com/album/652iWZmNRzFWHQ45yYzznR"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380386,
+      "name": "Corde \u00e0 linge",
+      "url": "https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ"
+    },
+    {
+      "album": {
         "name": "Crash (feat. Corneille)",
         "url": "https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI"
       },
@@ -3427,6 +3445,24 @@
     },
     {
       "album": {
+        "name": "Astral 2000",
+        "url": "https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo"
+    },
+    {
+      "album": {
         "name": "hana",
         "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
       },
@@ -3438,7 +3474,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155240,
       "name": "hana",
       "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
@@ -3641,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "album": {
         "name": "I Dunno",
         "url": "https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs"
       },
@@ -3790,6 +3844,24 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "album": {
+        "name": "Incendie au paradis",
+        "url": "https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219765,
+      "name": "Incendie au paradis",
+      "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
     },
     {
       "album": {
@@ -5805,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/5798SKT0DGEiiQwsOmEEEq"
+      },
+      "artists": [
+        {
+          "name": "Welcome John",
+          "url": "https://open.spotify.com/artist/1SYfOJn0EeqCnfBabrsCTd"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235319,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/5sZgAMlmxIL2WxnJzHTsA6"
+    },
+    {
+      "album": {
         "name": "Never Get Enough",
         "url": "https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD"
       },
@@ -6932,7 +7022,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 232479,
       "name": "Poem #2",
       "url": "https://open.spotify.com/track/3VwZnKXI8wSNUxDP2pHPJh"
@@ -7116,7 +7206,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202720,
       "name": "Pression",
       "url": "https://open.spotify.com/track/0cdBQBYEY5lsIwaPGwdddS"
@@ -7824,7 +7914,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 196607,
       "name": "Settle & Fly",
       "url": "https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14"

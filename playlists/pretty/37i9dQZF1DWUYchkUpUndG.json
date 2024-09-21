@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: \"<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=IsFwsk8TRPummkMhBslTUg>Ada Ehi</a>",
-  "num_followers": 25796,
+  "num_followers": 25817,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7PAAAAAABgtZtKCc/E8GQsyWVOJXC",
+  "snapshot_id": "Zu1deAAAAADDJl0KkJkFwfS124BCdtft",
   "tracks": [
     {
       "added_at": "2024-09-20 00:01:00",
@@ -63,6 +63,26 @@
       "duration_ms": 524409,
       "name": "The Conqueror\u2019s Chant (Agalliao)",
       "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
+    },
+    {
+      "added_at": "2024-09-20 11:33:11",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
+        }
+      ],
+      "duration_ms": 267269,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/033NkNjZZYViLZm4UOi9hT"
     },
     {
       "added_at": "2024-09-13 07:18:49",
@@ -151,6 +171,26 @@
       "duration_ms": 915711,
       "name": "Volume Of The Book - Live",
       "url": "https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx"
+    },
+    {
+      "added_at": "2024-09-20 11:33:11",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK"
+      },
+      "artists": [
+        {
+          "name": "Sharyn",
+          "url": "https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS"
+        },
+        {
+          "name": "Shiv Musiq",
+          "url": "https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2"
     },
     {
       "added_at": "2024-09-13 07:18:49",

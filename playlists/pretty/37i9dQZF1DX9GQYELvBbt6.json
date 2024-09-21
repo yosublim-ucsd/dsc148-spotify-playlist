@@ -1,6 +1,6 @@
 {
   "description": "\u9670\u30ad\u30e3\u3067\u3082\u3044\u3044\u3002\u96c6\u56e3\u306b\u306a\u3058\u3081\u306a\u304f\u3066\u3082\u3044\u3044\u3002\u3072\u3068\u308a\u3067\u904e\u3054\u3059\u6642\u9593\u306b\u3082\u3001\u97f3\u697d\u306f\u305d\u3063\u3068\u5bc4\u308a\u6dfb\u3063\u3066\u304f\u308c\u308b\u3002 Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 28300,
+  "num_followers": 28313,
   "original_name": "\u5b64\u72ec\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-18 02:30:10",
       "album": {
-        "name": "junkie",
-        "url": "https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS"
-      },
-      "artists": [
-        {
-          "name": "swetty",
-          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
-        }
-      ],
-      "duration_ms": 148727,
-      "name": "junkie",
-      "url": "https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6"
-    },
-    {
-      "added_at": "2024-09-18 02:30:10",
-      "album": {
         "name": "\u3082\u3046\u4e00\u5ea6",
         "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 250766,
       "name": "\u3082\u3046\u4e00\u5ea6",
       "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+    },
+    {
+      "added_at": "2024-09-18 02:30:10",
+      "album": {
+        "name": "junkie",
+        "url": "https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "duration_ms": 148727,
+      "name": "junkie",
+      "url": "https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6"
     },
     {
       "added_at": "2024-09-18 02:30:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-18 02:30:10",
       "album": {
-        "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
-        "url": "https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv"
-      },
-      "artists": [
-        {
-          "name": "meiyo",
-          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
-        }
-      ],
-      "duration_ms": 146588,
-      "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
-      "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
-    },
-    {
-      "added_at": "2024-09-18 02:30:10",
-      "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 287986,
       "name": "\u4e16\u754c\u306e\u3064\u3065\u304d",
       "url": "https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD"
+    },
+    {
+      "added_at": "2024-09-18 02:30:10",
+      "album": {
+        "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
+        "url": "https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        }
+      ],
+      "duration_ms": 146588,
+      "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
+      "url": "https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt"
     },
     {
       "added_at": "2024-09-18 02:30:10",

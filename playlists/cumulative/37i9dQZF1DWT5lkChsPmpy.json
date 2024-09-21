@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 148070,
       "name": "Beatin' Hearts",
       "url": "https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 132000,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/7lqiHYSx2uqlKKeHCa4zRP"
@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/4iyPzflgOXiZX2H4NsJbsk"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloumy",
+          "url": "https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162795,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/1XsD1xgWuceOO9555jbHL9"
+    },
+    {
+      "album": {
         "name": "cirtuiterie",
         "url": "https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs"
       },
@@ -1396,6 +1414,24 @@
       "duration_ms": 146666,
       "name": "Club Row",
       "url": "https://open.spotify.com/track/09be8fMevpQYEOkuD75eC7"
+    },
+    {
+      "album": {
+        "name": "Coastal Whisper",
+        "url": "https://open.spotify.com/album/51aRPoFEmJJYABkef651QE"
+      },
+      "artists": [
+        {
+          "name": "Closest Cloud",
+          "url": "https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153606,
+      "name": "Coastal Whisper",
+      "url": "https://open.spotify.com/track/7eCiVG3O4Fnlv0pLHKAZO9"
     },
     {
       "album": {
@@ -2503,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Final Point",
+        "url": "https://open.spotify.com/album/5eoxbBl2DvCXvODCl4srIo"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146454,
+      "name": "Final Point",
+      "url": "https://open.spotify.com/track/4e3fIapIrK6AfIZnokKR1e"
+    },
+    {
+      "album": {
         "name": "Finding Answers",
         "url": "https://open.spotify.com/album/2PQL43GznawqJyn1xIOZhg"
       },
@@ -2716,7 +2770,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 159200,
       "name": "Flutters",
       "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
@@ -3264,6 +3318,24 @@
       "duration_ms": 118177,
       "name": "Golden Route",
       "url": "https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv"
+    },
+    {
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/2GXCtnpRfeY7WtLZu8uycL"
+      },
+      "artists": [
+        {
+          "name": "Pello Esso",
+          "url": "https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196167,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/3QaCZhbvOlY2WgicazT2sF"
     },
     {
       "album": {
@@ -4036,7 +4108,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 175694,
       "name": "Kensha",
       "url": "https://open.spotify.com/track/6isZ8qcVpPNlQxog5JQb6u"
@@ -4270,7 +4342,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 124076,
       "name": "late hours",
       "url": "https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t"
@@ -4796,7 +4868,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 157599,
       "name": "Lujo",
       "url": "https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI"
@@ -4832,7 +4904,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183050,
       "name": "LV",
       "url": "https://open.spotify.com/track/6hsUEoIwD9Oq1wqwzdCr8J"
@@ -4868,7 +4940,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 137374,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6QLeR0bc0Iq3McZdan8Go3"
@@ -5070,7 +5142,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 127845,
       "name": "Mellow Apricot",
       "url": "https://open.spotify.com/track/3oaQCIkZDZ63S1XDRMS1M4"
@@ -5456,7 +5528,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 193194,
       "name": "Nanimoshinai",
       "url": "https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA"
@@ -5852,7 +5924,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 139736,
       "name": "Oopsie",
       "url": "https://open.spotify.com/track/2raJ4DfItpzmRHZk744DKM"
@@ -6165,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Pool Crew",
+        "url": "https://open.spotify.com/album/2wo1DdSvl3PmewjQ6c93f6"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176207,
+      "name": "Pool Crew",
+      "url": "https://open.spotify.com/track/1xO9Aph2qWNtGiun0JwhLR"
+    },
+    {
+      "album": {
         "name": "Pool Down",
         "url": "https://open.spotify.com/album/27q5xOERfsJtTpwpLMjK3q"
       },
@@ -6396,7 +6486,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164571,
       "name": "reflect",
       "url": "https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd"
@@ -6612,7 +6702,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179590,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn"
@@ -7348,7 +7438,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 254608,
       "name": "Souls",
       "url": "https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz"
@@ -7366,7 +7456,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 230000,
       "name": "Sound Bath",
       "url": "https://open.spotify.com/track/21Uih9JgA0z6Jy5ZcOy1Bv"
@@ -7456,7 +7546,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -7474,7 +7564,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 140000,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/2yUZCS5EZcYntD023zbKEw"
@@ -7745,6 +7835,24 @@
     },
     {
       "album": {
+        "name": "Testarossa",
+        "url": "https://open.spotify.com/album/2CzcCDDOOVJhKBdxV8bxaL"
+      },
+      "artists": [
+        {
+          "name": "Slow Burn",
+          "url": "https://open.spotify.com/artist/4f5yfz8f7eizrSDwzLUV2i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164016,
+      "name": "Testarossa",
+      "url": "https://open.spotify.com/track/38qCinc76lYEsPFvp8Ul9q"
+    },
+    {
+      "album": {
         "name": "The catch",
         "url": "https://open.spotify.com/album/0SRmSvP5j5iRF4SMYwY2dC"
       },
@@ -7958,6 +8066,24 @@
       "duration_ms": 251584,
       "name": "Think 'Bout It",
       "url": "https://open.spotify.com/track/5PuRbn05FsrvzbfkeXJs2P"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/1gFka1hLWqZVzAonYXlta3"
+      },
+      "artists": [
+        {
+          "name": "Midnight Side Eye",
+          "url": "https://open.spotify.com/artist/3Qjs10XQQvvolxgpBOwtK3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/3DWAf04UjnLtt5SpRYCPkY"
     },
     {
       "album": {
@@ -8246,7 +8372,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 201750,
       "name": "Torches to the Sky",
       "url": "https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4"
@@ -8945,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/6RRZWo8Cwq7uIEFpVhBdnV"
+      },
+      "artists": [
+        {
+          "name": "Phello",
+          "url": "https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171321,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/5l4FsndUCFH8AdsIsLRDDj"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/1IJODkkOhE5bBgcGoev3sZ"
       },
@@ -9100,7 +9244,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 216538,
       "name": "Zoom In",
       "url": "https://open.spotify.com/track/6gq4iQ7lRndjBm0hFgZ4ww"

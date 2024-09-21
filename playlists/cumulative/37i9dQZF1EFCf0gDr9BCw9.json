@@ -1892,10 +1892,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 231317,
       "name": "Midriff",
       "url": "https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u"
+    },
+    {
+      "album": {
+        "name": "Historically Speaking - The Duke (Remastered 2014)",
+        "url": "https://open.spotify.com/album/7muEOF7DUhMsvqAN0nwsJw"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231301,
+      "name": "Midriff (12)",
+      "url": "https://open.spotify.com/track/23NLaObSzSJAmhdhHuumEA"
     },
     {
       "album": {

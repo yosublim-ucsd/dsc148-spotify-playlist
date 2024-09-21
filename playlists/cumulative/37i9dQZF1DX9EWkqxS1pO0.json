@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "belki kafam d\u00fcnden g\u00fczel",
+        "url": "https://open.spotify.com/album/2YcBA13qp0ltZElju5Qi9O"
+      },
+      "artists": [
+        {
+          "name": "Ali Meydanio\u011flu",
+          "url": "https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247710,
+      "name": "belki kafam d\u00fcnden g\u00fczel",
+      "url": "https://open.spotify.com/track/3mZQAM3IZdrzs61VoRe5wa"
+    },
+    {
+      "album": {
         "name": "BELK\u0130",
         "url": "https://open.spotify.com/album/5KDcJ564cJUCIrZiU8BTKk"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 149000,
       "name": "Napabilirdim",
       "url": "https://open.spotify.com/track/5mmXTx1yzPtvukY5O4J8Wr"

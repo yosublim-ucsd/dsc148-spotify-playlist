@@ -2,7 +2,7 @@
 
 ### [This Is Kanye West](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nMr04)
 
-> This is Kanye West\. The essential tracks, all in one playlist.
+> This Is Kanye West\. Les titres incontournables, réunis dans une seule et même playlist.
 
 112 songs - 6 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vettaiyan
 
-1,466 songs - 3 day 17 hr 32 min
+1,467 songs - 3 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Hope of Shambala \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/track/7kpgS4PmzPFVL1jyABjiJX) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Meenakshi Santhosh](https://open.spotify.com/artist/694qJeY9ibnSYLnhPp1boa), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Hope of Shambala \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/album/6tboEaoZeT54lHF3GkqrS1) | 1:45 | 2024-07-05 | 2024-07-19 |
 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 | 2023-07-17 | 2023-12-24 |
 | [Hungry Cheetah \(From "They Call Him OG \(Tamil\)"\)](https://open.spotify.com/track/18E6ZN39seAFLCopzLkut6) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Hungry Cheetah \[From "They Call Him OG \(Tamil\)"\]](https://open.spotify.com/album/0QHgIYO5sQfZ1IRh144hof) | 1:59 | 2023-09-04 | 2023-10-05 |
+| [Hunter Vantaar \(From "Vettaiyan"\)](https://open.spotify.com/track/3h9UdkxpoUQxNqS8IeTC4Z) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Hunter Vantaar \(From "Vettaiyan"\)](https://open.spotify.com/album/6CY60Vp4NLViTNb9dtijBq) | 3:12 | 2024-09-20 |  |
 | [Huppa Huiya \(Tamil\)](https://open.spotify.com/track/4CiOGQcEZXKMVo1FkshoGk) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Ilango Krishan](https://open.spotify.com/artist/0wMW833zwSjbw0fJIDDDpk) | [Adipurush \(TAMIL\)](https://open.spotify.com/album/6bMBoIbi4sb2gngx4dC6TT) | 3:42 | 2023-06-07 | 2023-06-15 |
 | [I Am The Danger \- From "Hit List"](https://open.spotify.com/track/5M0TmVj1xJL0ViRQnNwIlw) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [MC Vickey](https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2), [Sarathi](https://open.spotify.com/artist/4eqVEbhYJk6fbv8d7blgvZ) | [I Am The Danger \(From "Hit List"\)](https://open.spotify.com/album/0B4z45lFwBAmPqkUW4WuWz) | 2:30 | 2024-05-13 | 2024-05-17 |
 | [I Love You Di \- From "Mark Antony"](https://open.spotify.com/track/0JsY2mkgtqOCqZ7ErKUPkC) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adhik Ravichandran](https://open.spotify.com/artist/4NtAip7XvIcTAy40TvK1cV), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [I Love You Di \(From "Mark Antony"\)](https://open.spotify.com/album/2RTnRxblc579izLXLQOHFg) | 3:07 | 2023-08-24 | 2024-01-06 |

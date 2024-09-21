@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 237004,
       "name": "Caustic",
       "url": "https://open.spotify.com/track/05qLcIyIaHP1iszIFkvOUt"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206222,
       "name": "Exorcise Me",
       "url": "https://open.spotify.com/track/1tziQLnwIV0WHbyrlSAk2R"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167586,
       "name": "FEEL AGAIN",
       "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
@@ -3124,6 +3124,24 @@
       "duration_ms": 192158,
       "name": "Feel Sumthin",
       "url": "https://open.spotify.com/track/5A14hgy8soE0xFP9HGCJqr"
+    },
+    {
+      "album": {
+        "name": "FEEL THIS",
+        "url": "https://open.spotify.com/album/4XmAELT7o9pCbK0L5I4TzQ"
+      },
+      "artists": [
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "FEEL THIS",
+      "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
     },
     {
       "album": {
@@ -3715,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "GO BACK (We Can't)",
+        "url": "https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "GO BACK (We Can't)",
+      "url": "https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY"
+    },
+    {
+      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/2Etm7wn37DYMZ7fNa1oFog"
       },
@@ -3822,6 +3858,32 @@
       "duration_ms": 180857,
       "name": "GOATED",
       "url": "https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp"
+    },
+    {
+      "album": {
+        "name": "TWIN FANG",
+        "url": "https://open.spotify.com/album/4kK9p5iz78R3DJnIQIqjs1"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "MAAD WEST",
+          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107793,
+      "name": "Goblin Mode",
+      "url": "https://open.spotify.com/track/5IbdRBgL9g3BqjT7PcbioK"
     },
     {
       "album": {
@@ -6198,7 +6260,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152275,
       "name": "Masyaf",
       "url": "https://open.spotify.com/track/3rRBJVFtEZ4vftRrX30804"
@@ -7184,6 +7246,24 @@
       "duration_ms": 268800,
       "name": "OH LAWD",
       "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
+    },
+    {
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/7MdqDNYFJaS2Rs5jcS3pJ9"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183591,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/35dSbV8cktYMW8XM2XM20A"
     },
     {
       "album": {
@@ -8825,6 +8905,32 @@
     },
     {
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Highlnd",
+          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
+        },
+        {
+          "name": "jasper",
+          "url": "https://open.spotify.com/artist/4GlglNbE2y1QJC1I2Jjolj"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
       },
@@ -10190,7 +10296,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152275,
       "name": "TUNNELVISION",
       "url": "https://open.spotify.com/track/2eiA7QT6N0tDwgIljqVpjJ"

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-337 songs - 21 hr 44 min
+338 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
 | [Blow Wind Blow](https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Blow Wind Blow](https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs) | 3:28 | 2024-06-21 | 2024-09-07 |
 | [Blue Sky](https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Blue Sky](https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r) | 3:31 | 2021-10-22 |  |
-| [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-12 |  |
+| [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-12 | 2024-09-21 |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 |  |
 | [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 | 2020-10-16 | 2024-04-19 |
 | [Boom Boom Boom](https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Chasing Lights](https://open.spotify.com/album/2r4tgvfY6ypsADN4Ptu5Fw) | 3:10 | 2020-10-16 | 2022-07-28 |
@@ -143,6 +143,7 @@
 | [I'm Comin' Home](https://open.spotify.com/track/4QluQ6QphAIYtUbVeMwPfW) | [Royal Southern Brotherhood](https://open.spotify.com/artist/17Rery2JyEYwOiykbfuQvn) | [The Royal Gospel](https://open.spotify.com/album/6aIVJvDG3Jz7DOEKmwPbMa) | 4:25 | 2020-10-16 | 2024-04-12 |
 | [I'm Comin' Home](https://open.spotify.com/track/5CJMgqgSVEtnKGIyWsbpPt) | [Royal Southern Brotherhood](https://open.spotify.com/artist/6vcUagbhY6zVVU71BnnURP) | [The Royal Gospel](https://open.spotify.com/album/4GSi5GCPkxsshu27jVQZLn) | 4:25 | 2020-10-16 | 2024-04-27 |
 | [I'm Gone](https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0) | [Vision Arcade](https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX) | [I'm Gone](https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr) | 4:42 | 2021-11-05 |  |
+| [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 | 2024-09-20 |  |
 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 | 2021-02-19 | 2024-04-19 |
 | [In Stride](https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/7b11AjtUEnyIJfSVqSmY16) | 3:47 | 2021-02-19 |  |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-04-30 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover:\u001fMegan Thee Stallion, RM)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Future )",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 118224,
       "name": "10x3",
       "url": "https://open.spotify.com/track/5kjC39YA6E6HET8Ro1TJIK"
+    },
+    {
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
     },
     {
       "album": {
@@ -616,6 +634,24 @@
       "duration_ms": 136293,
       "name": "2022 (Feat. pH-1)",
       "url": "https://open.spotify.com/track/1uTK1dNRZTlP7uvwDAc0pc"
+    },
+    {
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/3QGPvNpwttv2jOsnCmvp77"
+      },
+      "artists": [
+        {
+          "name": "Jelex",
+          "url": "https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85206,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/5AAdFGz3cPQUl6SOoZ9nbU"
     },
     {
       "album": {
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 272666,
       "name": "87 Cutlass",
       "url": "https://open.spotify.com/track/6lGflWI0Ql5OBDT28M1oHU"
@@ -13856,7 +13892,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 128000,
       "name": "FADED FREESTYLE",
       "url": "https://open.spotify.com/track/7oOltvxhAIgCO5SKXDdAjg"
@@ -16078,7 +16114,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 225819,
       "name": "Gear 5 - Remix",
       "url": "https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv"
@@ -16180,7 +16216,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 189374,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2gItyRuHL238a2z9rXwKqG"
@@ -19915,6 +19951,24 @@
     },
     {
       "album": {
+        "name": "I Don't Relate",
+        "url": "https://open.spotify.com/album/6Db8i45wkur5lHin5HMKin"
+      },
+      "artists": [
+        {
+          "name": "Rebel Asia",
+          "url": "https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "I Don't Relate",
+      "url": "https://open.spotify.com/track/5Pb6mFbk2FyX0IP2krKfEG"
+    },
+    {
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -21272,6 +21326,32 @@
       "duration_ms": 170568,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/2XvUMH1pFcrnoEt4jrU7us"
+    },
+    {
+      "album": {
+        "name": "IRON MIKE",
+        "url": "https://open.spotify.com/album/028uBTEowynwUISRqpuGcz"
+      },
+      "artists": [
+        {
+          "name": "Martin Spacely",
+          "url": "https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS"
+        },
+        {
+          "name": "Sharbil",
+          "url": "https://open.spotify.com/artist/5V0a9aIe2TMOGWECwBUG9n"
+        },
+        {
+          "name": "Ki Zikry",
+          "url": "https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155369,
+      "name": "IRON MIKE",
+      "url": "https://open.spotify.com/track/409IZ4xmIq6Gfh5Cac6cpB"
     },
     {
       "album": {
@@ -27884,7 +27964,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 288000,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/3qXKedpMh4zUFRUljwHT8C"
@@ -29606,6 +29686,24 @@
       "duration_ms": 231570,
       "name": "NWA (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+    },
+    {
+      "album": {
+        "name": "NYU",
+        "url": "https://open.spotify.com/album/6p1B0lcRQidpYdgw3gkYTL"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179615,
+      "name": "NYU",
+      "url": "https://open.spotify.com/track/3pps57TSzbTt1y40XPwzlj"
     },
     {
       "album": {
@@ -31774,7 +31872,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206224,
       "name": "Petty",
       "url": "https://open.spotify.com/track/1n39WFTUtJSoluEsuVuEJk"
@@ -35178,6 +35276,28 @@
       "duration_ms": 197260,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/7r5FykTCroMJuGUh1E4NhE"
+    },
+    {
+      "album": {
+        "name": "roll da dice",
+        "url": "https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190948,
+      "name": "roll da dice",
+      "url": "https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz"
     },
     {
       "album": {
@@ -40068,7 +40188,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152917,
       "name": "Summer Night Rock",
       "url": "https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP"
@@ -40490,7 +40610,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169565,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5t76ZbsYMOgCTX4iTSPHSq"
@@ -41156,7 +41276,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 170858,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/1E0eM0hQlJKVMImG6NO74E"
@@ -41358,7 +41478,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 163333,
       "name": "TASTE (feat. Tabber)",
       "url": "https://open.spotify.com/track/1RfpiN8GKqEES1EhbJpv3u"
@@ -43619,6 +43739,24 @@
     },
     {
       "album": {
+        "name": "Tony Soprano 3",
+        "url": "https://open.spotify.com/album/3tNDHapnIvSxJ30BoXFoOR"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215157,
+      "name": "Tony Soprano 3",
+      "url": "https://open.spotify.com/track/0y4jUgtW1KlE9CCLxhNBZi"
+    },
+    {
+      "album": {
         "name": "Too Dope",
         "url": "https://open.spotify.com/album/70LmG6U7i8v69jQWXhx5Ul"
       },
@@ -43638,6 +43776,24 @@
       "duration_ms": 133161,
       "name": "Too Dope",
       "url": "https://open.spotify.com/track/2jsbE3rYt2j2PGs3paJDLx"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205730,
+      "name": "TOO FAST",
+      "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
     },
     {
       "album": {
@@ -47358,7 +47514,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210410,
       "name": "Window",
       "url": "https://open.spotify.com/track/0iVLXD9EE3deRQjfaTJwRh"
@@ -47640,6 +47796,60 @@
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
+        "name": "WOKE UP REMIXX (PROD BY JAKOPS)",
+        "url": "https://open.spotify.com/album/0eQOMLTDAun9s1Qd8mvQvB"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "JAKOPS",
+          "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "VERBAL",
+          "url": "https://open.spotify.com/artist/15AoeHPWryzqVsycKzmsWA"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Tak",
+          "url": "https://open.spotify.com/artist/2O3ohFsX5yEGY5FYJqp16q"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379291,
+      "name": "WOKE UP REMIXX [PROD BY JAKOPS] (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "url": "https://open.spotify.com/track/2x00igEgoS1m2sztmOfBgs"
     },
     {
       "album": {

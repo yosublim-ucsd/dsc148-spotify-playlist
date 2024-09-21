@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 138720,
+  "num_followers": 138725,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Ripples In The Timeline",
-        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/57BlLED3PRgcP0lmpPuv2G"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Real Lies",
-          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 216868,
-      "name": "Ripples In The Timeline",
-      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0ehcOXeXkE1Cozi3NIRWrv"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -399,18 +395,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/57BlLED3PRgcP0lmpPuv2G"
+        "name": "Ripples In The Timeline",
+        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
       },
       "artists": [
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0ehcOXeXkE1Cozi3NIRWrv"
+      "duration_ms": 216868,
+      "name": "Ripples In The Timeline",
+      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Sun Phase",
+        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 316454,
+      "name": "Sun Phase",
+      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
+    },
+    {
       "added_at": "2024-08-22 23:00:00",
       "album": {
         "name": "Foam (Sam Alfred Remix)",
@@ -951,22 +967,6 @@
       "duration_ms": 295333,
       "name": "Foam - Sam Alfred Remix",
       "url": "https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1005,26 +1005,6 @@
       "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
     },
     {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "side by side (feat. Empress Of) [rebirth]",
-        "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "side by side (feat. Empress Of) [rebirth]",
-      "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
-    },
-    {
       "added_at": "2024-02-01 13:01:25",
       "album": {
         "name": "The Remixes",
@@ -1043,6 +1023,26 @@
       "duration_ms": 173793,
       "name": "Under The Milky Way - Leo Portela Remix",
       "url": "https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "side by side (feat. Empress Of) [rebirth]",
+        "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "side by side (feat. Empress Of) [rebirth]",
+      "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
     },
     {
       "added_at": "2024-02-01 13:01:25",

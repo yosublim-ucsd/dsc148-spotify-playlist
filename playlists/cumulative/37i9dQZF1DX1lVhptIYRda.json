@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Miranda Lambert",
+  "description": "Today's top country hits. Cover: Keith Urban",
   "name": "Hot Country",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4j5ffIFh7bFT7GZciP1TCy"
+    },
+    {
+      "album": {
+        "name": "10-90",
+        "url": "https://open.spotify.com/album/1VoIOXWCxq2cWeXZbze0Ej"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "10-90",
+      "url": "https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL"
     },
     {
       "album": {
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179882,
       "name": "A Cigarette",
       "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
@@ -9501,6 +9519,24 @@
     },
     {
       "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
+    },
+    {
+      "album": {
         "name": "Not Yet",
         "url": "https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ"
       },
@@ -10330,7 +10366,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 194920,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"

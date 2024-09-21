@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130979,
+      "name": "120",
+      "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 70683,
       "name": "3x",
       "url": "https://open.spotify.com/track/4yWPs0pptbO1lOPkxXOXU4"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Becky (feat. 41)",
       "url": "https://open.spotify.com/track/399es3LKBCviugHiDQcCI1"
@@ -4875,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "COUNT MY BANDZ",
+        "url": "https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "COUNT MY BANDZ",
+      "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
+    },
+    {
+      "album": {
         "name": "Countdown",
         "url": "https://open.spotify.com/album/51IzT7nGKdjOXPAogxrhyM"
       },
@@ -4912,6 +4948,24 @@
       "duration_ms": 197593,
       "name": "COUNTING SHEEP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar"
+    },
+    {
+      "album": {
+        "name": "CRAZY H*ES",
+        "url": "https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138121,
+      "name": "CRAZY H*ES",
+      "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
     },
     {
       "album": {
@@ -5087,6 +5141,24 @@
     },
     {
       "album": {
+        "name": "CYBER TRUCK",
+        "url": "https://open.spotify.com/album/0Dgwe0jOh7fehZAQzZDIpv"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156044,
+      "name": "CYBER TRUCK",
+      "url": "https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5"
+    },
+    {
+      "album": {
         "name": "Straight, No Chase",
         "url": "https://open.spotify.com/album/1E3bAnOZmyf5Myw22u6330"
       },
@@ -5164,6 +5236,24 @@
       "duration_ms": 166986,
       "name": "D.T.N.",
       "url": "https://open.spotify.com/track/2BVhDSkTX5YUIsgnAtoWsI"
+    },
+    {
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "D1",
+      "url": "https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u"
     },
     {
       "album": {
@@ -5852,7 +5942,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 229128,
       "name": "Do the Busabus Pt.2",
       "url": "https://open.spotify.com/track/6ktWV64HbyzHuTYAnaM7mF"
@@ -11990,7 +12080,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 142146,
       "name": "KiCKIN",
       "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
@@ -12316,7 +12406,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180062,
       "name": "Lamborghini Dreams (feat. PnB Rock)",
       "url": "https://open.spotify.com/track/1Od2IBhabF9KTUxXYV8Jj5"
@@ -14536,7 +14626,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166274,
       "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
       "url": "https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt"
@@ -19857,6 +19947,32 @@
     },
     {
       "album": {
+        "name": "Scatter",
+        "url": "https://open.spotify.com/album/1m1KivRY9jML1zrEjWr6Kf"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/1ucikv74KUPQlCXsUJqeua"
+    },
+    {
+      "album": {
         "name": "Scene, Pt. 2",
         "url": "https://open.spotify.com/album/0JGJYMl3Guz83lYdkI4M9q"
       },
@@ -21705,6 +21821,24 @@
     },
     {
       "album": {
+        "name": "INFINITI",
+        "url": "https://open.spotify.com/album/26gyDTgt8S10aGIGbcJW3w"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107640,
+      "name": "Suit & Tie!",
+      "url": "https://open.spotify.com/track/1nFX60d6wI6WkqBcMmmXOi"
+    },
+    {
+      "album": {
         "name": "Summer '24",
         "url": "https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM"
       },
@@ -22918,7 +23052,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 142172,
       "name": "TiFFANY",
       "url": "https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9"
@@ -24713,6 +24847,32 @@
     },
     {
       "album": {
+        "name": "Make America Flock Again",
+        "url": "https://open.spotify.com/album/3JisYU4bjyIr5m310qQ3Xj"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "AC Zoe",
+          "url": "https://open.spotify.com/artist/6PQU88Q9Qn4xALNNlwCelI"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "What You On (feat. AC Zoe & B-Lovee)",
+      "url": "https://open.spotify.com/track/3MbHZa5wuipqRsYsigpDwt"
+    },
+    {
+      "album": {
         "name": "What's That?",
         "url": "https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X"
       },
@@ -25776,7 +25936,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146332,
       "name": "You Look Good",
       "url": "https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS"

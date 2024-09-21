@@ -4,7 +4,7 @@
 
 > Lavando e louvando a Deus com grandes hinos.
 
-189 songs - 18 hr 22 min
+190 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Santificação](https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:33 | 2022-04-15 | 2022-04-21 |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 | 2022-04-15 | 2022-04-21 |
 | [Se Eu Não Conseguir Falar](https://open.spotify.com/track/4vAhvAxZXBwnMtKO9kvCwM) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 7:18 | 2022-04-15 | 2022-04-21 |
+| [Se Não Fosse Ele](https://open.spotify.com/track/49aAR1k1YDjcHPPUaP1GTR) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Se Não Fosse Ele](https://open.spotify.com/album/2F7TQ8zJLPEbmwsbaP3EOp) | 3:56 | 2024-09-20 |  |
 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 | 2021-12-03 |  |
 | [Sobre as Águas \- Ao Vivo](https://open.spotify.com/track/78jqNs62Tfo3sIxCL2IIpI) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Marca da Promessa](https://open.spotify.com/album/2ZXfO81fbFK9PJLNT1qjFz) | 5:49 | 2022-04-15 | 2023-02-07 |
 | [Sobrevivi](https://open.spotify.com/track/6uiPCZIIdtfVCjuh7NUTiM) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Renovo](https://open.spotify.com/album/7fiWxyJRFR0NIQ1nfFXcbL) | 4:41 | 2021-12-03 |  |
@@ -173,7 +174,7 @@
 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 | 2021-12-03 |  |
 | [Sonhadora](https://open.spotify.com/track/3XLDWQeh8ucy0hXepUusqy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora](https://open.spotify.com/album/5gSOvUTE7ywsalzaghyqmB) | 3:35 | 2022-04-15 | 2022-04-21 |
 | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H) | 4:35 | 2021-12-03 |  |
-| [Só Tu És Santo + Medley \- Tour Adore \- Ao Vivo](https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Só Tu És Santo + Medley \- Tour Adore \- Ao Vivo](https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91) | 10:05 | 2024-09-06 |  |
+| [Só Tu És Santo + Medley \- Tour Adore \- Ao Vivo](https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Só Tu És Santo + Medley \- Tour Adore \- Ao Vivo](https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91) | 10:05 | 2024-09-06 | 2024-09-21 |
 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Toque no Altar \(Ao Vivo\)](https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5) | 5:24 | 2021-12-03 | 2023-03-23 |
 | [Teu Amor Não Falha \- Ao Vivo](https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:05 | 2023-11-03 |  |
 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 | 2022-04-15 |  |

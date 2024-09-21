@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-288 songs - 15 hr 3 min
+291 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-09-08 |  |
 | [Home Before Dark](https://open.spotify.com/track/5w7hp3eB2fpRSIxKgRfpXg) | [Nora Guthrie](https://open.spotify.com/artist/3XDzVXu9qPOYMcxvN8Qq7t) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:36 | 2024-05-16 | 2024-07-12 |
 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 | 2024-07-29 | 2024-09-08 |
+| [HOV](https://open.spotify.com/track/62ik7tuPPdoFrDMkpBC7yt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 3:48 | 2024-09-20 |  |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 | 2024-05-16 |
 | [How To Teleport](https://open.spotify.com/track/45oY7hPnh7KvH7lGfVehsb) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 3:26 | 2024-09-07 |  |
 | [I Can Dream](https://open.spotify.com/track/56NDW2C9TPog81aDwasskH) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Half Price at 3:30](https://open.spotify.com/album/7hMopyoxOXaZuKhSKKclUC) | 3:57 | 2024-06-12 | 2024-07-12 |
@@ -157,6 +158,7 @@
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
 | [Lux Radio Theatre](https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:44 | 2024-02-13 | 2024-03-10 |
 | [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 | 2024-06-26 | 2024-07-12 |
+| [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-20 |  |
 | [Magic I Want U](https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 4:58 | 2024-09-07 |  |
 | [mahou no hiroba](https://open.spotify.com/track/7N3FBdEMvKhzL0qhADdt2N) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 9:04 | 2024-03-09 | 2024-05-16 |
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
@@ -275,6 +277,7 @@
 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 | 2024-08-05 | 2024-09-08 |
 | [Twist With The Morningstars](https://open.spotify.com/track/71rFIZt1BuPzrGwcTBJEJK) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 2:22 | 2024-06-28 | 2024-07-12 |
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
+| [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:22 | 2024-09-20 |  |
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 |  |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,063 likes - 103 songs - 5 hr 35 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,072 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 102 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 |
 | 103 | [Some Things Just Stick](https://open.spotify.com/track/0u2dsFLhpu0KpCJnA9cxT1) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Still Bleeding](https://open.spotify.com/album/3XguviXP2FCg5aMSEcuZbG) | 3:06 |
 
-Snapshot ID: `AAAaW1RNj5YIHCpBvB7CQte0DJjyi5ju`
+Snapshot ID: `AAAaXv/YWzFKWykJG7LTQTNNBgyPPlk2`

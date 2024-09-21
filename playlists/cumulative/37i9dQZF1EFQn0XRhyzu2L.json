@@ -8379,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Take My Phone Away",
+        "url": "https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Take My Phone Away",
+      "url": "https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC"
+    },
+    {
+      "album": {
         "name": "Grease: Rise of the Pink Ladies (Music from the Paramount+ Original Series)",
         "url": "https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz"
       },

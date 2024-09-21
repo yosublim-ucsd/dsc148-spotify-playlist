@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2294182,
+  "num_followers": 2294264,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "afraid",
-        "url": "https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD"
-      },
-      "artists": [
-        {
-          "name": "kid apollo",
-          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
-        },
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 180068,
-      "name": "afraid",
-      "url": "https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 269411,
       "name": "Skin Parade",
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
+        "name": "afraid",
+        "url": "https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD"
+      },
+      "artists": [
+        {
+          "name": "kid apollo",
+          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
+        },
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 180068,
+      "name": "afraid",
+      "url": "https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "New Song",
-        "url": "https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY"
-      },
-      "artists": [
-        {
-          "name": "Alice Markham",
-          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
-        }
-      ],
-      "duration_ms": 276410,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 160280,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
+        "name": "New Song",
+        "url": "https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "duration_ms": 276410,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON"
     },
     {
       "added_at": "2024-08-07 10:32:23",

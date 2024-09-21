@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-241 songs - 17 hr 42 min
+242 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Rune](https://open.spotify.com/track/3nVhib9CWt4pMW9LCnI0B6) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Rune](https://open.spotify.com/album/0R3Cm743EjdA17A57wqysW) | 3:29 | 2020-06-11 | 2021-10-16 |
 | [Ry \- Edit](https://open.spotify.com/track/3Tc6x9waprUmAwaOjEIWEa) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ry](https://open.spotify.com/album/4vFo3InuBDrRVEuBxBVMb5) | 3:40 | 2020-06-05\* | 2021-10-13 |
 | [S teboi](https://open.spotify.com/track/2kAOCGCbaBF6bXMkTcBFKk) | [zalagasper](https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO) | [4](https://open.spotify.com/album/0srDYj2Gl5QpfT5MQX9AmG) | 3:24 | 2020-06-12 | 2021-01-15 |
-| [Sailed](https://open.spotify.com/track/0AuyIbBGezzXo4zHvYVfEn) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Sailed](https://open.spotify.com/album/1MsQiYcjOZfsEg33k2szWW) | 4:04 | 2024-07-05 |  |
+| [Sailed](https://open.spotify.com/track/0AuyIbBGezzXo4zHvYVfEn) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Sailed](https://open.spotify.com/album/1MsQiYcjOZfsEg33k2szWW) | 4:04 | 2024-07-05 | 2024-09-21 |
 | [Say Something](https://open.spotify.com/track/1QtOnUVFzMD7g4E9tjofTw) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Kingdoms](https://open.spotify.com/album/073y7G58ZFRONbJJSYiwwC) | 3:56 | 2021-03-20 | 2021-10-16 |
 | [Sea \- Young Marco Remix](https://open.spotify.com/track/2LuPVa3HeAMBycOFhwI1KM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Remixed 1](https://open.spotify.com/album/3a9Uyb3QAQTpNUjx2Q2M05) | 5:42 | 2021-03-18 | 2022-07-14 |
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-05 |  |
@@ -216,6 +216,7 @@
 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 | 2020-06-05\* | 2022-07-28 |
 | [Swarm](https://open.spotify.com/track/634S3xkO8Dfk5NFfMqMZPc) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Swarm](https://open.spotify.com/album/1loMHAu0uSEO7msawksCPZ) | 2:46 | 2020-06-12 | 2021-10-13 |
 | [Take My Hand \- Totally Enormous Extinct Dinosaurs Sky Remix](https://open.spotify.com/track/1zyTaupx41D8Ig4mRK2WE9) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Take My Hand \(Totally Enormous Extinct Dinosaurs Remixes\)](https://open.spotify.com/album/0LlFZwFPLUSB5dVGj0h5Xj) | 3:43 | 2020-06-05 | 2022-07-28 |
+| [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2024-09-19 |  |
 | [The Colour In Anything](https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 3:33 | 2021-03-19 | 2021-07-27 |
 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 | 2022-05-30 | 2022-08-17 |
 | [The End](https://open.spotify.com/track/4UTwiKGU3TDnoYvNWMzqhl) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/4vjDYT5nXgLn12luv3mGjZ) | 4:35 | 2021-03-18 | 2021-10-16 |

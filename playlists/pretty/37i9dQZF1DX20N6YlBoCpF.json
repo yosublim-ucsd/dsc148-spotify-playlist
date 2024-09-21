@@ -1,6 +1,6 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=l1Sv3fBiR_mgrZaxYxouZw\">Early B</a>  ",
-  "num_followers": 26902,
+  "num_followers": 26920,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
       "duration_ms": 225750,
       "name": "Blue Tick",
       "url": "https://open.spotify.com/track/1U0a4985xzW8vNxOnwdEkP"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Koning van die wentel",
+        "url": "https://open.spotify.com/album/63XESLcdyRadNMdq8Kmw0z"
+      },
+      "artists": [
+        {
+          "name": "Perfect Tz",
+          "url": "https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "Koning van die wentel",
+      "url": "https://open.spotify.com/track/1t5pjQAlp3DNrBllqfwLjt"
     },
     {
       "added_at": "2024-08-01 22:00:00",

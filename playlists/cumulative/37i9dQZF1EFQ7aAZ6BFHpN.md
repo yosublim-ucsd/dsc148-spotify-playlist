@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 11 hr 37 min
+152 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Home](https://open.spotify.com/track/0sSwIvwh26CP6o9dFnEFWY) | [Dave Daniels](https://open.spotify.com/artist/0Vh90V75jUqGR31zSjASYz) | [Oh, Kay! \(The Original Cast Album\)](https://open.spotify.com/album/0zGvpLNJcPl8ylxbn0fc8o) | 2:03 | 2024-07-24 |  |
 | [Hooray for the U.S.A.](https://open.spotify.com/track/0NIuZl2eo3FHCMC4qb1Zbh) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Sally Wilfert](https://open.spotify.com/artist/4BAg51jG2nRh14hWH8dH3K), [Bethe Austin](https://open.spotify.com/artist/30TvnkCTJUGDxLcbDQwyvb) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:49 | 2024-07-24 |  |
 | [Hoping That Someday You'd Care](https://open.spotify.com/track/4jdQluOHX8m9z2VhMOVYrY) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [Strike Up the Band](https://open.spotify.com/album/0MqP11myzDu3b38z18Pz7y) | 2:56 | 2024-07-24 |  |
-| [How Long Has This Been Going On](https://open.spotify.com/track/2faM3FzoQh6vIH8I0tkjct) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Foggy Day](https://open.spotify.com/album/55rZXmosS2ehCezw1vnqEg) | 2:32 | 2024-07-24 |  |
+| [How Long Has This Been Going On](https://open.spotify.com/track/2faM3FzoQh6vIH8I0tkjct) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Foggy Day](https://open.spotify.com/album/55rZXmosS2ehCezw1vnqEg) | 2:32 | 2024-07-24 | 2024-09-21 |
+| [How Long Has This Been Going On \(12\)](https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor Sings Lullabys For Lovers \(Remastered 2013\)](https://open.spotify.com/album/2pOmEoxRZ4VdWgpz6IWGfe) | 2:33 | 2024-09-20 |  |
 | [I Can't Be Bothered Now](https://open.spotify.com/track/0BfvhXg1QoYQy3x3cvMyzQ) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [The "Crazy for You" Female Ensemble](https://open.spotify.com/artist/2Gz3Ta2IFXlZrhehCZSZOI) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 4:14 | 2024-07-24 |  |
 | [I Got Plenty O' Nuttin'](https://open.spotify.com/track/45xc1d1XIuF2zgHwxZnb7N) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 3:51 | 2024-07-24 |  |
 | [I Got Rhythm](https://open.spotify.com/track/3Jab5ZvO3dQhdh3KIvl4m0) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 3:06 | 2024-07-24 |  |

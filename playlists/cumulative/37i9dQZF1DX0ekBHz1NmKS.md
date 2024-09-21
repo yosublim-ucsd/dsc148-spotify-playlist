@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,600 songs - 3 day 11 hr 9 min
+1,602 songs - 3 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [LOSE YOU](https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [LOSE YOU](https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4) | 3:01 | 2022-06-02 | 2022-07-29 |
 | [loser](https://open.spotify.com/track/7AHDOIQv2eb2mbaj7lqYYp) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [loser](https://open.spotify.com/album/7KKcM8Cm8dCosCtUJ4DHT6) | 3:13 | 2022-03-24 | 2022-04-21 |
 | [Losing a Friend](https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Losing a Friend](https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs) | 3:14 | 2023-10-06 | 2024-01-26 |
+| [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
 | [Lost Romance](https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Lost Romance](https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0) | 2:21 | 2024-02-22 | 2024-04-12 |
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 |  |
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
@@ -983,7 +984,7 @@
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-27 | 2024-09-15 |
 | [NO HOTEL](https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [NO HOTEL](https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ) | 2:26 | 2022-04-01 | 2022-04-21 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2021-12-16 | 2022-03-04 |
-| [Nog av dig](https://open.spotify.com/track/2yVzrs8JmfflnKOUfrsvfr) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Nog av dig](https://open.spotify.com/album/5AEdNin0vKVAA6avdScXNy) | 2:54 | 2024-08-15 |  |
+| [Nog av dig](https://open.spotify.com/track/2yVzrs8JmfflnKOUfrsvfr) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Nog av dig](https://open.spotify.com/album/5AEdNin0vKVAA6avdScXNy) | 2:54 | 2024-08-15 | 2024-09-21 |
 | [None Of These Guys](https://open.spotify.com/track/4YxCwmfbo4FcAeaK0vFJFV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 2:42 | 2024-02-08 | 2024-04-05 |
 | [Nonono](https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Nonono](https://open.spotify.com/album/2uDilBq2pCCTzXA3RdKCwT) | 4:02 | 2021-12-16 | 2022-02-22 |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-05-23 | 2024-06-21 |
@@ -1144,6 +1145,7 @@
 | [Rödvin & Rosé](https://open.spotify.com/track/1VeSJ9PVCutdTMPn4sFpzo) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Rödvin & Rosé](https://open.spotify.com/album/6qbjzSLFcxqdcC8ma77Hxt) | 2:54 | 2024-06-13 | 2024-08-16 |
 | [Rök & Discoljus](https://open.spotify.com/track/6IqCU9bdDRfEPHSBM1nE45) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Rök & Discoljus](https://open.spotify.com/album/1l3ArcISPARn4GPJeMthYz) | 3:00 | 2024-06-27 | 2024-09-08 |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-05-30 | 2024-06-28 |
+| [Sabotage](https://open.spotify.com/track/3qMsZDkRs1yqfCB6B841Ed) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Sabotage](https://open.spotify.com/album/6XzCVVZWLVwCnhDU37hhrk) | 2:28 | 2024-09-19 |  |
 | [Sad boy](https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Sad boy](https://open.spotify.com/album/1zo36S5mDeSWKWF47P7a8U) | 2:41 | 2021-12-16 | 2022-03-09 |
 | [Safe](https://open.spotify.com/track/5YWHPx3STBbT1b5Xfn7hGU) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r) | [Safe](https://open.spotify.com/album/47aEkdMv1yTwN6MRJ3LuBl) | 3:07 | 2022-03-10 | 2022-05-30 |
 | [Safety Lines](https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg) | [Dead People](https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9) | [Safety Lines](https://open.spotify.com/album/4beGjjFosk130hWy8tOgVv) | 3:45 | 2021-12-16 | 2022-03-05 |
@@ -1549,7 +1551,7 @@
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
 | [What's On Your Mind](https://open.spotify.com/track/3JHgXCFXvwmhF87cpPzwxz) | [Nadine Randle](https://open.spotify.com/artist/5axuNl3MPux2y2GuCmuitJ) | [What's On Your Mind](https://open.spotify.com/album/2lI8SAEemZOYeCaYDiyE8x) | 2:57 | 2024-03-21 | 2024-05-03 |
-| [When Are You Coming My Way](https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [When Are You Coming My Way](https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj) | 2:19 | 2024-08-29 |  |
+| [When Are You Coming My Way](https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [When Are You Coming My Way](https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj) | 2:19 | 2024-08-29 | 2024-09-21 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-06 | 2024-08-09 |
 | [When You're Not Mine](https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [When You're Not Mine](https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf) | 3:10 | 2023-08-26 | 2024-01-19 |
 | [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 | 2023-04-28 |

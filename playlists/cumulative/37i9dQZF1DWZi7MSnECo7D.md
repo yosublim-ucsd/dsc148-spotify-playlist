@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Ale Sater
+> Música brasileira fora da curva\. Foto: DAPARTE, Ana Caetano
 
-694 songs - 1 day 15 hr 35 min
+695 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 | 2023-01-28 |
 | [Beat](https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Kintsugi](https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n) | 2:41 | 2022-04-29 | 2022-05-14 |
 | [Beijo Roubado em Segredo](https://open.spotify.com/track/1W4xAsOUhLNlfnUjsmKwMR) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [Beijo Roubado em Segredo](https://open.spotify.com/album/5gWxrGn4jvSucPyWLCgOX8) | 2:43 | 2024-05-24 | 2024-07-27 |
+| [Belo Horizonte](https://open.spotify.com/track/4biV8Kff5Rumi3txnfDpRI) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL), [Ana Caetano](https://open.spotify.com/artist/12zdfTW9H2vtFe0WriVUhG) | [Belo Horizonte](https://open.spotify.com/album/2Gu9UuNap99b2IkZOzehvu) | 3:04 | 2024-09-20 |  |
 | [bem vindo, amanhecer](https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e) | 3:21 | 2022-04-08 | 2022-07-23 |
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-09-20 |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
@@ -228,7 +229,7 @@
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 | 2022-06-25 |
 | [Estrago Que Me Faz](https://open.spotify.com/track/68dYqn4aJC5NbVZN2OPjXX) | [Submerso](https://open.spotify.com/artist/785QQNx8Y5ELrD9pG5iKSU) | [Estrago Que Me Faz](https://open.spotify.com/album/1SdswqVjoayoc82ayIfYa3) | 3:09 | 2024-09-06 |  |
 | [estática](https://open.spotify.com/track/4J3sacZksbTwNF4323eKcD) | [chá preto](https://open.spotify.com/artist/3HFcd8ElhUW7VFILTgQW2H) | [estática](https://open.spotify.com/album/79QVW4KXE9wwQ37ApRi9F1) | 3:00 | 2023-11-17 | 2024-04-27 |
-| [Eternamente](https://open.spotify.com/track/5LLTSKqMVbygdQzOnPCK1s) | [Lencinho](https://open.spotify.com/artist/7t3dRtwHynAFUeZRjj6cHV), [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Tom Gangue](https://open.spotify.com/artist/6f6b1wIw4bu4pd2mN3qMK2) | [Belo Lo\-Fi](https://open.spotify.com/album/618fcdV5wdotV2DNbak9vs) | 5:01 | 2024-09-06 |  |
+| [Eternamente](https://open.spotify.com/track/5LLTSKqMVbygdQzOnPCK1s) | [Lencinho](https://open.spotify.com/artist/7t3dRtwHynAFUeZRjj6cHV), [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Tom Gangue](https://open.spotify.com/artist/6f6b1wIw4bu4pd2mN3qMK2) | [Belo Lo\-Fi](https://open.spotify.com/album/618fcdV5wdotV2DNbak9vs) | 5:01 | 2024-09-06 | 2024-09-21 |
 | [Eu Ainda Te Quero](https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG) | [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Eu Ainda Te Quero](https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc) | 2:41 | 2022-08-19 | 2022-10-22 |
 | [Eu e a Lua](https://open.spotify.com/track/361ToCNpHcthhkQaPtohp4) | [clara bicho](https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Eu e a Lua](https://open.spotify.com/album/2BkSqu2S7mpdM94GQ7znep) | 2:58 | 2024-04-12 | 2024-08-10 |
 | [Eu e a Sol](https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Eu e a Sol](https://open.spotify.com/album/6eDhs68qKc5kWVW2tiEPOR) | 1:50 | 2023-03-10 | 2023-04-22 |

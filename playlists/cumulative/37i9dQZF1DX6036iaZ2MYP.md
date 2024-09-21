@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Ya Levis
 
-517 songs - 1 day 0 hr 55 min
+518 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-21 | 2024-02-09 |
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-05-26 | 2023-10-06 |
 | [Amapiupiu](https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Amapiupiu](https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk) | 3:09 | 2024-09-19 |  |
-| [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 |  |
+| [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 | 2024-09-21 |
+| [Amar Pela Metade \(Aimer À Moitié\)](https://open.spotify.com/track/56NoXkahPdeKwnGzq2VTGe) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-20 |  |
 | [Amaria](https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Amaria](https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL) | 3:16 | 2023-11-23 | 2024-02-09 |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-02-15 | 2024-03-08 |
 | [Amina](https://open.spotify.com/track/0oLiV7JRGac0z4oVyen8cE) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Man Like Maz](https://open.spotify.com/artist/2W40n1Ft9S6yMtBRPaKywG), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Laso](https://open.spotify.com/album/4kPltVu8CgPZqtDxUuF2GQ) | 2:39 | 2022-12-08 | 2023-05-13 |
@@ -308,7 +309,7 @@
 | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Menteur \(feat\. Ronisia\)](https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd) | 2:24 | 2024-06-13 | 2024-08-09 |
 | [Metti \(feat\. Emma'a\)](https://open.spotify.com/track/71XmYb0EzVXYANode3rbPc) | [Papi](https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Metti \(feat\. Emma'a\)](https://open.spotify.com/album/3umtrewfcHdu7J4pV6Wj6L) | 2:37 | 2024-07-11 | 2024-08-13 |
 | [Mexican Girl](https://open.spotify.com/track/2ufffe9fIe123XR3YvpQO5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Sheny](https://open.spotify.com/artist/4pD42rt571GLYtLZxn24Mt) | [Mexican Girl](https://open.spotify.com/album/0iczvaW9REVqI5fbR6OYBI) | 3:31 | 2022-07-13 | 2022-12-15 |
-| [Minimum](https://open.spotify.com/track/1LLjcUP5pUuX3v8yosHKYy) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Minimum](https://open.spotify.com/album/6Z2aAZ6NgYDBYwAyZdeW9c) | 2:46 | 2024-09-12 |  |
+| [Minimum](https://open.spotify.com/track/1LLjcUP5pUuX3v8yosHKYy) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Minimum](https://open.spotify.com/album/6Z2aAZ6NgYDBYwAyZdeW9c) | 2:46 | 2024-09-12 | 2024-09-21 |
 | [Miss Des Miss](https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miss Des Miss](https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S) | 2:34 | 2022-12-25 | 2023-06-23 |
 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 | 2023-06-22 | 2023-10-20 |
 | [Mon Bebe](https://open.spotify.com/track/2FtGKTF64tiJozJqtMME0X) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Mon Bebe](https://open.spotify.com/album/4S4L8omUt8zh4RCgJaHRjx) | 2:21 | 2023-09-07 | 2023-11-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Pauline Oliveros. Los temas esenciales, todos en una lista.",
+  "description": "This is Pauline Oliveros. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3S7rMn7iMmRJeD6wWYwzsz"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 128973,
       "name": "Fantastic Increments",
       "url": "https://open.spotify.com/track/1iqeU4xp8Qq8B6BC32kVan"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 235800,
       "name": "Fed Back 2",
       "url": "https://open.spotify.com/track/5EL8kwk54XmX03SOYEJmc3"
@@ -1696,6 +1696,36 @@
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
+    },
+    {
+      "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/3KVPHG3HBlsKFDcUQ9sISO"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510037,
+      "name": "Inner",
+      "url": "https://open.spotify.com/track/1Z8oro2Ki4xe6WqzPBvzTy"
     },
     {
       "album": {
@@ -2548,7 +2578,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 216853,
       "name": "Penguin",
       "url": "https://open.spotify.com/track/22Et0FhvnfZabfCJ2CWWy9"
@@ -3122,7 +3152,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"

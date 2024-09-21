@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover: Bir",
+  "description": "Fresh Punjabi Rap. Cover: Guru Randhawa",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "36 YAAR",
+        "url": "https://open.spotify.com/album/6YvBf6lCKEp0IPZoFwZTVW"
+      },
+      "artists": [
+        {
+          "name": "RAJVATAN",
+          "url": "https://open.spotify.com/artist/6wRG9Lthv9yIObu4DVaKLP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "36 YAAR",
+      "url": "https://open.spotify.com/track/2U5VHyHugNid0L9tGiv9XW"
+    },
+    {
+      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214024,
       "name": "52 Bars",
       "url": "https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"
@@ -626,6 +644,32 @@
       "duration_ms": 150000,
       "name": "Bold And Brave",
       "url": "https://open.spotify.com/track/7HZzB7zkpy0AciPo7vsAkU"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Bars",
+        "url": "https://open.spotify.com/album/2PpPlmH9xGVWGx6kW36OiZ"
+      },
+      "artists": [
+        {
+          "name": "Love Randhawa",
+          "url": "https://open.spotify.com/artist/23DjDsCni0MltUKQ9shGKA"
+        },
+        {
+          "name": "Josh Sidhu",
+          "url": "https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW"
+        },
+        {
+          "name": "Sukhpreet Bal",
+          "url": "https://open.spotify.com/artist/1b0JMdV8aD2ZnQwdLR32Fp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Brooklyn Bars",
+      "url": "https://open.spotify.com/track/3yWebecWgFL0sa1t4x3T49"
     },
     {
       "album": {
@@ -1487,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Hood Icon",
+        "url": "https://open.spotify.com/album/4Sdgyge8bqZDDDFVzibg4B"
+      },
+      "artists": [
+        {
+          "name": "Manwal",
+          "url": "https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df"
+        },
+        {
+          "name": "Mahiwaal",
+          "url": "https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147391,
+      "name": "Hood Icon",
+      "url": "https://open.spotify.com/track/5bqKUqoC5XsagFow2zXq97"
+    },
+    {
+      "album": {
         "name": "Back To Skool",
         "url": "https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG"
       },
@@ -1520,7 +1586,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 269781,
       "name": "I.D.G.A.F",
       "url": "https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0"
@@ -1836,6 +1902,28 @@
       "duration_ms": 201351,
       "name": "LKLG",
       "url": "https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb"
+    },
+    {
+      "album": {
+        "name": "Maade Link",
+        "url": "https://open.spotify.com/album/46MaYPzbhzDI0umuNxZuqV"
+      },
+      "artists": [
+        {
+          "name": "Ish Dhankhar",
+          "url": "https://open.spotify.com/artist/1RT7HUjgIIhAmOMh8ZK6se"
+        },
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Maade Link",
+      "url": "https://open.spotify.com/track/6GH81vyJy19qwuCT7CZMBA"
     },
     {
       "album": {
@@ -2157,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "N.F.N.C",
+        "url": "https://open.spotify.com/album/7H5oPkPjTBdZr3NoxQXgSY"
+      },
+      "artists": [
+        {
+          "name": "Shaan Akash",
+          "url": "https://open.spotify.com/artist/3kDnVxyMfvWBv32likJ0fh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "N.F.N.C",
+      "url": "https://open.spotify.com/track/6tAw5yxfamm8EpOHzNOdlx"
+    },
+    {
+      "album": {
         "name": "Nawa Daur",
         "url": "https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU"
       },
@@ -2198,7 +2304,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 170298,
       "name": "Need You In My Life",
       "url": "https://open.spotify.com/track/0fjxS9cHzznHdYziuessOo"
@@ -2685,6 +2791,32 @@
     },
     {
       "album": {
+        "name": "Rich Life",
+        "url": "https://open.spotify.com/album/5jmBYAUyG3nqevklnEAnNO"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "DJ Shadow Dubai",
+          "url": "https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "Rich Life",
+      "url": "https://open.spotify.com/track/2vWFL9GDgCrAvycqWvPVj2"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
       },
@@ -2766,7 +2898,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199310,
       "name": "SEE ME FLY",
       "url": "https://open.spotify.com/track/4pYo1TRKCAiJagNY5a505C"
@@ -3051,6 +3183,28 @@
     },
     {
       "album": {
+        "name": "Three Years",
+        "url": "https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL"
+      },
+      "artists": [
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Three Years",
+      "url": "https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv"
+    },
+    {
+      "album": {
         "name": "To The Warrior",
         "url": "https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR"
       },
@@ -3180,7 +3334,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 146000,
       "name": "Udda Adda",
       "url": "https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn"
@@ -3220,7 +3374,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 145000,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/6iaZ3W10Oy9s8GgXq2TN28"
@@ -3342,7 +3496,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188903,
       "name": "WE COMIN",
       "url": "https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve"

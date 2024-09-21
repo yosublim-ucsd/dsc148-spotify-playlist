@@ -4,7 +4,7 @@
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-150 songs - 10 hr 28 min
+151 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 | 2021-10-15 |  |
 | [Friends Suck](https://open.spotify.com/track/42pO1zZememxps3eSEXfnp) | [Land Wars](https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O) | [Land Wars](https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb) | 3:54 | 2021-10-15 |  |
 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 | 2023-08-09 |  |
+| [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 | 2024-09-20 |  |
 | [Gagbox](https://open.spotify.com/track/6z4N82GIM8xcF4Crzb8irS) | [Table](https://open.spotify.com/artist/3CTWG4K6jaiMCZoi7GbpOq) | [Uncut](https://open.spotify.com/album/1KzBRYHx3eQQyRrMV15QXS) | 4:44 | 2021-10-15 | 2023-08-26 |
 | [Gatatttack!](https://open.spotify.com/track/37BCT0DzTS8gmZwnfIOHtK) | [Ikiatari](https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe) | [Randoom Process](https://open.spotify.com/album/3RlJQBE35uWsMTejPcz1Ld) | 3:24 | 2021-10-15 | 2022-07-29 |
 | [Gatatttack!](https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq) | [Ikiatari](https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe) | [Randoom Process](https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ) | 3:24 | 2022-05-20 | 2024-04-19 |
@@ -145,7 +146,7 @@
 | [Ukiyo](https://open.spotify.com/track/3Gp9E9NXg7JLVpQXV9y19D) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 5:13 | 2021-10-15 | 2022-05-21 |
 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 | 2021-10-15 |  |
 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 | 2021-10-15 |  |
-| [Voces iluminadas por sonrientes](https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc) | 4:44 | 2021-10-15 |  |
+| [Voces iluminadas por sonrientes](https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc) | 4:44 | 2021-10-15 | 2024-09-21 |
 | [Voces Iluminadas Por Sonrientes](https://open.spotify.com/track/5iTyb3SRN7rqXH9qjRlMUI) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/1Ik8CQhqiqQ2Z2Rm0ovN4Y) | 4:44 | 2024-04-03 | 2024-04-19 |
 | [Water Tanks](https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Water Tanks](https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh) | 2:32 | 2024-04-03 |  |
 | [Weird Circles](https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [X'ed Out](https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA) | 3:05 | 2021-10-15 |  |

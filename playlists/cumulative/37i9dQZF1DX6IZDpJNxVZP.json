@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113935,
+      "name": "12345 Once I Caught A Ghost Hi-Five!",
+      "url": "https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A"
+    },
+    {
+      "album": {
         "name": "Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol. 1",
         "url": "https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 235506,
       "name": "A Nightmare On My Street",
       "url": "https://open.spotify.com/track/6z1MBaO36cMLtBnlVjJP2b"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 83606,
       "name": "Adams Family Theme Song",
       "url": "https://open.spotify.com/track/170q55BUUCSdUrjS38hVjf"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 204652,
       "name": "Ain't No Party Like Halloween",
       "url": "https://open.spotify.com/track/2PSAudepLWTZgKx3hmTUpg"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 44500,
       "name": "Are You Afraid of the Dark Main Theme (From \"Are You Afraid of the Dark\") - Halloween Party Mix",
       "url": "https://open.spotify.com/track/0hnglJUALErhvkTGP4cJ0j"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 96709,
       "name": "Baby Ghost",
       "url": "https://open.spotify.com/track/5ojQFlYr2HgRxV8GPT6yAH"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188040,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 156548,
       "name": "Bumps in the Night",
       "url": "https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214879,
       "name": "Candy Girl",
       "url": "https://open.spotify.com/track/7JWdD53mrh74GCdkHR531r"
@@ -362,7 +380,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 82840,
       "name": "Casper The Friendly Ghost",
       "url": "https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 218400,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/2Ur5ADNf6q89b3HsEiE9LU"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 303760,
       "name": "Cruella De Vil - From \"101 Dalmatians\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173039,
       "name": "Ding-Dong! The Witch Is Dead",
       "url": "https://open.spotify.com/track/1pR2YLSmjE5XdXdrdiSKbY"
@@ -604,7 +622,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 142628,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/5yWfv221O1PWuEmq2FRMEn"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 125547,
       "name": "Five Little Ghosts",
       "url": "https://open.spotify.com/track/0ABAdoCdNORkJqMIB5rbwv"
@@ -763,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Kid Drew and the Kids Present: Spooky Halloween Party Music",
+        "url": "https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a"
+      },
+      "artists": [
+        {
+          "name": "Kid Drew and the Kids",
+          "url": "https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250146,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/0F1ghfgamafwXPJ9jZM7k0"
+    },
+    {
+      "album": {
         "name": "Arista Heritage Series: Ray Parker",
         "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
       },
@@ -810,7 +846,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 131506,
       "name": "Going to a Ghost Town",
       "url": "https://open.spotify.com/track/2iVCjCKBXRFKvvnsBUTxSh"
@@ -828,7 +864,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 142758,
       "name": "Gonna Get Me a Monster",
       "url": "https://open.spotify.com/track/5YaeRgZ2HFIoLGVHvO4JWK"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183387,
       "name": "Graveyard Dance-Off",
       "url": "https://open.spotify.com/track/0EdZLLA7xYslXoEvzby2So"
@@ -923,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Hallo Hallo Halloween",
+        "url": "https://open.spotify.com/album/2sfdJ8STL44UnED1yLE1R3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kalantari & the Jazz Cats",
+          "url": "https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132253,
+      "name": "Hallo Hallo Halloween",
+      "url": "https://open.spotify.com/track/7q9lXbpoaUcml6XnlelZhF"
+    },
+    {
+      "album": {
         "name": "Halloveen",
         "url": "https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy"
       },
@@ -941,6 +995,32 @@
     },
     {
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/7JcCk2d7OaWflzoS7194VP"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        },
+        {
+          "name": "Militia Vox",
+          "url": "https://open.spotify.com/artist/5nJlpeYsiIos5ymSqrMEpA"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3etvwGs35IThzIBQ64RHap"
+    },
+    {
+      "album": {
         "name": "Kids Trap Halloween",
         "url": "https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La"
       },
@@ -956,7 +1036,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 104306,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg"
@@ -974,7 +1054,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 147107,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK"
@@ -1046,7 +1126,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 219906,
       "name": "Halloween Floor is Lava",
       "url": "https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I"
@@ -1100,7 +1180,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206143,
       "name": "Halloween Night",
       "url": "https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg"
@@ -1154,7 +1234,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191699,
       "name": "Halloween Oh Halloween Song for Kids",
       "url": "https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I"
@@ -1190,7 +1270,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 134141,
       "name": "Halloween Party",
       "url": "https://open.spotify.com/track/7iqijTBAtZidxC3teIrGK9"
@@ -1208,7 +1288,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160000,
       "name": "Halloween Rules",
       "url": "https://open.spotify.com/track/22MrUsCoZsypVksOdgGBtJ"
@@ -1244,7 +1324,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158608,
       "name": "Halloween Song",
       "url": "https://open.spotify.com/track/1qMjcS1I4cvd04rvjadGI9"
@@ -1287,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137374,
+      "name": "Halloween Stomp",
+      "url": "https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7"
+    },
+    {
+      "album": {
         "name": "Halloween Train",
         "url": "https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU"
       },
@@ -1316,7 +1414,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 194560,
       "name": "Happy Halloween",
       "url": "https://open.spotify.com/track/6sXyNJtkTkLXny7HEtQIhb"
@@ -1334,7 +1432,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 172993,
       "name": "Happy Happy Halloween",
       "url": "https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh"
@@ -1352,7 +1450,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 309093,
       "name": "Hedwig's Theme",
       "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
@@ -1370,7 +1468,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158229,
       "name": "Hello, Trick or Treat?",
       "url": "https://open.spotify.com/track/0RcldlMDk4i2MRsbyHaEkq"
@@ -1442,7 +1540,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 73093,
       "name": "I Wanna Scare Myself",
       "url": "https://open.spotify.com/track/1rd06xXXXPuZsa1u4K5qwF"
@@ -1604,7 +1702,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200545,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3xshS12p6z39Vfvh02vayH"
@@ -1622,7 +1720,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 149302,
       "name": "Let's Get Spooky",
       "url": "https://open.spotify.com/track/2QAH8HPq0MBWj0MfiOKGPi"
@@ -1662,7 +1760,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/08itpTfeEyIcN8OvgBvN75"
@@ -1698,7 +1796,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 165346,
       "name": "Little Shop Of Horrors",
       "url": "https://open.spotify.com/track/7iWCPjc2yyewvw9P188RKn"
@@ -1734,7 +1832,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 123000,
       "name": "Love Potion No. 9",
       "url": "https://open.spotify.com/track/39iy7IwDAcxziFZoOW3SDE"
@@ -1788,7 +1886,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 167946,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
@@ -1868,7 +1966,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138511,
       "name": "Monster Monster Go Away",
       "url": "https://open.spotify.com/track/2OoCYK4mhTzm9OsgGTEaCJ"
@@ -1994,10 +2092,28 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 141600,
       "name": "Old MacDonald's Haunted Farm",
       "url": "https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96804,
+      "name": "On Halloween",
+      "url": "https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa"
     },
     {
       "album": {
@@ -2012,10 +2128,28 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 118586,
       "name": "Overture",
       "url": "https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs"
+    },
+    {
+      "album": {
+        "name": "A Laurie Berkner Halloween",
+        "url": "https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77226,
+      "name": "Peek-A-Boo Ghost",
+      "url": "https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC"
     },
     {
       "album": {
@@ -2048,7 +2182,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 123485,
       "name": "Peekaboo!",
       "url": "https://open.spotify.com/track/3q2cQTJP9EQGgeHfuHAj0E"
@@ -2084,7 +2218,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198052,
       "name": "Pokemon Theme",
       "url": "https://open.spotify.com/track/2VPRDWwo9NR9WcAjsLuKBl"
@@ -2160,7 +2294,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 134400,
       "name": "Purple People Eater",
       "url": "https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q"
@@ -2196,7 +2330,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 130500,
       "name": "Purple People Eater",
       "url": "https://open.spotify.com/track/6c2GhX5Gip3QamwhqSM3b0"
@@ -2214,7 +2348,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 141242,
       "name": "Rock-a-bye Ghoulie",
       "url": "https://open.spotify.com/track/1wgzJ8a7DwhvaUshgfDKuh"
@@ -2268,7 +2402,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 100560,
       "name": "Scooby Doo, Where Are You?",
       "url": "https://open.spotify.com/track/1qy4aJr8kyYObvdjF9UX5y"
@@ -2322,10 +2456,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "album": {
+        "name": "Preschool Halloween Songs",
+        "url": "https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140098,
+      "name": "Shake Them Skeleton Bones",
+      "url": "https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k"
     },
     {
       "album": {
@@ -2416,7 +2568,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 128208,
       "name": "Smelloween",
       "url": "https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g"
@@ -2578,7 +2730,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 227279,
       "name": "Somebody\u2019s Watching Me",
       "url": "https://open.spotify.com/track/2jwMh6fBHaTF1mS8v0fJQ3"
@@ -2596,7 +2748,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 46720,
       "name": "Spongebob Squarepants Theme",
       "url": "https://open.spotify.com/track/4cwAvEnJRST9QoKR2bGLIW"
@@ -2690,10 +2842,28 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 298760,
       "name": "Spooky Sounds",
       "url": "https://open.spotify.com/track/6IvQD1HKpSfTzEdiN42iui"
+    },
+    {
+      "album": {
+        "name": "Spooky Spiders Everywhere!",
+        "url": "https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258390,
+      "name": "Spooky Spiders Everywhere!",
+      "url": "https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63"
     },
     {
       "album": {
@@ -2780,7 +2950,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 67520,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
@@ -2806,6 +2976,24 @@
       "duration_ms": 186563,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5"
+    },
+    {
+      "album": {
+        "name": "Ha Ha Halloween",
+        "url": "https://open.spotify.com/album/2zn94cpcSZ5qkbZnOfMB4J"
+      },
+      "artists": [
+        {
+          "name": "Billy Kelly",
+          "url": "https://open.spotify.com/artist/090ICuz3ufLFq7nIWZD9tQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139707,
+      "name": "The Human Bash",
+      "url": "https://open.spotify.com/track/5ErlOvdivAtm0X4ahT8MyT"
     },
     {
       "album": {
@@ -2856,7 +3044,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 126986,
       "name": "The Munster's Theme",
       "url": "https://open.spotify.com/track/0BuXHYNppINIXDWRT79BtC"
@@ -3036,7 +3224,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 84210,
       "name": "The Simpsons Halloween Special Theme (From \"The Simpsons\") - Kids Halloween Party Mix",
       "url": "https://open.spotify.com/track/4tlJfR16fuW8pQwNVHLpjP"
@@ -3076,6 +3264,24 @@
       "duration_ms": 80262,
       "name": "The Skeleton Band",
       "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
+    },
+    {
+      "album": {
+        "name": "The Skeleton Shake",
+        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "The Skeleton Shake",
+      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
     },
     {
       "album": {
@@ -3234,7 +3440,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 330999,
       "name": "Thriller - Kids Halloween Party Mix",
       "url": "https://open.spotify.com/track/3buVhJpLfKO5hTxNw3mTgQ"
@@ -3252,7 +3458,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 85604,
       "name": "Time For Halloween",
       "url": "https://open.spotify.com/track/0j7NN6tiaAd9TpHSiM6XWR"
@@ -3332,7 +3538,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
@@ -3350,7 +3556,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 133615,
       "name": "Toilet Paper Mummy",
       "url": "https://open.spotify.com/track/5LiH5hCxDDxvFG2Zo2n8dr"
@@ -3512,7 +3718,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 113185,
       "name": "Troll Under My Bed",
       "url": "https://open.spotify.com/track/6Fm9c4RsLkazwV37PYhqjc"
@@ -3584,7 +3790,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 120859,
       "name": "We Love Halloween",
       "url": "https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE"
@@ -3674,7 +3880,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 222186,
       "name": "Werewolves Of London",
       "url": "https://open.spotify.com/track/2YB6oRXEKmgAcl9ON5capM"
@@ -3710,7 +3916,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171308,
       "name": "What Am I Gonna Be (For Halloween)?",
       "url": "https://open.spotify.com/track/6YzW96S4wiZ7HUBV4tG2MV"
@@ -3746,7 +3952,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168560,
       "name": "What Should I Be for Halloween?",
       "url": "https://open.spotify.com/track/2jh6FmnzLlqkE222YYs9jo"
@@ -3786,7 +3992,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155666,
       "name": "Which Witch Is Which?",
       "url": "https://open.spotify.com/track/0z35rHwhneq2HGJy3GtoH7"
@@ -3858,7 +4064,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 145226,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/7unF15gTsfTYA99K61gHw5"
@@ -3876,7 +4082,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160706,
       "name": "Witch Doctor",
       "url": "https://open.spotify.com/track/6MYgiBe0fh6YOr0m5dceRy"
@@ -3912,7 +4118,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 141964,
       "name": "Witch's Flight",
       "url": "https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr"
@@ -3930,7 +4136,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190266,
       "name": "Witchy Woman",
       "url": "https://open.spotify.com/track/2ue226HXGINwAKcb9ILXZE"
@@ -3948,7 +4154,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 284266,
       "name": "Yo, Ho! (A Pirate's Life For Me) - From \"Pirates of the Caribbean\"",
       "url": "https://open.spotify.com/track/2oj1WfUGiBa8eCyMx5D3I5"

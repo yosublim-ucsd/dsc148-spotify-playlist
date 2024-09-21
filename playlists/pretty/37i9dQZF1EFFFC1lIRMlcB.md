@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 19 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 |
 | 20 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 |
 | 21 | [Chances](https://open.spotify.com/track/7wCmZoT43houmTEBitP5bJ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:52 |
-| 22 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 |
-| 23 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
+| 22 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
+| 23 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 |
 | 24 | [Tem Algo Além](https://open.spotify.com/track/0BiZdeyfiC7OCswgTCwRb2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Familia Ponto](https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv) | 2:53 |
 | 25 | [Nyah](https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 0:50 |
 | 26 | [Toque de Amor](https://open.spotify.com/track/2LUBygSITjXkY1D0ozjhdS) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 2:58 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 43 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 44 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Abcl6gAAAAD2UPHVID0n2u+2Vj5w3mXw`
+Snapshot ID: `AbcrigAAAADhCI1R9QECtQo8LRtWKvKd`

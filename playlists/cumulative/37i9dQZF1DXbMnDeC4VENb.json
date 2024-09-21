@@ -893,6 +893,32 @@
     },
     {
       "album": {
+        "name": "Camuflaje",
+        "url": "https://open.spotify.com/album/2wkphVHKHAkRltmQy4VHkL"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259047,
+      "name": "Camuflaje",
+      "url": "https://open.spotify.com/track/0KVPZop01sUcUOFLl9AeVo"
+    },
+    {
+      "album": {
         "name": "Cara Bonita",
         "url": "https://open.spotify.com/album/5F8BSnBKdH0hCuDUjcsRpF"
       },
@@ -1054,6 +1080,28 @@
       "duration_ms": 201279,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/6xCltTC8YJC4JYQCfCbvuy"
+    },
+    {
+      "album": {
+        "name": "Cuanto Te Quiero",
+        "url": "https://open.spotify.com/album/2pVZlqqcCf4Pk0JSPFIlsU"
+      },
+      "artists": [
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/0jGb8pJxrEYSFlODVZ4k7D"
     },
     {
       "album": {
@@ -1598,6 +1646,32 @@
       "duration_ms": 174062,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE"
+    },
+    {
+      "album": {
+        "name": "Feliz Sin Ti",
+        "url": "https://open.spotify.com/album/3JgNrlhWSU0D0ltJo4GWne"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162862,
+      "name": "Feliz Sin Ti",
+      "url": "https://open.spotify.com/track/2lbfwbCyZ98mzVXImczWzz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6ZyV955Ypf3JAKInn1a0dt\">Tamela Mann</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6YedxQjw8pGzw9B8owaEnF\">Bri Babineaux</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 134392,
       "name": "Baptize",
       "url": "https://open.spotify.com/track/0stdRf8zV7vRZwoZaZ2HIK"
@@ -1654,6 +1654,24 @@
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+    },
+    {
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/6bFMGrmJuqfo0BKm2jBLK4"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/5Of5f3g3uScOZ1IwmvvJ6L"
     },
     {
       "album": {
@@ -2682,6 +2700,24 @@
       "duration_ms": 209835,
       "name": "God Did It Again (Tell Somebody)",
       "url": "https://open.spotify.com/track/09pmbyyDfc2xCPOGVjOXnU"
+    },
+    {
+      "album": {
+        "name": "God Don't Cancel Me",
+        "url": "https://open.spotify.com/album/4EyORqTnoGUTZic7Gj1kLQ"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243941,
+      "name": "God Don't Cancel Me",
+      "url": "https://open.spotify.com/track/7CTxzliPUl1ZVSnLvG6G11"
     },
     {
       "album": {
@@ -6899,6 +6935,32 @@
     },
     {
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Christian Spaulding",
+          "url": "https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278952,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
+    },
+    {
+      "album": {
         "name": "Mr. McClure",
         "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
@@ -7474,7 +7536,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179528,
       "name": "Nobody Can Take It",
       "url": "https://open.spotify.com/track/7yDmnwq3n1bwBMmOIRDRlG"
@@ -9394,7 +9456,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 726296,
       "name": "Sustain - Live",
       "url": "https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f"

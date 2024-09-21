@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "Captain Jack (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184596,
+      "name": "Captain Jack (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
+    },
+    {
+      "album": {
         "name": "Chase the Sun",
         "url": "https://open.spotify.com/album/27Ulfmzit6ZMuVB9rpWuFY"
       },
@@ -2734,7 +2756,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144778,
       "name": "Love Don\u2019t Let Me Go - Hardstyle",
       "url": "https://open.spotify.com/track/0bBjU098TWO8AFkDikqOlb"

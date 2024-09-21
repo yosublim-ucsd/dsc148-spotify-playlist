@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 248256,
       "name": "Aba - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw"
@@ -1612,6 +1612,28 @@
       "duration_ms": 242005,
       "name": "Mais Que Uma Voz",
       "url": "https://open.spotify.com/track/1RlwQdnnfFYIIPEnYj6yI8"
+    },
+    {
+      "album": {
+        "name": "Manh\u00e3s",
+        "url": "https://open.spotify.com/album/6Y4133hR1mTBs2eLU1xOBy"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        },
+        {
+          "name": "Julia Weber",
+          "url": "https://open.spotify.com/artist/2R1F930UQcZvfatMtQMNOJ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160269,
+      "name": "Manh\u00e3s",
+      "url": "https://open.spotify.com/track/17r278VUtXd0jcjD7tqp8P"
     },
     {
       "album": {

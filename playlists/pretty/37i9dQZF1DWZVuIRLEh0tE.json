@@ -1,13 +1,37 @@
 {
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Myke Towers, NTG",
-  "num_followers": 247926,
+  "description": "Porque no to' e' Dembow en RD loco. Portada: NTG, Eklectico Diablo",
+  "num_followers": 248039,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAACo6O+YRuuO3sPJ/Eby7WWD",
+  "snapshot_id": "ZuzzQAAAAADrBlrqh1zBEHUtjw2JH2q8",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/7JuG5kVRpcb1X0BEr6Bo7W"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Eklectico Diablo",
+          "url": "https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P"
+    },
     {
       "added_at": "2024-04-01 19:33:45",
       "album": {
@@ -67,6 +91,22 @@
       "duration_ms": 231909,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Yo La Hice",
+        "url": "https://open.spotify.com/album/4c4assoTbDKNlDIW1EoUG4"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Yo La Hice",
+      "url": "https://open.spotify.com/track/70F0k0UV7xjiRa9OKdiDgx"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -141,6 +181,30 @@
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Complica",
+        "url": "https://open.spotify.com/album/66bj14eFKv809tPNqWWtv0"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "El Shady",
+          "url": "https://open.spotify.com/artist/0ToyMab3qltWSVZ0lIcQRX"
+        },
+        {
+          "name": "Sammy The Greatest",
+          "url": "https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3"
+        }
+      ],
+      "duration_ms": 164685,
+      "name": "Complica",
+      "url": "https://open.spotify.com/track/27b76PzCv4b3aejZnuRiXu"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "La Baby (feat. La Perversa)",
@@ -199,6 +263,26 @@
       "duration_ms": 129334,
       "name": "Cierra La Puerta",
       "url": "https://open.spotify.com/track/4jz9oKHdzwfNZAJXGN3GuZ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/3ca7ypBjEx4bV3hOUNjSCK"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 148312,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/5adAAB0zz4rxFawwMgSEk8"
     },
     {
       "added_at": "2024-09-05 14:11:57",
@@ -279,6 +363,22 @@
       "duration_ms": 159477,
       "name": "EBRIO",
       "url": "https://open.spotify.com/track/0c1ctKLU6NrzBXYJBz8z4p"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/69FycqUCkYcYLxhHbTMZqq"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 123022,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/6r8x7S6rR1bmO49Ol5p5Us"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -441,6 +541,26 @@
       "url": "https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/5pnzut4B826y2a1WcEOiqE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "duration_ms": 139742,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
+    },
+    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Me Hace Falta",
@@ -517,6 +637,26 @@
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Corone - Reloaded",
+        "url": "https://open.spotify.com/album/3WmL2LHeZndBDiABhZSEaj"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1on Rap",
+          "url": "https://open.spotify.com/artist/6YWX0GdWgcDiiIvlqWepgC"
+        },
+        {
+          "name": "Topo La Maskara",
+          "url": "https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP"
+        }
+      ],
+      "duration_ms": 164328,
+      "name": "Corone - Reloaded",
+      "url": "https://open.spotify.com/track/6moIpVLUnxSDQ8mRc625yr"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tu Va Dobla ?",
@@ -583,6 +723,22 @@
       "duration_ms": 148033,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/0rzUSTErFqeg5SDpHm5Flz"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "SENSUAL, Vol. 2",
+        "url": "https://open.spotify.com/album/512Fin3ODZ2YXqMLJOZMR0"
+      },
+      "artists": [
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "BIENVENIDA",
+      "url": "https://open.spotify.com/track/2H8z2WCbm3l6SjKZDfhyvS"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -663,6 +819,26 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Haciendote La Loca",
+        "url": "https://open.spotify.com/album/5O4yLxg3ogUyGXIMmOQyZv"
+      },
+      "artists": [
+        {
+          "name": "Liil Jay",
+          "url": "https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru"
+        },
+        {
+          "name": "Gigolo",
+          "url": "https://open.spotify.com/artist/6TsuGgwwRPhFWboZ1ikHhZ"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Haciendote La Loca",
+      "url": "https://open.spotify.com/track/1WkEWpNQH2mb27aDv6GDge"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -747,6 +923,26 @@
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Te Ves Bien",
+        "url": "https://open.spotify.com/album/2oiwZxmFRxffkLp9thVzID"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        },
+        {
+          "name": "Gigolo",
+          "url": "https://open.spotify.com/artist/6TsuGgwwRPhFWboZ1ikHhZ"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "Te Ves Bien",
+      "url": "https://open.spotify.com/track/19IqTacYXj2JJSu8JdkEOu"
     },
     {
       "added_at": "2023-07-18 04:00:00",

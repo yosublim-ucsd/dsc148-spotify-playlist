@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto:  Rincon Sapiência, Mc Luki
 
-540 songs - 1 day 4 hr 21 min
+541 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Cartas](https://open.spotify.com/track/5L0w4gRHKGfFy3ZUlBYunb) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Cartas](https://open.spotify.com/album/7mJNXzEsl9ZbmZBzcqhZNd) | 3:32 | 2024-06-21 |  |
 | [Caso Cerrado](https://open.spotify.com/track/3jQXBjRY7j6WNKEq6ZByc9) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Caso Cerrado](https://open.spotify.com/album/7JjO9lvCXBvWBf9edW9FEc) | 3:24 | 2022-08-05 | 2022-08-27 |
 | [Caso Toca Meu Som](https://open.spotify.com/track/4A6f7kAieGGqlk7XF98NCi) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [OTUS500](https://open.spotify.com/artist/5TdG0jBIKHn7Yd5uvBcjH1) | [Caso Toca Meu Som](https://open.spotify.com/album/69ol99UrEIWc0vGZOhgrwm) | 2:34 | 2024-05-31 | 2024-06-08 |
-| [Castelos de Papel](https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:40 | 2024-08-09 |  |
+| [Castelos de Papel](https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:40 | 2024-08-09 | 2024-09-21 |
 | [Caça e Caçadora](https://open.spotify.com/track/5TtztrnfY1e0GCILeeANue) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Feat Saci](https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML) | [Feat Saci \#12](https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0) | 3:14 | 2023-09-08 | 2023-12-02 |
 | [Ce Ñ Viu](https://open.spotify.com/track/0qIUxTynOqz0uG5XX31Kxc) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NVV](https://open.spotify.com/album/6TpHI1VJgqkrLq87qZZox2) | 2:03 | 2023-10-27 | 2023-11-18 |
 | [Centrão Nervoso](https://open.spotify.com/track/5j7tP2sdKax0UjNFbUMgTu) | [iann guxtavo](https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3), [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [Elleven](https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW) | [Centrão Nervoso](https://open.spotify.com/album/5UPasMcuZ8QxI8DfuKnTki) | 2:08 | 2024-05-20 |  |
@@ -467,6 +467,7 @@
 | [Sistema](https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Cold Jas](https://open.spotify.com/artist/4QpdIDbwY9wKmcobBWYy3b) | [Rap Jazz](https://open.spotify.com/album/0jLhKfh37Uq5M4Y4Sr3IiY) | 2:06 | 2023-04-21 | 2023-05-20 |
 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 | 2022-05-06 | 2024-02-17 |
 | [Soldado sem Coração](https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM) | [Boaventura](https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Soldado sem Coração](https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ) | 2:20 | 2023-03-03 | 2023-03-25 |
+| [Solidão e Arte](https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Solidão e Arte](https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m) | 2:42 | 2024-09-20 |  |
 | [Solta Minha Blusa](https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Autodomínio](https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc) | 1:57 | 2023-07-28 |  |
 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 | 2022-07-22 | 2023-05-27 |
 | [SOLTO](https://open.spotify.com/track/0pmHuWQ6n8zYdAjcG85zKA) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/2y9NHQDJMsOMIVY5dECoWe) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/4mgTW0NU3fjNBxHdKOJoRr) | 3:39 | 2022-03-18 | 2022-07-29 |

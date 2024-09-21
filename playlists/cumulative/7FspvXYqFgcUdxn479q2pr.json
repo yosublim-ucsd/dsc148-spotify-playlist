@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155748,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847"
+    },
+    {
+      "album": {
         "name": "Dominvs",
         "url": "https://open.spotify.com/album/1wBZLbVJNcZKreOd8qy10R"
       },
@@ -2288,6 +2306,24 @@
       "duration_ms": 181178,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG"
+    },
+    {
+      "album": {
+        "name": "Here I Am EP",
+        "url": "https://open.spotify.com/album/7GQPdmanLRRL6HCI4ygzPg"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187534,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/5nhejmamkDcQVumjP28eOg"
     },
     {
       "album": {
@@ -5492,6 +5528,32 @@
       "duration_ms": 169007,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/0okW8DpLYyl4oPfDAFZsiT"
+    },
+    {
+      "album": {
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Talk About Us",
+      "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
     },
     {
       "album": {

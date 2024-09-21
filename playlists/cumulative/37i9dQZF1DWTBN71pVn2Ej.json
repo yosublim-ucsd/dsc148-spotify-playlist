@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "(Re)-Extract",
+        "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "(Re)-Extract",
+      "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "album": {
         "name": "1% Milk",
         "url": "https://open.spotify.com/album/6aP8d9w80CWYhWH66TCvS8"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 318871,
       "name": "Always - Single Edit",
       "url": "https://open.spotify.com/track/75y2zIjimdvfiDCVvACXlf"
@@ -1526,6 +1548,24 @@
       "duration_ms": 164733,
       "name": "BULLET",
       "url": "https://open.spotify.com/track/5CwWPLxLSeqiWmUHWyEB3z"
+    },
+    {
+      "album": {
+        "name": "Bummer",
+        "url": "https://open.spotify.com/album/3RHuYY1jbnShOlA6oFJizK"
+      },
+      "artists": [
+        {
+          "name": "Quiet",
+          "url": "https://open.spotify.com/artist/3ZSOj3qDBoxk64W3eMoSZt"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216237,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/2bsXX12sUES1qD2zX7mgZT"
     },
     {
       "album": {
@@ -3274,7 +3314,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 228000,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/0LMhSezHEY78J21acctfVY"
@@ -3530,6 +3570,24 @@
       "duration_ms": 210480,
       "name": "Drip From The Fountain",
       "url": "https://open.spotify.com/track/7IoSvKuWY2AYDLbfBl3S3d"
+    },
+    {
+      "album": {
+        "name": "Drop Me Out",
+        "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237122,
+      "name": "Drop Me Out",
+      "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
     },
     {
       "album": {
@@ -4968,7 +5026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191290,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB"
@@ -7728,7 +7786,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 241560,
       "name": "Nothing To Learn From",
       "url": "https://open.spotify.com/track/2FpLt3pwp8h9WygkC5XLci"
@@ -8016,7 +8074,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164049,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137"
@@ -8488,6 +8546,24 @@
       "duration_ms": 188402,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6wzhNHxTBGvcUuNOl4jG9X"
+    },
+    {
+      "album": {
+        "name": "Punch Jam",
+        "url": "https://open.spotify.com/album/2U3IlwloBbX5LuQDtcX4ux"
+      },
+      "artists": [
+        {
+          "name": "Homesafe",
+          "url": "https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85280,
+      "name": "Punch Jam",
+      "url": "https://open.spotify.com/track/0UC67E3HuWNmfXPIlYUGID"
     },
     {
       "album": {
@@ -9392,6 +9468,24 @@
       "duration_ms": 135682,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45"
+    },
+    {
+      "album": {
+        "name": "Slide 2 Me",
+        "url": "https://open.spotify.com/album/1Sp5CW0MLLNr5jVqlEn6zi"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Slide 2 Me",
+      "url": "https://open.spotify.com/track/0nB4xFTYsIMUon9vQdPnIG"
     },
     {
       "album": {

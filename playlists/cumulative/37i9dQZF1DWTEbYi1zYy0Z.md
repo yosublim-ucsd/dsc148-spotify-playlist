@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-477 songs - 1 day 9 hr 46 min
+478 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [This Time Around \(Radio Version\)](https://open.spotify.com/track/3gLRVrB27WFfu0EnpiO6UG) | [Four80East](https://open.spotify.com/artist/2xiHxT5QkkxHVhljrRGbW9) | [This Time Around \(Radio Version\)](https://open.spotify.com/album/0H21NRwSaH33O0jiXZNwTC) | 4:24 | 2023-08-04 |  |
 | [Ticket to Pittsburgh](https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh](https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7) | 5:23 | 2022-04-29 | 2023-04-15 |
 | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Ticket to Pittsburgh Roundtrip](https://open.spotify.com/album/6MbLLwq7JSEllOn6cEg103) | 8:29 | 2023-08-11 |  |
-| [Tighten Up](https://open.spotify.com/track/2UbVCeUDdrTeEPOXNep8AW) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb) | [Tighten Up](https://open.spotify.com/album/6zxIf0gr0GqrDBJNi7wvSi) | 4:19 | 2024-03-08 |  |
+| [Tighten Up](https://open.spotify.com/track/2UbVCeUDdrTeEPOXNep8AW) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb) | [Tighten Up](https://open.spotify.com/album/6zxIf0gr0GqrDBJNi7wvSi) | 4:19 | 2024-03-08 | 2024-09-21 |
 | [Time Out](https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/6belLLcGyIpignX9wYStN8) | 4:29 | 2024-04-19 |  |
 | [Timelines \(Alto sax\)](https://open.spotify.com/track/3J01LedVe3Q0gMQmkdHQwG) | [LeSend](https://open.spotify.com/artist/0fRyjG92ERQSAF2LCpXnGA), [Alfonso Gugliucci](https://open.spotify.com/artist/7o2w7PcKeBdqCg0uvvKbgJ), [Mio Costans](https://open.spotify.com/artist/3NBy5bUfAVtcQZZiWFz3er), [Albert Fratris](https://open.spotify.com/artist/4jqRqGYJTBEyO7LybN062o), [Lenny Sendersky](https://open.spotify.com/artist/72xyMrVI7xrI9EChbkiMUZ) | [Timelines \(Alto sax\)](https://open.spotify.com/album/4s9v6WCuvJTIeKRO6xSvaT) | 4:02 | 2024-01-26 |  |
 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 | 2020-10-30 | 2022-03-18 |
@@ -448,6 +448,7 @@
 | [Tried and True](https://open.spotify.com/track/5nBPBnrLdedTDobt38Ysmn) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Faraway Place](https://open.spotify.com/album/1HrezZYFI96JpaFUMZwMb1) | 4:08 | 2021-07-30 | 2022-09-17 |
 | [Tried and True](https://open.spotify.com/track/2eQO1G2jfHGNgGxqkLZUX9) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Tried and True](https://open.spotify.com/album/7wW56huPgJM6uMla5gEOgW) | 3:42 | 2020-10-30 | 2022-03-18 |
 | [Trust and Faith](https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/3B0Tscyvv4uOmn7HpB3XiL) | 4:18 | 2020-10-30 | 2022-02-28 |
+| [Twenty \(feat\. Michael Broening\)](https://open.spotify.com/track/1U3hZGaKKOsJzCJikh2v6A) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Twenty](https://open.spotify.com/album/70SDL3x5FCRVLJXQJPCVe6) | 4:12 | 2024-09-20 |  |
 | [Twilight](https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Twilight](https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE) | 4:33 | 2023-09-15 | 2024-04-19 |
 | [U Don't Have to Call](https://open.spotify.com/track/7LFTV9YBKxfsWqouuNEZaO) | [Ashton Blaak](https://open.spotify.com/artist/0aRgfhwMDvZE1pU7Z9RaRU) | [U Don't Have to Call](https://open.spotify.com/album/7v0DsbaCNpHuK3T9FW1T5z) | 2:50 | 2021-05-28 | 2022-02-26 |
 | [U Groove](https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [U Groove](https://open.spotify.com/album/4pWAAnjOEONxjQ3yo6OuM5) | 4:18 | 2023-08-11 |  |

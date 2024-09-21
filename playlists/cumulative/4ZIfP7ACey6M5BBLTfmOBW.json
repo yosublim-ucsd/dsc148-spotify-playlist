@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 121379,
       "name": "8 Ball",
       "url": "https://open.spotify.com/track/4W4Vg8NsdbI0Bl9CZo0Uf4"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174000,
       "name": "Big Mama",
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 90647,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/4W6orj6Dwn2k5puHmfqPzS"
@@ -1136,10 +1136,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138549,
       "name": "copy my drip",
       "url": "https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv"
+    },
+    {
+      "album": {
+        "name": "CRAZY H*ES",
+        "url": "https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138121,
+      "name": "CRAZY H*ES",
+      "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
     },
     {
       "album": {
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 133762,
       "name": "Gets Like",
       "url": "https://open.spotify.com/track/4gPU4zAhNBcwuszTQqyucg"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 102400,
       "name": "Ghost Girl",
       "url": "https://open.spotify.com/track/3Vlnx0zaLZeE9c0sICoPGN"
@@ -2711,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "MANIFESTO",
+        "url": "https://open.spotify.com/album/2Y80MSXGMP6clMXOoAbfg9"
+      },
+      "artists": [
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169677,
+      "name": "I.D.F.A.",
+      "url": "https://open.spotify.com/track/1DOwQW2wD2ssjaNmo4wGVD"
+    },
+    {
+      "album": {
         "name": "If I Was President",
         "url": "https://open.spotify.com/album/76WK1kfEroOSnApruiFyoR"
       },
@@ -3266,7 +3302,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 114012,
       "name": "luvmethesame",
       "url": "https://open.spotify.com/track/1qKyLFwBYri2AFsEwdhtVX"
@@ -3722,7 +3758,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 109714,
       "name": "No IG",
       "url": "https://open.spotify.com/track/50ZpkS36DgbEj8qkL3JHG5"
@@ -3869,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "NYU",
+        "url": "https://open.spotify.com/album/6TS5odKzjiRtU4qUG8DOdx"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179615,
+      "name": "NYU",
+      "url": "https://open.spotify.com/track/7C2DcJh8ZJzWgRYgsOawoH"
+    },
+    {
+      "album": {
         "name": "Off White Rozay",
         "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
       },
@@ -3884,6 +3938,28 @@
       "duration_ms": 149313,
       "name": "Off White Rozay",
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
+    },
+    {
+      "album": {
+        "name": "Oh Shit (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/5cy5dMWl2Gz2tmWNu5UST2"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160233,
+      "name": "Oh Shit (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/347YDsxprbGCtoZylsyBAp"
     },
     {
       "album": {
@@ -4665,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "Shook",
+        "url": "https://open.spotify.com/album/2xg5NDWClAo5aGIwJxi4mQ"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82025,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/1HSW6qEOWPcXSayqGK5kgt"
+    },
+    {
+      "album": {
         "name": "Shoot Up Your Block",
         "url": "https://open.spotify.com/album/3i1fJu9ltoYWvpfPAJFHsg"
       },
@@ -4902,6 +4996,24 @@
       "duration_ms": 165645,
       "name": "Special (feat. Skilla Baby & Flo Milli)",
       "url": "https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr"
+    },
+    {
+      "album": {
+        "name": "Spill The Tea",
+        "url": "https://open.spotify.com/album/6vnz3Rk20X8evaJJuVl5AO"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Spill The Tea",
+      "url": "https://open.spotify.com/track/1iguChASZXHGVIpf96tb3B"
     },
     {
       "album": {
@@ -5171,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133893,
+      "name": "the way i see things",
+      "url": "https://open.spotify.com/track/2Ku34RwdypCEfVJyxQIfyI"
+    },
+    {
+      "album": {
         "name": "There's A Way (feat. KayCyy)",
         "url": "https://open.spotify.com/album/0IuLwJb4zqyyIUlU3c4X3N"
       },
@@ -5300,6 +5430,24 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205730,
+      "name": "TOO FAST",
+      "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-190 songs - 10 hr 49 min
+191 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 |  |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
+| [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 |  |
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 |  |
@@ -79,7 +80,7 @@
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 |  |
 | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz), [Frida Andersson](https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR) | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 | 2024-06-27 | 2024-08-23 |
-| [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 |  |
+| [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-21 |
 | [I Keep On Falling in Love](https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [I Keep On Falling in Love](https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB) | 3:30 | 2024-06-27 | 2024-08-30 |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
 | [I våra händer](https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8) | [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [I våra händer](https://open.spotify.com/album/6Ss8sf2hBctLpp5yfVTWio) | 3:22 | 2024-06-27 | 2024-08-09 |

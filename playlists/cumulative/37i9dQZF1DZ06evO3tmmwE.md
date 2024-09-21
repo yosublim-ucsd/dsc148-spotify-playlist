@@ -2,7 +2,7 @@
 
 ### [This Is Bo Bundy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tmmwE)
 
-> This is Bo Bundy\. The essential tracks, all in one playlist.
+> This is Bo Bundy\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 55 songs - 2 hr 30 min
 

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Stree 2
+> Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
 365 songs - 23 hr 48 min
 

@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-99 songs - 5 hr 54 min
+103 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Abarajame](https://open.spotify.com/track/0CNAg3D3Ox1MggIed6Ktcs) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Abarajame](https://open.spotify.com/album/2nBayLIl2VnOCQo7EdCsbw) | 3:04 | 2021-05-13 | 2024-06-01 |
 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 | 2021-05-13 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2021-05-13 |  |
+| [Agua de Rio](https://open.spotify.com/track/2j8Q8feaRuV8JSD4cM9PCk) | [César Iván](https://open.spotify.com/artist/0FbElMinO7597uQdQNvIIR), [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj), [David Filio](https://open.spotify.com/artist/5jVIKY4wYJj5fRqrbVWs9y) | [Agua de Rio](https://open.spotify.com/album/0uoQHOM4W0LnvCReAOJkRr) | 3:13 | 2024-09-20 |  |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-07-28 |  |
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-19 |  |
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
@@ -79,6 +80,7 @@
 | [Monitor \- Acoustic](https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 4:18 | 2021-05-13 |  |
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-26 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
+| [No Dudaría](https://open.spotify.com/track/7m9zoqomVDsBMQdhKTHr8g) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Dudaría](https://open.spotify.com/album/0QS4V8TKpiBtI8hJyEOkAj) | 4:08 | 2024-09-20 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |
 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 | 2021-05-13 | 2024-08-31 |
 | [Nuestro Amor](https://open.spotify.com/track/0qqaTcKnDSa779ZiauSryr) | [Rojoazul](https://open.spotify.com/artist/0RLx3pe3KWaETFKzbvvtWv) | [Nuestro Amor](https://open.spotify.com/album/4lCrBv0SbaUDLIWjpUpdKe) | 3:34 | 2023-02-24 |  |
@@ -96,6 +98,7 @@
 | [Rubén Darío](https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ) | [Ray Coyote](https://open.spotify.com/artist/37PhbUQE6PD7dg6wnHqFth) | [Ray Coyote II: Ojos De La Sierra](https://open.spotify.com/album/50QIvqQyh7MhRxso4qIqIP) | 3:16 | 2023-02-24 |  |
 | [Si es que estás ahí](https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem) | [Paulo Fuerte](https://open.spotify.com/artist/1msYSykwIu05HEXvjN5Xn8) | [Si es que estás ahí](https://open.spotify.com/album/3XyVBfhzIszwjcMorHU4JO) | 3:11 | 2023-05-19 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-27 |  |
+| [Somos Dos](https://open.spotify.com/track/4WocUhEaddRdk1jE6mz8A7) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Somos Dos](https://open.spotify.com/album/00zkN4hk1vSBNrH3D9b3zl) | 3:00 | 2024-09-20 |  |
 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 | 2021-05-13 |  |
 | [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-08 |  |
 | [Temo](https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S) | [Temporada de Girasoles](https://open.spotify.com/artist/3ZZ9qm23N4C9cfHeeb2u6i) | [Temo](https://open.spotify.com/album/4Jvwh8dMjgsSiF40g9NDwo) | 4:30 | 2023-05-19 |  |
@@ -104,6 +107,7 @@
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |
 | [Veneno Vil](https://open.spotify.com/track/5Tuesi0A7MxD6nU2UoHt00) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Veneno Vil](https://open.spotify.com/album/0DzCTqhV9LpnFSYYNVAgsE) | 3:13 | 2021-05-13 |  |
+| [Vuelvo a ser](https://open.spotify.com/track/6qbqw8UEeW7uASjgqZ71B7) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Vuelvo a ser](https://open.spotify.com/album/3Ze9vfK4F0H2SaLCUknEyH) | 2:43 | 2024-09-20 |  |
 | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/track/340jugUb06Yq0CwiUnZT50) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/album/61P20Js8bZj20akjMyHqdY) | 2:49 | 2024-05-03 |  |
 | [Ya No Llores Más](https://open.spotify.com/track/4lOmtrxu0fqqJXoA61zuUa) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Ya No Llores Más](https://open.spotify.com/album/3WF0Dh8UqHVhLOptDetOUE) | 3:00 | 2024-05-03 |  |
 | [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |

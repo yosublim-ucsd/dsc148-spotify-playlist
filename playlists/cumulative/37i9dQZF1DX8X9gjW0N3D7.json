@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: J\u00e9r\u00f4me 50",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Le secret",
+        "url": "https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Le secret",
+      "url": "https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE"
+    },
+    {
+      "album": {
         "name": "Demain il fera beau",
         "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
       },
@@ -1282,6 +1300,24 @@
       "duration_ms": 241384,
       "name": "Quand il s'en va",
       "url": "https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo"
+    },
+    {
+      "album": {
+        "name": "Quelque part",
+        "url": "https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe"
+      },
+      "artists": [
+        {
+          "name": "Annie Villeneuve",
+          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Quelque part",
+      "url": "https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO"
     },
     {
       "album": {
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198077,
       "name": "Tu me fais tout oublier",
       "url": "https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 193254,
       "name": "\u00catre moi",
       "url": "https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ"

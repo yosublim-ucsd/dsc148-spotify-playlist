@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 134294,
       "name": "Big Benz",
       "url": "https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC"
@@ -8344,6 +8344,32 @@
       "duration_ms": 145851,
       "name": "N.47",
       "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
+    },
+    {
+      "album": {
+        "name": "LEGGENDARIO",
+        "url": "https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI"
+      },
+      "artists": [
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "NA/RM (feat. Yung Snapp, MV Killa)",
+      "url": "https://open.spotify.com/track/3BO6xH8rcVVNCzQUpV8UAt"
     },
     {
       "album": {

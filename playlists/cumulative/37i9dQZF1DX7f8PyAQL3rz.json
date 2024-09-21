@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Amanhecer",
+        "url": "https://open.spotify.com/album/3wzMqY5TFhkPCV6finEEpB"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Amanhecer",
+      "url": "https://open.spotify.com/track/4gBkaTHZMbg6TqT0xxT0hy"
+    },
+    {
+      "album": {
         "name": "Amor e Amor",
         "url": "https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe"
       },
@@ -1326,6 +1348,32 @@
       "duration_ms": 380689,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0XQqDiOmHFnITVwNohti8w"
+    },
+    {
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/6kI80piW4PlfpcpPFQEedW"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223298,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/6DsIkJERJY1IOS7LfM7jDK"
     },
     {
       "album": {
@@ -2144,7 +2192,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 181124,
       "name": "C\u00ea que p\u00f4s o fim",
       "url": "https://open.spotify.com/track/2dEh3OjLF6cKuZRCOwYncC"
@@ -4578,7 +4626,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 285000,
       "name": "Isso \u00e9 S\u00e9rio",
       "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"

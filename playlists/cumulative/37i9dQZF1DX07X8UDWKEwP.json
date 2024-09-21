@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "Cala En El Alma",
+        "url": "https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181472,
+      "name": "Cala En El Alma",
+      "url": "https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD"
+    },
+    {
+      "album": {
         "name": "Cali Buenaventura",
         "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
@@ -3944,6 +3966,62 @@
       "duration_ms": 213892,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/0awFFNXz16071v0bVTFOJi"
+    },
+    {
+      "album": {
+        "name": "Ibiza (Merengue Remix)",
+        "url": "https://open.spotify.com/album/0HYgPJV6ghBjVWmzVH6mHM"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200371,
+      "name": "Ibiza - Merengue Remix",
+      "url": "https://open.spotify.com/track/6cvHS1QEXpUGGWOJMGQwiK"
+    },
+    {
+      "album": {
+        "name": "Imaginate",
+        "url": "https://open.spotify.com/album/392UFfjeAUuKwCJns8T5lg"
+      },
+      "artists": [
+        {
+          "name": "Manny Rod",
+          "url": "https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv"
+        },
+        {
+          "name": "Frank Santos",
+          "url": "https://open.spotify.com/artist/7a6MDGQsPtRUbENWSjTjhf"
+        },
+        {
+          "name": "Dimen5ions",
+          "url": "https://open.spotify.com/artist/78bzUCJmEsEgENTy7rjMCV"
+        },
+        {
+          "name": "Airin Music",
+          "url": "https://open.spotify.com/artist/1UJYX9dJRliP8NxJ7Am7oX"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Imaginate",
+      "url": "https://open.spotify.com/track/5tVRV2dEkTRfZS3MUdb140"
     },
     {
       "album": {

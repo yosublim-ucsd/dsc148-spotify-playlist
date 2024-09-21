@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 0 min
+60 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Release I Need \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Release I Need \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z) | 3:23 | 2024-05-14 |  |
 | [Runnin'](https://open.spotify.com/track/5pWPw4q8b9fMxnAii10mpQ) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Boiling Point](https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65) | 2:18 | 2024-05-14 |  |
 | [Say Yes \- Radio Edit](https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Say Yes](https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf) | 3:30 | 2024-08-24 | 2024-08-25 |
-| [Selfish \(feat\. Kelli\-Leigh & YOU\)](https://open.spotify.com/track/1Mb4DktDtZNcg0d0OuQypw) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Wide Awake](https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY) | 3:25 | 2024-05-14 |  |
+| [Selfish \(feat\. Kelli\-Leigh & YOU\)](https://open.spotify.com/track/0sbfgeGucib89oZVphmISx) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 3:25 | 2024-09-21 |  |
+| [Selfish \(feat\. Kelli\-Leigh & YOU\)](https://open.spotify.com/track/1Mb4DktDtZNcg0d0OuQypw) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Wide Awake](https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY) | 3:25 | 2024-05-14 | 2024-09-21 |
 | [So Good](https://open.spotify.com/track/01fBZdUaSQRqVrxpKzV2dj) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ten Ven](https://open.spotify.com/artist/0ZSLz27xUnI816MMtYfLMI), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [So Good](https://open.spotify.com/album/6pKDEaJxcjq8mGAxWCQDyW) | 3:54 | 2024-05-14 |  |
 | [So Real](https://open.spotify.com/track/0Y1Qdnb7rvqGYj5yp3Pwcu) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Clubland 27](https://open.spotify.com/album/1lpBT7xlHsaxUvVQthNDuG) | 2:37 | 2024-05-14 |  |
 | [Streets Of Gold](https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Streets Of Gold](https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo) | 3:00 | 2024-05-14 |  |

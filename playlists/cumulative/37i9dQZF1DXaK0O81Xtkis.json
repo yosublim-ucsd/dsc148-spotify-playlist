@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Fly By Midnight",
+  "description": "make it pop! cover: eaJ",
   "name": "soda",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169026,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/7ro64nLWTBmKcj2cTNg7dH"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158000,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/0X3uitVppwidFzK2GUDehH"
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "ballerina",
+        "url": "https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "ballerina",
+      "url": "https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186405,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 149690,
       "name": "burn",
       "url": "https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu"
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 184617,
       "name": "Espresso - triple j Like A Version",
       "url": "https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s"
@@ -6186,6 +6204,24 @@
       "duration_ms": 188743,
       "name": "Forgot About You",
       "url": "https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL"
+    },
+    {
+      "album": {
+        "name": "Formalize Me",
+        "url": "https://open.spotify.com/album/4Bu8vWdrWMU986Gp2RjNeV"
+      },
+      "artists": [
+        {
+          "name": "Adrian Lyles",
+          "url": "https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174670,
+      "name": "Formalize Me",
+      "url": "https://open.spotify.com/track/1o5qTps4XdHIOn6RT9cO3S"
     },
     {
       "album": {
@@ -7625,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "heartbodymindsoul",
+        "url": "https://open.spotify.com/album/6ag3PAAUPS3Drlx8ziDTsZ"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "heartbodymindsoul",
+      "url": "https://open.spotify.com/track/3jYnrUml3eWrtvcF1kmThi"
+    },
+    {
+      "album": {
         "name": "heartbreak, love",
         "url": "https://open.spotify.com/album/7IsVqBFM74jlbZlfdCIqu1"
       },
@@ -8455,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "FK IT",
+        "url": "https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184951,
+      "name": "I already dug your grave",
+      "url": "https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6"
+    },
+    {
+      "album": {
         "name": "this is what i get",
         "url": "https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn"
       },
@@ -8754,7 +8826,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138116,
       "name": "I hate your face",
       "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
@@ -9414,7 +9486,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 157824,
       "name": "If I Knew What I Know Now",
       "url": "https://open.spotify.com/track/5NPorB5OZhWBUtRBR2oRkt"
@@ -10346,6 +10418,24 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3"
+    },
+    {
+      "album": {
+        "name": "Kissing With The Top Down",
+        "url": "https://open.spotify.com/album/1WQb9aB6WMDQohU2hEmfxi"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kissing With The Top Down",
+      "url": "https://open.spotify.com/track/61DXMHecFU9pzs7JGc8uIU"
     },
     {
       "album": {
@@ -17373,6 +17463,24 @@
     },
     {
       "album": {
+        "name": "Take My Phone Away",
+        "url": "https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "Take My Phone Away",
+      "url": "https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC"
+    },
+    {
+      "album": {
         "name": "everything and nothing",
         "url": "https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO"
       },
@@ -19052,7 +19160,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 162407,
       "name": "Up At Night",
       "url": "https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv"
@@ -19189,6 +19297,24 @@
     },
     {
       "album": {
+        "name": "Video Games (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189101,
+      "name": "Video Games - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M"
+    },
+    {
+      "album": {
         "name": "Videotape (with Evangelia)",
         "url": "https://open.spotify.com/album/4gwlxWSU2UWhjXmNxXZcrH"
       },
@@ -19262,6 +19388,24 @@
       "duration_ms": 188520,
       "name": "Want Want",
       "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+    },
+    {
+      "album": {
+        "name": "Wanted?",
+        "url": "https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231710,
+      "name": "Wanted?",
+      "url": "https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5"
     },
     {
       "album": {
@@ -19796,6 +19940,24 @@
       "duration_ms": 152073,
       "name": "When I\u2019m Leavin\u2019",
       "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
+    },
+    {
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
       "album": {

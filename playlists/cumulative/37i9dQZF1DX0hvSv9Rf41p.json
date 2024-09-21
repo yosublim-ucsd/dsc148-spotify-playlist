@@ -2211,6 +2211,28 @@
     },
     {
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/7wflWRvq8BFK9XbNW8VIYs"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/6KTJrH8rLM4TefZcc9XFQF"
+    },
+    {
+      "album": {
         "name": "Blicky",
         "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
       },
@@ -4544,7 +4566,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 247814,
       "name": "DESPAIR",
       "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
@@ -5085,6 +5107,28 @@
     },
     {
       "album": {
+        "name": "Don't Think I'm Ready",
+        "url": "https://open.spotify.com/album/7vTM3Lk2ByuvRcvo8tgOS9"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175862,
+      "name": "Don't Think I'm Ready",
+      "url": "https://open.spotify.com/track/5IeRcDmJFhP0FHNPLGz8CG"
+    },
+    {
+      "album": {
         "name": "Don't You Dare Go Hollow",
         "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
       },
@@ -5176,6 +5220,24 @@
       "duration_ms": 216774,
       "name": "Don\u2019t You",
       "url": "https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g"
+    },
+    {
+      "album": {
+        "name": "BACK TO BACK EP",
+        "url": "https://open.spotify.com/album/145opVwQXtPCzwmMul7oXB"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "DOODLE",
+      "url": "https://open.spotify.com/track/5DphXBn0OLpQHBXHkVmoyP"
     },
     {
       "album": {
@@ -5586,7 +5648,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179612,
       "name": "EDGE - 2024 Version",
       "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
@@ -7983,6 +8045,32 @@
     },
     {
       "album": {
+        "name": "TWIN FANG",
+        "url": "https://open.spotify.com/album/4kK9p5iz78R3DJnIQIqjs1"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "MAAD WEST",
+          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107793,
+      "name": "Goblin Mode",
+      "url": "https://open.spotify.com/track/5IbdRBgL9g3BqjT7PcbioK"
+    },
+    {
+      "album": {
         "name": "Godless",
         "url": "https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w"
       },
@@ -9724,10 +9812,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180367,
       "name": "IMY",
       "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
+    },
+    {
+      "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/6OmT74HwEOW36xSjihFriG"
+      },
+      "artists": [
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167314,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/20FRbatwyzUiIE2Etbf5hW"
     },
     {
       "album": {
@@ -12982,7 +13088,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206172,
       "name": "No Gravity",
       "url": "https://open.spotify.com/track/1DB7f0nDMTvCuiEv5wf7Ny"
@@ -13446,6 +13552,24 @@
       "duration_ms": 141126,
       "name": "Okay Okay (with Eptic and IDK)",
       "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
+    },
+    {
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/7MdqDNYFJaS2Rs5jcS3pJ9"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183591,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/35dSbV8cktYMW8XM2XM20A"
     },
     {
       "album": {
@@ -19652,7 +19776,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 195428,
       "name": "Triumphant",
       "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
@@ -20788,7 +20912,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 238620,
       "name": "Will",
       "url": "https://open.spotify.com/track/22rZYweouBNAIkVTbYebLw"

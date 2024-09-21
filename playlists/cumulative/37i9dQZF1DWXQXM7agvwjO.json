@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 216349,
       "name": "Cast a Spell",
       "url": "https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN"
@@ -24953,6 +24953,24 @@
     },
     {
       "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "album": {
         "name": "When You Almost Give Up",
         "url": "https://open.spotify.com/album/2KfwCzWWc0ieER20WuBkYQ"
       },
@@ -27546,7 +27564,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 204584,
       "name": "\u505a\u4e00\u534a\u7684\u5922",
       "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"

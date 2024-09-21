@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10686,
+  "num_followers": 10690,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAAzYaH/mczq+pX9g1N2S2rK",
+  "snapshot_id": "ZutpgAAAAADTdkK3CkvHwthXxDVUmnwf",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F U Cancer",
         "url": "https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 170899,
       "name": "F U Cancer",
       "url": "https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
     },
     {
       "added_at": null,

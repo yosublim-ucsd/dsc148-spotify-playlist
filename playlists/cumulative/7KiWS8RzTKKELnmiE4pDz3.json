@@ -4683,6 +4683,24 @@
     },
     {
       "album": {
+        "name": "Gle 2 Hellcat",
+        "url": "https://open.spotify.com/album/3vRCaLMY3WOvpoq64hIk8m"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179350,
+      "name": "GLE 2 Hellcat",
+      "url": "https://open.spotify.com/track/3Q0CQNtHZrc0xRVoBeRE5S"
+    },
+    {
+      "album": {
         "name": "globe",
         "url": "https://open.spotify.com/album/5mkWBx2xqAQp4z2yPzdfco"
       },

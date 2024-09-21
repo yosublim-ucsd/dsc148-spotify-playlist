@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: FKA twigs",
+  "description": "Beyond titles, beyond genre. Cover: Maverick Sabre ",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+    },
+    {
+      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -674,7 +692,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 263019,
       "name": "Come As You",
       "url": "https://open.spotify.com/track/4llmA8QnpYEj3TXoVNRZfT"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 241666,
       "name": "Crying Out For Love",
       "url": "https://open.spotify.com/track/04g8JIcLIEeaKhJC0UHnmP"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 280840,
       "name": "flux",
       "url": "https://open.spotify.com/track/7Ls5alNvrm46CrJ2gETL53"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 593346,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 196873,
       "name": "Gratitudes",
       "url": "https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon"
@@ -1634,6 +1652,24 @@
       "duration_ms": 203326,
       "name": "Happy Survival (feat. Khruangbin)",
       "url": "https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190060,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
     },
     {
       "album": {
@@ -1866,7 +1902,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 201534,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk"
@@ -1892,6 +1928,24 @@
       "duration_ms": 114081,
       "name": "ice (feat. BAMBII)",
       "url": "https://open.spotify.com/track/6hJctn0h0dnTfpijZcK8E9"
+    },
+    {
+      "album": {
+        "name": "If I Could Only Love You Again",
+        "url": "https://open.spotify.com/album/2VYzA2rVyWgzJNy6g56OIZ"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "If I Could Only Love You Again",
+      "url": "https://open.spotify.com/track/2ia06pgK7yUu09EtbOJ3lR"
     },
     {
       "album": {
@@ -1967,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
+    },
+    {
+      "album": {
         "name": "Jam Toast",
         "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
       },
@@ -2036,6 +2108,24 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "album": {
+        "name": "Just Calm Down",
+        "url": "https://open.spotify.com/album/0XPI47Ym4BJj3mmVEQp67G"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Just Calm Down",
+      "url": "https://open.spotify.com/track/793UbfkNYn3HvepbOphss5"
     },
     {
       "album": {
@@ -2177,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/1x265Vy2gQWUMGIHjiHU2I"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166881,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/6NSVPoxRYh5fUJgUUZs2B1"
+    },
+    {
+      "album": {
         "name": "Less of You",
         "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
       },
@@ -2242,7 +2350,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 291447,
       "name": "Look up!!",
       "url": "https://open.spotify.com/track/09ShrRv6mFFvxfU0wey2X4"
@@ -2365,6 +2473,46 @@
     },
     {
       "album": {
+        "name": "Marina del Rey",
+        "url": "https://open.spotify.com/album/6826yU0TTl1XpferIzYPAB"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133065,
+      "name": "Marina del Rey",
+      "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
+    },
+    {
+      "album": {
+        "name": "MEASURE ME",
+        "url": "https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU"
+      },
+      "artists": [
+        {
+          "name": "HONESTY",
+          "url": "https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv"
+        },
+        {
+          "name": "Softlizard",
+          "url": "https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "MEASURE ME",
+      "url": "https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF"
+    },
+    {
+      "album": {
         "name": "Bad Cameo",
         "url": "https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf"
       },
@@ -2474,7 +2622,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152694,
       "name": "mouthy",
       "url": "https://open.spotify.com/track/70aBphOfOhPka4WwhBvcQ4"
@@ -2518,6 +2666,24 @@
       "duration_ms": 255428,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
+    },
+    {
+      "album": {
+        "name": "NAZARETH",
+        "url": "https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "NAZARETH",
+      "url": "https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ"
     },
     {
       "album": {
@@ -2790,6 +2956,28 @@
       "duration_ms": 147101,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
+    },
+    {
+      "album": {
+        "name": "Petit Boy",
+        "url": "https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Petit Boy",
+      "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
     },
     {
       "album": {
@@ -3278,7 +3466,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
@@ -3408,7 +3596,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 147891,
       "name": "Sugabby",
       "url": "https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt"
@@ -3448,7 +3636,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
@@ -4094,6 +4282,24 @@
       "duration_ms": 211733,
       "name": "who's in designer",
       "url": "https://open.spotify.com/track/77e1seHNK7HwyjQy7tNf5i"
+    },
+    {
+      "album": {
+        "name": "INTRO",
+        "url": "https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213602,
+      "name": "YOMM",
+      "url": "https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV"
     },
     {
       "album": {

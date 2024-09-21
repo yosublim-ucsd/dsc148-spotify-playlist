@@ -4,7 +4,7 @@
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-171 songs - 10 hr 34 min
+172 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 | 2021-07-02 | 2022-07-28 |
 | [Fico Assim Sem Você](https://open.spotify.com/track/1L3XZAKODPVuBgeJQpJHLM) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Vamos Dançar](https://open.spotify.com/album/3kMmtmPY4u4KLJbYWTc7Q8) | 3:44 | 2021-07-02 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2021-07-02 |  |
-| [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 | 2024-04-16 |  |
+| [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 | 2024-04-16 | 2024-09-21 |
 | [Fácil](https://open.spotify.com/track/5rhijzoJmc7ZdnEgBS58Wh) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Planeta](https://open.spotify.com/album/0j7IkGGOTpFMLIiLffhEkX) | 5:18 | 2021-07-02 | 2022-07-29 |
 | [Fé nas Maluca](https://open.spotify.com/track/7xGVDSYG1QhdXlKpLKJAgg) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:23 | 2023-10-06 | 2023-10-14 |
 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 | 2021-07-02 |  |
@@ -140,6 +140,7 @@
 | [Rindo À Toa](https://open.spotify.com/track/36OHYoQYvFtjuTE3LCdEoH) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Falamansa Essencial](https://open.spotify.com/album/6QB3is8FTgiJ84fLQsMOJU) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2021-07-02 |  |
 | [Saideira \- Ao Vivo](https://open.spotify.com/track/6JXOcssLcLq4STrYTfLa3I) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:48 | 2023-11-10 | 2024-01-12 |
+| [Seus Recados](https://open.spotify.com/track/68yGrDGiJh6T38dbiLQIzL) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Seus Recados](https://open.spotify.com/album/3lJQzGb25hAAZsxcmA5wAJ) | 3:35 | 2024-09-20 |  |
 | [Sexy Iemanjá](https://open.spotify.com/track/0PvYd9bLZoIMbVd1TJpeju) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Meu Coração](https://open.spotify.com/album/0pV48P4dUt5ajWGZpAnvpy) | 3:41 | 2021-07-02 | 2022-07-29 |
 | [Shake It Off](https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:39 | 2024-04-16 |  |
 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 | 2021-07-02 | 2023-11-08 |

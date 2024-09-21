@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-549 songs - 1 day 6 hr 50 min
+550 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-09-29 |
 | [Burning Bridges \- Initial Talk Remix](https://open.spotify.com/track/2Na24Q9TJRfhtV5Un8AY5d) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Burning Bridges \(Initial Talk Remix\)](https://open.spotify.com/album/7dVmmOtkUkNFY2WjvTXrMN) | 2:47 | 2021-10-02 | 2021-10-16 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-08 |  |
-| [call me when ur lonely](https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q) | 2:39 | 2024-08-23 |  |
+| [call me when ur lonely](https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q) | 2:39 | 2024-08-23 | 2024-09-21 |
 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 | 2022-03-25 |  |
 | [Can We Work It Out \- RAC Mix](https://open.spotify.com/track/4mF7d3fldbIDI1gTiqAjsv) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Can We Work It Out \(Reworks\)](https://open.spotify.com/album/1nq78hMXF6HzLDUt4kin4W) | 4:09 | 2019-05-26\* | 2021-05-28 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-06-23 |  |
@@ -436,6 +436,7 @@
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-13 | 2022-07-29 |
 | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:42 | 2019-06-10 | 2019-08-09 |
 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 | 2019-05-26\* | 2021-06-02 |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-20 |  |
 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 | 2024-09-06 |  |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2022-04-21 |
 | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/track/5EmM1BSgdTZTvG86AZhtsw) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Song You'll Never Hear \(feat\. Maisie Peters\)](https://open.spotify.com/album/1EtC24OKKvHPgiNkPemOX8) | 2:33 | 2021-11-13 | 2022-07-29 |

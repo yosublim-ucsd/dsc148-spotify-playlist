@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "A Heart Is a Terrible Thing to Break",
+        "url": "https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183827,
+      "name": "Loving Means Leaving",
+      "url": "https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI"
+    },
+    {
+      "album": {
         "name": "Mad At You",
         "url": "https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK"
       },

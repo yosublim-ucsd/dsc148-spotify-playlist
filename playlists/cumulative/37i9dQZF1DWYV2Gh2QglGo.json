@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Sacha",
+  "description": "The home of Canadian country music. Cover: Josh Ross",
   "name": "North Country",
   "tracks": [
     {
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Nashville, Nashville",
+        "url": "https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH"
+      },
+      "artists": [
+        {
+          "name": "Lydia Sutherland",
+          "url": "https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Nashville, Nashville",
+      "url": "https://open.spotify.com/track/4mMW9MinyGBln3OIGspXRr"
+    },
+    {
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 150549,
       "name": "Race To The Bottom",
       "url": "https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH"

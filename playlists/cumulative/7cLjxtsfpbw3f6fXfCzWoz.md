@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-42 songs - 2 hr 29 min
+44 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Kiss Goodnight](https://open.spotify.com/track/6bNk8Nakwq8nM6EGUy4nOP) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:50 | 2022-09-07 |  |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 | 2024-09-19 |  |
 | [Last Train to London](https://open.spotify.com/track/7kE0JjBurV144cuDOb55aB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:29 | 2024-01-02 |  |
+| [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-09-20 |  |
 | [Love Kills \- The Ballad](https://open.spotify.com/track/23o61mSfxLaD8VlSQPhYQK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Love Kills \- The Ballad \(2014 Remaster\)](https://open.spotify.com/album/5nwCSEMkEiMXSRwO9csBJe) | 4:12 | 2023-03-21 |  |
 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/2Rua8o4ZNjPx3Q7lHYUgml) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 3:37 | 2023-03-21 |  |
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2024-09-19 |  |
@@ -48,6 +49,7 @@
 | [The Mess Inside](https://open.spotify.com/track/3B7a3OW9h51WJKYQXD5IAo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 3:35 | 2023-03-23 |  |
 | [This Is How I Disappear](https://open.spotify.com/track/7vBczWEtVRGXkI5HOISv7L) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:59 | 2023-01-11 |  |
 | [Urgent](https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:31 | 2023-11-20 |  |
+| [When All Is Said And Done](https://open.spotify.com/track/43T696K5X1s1mtxIuuUvvz) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:18 | 2024-09-20 |  |
 | [Woke Up New](https://open.spotify.com/track/7usk7zdSDyBKeEF0THDKoK) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:57 | 2023-01-07 |  |
 | [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 | 2024-09-16 |  |
 

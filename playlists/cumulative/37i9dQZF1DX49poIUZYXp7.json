@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Caylee Hammack",
+  "description": "The extraordinary women making great country music today. Cover: Reyna Roberts",
   "name": "Women of Country",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 183719,
       "name": "2AM in London",
       "url": "https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP"
+    },
+    {
+      "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "A Hundred",
+      "url": "https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN"
     },
     {
       "album": {
@@ -916,7 +934,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 187749,
       "name": "Come In (But Don't Make Yourself Comfortable)",
       "url": "https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN"

@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 172773,
       "name": "BBL",
       "url": "https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq"
@@ -1462,6 +1462,24 @@
       "duration_ms": 401160,
       "name": "B\u00e9n\u00e9fice",
       "url": "https://open.spotify.com/track/45B8Dirdyo5wVKslxLO7Hu"
+    },
+    {
+      "album": {
+        "name": "Depuis le temps - Part. 2",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
       "album": {
@@ -2213,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "album": {
         "name": "Criminel",
         "url": "https://open.spotify.com/album/1FVnIpB2rYgUcxGZxbRdcv"
       },
@@ -2936,6 +2972,24 @@
       "duration_ms": 193826,
       "name": "Elle a mal (feat. Niska)",
       "url": "https://open.spotify.com/track/2ct8sYE8u8UZT229rWvXwL"
+    },
+    {
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "album": {
@@ -4519,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Favori",
+        "url": "https://open.spotify.com/album/1UIVOH22THQ4hmkDvGI1US"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/04UmdvSon62RmU7HPOvFP1"
+    },
+    {
+      "album": {
         "name": "Kay ve yo",
         "url": "https://open.spotify.com/album/6sjBSKkvJaBDyKv4RoxLgw"
       },
@@ -4929,6 +5001,28 @@
     },
     {
       "album": {
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+    },
+    {
+      "album": {
         "name": "Tombolo",
         "url": "https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3"
       },
@@ -5194,7 +5288,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 218160,
       "name": "Lilou Dallas",
       "url": "https://open.spotify.com/track/2GgkH0MWw40xMXcwljb4mk"
@@ -5734,6 +5828,32 @@
       "duration_ms": 156466,
       "name": "Manolo",
       "url": "https://open.spotify.com/track/3b9rx3ZUivS4DVSgLLkMZB"
+    },
+    {
+      "album": {
+        "name": "MANON B",
+        "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Ryflo",
+          "url": "https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U"
+        },
+        {
+          "name": "Oskoow",
+          "url": "https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "MANON B",
+      "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
       "album": {
@@ -6790,7 +6910,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 155496,
       "name": "On y va",
       "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
@@ -6830,6 +6950,28 @@
       "duration_ms": 244640,
       "name": "Open Season - Une Autre Saison",
       "url": "https://open.spotify.com/track/4KMAOy8vzCN1BDBVjLvytE"
+    },
+    {
+      "album": {
+        "name": "OU JA KONET",
+        "url": "https://open.spotify.com/album/4AjOa9YsfCcMnO56bxRkiB"
+      },
+      "artists": [
+        {
+          "name": "Attachingboy",
+          "url": "https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL"
+        },
+        {
+          "name": "Lord Crazy",
+          "url": "https://open.spotify.com/artist/0MgaOeBE3j0qhcsD0Tevvf"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143067,
+      "name": "OU JA KONET",
+      "url": "https://open.spotify.com/track/6O3eOdQzK0doZZxcJ5fjhc"
     },
     {
       "album": {
@@ -7463,6 +7605,28 @@
     },
     {
       "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u"
+    },
+    {
+      "album": {
         "name": "Quotidien",
         "url": "https://open.spotify.com/album/1QAmqgFqRYd0TVieJdxfys"
       },
@@ -7736,6 +7900,24 @@
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
+    },
+    {
+      "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/4xnYue1MP5wspZzWyzEkmQ"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Run Boy Run",
+      "url": "https://open.spotify.com/track/5yrlYkRg9QBnMZsrTbHLV9"
     },
     {
       "album": {
@@ -8618,7 +8800,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -8815,6 +8997,28 @@
     },
     {
       "album": {
+        "name": "Summer Crack 4",
+        "url": "https://open.spotify.com/album/5X3ZqzQfQGjyrQEvKEAjWB"
+      },
+      "artists": [
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "Tha\u00eflande",
+      "url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
+    },
+    {
+      "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
       },
@@ -8990,7 +9194,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202120,
       "name": "Tout oublier",
       "url": "https://open.spotify.com/track/06O3hxudc6V0BOuoCFSy71"

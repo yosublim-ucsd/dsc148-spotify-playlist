@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-348 songs - 16 hr 45 min
+350 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 |  |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 |  |
 | [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 |  |
+| [Backroom](https://open.spotify.com/track/0zHVGowVIwapmi0Vq1MgT4) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Backroom](https://open.spotify.com/album/6ZqL3CD9YxMqAmKgSgYVEM) | 2:09 | 2024-09-20 |  |
 | [BAD](https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [BAD](https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN) | 2:53 | 2024-05-31 |  |
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 |  |
 | [Bad Guy](https://open.spotify.com/track/2SJzfY2pZSzgAn3gQZMVJJ) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Bad Guy](https://open.spotify.com/album/67WchHfNYcPA0jv7mvkgqW) | 3:14 | 2023-08-09 |  |
@@ -105,6 +106,7 @@
 | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/track/4YMebDlcRphWajZhJAWPg0) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Everything You Do \(feat\. Aviella\)](https://open.spotify.com/album/0whPoom67NEOiTHIIst4X4) | 3:03 | 2024-03-01 |  |
 | [Fade Into Your Light](https://open.spotify.com/track/4yS497HRlZTs3LJeDF6gLR) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Fade Into Your Light](https://open.spotify.com/album/6ZkgfIAclhPJOAwYOT05D2) | 2:33 | 2023-05-12 |  |
 | [Fading \(feat\. 9B49\)](https://open.spotify.com/track/1VltgJeA6D3x4Lyiki5MwW) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [GONE ASTRAY](https://open.spotify.com/artist/4xTIYqGN4btKj8WRWTyfTA), [KELIZA](https://open.spotify.com/artist/30lY0f2CYHFHHKPn4PsRrs), [9B49](https://open.spotify.com/artist/0UFbEkC10vY6QJ9ytN4dg4) | [Fading \(feat\. 9B49\)](https://open.spotify.com/album/1Rr1Qb1YdlxU7zTUS0OK2k) | 3:17 | 2024-04-26 |  |
+| [Fall Apart](https://open.spotify.com/track/5o6lyYNKQC0CL7gQhu78lb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [Fall Apart](https://open.spotify.com/album/71BjHLtPV2Pw8NAT5doOGN) | 2:59 | 2024-09-20 |  |
 | [Falling Stars \(feat\. Nevve\)](https://open.spotify.com/track/4wcmSExQiuz3mobIi0b8ku) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling Stars \(feat\. Nevve\)](https://open.spotify.com/album/5GYJViokxqPvkipMydrgID) | 4:46 | 2024-08-30 |  |
 | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/track/1Dv11RV1ipS7R4VDgsYSX0) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT) | 3:36 | 2023-08-09 |  |
 | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/track/6Hy4gmcrhzcMlnWMBU877r) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/album/2VKwfsPMEOTceeAk8Orp0o) | 2:44 | 2023-11-22 |  |

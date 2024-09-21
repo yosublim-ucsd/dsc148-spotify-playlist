@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Jérôme 50
+> De la musique québécoise pour tous les goûts\. Photo: Pierre Lapointe
 
-96 songs - 5 hr 7 min
+98 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 |  |
 | [Le Roy, la Rose et le Lou\[p\] \- Chanson thème](https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Le Roy, la Rose et le Lou\[p\] \(Chanson thème\)](https://open.spotify.com/album/15whtpDeiswR48UotutzI4) | 2:23 | 2024-06-28 |  |
+| [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-09-20 |  |
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 |  |
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 |  |
 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 | 2024-06-28 |  |
@@ -76,6 +77,7 @@
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 |  |
+| [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 |  |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 |  |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 |  |
@@ -96,13 +98,13 @@
 | [Tout passe](https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Quatorze](https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m) | 2:58 | 2024-06-28 |  |
 | [Tout pour plaire](https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Pour tout vous dire](https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa) | 3:37 | 2024-06-28 |  |
 | [Tshitatau](https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:23 | 2024-06-28 |  |
-| [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 |  |
+| [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 | 2024-09-21 |
 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 | 2024-06-28 |  |
 | [Une bouteille à la mer](https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 2:22 | 2024-06-28 |  |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP) | 3:58 | 2024-06-28 |  |
 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 | 2024-06-28 |  |
 | [Voler](https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Voler](https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU) | 3:50 | 2024-08-30 |  |
 | [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 | 2024-06-28 |  |
-| [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-06-28 |  |
+| [Être moi](https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Être moi](https://open.spotify.com/album/47XrSRkRIiNCub8A2DLYY0) | 3:13 | 2024-06-28 | 2024-09-21 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

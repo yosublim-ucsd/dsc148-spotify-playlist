@@ -1,18 +1,18 @@
 {
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 55744,
+  "num_followers": 55772,
   "original_name": "Monika Kruse's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt7CHwAAAACW+S1RUqr3ShUBAW+xTU/7",
+  "snapshot_id": "Zu0ehwAAAAD8sa6HCxXqYKcUUDD592VC",
   "tracks": [
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
-        "name": "Latin Lovers (Joyhauser Remix & Original)",
-        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+        "name": "Morgana - Patrik Berg Remix",
+        "url": "https://open.spotify.com/album/28I5ZkX8KgjS9t3wQjYD5e"
       },
       "artists": [
         {
@@ -20,16 +20,72 @@
           "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
         },
         {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        },
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
         }
       ],
-      "duration_ms": 275394,
-      "name": "Latin Lovers - Joyhauser Remix",
-      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+      "duration_ms": 256691,
+      "name": "Morgana - Patrik Berg Remix",
+      "url": "https://open.spotify.com/track/5jX7yGmfqoDPJTrUucLAGi"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/515P5uoM28V9H668JWi1A6"
+      },
+      "artists": [
+        {
+          "name": "Melgazzo",
+          "url": "https://open.spotify.com/artist/16t0GPAOlD5YHSo8EaabPA"
+        }
+      ],
+      "duration_ms": 344352,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/3LDliyBS8BW7hrYeP2VqO6"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Stimulator",
+        "url": "https://open.spotify.com/album/1PlbxD8ZnUNGCFKFm4eEpf"
+      },
+      "artists": [
+        {
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Stimulator",
+      "url": "https://open.spotify.com/track/3lbXtYWXchIaFjTkTb0kOW"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "FORTE Remixes, Pt. 02",
+        "url": "https://open.spotify.com/album/4eD5uM5pdy0HUIIqHb8ixX"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        {
+          "name": "Sama' Abdulhadi",
+          "url": "https://open.spotify.com/artist/4dKADxe7w8ZWWa2kJ7MMTC"
+        }
+      ],
+      "duration_ms": 459600,
+      "name": "PROTO - Sama' Abdulhadi Remix",
+      "url": "https://open.spotify.com/track/1IGXIyqa0NMsUQ99J4LtU1"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/7jZHrxPlWIyHGscFxT1Wfe"
@@ -45,43 +101,7 @@
       "url": "https://open.spotify.com/track/1aR3XDuJI9P49QE7Krh4bV"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Pulverturm (ANNA Rework)",
-        "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
-      },
-      "artists": [
-        {
-          "name": "Niels Van Gogh",
-          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 236029,
-      "name": "Pulverturm - ANNA Rework",
-      "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Le Meilleur Est \u00e0 Venir",
-        "url": "https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW"
-      },
-      "artists": [
-        {
-          "name": "Gregor Tresher",
-          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/2ITYwxUxfQvl6BAGQPJTGk"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "WILD ELECTRIC (Monika Kruse Remix)",
         "url": "https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW"
@@ -101,163 +121,43 @@
       "url": "https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/7a8IRndRKmX66OGWLyvxDZ"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/6kkKw9XpxiI8Vasvo14X6B"
       },
       "artists": [
         {
-          "name": "Patrik Berg",
-          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
         }
       ],
-      "duration_ms": 235488,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/5xlWdKW50cCpLywd9y4fbq"
+      "duration_ms": 319253,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4gInpwfU3UoVajdrO6JUHw"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
-        "name": "Orbital Overdrive",
-        "url": "https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi"
+        "name": "Pulverturm (ANNA Rework)",
+        "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
       },
       "artists": [
         {
-          "name": "Zafer Atabey",
-          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
-        }
-      ],
-      "duration_ms": 238195,
-      "name": "Sonic Synthesis",
-      "url": "https://open.spotify.com/track/6tkU4VxB5bdMp8NPMfdcE1"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S"
-      },
-      "artists": [
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 374890,
-      "name": "Revelation",
-      "url": "https://open.spotify.com/track/2CkF1KvoxAo4jZqRG2GFh2"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Tone",
-        "url": "https://open.spotify.com/album/0LtZDjzPr3skqVzDnY8SjY"
-      },
-      "artists": [
-        {
-          "name": "Alberto Ruiz",
-          "url": "https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8"
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
         },
         {
-          "name": "Chris Gioria",
-          "url": "https://open.spotify.com/artist/4dFIgttqHvrifFyVtgjGXR"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 341111,
-      "name": "Tone",
-      "url": "https://open.spotify.com/track/1iET7ZhSsY51yzlojQSjJe"
+      "duration_ms": 236029,
+      "name": "Pulverturm - ANNA Rework",
+      "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/3Ry8R9fGLJKQaicFYLCFlw"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "The Underground",
-      "url": "https://open.spotify.com/track/1JHOxqobi1iLAyYhnJq20q"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "On Off / Fast Forward",
-        "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
-      },
-      "artists": [
-        {
-          "name": "Cirez D",
-          "url": "https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB"
-        }
-      ],
-      "duration_ms": 547064,
-      "name": "On Off",
-      "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Acid Phase (Original Mix)",
-        "url": "https://open.spotify.com/album/3Xdyj5UiW9gxqjfDwpDjbX"
-      },
-      "artists": [
-        {
-          "name": "A*S*Y*S",
-          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
-        }
-      ],
-      "duration_ms": 380666,
-      "name": "Acid Phase - Original Mix",
-      "url": "https://open.spotify.com/track/07UwtfPjdgSZdvClSvTxbp"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Violet (Ilija Djokovic Remix)",
-        "url": "https://open.spotify.com/album/3EeYkh6DGOUMcKsnCkPJXF"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        },
-        {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
-        },
-        {
-          "name": "Ilija Djokovic",
-          "url": "https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc"
-        }
-      ],
-      "duration_ms": 247142,
-      "name": "Violet - Ilija Djokovic Remix",
-      "url": "https://open.spotify.com/track/2lE1GlhEPz7WP1HitLwpEt"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Build To Destroy",
-        "url": "https://open.spotify.com/album/5iNXFwLKCNtVV29uOzn5Q1"
-      },
-      "artists": [
-        {
-          "name": "Metodi Hristov",
-          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
-        }
-      ],
-      "duration_ms": 271555,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/6eNfky40mYhIGKmNp8n0hC"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Le Meilleur Est \u00e0 Venir",
         "url": "https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW"
@@ -266,50 +166,14 @@
         {
           "name": "Gregor Tresher",
           "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
-        },
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
         }
       ],
-      "duration_ms": 378949,
-      "name": "Le Meilleur Est \u00e0 Venir",
-      "url": "https://open.spotify.com/track/16KHLdMoI351SMD459aTcF"
+      "duration_ms": 305388,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/2ITYwxUxfQvl6BAGQPJTGk"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Ticprei / Llull",
-        "url": "https://open.spotify.com/album/42U2eMQTpA0k1DzFcljHqj"
-      },
-      "artists": [
-        {
-          "name": "Wehbba",
-          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
-        }
-      ],
-      "duration_ms": 441176,
-      "name": "Llull",
-      "url": "https://open.spotify.com/track/1weW7zKmzuTuWkGxhFu8zO"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Prana Flow",
-        "url": "https://open.spotify.com/album/5MQ5Q9llGZw0NXqXWSBtpG"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 448500,
-      "name": "Prana Flow",
-      "url": "https://open.spotify.com/track/1UCk930kdzAtR6fBP5i26F"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Wasted (Bart Skils Remix)",
         "url": "https://open.spotify.com/album/66NCw6YSMTauF3bXEvTNHv"
@@ -329,7 +193,195 @@
       "url": "https://open.spotify.com/track/2Ro98mgshcnJztG6k4VcwW"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/7a8IRndRKmX66OGWLyvxDZ"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "duration_ms": 235488,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5xlWdKW50cCpLywd9y4fbq"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Latin Lovers (Joyhauser Remix & Original)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Orbital Overdrive",
+        "url": "https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi"
+      },
+      "artists": [
+        {
+          "name": "Zafer Atabey",
+          "url": "https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7"
+        }
+      ],
+      "duration_ms": 238195,
+      "name": "Sonic Synthesis",
+      "url": "https://open.spotify.com/track/6tkU4VxB5bdMp8NPMfdcE1"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 374890,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/2CkF1KvoxAo4jZqRG2GFh2"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Tone",
+        "url": "https://open.spotify.com/album/0LtZDjzPr3skqVzDnY8SjY"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ruiz",
+          "url": "https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8"
+        },
+        {
+          "name": "Chris Gioria",
+          "url": "https://open.spotify.com/artist/4dFIgttqHvrifFyVtgjGXR"
+        }
+      ],
+      "duration_ms": 341111,
+      "name": "Tone",
+      "url": "https://open.spotify.com/track/1iET7ZhSsY51yzlojQSjJe"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/3Ry8R9fGLJKQaicFYLCFlw"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/1JHOxqobi1iLAyYhnJq20q"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "On Off / Fast Forward",
+        "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
+      },
+      "artists": [
+        {
+          "name": "Cirez D",
+          "url": "https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB"
+        }
+      ],
+      "duration_ms": 547064,
+      "name": "On Off",
+      "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Build To Destroy",
+        "url": "https://open.spotify.com/album/5iNXFwLKCNtVV29uOzn5Q1"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 271555,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/6eNfky40mYhIGKmNp8n0hC"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Le Meilleur Est \u00e0 Venir",
+        "url": "https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW"
+      },
+      "artists": [
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        },
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "duration_ms": 378949,
+      "name": "Le Meilleur Est \u00e0 Venir",
+      "url": "https://open.spotify.com/track/16KHLdMoI351SMD459aTcF"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Ticprei / Llull",
+        "url": "https://open.spotify.com/album/42U2eMQTpA0k1DzFcljHqj"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 441176,
+      "name": "Llull",
+      "url": "https://open.spotify.com/track/1weW7zKmzuTuWkGxhFu8zO"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Prana Flow",
+        "url": "https://open.spotify.com/album/5MQ5Q9llGZw0NXqXWSBtpG"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "duration_ms": 448500,
+      "name": "Prana Flow",
+      "url": "https://open.spotify.com/track/1UCk930kdzAtR6fBP5i26F"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Theory of Light EP",
         "url": "https://open.spotify.com/album/1RM4loVsCbn7gER4b9GWGN"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/6jtAB7NxKWSa80H3JYukFD"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Depot",
         "url": "https://open.spotify.com/album/5lRp1SDUispPZP8gcG0XFn"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/5wPlKNpLbHxDwv4IGuCRbT"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "FORTE Remixes, Pt. 03",
         "url": "https://open.spotify.com/album/3KjMLKKUsPnpqx5MjTmRmM"
@@ -381,7 +433,7 @@
       "url": "https://open.spotify.com/track/7xuUATXIeiAFDm88RFizWI"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Orbital Overdrive",
         "url": "https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi"
@@ -397,7 +449,7 @@
       "url": "https://open.spotify.com/track/55nGYZkyqpm6C3uh8koxyT"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "THIS IS NOT AN ALBUM",
         "url": "https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt"
@@ -413,7 +465,7 @@
       "url": "https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Simulator Remixes",
         "url": "https://open.spotify.com/album/3yYs4kAhpSnBsHC1Usadyd"
@@ -437,7 +489,7 @@
       "url": "https://open.spotify.com/track/0GiT71RKKiZbmBH4u3VoU1"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "LIFT ME UP",
         "url": "https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe"
@@ -465,7 +517,7 @@
       "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Latin Lovers (Joyhauser Remix & Original)",
         "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
@@ -481,7 +533,7 @@
       "url": "https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "I Can Feel That (Remixed)",
         "url": "https://open.spotify.com/album/6cU3UFhWDBlfVtoQ0ugM78"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/3TME3m5KBEU6QmXw2EHiTl"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
@@ -561,7 +613,7 @@
       "url": "https://open.spotify.com/track/6FQ6FdtxgMaFseKitedJ7u"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Airway / Royal",
         "url": "https://open.spotify.com/album/4Ln3NJ0REFF1anVdO9nmaa"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/7azutY9iBqwLFqRT4JUsoz"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/2Zg3slBnsX60TzEWy0otXI"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/6GxFhSsW6eWuPFv7Y5cVbI"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/2Wk7DFHF8fkVLeO3c555ON"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/3VYgwboT1OxKaUVQbqSzzb"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0SNIPV29hynF7rbKrqpaN8"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/2QQoVCfKeBCU64YmdMXPNy"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/5RpTyuZF4bXLyZnBBLYmS3"
@@ -649,7 +701,7 @@
       "url": "https://open.spotify.com/track/1nwRy8psfxOaVwqEfMKt1S"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/6kdnloLqMVkcClPrPZweWr"
@@ -665,7 +717,7 @@
       "url": "https://open.spotify.com/track/0mwI1pte7ogpA01wWfIR06"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Ice (20 Years Systematic)",
         "url": "https://open.spotify.com/album/5ETfrXr5UXMt30DExDqjMo"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/5bkRwgvGxPmv3v1gwSGrpA"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "I Am Free - (Oscar L Remix)",
         "url": "https://open.spotify.com/album/2FHbom4z3bJGIedcshgh5s"
@@ -705,7 +757,7 @@
       "url": "https://open.spotify.com/track/3uxPWfCPabSiogBzsC6ZTa"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Flashback 98",
         "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/5T9LjGcaNFIswRQ1A9r3If"
@@ -737,31 +789,7 @@
       "url": "https://open.spotify.com/track/6Gk345Dous0EUpKctZSOb0"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Lost At Sea (ANNA Remix)",
-        "url": "https://open.spotify.com/album/3pIQNfjYRPV9SvyzoTVNNS"
-      },
-      "artists": [
-        {
-          "name": "Rob Grant",
-          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 294013,
-      "name": "Lost at Sea - ANNA Remix",
-      "url": "https://open.spotify.com/track/3d1sRLMVrXnCBawEZo69bR"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Something Inside Us (Kos:mo Remix)",
         "url": "https://open.spotify.com/album/2GMdvLjfG3QD2J7yOGFhFK"
@@ -781,7 +809,7 @@
       "url": "https://open.spotify.com/track/0cKWD5Wwn4hQl7IwFsFB12"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Bassdrone (Teenage Mutants Remix)",
         "url": "https://open.spotify.com/album/2C9SX0laiP8Vc72Gjpsl41"
@@ -801,7 +829,7 @@
       "url": "https://open.spotify.com/track/7aJ4qldtxcDsr09FuasUwO"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Pyramid Rave / Feel The Energy",
         "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
@@ -821,7 +849,7 @@
       "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/3VhR2yoBOeurE9WNY4tcv9"
@@ -837,7 +865,7 @@
       "url": "https://open.spotify.com/track/2JK7E0PWzGX78GGjh51rfb"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/39ZKMywx5DnS9V7xV8nYDa"
@@ -853,7 +881,7 @@
       "url": "https://open.spotify.com/track/2rG8fDX8ozfOQCDnVZb0Xd"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Error in the System",
         "url": "https://open.spotify.com/album/47CmyOC2gshT2TMkvXuf3c"
@@ -869,7 +897,7 @@
       "url": "https://open.spotify.com/track/4VRHblo2pQt3G8Xt3jL5EY"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz"
@@ -889,7 +917,7 @@
       "url": "https://open.spotify.com/track/2DYGES8871Aqe2mbfGfkcn"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
@@ -905,7 +933,7 @@
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/4lHVYma4gdxGCjZSrynCby"
@@ -921,7 +949,7 @@
       "url": "https://open.spotify.com/track/21sEswqf0cASx1Hom6R7rk"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Ticprei / Llull",
         "url": "https://open.spotify.com/album/42U2eMQTpA0k1DzFcljHqj"
@@ -937,79 +965,7 @@
       "url": "https://open.spotify.com/track/5vQjK93x2P02ED8X5lBUTm"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Concentrate",
-        "url": "https://open.spotify.com/album/43EmWONsJjIXn0stSK0MJK"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/4r1RM1LT26eqrYSu9bF2bx"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Not Exactly (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Not Exactly - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Gimme More EP",
-        "url": "https://open.spotify.com/album/16r61zjcZ1673qvBTd05MQ"
-      },
-      "artists": [
-        {
-          "name": "Kaiserdisco",
-          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
-        }
-      ],
-      "duration_ms": 349673,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/7l5K6Cu8mNvvpskdG797qD"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/406jvVqHQpd3att1k9bqOr"
-      },
-      "artists": [
-        {
-          "name": "SUDO",
-          "url": "https://open.spotify.com/artist/4bcymNfS8BzQ8XiwkdqCDb"
-        }
-      ],
-      "duration_ms": 270500,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/7uYp0ZmEzZNBvPguODkIpV"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/0QNi0a5PpDbpiBe0aXcbuK"
@@ -1025,27 +981,7 @@
       "url": "https://open.spotify.com/track/1i73nvocTFbDHGWEtICU6T"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Teufelsfisch",
-        "url": "https://open.spotify.com/album/6TxPOJc7gsfuGzJrPaRTUW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Huntemann",
-          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
-        },
-        {
-          "name": "Marc Romboy",
-          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
-        }
-      ],
-      "duration_ms": 271952,
-      "name": "Teufelsfisch - Edit",
-      "url": "https://open.spotify.com/track/1hrLJVXOVp74kl0GGn80eR"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "BB Predator",
         "url": "https://open.spotify.com/album/61ARefEYLVuF2fLw3T1V3K"
@@ -1061,23 +997,7 @@
       "url": "https://open.spotify.com/track/27zPgKLCUqSSCWbjYbPzs8"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/3sTlmiJycksWYzD7OHELC9"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 365500,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3pnEuUA9r6JDL8BIvms0Kh"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/4D9TBqwEIe715IDTx03kKb"
@@ -1093,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6Dpds9l8U5dy0PxhE3jM7K"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/1ekPNCDuFxEhC7GKGgahqy"
@@ -1109,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6SIepMjl42q78LP2utY9IH"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "Hymn (ANNA Remix)",
         "url": "https://open.spotify.com/album/0L4bEIsrLPVEx3cm0RPnQF"
@@ -1129,23 +1049,7 @@
       "url": "https://open.spotify.com/track/23Os1oNXl4d8EQ2PwehrEj"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "SIGHT SOUND AND SPACE",
-        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
-      },
-      "artists": [
-        {
-          "name": "Jeff Mills",
-          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "The Beat Just Goes Straight On And On",
         "url": "https://open.spotify.com/album/4CUfZ5Ujfctd6HXr65WZtj"
@@ -1161,43 +1065,7 @@
       "url": "https://open.spotify.com/track/1Y0OHYrteTswnjo72YKUL5"
     },
     {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Can U Feel It",
-        "url": "https://open.spotify.com/album/42Ds5ReqdxeGI2mEhXdB4I"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Can U Feel It - Edit",
-      "url": "https://open.spotify.com/track/0FYggah8NFPh30vZMxItTu"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
-      "album": {
-        "name": "Fusion Remixes 02/03",
-        "url": "https://open.spotify.com/album/3gAmmo8L2dq96uDr1cMHnt"
-      },
-      "artists": [
-        {
-          "name": "Len Faki",
-          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 408661,
-      "name": "Hymn - ANNA Remix",
-      "url": "https://open.spotify.com/track/71lO40gARZpKOkwfuhxcuR"
-    },
-    {
-      "added_at": "2024-09-09 09:38:39",
+      "added_at": "2024-09-20 07:04:39",
       "album": {
         "name": "always centered at night",
         "url": "https://open.spotify.com/album/6Q9F246p5fOQzz8tts4ylS"
@@ -1215,6 +1083,50 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/1u6Tum9kyOdFHFhewUI9Mg"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Talking To Myself (Remixes)",
+        "url": "https://open.spotify.com/album/1Hn8pGBXYELpHroKfu1XSr"
+      },
+      "artists": [
+        {
+          "name": "Woo York",
+          "url": "https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p"
+        },
+        {
+          "name": "P\u00f4ngo",
+          "url": "https://open.spotify.com/artist/5MdQkQHcQwFNM9spXSqjdv"
+        },
+        {
+          "name": "19:26",
+          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Talking To My Self - 19:26 Remix",
+      "url": "https://open.spotify.com/track/4o7LwQCPCvMjAWSs0V0GKF"
+    },
+    {
+      "added_at": "2024-09-20 07:04:39",
+      "album": {
+        "name": "Stellar - ANNA Remix",
+        "url": "https://open.spotify.com/album/6QT8IOUeqAPMQ3mmO3uuvg"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Stellar - ANNA Remix",
+      "url": "https://open.spotify.com/track/3eZAKySvQ3VBUlGdSmI7SD"
     }
   ],
   "unique_name": "Monika Kruse's track IDs",

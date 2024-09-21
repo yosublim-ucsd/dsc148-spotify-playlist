@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=kGyefAXHTP62tJ5iYxL4-g\">Usimamane</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=FT41P0ZTTbavn79ogA0qmA\">Loatinover Pounds</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -11936,6 +11936,28 @@
       "duration_ms": 134450,
       "name": "Pramis, Swuh",
       "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Pitori",
+        "url": "https://open.spotify.com/album/6ixv7oc58aBXFYoTDBKCa9"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248477,
+      "name": "Pray 4 Me",
+      "url": "https://open.spotify.com/track/7oH2WeHDDiCC4guHrhjYMJ"
     },
     {
       "album": {

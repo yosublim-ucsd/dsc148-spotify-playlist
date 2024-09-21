@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Dharius y La Santa Grifa en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Zimple en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -42,10 +42,28 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 163973,
       "name": "100k Pies",
       "url": "https://open.spotify.com/track/1RxebDqBajjS8vBWWN2ZZK"
+    },
+    {
+      "album": {
+        "name": "25 Horas",
+        "url": "https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x"
+      },
+      "artists": [
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "25 Horas",
+      "url": "https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg"
     },
     {
       "album": {
@@ -2705,6 +2723,32 @@
     },
     {
       "album": {
+        "name": "Toskamente",
+        "url": "https://open.spotify.com/album/3X7n2KK3dlw0mnP1ak4mM2"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114174,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/1ebS7Z8g0z88VgIQJSV3Q8"
+    },
+    {
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc"
       },
@@ -3312,6 +3356,28 @@
       "duration_ms": 162007,
       "name": "Don Quijote",
       "url": "https://open.spotify.com/track/76IsXl3qjqwdi0i5T7JlYj"
+    },
+    {
+      "album": {
+        "name": "Donatello",
+        "url": "https://open.spotify.com/album/2K8Ud1ubp8IY5dHHzzIYGc"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Donatello",
+      "url": "https://open.spotify.com/track/3Llct6f9pLHLFTCfH5rrks"
     },
     {
       "album": {
@@ -7636,7 +7702,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166226,
       "name": "N.D. State Of Mind",
       "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
@@ -8654,7 +8720,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 127759,
       "name": "Perm\u00edteme aplaudir",
       "url": "https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz"
@@ -10442,6 +10508,24 @@
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
+    },
+    {
+      "album": {
+        "name": "Ser Mexicano",
+        "url": "https://open.spotify.com/album/0867HgNV9fkWJvjkueFlAp"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165903,
+      "name": "Ser Mexicano",
+      "url": "https://open.spotify.com/track/6fzP8ju0y8KkHpe8otInxA"
     },
     {
       "album": {
@@ -12548,7 +12632,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188160,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/342mfJ8Y3mtQfR4O0ccSCA"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Stree 2
+> Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,371,007 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,372,505 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 |
 | 50 | [Lutt Putt Gaya](https://open.spotify.com/track/2pIoyDWZV5OSW0xd6n41xV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Dunki](https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J) | 3:42 |
 
-Snapshot ID: `ZurNwgAAAABbtCM73t2iNDlf5GkhLmAr`
+Snapshot ID: `Zu1hGwAAAACJbM81hij2kwnsIfPEl5EP`

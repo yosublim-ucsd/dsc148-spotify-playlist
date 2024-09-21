@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "(Re)-Extract",
+        "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "(Re)-Extract",
+      "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/3j5MBBYuBsothTNmNaQIeX"
       },
@@ -434,6 +456,24 @@
       "duration_ms": 195362,
       "name": "Butterscotch Biscuits",
       "url": "https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF"
+    },
+    {
+      "album": {
+        "name": "COME ALIVE",
+        "url": "https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "COME ALIVE",
+      "url": "https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ"
     },
     {
       "album": {
@@ -884,7 +924,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 216263,
       "name": "Everybody's Enemy",
       "url": "https://open.spotify.com/track/5SuHrjRMuuX3fxtwd8Krn8"
@@ -1313,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/5PnW9yv7TIpoWPv9TxFdmk"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193663,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2JAms7zBxofzF2I70ra3eK"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb"
       },
@@ -1570,6 +1628,24 @@
       "duration_ms": 224000,
       "name": "KILLING ALCHEMY",
       "url": "https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo"
+    },
+    {
+      "album": {
+        "name": "KILLING ME",
+        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223375,
+      "name": "KILLING ME",
+      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
     },
     {
       "album": {
@@ -1920,6 +1996,24 @@
       "duration_ms": 241854,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa"
+    },
+    {
+      "album": {
+        "name": "Notion",
+        "url": "https://open.spotify.com/album/0Q3VYGJreWH7MNNZU1tbpo"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195494,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9"
     },
     {
       "album": {
@@ -2464,7 +2558,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
@@ -2688,7 +2782,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 233092,
       "name": "Sucks 2 Suck",
       "url": "https://open.spotify.com/track/256sFTOD01wutUbC7omH17"
@@ -2890,7 +2984,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 298834,
       "name": "The Far Side",
       "url": "https://open.spotify.com/track/2SFT6AM3747gFDvuSlzFk4"
@@ -3544,7 +3638,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173180,
       "name": "XOXO (feat. From Ashes to New)",
       "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"

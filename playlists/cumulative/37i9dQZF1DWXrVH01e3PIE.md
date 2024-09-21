@@ -4,7 +4,7 @@
 
 > KHEA & C.R.O  en la casa del Trap Argentino.
 
-331 songs - 15 hr 50 min
+333 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Nike](https://open.spotify.com/track/4bhrb6cU8a6t2RYWuNUT5O) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Música de Barrio](https://open.spotify.com/album/3yXHx5bO1DX9pk114uWe6n) | 2:59 | 2023-11-17 |  |
 | [No love](https://open.spotify.com/track/2fOEFoxesWhR60GrFsZGJE) | [Big Deiv](https://open.spotify.com/artist/5c1dsiPU62AjA50VwTPfoF), [808god](https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8) | [No love](https://open.spotify.com/album/0ZBhPqAqhdoAPFTbhjfNsk) | 2:20 | 2024-08-23 |  |
 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 | 2024-06-14 |  |
+| [No Me Ven](https://open.spotify.com/track/6jHAVplo0ffg3t9Q9bQPgf) | [PRIZE](https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R), [almeja](https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh) | [No Me Ven](https://open.spotify.com/album/2YAgciToY1dJMpLTulHQcg) | 1:53 | 2024-09-20 |  |
 | [No Nos Quieren Ver](https://open.spotify.com/track/3aXacOnZGuSycIiaD3YeNT) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Lil Pani](https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000) | [No Nos Quieren Ver](https://open.spotify.com/album/1rWZb3H3qOCXSCehFeIGx7) | 2:39 | 2024-07-26 |  |
 | [NO PARA](https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [NO PARA](https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5) | 2:39 | 2023-08-04 | 2024-05-03 |
 | [No Pares](https://open.spotify.com/track/0kj0n7ZfZG3qY1hJMtkhx7) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [No Pares](https://open.spotify.com/album/5tGoiLVYEX5aPACbG0Isb4) | 2:09 | 2023-09-01 | 2023-11-25 |
@@ -213,6 +214,7 @@
 | [Offline \- Remix](https://open.spotify.com/track/1NJoSKztrhgtoKmwZxJOIu) | [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Offline Remix](https://open.spotify.com/album/0wTBnt7BJB19IBSQAH3b4H) | 5:58 | 2022-01-21 | 2022-10-29 |
 | [OPA](https://open.spotify.com/track/2Z4FBa6hAEh7VTHYCqXy7P) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:49 | 2022-07-21 | 2024-04-19 |
 | [OPA](https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OPA](https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh) | 2:50 | 2022-01-21 | 2024-08-17 |
+| [ORGULLO](https://open.spotify.com/track/5z7by2aX9wuqFfmxr0shY4) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [ORGULLO](https://open.spotify.com/album/7E89jZLvQK2eKBnpYtlmV8) | 2:03 | 2024-09-20 |  |
 | [ORO SHAMPEIN](https://open.spotify.com/track/1EQEWkDx6XnlbkgrFfgNpO) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [ORO SHAMPEIN](https://open.spotify.com/album/7hD5AGNWMDdKjAroPUQxPO) | 2:51 | 2023-07-07 | 2024-08-17 |
 | [ORO Y PLATINO](https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ORO Y PLATINO](https://open.spotify.com/album/0xhqz1zfuhkPcA2XkPjWfh) | 2:48 | 2022-01-21 | 2023-10-14 |
 | [OTRA NOCHE](https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:49 | 2022-01-21 | 2023-10-14 |

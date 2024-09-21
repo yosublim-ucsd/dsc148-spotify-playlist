@@ -1,12 +1,12 @@
 {
   "description": "the best cuts from the underground, at the heart of club culture \ud83d\udc8e\ud83d\udc8e",
-  "num_followers": 39268,
+  "num_followers": 39322,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAACHpo+3apavoP0D+w5ixbqC",
+  "snapshot_id": "ZuzzQAAAAACKi1NcwJvk6p2h+Z9BRHt5",
   "tracks": [
     {
       "added_at": "2024-07-26 14:42:13",
@@ -25,10 +25,30 @@
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw"
+        "name": "Trax 4 Da Women",
+        "url": "https://open.spotify.com/album/66WaxrGmpMb6iHPYYtAo5v"
+      },
+      "artists": [
+        {
+          "name": "Garneau",
+          "url": "https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL"
+        },
+        {
+          "name": "DJ Lil'Tal",
+          "url": "https://open.spotify.com/artist/0EdnLJfOLM2o3NysS4crGP"
+        }
+      ],
+      "duration_ms": 287468,
+      "name": "Trax 4 Da Women",
+      "url": "https://open.spotify.com/track/6Saar7rLlWCYYzulCYVwMI"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
       },
       "artists": [
         {
@@ -36,25 +56,9 @@
           "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Put The Lights Out",
-      "url": "https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "These Heavens",
-        "url": "https://open.spotify.com/album/6X05UcMpVKKaCoktZFydD4"
-      },
-      "artists": [
-        {
-          "name": "gyrofield",
-          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
-        }
-      ],
-      "duration_ms": 334138,
-      "name": "Vega",
-      "url": "https://open.spotify.com/track/7oUIuHxZVmVjroMZQUPwhd"
+      "duration_ms": 213722,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -121,6 +125,22 @@
       "url": "https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux"
     },
     {
+      "added_at": "2024-08-12 15:45:15",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
+    },
+    {
       "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Ar Ais Ar\u00eds Compilation 001",
@@ -169,6 +189,22 @@
       "url": "https://open.spotify.com/track/18pRsZnQSEuDK2z0amOonv"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Acid Latino (Sonido Real)",
+        "url": "https://open.spotify.com/album/7tQe00fnEbW82f3OnQlwWz"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid Latino (Sonido Real)",
+      "url": "https://open.spotify.com/track/0Rbs8SwS2ei1B2kSorPoUH"
+    },
+    {
       "added_at": "2024-08-30 04:35:28",
       "album": {
         "name": "Zaga",
@@ -205,20 +241,40 @@
       "url": "https://open.spotify.com/track/6tvglFdRMna9COLn0Ujo5e"
     },
     {
-      "added_at": "2024-08-12 15:45:15",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw"
       },
       "artists": [
         {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         }
       ],
-      "duration_ms": 169668,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
+      "duration_ms": 260000,
+      "name": "Put The Lights Out",
+      "url": "https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Trusting Theta",
+        "url": "https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 222219,
+      "name": "Slay The Beast",
+      "url": "https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -239,22 +295,54 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Trax 4 Da Women",
-        "url": "https://open.spotify.com/album/66WaxrGmpMb6iHPYYtAo5v"
+        "name": "WHISTLE TIP",
+        "url": "https://open.spotify.com/album/0A2NnZmG8enxlcTNNsP9v9"
       },
       "artists": [
         {
-          "name": "Garneau",
-          "url": "https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL"
+          "name": "JIALING",
+          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
         },
         {
-          "name": "DJ Lil'Tal",
-          "url": "https://open.spotify.com/artist/0EdnLJfOLM2o3NysS4crGP"
+          "name": "Farsight",
+          "url": "https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj"
         }
       ],
-      "duration_ms": 287468,
-      "name": "Trax 4 Da Women",
-      "url": "https://open.spotify.com/track/6Saar7rLlWCYYzulCYVwMI"
+      "duration_ms": 246466,
+      "name": "WHISTLE TIP",
+      "url": "https://open.spotify.com/track/3uYmhMx9L4bxkGeWSbJvII"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "These Heavens",
+        "url": "https://open.spotify.com/album/6X05UcMpVKKaCoktZFydD4"
+      },
+      "artists": [
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "duration_ms": 334138,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/7oUIuHxZVmVjroMZQUPwhd"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -271,6 +359,26 @@
       "duration_ms": 433980,
       "name": "Wait & See",
       "url": "https://open.spotify.com/track/56c0h2Gd05unjVXwXtKyuF"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "BRI",
+        "url": "https://open.spotify.com/album/17hsLsYB5A4E7sE1XoatfU"
+      },
+      "artists": [
+        {
+          "name": "Susobrino",
+          "url": "https://open.spotify.com/artist/77XvwNYFwIc71Q8314oPyu"
+        },
+        {
+          "name": "Dj Fucci",
+          "url": "https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl"
+        }
+      ],
+      "duration_ms": 226203,
+      "name": "Esquites",
+      "url": "https://open.spotify.com/track/4AKIDYX6LtaZmVLwpMkXL5"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -321,24 +429,20 @@
       "url": "https://open.spotify.com/track/66YbWT3XeApUWA0OnEVSKk"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "WHISTLE TIP",
-        "url": "https://open.spotify.com/album/0A2NnZmG8enxlcTNNsP9v9"
+        "name": "SPANK!",
+        "url": "https://open.spotify.com/album/7BQX5UxtrY59OEj3TVqDpg"
       },
       "artists": [
         {
-          "name": "JIALING",
-          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
-        },
-        {
-          "name": "Farsight",
-          "url": "https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj"
+          "name": "HiTech",
+          "url": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
         }
       ],
-      "duration_ms": 246466,
-      "name": "WHISTLE TIP",
-      "url": "https://open.spotify.com/track/3uYmhMx9L4bxkGeWSbJvII"
+      "duration_ms": 163263,
+      "name": "SPANK!",
+      "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
     },
     {
       "added_at": "2024-08-30 04:35:28",
@@ -355,22 +459,6 @@
       "duration_ms": 253521,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/3SMpdIqBeWnNg61gOJAt6n"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -433,6 +521,22 @@
       "url": "https://open.spotify.com/track/7dRIxMRZny4mq7gQ3JtPdD"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Picking Flowers EP",
+        "url": "https://open.spotify.com/album/568fH0EJoAB6spxHp4fh0c"
+      },
+      "artists": [
+        {
+          "name": "Lake Hills",
+          "url": "https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5"
+        }
+      ],
+      "duration_ms": 295384,
+      "name": "Cold Star",
+      "url": "https://open.spotify.com/track/0LivimTjIRa4K0e05WpAcE"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Estradas",
@@ -479,6 +583,22 @@
       "duration_ms": 366922,
       "name": "PUSH",
       "url": "https://open.spotify.com/track/3G6i2nRaAWKcmzjQKL3ke4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Hooking Up - Edit",
+        "url": "https://open.spotify.com/album/7oPNph0rxpoQoKoNEbnx3d"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        }
+      ],
+      "duration_ms": 254499,
+      "name": "Hooking Up - Edit",
+      "url": "https://open.spotify.com/track/3Vv5YJI51jJTloQpRp9TvS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -543,6 +663,22 @@
       "duration_ms": 356386,
       "name": "Acid Delirio (feat. Saturnino & Maria Chiara Argir\u00f2)",
       "url": "https://open.spotify.com/track/5Gx9F0qAj3yLnVNjwOdgKa"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0g2QOSLD2GmVkWUn0CZNqH"
+      },
+      "artists": [
+        {
+          "name": "Brat\u0159i",
+          "url": "https://open.spotify.com/artist/6awECfAD0fQKYiQdWQsVxH"
+        }
+      ],
+      "duration_ms": 280708,
+      "name": "Gilda",
+      "url": "https://open.spotify.com/track/4ay1ETtX0dTbm4jqNNFfo4"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -697,6 +833,22 @@
       "url": "https://open.spotify.com/track/3UhHRrNxPY3NKzsRDdN90T"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "GHETTO CAPITALISM EP",
+        "url": "https://open.spotify.com/album/0VHbsIDZQjkz633MSizzlR"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "duration_ms": 299307,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/3CLaqJFdKdugLJ7Bf0YeAG"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Alfonzo",
@@ -747,6 +899,22 @@
       "duration_ms": 369344,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/09kVCKFKnUZlMEE9iFfZoy"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "INDUSTRY 4.0 EP",
+        "url": "https://open.spotify.com/album/6fZefBrCpH7clDyOgr8Hcw"
+      },
+      "artists": [
+        {
+          "name": "DJ Stingray 313",
+          "url": "https://open.spotify.com/artist/7vZgYqMEApgWpMpXMSJj1o"
+        }
+      ],
+      "duration_ms": 224214,
+      "name": "SENSOR DATA",
+      "url": "https://open.spotify.com/track/77OKRwzLGSQUtaYdlrIRlf"
     },
     {
       "added_at": "2024-08-16 04:00:00",

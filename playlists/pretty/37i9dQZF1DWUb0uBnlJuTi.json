@@ -1,13 +1,33 @@
 {
   "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 354505,
+  "num_followers": 354580,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAADUeqV7MzJenLS2RMr11SXe",
+  "snapshot_id": "ZuzzQAAAAAC9WR3cZ1le7BNHCX3z5pca",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Huntertones on Audiotree Live",
+        "url": "https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT"
+      },
+      "artists": [
+        {
+          "name": "Huntertones",
+          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 286586,
+      "name": "Wonder Boy - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -271,22 +291,6 @@
       "duration_ms": 104458,
       "name": "Got that?",
       "url": "https://open.spotify.com/track/3hlHFttlQkeQFNka58JINT"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Motionation",
-        "url": "https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Wonder Boy",
-      "url": "https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP"
     },
     {
       "added_at": "2024-06-14 04:00:00",

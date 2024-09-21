@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
@@ -6740,6 +6740,24 @@
       "duration_ms": 156178,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq"
+    },
+    {
+      "album": {
+        "name": "Rocky Mountain Son",
+        "url": "https://open.spotify.com/album/47OjqEHaN93XqkLZB3Efpj"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220454,
+      "name": "Rocky Mountain Son",
+      "url": "https://open.spotify.com/track/0yMofXux1vP1T1TnIP9xYT"
     },
     {
       "album": {

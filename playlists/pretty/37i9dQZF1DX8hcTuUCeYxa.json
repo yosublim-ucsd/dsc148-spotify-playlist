@@ -1,6 +1,6 @@
 {
   "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: Bon Iver",
-  "num_followers": 169330,
+  "num_followers": 169351,
   "original_name": "Indie Brandneu",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
       "duration_ms": 189101,
       "name": "Video Games - Spotify Singles",
       "url": "https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Sun Chaser",
+        "url": "https://open.spotify.com/album/4dzigeoYCPHj6xxmTwHJ2k"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        },
+        {
+          "name": "Rick West",
+          "url": "https://open.spotify.com/artist/4dTIbB0OEQb7vl4pRqLxKZ"
+        }
+      ],
+      "duration_ms": 88184,
+      "name": "Family of Three",
+      "url": "https://open.spotify.com/track/4Vnn1k6Lx8sq8kX3NS4ynq"
     },
     {
       "added_at": "2024-09-19 22:00:00",

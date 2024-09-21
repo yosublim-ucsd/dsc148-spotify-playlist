@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Plastic Plastic, Whal & Dolph
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Famoso
 
-96 songs - 6 hr 59 min
+98 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,16 +54,17 @@
 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 | 2024-06-21 |  |
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
-| [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 | 2024-09-06 |  |
+| [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 | 2024-09-06 | 2024-09-21 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 |  |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
+| [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 | 2024-09-20 |  |
 | [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 | 2024-08-30 |  |
 | [รู้ได้ไงว่าไม่คิดถึง \(nostalgia\)](https://open.spotify.com/track/2acaYxjO80y9TfRTqytenB) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l), [Pumpkins At Alaska](https://open.spotify.com/artist/0t8SCeZxq3k0MrqlvBdyJv) | [from time to time](https://open.spotify.com/album/0QF3MC2PVQg0BeBKZS0Hzn) | 4:28 | 2024-06-21 |  |
 | [ฤดูกาล](https://open.spotify.com/track/3RoJDqOz2TZFU8WX5m1dB2) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ฤดูกาล](https://open.spotify.com/album/54qzPKYhtnigeFHpO4skrQ) | 3:57 | 2024-09-13 |  |
 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 | 2024-06-28 | 2024-08-24 |
 | [ลมหนาว \(Winter wind\)](https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF) | [aDawn](https://open.spotify.com/artist/37qCVJmPjeXQlqO1bY5wEb) | [ลมหนาว \(Winter wind\)](https://open.spotify.com/album/6knmtnkVOzLgqtAiWDciN4) | 5:12 | 2024-06-21 |  |
-| [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/track/7Ktt0XzFxAkiix4uUsmmgj) | [uptrend](https://open.spotify.com/artist/3NrXEEQS9rT3suVMTmZTYu) | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/album/6msdO5alw939U94TIqyU4f) | 4:12 | 2024-09-13 |  |
+| [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/track/7Ktt0XzFxAkiix4uUsmmgj) | [uptrend](https://open.spotify.com/artist/3NrXEEQS9rT3suVMTmZTYu) | [วันนี้เมื่อปีก่อน \(to day.\)](https://open.spotify.com/album/6msdO5alw939U94TIqyU4f) | 4:12 | 2024-09-13 | 2024-09-21 |
 | [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 | 2024-09-06 |  |
 | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ) | [Banana Jogging](https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W) | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb) | 3:48 | 2024-08-02 | 2024-08-10 |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 |  |
@@ -86,6 +87,7 @@
 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 | 2024-06-21 |  |
 | [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 | 2024-09-07 |
 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 | 2024-06-21 |  |
+| [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 | 2024-09-20 |  |
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 |  |
 | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 |  |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-21 | 2024-09-14 |

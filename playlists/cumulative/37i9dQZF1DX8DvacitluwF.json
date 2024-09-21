@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Lusanda",
+  "description": "The best in South African and international R&B. Cover: Xenia Manasseh",
   "name": "R&Beats",
   "tracks": [
     {
@@ -2214,6 +2214,24 @@
       "duration_ms": 261000,
       "name": "FINGERS (feat. Kashcpt & Nana Atta)",
       "url": "https://open.spotify.com/track/0gBFEH8lKBkc4j2sgDwuVk"
+    },
+    {
+      "album": {
+        "name": "LOVE/HATE Pt. 2",
+        "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
     },
     {
       "album": {
@@ -4782,6 +4800,28 @@
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY"
+    },
+    {
+      "album": {
+        "name": "Pasopa (feat. Usimamane)",
+        "url": "https://open.spotify.com/album/6X44snQMCO3ah5wdib0YAE"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191480,
+      "name": "Pasopa (feat. Usimamane)",
+      "url": "https://open.spotify.com/track/3xL5BQViaHSFTGOhhvepar"
     },
     {
       "album": {

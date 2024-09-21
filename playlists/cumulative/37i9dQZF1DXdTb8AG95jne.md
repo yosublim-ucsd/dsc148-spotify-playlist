@@ -2,7 +2,7 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Savina & Drones\(사비나앤드론즈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Kimhwol\(김훨\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
 773 songs - 1 day 23 hr 16 min
 

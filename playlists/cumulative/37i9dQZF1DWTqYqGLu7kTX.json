@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 201456,
       "name": "Badland",
       "url": "https://open.spotify.com/track/1MvSyJE0RcXWfcEVpWaTPO"
@@ -1808,6 +1808,10 @@
         {
           "name": "Mani Longia",
           "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Starboy",
+          "url": "https://open.spotify.com/artist/45kg13esp33ASqLtApDcGA"
         }
       ],
       "date_added": "2024-08-30",
@@ -3882,6 +3886,28 @@
       "duration_ms": 144428,
       "name": "They Know",
       "url": "https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp"
+    },
+    {
+      "album": {
+        "name": "Three Years",
+        "url": "https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL"
+      },
+      "artists": [
+        {
+          "name": "JAI DHIR",
+          "url": "https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Three Years",
+      "url": "https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv"
     },
     {
       "album": {

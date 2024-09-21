@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+    },
+    {
+      "album": {
         "name": "Borrachera",
         "url": "https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG"
       },
@@ -2361,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Millonario",
+        "url": "https://open.spotify.com/album/2KtrbTuGOXL43Sk9eQtwSX"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121151,
+      "name": "Millonario",
+      "url": "https://open.spotify.com/track/7teQBB8rZy9leHzKJ6qP0B"
+    },
+    {
+      "album": {
         "name": "Mis Borracheras",
         "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
@@ -2466,7 +2502,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 177937,
       "name": "Mujeres y Despecho",
       "url": "https://open.spotify.com/track/6lIAt35T3YlQAT7OlwfEnU"
@@ -2942,7 +2978,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169840,
       "name": "Pa Qu\u00e9 Me Estas Llamando",
       "url": "https://open.spotify.com/track/7yieL1HfxV1fAtTTWLzTVB"
@@ -3685,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Tu Libro Favorito",
+        "url": "https://open.spotify.com/album/7oVNBkzQhBYrDS5nXB7EkE"
+      },
+      "artists": [
+        {
+          "name": "Wilfran Castillo",
+          "url": "https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189859,
+      "name": "Tu Libro Favorito",
+      "url": "https://open.spotify.com/track/4w99auMZ9yr68uPZS9h71R"
+    },
+    {
+      "album": {
         "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
         "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
@@ -3736,7 +3790,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144515,
       "name": "Una Pregunta",
       "url": "https://open.spotify.com/track/0YR1q3DCD3KB1GVte1MHH5"

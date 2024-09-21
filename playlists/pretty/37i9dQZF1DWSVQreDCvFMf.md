@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,487 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,543 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 79 | [Sori](https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq) | [Paolo Santos](https://open.spotify.com/artist/33kC1w8s5cXEi1zyJZuqSI) | [Sori](https://open.spotify.com/album/1wiC2nEgJOw7RCT0v5G22i) | 4:46 |
 | 80 | [Things You Said \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Things You Said](https://open.spotify.com/album/5hLHJZoOp7mW4sCTxrc8TI) | 3:54 |
 
-Snapshot ID: `ZuukxwAAAADbHmNGVoOjuQhZJ2h6LnfS`
+Snapshot ID: `ZuukxwAAAAASCsz4Sdgzxan/ulRo8LtM`

@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97971,
+  "num_followers": 97973,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-08-10 15:23:02",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+    },
+    {
+      "added_at": "2024-08-10 15:23:02",
+      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
-    },
-    {
-      "added_at": "2024-08-10 15:23:02",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2024-08-10 15:23:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-10 15:23:02",
       "album": {
-        "name": "D-day",
-        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 181653,
-      "name": "When The Rain Stops",
-      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
-    },
-    {
-      "added_at": "2024-08-10 15:23:02",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 227320,
       "name": "Free (I'm Gonna Be)",
       "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
+    },
+    {
+      "added_at": "2024-08-10 15:23:02",
+      "album": {
+        "name": "D-day",
+        "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "When The Rain Stops",
+      "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
     },
     {
       "added_at": "2024-08-10 15:23:02",

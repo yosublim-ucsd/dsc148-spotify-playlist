@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries, featuring luvcat  \u2601\ufe0f  art: @doolittleillustrations",
+  "description": "a playlist without boundaries, featuring niko b  \u2601\ufe0f  art: @doolittleillustrations",
   "name": "Our Generation",
   "tracks": [
     {
@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/0mAwUgqLJMVdiJvu2LDfGo"
+      },
+      "artists": [
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/6PG0R5bimQ0SH4ZFI0BaTO"
+    },
+    {
+      "album": {
         "name": "BAD!",
         "url": "https://open.spotify.com/album/5hfJiBLnHNx2RaOE2acqWc"
       },
@@ -292,7 +310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 176913,
       "name": "Cards On The Table",
       "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
@@ -1095,6 +1113,46 @@
     },
     {
       "album": {
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+    },
+    {
+      "album": {
+        "name": "Ganni Top (She Gets What She Needs)",
+        "url": "https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127162,
+      "name": "Ganni Top (She Gets What She Needs)",
+      "url": "https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX"
+    },
+    {
+      "album": {
         "name": "girls just wanna have fun",
         "url": "https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh"
       },
@@ -1185,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Half Way Home",
+        "url": "https://open.spotify.com/album/0QPvBXhgcoxjjQuZQsb8yD"
+      },
+      "artists": [
+        {
+          "name": "Citizen Papes",
+          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Half Way Home",
+      "url": "https://open.spotify.com/track/7fnZ3757bXWBqOrRHUdtdb"
+    },
+    {
+      "album": {
         "name": "Handgun Wisdom",
         "url": "https://open.spotify.com/album/7L2nX8KDfUbw5qgMu8BPs6"
       },
@@ -1218,6 +1294,24 @@
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Have I Been Living?",
+        "url": "https://open.spotify.com/album/0RGPxLAT8PFE04pP79P8JD"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198246,
+      "name": "Have I Been Living?",
+      "url": "https://open.spotify.com/track/1GeJS2MpsT1bS84BXEZkUs"
     },
     {
       "album": {
@@ -1506,7 +1600,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 162253,
       "name": "It's not fair",
       "url": "https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc"
@@ -1546,7 +1640,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160932,
       "name": "Just a Dance",
       "url": "https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J"
@@ -1564,7 +1658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 156524,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
@@ -1684,6 +1778,24 @@
       "duration_ms": 191153,
       "name": "LIL\u2740THINGS",
       "url": "https://open.spotify.com/track/2nL7RJfoM4ff4okIiwNcVZ"
+    },
+    {
+      "album": {
+        "name": "Long Way Back",
+        "url": "https://open.spotify.com/album/2BmUoSfihM32BuPmk76OLG"
+      },
+      "artists": [
+        {
+          "name": "Speelburg",
+          "url": "https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Long Way Back",
+      "url": "https://open.spotify.com/track/441Jf2ya0yn0L39am4qk8c"
     },
     {
       "album": {
@@ -1908,7 +2020,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 196829,
       "name": "miss american dream",
       "url": "https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki"
@@ -1926,7 +2038,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
@@ -2168,7 +2280,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152727,
       "name": "omg (guess I had it coming)",
       "url": "https://open.spotify.com/track/1CmwcMdVNDaW2ebS2QCHPM"
@@ -2276,7 +2388,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200449,
       "name": "Price On Fun",
       "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
@@ -2330,7 +2442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 165687,
       "name": "Riots",
       "url": "https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU"
@@ -2625,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "stargirl",
+        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "stargirl",
+      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
+    },
+    {
+      "album": {
         "name": "Stay For Good",
         "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
       },
@@ -2712,6 +2842,24 @@
       "duration_ms": 227520,
       "name": "suitcase of memories",
       "url": "https://open.spotify.com/track/3CJchrGGPRV0U4GO87lpLy"
+    },
+    {
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/5lD0BYh5dXmNTG6P59p6Cw"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/43bwd7zOgJhknLaVb7EPqq"
     },
     {
       "album": {
@@ -2820,7 +2968,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 165333,
       "name": "The Big Leagues",
       "url": "https://open.spotify.com/track/350fMBx2Q0iGVBblBri46j"
@@ -2997,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "TRUTH",
+        "url": "https://open.spotify.com/album/2ci5SqbzUbf64b78rQxx3E"
+      },
+      "artists": [
+        {
+          "name": "Feux",
+          "url": "https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149801,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/1bo5GZMwUZqgnyUZht8hjq"
+    },
+    {
+      "album": {
         "name": "Turn it up",
         "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
       },
@@ -3008,7 +3174,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"

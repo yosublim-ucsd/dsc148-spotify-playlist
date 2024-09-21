@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,256 songs - 4 day 20 hr 15 min
+2,258 songs - 4 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,6 +1800,7 @@
 | [Sonen](https://open.spotify.com/track/5k6zF8f3eKelFheaeU5zAL) | [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Sonen](https://open.spotify.com/album/36qW6vZR8yCtCCaKmHoRlX) | 2:16 | 2024-05-09 | 2024-05-17 |
 | [Songs In My Head](https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/5ZAJ8oDLqCT9cuELS11OdP) | 3:06 | 2024-05-16 | 2024-05-24 |
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-09 | 2024-05-17 |
+| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-19 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-29 | 2024-09-06 |
 | [Souljaboii](https://open.spotify.com/track/4A1mkJTFzkW0y1Si4nSy5v) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD) | [Souljaboii](https://open.spotify.com/album/61pK2iEvJQKbUVRL5Jemlm) | 2:14 | 2024-06-27 | 2024-07-05 |
 | [Sound Is Gone](https://open.spotify.com/track/3DNFhlSVKh2Ikf1HQFDjvh) | [Zekl](https://open.spotify.com/artist/2SHXLydniWMUiAR6eIuS5u), [Ben Dante](https://open.spotify.com/artist/4QmAQnyiZd2vALuEY3AIc7) | [Sound Is Gone](https://open.spotify.com/album/1wEEyIwFwMcGiWG8HHkMyL) | 3:28 | 2024-06-27 | 2024-07-05 |
@@ -2033,6 +2034,7 @@
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-09 | 2024-05-17 |
 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Tony Lupo](https://open.spotify.com/track/1qGp5yTA7kTLotKFA2hiej) | [Go\-Go Gorilla](https://open.spotify.com/artist/57bGTqV8IRMg9kBf1xwHK3) | [Tony Lupo](https://open.spotify.com/album/5xzv6MTG9JC7osSU9IwqSF) | 3:52 | 2024-06-20 | 2024-06-28 |
+| [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-19 |  |
 | [Too Good](https://open.spotify.com/track/58LmimTKtydII6yD8uwS1k) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Too Good](https://open.spotify.com/album/6Ob2iSyMzYEwx4SrieLZ4j) | 2:22 | 2024-05-31 | 2024-06-07 |
 | [Too Late](https://open.spotify.com/track/0sm6WPRYaHxmHRFnhcmfwK) | [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN) | [Too Late](https://open.spotify.com/album/3RLkmKyGnDZ9ZsqYee6hEl) | 3:43 | 2024-05-31 | 2024-06-07 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-05-10 |

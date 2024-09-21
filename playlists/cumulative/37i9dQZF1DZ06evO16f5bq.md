@@ -2,7 +2,7 @@
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is MC Cabelinho\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 38 min
 

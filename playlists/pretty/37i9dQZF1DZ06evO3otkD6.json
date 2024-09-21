@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 69883,
+  "num_followers": 69912,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAAAQ9S7VDNXTs69KPijZ5AG",
+  "snapshot_id": "ZutpgAAAAAAVag0saA/jG7sQ5jGgCv+5",
   "tracks": [
     {
       "added_at": null,
@@ -1131,26 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Amigos por Siempre",
-      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Translation",
         "url": "https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 219640,
       "name": "Translation",
       "url": "https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Amigos por Siempre",
+      "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Rondodasosa, Rue Diego e tanti altri! 🔥
 
-4,167 songs - 7 day 19 hr 24 min
+4,169 songs - 7 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-05 |
 | [64 Barre](https://open.spotify.com/track/7p3BjHEwsniRPlli9UltAF) | [Ted Bee](https://open.spotify.com/artist/6Xe3vYsCLNtr0PFPV1xGTo) | [64 Barre](https://open.spotify.com/album/6kd2HiGKVOOlnBnESO8aYy) | 3:06 | 2023-11-23 | 2023-12-08 |
 | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 | 2024-05-09 | 2024-06-07 |
+| [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 | 2024-09-20 |  |
 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 | 2024-09-05 |  |
 | [667](https://open.spotify.com/track/7F0q93N0x7QshSrE5qRipl) | [Piccolo Plug](https://open.spotify.com/artist/087NKpXhjsgavyDxM3vWzm) | [667](https://open.spotify.com/album/0QNCaKOQPiW2aQzWe7Z7sZ) | 3:06 | 2023-11-17 | 2023-12-01 |
 | [6AM](https://open.spotify.com/track/3skksFC3Gy9u6iLm84rJOk) | [Bl3dem](https://open.spotify.com/artist/5b9VtaD7uwViASOs11FquB) | [6AM](https://open.spotify.com/album/5omc58Ar8rHuw2qUYWFswU) | 3:27 | 2023-11-17 | 2023-12-15 |
@@ -255,6 +256,7 @@
 | [Allez les Gars](https://open.spotify.com/track/0ZVVkO991nkdDu6npYJQl1) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Allez les Gars](https://open.spotify.com/album/0qsSYysDRyy9wSlbBqzEXa) | 2:45 | 2023-08-03 | 2023-09-08 |
 | [Allo Specchio](https://open.spotify.com/track/73EGPhR3NFqf0m82NRA03a) | [Defa](https://open.spotify.com/artist/5qS6Eo8idiQCyMIk0JahRW) | [Sguardo](https://open.spotify.com/album/41qvb11RPZLtwyhUFbVRnE) | 1:57 | 2023-10-19 | 2023-10-27 |
 | [AllStar Game 73](https://open.spotify.com/track/6WH5T7VIS1k6eYnZbVzqK1) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [RollzRois](https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [Lil' Pin](https://open.spotify.com/artist/0Yu21jBSZjHWD3COKkxNie) | [AllStar Game 73](https://open.spotify.com/album/5NqrY75oEXoajKJAOqCDRd) | 4:02 | 2023-01-05 | 2023-01-13 |
+| [Allucinazione Collettiva](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [Allucinazione Collettiva](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 | 2024-09-20 |  |
 | [ALLUCINAZIONI](https://open.spotify.com/track/4xygkiE2jqfRyc8QA3o8ZX) | [HNTR](https://open.spotify.com/artist/25wszW2jmbMsZuPSf3cp0V) | [ALLUCINAZIONI](https://open.spotify.com/album/2sUdyBPlTwBQew9rNK4uT5) | 2:42 | 2024-05-23 | 2024-06-07 |
 | [ALMENO SE SI LITIGA SCOPIAMO](https://open.spotify.com/track/6g2T64XiM4IrQTT3SRVWkS) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Lovesick](https://open.spotify.com/album/4ylJYUPPucN6viDlN3YXHt) | 3:00 | 2022-12-01 | 2022-12-24 |
 | [Alo Alo](https://open.spotify.com/track/0QFSd154oHxKchYcg7jTfE) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ALPHA](https://open.spotify.com/album/79VfxswlqSCscjT31Hm8iO) | 4:17 | 2023-04-06 | 2023-04-19 |

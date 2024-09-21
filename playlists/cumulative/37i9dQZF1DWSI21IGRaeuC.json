@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Bump Artist",
+      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
+    },
+    {
+      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 481343,
       "name": "Courtyard",
       "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
@@ -2073,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205190,
+      "name": "Funkboy",
+      "url": "https://open.spotify.com/track/3GKus5g2N6czJ5Eo4oCGpd"
+    },
+    {
+      "album": {
         "name": "Journey LP",
         "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
       },
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199218,
       "name": "I'm an Alien",
       "url": "https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW"
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -4831,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "Rave Culture",
+        "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381818,
+      "name": "Rave Culture",
+      "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
+    },
+    {
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -6289,6 +6343,24 @@
     },
     {
       "album": {
+        "name": "TellMe / Humanize",
+        "url": "https://open.spotify.com/album/5gjwWNrlr8VSnlWiD3kA8B"
+      },
+      "artists": [
+        {
+          "name": "Vern",
+          "url": "https://open.spotify.com/artist/7jZXM5kkv6JPfrQA0LoY8d"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378437,
+      "name": "TellMe",
+      "url": "https://open.spotify.com/track/11HkvgmPu7vb42DcTNlvwP"
+    },
+    {
+      "album": {
         "name": "Movimiento",
         "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
       },
@@ -6300,7 +6372,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 333913,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
@@ -7490,7 +7562,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
@@ -7586,7 +7658,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 362479,
       "name": "Your GF",
       "url": "https://open.spotify.com/track/2bWgOYs0dOHtsG9QenSvr9"

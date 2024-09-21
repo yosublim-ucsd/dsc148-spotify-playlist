@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
+> Country gone wild! You never know what you're gonna get\. Cover: Kassi Ashton
 
 490 songs - 1 day 0 hr 17 min
 

@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 268987,
       "name": "All the Way Down",
       "url": "https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N"
@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Space Drag",
+        "url": "https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308053,
+      "name": "Ohh Baby",
+      "url": "https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS"
+    },
+    {
+      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/58yvWhYmF5D492OZ86SvLn"
       },
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/47PdEZPuwJ1wOBCVexAm5O"

@@ -4901,6 +4901,28 @@
     },
     {
       "album": {
+        "name": "TYPE BEAT",
+        "url": "https://open.spotify.com/album/17yBGJiBFMw0s7KpmooM6A"
+      },
+      "artists": [
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166450,
+      "name": "Poema Perdido",
+      "url": "https://open.spotify.com/track/5DOaRKCKdxpb672NevhiLR"
+    },
+    {
+      "album": {
         "name": "POETA",
         "url": "https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ"
       },

@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-713 songs - 1 day 9 hr 46 min
+714 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Invejoso](https://open.spotify.com/track/3iC38qSBxIC5Epa1t48G5z) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Ruggi](https://open.spotify.com/artist/70IZPLFSDGRCzXSS3sWqYe) | [Invejoso](https://open.spotify.com/album/4zyFmvMAeHPS9gHELxQLiw) | 2:43 | 2023-01-27 | 2023-04-15 |
 | [Invisto](https://open.spotify.com/track/4BQT37CbzTDHPm6yRAdp5z) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Invisto](https://open.spotify.com/album/2tlcSnDzE0JKPSzQoFdiVy) | 2:04 | 2023-05-05 | 2023-11-04 |
 | [Jet](https://open.spotify.com/track/3a4UKC6g1unfjkzj8apo5r) | [Xandrê](https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Jet](https://open.spotify.com/album/49xDVwPvwt4cqd7a5ugVrn) | 2:18 | 2023-02-03 | 2023-04-15 |
+| [Jim Jones](https://open.spotify.com/track/1CyB5cIlYj7Sjg2yYdpBk5) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Luathug](https://open.spotify.com/artist/0burD8ydqCkfyVSMR2xZhu), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Jim Jones](https://open.spotify.com/album/24p4dRI3Pg0Vmfm3GKC1s3) | 1:58 | 2024-09-20 |  |
 | [Joelhos No Chão](https://open.spotify.com/track/4vOfll9PGvbDWzoAvMVrbZ) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR) | [Joelhos No Chão](https://open.spotify.com/album/63YQkmhOycBeCQo8yPjyEg) | 3:30 | 2022-12-16 | 2023-01-28 |
 | [Joga Pra Raul](https://open.spotify.com/track/5zszt8qm4pW7udLUVfkKFq) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Joga Pra Raul](https://open.spotify.com/album/7BNjDAOTsySow0lwzEUD7F) | 2:40 | 2023-04-28 | 2023-08-05 |
 | [jovem carlos](https://open.spotify.com/track/3vBHy2FE4tBtKqCb1NudJg) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3) | [Jovem Carlos](https://open.spotify.com/album/2S79VWGQ0XpH00D4cXVVm3) | 3:00 | 2022-03-18 | 2023-02-18 |

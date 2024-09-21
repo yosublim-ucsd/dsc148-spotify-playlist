@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> oversvømmer dk 🌊🌊 <a href="spotify:album:71TLoF8RqN7XCrHQbsLj6x">SkyLL</a> 🌊🌊
 
-2,151 songs - 4 day 14 hr 49 min
+2,154 songs - 4 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1742,6 +1742,7 @@
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-09 | 2024-05-17 |
 | [Sort Sky](https://open.spotify.com/track/3Lmvvjhgzd9MsQIq9Fqqt0) | [Løsgænger](https://open.spotify.com/artist/2vGjImvRIcL0jbVJFYhUer) | [Sort Sky](https://open.spotify.com/album/6wqwmsptHMyRJsMKM447ew) | 2:52 | 2024-05-17 | 2024-05-24 |
 | [Sort Sommer](https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [Sort Sommer](https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN) | 2:52 | 2024-06-13 | 2024-06-21 |
+| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-29 | 2024-09-06 |
 | [Sound of Heartache](https://open.spotify.com/track/6ls0Col3YKJSjEBVtjyVLD) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [Sound of Heartache](https://open.spotify.com/album/3iw4SzmAPu9JKEIpIeIgwE) | 4:00 | 2024-05-16 | 2024-05-24 |
 | [Soundboks \(feat\. Kol1\)](https://open.spotify.com/track/2zM8Vqu74BJz9KUFvG5Bcm) | [Alexander Brown](https://open.spotify.com/artist/7lbTzUBIc6BXQNFFvkTqIF), [Kol1](https://open.spotify.com/artist/0u1K7qf5VauQMGVj1QAbJE) | [Soundboks \(feat\. Kol1\)](https://open.spotify.com/album/0PbdRfDpinIWr3B2Ep2sZn) | 2:28 | 2024-06-27 | 2024-07-05 |
@@ -1942,6 +1943,7 @@
 | [Tonight](https://open.spotify.com/track/7GLxYs7ELT4pkbSup12r56) | [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y) | [Tonight](https://open.spotify.com/album/4gf5VPkLdTCQXnO5xodGND) | 2:23 | 2024-08-01 | 2024-08-09 |
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-09 | 2024-05-17 |
 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 | 2024-06-27 | 2024-07-05 |
+| [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-20 |  |
 | [TOO FUCKED UP TO CARE](https://open.spotify.com/track/23PHdDsFYg2gv1GVvLPDoG) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [TOO FUCKED UP TO CARE](https://open.spotify.com/album/0PAQxayx3RSrnWfzqORDd6) | 3:18 | 2024-07-04 | 2024-07-12 |
 | [Too Late](https://open.spotify.com/track/0sm6WPRYaHxmHRFnhcmfwK) | [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN) | [Too Late](https://open.spotify.com/album/3RLkmKyGnDZ9ZsqYee6hEl) | 3:43 | 2024-05-30 | 2024-06-07 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-05-10 |
@@ -1989,6 +1991,7 @@
 | [ULTRA LOVE \(Flute\)](https://open.spotify.com/track/7da26AHtBwV2xpCno4VdXE) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [ULTRA LOVE \(Flute\)](https://open.spotify.com/album/6nsYkEPNI9MGs4Xh56Aiwy) | 2:14 | 2024-08-01 | 2024-08-09 |
 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 | 2024-06-13 | 2024-06-21 |
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-08-09 | 2024-08-16 |
+| [Una Velita](https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Una Velita](https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6) | 3:59 | 2024-09-20 |  |
 | [Unconditional](https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Unconditional](https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq) | 2:51 | 2024-08-09 | 2024-08-16 |
 | [UNDER JORDEN](https://open.spotify.com/track/29yGDmD2fQD9jgb9lMdLdk) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [UNDER JORDEN](https://open.spotify.com/album/1HZhoDmktDNwYJGPC1JZ1I) | 2:41 | 2024-05-23 | 2024-06-01 |
 | [Under Samme Himmel Over Samme Jord](https://open.spotify.com/track/0tEHlmhykfj40wEwzeeoea) | [Juncker](https://open.spotify.com/artist/6UiybWUSi4hZ8AZcqMJVL1) | [Under Samme Himmel Over Samme Jord](https://open.spotify.com/album/6ZTBsLqU0Zprhz5z2RTsRv) | 3:32 | 2024-05-02 | 2024-05-10 |

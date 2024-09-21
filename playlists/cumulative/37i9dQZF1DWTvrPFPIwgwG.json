@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Fernanda Brum",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Aline Barros",
   "name": "Louvores Pentecostais",
   "tracks": [
+    {
+      "album": {
+        "name": "Firme Fundamento",
+        "url": "https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297082,
+      "name": "1 Cor\u00edntios 13",
+      "url": "https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y"
+    },
     {
       "album": {
         "name": "A Cura do C\u00e9u",
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Meu Deus \u00c9 Grande",
+        "url": "https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa"
+      },
+      "artists": [
+        {
+          "name": "Concei\u00e7\u00e3o Cabral",
+          "url": "https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Meu Deus \u00c9 Grande",
+      "url": "https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f"
+    },
+    {
+      "album": {
         "name": "Meu Mestre - Ao Vivo",
         "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
       },
@@ -3764,7 +3800,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 388196,
       "name": "Terceiro C\u00e9u",
       "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"

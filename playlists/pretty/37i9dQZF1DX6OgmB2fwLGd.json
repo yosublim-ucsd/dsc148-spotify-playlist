@@ -1,12 +1,12 @@
 {
   "description": "BNYX\u00ae. Born and raised on the internet.",
-  "num_followers": 1392850,
+  "num_followers": 1392773,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zus/XwAAAADZQod9t+NJArJ74sHjHgpH",
+  "snapshot_id": "Zu33awAAAACPpgBo+v7SbvGk761L6rNk",
   "tracks": [
     {
       "added_at": "2024-09-18 21:00:15",
@@ -69,6 +69,42 @@
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     },
     {
+      "added_at": "2024-09-20 22:30:03",
+      "album": {
+        "name": "Or What",
+        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "added_at": "2024-09-20 22:30:03",
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/47A08e2HHoLNPnC80nxTae"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "VENUS",
+      "url": "https://open.spotify.com/track/2uozsmBhvnNaRIFNgOB0E0"
+    },
+    {
       "added_at": "2024-08-04 18:16:00",
       "album": {
         "name": "A Great Chaos (Deluxe)",
@@ -105,36 +141,20 @@
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
-      "added_at": "2024-08-04 18:16:00",
+      "added_at": "2024-09-20 22:30:03",
       "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
         }
       ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2024-08-09 05:00:00",
-      "album": {
-        "name": "Bundle Of Sticks",
-        "url": "https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Bundle Of Sticks",
-      "url": "https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr"
+      "duration_ms": 109745,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF"
     },
     {
       "added_at": "2024-08-04 02:02:23",
@@ -167,6 +187,22 @@
       "duration_ms": 81883,
       "name": "sassup witcha",
       "url": "https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0"
+    },
+    {
+      "added_at": "2024-09-20 22:30:03",
+      "album": {
+        "name": "VS",
+        "url": "https://open.spotify.com/album/31dXBFB1MyHkCR7TcNkTsa"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 111177,
+      "name": "VS",
+      "url": "https://open.spotify.com/track/0HrbrLnFXLn2n5efpuwACS"
     },
     {
       "added_at": "2024-08-04 18:16:00",
@@ -205,6 +241,22 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
       "added_at": "2024-08-09 17:35:12",
       "album": {
         "name": "B.U.G Antman \"On The Radar\" Freestyle",
@@ -223,6 +275,22 @@
       "duration_ms": 138059,
       "name": "B.U.G Antman \"On The Radar\" Freestyle",
       "url": "https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V"
+    },
+    {
+      "added_at": "2024-08-09 05:00:00",
+      "album": {
+        "name": "Bundle Of Sticks",
+        "url": "https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Bundle Of Sticks",
+      "url": "https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr"
     },
     {
       "added_at": "2024-08-04 18:16:00",
@@ -1215,22 +1283,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Cha Cha",
-        "url": "https://open.spotify.com/album/17Jxv329yHNbPk3lnZjaQE"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 155471,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/6d6wAt8R2IiVNSxpi4lerS"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/5OlXjyMcCgbyvxUME1PhmG"
       },
@@ -1335,22 +1387,6 @@
       "duration_ms": 189740,
       "name": "Skidoo",
       "url": "https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": "2024-04-24 18:33:43",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "backstab",
-        "url": "https://open.spotify.com/album/5LLknxRQqsKN1NDvT5RXfx"
-      },
-      "artists": [
-        {
-          "name": "Mitaya",
-          "url": "https://open.spotify.com/artist/04payxLjRndgbmR2lv97S1"
-        }
-      ],
-      "duration_ms": 139725,
-      "name": "backstab",
-      "url": "https://open.spotify.com/track/64teDenGW4qlIoe6Iiv9Pk"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "CULLINAN GANG (feat. Icewear Vezzo)",
         "url": "https://open.spotify.com/album/60B0F2iSBTAuNUkXVfOgoe"
       },
@@ -1771,22 +1791,6 @@
       "duration_ms": 156000,
       "name": "One Eyed Willy",
       "url": "https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "2024 Freestyle",
-        "url": "https://open.spotify.com/album/38jbC7XeTQcz9HSQzucZLV"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 85251,
-      "name": "2024 Freestyle",
-      "url": "https://open.spotify.com/track/3lBPvQ60VuO9jSR3hj3x2c"
     },
     {
       "added_at": "2024-04-12 04:00:00",

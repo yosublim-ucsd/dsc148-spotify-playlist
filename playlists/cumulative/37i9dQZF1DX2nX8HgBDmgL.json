@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: AP Dhillon",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Jacqueline Fernandez",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -4960,6 +4960,24 @@
       "duration_ms": 149142,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn"
+    },
+    {
+      "album": {
+        "name": "Stormrider",
+        "url": "https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Fernandez",
+          "url": "https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137518,
+      "name": "Stormrider",
+      "url": "https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji"
     },
     {
       "album": {

@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 193740,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 363240,
       "name": "Everything You Touch Is Gold",
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206671,
       "name": "Jusqu'ici tout va bien",
       "url": "https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 218678,
       "name": "LIA",
       "url": "https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk"
@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "R.L.M",
+        "url": "https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225484,
+      "name": "R.L.M",
+      "url": "https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj"
+    },
+    {
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m"
       },
@@ -3239,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Seconds, Minutes, Hours",
+        "url": "https://open.spotify.com/album/4vqGSFdoW2vX2Umle1d2ml"
+      },
+      "artists": [
+        {
+          "name": "JA\u00cfNDA",
+          "url": "https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186165,
+      "name": "Seconds, Minutes, Hours",
+      "url": "https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f"
+    },
+    {
+      "album": {
         "name": "Super-Sonic Family Vol. 2 - Part 1",
         "url": "https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO"
       },
@@ -3409,6 +3445,28 @@
     },
     {
       "album": {
+        "name": "SO EASY",
+        "url": "https://open.spotify.com/album/7Awfv95wCFRRriRdsQOOim"
+      },
+      "artists": [
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        },
+        {
+          "name": "Leela Rosa",
+          "url": "https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192291,
+      "name": "SO EASY - Radio Edit",
+      "url": "https://open.spotify.com/track/4Z5igGvfyftnH9j0IePsnl"
+    },
+    {
+      "album": {
         "name": "Soul Food",
         "url": "https://open.spotify.com/album/2htOZn8am6ef2XY9FVWusV"
       },
@@ -3482,6 +3540,28 @@
       "duration_ms": 236640,
       "name": "Status Quo",
       "url": "https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
     },
     {
       "album": {

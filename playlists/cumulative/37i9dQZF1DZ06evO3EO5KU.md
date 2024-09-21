@@ -2,7 +2,7 @@
 
 ### [This Is Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EO5KU)
 
-> This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
+> This Is Los Plebes del Rancho de Ariel Camacho\. Los temas esenciales, todos en una lista.
 
 92 songs - 4 hr 59 min
 

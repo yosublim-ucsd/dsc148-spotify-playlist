@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Same Oley!",
+        "url": "https://open.spotify.com/album/2jzRKDy29pyLWhuSvZRF0v"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193104,
+      "name": "Same Oley!",
+      "url": "https://open.spotify.com/track/5XvXGeZg2FHHTrSt6TrTbI"
+    },
+    {
+      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -3290,6 +3308,24 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249994,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8"
     },
     {
       "album": {

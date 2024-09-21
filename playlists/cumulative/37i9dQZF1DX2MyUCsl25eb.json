@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171700,
       "name": "Black Car",
       "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
@@ -7579,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "In A Song (Lost & Found)",
+        "url": "https://open.spotify.com/album/0hpAIaL7246Sy2EweAvIQV"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254587,
+      "name": "In A Song (Lost & Found)",
+      "url": "https://open.spotify.com/track/4UqYBqytpDXC9eD8hMmezL"
+    },
+    {
+      "album": {
         "name": "In Real Life",
         "url": "https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9"
       },
@@ -9778,6 +9796,24 @@
       "duration_ms": 159157,
       "name": "Modern Art",
       "url": "https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK"
+    },
+    {
+      "album": {
+        "name": "Modern Heartbreak",
+        "url": "https://open.spotify.com/album/0kfpSgFPwUPabG8LFcwFc2"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "Modern Heartbreak",
+      "url": "https://open.spotify.com/track/6MNaL55kTqxkyQlUErPcib"
     },
     {
       "album": {
@@ -15174,7 +15210,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 181632,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3NSfknvFy4Z9TguAVNe39W"

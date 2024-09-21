@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 151384,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 224846,
       "name": "NEVER GIVE UP",
       "url": "https://open.spotify.com/track/30Nt7gMZBXVxsl5bwL6PqL"
@@ -8010,6 +8010,28 @@
       "duration_ms": 146086,
       "name": "Vai Ter Que Aturar",
       "url": "https://open.spotify.com/track/5ZSsSb5WHUhJxc6DwRCRNo"
+    },
+    {
+      "album": {
+        "name": "VERS\u00c3O DEMO!",
+        "url": "https://open.spotify.com/album/1XbT73ixlcZQJTNP3uOLWu"
+      },
+      "artists": [
+        {
+          "name": "GELEIA",
+          "url": "https://open.spotify.com/artist/7EtywcjFtuCktnq6sECWjg"
+        },
+        {
+          "name": "j3llyX",
+          "url": "https://open.spotify.com/artist/5iTcI9GzniWIJkg7FTxwOw"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "VERS\u00c3O DEMO!",
+      "url": "https://open.spotify.com/track/314YQ37oMLHdQfYVo1KlQp"
     },
     {
       "album": {

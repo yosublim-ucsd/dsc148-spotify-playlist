@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 96056,
+  "num_followers": 96119,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "San",
         "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Rubycon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 1037451,
+      "name": "Rubycon - Pt. 1 / Remastered 2018",
+      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "New Age Of Earth",
         "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
@@ -711,26 +727,6 @@
       "duration_ms": 762666,
       "name": "Ocean Of Tenderness",
       "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/34507GICqU2YpiJEbBOKph"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Peer Gynt, Suite No. 2: Solveig's Song",
-      "url": "https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rubycon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/34507GICqU2YpiJEbBOKph"
       },
       "artists": [
         {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
         }
       ],
-      "duration_ms": 1037451,
-      "name": "Rubycon - Pt. 1 / Remastered 2018",
-      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
+      "duration_ms": 289666,
+      "name": "Peer Gynt, Suite No. 2: Solveig's Song",
+      "url": "https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hergest Ridge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
         }
       ],
-      "duration_ms": 1161586,
-      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
-      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
+      "duration_ms": 114893,
+      "name": "Stained-Glass Morning",
+      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+        "name": "Hergest Ridge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
       },
       "artists": [
         {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 114893,
-      "name": "Stained-Glass Morning",
-      "url": "https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK"
+      "duration_ms": 1161586,
+      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
+      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "For The Beauty Of The Earth - Instrumental",
+      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Desert Dawn Song",
         "url": "https://open.spotify.com/album/59ZWCfkuVk6azyxUAv1RTW"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 512466,
       "name": "Canyon Sunrise",
       "url": "https://open.spotify.com/track/5oH0mctkDw8fCnmMLSrDnF"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "For The Beauty Of The Earth - Instrumental",
-      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The First Seven Days",
-        "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
+        "name": "Glide/Star Gazer",
+        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
       },
       "artists": [
         {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+          "name": "Peter Davison",
+          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
         }
       ],
-      "duration_ms": 376333,
-      "name": "Oceans And Continents",
-      "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
+      "duration_ms": 505733,
+      "name": "Glide III",
+      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Glide/Star Gazer",
-        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+        "name": "The First Seven Days",
+        "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
       },
       "artists": [
         {
-          "name": "Peter Davison",
-          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
         }
       ],
-      "duration_ms": 505733,
-      "name": "Glide III",
-      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+      "duration_ms": 376333,
+      "name": "Oceans And Continents",
+      "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
     },
     {
       "added_at": "2023-08-18 14:02:54",

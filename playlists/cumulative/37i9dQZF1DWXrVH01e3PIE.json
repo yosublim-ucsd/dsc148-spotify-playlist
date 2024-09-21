@@ -4357,6 +4357,28 @@
     },
     {
       "album": {
+        "name": "No Me Ven",
+        "url": "https://open.spotify.com/album/2YAgciToY1dJMpLTulHQcg"
+      },
+      "artists": [
+        {
+          "name": "PRIZE",
+          "url": "https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R"
+        },
+        {
+          "name": "almeja",
+          "url": "https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113424,
+      "name": "No Me Ven",
+      "url": "https://open.spotify.com/track/6jHAVplo0ffg3t9Q9bQPgf"
+    },
+    {
+      "album": {
         "name": "No Nos Quieren Ver",
         "url": "https://open.spotify.com/album/1rWZb3H3qOCXSCehFeIGx7"
       },
@@ -4656,6 +4678,28 @@
       "duration_ms": 170320,
       "name": "OPA",
       "url": "https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI"
+    },
+    {
+      "album": {
+        "name": "ORGULLO",
+        "url": "https://open.spotify.com/album/7E89jZLvQK2eKBnpYtlmV8"
+      },
+      "artists": [
+        {
+          "name": "Frozouda",
+          "url": "https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL"
+        },
+        {
+          "name": "Davus",
+          "url": "https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/5z7by2aX9wuqFfmxr0shY4"
     },
     {
       "album": {

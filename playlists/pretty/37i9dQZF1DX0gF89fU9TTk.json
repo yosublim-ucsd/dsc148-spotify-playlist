@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 135882,
+  "num_followers": 135908,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 211960,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Till the Earth",
         "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Desert River",
-        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
       },
       "artists": [
         {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
         }
       ],
-      "duration_ms": 196653,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -959,6 +943,22 @@
       "duration_ms": 200687,
       "name": "Heaven Calling - Live",
       "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "A Day In The Life",
-        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6uQDtiVknSKRo1QpnFCNoh"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 212727,
       "name": "You Got Me - Radio Version",
       "url": "https://open.spotify.com/track/5JanbpCjPtVo9AK6DfZYjB"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "A Day In The Life",
+        "url": "https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US"
     },
     {
       "added_at": "2024-06-25 03:27:03",

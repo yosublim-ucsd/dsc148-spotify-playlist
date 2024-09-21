@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 54334,
+  "num_followers": 54374,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "It Means Everything",
-        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "Come on Eileen",
-      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "It Means Everything",
+        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "Come on Eileen",
+      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Love, Lies & Alibis",
-        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
-      },
-      "artists": [
-        {
-          "name": "The Calamatix",
-          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
-        }
-      ],
-      "duration_ms": 128317,
-      "name": "Love, Lies & Alibis",
-      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Love, Lies & Alibis",
+        "url": "https://open.spotify.com/album/0hYKCzWLrX2kB0w3wyL7gF"
+      },
+      "artists": [
+        {
+          "name": "The Calamatix",
+          "url": "https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys"
+        }
+      ],
+      "duration_ms": 128317,
+      "name": "Love, Lies & Alibis",
+      "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "\u0414\u043e \u043f\u0438\u0437\u0434\u044b!",
-        "url": "https://open.spotify.com/album/1Z9qZEbhlA8MlvuCNk1ruS"
-      },
-      "artists": [
-        {
-          "name": "\u0413\u043e\u043b\u043e\u0441 \u041e\u043c\u0435\u0440\u0438\u043a\u0438",
-          "url": "https://open.spotify.com/artist/55ZUOmgOA5n23s8mvWChMj"
-        }
-      ],
-      "duration_ms": 132900,
-      "name": "\u0414\u043e \u043f\u0438\u0437\u0434\u044b!",
-      "url": "https://open.spotify.com/track/6vQCECWhXx3JMp7Ld2HAng"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Brass Emo, Vol. 2",
         "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 193500,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "\u0414\u043e \u043f\u0438\u0437\u0434\u044b!",
+        "url": "https://open.spotify.com/album/1Z9qZEbhlA8MlvuCNk1ruS"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u043b\u043e\u0441 \u041e\u043c\u0435\u0440\u0438\u043a\u0438",
+          "url": "https://open.spotify.com/artist/55ZUOmgOA5n23s8mvWChMj"
+        }
+      ],
+      "duration_ms": 132900,
+      "name": "\u0414\u043e \u043f\u0438\u0437\u0434\u044b!",
+      "url": "https://open.spotify.com/track/6vQCECWhXx3JMp7Ld2HAng"
     },
     {
       "added_at": "2024-08-30 06:00:00",

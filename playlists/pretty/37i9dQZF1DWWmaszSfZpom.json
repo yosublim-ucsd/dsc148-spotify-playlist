@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 957083,
+  "num_followers": 957041,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
         "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 240666,
       "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
       "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Bumbum Granada",
-        "url": "https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16"
-      },
-      "artists": [
-        {
-          "name": "Mc's Zaac & Jerry Smith",
-          "url": "https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3"
-        }
-      ],
-      "duration_ms": 187924,
-      "name": "Bumbum Granada",
-      "url": "https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ"
+        "name": "Bumbum Granada",
+        "url": "https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Mc's Zaac & Jerry Smith",
+          "url": "https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g"
+      "duration_ms": 187924,
+      "name": "Bumbum Granada",
+      "url": "https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf"
     },
     {
       "added_at": "2023-06-26 14:06:50",

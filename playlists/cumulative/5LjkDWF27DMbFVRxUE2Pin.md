@@ -4,7 +4,7 @@
 
 > 
 
-468 songs - 1 day 5 hr 50 min
+470 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Godspell](https://open.spotify.com/track/0DCFw6EL8ogVYGlAHetO9k) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Revelations](https://open.spotify.com/album/3B5EideIJlim28a2PYoXEE) | 4:30 | 2024-08-23 | 2024-09-09 |
 | [Going Down to Texas](https://open.spotify.com/track/7lwNFIGQLQ1zg2iOQ2nC99) | [The Ragged Jubilee](https://open.spotify.com/artist/215eIAlzFwxx1bIXyw2Qgb) | [American Moan](https://open.spotify.com/album/4oH8QL9siemBGSDWMkmK1c) | 2:07 | 2024-07-18 |  |
 | [Gone](https://open.spotify.com/track/20aUwrJ5GXdwFW5YgEyUiP) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Gone](https://open.spotify.com/album/4KYRPGcjvjgx9awdC5NEsW) | 3:23 | 2024-07-19 |  |
+| [Gonna Find What's Killing Me](https://open.spotify.com/track/6SDseSF6qW6uEVXOAfp6Al) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 3:37 | 2024-09-20 |  |
 | [Good And Bad](https://open.spotify.com/track/2NGMUyLWCB43kUlse3CSXy) | [IBRA](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p) | [Good And Bad](https://open.spotify.com/album/4GXbvWPdGIXWYG2Ie25btm) | 3:10 | 2024-07-16 | 2024-07-31 |
 | [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 | 2024-07-19 |  |
 | [Good Morning](https://open.spotify.com/track/2a9sbZbWXmRJy0QLHvIu63) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [More Late Night Transmissions With...](https://open.spotify.com/album/6khax1qrW3LNlfAxwgEBq4) | 3:15 | 2024-07-18 |  |
@@ -247,6 +248,7 @@
 | [Let the Rythm Just](https://open.spotify.com/track/0V2BRkFPTQ5DucdayrSelz) | [The Polish Ambassador](https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU), [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1), [Mr\. Lif](https://open.spotify.com/artist/6qbtuhThjXYnpldXCczlDd) | [Terra Bella](https://open.spotify.com/album/5yToPUYfTX4kyW9RsHrZkz) | 5:55 | 2024-07-19 |  |
 | [Let's Build a Home](https://open.spotify.com/track/6eRkRjdcXutZWhXvhbqKTm) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 1:58 | 2024-07-16 |  |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-07-16 | 2024-07-31 |
+| [Let's Turn This Back Around](https://open.spotify.com/track/4A20ZnyWpMOhdRvcq0JXDr) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 5:28 | 2024-09-20 |  |
 | [Like Humans](https://open.spotify.com/track/1Ihk3DPLfci15MfQtVJtCk) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:46 | 2024-07-16 |  |
 | [Like Me \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/75a5fcQSduYyC93gXtgGhk) | [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC), [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Spencer Lee](https://open.spotify.com/artist/2KudRwdzlqiAKZDpxPoHV2), [Teen Beach Movie Cast](https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:18 | 2024-07-18 |  |
 | [Lilith Be Gone](https://open.spotify.com/track/1VoJ4WvTDVpIi3AKwCW9o7) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 5:36 | 2024-07-21 |  |

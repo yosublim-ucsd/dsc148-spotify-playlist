@@ -2,7 +2,7 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
 156 songs - 8 hr 20 min
 

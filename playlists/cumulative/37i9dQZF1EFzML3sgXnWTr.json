@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "SEXY SHOP",
+        "url": "https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188684,
+      "name": "SEXY SHOP",
+      "url": "https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q"
+    },
+    {
+      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
       },

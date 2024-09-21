@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 66030,
+  "num_followers": 66100,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAAkrKEH1FP68gS0g9Hu3e/y",
+  "snapshot_id": "ZutpgAAAAACPcJFH+E7DuW32i+VUPG1V",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "De la Estancia a Cosala",
+        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
+      },
+      "artists": [
+        {
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 139853,
+      "name": "De la Estancia a Cosala",
+      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 151498,
+      "name": "El 10 De Mayo",
+      "url": "https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -367,42 +403,6 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a (En Vivo)",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 151498,
-      "name": "El 10 De Mayo",
-      "url": "https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De la Estancia a Cosala",
-        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
-      },
-      "artists": [
-        {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 139853,
-      "name": "De la Estancia a Cosala",
-      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mexicano",
         "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 311530,
       "name": "La Plebada del Mayo",
       "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 139856,
-      "name": "Agasajaba La Noche",
-      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -807,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 203632,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 155991,
-      "name": "El Compa Koki (En Vivo)",
-      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -852,29 +800,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 150713,
-      "name": "Y Van A Hablar",
-      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "Casi se les hizo (En Vivo)",
-      "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
+      "duration_ms": 139856,
+      "name": "Agasajaba La Noche",
+      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
     },
     {
       "added_at": null,
@@ -902,11 +830,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 155688,
-      "name": "El Encuentro (En Vivo)",
-      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
+      "duration_ms": 155991,
+      "name": "El Compa Koki (En Vivo)",
+      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     },
     {
       "added_at": null,
@@ -927,6 +859,74 @@
       "duration_ms": 157646,
       "name": "Pa' Morir Nacimos",
       "url": "https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 150713,
+      "name": "Y Van A Hablar",
+      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 203632,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 155688,
+      "name": "El Encuentro (En Vivo)",
+      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Casi se les hizo (En Vivo)",
+      "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
     },
     {
       "added_at": null,

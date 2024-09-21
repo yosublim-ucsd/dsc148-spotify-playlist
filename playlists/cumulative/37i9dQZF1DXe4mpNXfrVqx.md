@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-203 songs - 9 hr 5 min
+204 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 | 2023-08-25 |  |
 | [Céu Azul](https://open.spotify.com/track/6vujCNtjd9nJoj4xbEN7cR) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Setenta Vezes Sete](https://open.spotify.com/album/2Mxe3iJpNa7pjcTG3e3gED) | 3:11 | 2022-03-18 | 2022-08-27 |
 | [Da Minha Janela](https://open.spotify.com/track/2iB7aFaUqa9lQbsNMYYSoS) | [Alana Pires](https://open.spotify.com/artist/5jmnFNMoHnnc2YU9emT4ce) | [Da Minha Janela](https://open.spotify.com/album/2ubQ78WGsyH3v3Uc97k4Sk) | 2:12 | 2022-03-18 | 2023-04-01 |
+| [Daiquiri](https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [Who Is The Villain ??](https://open.spotify.com/album/4xTavRVrCq0snxkVv0WdUk) | 2:51 | 2024-09-20 |  |
 | [Dama da Noite](https://open.spotify.com/track/0wOYCvsXQvHXYghnIzXiP4) | [Charlotte](https://open.spotify.com/artist/0KY3H0d4zc4Pwi7d7Onmn8), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Dama da Noite](https://open.spotify.com/album/4vbJPuDV02FML2XNieJxei) | 1:58 | 2022-03-18 | 2022-05-28 |
 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 | 2022-11-11 |  |
 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 | 2023-01-27 |  |

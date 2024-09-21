@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-280 songs - 15 hr 15 min
+284 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 | 2023-10-17 | 2023-12-02 |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-05-07 |  |
 | [Break Your Little Heart](https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 2:51 | 2023-02-12 | 2023-12-02 |
+| [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 | 2024-09-13 |  |
 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 | 2023-06-30 | 2023-12-02 |
 | [Calling All Skeletons](https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:18 | 2024-01-09 |  |
 | [Came Out Swinging](https://open.spotify.com/track/206qxxvb6LcAFzoIGu6ThG) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Suburbia I've Given You All and Now I'm Nothing](https://open.spotify.com/album/4PlxnN6VBlSu3vTBSlNxpp) | 4:04 | 2024-01-09 |  |
@@ -217,6 +218,7 @@
 | [Sick Ride](https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ) | 1:37 | 2024-05-21 |  |
 | [Since U Been Gone](https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart \(Deluxe Edition\)](https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq) | 3:18 | 2024-01-09 |  |
 | [Sleep In The Snow](https://open.spotify.com/track/7J10tcevpAIx05rzvCYbaj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 4:02 | 2023-12-01 | 2024-01-10 |
+| [Sleep On The Floor](https://open.spotify.com/track/6OcPCa0QD8WydtjDrmlzm3) | [Crash the Calm](https://open.spotify.com/artist/4z0T4u61g7AUCjxoygPCAT) | [Sleep On The Floor](https://open.spotify.com/album/6PgUPkqJUjz4FN8yts57Ri) | 3:34 | 2024-09-20 |  |
 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 | 2023-12-01 | 2024-01-10 |
 | [Slow Down](https://open.spotify.com/track/4VbxZbS5Vrwr8nnHCFBiXx) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Almost Here](https://open.spotify.com/album/1UFqUhgdLfxuV3AzVGlbOR) | 4:02 | 2024-01-09 |  |
 | [Somber Christmas](https://open.spotify.com/track/0bZa6s56vL4s5jG6ga4OwH) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/4NzdzadUC2QiDojUKnZHXk) | 3:04 | 2023-12-01 | 2024-01-10 |
@@ -250,6 +252,7 @@
 | [The Last Song](https://open.spotify.com/track/2vLgTJ8YADmKDvrfkrUCaJ) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [The All\-American Rejects](https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR) | 5:00 | 2024-01-09 |  |
 | [The Night I Drove Alone](https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 2:13 | 2023-10-19 | 2023-12-02 |
 | [The One](https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [The One](https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa) | 3:17 | 2023-06-30 | 2023-12-02 |
+| [The Permanent Rain](https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Reach For The Sun](https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T) | 3:23 | 2024-09-13 |  |
 | [The Queen and I](https://open.spotify.com/track/30rMFp7OhWINAeolcp0o21) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [As Cruel as School Children](https://open.spotify.com/album/7oudPjsM2U10YTaWOPRVxm) | 3:14 | 2023-10-19 | 2023-12-02 |
 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 | 2024-01-09 |  |
 | [The River](https://open.spotify.com/track/0d8aJLKZI1r4uOSLZBJaBK) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50) | 3:15 | 2024-09-13 |  |
@@ -271,6 +274,7 @@
 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 | 2023-10-19 | 2023-12-02 |
 | [Vicious Love](https://open.spotify.com/track/3MruDgZarPs29xWZXn9D9L) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Vicious Love](https://open.spotify.com/album/4rtTqz6nQNNzgeJluDCeML) | 2:48 | 2024-08-01 |  |
 | [Vicious Love](https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:23 | 2024-08-01 |  |
+| [Wasting Time \(Eternal Summer\)](https://open.spotify.com/track/14wr2I5FsCigi2Pkbr2qDf) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Enemy Of The World \(Special Edition\)](https://open.spotify.com/album/0gjHvmSpyBfFZDkIELtpzK) | 3:17 | 2024-09-13 |  |
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2024-01-09 |  |
 | [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:18 | 2023-10-19 |  |
 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 | 2023-12-01 | 2024-01-10 |

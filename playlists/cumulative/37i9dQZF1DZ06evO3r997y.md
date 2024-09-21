@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3r997y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3r997y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3r997y)
 
-### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
+### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is 鬼頭明里\. The essential tracks, all in one playlist.
+> This is Akari Kito\. Todos os maiores hits em uma só playlist.
 
 76 songs - 5 hr 3 min
 

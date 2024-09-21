@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 14 hr 3 min
+188 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Medley: Toot Suite \(feat\. Britt Woodman, Russell Procope, Jimmy Hamilton, Shorty Baker, Paul Gonsalves, Russell Proscope & Quentin Jackson\)](https://open.spotify.com/track/6lVEpRlUShV1oev5QSe7v7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Britt Woodman](https://open.spotify.com/artist/2uWUfjAPSMukkv9JYXRRfR), [Jimmy Hamilton](https://open.spotify.com/artist/2DyjqJKeLalliPzVY3jkiO), [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4), [Russell Proscope](https://open.spotify.com/artist/2VkhklRSF85ZgedNixqVXZ), [Quentin Jackson](https://open.spotify.com/artist/3wjEknI2VOYTXX19XYM6hC), [Shorty Baker](https://open.spotify.com/artist/7DP7PBKuVbfPeShXxvQjXA), [Russell Procope](https://open.spotify.com/artist/5vaCDVsZZuXM6xw1VX8DR3) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 21:34 | 2022-09-08 |  |
 | [Metronome All Out](https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 4:49 | 2023-12-13 |  |
 | [Metronome All Out](https://open.spotify.com/track/6es9cgKzxIgzzZl1MkAm0C) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Treasury Shows, Vol\. 22](https://open.spotify.com/album/7suIqutbZgxZRAKf3y5hn8) | 4:58 | 2022-09-08 | 2023-12-14 |
-| [Midriff](https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:51 | 2022-09-08 |  |
+| [Midriff](https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:51 | 2022-09-08 | 2024-09-21 |
+| [Midriff \(12\)](https://open.spotify.com/track/23NLaObSzSJAmhdhHuumEA) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Historically Speaking \- The Duke \(Remastered 2014\)](https://open.spotify.com/album/7muEOF7DUhMsvqAN0nwsJw) | 3:51 | 2024-09-20 |  |
 | [Multi Colored Blue \- Live](https://open.spotify.com/track/0j3dyr0lRqbzNLOSyJdDQG) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Live In Swing City\- Swingin' With Duke](https://open.spotify.com/album/0KNlMgyXjMj1FbilKgoSw9) | 6:12 | 2022-09-08 |  |
 | [Multi\-Colored Blue](https://open.spotify.com/track/2wrrQmt53rimB1ZEdmLrJd) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/12aQHZD9fMjRqv9ny97mNk) | 6:29 | 2023-07-26 | 2023-12-24 |
 | [Multi\-Colored Blue](https://open.spotify.com/track/5yOfOxh7w2NgMIvS9rMtqb) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6jLzz5vXJ760qXUA6fO5Ve) | 6:29 | 2023-12-23 |  |

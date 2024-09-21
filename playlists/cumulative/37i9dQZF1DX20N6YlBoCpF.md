@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=l1Sv3fBiR\_mgrZaxYxouZw">Early B</a>
 
-1,189 songs - 2 day 18 hr 48 min
+1,190 songs - 2 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Kom Terug \- Radio Edit](https://open.spotify.com/track/06tDbI3tpM8tEegjENyki1) | [Jennifer Zamudio](https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS) | [Kom Terug \(Radio Edit\)](https://open.spotify.com/album/41yrAyz0Qf5ZjTlagYjGn6) | 3:55 | 2023-03-02 | 2023-06-17 |
 | [Komeet](https://open.spotify.com/track/69vbzbwI2vPXguduchibPl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Komeet](https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5) | 3:25 | 2024-04-11 | 2024-07-05 |
 | [Kondisie](https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Kondisie](https://open.spotify.com/album/6Hy8tu66nDSlrKAq2hFxNq) | 3:26 | 2024-09-05 | 2024-09-13 |
+| [Koning van die wentel](https://open.spotify.com/track/1t5pjQAlp3DNrBllqfwLjt) | [Perfect Tz](https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9) | [Koning van die wentel](https://open.spotify.com/album/63XESLcdyRadNMdq8Kmw0z) | 3:12 | 2024-09-19 |  |
 | [Koning van harte](https://open.spotify.com/track/7fwvKEAvGsy8LeBDi2XdkC) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Koning van harte](https://open.spotify.com/album/2tT8g6TB8bOcxaHAwzlYL8) | 3:21 | 2024-08-22 | 2024-08-30 |
 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 | 2022-09-15 | 2022-11-11 |
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-06-30 |

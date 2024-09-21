@@ -1,6 +1,6 @@
 {
   "description": "This week's top new releases. Cover: Loco Escrito",
-  "num_followers": 40807,
+  "num_followers": 40833,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Kinder k\u00f6nnen fies sein",
         "url": "https://open.spotify.com/album/013tXdkWpzhE8TQ8IJRmRw"
       },
@@ -1755,6 +1771,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 159893,
+      "name": "TEFLON DON",
+      "url": "https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "DIRTY LITTLE SECRET",
         "url": "https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6"
       },
@@ -2143,6 +2175,22 @@
       "duration_ms": 223746,
       "name": "I Wanna Be A Mother",
       "url": "https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     }
   ],
   "unique_name": "New Music Friday Switzerland",

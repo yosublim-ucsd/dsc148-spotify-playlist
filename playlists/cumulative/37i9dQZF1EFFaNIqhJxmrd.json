@@ -1933,6 +1933,32 @@
     },
     {
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/05CVwLD4Y4g9QNrNebTn49"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        },
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "Liv Dawson",
+          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183135,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/0jGUDxjgD4M8YTRzaehmHj"
+    },
+    {
+      "album": {
         "name": "Yellow (feat. Liv Dawson)",
         "url": "https://open.spotify.com/album/7xWfj3fmILRUZOkkVVT25K"
       },
@@ -1952,7 +1978,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183135,
       "name": "Yellow (feat. Liv Dawson)",
       "url": "https://open.spotify.com/track/0lC83S3FdN9tMUZz6RVQAr"

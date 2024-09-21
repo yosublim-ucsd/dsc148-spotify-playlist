@@ -1,28 +1,60 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 520832,
+  "num_followers": 520873,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4/AAAAAA5UFMo7mZO8gv2W81iFWGx",
+  "snapshot_id": "ZuzzQAAAAAC2yBurwfl6tNB8YUm0PIV7",
   "tracks": [
     {
-      "added_at": "2024-09-13 04:01:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "What Happens Now? - Deluxe",
-        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
+      "duration_ms": 214800,
+      "name": "CHUCK TAYLORS",
+      "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "What a Day",
+        "url": "https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "What a Day",
+      "url": "https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -43,6 +75,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "What Happens Now? - Deluxe",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/1X860wRKiP3e9cJmVhHV8K"
       },
@@ -55,38 +103,6 @@
       "duration_ms": 211310,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "What a Day",
-        "url": "https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "What a Day",
-      "url": "https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 234090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 216958,
       "name": "BIG",
       "url": "https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "chapter of me",
-        "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "feel it now (alive)",
-      "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
     }
   ],
   "unique_name": "Evening Commute",

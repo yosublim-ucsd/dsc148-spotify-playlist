@@ -2,7 +2,7 @@
 
 ### [This Is Eladio Carrion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vZHOp)
 
-> This is Eladio Carrion\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Eladio Carrion\. The essential tracks, all in one playlist.
 
 72 songs - 3 hr 49 min
 

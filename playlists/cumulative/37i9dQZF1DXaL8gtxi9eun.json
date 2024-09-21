@@ -4109,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "Wahshak",
+        "url": "https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "Wahshak",
+      "url": "https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf"
+    },
+    {
+      "album": {
         "name": "Wahshany",
         "url": "https://open.spotify.com/album/2u1x9iR0q7dLwX4aEHaJ1N"
       },

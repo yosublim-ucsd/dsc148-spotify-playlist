@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191733,
       "name": "Come Monday",
       "url": "https://open.spotify.com/track/0yje3JVMgJNZENayymCTHA"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200866,
       "name": "Eyes On You (feat. Chase Rice)",
       "url": "https://open.spotify.com/track/7HM8TbCagVN3nrfF2UshfP"
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "No Wake Zone",
+        "url": "https://open.spotify.com/album/7HLrDW7ZH15hbE2ecDu2rn"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239923,
+      "name": "My Kind Of Medicine",
+      "url": "https://open.spotify.com/track/67noKjgLQ5GozYbT21Jmtb"
+    },
+    {
+      "album": {
         "name": "No Caller ID",
         "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 233347,
       "name": "River In The Rain",
       "url": "https://open.spotify.com/track/4C8Chco6bxNKxPmVfmdEaL"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 187351,
       "name": "Rum and Somethin'",
       "url": "https://open.spotify.com/track/2hQlaOq4JjuNOBED6ifrpy"
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 177083,
       "name": "Settle Me Down",
       "url": "https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 244373,
       "name": "Wave on Wave",
       "url": "https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 206373,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP"

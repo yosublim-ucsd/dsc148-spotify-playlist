@@ -2,15 +2,16 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Caylee Hammack
+> The extraordinary women making great country music today\. Cover: Reyna Roberts
 
-385 songs - 21 hr 0 min
+386 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 | 2022-03-25 | 2022-04-20 |
 | [20Something](https://open.spotify.com/track/75CBAcsuwlFdLDt7lLzgVc) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [20Something](https://open.spotify.com/album/0tIU8Lg0dDr9VhWcDJM12C) | 3:09 | 2023-03-17 | 2023-06-03 |
 | [2AM in London](https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [2AM in London](https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ) | 3:03 | 2024-04-01 | 2024-07-02 |
+| [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 | 2024-09-20 |  |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-12-01 | 2024-07-02 |
 | [Act Like You Don't](https://open.spotify.com/track/0q6FfCDdYn9VNucILsROWk) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Welcome to the Weekend](https://open.spotify.com/album/1lGTiWiRf5AiLmaFGCZcAZ) | 3:52 | 2022-03-25 | 2022-04-21 |
 | [Ain't That Hard](https://open.spotify.com/track/0zugwsQ23vrpGmdkPvA7Gp) | [Lauren Jenkins](https://open.spotify.com/artist/1whTajjCTeh30qVZD4jSov) | [Ain't That Hard](https://open.spotify.com/album/31dzGWG9T9p8ltXg7UNAwV) | 3:06 | 2022-03-25 | 2022-04-15 |
@@ -56,7 +57,7 @@
 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 | 2022-03-25 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-02-11 | 2024-07-02 |
 | [Clean](https://open.spotify.com/track/4Cs2SaQLxF1FXbMnfJLlfy) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Clean](https://open.spotify.com/album/5Y9g9o0gBrN1FiAc9xDF6i) | 3:03 | 2021-12-01 | 2022-04-20 |
-| [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 |  |
+| [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 | 2024-09-21 |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2022-03-25 | 2022-04-21 |
 | [Cool About It](https://open.spotify.com/track/6PGNiIVGzWYTOaGXPoL9pV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart On My Glass](https://open.spotify.com/album/0x5tWCQaw2ZGitlV8EdVN1) | 3:29 | 2022-03-04 | 2022-07-27 |
 | [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 | 2024-07-01 | 2024-08-03 |

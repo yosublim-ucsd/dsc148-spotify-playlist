@@ -2,7 +2,7 @@
 
 ### [Habibi Gang Gang](https://open.spotify.com/playlist/37i9dQZF1DX3MGdnF1V53j)
 
-> Masri on the cover of Habibi Gang Gang
+> L'Algérino & Soolking on the cover of Habibi Gang Gang
 
 119 songs - 5 hr 43 min
 
@@ -62,7 +62,7 @@
 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 | 2024-02-29 |  |
 | [Lalat Nsa](https://open.spotify.com/track/176uJPdW7U9OHgnoWNDIft) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj) | [Lalat Nsa](https://open.spotify.com/album/5QonXzvLWWtCSNv6AMHYkl) | 2:40 | 2024-05-16 |  |
 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 | 2024-05-23 |  |
-| [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 | 2024-02-29 | 2024-09-20 |
+| [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 | 2024-02-29 |  |
 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 | 2024-02-29 |  |
 | [Lick \- North African Remix](https://open.spotify.com/track/3cMFuO5FBPqANjHlWbXLxM) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Lick \(North African Remix\)](https://open.spotify.com/album/1mUMh0VT7a9YeqDno2u6IJ) | 3:17 | 2024-02-29 | 2024-04-26 |
 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 | 2024-02-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Diegote",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 129000,
       "name": "Boombastic",
       "url": "https://open.spotify.com/track/4g0XCHhhvmkIAzHBGx0Cbl"
@@ -1543,6 +1543,32 @@
     },
     {
       "album": {
+        "name": "Rehab",
+        "url": "https://open.spotify.com/album/1E3t2iK4eMsVjy83iZvqay"
+      },
+      "artists": [
+        {
+          "name": "Nadal015",
+          "url": "https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        },
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189456,
+      "name": "Calent\u00f3n",
+      "url": "https://open.spotify.com/track/0dQZKhN6wYXSCtzzZLqlqs"
+    },
+    {
+      "album": {
         "name": "CALIENTE",
         "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
       },
@@ -1614,7 +1640,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 191644,
       "name": "Canas de Marfil",
       "url": "https://open.spotify.com/track/7ETW4X5QLGjQ0Jg8OCVMUR"
@@ -2004,7 +2030,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 170000,
       "name": "Corre",
       "url": "https://open.spotify.com/track/6tQq6wuq7abELhlb6aTR1p"
@@ -2052,7 +2078,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 172173,
       "name": "Crec\u00ed con Poco",
       "url": "https://open.spotify.com/track/6o59j2R8t95HtAlUtOgdmY"
@@ -2716,7 +2742,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 110634,
       "name": "El D\u00eda Que Yo Quiera",
       "url": "https://open.spotify.com/track/4ovo8SoNQpM3jweBCJxKEi"
@@ -2862,6 +2888,28 @@
       "duration_ms": 231201,
       "name": "Entrar Aqu\u00ed",
       "url": "https://open.spotify.com/track/1heP3RfoM4XAcZKde943ho"
+    },
+    {
+      "album": {
+        "name": "ES COMO FAK",
+        "url": "https://open.spotify.com/album/73KT9WlDKkzNMOqtnOxnCa"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        },
+        {
+          "name": "JCC",
+          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139361,
+      "name": "ES COMO FAK",
+      "url": "https://open.spotify.com/track/5sUbra1c8ZDnD9chdM4cUf"
     },
     {
       "album": {
@@ -3264,7 +3312,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 124800,
       "name": "Galer\u00eda",
       "url": "https://open.spotify.com/track/48CpCetPor8JQitTeoZhfY"
@@ -3586,6 +3634,24 @@
       "duration_ms": 247000,
       "name": "Hasta que salga el sol",
       "url": "https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG"
+    },
+    {
+      "album": {
+        "name": "Hidetoshi Nakata",
+        "url": "https://open.spotify.com/album/7IBf9V9Xp2nxRlYYVXP8Fd"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109265,
+      "name": "Hidetoshi Nakata",
+      "url": "https://open.spotify.com/track/1acPhlnq9elw4NgBQjYprc"
     },
     {
       "album": {
@@ -4431,6 +4497,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Habr\u00edamos Sido",
+        "url": "https://open.spotify.com/album/7iwwIeYyhigl0gL0WJv0zh"
+      },
+      "artists": [
+        {
+          "name": "Rafa Espino",
+          "url": "https://open.spotify.com/artist/6XxXnArAzpL4RhkTIpMH52"
+        },
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210424,
+      "name": "Lo Que Habr\u00edamos Sido",
+      "url": "https://open.spotify.com/track/48neDzsVED4jZ5w181cyFK"
+    },
+    {
+      "album": {
         "name": "Lo que hay",
         "url": "https://open.spotify.com/album/4uzXRMfxg2pjDO3kmFwVBP"
       },
@@ -5272,7 +5360,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 379047,
       "name": "Mi Pasi\u00f3n",
       "url": "https://open.spotify.com/track/7z83prCfE5AYgJpO1hei2r"
@@ -5316,7 +5404,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 203187,
       "name": "Mirar a la cara",
       "url": "https://open.spotify.com/track/3X7yS0k9ZBVpjuwY5CiJ17"
@@ -6352,7 +6440,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 134250,
       "name": "Palabra de Pobre",
       "url": "https://open.spotify.com/track/3TqGx717X6t1DypzBzqXOY"
@@ -6748,6 +6836,50 @@
       "duration_ms": 187457,
       "name": "Rehabilita2",
       "url": "https://open.spotify.com/track/7EXV0ck2yivz2kwYR52rmM"
+    },
+    {
+      "album": {
+        "name": "4NGELITO",
+        "url": "https://open.spotify.com/album/5IOrh719ln2wBeIXdntTPS"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        },
+        {
+          "name": "JCC",
+          "url": "https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115537,
+      "name": "ReLaMiDo",
+      "url": "https://open.spotify.com/track/6drJQVd7Mn3NjnD2bGbk20"
+    },
+    {
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/0Y6fb5jCCzqOnO3HcgTZrS"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Kilvertz",
+          "url": "https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147885,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/69bkxL92sOLeEh6waaridp"
     },
     {
       "album": {
@@ -7411,6 +7543,32 @@
     },
     {
       "album": {
+        "name": "Siguiendo Tu Voz",
+        "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "KYR4",
+          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190685,
+      "name": "Siguiendo Tu Voz",
+      "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/05QCvximYc8wuXO8q1oSZ0"
       },
@@ -7930,7 +8088,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 178775,
       "name": "Te Perdone Dios",
       "url": "https://open.spotify.com/track/3VegaRpqoQlo7ebKnI6Ako"
@@ -8276,7 +8434,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 166200,
       "name": "Turururu Tum Tum Tum",
       "url": "https://open.spotify.com/track/6nCdyzdPn0CCVQ90FADxea"

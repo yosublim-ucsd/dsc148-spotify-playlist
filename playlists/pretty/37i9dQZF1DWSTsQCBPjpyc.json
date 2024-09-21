@@ -1,13 +1,29 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 39657,
+  "num_followers": 39684,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow1FQAAAADUk34CKrzcZqEG5M70j0u9",
+  "snapshot_id": "ZuzzQAAAAADx6Rj1E17oOtUi/5ikcjBk",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Dirt On My Diamonds, Vol. 2",
+        "url": "https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ"
+    },
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {

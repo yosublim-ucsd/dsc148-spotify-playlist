@@ -2,7 +2,7 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. Tutti i brani in un'unica playlist.
+> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
 
 113 songs - 7 hr 10 min
 

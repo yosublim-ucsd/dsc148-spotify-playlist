@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reyli & Los Rumberos en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -168,6 +168,28 @@
       "duration_ms": 239769,
       "name": "Adolescentes Asustados",
       "url": "https://open.spotify.com/track/4jKx04HZIoeG8RKu4y9qPh"
+    },
+    {
+      "album": {
+        "name": "Afortunada",
+        "url": "https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164265,
+      "name": "Afortunada",
+      "url": "https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f"
     },
     {
       "album": {
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
@@ -2267,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
+    },
+    {
+      "album": {
         "name": "Fr\u00edo y calor",
         "url": "https://open.spotify.com/album/2SY9UIGTMmcyyHstgcHwwj"
       },
@@ -2572,7 +2612,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 242063,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/0lwi85G0iGuPJGJtde9fp4"
@@ -3213,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Me Dediqu\u00e9 a Perderte",
+        "url": "https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206091,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/5lLsCBBCMQszInFRwgX3QL"
+    },
+    {
+      "album": {
         "name": "Me Entrego",
         "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
       },
@@ -3713,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
+    },
+    {
+      "album": {
         "name": "No Quiero M\u00e1s Juegos",
         "url": "https://open.spotify.com/album/6Y3yJi3Pf8FIHNFFaJNfo2"
       },
@@ -4206,7 +4290,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV"
@@ -5952,7 +6036,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 209052,
       "name": "\u00bfQu\u00e9 Hago Con los Besos?",
       "url": "https://open.spotify.com/track/7Ma67rqmM7JZBD3okCQ2W0"

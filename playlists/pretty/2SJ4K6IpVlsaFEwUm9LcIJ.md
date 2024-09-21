@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,316 likes - 23 songs - 1 hr 10 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,328 likes - 26 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 21 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 |
 | 22 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 |
 | 23 | [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 |
+| 24 | [Vampire in the Corner](https://open.spotify.com/track/6O6VDSgm7Cxrk7kIJhyIFo) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:22 |
+| 25 | [HOV](https://open.spotify.com/track/62ik7tuPPdoFrDMkpBC7yt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 3:48 |
+| 26 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
 
-Snapshot ID: `AAALA/ACjUzZa53CACtNfl8HG7pM6TEj`
+Snapshot ID: `AAALBmjMJlmAu0Yn69kc75I/9Ue53+yL`

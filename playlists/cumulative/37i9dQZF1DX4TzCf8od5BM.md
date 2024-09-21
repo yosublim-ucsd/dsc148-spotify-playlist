@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-213 songs - 5 hr 32 min
+214 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Disney Junior Party](https://open.spotify.com/track/3pri510ZBhTChyyeMSGjJ7) | [Beau Black](https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco), [Alex Cartana](https://open.spotify.com/artist/3GFUpR9zW45n5aO4TIbBAA) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:32 | 2022-03-18 |  |
 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:53 | 2022-03-18 |  |
 | [Alice's Wonderland Bakery Main Title Theme \- From "Disney Junior Music: Alice's Wonderland Bakery"](https://open.spotify.com/track/0Na1yYpng3jNaEDHb0i6ui) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Alice's Wonderland Bakery Main Title Theme \(From "Disney Junior Music: Alice's Wonderland Bakery"\)](https://open.spotify.com/album/5OCpzC2rahXbuf3ecEZ8J6) | 0:59 | 2022-03-18 |  |
+| [All The Pumpkins on Halloween \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/1qrBZuxWKAbvtxux7DoYkr) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Let's Play! Halloween](https://open.spotify.com/album/3F6qZTElQKaT2uR8pQTsY9) | 0:57 | 2024-09-20 |  |
 | [Always in My Heart](https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 1:06 | 2023-08-18 |  |
 | [Anything](https://open.spotify.com/track/4gc9W0J7k7QUX5mJ2m2Sfc) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 2:44 | 2022-03-18 |  |
 | [Ariel \(Theme Song\) \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/4HVIwx9mBMAKU8EQliRLnm) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Ariel \(Theme Song\) \[From "Disney Jr\. Music: Ariel"\]](https://open.spotify.com/album/0ESMT9sLeSDtkL2eJYcSM2) | 1:36 | 2024-05-10 |  |

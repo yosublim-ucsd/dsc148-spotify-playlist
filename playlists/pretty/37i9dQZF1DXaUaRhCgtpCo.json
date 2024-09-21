@@ -1,12 +1,12 @@
 {
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
-  "num_followers": 528558,
+  "num_followers": 528602,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAAC2/RDEOT2LK5sBfkFOvfDm",
+  "snapshot_id": "ZuzzQAAAAACxlLmv3s7WKzoW/+tmhv27",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -523,6 +523,26 @@
       "duration_ms": 150356,
       "name": "Battle for Mos Espa",
       "url": "https://open.spotify.com/track/0CN8D4RBp2qbDijxLuhERA"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Star Wars Lofi: Vol. 3",
+        "url": "https://open.spotify.com/album/3vPzpEXIJ7o1Lmgl9LvJY3"
+      },
+      "artists": [
+        {
+          "name": "Nick Pingree",
+          "url": "https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4"
+        },
+        {
+          "name": "Star Wars Lofi",
+          "url": "https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N"
+        }
+      ],
+      "duration_ms": 137024,
+      "name": "Kay Vess, The Outlaw",
+      "url": "https://open.spotify.com/track/0YhWpeIfuyqHKPt0bwssCR"
     },
     {
       "added_at": "2024-06-14 04:00:00",

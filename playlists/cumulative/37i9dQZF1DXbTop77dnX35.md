@@ -4,7 +4,7 @@
 
 > New Music from Oxlade and more
 
-839 songs - 1 day 17 hr 7 min
+841 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Controller \- Remix](https://open.spotify.com/track/5cMYQXDhzZyusZSkMJYCjG) | [Onesimus](https://open.spotify.com/artist/5DzY4LLmDMOCZmrpPDjLkm), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [DJ Edu](https://open.spotify.com/artist/282qczsRq0zgXtdnnrfrgX) | [Controller \- Remix](https://open.spotify.com/album/7jfABJJIbn5jvO4cvYKEhW) | 2:49 | 2024-09-06 | 2024-09-13 |
 | [Cool Off](https://open.spotify.com/track/1pg4J5FtqxxBQoPCcwEyQy) | [BM Casso](https://open.spotify.com/artist/2v4lbsIH2ZL1nYeYh4dowY), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [HitMan \(The EP\)](https://open.spotify.com/album/65BcJVA8SkPobP2pZFGF3C) | 2:48 | 2024-06-14 | 2024-06-21 |
 | [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-07-26 | 2024-08-02 |
-| [COUNT MY BANDZ UP](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ UP](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 |  |
+| [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 |  |
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 | 2024-07-27 |
 | [Crazy](https://open.spotify.com/track/6KPhWQj0PqbesojfICNXMu) | [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ajala](https://open.spotify.com/album/0tlEQL9Dqfs1Wd5BWqQuLj) | 2:18 | 2024-09-20 |  |
 | [CRAZY SEXY PERFECT GIRLS](https://open.spotify.com/track/2yK4TLFFCgLUmTWyQoY8qj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:56 | 2024-06-21 | 2024-06-28 |
@@ -304,6 +304,7 @@
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-28 | 2024-07-05 |
 | [Higher Self](https://open.spotify.com/track/2w4VBVPUyvtCccouC1oMZB) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Emotional Home](https://open.spotify.com/album/7opohw2wnSdGNxQl9zf6fK) | 2:44 | 2024-08-30 | 2024-09-06 |
 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 | 2024-06-14 | 2024-06-21 |
+| [Hollon](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 |  |
 | [Home](https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home \- A COLORS SHOW](https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo) | 2:24 | 2024-06-07 | 2024-06-14 |
 | [Home \(ká lọ sílé\)](https://open.spotify.com/track/5OwI0Ffdsdnc5Vnl6621ox) | [Oke](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [Home \(ká lọ sílé\)](https://open.spotify.com/album/2xgoEgLXAdWYthPC48esPa) | 2:28 | 2024-06-07 | 2024-06-14 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-20 |  |
@@ -753,6 +754,7 @@
 | [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 | 2024-07-19 | 2024-07-27 |
 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 | 2024-06-28 | 2024-07-05 |
 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 | 2024-08-09 | 2024-08-17 |
+| [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 | 2024-09-20 |  |
 | [Too Late](https://open.spotify.com/track/7GNEUqWco6aMGNgIlwUqID) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [Wckedd](https://open.spotify.com/artist/6efG4C2TiknEf3ybw7Jmx5) | [Last Time](https://open.spotify.com/album/6KKnmBdzuBR4o4Dja6t34z) | 2:17 | 2024-08-30 | 2024-09-06 |
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-23 | 2024-08-30 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-07-12 |

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-239 songs - 12 hr 15 min
+240 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Depois da Briga](https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 2:57 | 2023-11-03 | 2024-04-19 |
 | [Detalhes](https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8) | [Bia Torres](https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN), [Badauy](https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl) | [Detalhes](https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD) | 2:50 | 2024-03-22 | 2024-05-29 |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
+| [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 |  |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
@@ -108,7 +109,7 @@
 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 | 2022-11-18 | 2023-06-10 |
 | [Lady](https://open.spotify.com/track/2CTPUB6BAFFr7ws4D6o4pa) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv) | [Brisa](https://open.spotify.com/album/7zvPrl4QuI1pRVWKLlqAxm) | 3:28 | 2024-08-30 |  |
 | [LAMPEJOS](https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [LAMPEJOS](https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb) | 2:30 | 2023-07-28 | 2023-11-25 |
-| [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-08-16 |  |
+| [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-08-16 | 2024-09-21 |
 | [Lembrar de Você](https://open.spotify.com/track/2svYjzzHXvUcW6dMJHm8qm) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Suarez](https://open.spotify.com/artist/2IQGi2QDVAYaIPRER0Pzrd) | [Romântico, Pt\. 1](https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy) | 2:04 | 2023-11-03 | 2023-11-18 |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2022-11-18 | 2023-04-01 |
 | [Liga Pra Mim](https://open.spotify.com/track/3kRHNJnuD96X7suUEfQEpa) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 2:11 | 2024-08-16 |  |

@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Agatha All Along",
+        "url": "https://open.spotify.com/album/7zbCR2pwhHNbNZn7ZMaVt5"
+      },
+      "artists": [
+        {
+          "name": "Bear Ghost",
+          "url": "https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66187,
+      "name": "Agatha All Along",
+      "url": "https://open.spotify.com/track/0lD9NkNPiFp1nnOsGk1hAL"
+    },
+    {
+      "album": {
         "name": "WandaVision: Episode 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
       },

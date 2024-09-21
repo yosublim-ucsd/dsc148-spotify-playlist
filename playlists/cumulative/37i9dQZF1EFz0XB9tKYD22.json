@@ -802,6 +802,24 @@
     {
       "album": {
         "name": "Light Up The Night",
+        "url": "https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163477,
+      "name": "Cheap Wine & Cigarettes",
+      "url": "https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1"
+    },
+    {
+      "album": {
+        "name": "Light Up The Night",
         "url": "https://open.spotify.com/album/5xvHMriUro6MJdkjCVnEfz"
       },
       "artists": [
@@ -812,7 +830,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 163480,
       "name": "Cheap Wine And Cigarettes",
       "url": "https://open.spotify.com/track/3oiobNGKdbU0ISzLTJH7Lu"
@@ -2998,6 +3016,24 @@
     {
       "album": {
         "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/1CTob7MhirRfUY9joPIs7G"
+      },
+      "artists": [
+        {
+          "name": "David James",
+          "url": "https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199362,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/4DiOtjLhPDaPJ61BeZ4Ict"
+    },
+    {
+      "album": {
+        "name": "Let Her Go",
         "url": "https://open.spotify.com/album/6BzP690n4yPUBxfMg8w8Xt"
       },
       "artists": [
@@ -3008,7 +3044,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199362,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/6GTiLfDygM7euChFBDDjOb"
@@ -3052,6 +3088,24 @@
     {
       "album": {
         "name": "Kiss Me Quiet",
+        "url": "https://open.spotify.com/album/2kRBGSqEp0dFDvHvsgF2HJ"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Lightning Bolt",
+      "url": "https://open.spotify.com/track/2lMMXWvv5y1yJ6rxzF7H1I"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Quiet",
         "url": "https://open.spotify.com/album/7trmOrFHxIc5lHK7cTxwcW"
       },
       "artists": [
@@ -3062,7 +3116,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 219666,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/4uBYSgXDv01k8dYcSmr76I"

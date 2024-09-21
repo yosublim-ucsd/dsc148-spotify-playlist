@@ -1,32 +1,44 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: N3WYRKLA",
-  "num_followers": 52150,
+  "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis",
+  "num_followers": 52160,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuQEkwAAAACgwqBDJmh9oH9abUMGed9K",
+  "snapshot_id": "ZuzzQAAAAAAjdjiiauzBpUKYAvO61cud",
   "tracks": [
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "mind now (with Skilla Baby)",
-        "url": "https://open.spotify.com/album/1njs3NgfXzCJOWFdWTwfCg"
+        "name": "SAFE FLIGHT",
+        "url": "https://open.spotify.com/album/37FUdgp35njUxws7l0WCep"
       },
       "artists": [
         {
-          "name": "N3WYRKLA",
-          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 190072,
-      "name": "mind now (with Skilla Baby)",
-      "url": "https://open.spotify.com/track/1Ilmqzog50GYbstZ8ZjYbr"
+      "duration_ms": 164064,
+      "name": "2242",
+      "url": "https://open.spotify.com/track/7FwFDboPE2UeUkRgYgSc8g"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Gap Year!",
+        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Want 2",
+      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -45,20 +57,40 @@
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Gap Year!",
-        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+        "name": "LIMERENCE",
+        "url": "https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2"
       },
       "artists": [
         {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 146341,
-      "name": "Want 2",
-      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
+      "duration_ms": 146735,
+      "name": "LIMERENCE",
+      "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Lockjaw 2",
+        "url": "https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Lockjaw 2",
+      "url": "https://open.spotify.com/track/6zDC7r1EzJ8gf4GiSr7Ez7"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -91,6 +123,42 @@
       "duration_ms": 157606,
       "name": "Fold",
       "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "LOVE/HATE Pt. 2",
+        "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "mind now (with Skilla Baby)",
+        "url": "https://open.spotify.com/album/1njs3NgfXzCJOWFdWTwfCg"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 190072,
+      "name": "mind now (with Skilla Baby)",
+      "url": "https://open.spotify.com/track/1Ilmqzog50GYbstZ8ZjYbr"
     },
     {
       "added_at": "2024-08-23 05:24:21",
@@ -177,6 +245,26 @@
       "url": "https://open.spotify.com/track/1gON0XMBtaNn7H3Wwyc9jC"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/4rBhE1XPAXHNhbVZ3492gW"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "Vontee the Singer",
+          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+        }
+      ],
+      "duration_ms": 220884,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/7uOLj1Vo41c6NTYGeaCFlY"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Pivot//",
@@ -191,6 +279,34 @@
       "duration_ms": 154055,
       "name": "Kemets got the blue",
       "url": "https://open.spotify.com/track/7q9gJns0is7XYIH3MSSud6"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "GEMS IN THE CORNERSTORE II",
+        "url": "https://open.spotify.com/album/2KhWIDrrHqMEdXZsSj8vNk"
+      },
+      "artists": [
+        {
+          "name": "JEMS!",
+          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 160490,
+      "name": "MASHUP",
+      "url": "https://open.spotify.com/track/70KlBBhGkQtuVICtZwt9zL"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -313,6 +429,26 @@
       "url": "https://open.spotify.com/track/1y3HGNaOH1LO58wULj9xnr"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Step Bout Me",
+        "url": "https://open.spotify.com/album/44A5XPySSPu6xzyevSTyuM"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        },
+        {
+          "name": "Dom Belli",
+          "url": "https://open.spotify.com/artist/5KIIlvQwKEsftCRn9IQAtK"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Step Bout Me",
+      "url": "https://open.spotify.com/track/4LkFWE9BpmOomPN5Aq6hvp"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Oakland Pt. 2",
@@ -365,6 +501,22 @@
       "url": "https://open.spotify.com/track/6hfujWCUcaL9EW8XXUAFHF"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Nigerian Boyfriend",
+        "url": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 147955,
+      "name": "BACK IN OFFICE",
+      "url": "https://open.spotify.com/track/2cJm8zLr43lJsNR5AulsZJ"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Favour",
@@ -413,6 +565,22 @@
       "url": "https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Give",
+        "url": "https://open.spotify.com/album/44bKQsq55IjWcKTdky40qz"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "duration_ms": 136971,
+      "name": "Give",
+      "url": "https://open.spotify.com/track/2a0rr6LVmgGk6oY1sYQFau"
+    },
+    {
       "added_at": "2024-08-23 05:24:21",
       "album": {
         "name": "Truth Be Told",
@@ -447,26 +615,6 @@
       "duration_ms": 174266,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
-    },
-    {
-      "added_at": "2024-08-23 05:24:21",
-      "album": {
-        "name": "CHILL ON ME",
-        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        }
-      ],
-      "duration_ms": 215544,
-      "name": "CHILL ON ME",
-      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1357,22 +1505,6 @@
       "url": "https://open.spotify.com/track/3YpIyir108wV2dofr1bYsd"
     },
     {
-      "added_at": "2024-07-19 14:52:03",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek"
-    },
-    {
       "added_at": "2024-06-28 17:53:44",
       "album": {
         "name": "Gracious",
@@ -2199,38 +2331,6 @@
       "duration_ms": 144335,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5OickbLkupQS7ox3Jy3OLt"
-    },
-    {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "JENA (Deluxe)",
-        "url": "https://open.spotify.com/album/72DC8FnrN7OT42nSx0mnsC"
-      },
-      "artists": [
-        {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "What A Good Time",
-      "url": "https://open.spotify.com/track/3Ky4QPDRxY2s20VT16Ou0y"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
-        "name": "Nothings Into Signs",
-        "url": "https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 157318,
-      "name": "Nothings Into Signs",
-      "url": "https://open.spotify.com/track/31kpgadjTib4K74PRKec0s"
     },
     {
       "added_at": "2024-03-22 08:51:00",

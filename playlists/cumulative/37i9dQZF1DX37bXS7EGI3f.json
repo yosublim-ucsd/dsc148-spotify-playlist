@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
@@ -646,6 +646,24 @@
       "duration_ms": 205853,
       "name": "An Infinite Regression",
       "url": "https://open.spotify.com/track/6TusaYvpkgyJhJ8tvXo03P"
+    },
+    {
+      "album": {
+        "name": "An Ocean Of Strange Islands",
+        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566413,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
     },
     {
       "album": {
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 384066,
       "name": "Call of the North",
       "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
@@ -1977,6 +1995,32 @@
     },
     {
       "album": {
+        "name": "Vermillion",
+        "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
+      },
+      "artists": [
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Cradle To The Grave",
+      "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
+    },
+    {
+      "album": {
         "name": "Creatures Of The Dark Realm (Japan Edition)",
         "url": "https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ"
       },
@@ -2082,6 +2126,24 @@
       "duration_ms": 213666,
       "name": "Damnation Flame",
       "url": "https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK"
+    },
+    {
+      "album": {
+        "name": "Dance with the Devil",
+        "url": "https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234775,
+      "name": "Dance with the Devil",
+      "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
     },
     {
       "album": {
@@ -4350,7 +4412,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
@@ -5191,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366986,
+      "name": "Lanternlight",
+      "url": "https://open.spotify.com/track/6WZImct4xSNP1EQuL2LI4z"
+    },
+    {
+      "album": {
         "name": "Terrapin",
         "url": "https://open.spotify.com/album/4d9WdQdLhE6203M6p8jZ4V"
       },
@@ -5653,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA"
+    },
+    {
+      "album": {
         "name": "Magellan's Expedition",
         "url": "https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop"
       },
@@ -6014,6 +6112,24 @@
       "duration_ms": 338760,
       "name": "Moonlight Rendezvous",
       "url": "https://open.spotify.com/track/30cxiM2snx2Hstvhk8Z7pv"
+    },
+    {
+      "album": {
+        "name": "Opera",
+        "url": "https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Morphine Waltz",
+      "url": "https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0"
     },
     {
       "album": {
@@ -7158,10 +7274,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc"
     },
     {
       "album": {
@@ -7920,7 +8054,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 258737,
       "name": "Ritter Tod und Teufel (Knightfall)",
       "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
@@ -8743,6 +8877,24 @@
     },
     {
       "album": {
+        "name": "Steel And Gold",
+        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247978,
+      "name": "Steel And Gold",
+      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
+    },
+    {
+      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/6H7RPwA2D0XRSgQwjgK1Ai"
       },
@@ -8830,6 +8982,24 @@
       "duration_ms": 296546,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw"
+    },
+    {
+      "album": {
+        "name": "Strive",
+        "url": "https://open.spotify.com/album/1pyu729DDMTA40MwdDeSQi"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Strive",
+      "url": "https://open.spotify.com/track/1gGmVuEuxOrYFuvTPD9fq8"
     },
     {
       "album": {
@@ -8934,7 +9104,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 189533,
       "name": "Take My Hand - Bonus Track",
       "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
@@ -9100,7 +9270,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
@@ -9388,7 +9558,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 267240,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
@@ -9482,6 +9652,28 @@
       "duration_ms": 360480,
       "name": "The Land of Xia",
       "url": "https://open.spotify.com/track/75RY9AwhKebedSsNs0hRqg"
+    },
+    {
+      "album": {
+        "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+        "url": "https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Jens Kidman",
+          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197969,
+      "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
+      "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
     },
     {
       "album": {
@@ -9701,6 +9893,24 @@
     },
     {
       "album": {
+        "name": "THE REASON WE FIGHT",
+        "url": "https://open.spotify.com/album/7q4OTMHgBrq6esXoxW38ji"
+      },
+      "artists": [
+        {
+          "name": "GALNERYUS",
+          "url": "https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440586,
+      "name": "THE REASON WE FIGHT",
+      "url": "https://open.spotify.com/track/4wbRdnhI4VtO4HoGjXAouy"
+    },
+    {
+      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/775yCS5Clyy00sCXPQOYHK"
       },
@@ -9838,7 +10048,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 245274,
       "name": "The Unforgiven II",
       "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
@@ -9936,7 +10146,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 235453,
       "name": "The Widow Maker - feat. Gunship",
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"

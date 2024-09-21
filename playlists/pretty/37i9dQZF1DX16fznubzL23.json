@@ -1,6 +1,6 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 27825,
+  "num_followers": 27847,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Toxic Love Story",
-        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
-      },
-      "artists": [
-        {
-          "name": "Jontae",
-          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Toxic Love Story",
-      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Toxic Love Story",
+        "url": "https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY"
+      },
+      "artists": [
+        {
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Toxic Love Story",
+      "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Miracle Worker (feat. Lojay)",
-      "url": "https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Miracle Worker (feat. Lojay)",
+      "url": "https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX"
     },
     {
       "added_at": "2024-09-13 00:01:00",

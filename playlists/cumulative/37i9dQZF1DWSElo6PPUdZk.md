@@ -4,11 +4,12 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-107 songs - 5 hr 35 min
+108 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3HhzqHPEN33a5UCKSfZpgi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2jw92hf4mnISbYywvU3Anj) | 0:00 | 2023-03-18 | 2023-04-20 |
+| [100/100](https://open.spotify.com/track/1xyguLPK7K1VAjRKQc4eV2) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [100/100](https://open.spotify.com/album/02pAxC95XrOzAVi23lft6E) | 2:10 | 2024-09-20 |  |
 | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 | 2023-03-18 | 2024-09-13 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2023-03-18 |  |
 | [8 Vaje](https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8) | [8 Vaje](https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4) | 2:54 | 2024-09-13 |  |
@@ -43,7 +44,7 @@
 | [Ik Munda](https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI), [Parneet Kaur](https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd) | [Ik Munda](https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd) | 3:31 | 2024-09-02 |  |
 | [In Love](https://open.spotify.com/track/2m7RdjSUzqVDfS5wSf2Ckq) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [In Love](https://open.spotify.com/album/1jh9RQ2RaDa8YUyKveMeke) | 2:58 | 2024-09-18 |  |
 | [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 |  |
-| [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 |  |
+| [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 | 2024-09-21 |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 | 2024-09-14 |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-04-20 |
@@ -91,7 +92,7 @@
 | [Rool Ditta Ee](https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC) | [Asif Masood](https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl), [Saba Riaz](https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN) | [Rool Ditta Ee](https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS) | 3:14 | 2024-09-11 |  |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 |  |
-| [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 |  |
+| [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
 | [Sheesha](https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Sheesha](https://open.spotify.com/album/1cUkKKUDmycMkQhA88gyLG) | 3:15 | 2024-09-06 |  |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |
 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 | 2023-03-18 | 2023-10-10 |

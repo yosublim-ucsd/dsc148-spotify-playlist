@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-322 songs - 18 hr 38 min
+323 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Como Hacer](https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Amarte](https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k) | 4:53 | 2021-12-24 | 2024-01-20 |
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
 | [Como Olvidarme](https://open.spotify.com/track/54cC0r3qzqOhYjNsYU73Wn) | [Banda Juarez](https://open.spotify.com/artist/1nxRQ22XbIRuydkNM3SsUv), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Como Olvidarme](https://open.spotify.com/album/5lNYf7MItETO0R0JwrekHN) | 4:44 | 2023-03-24 | 2023-04-12 |
+| [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-20 |  |
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 |  |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-01-17 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 | 2023-07-05 |
@@ -78,7 +79,7 @@
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |
 | [El Liston de Tu Pelo](https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [El Listón de Tu Pelo](https://open.spotify.com/album/4oei4M2FnGxR99GP7Fctsz) | 4:06 | 2024-04-24 |  |
 | [El Matador/en la Orilla de Mi Cama](https://open.spotify.com/track/613mAugJpYd49eFybQ6g4k) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [El Matador/En La Orilla De Mi Cama](https://open.spotify.com/album/23mD8VK46XkVZWeZur4jLg) | 4:02 | 2023-10-20 | 2023-12-09 |
-| [El mundo](https://open.spotify.com/track/21tKZARgqHBsiR3OhQTLd2) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [El mundo](https://open.spotify.com/album/7LK2C6D562BcNafXJ7WqPL) | 3:24 | 2022-09-23 |  |
+| [El mundo](https://open.spotify.com/track/21tKZARgqHBsiR3OhQTLd2) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [El mundo](https://open.spotify.com/album/7LK2C6D562BcNafXJ7WqPL) | 3:24 | 2022-09-23 | 2024-09-21 |
 | [El Mundo a Tus Pies](https://open.spotify.com/track/23Kku3qq2hoS385N6QKRss) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [El Mundo a Tus Pies](https://open.spotify.com/album/1hTtFHLyyWa5kMSgRsvInj) | 2:54 | 2022-04-15 | 2022-06-04 |
 | [El Niño \- En Vivo en el Luna Park](https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [El Niño \(En Vivo en el Luna Park\)](https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO) | 4:55 | 2023-12-08 | 2023-12-25 |
 | [El Paso Final](https://open.spotify.com/track/50ItSV0JJUCEEUFMshZu3f) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [El Paso Final](https://open.spotify.com/album/4ZmBmKovkcfmST7UfqtdG4) | 5:37 | 2021-12-24 | 2022-08-13 |

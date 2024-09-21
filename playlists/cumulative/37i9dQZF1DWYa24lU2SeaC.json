@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 147946,
       "name": "Bienvenue \u00e0 Rosas",
       "url": "https://open.spotify.com/track/0CwGlaXuoqz1fgYJfr67sR"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 200586,
       "name": "Ce n'est plus mon roi",
       "url": "https://open.spotify.com/track/3SC2eQEmBS9ncxTPazieXK"
@@ -355,6 +355,44 @@
     },
     {
       "album": {
+        "name": "Hercules Original Soundtrack",
+        "url": "https://open.spotify.com/album/4pA28ojiFJRXJ7iuFgBUvX"
+      },
+      "artists": [
+        {
+          "name": "Mimi F\u00e9lixine",
+          "url": "https://open.spotify.com/artist/7qMqNchhcuqJdx1w6ZJ2cT"
+        },
+        {
+          "name": "Assitan Dembele",
+          "url": "https://open.spotify.com/artist/1gEjF4VhXrK8axNNgz30Kp"
+        },
+        {
+          "name": "Norma Ray",
+          "url": "https://open.spotify.com/artist/5oVael0QMP0UD9Vg6YN4yk"
+        },
+        {
+          "name": "Jessica Parker",
+          "url": "https://open.spotify.com/artist/1iLHlgiinfuyT3dF0O7fHB"
+        },
+        {
+          "name": "Debbie Davis",
+          "url": "https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/0yTMt96vf2NtwPW4JYwswy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "De Z\u00e9ro En H\u00e9ros",
+      "url": "https://open.spotify.com/track/5ZYc1Zwqzvs53l8qrQQLHs"
+    },
+    {
+      "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
       },
@@ -418,10 +456,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 196586,
       "name": "Embrasse-la",
       "url": "https://open.spotify.com/track/3gcNqwGfaTP53uJlTIgKdU"
+    },
+    {
+      "album": {
+        "name": "La Petite Sir\u00e8ne (Bande originale fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Embrasse-la - De \"La Petite Sir\u00e8ne\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/1hazhYskZ7mqEV1G5uCup1"
     },
     {
       "album": {
@@ -522,6 +578,28 @@
       "duration_ms": 207826,
       "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7J2SpEpsLlEZDxi8WhS4ET"
+    },
+    {
+      "album": {
+        "name": "Lilo & Stitch",
+        "url": "https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "He Mele No Lilo",
+      "url": "https://open.spotify.com/track/3G9ZnSjGYyHx7e221v0qse"
     },
     {
       "album": {
@@ -947,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Tarzan Original Soundtrack",
+        "url": "https://open.spotify.com/album/5wCynVHnYSpe1WAD5sFV7B"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Je Veux Savoir",
+      "url": "https://open.spotify.com/track/7G041dBHhRpIBWMKkR21Ba"
+    },
+    {
+      "album": {
         "name": "Raiponce",
         "url": "https://open.spotify.com/album/4DnfniyyQUthE8K0BM3Pr4"
       },
@@ -1245,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
+      },
+      "artists": [
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Le bleu lumi\u00e8re - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
+      "url": "https://open.spotify.com/track/1ml1d60wLeKjKotkREF93S"
+    },
+    {
+      "album": {
         "name": "Ratatouille (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
       },
@@ -1264,6 +1378,24 @@
       "duration_ms": 170786,
       "name": "Le Festin",
       "url": "https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX"
+    },
+    {
+      "album": {
+        "name": "Hercules Original Soundtrack",
+        "url": "https://open.spotify.com/album/4pA28ojiFJRXJ7iuFgBUvX"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Dahl",
+          "url": "https://open.spotify.com/artist/0vGu3b54k5nbqjKyAr8QGE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "Le Monde Qui Est Le Mien",
+      "url": "https://open.spotify.com/track/4XLuhFecYKpcsy2vgD9PRO"
     },
     {
       "album": {
@@ -1300,7 +1432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 223835,
       "name": "Lead the Way",
       "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
@@ -1398,7 +1530,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198920,
       "name": "Ma promesse",
       "url": "https://open.spotify.com/track/3ZTfhjrWVz8MmQZNXXLf8z"
@@ -1416,7 +1548,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 194160,
       "name": "Ma r\u00e9compense",
       "url": "https://open.spotify.com/track/7Av31tEE05SoashZTiRS8n"
@@ -1660,7 +1792,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214373,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/2HRhVQ0yo1jIvXoRTCIdEz"
@@ -1696,7 +1828,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 214373,
       "name": "Partir l\u00e0-bas",
       "url": "https://open.spotify.com/track/4GeyHUft6VQukLX8TK6aeO"
@@ -1888,6 +2020,32 @@
       "duration_ms": 344960,
       "name": "Reception Au Palais/Bonjour L\u2019amour",
       "url": "https://open.spotify.com/track/0M05jNzoUmRRmD5nw7zLZI"
+    },
+    {
+      "album": {
+        "name": "Red (From \"Descendants: The Rise of Red\")",
+        "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alex Boniello",
+          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "Red - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
       "album": {
@@ -2246,7 +2404,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174786,
       "name": "Tous des \u00e9toiles",
       "url": "https://open.spotify.com/track/76BzMTISP8cuj7NTECOvPx"

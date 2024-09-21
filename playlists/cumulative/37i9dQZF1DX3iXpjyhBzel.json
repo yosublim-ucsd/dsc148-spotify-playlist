@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 Sobre Ele - Ao Vivo",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354250,
+      "name": "A Melhor Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2"
+    },
+    {
+      "album": {
         "name": "A Nuvem",
         "url": "https://open.spotify.com/album/5QgKrMFMiB8GIXi3D8GN6d"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 516612,
       "name": "Excelso Criador - Ao Vivo",
       "url": "https://open.spotify.com/track/2IuwD2nnXDdSjE8nW72U5C"
@@ -2668,6 +2686,24 @@
       "duration_ms": 893787,
       "name": "Lindo Momento",
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
+    },
+    {
+      "album": {
+        "name": "Livramento",
+        "url": "https://open.spotify.com/album/4lsUDMd1JGkCbeEoczP03s"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425625,
+      "name": "Livramento",
+      "url": "https://open.spotify.com/track/5DQs4Xg23TO0zRzuwskitZ"
     },
     {
       "album": {

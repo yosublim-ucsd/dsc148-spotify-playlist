@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9833,
+  "num_followers": 9832,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Magnetic (R&B Remix)",
-      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Magnetic (R&B Remix)",
+      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 170556,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
         "name": "Love Diary (Back to You X Lee MinHyuk)",
         "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 230853,
       "name": "Love Diary (Back to You X Lee MinHyuk)",
       "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "about you",
-        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/23Z11DRgeIQQhsNJWSuxKq"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
         }
       ],
-      "duration_ms": 170556,
-      "name": "about you",
-      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
+      "duration_ms": 205773,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6NTqjlA3cY297AfumSxm2o"
     },
     {
       "added_at": "2024-09-13 09:14:48",

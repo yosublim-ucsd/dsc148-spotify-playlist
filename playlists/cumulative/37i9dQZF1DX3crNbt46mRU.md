@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Loco Escrito
 
-14,074 songs - 29 day 7 hr 4 min
+14,077 songs - 29 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5648,6 +5648,7 @@
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-03-31 | 2022-04-08 |
 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 | 2024-05-02 | 2024-05-10 |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-07-28 | 2022-08-05 |
+| [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 | 2024-09-19 |  |
 | [Hot Girl Summer](https://open.spotify.com/track/2U7MkHBDTc3Bp7Ozlx3e7L) | [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [Hot Girl Summer](https://open.spotify.com/album/59vCAuSj1G81ZpgTzRia8F) | 2:45 | 2022-07-29 | 2022-08-05 |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-26 | 2024-08-02 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-06-30 | 2022-07-08 |
@@ -11333,6 +11334,7 @@
 | [Sors de ma tête](https://open.spotify.com/track/4BnQTLTcrxxt9eUCZC4pQS) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Sors de ma tête](https://open.spotify.com/album/4nbLihTCtdsd0WIRyzq7nL) | 2:50 | 2023-10-05 | 2023-10-13 |
 | [Sortir de l'ordinaire](https://open.spotify.com/track/7lMDkWyMPulNdTnUGzp7oB) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Sortir de l'ordinaire](https://open.spotify.com/album/00SIV4MRviuS6nbiF7TKkT) | 3:38 | 2022-09-08 | 2022-09-16 |
 | [SOS](https://open.spotify.com/track/5KPPwG3v0m6IExWNby02eJ) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [SOS](https://open.spotify.com/album/0dO8QSi4feDnQUJSNVqBvK) | 2:38 | 2023-08-10 | 2023-08-18 |
+| [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-19 |  |
 | [SOS](https://open.spotify.com/track/4NnaH96zGqikLRR2KPWUSD) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [SOS](https://open.spotify.com/album/6uHyhwDeKW6J6vRww8t9Ep) | 2:30 | 2022-04-14 | 2022-04-22 |
 | [SOS](https://open.spotify.com/track/6lg0ZagTCrEnuVSoOz8I5W) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Happy Sad Songs](https://open.spotify.com/album/0kyYIrS10ZxHFK8tvgAynM) | 2:10 | 2024-05-23 | 2024-06-01 |
 | [SOS](https://open.spotify.com/track/2sMl22Uh86Rc8OQCxAObg3) | [Samira 151](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD) | [SOS](https://open.spotify.com/album/6DtfHJSKp2AvgJFgXPYBkO) | 2:53 | 2022-03-31 | 2022-04-08 |
@@ -11938,6 +11940,7 @@
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 | 2023-09-01 |
 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 | 2023-06-29 | 2023-07-07 |
 | [Teenage Dirtbag](https://open.spotify.com/track/4NZPn84OPwi2n1DMyBlkjk) | [No Skool](https://open.spotify.com/artist/2wVqIfYWtTq2JTm6f9WRwM), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Skoob102](https://open.spotify.com/artist/3fPb08EzQhpNV5PWuEVBzj), [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv) | [Teenage Dirtbag](https://open.spotify.com/album/5cXxCJs39er2zl2Ej0RzQc) | 2:30 | 2022-08-18 | 2022-08-26 |
+| [TEFLON DON](https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:39 | 2024-09-19 |  |
 | [Teil dieser Band](https://open.spotify.com/track/3MqkX40V8oEqY4oDiSueJ7) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Teil dieser Band](https://open.spotify.com/album/4B4Ekr7GdV1emSBg1ZvFHl) | 3:35 | 2022-08-25 | 2022-09-02 |
 | [teil von dir](https://open.spotify.com/track/6hO437KwncudwvRpeGe8JH) | [LEVKA](https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88) | [teil von dir](https://open.spotify.com/album/2mV7CWUkWgsOsSo2t7pYyk) | 3:23 | 2024-09-19 |  |
 | [Teile](https://open.spotify.com/track/4skKEIvPVE3MW3QiR2vNZ5) | [Xiara](https://open.spotify.com/artist/0A6OfD8GWLEGjoudKJqadn) | [Teile](https://open.spotify.com/album/5RRU2ybXjsW66elVBk5cZR) | 2:42 | 2022-10-06 | 2022-10-14 |

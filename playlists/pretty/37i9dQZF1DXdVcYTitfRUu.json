@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 10456,
+  "num_followers": 10455,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-09-11 06:51:37",
       "album": {
-        "name": "WINTER of aespa X MY DEMON",
-        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
-      },
-      "artists": [
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
-    },
-    {
-      "added_at": "2024-09-11 06:51:37",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2024-09-11 06:51:37",
+      "album": {
+        "name": "WINTER of aespa X MY DEMON",
+        "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx"
     },
     {
       "added_at": "2024-09-11 06:51:37",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-09-11 06:51:37",
       "album": {
-        "name": "The Moon (Feat. TAEIL of NCT)",
-        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        },
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 162365,
-      "name": "The Moon (Feat. TAEIL of NCT)",
-      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
-    },
-    {
-      "added_at": "2024-09-11 06:51:37",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 178813,
       "name": "Attention (Feat. DAWN, BLAS\u00c9)",
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
+    },
+    {
+      "added_at": "2024-09-11 06:51:37",
+      "album": {
+        "name": "The Moon (Feat. TAEIL of NCT)",
+        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 162365,
+      "name": "The Moon (Feat. TAEIL of NCT)",
+      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
     },
     {
       "added_at": "2024-09-11 06:51:37",
@@ -1231,6 +1231,42 @@
     {
       "added_at": "2024-09-11 06:51:37",
       "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2024-09-11 06:51:37",
+      "album": {
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+    },
+    {
+      "added_at": "2024-09-11 06:51:37",
+      "album": {
         "name": "Old Song",
         "url": "https://open.spotify.com/album/4qZ85vAqDn3maSw5wLTLNQ"
       },
@@ -1263,42 +1299,6 @@
       "duration_ms": 258160,
       "name": "Old Song",
       "url": "https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG"
-    },
-    {
-      "added_at": "2024-09-11 06:51:37",
-      "album": {
-        "name": "Only you",
-        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only you",
-      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
-    },
-    {
-      "added_at": "2024-09-11 06:51:37",
-      "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "added_at": "2024-09-11 06:51:37",

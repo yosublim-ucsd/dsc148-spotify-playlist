@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1585908,
+  "num_followers": 1586092,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Gloria: In Excelsis Deo",
-      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 102106,
       "name": "Knowledge - 2007 Remaster",
       "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Gloria: In Excelsis Deo",
+      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -961,20 +961,20 @@
       "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     },
     {
-      "added_at": "2024-01-11 00:51:37",
+      "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
-        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+        "name": "Last Scream of the Missing Neighbors",
+        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
       },
       "artists": [
         {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+          "name": "D.O.A.",
+          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
         }
       ],
-      "duration_ms": 256760,
-      "name": "Raw Power [2023 Remaster] - Iggy Mix",
-      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
+      "duration_ms": 193733,
+      "name": "That's Progress",
+      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
+      "added_at": "2024-01-11 00:51:37",
+      "album": {
+        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Raw Power [2023 Remaster] - Iggy Mix",
+      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
+    },
+    {
       "added_at": "2022-11-28 15:26:19",
       "album": {
         "name": "The Record",
@@ -1007,22 +1023,6 @@
       "duration_ms": 125040,
       "name": "I Love Livin' in the City",
       "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Last Scream of the Missing Neighbors",
-        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
-      },
-      "artists": [
-        {
-          "name": "D.O.A.",
-          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "That's Progress",
-      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Oh Bondage! Up Yours!",
+      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Oh Bondage! Up Yours!",
-      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
     },
     {
       "added_at": "2022-11-28 15:26:19",

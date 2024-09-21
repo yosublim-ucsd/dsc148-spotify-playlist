@@ -2,7 +2,7 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from A\-Reece, Doechii, Kendrick Lamar, and more...
+> Only the hottest Hip Hop from Future, Doechii, Kendrick Lamar, and more...
 
 313 songs - 16 hr 58 min
 

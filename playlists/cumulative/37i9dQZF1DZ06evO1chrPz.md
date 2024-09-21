@@ -2,7 +2,7 @@
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. The essential tracks, all in one playlist.
+> This is Bethel Music。アーティストの代表曲をひとつのプレイリストに。
 
 139 songs - 14 hr 9 min
 

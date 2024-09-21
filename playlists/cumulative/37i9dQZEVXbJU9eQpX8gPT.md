@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,514 songs - 3 day 11 hr 10 min
+1,516 songs - 3 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,7 @@
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-03-27\* | 2021-09-22 |
 | [Mandem](https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Mandem](https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF) | 4:38 | 2023-05-09 | 2023-05-26 |
 | [Mannschaft \(feat\. Freeze Corleone\)](https://open.spotify.com/track/03cOUvF1fyW60AuUfUNiDc) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:47 | 2021-03-27\* | 2021-03-27 |
-| [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-10 |  |
+| [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-10 | 2024-09-21 |
 | [MARADONA \- Remix](https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MARADONA \- Remix](https://open.spotify.com/album/0QXUQiwAzEr5mlyqTq8AqW) | 2:38 | 2024-08-17 |  |
 | [Mardi gras](https://open.spotify.com/track/3derKKqC8nOEuBryp6wfms) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Zed](https://open.spotify.com/artist/3LlVyNf70lzk5CZi4L8o5b) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:28 | 2021-11-28 | 2021-11-28 |
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-11-12 | 2022-03-21 |
@@ -876,6 +876,7 @@
 | [MenoPause](https://open.spotify.com/track/2p5NedIYtONSoxTaId4ffd) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MenoPause](https://open.spotify.com/album/6FvGJaDhq4FEXSnbjbq6Tc) | 6:34 | 2021-04-18 | 2021-04-19 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-10-16 | 2023-08-26 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-26 | 2023-09-02 |
+| [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 | 2024-09-20 |  |
 | [MEZZANOTTE \(feat\. Rondodasosa\)](https://open.spotify.com/track/1TVrjQh9mfod3CMgG8eLqy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:22 | 2023-11-25 | 2023-12-25 |
 | [Mghayer](https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:34 | 2021-03-27\* | 2023-05-30 |
 | [Mghayer](https://open.spotify.com/track/5ZSHDWYm4sixQLgxHrqODM) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 3:34 | 2023-10-31 | 2023-12-05 |
@@ -1263,7 +1264,8 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 | 2023-10-28 |
 | [Stafeta](https://open.spotify.com/track/7h2WNXMAJTKH3Ttwff1oti) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 2:49 | 2024-06-25 | 2024-06-30 |
 | [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-11 | 2024-05-19 |
-| [Staline](https://open.spotify.com/track/5JGhrQuSz5ZkBMVXpynajp) | [Joe Prod](https://open.spotify.com/artist/1wFPvFmZ2g4rzYS2rNncJJ), [Egtoto](https://open.spotify.com/artist/5IawoPaqWPiQqDmruv4p0J) | [Staline](https://open.spotify.com/album/77fkMZXBOlvqjlpnPHVdx1) | 3:58 | 2024-09-19 |  |
+| [Staline](https://open.spotify.com/track/5mY7KEG5gUYdXBu9ekZIMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Skyrock Freestyles \(Morocco Edition\)](https://open.spotify.com/album/4ycGxsIhfjDyTE0Gn0LQIu) | 3:58 | 2024-09-20 |  |
+| [Staline](https://open.spotify.com/track/5JGhrQuSz5ZkBMVXpynajp) | [Joe Prod](https://open.spotify.com/artist/1wFPvFmZ2g4rzYS2rNncJJ), [Egtoto](https://open.spotify.com/artist/5IawoPaqWPiQqDmruv4p0J) | [Staline](https://open.spotify.com/album/77fkMZXBOlvqjlpnPHVdx1) | 3:58 | 2024-09-19 | 2024-09-21 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-04 | 2023-11-27 |
 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-14 | 2023-05-19 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |

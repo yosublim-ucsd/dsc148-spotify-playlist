@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,352 likes - 150 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,439 likes - 150 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Seandainya](https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz) | 4:23 |
-| 2 | [Rahasia Hati](https://open.spotify.com/track/06WVk918Orq8g4HpIi5f50) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF) | 4:10 |
-| 3 | [Hilang Naluri](https://open.spotify.com/track/0RuptiEGaVC3ehZNUZxKYu) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:07 |
+| 1 | [Hilang Naluri](https://open.spotify.com/track/0RuptiEGaVC3ehZNUZxKYu) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:07 |
+| 2 | [Seandainya](https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz) | 4:23 |
+| 3 | [Rahasia Hati](https://open.spotify.com/track/06WVk918Orq8g4HpIi5f50) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF) | 4:10 |
 | 4 | [Percaya Padaku](https://open.spotify.com/track/4rHCqrJt6PJmR899XpDQNQ) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 3:48 |
 | 5 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 |
 | 6 | [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 149 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 150 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 |
 
-Snapshot ID: `ZuQGDQAAAAAA6zEO71W1MpOI830ApXaI`
+Snapshot ID: `ZuzxBQAAAADjx3ruCiDLUjcJwnm7O38B`

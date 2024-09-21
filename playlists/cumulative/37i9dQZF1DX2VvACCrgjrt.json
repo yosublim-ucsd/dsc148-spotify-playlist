@@ -1025,6 +1025,46 @@
     },
     {
       "album": {
+        "name": "Backroom",
+        "url": "https://open.spotify.com/album/6ZqL3CD9YxMqAmKgSgYVEM"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Backroom",
+      "url": "https://open.spotify.com/track/0zHVGowVIwapmi0Vq1MgT4"
+    },
+    {
+      "album": {
+        "name": "Backstage Baddies",
+        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Backstage Baddies",
+      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
+      "album": {
         "name": "BAD",
         "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
       },
@@ -2714,7 +2754,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
@@ -3158,7 +3198,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
@@ -3794,7 +3834,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144193,
       "name": "Dancin'",
       "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
@@ -5636,7 +5676,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 128716,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
@@ -8175,6 +8215,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189214,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+    },
+    {
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/1jP8pfWbFhtpUSMZQtCdmA"
       },
@@ -9521,6 +9579,28 @@
     },
     {
       "album": {
+        "name": "Lost & Found London",
+        "url": "https://open.spotify.com/album/3DHOj5Ba7SqMCABMJXbCw0"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Lost & Found London",
+      "url": "https://open.spotify.com/track/1Z9DFlgXEDX4XDnaBrKPLt"
+    },
+    {
+      "album": {
         "name": "Love Is Coming Down",
         "url": "https://open.spotify.com/album/38ojdngVJyfEK2r48EaBq3"
       },
@@ -10642,7 +10722,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 171093,
       "name": "New Sound",
       "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
@@ -13034,7 +13114,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 136757,
       "name": "Ride",
       "url": "https://open.spotify.com/track/6cjMyf6WCA5nymOc5yh0vt"
@@ -14180,6 +14260,28 @@
       "duration_ms": 157920,
       "name": "Slide Thru",
       "url": "https://open.spotify.com/track/6kjVQJPxwbN1Ihdk9H29ah"
+    },
+    {
+      "album": {
+        "name": "SMASH",
+        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
+      },
+      "artists": [
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234731,
+      "name": "SMASH",
+      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
       "album": {
@@ -15848,6 +15950,24 @@
       "duration_ms": 162580,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9"
     },
     {
       "album": {

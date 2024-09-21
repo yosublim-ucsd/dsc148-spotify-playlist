@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-90 songs - 6 hr 6 min
+91 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 | 2022-01-28 |  |
 | [Telephone Song](https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 3:28 | 2020-12-01 |  |
 | [That's What The Blues Is All About](https://open.spotify.com/track/3VeDKWLLDcWHzY4VWmfrz7) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [STAX of BLUES](https://open.spotify.com/album/0xOYSJJhn7c2KRj2lkT5AK) | 5:25 | 2022-08-19 |  |
+| [The Middle](https://open.spotify.com/track/6timHv8NQ0srGzNyoqvqjJ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 2](https://open.spotify.com/album/56ZOoXwxlC5UfRqsEc5mOG) | 3:55 | 2024-09-20 |  |
 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 | 2020-12-01 |  |
 | [Travelin' Man](https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 2:51 | 2020-12-01 |  |
 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 | 2020-12-01 |  |

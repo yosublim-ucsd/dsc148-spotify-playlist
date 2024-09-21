@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-726 songs - 1 day 12 hr 21 min
+728 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi) | 2:30 | 2023-04-14 |  |
 | [Get Up](https://open.spotify.com/track/7E8IZjrD6QwTf1pS3KJCfG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF) | [Get Up](https://open.spotify.com/album/2Ha6jK2QJ99zqYp6AVRLo0) | 2:32 | 2023-06-30 | 2023-07-14 |
 | [Girl](https://open.spotify.com/track/1XJP2xGm47pxXygmKYwIWM) | [WhoKnows](https://open.spotify.com/artist/4VnoKxF1E3ytbkEzGrZR63), [Hot n Spicy](https://open.spotify.com/artist/46nCTKjkE9cpoVg8A3MgL0) | [Girl](https://open.spotify.com/album/5XRh2PC7CTy5ec2gTrdkN9) | 2:41 | 2024-02-05 |  |
+| [Give It to You](https://open.spotify.com/track/1ChmxHfW4rOM7B8RwEEU8y) | [Zenemy](https://open.spotify.com/artist/2cHw7LZDGn9mjTiFTSeEHt) | [Give It to You](https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ) | 3:54 | 2024-09-20 |  |
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 |  |
 | [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-01 | 2023-12-14 |
@@ -615,6 +616,7 @@
 | [Tamo Bendecio](https://open.spotify.com/track/6q9NCdijVIwIzPwTfKn3zC) | [Bad Bunn](https://open.spotify.com/artist/4FYIy3bsaDrvC0LuW2kqzW) | [Tamo Bendecio](https://open.spotify.com/album/1fhWA3YZmPpJuWn3vtqDAB) | 2:09 | 2023-07-08 | 2023-07-14 |
 | [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2023-02-12 | 2023-08-02 |
 | [Te Te Te](https://open.spotify.com/track/3ZlKn5vonH5ZsjFmqTX7Fz) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Te Te Te](https://open.spotify.com/album/6esL5oB9V7xYIOmM5c1ua2) | 2:05 | 2023-02-12 | 2023-04-13 |
+| [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 | 2024-09-20 |  |
 | [Tears On The Dancefloor \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/3dLAuJrWEQQaXyh12BeQG5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Tears On The Dancefloor \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/0IPAqCfLfsDauO2huFSnGt) | 3:31 | 2023-11-17 |  |
 | [Tears On The Dancefloor \(feat\. Hannah Boleyn\) \[Night Mode\]](https://open.spotify.com/track/3Ysfj7yYSGHB9c2RTs4RWG) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Tears On The Dancefloor \(feat\. Hannah Boleyn\) \[Night Mode\]](https://open.spotify.com/album/3ZTNZLchGn3DaAFUsFiv6q) | 2:53 | 2023-12-01 |  |
 | [Tech Phonk](https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI) | [Tech Phonk](https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV) | 2:02 | 2024-06-14 |  |

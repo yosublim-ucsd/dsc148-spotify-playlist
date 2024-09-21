@@ -347,24 +347,6 @@
     },
     {
       "album": {
-        "name": "Lclub Podcast",
-        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
-      },
-      "artists": [
-        {
-          "name": "Lclub Podcast",
-          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
-        }
-      ],
-      "date_added": "2024-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3530218,
-      "name": "EP.11 I NO ERA YO, ERA PATRICIA I FT. DAMIAN CERVANTES",
-      "url": "https://open.spotify.com/episode/0nB0xFTi2MPsUHGJTlxA7B"
-    },
-    {
-      "album": {
         "name": "LIBRE&LOCA",
         "url": "https://open.spotify.com/album/2Rldfy8hmjP3fnLOgdlpEx"
       },
@@ -920,6 +902,24 @@
       "duration_ms": 3555328,
       "name": "T3 I EP.7 I ADRENALINA I FT. MANUNA",
       "url": "https://open.spotify.com/episode/2ItamVRgjNKfGkcncpFSsg"
+    },
+    {
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3530218,
+      "name": "T3. EP.11 I NO ERA YO, ERA PATRICIA I FT. DAMIAN CERVANTES",
+      "url": "https://open.spotify.com/episode/0nB0xFTi2MPsUHGJTlxA7B"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x"

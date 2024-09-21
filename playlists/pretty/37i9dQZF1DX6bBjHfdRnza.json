@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: BOABOA. Artwork by Rewina Beshue.",
-  "num_followers": 184454,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Megra. Artwork by Rewina Beshue.",
+  "num_followers": 184510,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZushOgAAAACz9RWh+SyccP8UJihqVIby",
+  "snapshot_id": "ZuzzQAAAAADvEdCGUPw3wj1aDg+eGhRd",
   "tracks": [
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "I Stay",
+        "url": "https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "I Stay",
+      "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 191929,
       "name": "Breaking Dollars",
       "url": "https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Booth",
+        "url": "https://open.spotify.com/album/1QCqMM5wF867kXVgmW3bKH"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "duration_ms": 155917,
+      "name": "The Booth",
+      "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
     },
     {
       "added_at": "2024-07-03 22:16:33",
@@ -87,6 +119,26 @@
       "duration_ms": 247741,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb"
+      },
+      "artists": [
+        {
+          "name": "1NN3R53LF",
+          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
+        },
+        {
+          "name": "ENERGY11",
+          "url": "https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv"
+        }
+      ],
+      "duration_ms": 237050,
+      "name": "SIDES",
+      "url": "https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -141,22 +193,6 @@
       "url": "https://open.spotify.com/track/1coEwDG8qGemFUaw8tFvWX"
     },
     {
-      "added_at": "2024-09-18 17:42:41",
-      "album": {
-        "name": "PUPPY",
-        "url": "https://open.spotify.com/album/1EOeaa9aBWzPxb53QsxJgd"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Duchene",
-          "url": "https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "PUPPY",
-      "url": "https://open.spotify.com/track/21amCankTlHEM4h5cUdD9E"
-    },
-    {
       "added_at": "2024-06-27 04:03:44",
       "album": {
         "name": "Snog",
@@ -171,6 +207,26 @@
       "duration_ms": 207134,
       "name": "Snog",
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "\u2248",
+        "url": "https://open.spotify.com/album/712cONt2604dDCMKesYLN6"
+      },
+      "artists": [
+        {
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+        },
+        {
+          "name": "Neon Priest",
+          "url": "https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "New Kind of Soft (feat. Neon Priest)",
+      "url": "https://open.spotify.com/track/4gLmqdOZLGw81pgfHebFWE"
     },
     {
       "added_at": "2024-09-18 18:51:38",
@@ -225,6 +281,22 @@
       "url": "https://open.spotify.com/track/3bSRttTtn43SMeNwZBPWtt"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1TuyXo9Y6Dwozq9OQbT0ex"
+      },
+      "artists": [
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/15SJxS2QIfiYsaQe9R5LLV"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Nothing Hurts",
@@ -239,6 +311,22 @@
       "duration_ms": 189375,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
+    },
+    {
+      "added_at": "2024-09-18 17:42:41",
+      "album": {
+        "name": "PUPPY",
+        "url": "https://open.spotify.com/album/1EOeaa9aBWzPxb53QsxJgd"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Duchene",
+          "url": "https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "PUPPY",
+      "url": "https://open.spotify.com/track/21amCankTlHEM4h5cUdD9E"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1325,22 +1413,6 @@
       "url": "https://open.spotify.com/track/47d9FnUdu8dWE4P7Yo6Hze"
     },
     {
-      "added_at": "2024-08-07 16:47:13",
-      "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 174225,
-      "name": "Digital girl - funk remix",
-      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
-    },
-    {
       "added_at": "2024-08-04 17:33:18",
       "album": {
         "name": "ok </3",
@@ -1603,70 +1675,6 @@
       "duration_ms": 176363,
       "name": "The Auction",
       "url": "https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "On Your Face",
-        "url": "https://open.spotify.com/album/0rtSDOapzjp7Cp8HLfBVWd"
-      },
-      "artists": [
-        {
-          "name": "Noise Cans",
-          "url": "https://open.spotify.com/artist/1ECKbPx4YhCU4SgKq8pfAc"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "On Your Face",
-      "url": "https://open.spotify.com/track/0QiOlPQbIBoGHO4mCp2cBC"
-    },
-    {
-      "added_at": "2024-07-10 17:56:31",
-      "album": {
-        "name": "give me a reason",
-        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 159327,
-      "name": "give me a reason",
-      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
-    },
-    {
-      "added_at": "2024-07-17 16:00:00",
-      "album": {
-        "name": "Don't Stop The Music",
-        "url": "https://open.spotify.com/album/2nyDBRGUTob4ut7rFFRAsq"
-      },
-      "artists": [
-        {
-          "name": "Amal Nemer",
-          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0knb1Yawr91vuxjrMyYMv7"
-    },
-    {
-      "added_at": "2024-02-28 19:24:58",
-      "album": {
-        "name": "DECEIVER",
-        "url": "https://open.spotify.com/album/18aOMxqx37HVyuUDOJYV7T"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "BETTER4U",
-      "url": "https://open.spotify.com/track/71mh0Jiw6oJrUndhwWyqVi"
     }
   ],
   "unique_name": "Fresh Finds Dance",

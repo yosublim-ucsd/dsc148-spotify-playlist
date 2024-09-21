@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "You are so cool",
+        "url": "https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P"
+      },
+      "artists": [
+        {
+          "name": "THAIMAY",
+          "url": "https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153558,
+      "name": "You are so cool",
+      "url": "https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN"
+    },
+    {
+      "album": {
         "name": "You took my breath away",
         "url": "https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz"
       },

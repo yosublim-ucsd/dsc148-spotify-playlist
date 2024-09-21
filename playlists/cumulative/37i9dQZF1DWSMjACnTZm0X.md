@@ -2,9 +2,9 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Binta
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Smur Lee
 
-240 songs - 16 hr 43 min
+241 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [eWallet \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0LaWpOpruJVwVBhe4oJloZ) | [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [eWallet \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/4XeN40xnKahiHWTY6KsZUh) | 2:53 | 2022-05-23 | 2022-08-05 |
 | [Falling In Love](https://open.spotify.com/track/1qTgKEsfJplWlcJopKjN6O) | [1wayJustis](https://open.spotify.com/artist/3wI8SbcuRAH53rmUC3yFe5), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [Falling In Love](https://open.spotify.com/album/7i49JEVekmPcw9DaxLBe39) | 2:53 | 2024-05-16 | 2024-05-24 |
 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 | 2022-05-23 | 2023-03-03 |
-| [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-11-23 |  |
+| [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-11-23 | 2024-09-21 |
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2022-05-23 | 2022-08-05 |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-12 | 2024-05-10 |
 | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 | 2022-11-10 | 2022-12-17 |
@@ -116,6 +116,7 @@
 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 | 2022-08-11 | 2023-03-23 |
 | [Jay Jay](https://open.spotify.com/track/4je67eU5iJAhj3NJamBxWM) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 5:31 | 2022-05-23 | 2022-09-23 |
 | [Jua \(feat\. Kenny\)](https://open.spotify.com/track/1jYrponi2uCVoLKBELAcgP) | [Dj KCM](https://open.spotify.com/artist/3lbjxOwIB1BqHe9C2flZBT), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [Kenny](https://open.spotify.com/artist/3QEr3UtMmozBCxHApVIpcA) | [Jua \(feat\. Kenny\)](https://open.spotify.com/album/430ypkx7DeCWt3GFkW5PA2) | 6:03 | 2024-02-15 | 2024-06-01 |
+| [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-09-20 |  |
 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 | 2022-09-09 | 2024-03-01 |
 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 | 2023-08-10 | 2024-02-16 |
 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 | 2024-05-09 |  |

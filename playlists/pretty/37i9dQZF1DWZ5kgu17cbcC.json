@@ -1,12 +1,12 @@
 {
   "description": "Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.",
-  "num_followers": 220028,
+  "num_followers": 220001,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoMOgAAAABC1P8VFKD3hTTaXiAQFIiL",
+  "snapshot_id": "ZuzzQAAAAADhMCM8PFBcLmUie7oOKgx2",
   "tracks": [
     {
       "added_at": "2024-04-01 18:12:12",
@@ -83,6 +83,34 @@
       "duration_ms": 111733,
       "name": "Main Title (Sh\u014dgun)",
       "url": "https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Reasonable Doubt (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Dorian Holley",
+          "url": "https://open.spotify.com/artist/3efCip4A67LJrRxexRsbzY"
+        }
+      ],
+      "duration_ms": 292492,
+      "name": "Lightning Crashes",
+      "url": "https://open.spotify.com/track/7ap694aUZ21hIL7mMvHdE1"
     },
     {
       "added_at": "2024-08-16 20:20:31",
@@ -179,6 +207,30 @@
       "duration_ms": 165840,
       "name": "We Were the Lucky Ones Theme",
       "url": "https://open.spotify.com/track/4aP4MOQENkyifr8Ffn9LHX"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Reasonable Doubt (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 228201,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2MgPGkrr0Gqwnt6RXYJfeX"
     },
     {
       "added_at": "2024-04-01 18:12:12",
@@ -305,6 +357,30 @@
       "url": "https://open.spotify.com/track/6BOTlXihQUxlBWI6TuUGhZ"
     },
     {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Reasonable Doubt (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe"
+      },
+      "artists": [
+        {
+          "name": "Nayanna Holley",
+          "url": "https://open.spotify.com/artist/7aDNgl1zhrcxLwxiiHoxaW"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 143836,
+      "name": "It's All Us (Extended Version)",
+      "url": "https://open.spotify.com/track/2DWlvyWJZtuGFS9stOfIRP"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Hit-Monkey (Season 2) [Original Soundtrack]",
@@ -395,6 +471,30 @@
       "duration_ms": 299250,
       "name": "Crazy - From \"Tell Me Lies (Season 2)\"",
       "url": "https://open.spotify.com/track/1YjHo7WQuKzOQ5BTSKpD4h"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Reasonable Doubt (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe"
+      },
+      "artists": [
+        {
+          "name": "Melanie Charles",
+          "url": "https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 206475,
+      "name": "It's a Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/4JjwzeL4HXoZ3RAInoQLPu"
     },
     {
       "added_at": "2024-04-01 18:12:12",

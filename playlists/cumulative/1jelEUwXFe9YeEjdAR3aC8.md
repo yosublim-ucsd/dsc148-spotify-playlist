@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-683 songs - 1 day 14 hr 11 min
+684 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 | 2024-05-17 |  |
 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-11-20 |  |
 | [Dog Years](https://open.spotify.com/track/2o0G1uVhYPcZz4XcDICaCX) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 2:21 | 2023-03-27 | 2023-04-02 |
+| [Doing So Much Better](https://open.spotify.com/track/4t9QOWokBUOvyDfYiigPy4) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Doing So Much Better](https://open.spotify.com/album/0YeHDs3RGLMMYKqBIRft5W) | 3:07 | 2024-09-20 |  |
 | [Don't Be So Hard On Yourself](https://open.spotify.com/track/35w6sOAI3DDG4UqeWqkQJT) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Abington Grove](https://open.spotify.com/album/5C14IfR0VeIhLeYT2f2GOy) | 3:54 | 2023-02-20 | 2023-02-28 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-22 | 2023-07-04 |
 | [Don't Go, Don't Leave](https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Don’t Go, Don’t Leave](https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey) | 3:15 | 2022-08-01 | 2023-09-26 |

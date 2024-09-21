@@ -2,9 +2,9 @@
 
 ### [New Kids Music](https://open.spotify.com/playlist/37i9dQZF1DX6r25lY14UGk)
 
-> New releases for the kids\. Cover: The Wiggles
+> New releases for the kids\. Cover: Lisa Loeb
 
-571 songs - 1 day 0 hr 32 min
+574 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [May I Please? Yes You May! \(Noodle & Pals\)](https://open.spotify.com/track/5qFiPmkh6jds6vZBXism8h) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [May I Please? Yes You May! \(Noodle & Pals\)](https://open.spotify.com/album/5Uxj7OxailTMpzKRbyPlrm) | 2:58 | 2024-03-22 | 2024-08-24 |
 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/4JTJlhiVJKs3rFi22v66yZ) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [Me and Julio Down by the Schoolyard](https://open.spotify.com/album/1wwygt8wXs4jrBQ0a93zdV) | 2:13 | 2024-08-23 |  |
 | [Me and My Mom \- Mother's Day Song](https://open.spotify.com/track/2KefMwZ4qTdYygfZQ8CBKa) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Me and My Mom \(Mother's Day Song\)](https://open.spotify.com/album/0UxVLAzxF8bTkIzywp9Hb7) | 2:04 | 2024-05-03 |  |
+| [Megasaur and Melinda](https://open.spotify.com/track/7rBXXSku6FXTWzf7QWnKxA) | [SteveSongs](https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ) | [Megasaur and Melinda](https://open.spotify.com/album/3JMaNg6L5RNZuELhmn4H8P) | 4:03 | 2024-09-20 |  |
 | [Mermaid](https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mermaid](https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3) | 2:59 | 2024-05-24 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MILLION DOLLAR BABY](https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K) | 2:35 | 2024-08-23 |  |
 | [Mixing Colors](https://open.spotify.com/track/3vsJNfedXEL21cFAdIGGkf) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Mixing Colors](https://open.spotify.com/album/0Aym3o8IZ3oESgxFkkVEai) | 2:14 | 2024-08-02 |  |
@@ -480,6 +481,7 @@
 | [The Birdies Sing](https://open.spotify.com/track/5Ea0sJ11pTMxnVEBWbyiYq) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [The Birdies Sing](https://open.spotify.com/album/0CXKlKUTaH9yskBQwHbeJH) | 2:52 | 2024-03-15 | 2024-08-24 |
 | [The Champs\-Èlysées](https://open.spotify.com/track/3cAluZJKAPerzPSeiBaHIk) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The Champs\-Élysées](https://open.spotify.com/album/6SdjCxyB05gFPOcN5aAJCA) | 2:35 | 2024-07-12 |  |
 | [The Cheesy Grand Finale \- from “Henry Danger The Musical” / Sped Up](https://open.spotify.com/track/1k59Dyt0ANypN7LgTDDKDJ) | [Henry Danger The Musical Cast](https://open.spotify.com/artist/14QFzo4BPE9kmObR2jSTeD) | [The Cheesy Grand Finale \(from “Henry Danger The Musical” / Sped Up\)](https://open.spotify.com/album/2s8OZoKtWpoI39na1iUsFq) | 2:07 | 2024-01-05 | 2024-02-17 |
+| [The Compost Bin](https://open.spotify.com/track/4FdHeduRzSw9qnwJpG1MIp) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2), [Debi Derryberry](https://open.spotify.com/artist/3kXBp3xPaYHF76wNw0ZOG9) | [The Compost Bin](https://open.spotify.com/album/4eu0eiM6NmthZ5n3uqBmeX) | 2:51 | 2024-09-20 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 | 2023-10-21 |
 | [The Crabs Go Crawling](https://open.spotify.com/track/2x25wqwggjcs2b1ACrVGcV) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Finny the Shark](https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i) | [The Crabs Go Crawling](https://open.spotify.com/album/512zS2d4shhzxsLS1ugtCn) | 4:13 | 2024-04-19 |  |
 | [The Ducks Go Waddling](https://open.spotify.com/track/3U85iilIbluK9rffhUj8O1) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Ducks Go Waddling](https://open.spotify.com/album/2RlTAOEZCBOodf66Yp21zr) | 4:28 | 2024-07-05 |  |
@@ -489,6 +491,7 @@
 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 | 2024-03-08 | 2024-08-24 |
 | [The Goldfish \- We are… The Laurie Berkner Band Version](https://open.spotify.com/track/49j8462ef5quIyGWZXReZO) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [We Are...The Laurie Berkner Band](https://open.spotify.com/album/0jjYKLPSnsHooWERuZMEko) | 3:38 | 2024-04-19 | 2024-08-24 |
 | [The Greatest Ever Campfire Song](https://open.spotify.com/track/4yeiY7i4NiSv1G9V2W2igo) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Casey Breves](https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0) | [The Greatest Ever Campfire Song](https://open.spotify.com/album/2ZFnRBLU0V0CfNVqjEydR2) | 3:14 | 2024-03-01 | 2024-08-24 |
+| [The Halloween Countdown](https://open.spotify.com/track/2TWJ7GmGqKo8EebyFLgJHK) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [The Halloween Countdown](https://open.spotify.com/album/7qCI0n43gqZ4R6OXrdcK84) | 2:08 | 2024-09-20 |  |
 | [The Hokey Pokey Dance](https://open.spotify.com/track/54GLC8FN1JjOenKtvI9uwF) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2), [The Hollow Trees](https://open.spotify.com/artist/13fosD1XnhjllI1wfooRlm) | [That’s What It’s All About](https://open.spotify.com/album/39W3IfLx31FApjKBebnIV2) | 2:41 | 2024-08-23 |  |
 | [The Hundred Acre Hop](https://open.spotify.com/track/6iCFCgWasWtj2hNNUGhpMQ) | [Playdate with Winnie the Pooh \- Cast](https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Playdate with Winnie the Pooh \(Season 2\)](https://open.spotify.com/album/5jKyWp38ZmzU1S43Heyeqt) | 1:50 | 2024-08-16 |  |
 | [The Library Jawn](https://open.spotify.com/track/7BHo6hya7niIilUA5iHnTQ) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [The Library Jawn](https://open.spotify.com/album/0mDXFu9vqTk8d17eUw16f5) | 3:02 | 2024-08-30 |  |

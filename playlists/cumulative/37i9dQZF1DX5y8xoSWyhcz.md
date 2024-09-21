@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,248 songs - 2 day 16 hr 10 min
+1,250 songs - 2 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-07 | 2023-02-11 |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 | 2022-10-13 |
 | [Daydream](https://open.spotify.com/track/09a1pEvY2wSOspwZv36WVV) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Daydream](https://open.spotify.com/album/1kbHLIbTXZxwB8vsuWmZzb) | 2:34 | 2021-01-30 | 2021-06-05 |
+| [days i've cried this year](https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [days i've cried this year](https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj) | 4:10 | 2024-09-20 |  |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-10-30 | 2022-03-05 |
 | [daytime](https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:39 | 2021-07-10 | 2021-07-31 |
 | [Dead Ends](https://open.spotify.com/track/57Pz0fOVKmE0sRDVfSeNV3) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Dead Ends](https://open.spotify.com/album/4Q07vYyjKcPGdL62PzlgHf) | 3:23 | 2023-08-25 |  |
@@ -470,7 +471,7 @@
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-05-03 | 2021-08-14 |
 | [Her](https://open.spotify.com/track/4wrU0njLIARnN1czWi3XDP) | [Bookclub](https://open.spotify.com/artist/7EGhv1hgTSLN2ld2kDbfd1) | [Her](https://open.spotify.com/album/1RwNSpnPffYhuDACj17B9W) | 4:12 | 2022-01-21 | 2022-05-20 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-27 | 2021-05-08 |
-| [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/4obHUhGfcdNPITCGQKK7zb) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 | 2023-07-21 |  |
+| [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/4obHUhGfcdNPITCGQKK7zb) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 | 2023-07-21 | 2024-09-21 |
 | [Hibiscus](https://open.spotify.com/track/6Q7ka1G1n1cnLnDzfwPc9R) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Hibiscus](https://open.spotify.com/album/4suZn3kF7vFgR6PO2I90DT) | 2:47 | 2020-10-29\* | 2021-01-06 |
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2020-10-29\* | 2020-11-14 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-02-04 | 2022-07-16 |
@@ -492,7 +493,7 @@
 | [HONEST](https://open.spotify.com/track/5uKF2xt6rVWjgBOS7uUpif) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [HONEST](https://open.spotify.com/album/36333qaoBySSvF9KHOoGPz) | 2:57 | 2021-07-24 | 2021-10-02 |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2020-10-29\* | 2021-04-24 |
 | [Honey](https://open.spotify.com/track/658qcSLPvoU4IZJhjxPHRo) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Honey](https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3) | 2:28 | 2020-11-07 | 2021-01-06 |
-| [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 | 2024-01-19 |  |
+| [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 | 2024-01-19 | 2024-09-21 |
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-22 | 2021-09-18 |
 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 | 2024-04-19 |  |
 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 | 2023-09-15 | 2024-04-06 |
@@ -978,6 +979,7 @@
 | [Solitary Mess](https://open.spotify.com/track/6qAYpZ3EmW1isIRGjsW6Tx) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [i'm not afraid of heights](https://open.spotify.com/album/79mPAVTqZ4R86YnmvGN9n0) | 2:58 | 2021-07-31 | 2021-10-23 |
 | [Solo Night](https://open.spotify.com/track/3uBsKpfduBQH3urCb4Z05y) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:12 | 2022-05-20 | 2023-02-25 |
 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2022-12-23 | 2024-05-11 |
+| [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-20 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/3la1J2DCliJL4t1QmmF2JE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Somebody That I Used To Know](https://open.spotify.com/album/6Bvt9VOWArLCq7n5aqIJEU) | 4:56 | 2021-10-16 | 2021-11-27 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-23 | 2021-04-17 |
 | [Someone I Could Love](https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:05 | 2023-08-25 | 2023-09-29 |

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Lusanda
+> The best in South African and international R&B\. Cover: Xenia Manasseh
 
-369 songs - 19 hr 25 min
+371 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [feels like](https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [feels like](https://open.spotify.com/album/568CQpVk56eTiOBI0vebVe) | 3:24 | 2023-10-12 | 2023-10-20 |
 | [Find Me](https://open.spotify.com/track/6dc1q5UPFNE0MuNwJec15r) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Ayanda Jiya](https://open.spotify.com/artist/6kjj4dSshgHMbeH8w06Sk4) | [Find Me](https://open.spotify.com/album/33eqZbHN6puprs1ccSMU3p) | 3:27 | 2024-05-16 | 2024-09-03 |
 | [FINGERS \(feat\. Kashcpt & Nana Atta\)](https://open.spotify.com/track/0gBFEH8lKBkc4j2sgDwuVk) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [HEARTBREAK HOTEL](https://open.spotify.com/album/5mHX0g8QrHMGlqC0CB2Xt5) | 4:21 | 2024-09-02 | 2024-09-12 |
+| [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-20 |  |
 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 | 2023-10-12 | 2024-01-26 |
 | [For Instance](https://open.spotify.com/track/4kjbB3EcNcxeXzf0kRXMrh) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love \(Deluxe\)](https://open.spotify.com/album/3go7rVz7XhXt6jQnJeoQY7) | 3:24 | 2024-02-09 | 2024-02-13 |
 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-02-12 |
@@ -248,6 +249,7 @@
 | [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 | 2024-02-08 | 2024-06-14 |
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2023-10-26 | 2024-02-09 |
 | [Paradise](https://open.spotify.com/track/6xb06ZbAIf45F9Vwiy44FY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 3:38 | 2023-10-26 | 2023-11-03 |
+| [Pasopa \(feat\. Usimamane\)](https://open.spotify.com/track/3xL5BQViaHSFTGOhhvepar) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Pasopa \(feat\. Usimamane\)](https://open.spotify.com/album/6X44snQMCO3ah5wdib0YAE) | 3:11 | 2024-09-20 |  |
 | [PAST MYSELF](https://open.spotify.com/track/1oSAd3Ta3gSAwxNjGja125) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 2:40 | 2024-09-02 |  |
 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 | 2024-03-07 | 2024-08-31 |
 | [Patience](https://open.spotify.com/track/5mFzG8awzpPxFnIKT43Xuf) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [DECSTER](https://open.spotify.com/artist/77QeAg7dSdGhSgT5QiHZL7), [Ari](https://open.spotify.com/artist/0iYPHQ3aoLCNYcw2khOy8M) | [Patience](https://open.spotify.com/album/2r3ahud5u7iTnFvUx4lPPm) | 3:03 | 2024-02-22 | 2024-04-26 |

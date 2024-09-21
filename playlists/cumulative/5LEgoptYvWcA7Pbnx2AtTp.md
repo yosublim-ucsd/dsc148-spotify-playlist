@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-111 songs - 6 hr 18 min
+116 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Four Little Diamonds](https://open.spotify.com/track/6dEGo0qXo7dyFtPh0UjTNG) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 4:05 | 2024-01-02 |  |
 | [Freaks \- Radio Edit](https://open.spotify.com/track/0LXcDLTEW5ybAt2IOVQnfe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/5uUOnwqz2WTNsCLQBRIg6m) | 2:50 | 2022-05-07 |  |
 | [Funk da Netflix: onde tudo começou](https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4) | [Hefty](https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk) | [Tudum Remix](https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss) | 0:30 | 2024-04-29 |  |
+| [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2024-09-20 |  |
 | [Godspeed](https://open.spotify.com/track/0Jbe7lcwFY5DgX4abMPigH) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:43 | 2023-03-23 |  |
 | [Goodnight Socialite](https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:19 | 2023-01-07 |  |
 | [H.S](https://open.spotify.com/track/130XZ5bHECnpHvUeUkEPlg) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [H.S](https://open.spotify.com/album/7kcjzW149228s4dQmIIPUu) | 3:57 | 2023-11-20 |  |
@@ -52,6 +53,7 @@
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2024-09-16 |  |
 | [I Don't Mind](https://open.spotify.com/track/7HJdedjmSkQAfTRwmep20s) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Sleepy Baby EP](https://open.spotify.com/album/6aSqVq91GliE53WYLkHKtJ) | 3:56 | 2024-09-16 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 | 2024-09-16 |  |
+| [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2024-09-20 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2024-09-17 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [internet drama part 1 \(is this available?\)](https://open.spotify.com/track/1GmgqwSthVucbpFZDk1pJG) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:48 | 2024-06-19 |  |
@@ -59,12 +61,14 @@
 | [internet drama part 6 \(can u get pregante...?\)](https://open.spotify.com/track/1xTZAmsXYIg3fp3i5pci5k) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:58 | 2024-06-19 |  |
 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:33 | 2022-05-06 |  |
 | [kid drama part 1 \(dear diary\)](https://open.spotify.com/track/5JEVgraZCZil9ByyhbqiDE) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:39 | 2024-06-19 |  |
+| [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-09-20 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/5WGatOLP3uqV4mh8jkloUv) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [AAAH!BBA](https://open.spotify.com/album/6etdJTw0gFbGOwQdb94lqo) | 4:40 | 2022-05-06 |  |
 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/5evxr7Opn6r6XDgzDMGVo7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 1:07 | 2023-03-21 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/7eMZv0iEGhpuHutwA7BHZG) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [The Owl & The Elephant](https://open.spotify.com/album/5dp6ZztUukzjrn4uzGbFR6) | 3:15 | 2023-03-23 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |
 | [Lone Digger](https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:49 | 2023-06-03 |  |
+| [Lovers \(Live A Little Longer\)](https://open.spotify.com/track/0mb5Q9w5GJKU7HClkEzHpy) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:30 | 2024-09-20 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
 | [Mr\. Fear](https://open.spotify.com/track/5XeIQO9gGkGo54naYVVeJP) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 4:06 | 2023-10-28 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-05-13 |  |
@@ -89,6 +93,7 @@
 | [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 | 2023-08-10 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
+| [Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:12 | 2024-09-20 |  |
 | [Synopsis for Latecomers](https://open.spotify.com/track/6DhYcsWKfeCygCSX8Q7tmL) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 2:25 | 2023-03-26 |  |
 | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/track/4BjIajLqiUhAUVnR854RJr) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/album/2quKDe4qshXgtiGogCHq5v) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2024-09-15 |  |

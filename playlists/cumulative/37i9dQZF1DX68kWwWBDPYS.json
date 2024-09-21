@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Boca Paila en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Vesica Piscis en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168253,
       "name": "1 veranito sad",
       "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 154000,
       "name": "A d\u00f3nde vayas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4BqhQcVHFV5zns3WOZVqoS"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 187093,
       "name": "A Quien Corresponda.",
       "url": "https://open.spotify.com/track/4YYfcxRtW2ELHd31euxNmr"
@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226910,
+      "name": "Esfera",
+      "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
+    },
+    {
+      "album": {
         "name": "Plano",
         "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
       },
@@ -1905,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "La Niebla",
+        "url": "https://open.spotify.com/album/3orTtxxaXSfK4jDjiQBfZL"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196959,
+      "name": "La Niebla",
+      "url": "https://open.spotify.com/track/2s2sS4BFdlgDNX4DTKcYMm"
+    },
+    {
+      "album": {
         "name": "La Noche",
         "url": "https://open.spotify.com/album/4czG3Xo9zuBu9yWZMG0Jn2"
       },
@@ -1982,6 +2018,28 @@
       "duration_ms": 174659,
       "name": "las cosas no son lo que parecen",
       "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
+    },
+    {
+      "album": {
+        "name": "Las Flores y el Campo",
+        "url": "https://open.spotify.com/album/2EV4ZNMc1JL8J8oQk5qyYc"
+      },
+      "artists": [
+        {
+          "name": "Chicos al Sol",
+          "url": "https://open.spotify.com/artist/2a4bbDjvKAOBfOLTfvvTZ0"
+        },
+        {
+          "name": "Tutute",
+          "url": "https://open.spotify.com/artist/2RfPdsNKTM3NFPjUiZvtmV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Las Flores y el Campo",
+      "url": "https://open.spotify.com/track/2DzEBfKlJBGc7fZJWq0Gr6"
     },
     {
       "album": {
@@ -2282,7 +2340,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 165500,
       "name": "Money Lovin'",
       "url": "https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl"
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 183964,
       "name": "nena",
       "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
@@ -2477,6 +2535,28 @@
     },
     {
       "album": {
+        "name": "Noche Estrellada",
+        "url": "https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO"
+      },
+      "artists": [
+        {
+          "name": "Lul\u00fa Bulos",
+          "url": "https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj"
+        },
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221610,
+      "name": "Noche Estrellada",
+      "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
+    },
+    {
+      "album": {
         "name": "Olivia Rodrigo",
         "url": "https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu"
       },
@@ -2492,6 +2572,28 @@
       "duration_ms": 141760,
       "name": "Olivia Rodrigo",
       "url": "https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM"
+    },
+    {
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/7xsmfNsxoHN7QzBD5w4ppr"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        },
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245132,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/4rndNVqAVEaQbmaQQDYpw7"
     },
     {
       "album": {
@@ -3185,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Svlpdqs",
+        "url": "https://open.spotify.com/album/2RkGDIGCMCXpFNZD6dm5x2"
+      },
+      "artists": [
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89874,
+      "name": "Svlpdqs",
+      "url": "https://open.spotify.com/track/5R185V2FV3ACdtIt5bZR8i"
+    },
+    {
+      "album": {
         "name": "Drop By When You Drop Dead",
         "url": "https://open.spotify.com/album/2BfdNvE24Y7JV3yWQLvDA5"
       },
@@ -3446,7 +3566,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
@@ -3576,7 +3696,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158510,
       "name": "Un Largo Viaje",
       "url": "https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP"
@@ -3634,6 +3754,24 @@
       "duration_ms": 224000,
       "name": "vives en mi cabeza",
       "url": "https://open.spotify.com/track/4hcjkvNqmihEbPVlji1PfE"
+    },
+    {
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/2scD0wenwNK3urvBQAcvr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Troy",
+          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181304,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/4PbmxglFGkNVQCy4nNKAMi"
     },
     {
       "album": {

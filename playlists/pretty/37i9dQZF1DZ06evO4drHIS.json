@@ -1,12 +1,12 @@
 {
-  "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 12469,
+  "description": "This Is Majo Aguilar. Los temas esenciales, todos en una lista.",
+  "num_followers": 12498,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAACDn2xfrxs7YCs9x3UgXMnJ",
+  "snapshot_id": "ZutpgAAAAAAhvM/S5Zr6wKZk3j2Dmvnh",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -503,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vale",
-        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+        "name": "Ya Te Super\u00e9 - Volumen 2",
+        "url": "https://open.spotify.com/album/7nEzOAzKWf168xcYxPLSPa"
       },
       "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Me Vale",
-      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+      "duration_ms": 196013,
+      "name": "Ya Te Super\u00e9 - Volumen 2",
+      "url": "https://open.spotify.com/track/0Imn72HDv2VWXLiQcK8iGr"
     },
     {
       "added_at": null,
@@ -543,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Te Super\u00e9 - Volumen 2",
-        "url": "https://open.spotify.com/album/7nEzOAzKWf168xcYxPLSPa"
+        "name": "T\u00f3mbola",
+        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
       },
       "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196013,
-      "name": "Ya Te Super\u00e9 - Volumen 2",
-      "url": "https://open.spotify.com/track/0Imn72HDv2VWXLiQcK8iGr"
+      "duration_ms": 165906,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 199973,
       "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00f3mbola",
-        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
     },
     {
       "added_at": null,

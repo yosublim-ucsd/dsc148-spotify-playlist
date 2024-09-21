@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Who Is The Villain ??",
+        "url": "https://open.spotify.com/album/4xTavRVrCq0snxkVv0WdUk"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/0QCLAUzilCByys1Uaz72KH"
+    },
+    {
+      "album": {
         "name": "Dama da Noite",
         "url": "https://open.spotify.com/album/4vbJPuDV02FML2XNieJxei"
       },

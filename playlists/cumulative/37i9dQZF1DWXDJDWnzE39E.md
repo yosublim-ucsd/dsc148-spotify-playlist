@@ -2,9 +2,9 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women opening up the pit\. Cover: Voice of Baceprot
+> A salute to all of the women opening up the pit\. Cover: Poppy
 
-349 songs - 22 hr 13 min
+351 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Freeze](https://open.spotify.com/track/0YbqxJG70RF9aocuFDmxmy) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 3:37 | 2020-12-07\* | 2021-02-06 |
 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 | 2024-07-19 |  |
 | [Frostbite](https://open.spotify.com/track/5EsFccsQ6TLO7rpJXq2YMW) | [Scarlet Aura](https://open.spotify.com/artist/1pbEZTFweqdpGugARfRokF) | [Frostbite](https://open.spotify.com/album/5JwccG63yR9wrcxu09kjkD) | 5:45 | 2021-08-24 | 2022-01-19 |
-| [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 |  |
+| [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-10-03 | 2024-09-21 |
 | [Get the F\*ck out of Here](https://open.spotify.com/track/1Ch7LEUcHBYzg1MRl85VCn) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Get the F\*ck out of Here](https://open.spotify.com/album/3NaMWGZSrIKrd03q1Uinsx) | 3:23 | 2020-12-07\* | 2021-05-15 |
 | [Ghost Chapter](https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Ghost Chapter](https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y) | 4:23 | 2020-12-07\* | 2022-07-29 |
 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 | 2020-12-07\* | 2024-09-20 |
@@ -274,6 +274,7 @@
 | [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2020-12-07\* | 2021-04-10 |
 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 | 2020-12-11 | 2024-06-02 |
 | [Smack A Bitch](https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:18 | 2024-06-01 |  |
+| [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-09-20 |  |
 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 | 2020-12-07\* | 2024-06-02 |
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-08-07 |  |
 | [Spit.](https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Spit.](https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx) | 4:08 | 2024-06-01 |  |
@@ -318,13 +319,14 @@
 | [The Waters Rising](https://open.spotify.com/track/59EXUU1Fde9Lc6QjGotk2B) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [The Waters Rising](https://open.spotify.com/album/58fcRPmN042228TwRVoVsQ) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [The Witch](https://open.spotify.com/track/1TREyFqT3Au25SZZrVzFAq) | [Nocturnal Pestilence](https://open.spotify.com/artist/71wN07P76croe8iPzElk7n), [Nicol Hofmanová](https://open.spotify.com/artist/58qnbnGqtzPPJVIgog33xJ) | [The Witch](https://open.spotify.com/album/6onhEGxKl1SjRci5qPDQSS) | 4:41 | 2021-05-15 | 2022-07-28 |
 | [The Witch of the North](https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn) | 5:29 | 2021-05-15 | 2022-07-28 |
+| [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-09-20 |  |
 | [This Is the End](https://open.spotify.com/track/1EjkGol5hmZXC0ac5SI62l) | [Dust in Mind](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [This Is the End](https://open.spotify.com/album/0cB3Pi8DpvNGbdpgHfc4b0) | 4:21 | 2020-12-07\* | 2020-12-11 |
 | [Throne](https://open.spotify.com/track/3FrBWZ5A44JTlowzHrydLa) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Throne](https://open.spotify.com/album/5qlC51M6oE1JXumk2noo7r) | 2:59 | 2020-12-07\* | 2020-12-11 |
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |
 | [Tin Soldiers](https://open.spotify.com/track/7LvdCAqmBLiOFYReWT7crb) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Tin Soldiers](https://open.spotify.com/album/2suDNX2Zms7YMC3jymUXnp) | 6:26 | 2020-12-07\* | 2020-12-11 |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2024-02-16 |  |
 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 | 2023-05-18 |  |
-| [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 |  |
+| [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 | 2024-09-21 |
 | [Typecast](https://open.spotify.com/track/2nhnehRSB4y6TnNwseM8cE) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Typecast](https://open.spotify.com/album/4NKXhPVhqIGHFtDPRjC0fQ) | 3:20 | 2023-05-18 | 2023-08-08 |
 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 | 2020-12-07\* | 2024-06-02 |
 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 | 2023-03-02 |  |

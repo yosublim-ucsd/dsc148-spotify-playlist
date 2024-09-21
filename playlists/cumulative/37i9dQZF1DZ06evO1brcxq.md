@@ -2,7 +2,7 @@
 
 ### [This Is Charli xcx](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1brcxq)
 
-> This is: Charli xcx\. Alle wichtigen Tracks in einer Playlist.
+> This is Charli xcx\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 45 min
 

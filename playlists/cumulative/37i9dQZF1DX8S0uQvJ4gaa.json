@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Parker McCollum",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Mitchell Tenpenny",
   "name": "New Boots",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 201400,
       "name": "10-90",
       "url": "https://open.spotify.com/track/25p3vqBNZMrDqAEaJZw2EL"
@@ -5701,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "CHUCK TAYLORS",
+      "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
+    },
+    {
+      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -6340,6 +6358,24 @@
       "duration_ms": 176413,
       "name": "Coulda Loved You Longer",
       "url": "https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl"
+    },
+    {
+      "album": {
+        "name": "Couldn't Be Me",
+        "url": "https://open.spotify.com/album/0ELsFkeYClGBR66JRdonU7"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168841,
+      "name": "Couldn't Be Me",
+      "url": "https://open.spotify.com/track/56wsU1rsd1bpIlzbe036yA"
     },
     {
       "album": {
@@ -11192,7 +11228,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 179666,
       "name": "Forever To Me",
       "url": "https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP"
@@ -16443,6 +16479,24 @@
     },
     {
       "album": {
+        "name": "How's The Weather?",
+        "url": "https://open.spotify.com/album/0Wpn91s1RkbX3WmzfdyCKq"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214470,
+      "name": "How's The Weather?",
+      "url": "https://open.spotify.com/track/4V9cJGZ0IIazVDUzZnVoZa"
+    },
+    {
+      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -21515,6 +21569,24 @@
     },
     {
       "album": {
+        "name": "Love Your Hometown",
+        "url": "https://open.spotify.com/album/5IgJKqGPKQqes36ClmV46Y"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210205,
+      "name": "Love Your Hometown",
+      "url": "https://open.spotify.com/track/6pQOyzIe0sMACxNFfEVoTy"
+    },
+    {
+      "album": {
         "name": "Backslider",
         "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
@@ -21868,7 +21940,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 240453,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77"
@@ -23064,6 +23136,24 @@
       "duration_ms": 198158,
       "name": "Miss You So (Letters To You)",
       "url": "https://open.spotify.com/track/5jKoCHR5URBRhPjlxTAyCG"
+    },
+    {
+      "album": {
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
       "album": {
@@ -25152,7 +25242,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174347,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj"
@@ -27608,7 +27698,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180895,
       "name": "Put A Boot In It",
       "url": "https://open.spotify.com/track/4NCXv4cKqU9EHurkces6K7"
@@ -31732,7 +31822,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 173000,
       "name": "Songs About Whiskey",
       "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
@@ -31804,7 +31894,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 215786,
       "name": "Sorry Mom",
       "url": "https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE"
@@ -35459,6 +35549,24 @@
     },
     {
       "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Thoughts of You",
+      "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
+    },
+    {
+      "album": {
         "name": "Mr. Sun",
         "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
       },
@@ -35720,6 +35828,24 @@
       "duration_ms": 186210,
       "name": "To Get to You (feat. Jess Moskaluke)",
       "url": "https://open.spotify.com/track/5peKbOjcAqDij7MrXqSBxm"
+    },
+    {
+      "album": {
+        "name": "To Tell You The Truth",
+        "url": "https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz"
+      },
+      "artists": [
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222013,
+      "name": "To Tell You The Truth",
+      "url": "https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z"
     },
     {
       "album": {
@@ -36456,6 +36582,24 @@
       "duration_ms": 172933,
       "name": "Two Night Stands",
       "url": "https://open.spotify.com/track/2FEjp5cUHa1UYvwDbC28vQ"
+    },
+    {
+      "album": {
+        "name": "Two Things",
+        "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "Two Things",
+      "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
     },
     {
       "album": {
@@ -40310,7 +40454,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202434,
       "name": "Would If I Could",
       "url": "https://open.spotify.com/track/0RNSabq5rdLoXc2Gjwjk1f"

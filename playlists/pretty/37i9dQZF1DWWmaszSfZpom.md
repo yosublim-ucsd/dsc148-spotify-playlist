@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,083 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,041 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Mechendo Voce Vai](https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ) | [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Lonny Bello](https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc), [Dominic](https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx) | [Mechendo Voce Vai](https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J) | 3:16 |
 | 74 | [Não Pare](https://open.spotify.com/track/4wIUFSrHS8wR0ggNpmHsBS) | [Jessi](https://open.spotify.com/artist/0f8oDE74ZkCvIOamuwh306), [Jyayo](https://open.spotify.com/artist/2kyppI9RJmlA20LaOqdn2s), [Yaw Faso](https://open.spotify.com/artist/15DoyzRB8Y3fOIAOoZr3MV) | [Não Pare](https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ) | 3:30 |
 | 75 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
-| 76 | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \- Remix Digo Beat](https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF) | [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Dj Digo Beat](https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo) | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \[Remix Digo Beat\]](https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL) | 4:00 |
-| 77 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
+| 76 | [Coisa Boa](https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ) | 2:45 |
+| 77 | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \- Remix Digo Beat](https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF) | [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Dj Digo Beat](https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo) | [Me Desculpa Pai, Me Desculpa Mãe \(feat\. Dj Digo Beat\) \[Remix Digo Beat\]](https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL) | 4:00 |
 | 78 | [Não encosta](https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [DJ Will22](https://open.spotify.com/artist/4WrL8YBVkibeodZIhBLjsn) | [Não encosta](https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3) | 2:24 |
-| 79 | [Coisa Boa](https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ) | 2:45 |
+| 79 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
 | 80 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 | 81 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 |
 | 82 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |

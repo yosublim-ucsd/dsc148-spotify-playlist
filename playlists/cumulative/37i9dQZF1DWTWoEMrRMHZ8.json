@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100% Samba",
+        "url": "https://open.spotify.com/album/4v5JkmdpvFnc1QIUTXZgSk"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "100% Samba",
+      "url": "https://open.spotify.com/track/5lUd0lXVvcjZoecSQ3kP2c"
+    },
+    {
+      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 267093,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh"
@@ -158,7 +176,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 243498,
       "name": "A Dan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
@@ -1771,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Baila Comigo",
+        "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Baila Comigo",
+      "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
+    },
+    {
+      "album": {
         "name": "SIM SIM SIM (Lado A)",
         "url": "https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ"
       },
@@ -1970,6 +2010,28 @@
       "duration_ms": 166706,
       "name": "BB (Garupa de Moto Amarela)",
       "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
+    },
+    {
+      "album": {
+        "name": "Beb\u00ea",
+        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173672,
+      "name": "Beb\u00ea",
+      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
     },
     {
       "album": {
@@ -2508,7 +2570,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 231002,
       "name": "Calejei",
       "url": "https://open.spotify.com/track/2ca6cNtwCZViWsaJXVhUnO"
@@ -3806,7 +3868,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 161656,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
@@ -3908,6 +3970,24 @@
       "duration_ms": 198581,
       "name": "Depois da Primavera",
       "url": "https://open.spotify.com/track/1RZ1QqJCCp7vunJxw8dXHC"
+    },
+    {
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "album": {
@@ -5383,6 +5463,28 @@
     },
     {
       "album": {
+        "name": "Feira do Rolo",
+        "url": "https://open.spotify.com/album/4JDiq33ktPKbHFMe6txERy"
+      },
+      "artists": [
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        },
+        {
+          "name": "VANDAL",
+          "url": "https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211314,
+      "name": "Feira do Rolo",
+      "url": "https://open.spotify.com/track/2GRy1TOXHzo0cx8vs1gaZF"
+    },
+    {
+      "album": {
         "name": "Feiti\u00e7o",
         "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
       },
@@ -6598,6 +6700,28 @@
       "duration_ms": 165761,
       "name": "Kair\u00f3s",
       "url": "https://open.spotify.com/track/4P0ZsjJXXzlLKuADwwSkhg"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "album": {
@@ -8984,7 +9108,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 278033,
       "name": "N\u00c3O ME CHAME DE AMOR",
       "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
@@ -12694,7 +12818,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
@@ -13300,6 +13424,28 @@
       "duration_ms": 164096,
       "name": "Seu Z\u00e9 e Dona Maria",
       "url": "https://open.spotify.com/track/2i1jPpSftCb9ON4oCseMuP"
+    },
+    {
+      "album": {
+        "name": "Seus Recados",
+        "url": "https://open.spotify.com/album/3lJQzGb25hAAZsxcmA5wAJ"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215037,
+      "name": "Seus Recados",
+      "url": "https://open.spotify.com/track/68yGrDGiJh6T38dbiLQIzL"
     },
     {
       "album": {
@@ -14370,7 +14516,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 219486,
       "name": "Tobog\u00e3",
       "url": "https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn"

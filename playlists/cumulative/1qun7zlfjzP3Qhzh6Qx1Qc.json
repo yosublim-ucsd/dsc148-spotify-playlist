@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 229600,
       "name": "Church Bells and Train Whistles",
       "url": "https://open.spotify.com/track/1ZnY9V9dANUW8KWF7NDl6V"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 232252,
       "name": "Devil In My Ear",
       "url": "https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/2LzVuBAtONnm3d1kCZ4Vly"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/0t1EXVIGlFV6CWfakRZbeT"
+    },
+    {
+      "album": {
         "name": "Hold Your Horses",
         "url": "https://open.spotify.com/album/0egbApJm7p39peGp215L7X"
       },
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198466,
       "name": "hungover",
       "url": "https://open.spotify.com/track/3xV8E5SXUN3rX9fmrNvLhP"
@@ -1962,6 +1980,24 @@
       "duration_ms": 206946,
       "name": "I Don't Know How To Say Goodbye (Bang Bang Boom Boom)",
       "url": "https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Be (Chariot 20)",
+        "url": "https://open.spotify.com/album/7uQlqDTRFTOkmkwxkWJF2h"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "I Don't Want to Be - Chariot 20",
+      "url": "https://open.spotify.com/track/4PHWUlIWuedQxQoxmjwRTs"
     },
     {
       "album": {
@@ -2106,7 +2142,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 235173,
       "name": "Keepin' The Lights On",
       "url": "https://open.spotify.com/track/7IVDnKNMiZbZbQiDrpu31E"
@@ -2146,6 +2182,24 @@
       "duration_ms": 165853,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7tAK6Y4CnO4nbm6FST7foC"
+    },
+    {
+      "album": {
+        "name": "Late Texts",
+        "url": "https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201470,
+      "name": "Late Texts",
+      "url": "https://open.spotify.com/track/36RPbRMFf8h79OUpEyjveD"
     },
     {
       "album": {
@@ -2355,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
+    },
+    {
+      "album": {
         "name": "Moth to a Flame",
         "url": "https://open.spotify.com/album/3k89ZbjGkJJbm5hnCqx5B3"
       },
@@ -2518,6 +2590,24 @@
       "duration_ms": 186973,
       "name": "No Town",
       "url": "https://open.spotify.com/track/2J4lCZulwZSFEmkkqmJygK"
+    },
+    {
+      "album": {
+        "name": "The 3rd",
+        "url": "https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/14IVonahcPCk7750AJ0gfJ"
     },
     {
       "album": {
@@ -3132,7 +3222,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 164552,
       "name": "SPINNIN' YOU AROUND",
       "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
@@ -3667,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Two Things",
+        "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "Two Things",
+      "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
+    },
+    {
+      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -4072,7 +4180,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 190933,
       "name": "Write One (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/1Tbpnf062epELxIkBIAbp0"

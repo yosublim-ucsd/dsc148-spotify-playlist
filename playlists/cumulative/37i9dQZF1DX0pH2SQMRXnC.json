@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "2 GENERATIONS",
+        "url": "https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Coldax",
+          "url": "https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151015,
+      "name": "2 GENERATIONS",
+      "url": "https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby"
+    },
+    {
+      "album": {
         "name": "A New Beginning",
         "url": "https://open.spotify.com/album/5YeYIADpcL5roJDshVf0rw"
       },
@@ -180,7 +202,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169000,
       "name": "Addicted To Rave",
       "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
@@ -3398,6 +3420,24 @@
       "duration_ms": 232506,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe"
+    },
+    {
+      "album": {
+        "name": "Disco Dip",
+        "url": "https://open.spotify.com/album/6bFGe96hFPacBlUAbFEbAR"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Disco Dip",
+      "url": "https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV"
     },
     {
       "album": {
@@ -6978,7 +7018,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168876,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07"
@@ -7780,6 +7820,24 @@
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy"
+    },
+    {
+      "album": {
+        "name": "Het Ergste Moet Nog Komen",
+        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211144,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
     },
     {
       "album": {
@@ -12164,7 +12222,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 217841,
       "name": "Rooftop - Jordiz Remix",
       "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
@@ -12216,7 +12274,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 274901,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
@@ -12412,6 +12470,28 @@
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+    },
+    {
+      "album": {
+        "name": "Save Euphoric (Theme)",
+        "url": "https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210010,
+      "name": "Save Euphoric (Theme)",
+      "url": "https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT"
     },
     {
       "album": {
@@ -12750,7 +12830,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
@@ -14500,6 +14580,28 @@
       "duration_ms": 148000,
       "name": "The Night - Hardstyle Mix",
       "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/11ec2CoUTF2AO3KXAWo4oQ"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "ATILAX",
+          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242347,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/2HQNR5ykMSwjNSHY86rV09"
     },
     {
       "album": {

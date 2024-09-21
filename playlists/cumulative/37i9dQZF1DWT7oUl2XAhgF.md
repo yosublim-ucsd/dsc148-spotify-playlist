@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-461 songs - 1 day 3 hr 52 min
+463 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Brooklyn to Brooklin](https://open.spotify.com/track/6gn7j9XgdEQgaaJeGm6uTp) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5) | [Brooklyn to Brooklin](https://open.spotify.com/album/78cN2KkuMGa8dlBenxWpeR) | 4:34 | 2022-08-19 | 2023-02-25 |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 |  |
 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 | 2021-07-09 | 2023-01-28 |
-| [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 | 2024-01-12 |  |
+| [Call Me](https://open.spotify.com/track/4vVEXX53H6SD1PHX8lCDIv) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Call Me](https://open.spotify.com/album/5NjIbGFj7Wrvbmg3aMHWHO) | 4:13 | 2024-01-12 | 2024-09-21 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2021-07-09 | 2023-04-22 |
 | [Call Me](https://open.spotify.com/track/7279Xzu3rlTXVdtKb5unBA) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/3SDb4R79A7riso7rpRZGGW) | 2:51 | 2021-07-09 | 2022-07-29 |
 | [Can't Hide It](https://open.spotify.com/track/2ylagHw0kTIK0trKihKMjI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Can't Hide It](https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6) | 3:19 | 2021-09-10 | 2022-07-29 |
@@ -260,7 +260,7 @@
 | [MARY \- A COLORS SHOW](https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY \- A COLORS SHOW](https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C) | 3:24 | 2024-02-23 |  |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-09 | 2022-09-17 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 | 2022-07-29 |
-| [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 |  |
+| [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 | 2024-09-21 |
 | [Mom Of Mine](https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Mom Of Mine](https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN) | 3:07 | 2024-05-10 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-04 | 2024-03-30 |
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2022-11-11 | 2023-08-19 |
@@ -308,6 +308,7 @@
 | [Prism](https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F) | 3:52 | 2022-08-26 | 2022-10-09 |
 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 |  |
 | [Pushin' On](https://open.spotify.com/track/4zDm8fwLbBwt3DX4txjuZA) | [The Copper Children](https://open.spotify.com/artist/3t2iiEpfJCWJsOWzLWaJIL) | [Strange Illusion](https://open.spotify.com/album/3gVDInIYlBrXuhDjiUC7aL) | 4:17 | 2022-05-06 | 2024-04-19 |
+| [Queen Of Hearts](https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Queen Of Hearts](https://open.spotify.com/album/0zoK1cfLzct3p6W6TABxeN) | 3:48 | 2024-09-20 |  |
 | [Questions](https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:59 | 2023-09-29 | 2024-02-15 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-04-12 |  |
 | [Ready](https://open.spotify.com/track/2FMeFICKFtO9j4qLaPKcst) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Ready](https://open.spotify.com/album/3gNnUZO69AyHhi8fYybcyf) | 3:48 | 2022-01-28 | 2023-09-09 |
@@ -378,6 +379,7 @@
 | [Strawberry Hill](https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Human Decency](https://open.spotify.com/album/7wASaUQhuevPwNzNICAvGG) | 4:06 | 2024-06-14 |  |
 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 | 2024-03-01 | 2024-04-27 |
 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 |  |
+| [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 | 2024-09-20 |  |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2021-07-16 | 2022-07-26 |
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-07-09 | 2023-01-28 |

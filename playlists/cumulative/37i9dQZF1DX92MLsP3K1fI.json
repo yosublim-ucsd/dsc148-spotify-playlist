@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 148677,
       "name": "(sola)",
       "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 180573,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 181000,
       "name": "CLASSICO",
       "url": "https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u"
@@ -1742,6 +1742,28 @@
       "duration_ms": 176081,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/14z0nJOFTKfWAODgtq5RiJ"
+    },
+    {
+      "album": {
+        "name": "DeLorean",
+        "url": "https://open.spotify.com/album/4eqehk81a2uuLEn02pATeS"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Farol 116",
+          "url": "https://open.spotify.com/artist/0wc3bvjIQbovCDGZqYiNtD"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203272,
+      "name": "DeLorean",
+      "url": "https://open.spotify.com/track/5Gkgw6THQivBbb6KdIsbZF"
     },
     {
       "album": {
@@ -2240,7 +2262,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 205354,
       "name": "El Reloj del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5q20ChVvFID1D8wL6TSxjm"
@@ -2559,6 +2581,28 @@
     },
     {
       "album": {
+        "name": "Mosaico Pirata",
+        "url": "https://open.spotify.com/album/7CtZHgAWrKZnzwJvzBxnyV"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173096,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/3dsyfUHYPtqgToDCzV3W9H"
+    },
+    {
+      "album": {
         "name": "Frida",
         "url": "https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK"
       },
@@ -2624,7 +2668,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 196000,
       "name": "Fue un adi\u00f3s",
       "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
@@ -2738,6 +2782,24 @@
       "duration_ms": 123970,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
+    },
+    {
+      "album": {
+        "name": "LAS QUE NO CADUCAN",
+        "url": "https://open.spotify.com/album/0raYbuJFr0yg2lB0CP4xco"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163338,
+      "name": "GORDITA",
+      "url": "https://open.spotify.com/track/2KKg9HRLfgRWPOyUOvNdns"
     },
     {
       "album": {
@@ -5348,7 +5410,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
@@ -6044,6 +6106,24 @@
       "duration_ms": 169000,
       "name": "S\u00daPER ULTRA MEGA",
       "url": "https://open.spotify.com/track/1RR4V0naoxfy9dVgMjzcxZ"
+    },
+    {
+      "album": {
+        "name": "t hice gay :$",
+        "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165874,
+      "name": "t hice gay :$",
+      "url": "https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt"
     },
     {
       "album": {

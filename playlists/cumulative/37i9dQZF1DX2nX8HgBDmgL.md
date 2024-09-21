@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Jacqueline Fernandez
 
-272 songs - 14 hr 43 min
+273 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Speechless](https://open.spotify.com/track/0BpoeiBzKq1WI8dYI9p4T4) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3smWlTVbX1PvuiETZ8QbkH) | [Speechless](https://open.spotify.com/album/12jESwb60AuJ15q45k7D8I) | 3:08 | 2021-11-11 | 2022-07-19 |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2024-01-04 |
 | [Stay With Me](https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Stay With Me](https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8) | 2:29 | 2024-08-09 | 2024-09-10 |
+| [Stormrider](https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji) | [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Stormrider](https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva) | 2:17 | 2024-09-20 |  |
 | [Summer Luv](https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Summer Luv](https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-07-15 |  |
 | [Teju](https://open.spotify.com/track/0H8sDfz5yN30bvta2t67cX) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Teju](https://open.spotify.com/album/62mkIyXnLf1U4mrD7pjxCK) | 2:33 | 2021-11-11 | 2022-07-19 |

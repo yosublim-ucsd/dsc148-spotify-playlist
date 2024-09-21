@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dean Martin. Los temas esenciales, todos en una lista.",
-  "num_followers": 119901,
+  "description": "This is Dean Martin. The essential tracks, all in one playlist.",
+  "num_followers": 119921,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuoYAAAAAAA8EO13/01mZ8w53EDUf/8f",
+  "snapshot_id": "ZutpgAAAAAAcm4uGTU5lwo/sM5zEpyTx",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 2 (1950-1951)",
+        "url": "https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+      "duration_ms": 128226,
+      "name": "Luna Mezzo Mare",
+      "url": "https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 2 (1950-1951)",
-        "url": "https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 128226,
-      "name": "Luna Mezzo Mare",
-      "url": "https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv"
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Corrine, Corrina",
-      "url": "https://open.spotify.com/track/6hhuQN1IIAFir8fthpN9cH"
+      "duration_ms": 147200,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC"
     }
   ],
   "unique_name": "This Is Dean Martin",

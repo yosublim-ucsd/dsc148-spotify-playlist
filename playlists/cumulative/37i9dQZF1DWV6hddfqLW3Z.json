@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 223773,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
@@ -3078,6 +3078,24 @@
       "duration_ms": 292306,
       "name": "Voce E Linda - Remixed Original Album",
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea J\u00e1 Foi \u00e0 Bahia?",
+        "url": "https://open.spotify.com/album/4y2o1WyTvBLZhs4B1M48RR"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Voc\u00ea J\u00e1 Foi \u00e0 Bahia?",
+      "url": "https://open.spotify.com/track/5rSj7hyw8tqkIQTebXqgbr"
     },
     {
       "album": {

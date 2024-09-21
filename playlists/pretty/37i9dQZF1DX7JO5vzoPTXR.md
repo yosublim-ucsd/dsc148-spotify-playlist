@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFKOkH8OzoKeF?si=1012a09322de4dfb">Ali Stone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,385 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,389 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: FKA twigs",
+  "description": "The best indie dance tracks of the moment. Cover: Kaeto",
   "name": "metropolis",
   "tracks": [
     {
@@ -967,6 +967,28 @@
     },
     {
       "album": {
+        "name": "All My People",
+        "url": "https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Sweely",
+          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194989,
+      "name": "All My People - Edit",
+      "url": "https://open.spotify.com/track/1BX9aPJoLvxTJsKn7xMSKz"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 199565,
       "name": "amun\u00ec",
       "url": "https://open.spotify.com/track/7f55PbgmDgjN2bdwm2btjY"
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169986,
       "name": "ASPEN (feat. Toro Y Moi)",
       "url": "https://open.spotify.com/track/5EdKi0sMiXYvfvuxx8D6sM"
@@ -3774,7 +3796,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174240,
       "name": "Burn3r",
       "url": "https://open.spotify.com/track/4DMOzhaZMNKkJuVQyexbb4"
@@ -5518,7 +5540,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167753,
       "name": "could you not go?",
       "url": "https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6"
@@ -5820,7 +5842,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 174545,
       "name": "dancebaby",
       "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
@@ -5998,7 +6020,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 198258,
       "name": "Day Dreams - Mona Yim Remix",
       "url": "https://open.spotify.com/track/66WUdzZp9QD96YlIu4QcTa"
@@ -6148,6 +6170,24 @@
       "duration_ms": 272000,
       "name": "Deal With Love",
       "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
+    },
+    {
+      "album": {
+        "name": "DEEP HOLES",
+        "url": "https://open.spotify.com/album/2r12lWbWRVRLyH5lWWV4pZ"
+      },
+      "artists": [
+        {
+          "name": "Rahim C Redcar",
+          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286874,
+      "name": "DEEP HOLES",
+      "url": "https://open.spotify.com/track/4NCckbOYu1LDH6AbSGb5mS"
     },
     {
       "album": {
@@ -6969,6 +7009,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Be Afraid",
+        "url": "https://open.spotify.com/album/3Phi2YxhgQSvFbncmFIH4L"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216203,
+      "name": "Don\u2019t Be Afraid",
+      "url": "https://open.spotify.com/track/1jvMdvu2VfhXt7JdI0C3WA"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
       },
@@ -7042,6 +7104,24 @@
       "duration_ms": 166783,
       "name": "Doses",
       "url": "https://open.spotify.com/track/1qzUOpBCHB8Qzy4Gpuqmng"
+    },
+    {
+      "album": {
+        "name": "Oregon Coast",
+        "url": "https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189784,
+      "name": "Doug Fir",
+      "url": "https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1"
     },
     {
       "album": {
@@ -7376,7 +7456,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138023,
       "name": "early days",
       "url": "https://open.spotify.com/track/1iEipqyQlZJVg64emlcX3D"
@@ -18293,6 +18373,32 @@
     },
     {
       "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH"
+    },
+    {
+      "album": {
         "name": "Nike",
         "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
       },
@@ -19079,6 +19185,24 @@
     },
     {
       "album": {
+        "name": "Space Drag",
+        "url": "https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308053,
+      "name": "Ohh Baby",
+      "url": "https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS"
+    },
+    {
+      "album": {
         "name": "Oj & prosecco",
         "url": "https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh"
       },
@@ -19366,7 +19490,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 143649,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/4a5RkJgDdApYFryLpsNs1C"
@@ -20388,6 +20512,28 @@
       "duration_ms": 201538,
       "name": "Perspective - Noah\u2019s Breaks Mix",
       "url": "https://open.spotify.com/track/0ybUCHtEc2JZUVK5lJ6ujW"
+    },
+    {
+      "album": {
+        "name": "Petit Boy",
+        "url": "https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Petit Boy",
+      "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
     },
     {
       "album": {
@@ -22486,7 +22632,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 266133,
       "name": "Sensationalize Me (with Donna Missal)",
       "url": "https://open.spotify.com/track/3s4pX9Mw77sU6vJR6LfzN9"
@@ -22850,6 +22996,24 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL"
+      },
+      "artists": [
+        {
+          "name": "Tornado Club",
+          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231349,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
     },
     {
       "album": {
@@ -23442,7 +23606,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
@@ -23882,7 +24046,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 169146,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/3rGGwt7jXRx5jcNu84yaC2"
@@ -24234,6 +24398,32 @@
       "duration_ms": 215158,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/1ykt4FccCEkspnAP8G5544"
+    },
+    {
+      "album": {
+        "name": "Stop The World",
+        "url": "https://open.spotify.com/album/4Nd0jx1QuMiTgJgdJZBohf"
+      },
+      "artists": [
+        {
+          "name": "Real Action",
+          "url": "https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Stop The World",
+      "url": "https://open.spotify.com/track/7hXWENKVs2XOlIdzgCMws7"
     },
     {
       "album": {
@@ -26292,7 +26482,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210640,
       "name": "Thinking ('bout you, 'bout me) - dance edit",
       "url": "https://open.spotify.com/track/6UGj0fipu2SxUMqnH9Shp1"
@@ -27957,6 +28147,36 @@
     },
     {
       "album": {
+        "name": "Waited All Night",
+        "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208334,
+      "name": "Waited All Night",
+      "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
+    },
+    {
+      "album": {
         "name": "Waiting 4",
         "url": "https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97"
       },
@@ -29087,6 +29307,24 @@
     },
     {
       "album": {
+        "name": "Wise Heart",
+        "url": "https://open.spotify.com/album/0nlMtkdfpMHNby5avmtAcY"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "Wise Heart",
+      "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"
+    },
+    {
+      "album": {
         "name": "wish that i could (Memphis LK Remix)",
         "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
       },
@@ -29288,6 +29526,24 @@
       "duration_ms": 189152,
       "name": "YKWIM? - Cyril Hahn Remix",
       "url": "https://open.spotify.com/track/5Td4sG8hJuLauFoefeYHOY"
+    },
+    {
+      "album": {
+        "name": "INTRO",
+        "url": "https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213602,
+      "name": "YOMM",
+      "url": "https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV"
     },
     {
       "album": {

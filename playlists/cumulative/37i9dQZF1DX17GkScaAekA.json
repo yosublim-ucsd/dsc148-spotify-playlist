@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+        "url": "https://open.spotify.com/album/3y59zcMN0zoBuTSpQEyLTT"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224422,
+      "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+      "url": "https://open.spotify.com/track/2aWm6k9oNgtqJVq61KlANg"
+    },
+    {
+      "album": {
         "name": "Johann Sebastian Bach",
         "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
       },

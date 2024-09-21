@@ -1,18 +1,18 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 146483,
+  "num_followers": 146544,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAADjqKCLJPJeBu2JP1cd5zLc",
+  "snapshot_id": "ZuzzQAAAAADrVFQbSA/ySbRPvc+EX/k/",
   "tracks": [
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
+        "name": "Autumn Nocturne",
+        "url": "https://open.spotify.com/album/4Ba6gHR346eUIFoPnu4mxI"
       },
       "artists": [
         {
@@ -20,15 +20,15 @@
           "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 275080,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
+      "duration_ms": 226880,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
     },
     {
-      "added_at": "2024-09-06 17:43:45",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "You're Getting to Be a Habit With Me",
-        "url": "https://open.spotify.com/album/4rwrlAcmEKECpy0L736GXQ"
+        "name": "Voicemail Blues",
+        "url": "https://open.spotify.com/album/6aDPNDlJbT3aKe1eW9Dt8R"
       },
       "artists": [
         {
@@ -36,9 +36,25 @@
           "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
         }
       ],
-      "duration_ms": 240000,
-      "name": "You're Getting to Be a Habit With Me",
-      "url": "https://open.spotify.com/track/2bs51JHesQ5giFaZ9a3kaA"
+      "duration_ms": 233377,
+      "name": "Voicemail Blues",
+      "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -101,6 +117,22 @@
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Where or When",
@@ -115,6 +147,22 @@
       "duration_ms": 257811,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
+    },
+    {
+      "added_at": "2024-09-06 17:43:45",
+      "album": {
+        "name": "You're Getting to Be a Habit With Me",
+        "url": "https://open.spotify.com/album/4rwrlAcmEKECpy0L736GXQ"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "You're Getting to Be a Habit With Me",
+      "url": "https://open.spotify.com/track/2bs51JHesQ5giFaZ9a3kaA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -167,6 +215,22 @@
       "duration_ms": 207251,
       "name": "Another You",
       "url": "https://open.spotify.com/track/6wEmBI22p4jsXgGFfvbLtj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Beyond the Sea",
+        "url": "https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 175865,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -497,22 +561,6 @@
       "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "ENCORE!",
-        "url": "https://open.spotify.com/album/6GL1EHQVbtqKubEfWdDZt3"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 366709,
-      "name": "Mal de vivre",
-      "url": "https://open.spotify.com/track/1VcejonVyFNjgASurwl28D"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Silver Tongue",
@@ -647,22 +695,6 @@
       "duration_ms": 228840,
       "name": "Without A Chance",
       "url": "https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Sayonara Meu Amor",
-        "url": "https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 415242,
-      "name": "La chanson des vieux amants",
-      "url": "https://open.spotify.com/track/0qKnv6qXPNNj3Pe4nlKPk3"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1141,22 +1173,6 @@
       "url": "https://open.spotify.com/track/3OJ1GwHbz5yVQpmq24AriB"
     },
     {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Tight",
-        "url": "https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 115679,
-      "name": "Tight",
-      "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
-    },
-    {
       "added_at": "2024-02-16 05:01:00",
       "album": {
         "name": "Icarus",
@@ -1287,26 +1303,6 @@
       "duration_ms": 136725,
       "name": "Sad to Say - Snapshot - vocal theme",
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Lean In",
-        "url": "https://open.spotify.com/album/1spz41w8bNYC5yq5t5zzXn"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Parlato",
-          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
-        },
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Walking After You",
-      "url": "https://open.spotify.com/track/6A7E5xGBYU8OKMc3KnbMac"
     },
     {
       "added_at": "2023-03-24 04:01:00",

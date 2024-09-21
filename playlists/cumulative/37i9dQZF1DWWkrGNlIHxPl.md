@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Lana Lubany
 
-345 songs - 18 hr 59 min
+347 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Sbaart Ou Tal Adabi](https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:46 | 2022-06-06 | 2022-06-24 |
 | [Scarred Hearts Love Better =○<](https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM) | [Hadi X](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Scarred Hearts Love Better =○<](https://open.spotify.com/album/3ujSdcdB2xTbwTCS93dBBC) | 3:50 | 2024-09-17 |  |
 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 | 2023-05-07 | 2023-06-15 |
+| [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 |  |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 | 2022-11-20 |
 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 | 2023-06-26 |  |
 | [Shattered](https://open.spotify.com/track/4bpryNIqnYK1yhr7D2PRM5) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [2wice Shye](https://open.spotify.com/artist/4aTT2lVgwspZZn7JqDv5YR) | [Shattered](https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B) | 3:39 | 2021-12-16 | 2022-11-20 |
@@ -334,6 +335,7 @@
 | [WATCH ME](https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR) | [Adam Nimer](https://open.spotify.com/artist/517W25k7PxKGIFOlK6olsp) | [WATCH ME](https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU) | 2:35 | 2023-06-14 | 2023-08-20 |
 | [WATER](https://open.spotify.com/track/6s3GAR8XAY06Qk05V4A0z7) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [WATER](https://open.spotify.com/album/6Q7Q1IbhWKDthIVE6CF2ud) | 3:37 | 2022-12-07 | 2023-04-25 |
 | [Wavy in Brooklyn](https://open.spotify.com/track/1C8KiYm5khCfsqJkqlfWkb) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Mo Stank](https://open.spotify.com/artist/09mbQueasspgFFhkE1pc7V) | [Wavy in Brooklyn](https://open.spotify.com/album/4CClVr9DFvedg0LX4Q8bQD) | 2:56 | 2024-03-11 |  |
+| [WE PRAY \- \(Elyanna Version\)](https://open.spotify.com/track/4rYYAWSdgENNINui9wK3O1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(Elyanna Version\)](https://open.spotify.com/album/7EAQXnF7TwFUHYC2UtIQq6) | 3:53 | 2024-09-20 |  |
 | [What I Mean](https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [What I Mean](https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY) | 2:49 | 2022-12-07 | 2023-02-25 |
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-12-07 | 2023-06-25 |

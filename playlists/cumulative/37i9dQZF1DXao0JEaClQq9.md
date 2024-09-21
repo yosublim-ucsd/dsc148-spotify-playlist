@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> Modern heavenly sounds\. Cover: FKA Twigs
+> Modern heavenly sounds\. Cover: Oklou
 
-629 songs - 1 day 15 hr 20 min
+631 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Concrete Angel](https://open.spotify.com/track/33om1peLEWLBZimmmjpfxH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:58 | 2021-10-08 | 2022-04-14 |
 | [Concrete Over Water](https://open.spotify.com/track/4EGMLBvaIIHNYuTQ3vyJmd) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [Concrete Over Water](https://open.spotify.com/album/2yvTYZAs8hfm3p8bStCBLR) | 6:09 | 2022-04-22 | 2022-07-29 |
 | [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-21 | 2023-01-26 |
-| [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 | 2024-08-16 |  |
+| [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 | 2024-08-16 | 2024-09-21 |
 | [Contemplation](https://open.spotify.com/track/3z1DQOsda6thjUHkbJTelA) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Contemplation](https://open.spotify.com/album/7yCRreN60KqQqDU4mUJZtC) | 3:27 | 2021-06-03 | 2022-07-15 |
 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 | 2024-09-06 |  |
 | [Control](https://open.spotify.com/track/40eaYakmKgXWBRnlmYKj5w) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Control](https://open.spotify.com/album/4Yd21IKbdwX7GQCBa3zKWT) | 4:03 | 2022-03-31 | 2022-04-19 |
@@ -164,7 +164,7 @@
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2022-07-22 |  |
 | [detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:39 | 2021-10-08 | 2022-06-04 |
 | [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 | 2021-06-03 | 2022-07-27 |
-| [Diets](https://open.spotify.com/track/6w7ZeeQhoeQpONVxHp5ocK) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Diets](https://open.spotify.com/album/63XnTjXGxxDn9jN9KRulAm) | 2:30 | 2024-09-13 |  |
+| [Diets](https://open.spotify.com/track/6w7ZeeQhoeQpONVxHp5ocK) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Diets](https://open.spotify.com/album/63XnTjXGxxDn9jN9KRulAm) | 2:30 | 2024-09-13 | 2024-09-21 |
 | [Digital Light Field](https://open.spotify.com/track/6INdHk4cEMcGhyl1Cj4QIp) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [Angels on the Slope](https://open.spotify.com/album/7ixQIWyCTfMQOepiY4kZlV) | 2:51 | 2021-10-08 | 2022-04-16 |
 | [Do I Make You Nervous](https://open.spotify.com/track/1LsGcCJQcB9fTjjf4nOb0P) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Do I Make You Nervous](https://open.spotify.com/album/3XH2ZEUh3l7OYkIZVnLc17) | 3:10 | 2022-06-03 | 2022-06-27 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-06-03 | 2022-06-04 |
@@ -197,6 +197,7 @@
 | [fall \- A\. G\. Cook remix](https://open.spotify.com/track/44dDBvATJffxnqvdMNsfDQ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [fall / galore \(A\. G\. Cook remixes\)](https://open.spotify.com/album/1Wf9pKZst7slr7Xpbf2oui) | 2:37 | 2021-06-03 | 2022-06-04 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 | 2023-09-30 |
 | [Fall Right Out Of Love](https://open.spotify.com/track/34UvSlQb9KwCXp4VICGhFC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 2:45 | 2022-05-20 | 2022-06-22 |
+| [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-20 |  |
 | [Family Ties](https://open.spotify.com/track/2dP2iym2h1qCm0Cla5Sa3N) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Michael Stipe](https://open.spotify.com/artist/1BrnT6jR3FfrHHtjxBSCDf) | [Family Ties](https://open.spotify.com/album/4YGMtwgQ0CuqTNh2kBOFre) | 3:44 | 2022-03-30 | 2022-04-21 |
 | [Family Tree](https://open.spotify.com/track/5B4oL0Dn3dlaAdovV8ZUTE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 7:10 | 2022-05-20 | 2022-06-01 |
 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 | 2023-11-02 |
@@ -290,6 +291,7 @@
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-03-15 | 2024-05-09 |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2021-06-03 | 2022-05-12 |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 |  |
+| [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 | 2024-09-20 |  |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-06-03 | 2022-07-14 |
 | [I Need Nothing From You](https://open.spotify.com/track/2iqn4H1SVAfsVNKeQYz4V2) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [I Need Nothing From You](https://open.spotify.com/album/1uGTPzOxYMjAnq3vy3OBxv) | 3:38 | 2021-11-12 | 2022-04-22 |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-04-01 | 2022-06-23 |

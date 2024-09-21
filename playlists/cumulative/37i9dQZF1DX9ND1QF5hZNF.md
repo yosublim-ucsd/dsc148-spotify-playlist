@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-181 songs - 9 hr 30 min
+182 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Deja Vu](https://open.spotify.com/track/0uOQJSju3PCtfCqo86DEHd) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Deja Vu](https://open.spotify.com/album/209ZTABY4BPxqSkUhWBRUl) | 2:24 | 2024-01-05 | 2024-01-12 |
 | [Disco en Egypte](https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Disco en Egypte](https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx) | 3:46 | 2023-11-20 |  |
 | [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 | 2022-12-20 | 2023-09-01 |
+| [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 | 2024-09-20 |  |
 | [Enough](https://open.spotify.com/track/4Pj5AyBWoQ6moElFpWK4Bk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Enough](https://open.spotify.com/album/2IPE6cckug6T1Wm7qdmY3T) | 2:40 | 2023-10-23 | 2023-12-23 |
 | [Everyday](https://open.spotify.com/track/1Sqj67OzLpwDRX7nzV9kS1) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Everyday](https://open.spotify.com/album/6zDYygsjWArQUi2FNDgzOS) | 3:29 | 2023-08-31 | 2023-10-24 |
 | [Falling Behind](https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Falling Behind](https://open.spotify.com/album/6w9ZhMq9O9UwoOT8A6fkp1) | 4:43 | 2023-12-22 |  |
@@ -151,7 +152,7 @@
 | [Stolen Dance](https://open.spotify.com/track/6yc6GZm46yU5lYd9mfKTkw) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [FRENCHGRL](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC) | [Stolen Dance](https://open.spotify.com/album/0cF5OMWh0XW9fOyG6MGe80) | 3:25 | 2024-06-27 |  |
 | [Stripes](https://open.spotify.com/track/6Iubxxf4cBRv8cuureNRK9) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Stripes](https://open.spotify.com/album/7b3lF7lWIKs3CzXUgf0p4s) | 2:15 | 2023-05-12 | 2024-01-06 |
 | [Stumble](https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:30 | 2023-05-12 | 2024-02-10 |
-| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 | 2024-09-21 |
 | [Sunset](https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Sunset](https://open.spotify.com/album/75SOVqtkavzS4o2DlS9KcG) | 2:58 | 2024-07-05 |  |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2022-12-20 | 2024-04-19 |
 | [Sunset Memories](https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Sunset Memories](https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj) | 3:04 | 2022-12-20 | 2023-05-13 |

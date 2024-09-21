@@ -4,7 +4,7 @@
 
 > Mental illness
 
-36 songs - 1 hr 58 min
+37 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 | 2024-02-19 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |
 | [McCafferty's Bib](https://open.spotify.com/track/65WSrB4IuSAcdAMdbHdjX8) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap) | 2:35 | 2023-03-26 |  |
+| [Me And I](https://open.spotify.com/track/4JzJihuvIlhaYqSUNNJGBl) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 | 2024-09-20 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2024-09-16 |  |
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2024-09-17 |  |
 | [Problems](https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Problems](https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee) | 3:22 | 2024-02-19 |  |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 149651,
       "name": "100%",
       "url": "https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb"
@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/3ODN0cjDIX8f7a9wdUETs1"
+      },
+      "artists": [
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259534,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/6g0GJJrBJeLlgKfq940wct"
+    },
+    {
+      "album": {
         "name": "Be Yourself",
         "url": "https://open.spotify.com/album/0BNOnqpHlxeqTnJiuGKu6B"
       },
@@ -256,6 +274,24 @@
       "duration_ms": 156798,
       "name": "Big As It Gets",
       "url": "https://open.spotify.com/track/2lA4BUG5rsRPLEJ1F0q0Hp"
+    },
+    {
+      "album": {
+        "name": "BIG IN JAPAN",
+        "url": "https://open.spotify.com/album/35DpjAx9Jmgu3Hx7g6YaGo"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "BIG IN JAPAN",
+      "url": "https://open.spotify.com/track/2GJ1DwkmSNvk9Mxw9JdN96"
     },
     {
       "album": {
@@ -508,6 +544,24 @@
       "duration_ms": 368152,
       "name": "Creation",
       "url": "https://open.spotify.com/track/0ojYHw8XV2Mey9vXGC8QUw"
+    },
+    {
+      "album": {
+        "name": "Die For The Party",
+        "url": "https://open.spotify.com/album/7hEV7T7NjXra4EtsUGuVKZ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153268,
+      "name": "Die For The Party",
+      "url": "https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41"
     },
     {
       "album": {
@@ -892,7 +946,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 158333,
       "name": "Go",
       "url": "https://open.spotify.com/track/3aVy4NgUOQwV7urg8R3xPl"
@@ -1520,7 +1574,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 213845,
       "name": "Life Sentence",
       "url": "https://open.spotify.com/track/1GDSutpXUijKwUFJwOeXrD"
@@ -2066,7 +2120,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 202666,
       "name": "One Of Them Ones",
       "url": "https://open.spotify.com/track/0EcL8667UQIGNCqJG5AlWh"
@@ -2166,7 +2220,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168672,
       "name": "POWER",
       "url": "https://open.spotify.com/track/11bbej53Te2pMJjoPPygGI"
@@ -2760,7 +2814,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 100219,
       "name": "Take It There",
       "url": "https://open.spotify.com/track/703eoQkxytsRX5J5g5yG8x"
@@ -3037,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "WESLEY'S GALLERY",
+        "url": "https://open.spotify.com/album/21pfN1RxUAqU1rkSzxUUwT"
+      },
+      "artists": [
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137836,
+      "name": "watercolors.",
+      "url": "https://open.spotify.com/track/4evVTz1xt4U03g0FAGY6XJ"
+    },
+    {
+      "album": {
         "name": "Soundpieces: Da Antidote",
         "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
       },
@@ -3106,6 +3182,24 @@
       "duration_ms": 150361,
       "name": "Woah",
       "url": "https://open.spotify.com/track/5yYvlsIAdu4KbBS7rpQNlw"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t get blocked",
+        "url": "https://open.spotify.com/album/57dexcrNJTlm6Wa9nKQ3F7"
+      },
+      "artists": [
+        {
+          "name": "Kel Mitchell",
+          "url": "https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205630,
+      "name": "Won\u2019t get blocked",
+      "url": "https://open.spotify.com/track/2AiuMb1aZIg2JfSYwDOTum"
     },
     {
       "album": {

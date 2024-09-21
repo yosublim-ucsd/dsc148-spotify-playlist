@@ -2,9 +2,9 @@
 
 ### [New Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTRL8S1krA3b)
 
-> This year's new country holiday songs! Cover: Maddie & Tae
+> This year's new country holiday songs! Cover: Little Big Town
 
-102 songs - 5 hr 30 min
+103 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Silver Bells](https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [A Redhill Valley Christmas](https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5) | 3:16 | 2023-12-01 | 2024-04-19 |
 | [Silverado Santa](https://open.spotify.com/track/5QTiDBP5AoZRZFz2vhujXY) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/2EfhiBTVKligRG4ZxlyMe8) | 3:22 | 2023-11-24 |  |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-11-24 |  |
+| [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/3WjuBnuW3JHSHtxet4V38x) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Sweet December \(feat\. Kelly Clarkson\)](https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL) | 3:20 | 2024-09-20 |  |
 | [Tangled In Tinsel](https://open.spotify.com/track/5VBDZziVRcONqiSxuBYr4I) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:25 | 2023-11-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/0oXcucBOAdY367JhsKQMSN) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [The Christmas Song](https://open.spotify.com/album/5Q7HgVnYrR2sW5airrAeKL) | 2:56 | 2023-11-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/2F74xhEmEJ8fEXdpVlZQph) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 3:27 | 2023-11-24 |  |

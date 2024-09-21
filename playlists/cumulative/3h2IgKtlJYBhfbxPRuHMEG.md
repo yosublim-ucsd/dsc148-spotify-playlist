@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: NotLö
 
-137 songs - 7 hr 46 min
+138 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 | 2024-06-15 |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-12-01 |  |
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 |  |
-| [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2023-12-01 |  |
+| [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2023-12-01 | 2024-09-21 |
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 |  |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-12-01 |  |
 | [Empress](https://open.spotify.com/track/7FOKSW5gRor6OiAFb5TtEi) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Empress](https://open.spotify.com/album/3DHXtr7PruK4VAgEYq6HZF) | 2:40 | 2023-12-01 |  |
@@ -145,5 +145,6 @@
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 |  |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 | 2024-08-31 |
+| [Yummy Gummy](https://open.spotify.com/track/6NlBcr0CvGpWvuxgLUjD9t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Yummy Gummy](https://open.spotify.com/album/4WIjbGDOI6ShqYSfcV3B0y) | 2:50 | 2024-09-20 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

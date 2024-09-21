@@ -2,7 +2,7 @@
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This is XXXTENTACION\. Az összes kihagyhatatlan szám egyetlen műsorlistában.
+> This is: XXXTENTACION\. Alle wichtigen Tracks in einer Playlist.
 
 69 songs - 2 hr 44 min
 

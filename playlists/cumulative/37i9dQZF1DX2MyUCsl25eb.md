@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-886 songs - 2 day 3 hr 11 min
+888 songs - 2 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BIG SHOT](https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:01 | 2021-10-22 | 2022-09-24 |
 | [BIG SHOT](https://open.spotify.com/track/58ErpsLNkTWyj8iOqbJNdv) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BIG SHOT](https://open.spotify.com/album/15tWMDG6FxVJFECq3VV6iB) | 3:01 | 2021-10-22 | 2022-07-29 |
 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 | 2023-09-29 | 2024-05-25 |
-| [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 | 2023-10-13 |  |
+| [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 | 2023-10-13 | 2024-09-21 |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-03-29 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2023-01-28 |
 | [Blood](https://open.spotify.com/track/0Ht4rJqj1RsXPrgbhbcDOa) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Blood](https://open.spotify.com/album/2A3a9WxEKjpG4nLdJrTQcX) | 3:56 | 2023-02-17 | 2023-06-24 |
@@ -409,6 +409,7 @@
 | [If You Think You've Seen It All](https://open.spotify.com/track/10q5sJ4yF1BWYGsiso3x14) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 4:28 | 2023-06-23 | 2023-11-04 |
 | [If You Think You've Seen It All](https://open.spotify.com/track/6nzegGZ4Y4YQq2dSsbF9R7) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 4:28 | 2023-06-23 | 2024-03-23 |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-05 | 2022-08-27 |
+| [In A Song \(Lost & Found\)](https://open.spotify.com/track/4UqYBqytpDXC9eD8hMmezL) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [In A Song \(Lost & Found\)](https://open.spotify.com/album/0hpAIaL7246Sy2EweAvIQV) | 4:14 | 2024-09-20 |  |
 | [In Real Life](https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9) | 3:52 | 2022-03-11 | 2022-07-28 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2022-07-27 |
 | [Indigo](https://open.spotify.com/track/5S1Dx0DalOtXpvR4nNZfwR) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Indigo](https://open.spotify.com/album/39NQggZqzhEw4gkBqDWguQ) | 3:39 | 2022-04-01 | 2022-04-21 |
@@ -528,6 +529,7 @@
 | [Missed Connection](https://open.spotify.com/track/6cG99KcHVOlmQOiYcu6cjb) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Missed Connection](https://open.spotify.com/album/0loOZXQoeYJ1IF7sjMCv56) | 3:15 | 2021-08-04 | 2022-04-01 |
 | [Missing Piece \- RAC Remix](https://open.spotify.com/track/1hZu4sw6Iapw8pL1eiqc9u) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Missing Piece \(RAC Remix\)](https://open.spotify.com/album/7rSUDRy3fPEgrE11tQb8Lf) | 3:19 | 2021-12-03 | 2022-07-29 |
 | [Modern Art](https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Modern Art](https://open.spotify.com/album/6YQt8LnQUXAEzO4eWIdPfx) | 2:39 | 2022-03-11 | 2022-05-08 |
+| [Modern Heartbreak](https://open.spotify.com/track/6MNaL55kTqxkyQlUErPcib) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Modern Heartbreak](https://open.spotify.com/album/0kfpSgFPwUPabG8LFcwFc2) | 3:21 | 2024-09-20 |  |
 | [Moment Of Silence](https://open.spotify.com/track/64AtgV3fetMTCDUHlDvNBM) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Moment Of Silence](https://open.spotify.com/album/2lY0ZnogDlajz5QJobuNbX) | 2:15 | 2022-07-15 | 2022-07-23 |
 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 | 2023-04-07 | 2023-08-12 |
 | [Morning](https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Morning](https://open.spotify.com/album/0pro3pYtDog6bp669jZywP) | 3:01 | 2022-09-23 | 2023-04-29 |
@@ -815,7 +817,7 @@
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-18 | 2023-02-18 |
 | [Vibrating Walls](https://open.spotify.com/track/3ujsvyuTUbmiKLXK9WTMLC) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 4:08 | 2022-10-28 | 2023-06-10 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 | 2023-02-18 |
-| [Villain](https://open.spotify.com/track/3NSfknvFy4Z9TguAVNe39W) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Villain](https://open.spotify.com/album/6nGaPPsBWwlD5pHmrQ2XbP) | 3:01 | 2024-07-26 |  |
+| [Villain](https://open.spotify.com/track/3NSfknvFy4Z9TguAVNe39W) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Villain](https://open.spotify.com/album/6nGaPPsBWwlD5pHmrQ2XbP) | 3:01 | 2024-07-26 | 2024-09-21 |
 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 | 2024-03-01 | 2024-04-13 |
 | [Waiting for You](https://open.spotify.com/track/0kq0Y8usfSocdx1EumUklz) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [When My Heart Felt Volcanic](https://open.spotify.com/album/3Lz15w8ecHfYgKbnOF36Tb) | 4:17 | 2021-08-04 | 2022-07-20 |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 |  |

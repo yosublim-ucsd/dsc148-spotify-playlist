@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "B\u0142yszcz",
+        "url": "https://open.spotify.com/album/1IYkvIPmyxkLykwH5tedho"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        },
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "B\u0142yszcz",
+      "url": "https://open.spotify.com/track/6pr6o2yJTpb1UqREkNcYB2"
+    },
+    {
+      "album": {
         "name": "Call Me Up",
         "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
       },
@@ -582,6 +604,24 @@
       "duration_ms": 204111,
       "name": "Chasing Low Vibrations",
       "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
+    },
+    {
+      "album": {
+        "name": "Chcia\u0142bym z tob\u0105 stworzy\u0107 dom",
+        "url": "https://open.spotify.com/album/2jOsRaff9JdPptWJhU3GKI"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Chcia\u0142bym z tob\u0105 stworzy\u0107 dom",
+      "url": "https://open.spotify.com/track/5CEkcTSgwfGpInXUaPTBXZ"
     },
     {
       "album": {
@@ -720,6 +760,32 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
+    },
+    {
+      "album": {
+        "name": "Czuj\u0119 Ci\u0119 Obok",
+        "url": "https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        },
+        {
+          "name": "BRSC",
+          "url": "https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz"
+        },
+        {
+          "name": "Mike Johnson",
+          "url": "https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152575,
+      "name": "Czuj\u0119 Ci\u0119 Obok",
+      "url": "https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP"
     },
     {
       "album": {
@@ -886,6 +952,24 @@
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "album": {
+        "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
+        "url": "https://open.spotify.com/album/3BHMi7fHjXFmQsTFx6DviT"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
+      "url": "https://open.spotify.com/track/1AYzYoqkHWJKWkrhD9lH56"
     },
     {
       "album": {
@@ -1204,6 +1288,24 @@
       "duration_ms": 245680,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC"
+    },
+    {
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "album": {
@@ -1732,7 +1834,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 152400,
       "name": "MIEJSKIE NIEBO",
       "url": "https://open.spotify.com/track/1tL30TRxVJ4IHh2qQfG9Hl"
@@ -1876,7 +1978,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Na g\u0142\u0119bok\u0105 wod\u0119",
       "url": "https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9"
@@ -2284,7 +2386,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 124235,
       "name": "Poka\u017c Twarz (t\u0105 naprawd\u0119)",
       "url": "https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy"
@@ -2430,6 +2532,24 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
+    },
+    {
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "album": {
@@ -3104,10 +3224,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 188653,
       "name": "Trucizna",
       "url": "https://open.spotify.com/track/3fAFgKBYLAX4M8C9lNxhTO"
+    },
+    {
+      "album": {
+        "name": "Trucizna",
+        "url": "https://open.spotify.com/album/2enTHSbeI3bG1hvvOIoXeU"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158195,
+      "name": "Trucizna",
+      "url": "https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4"
     },
     {
       "album": {
@@ -3140,7 +3278,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/2yDJcDBVnvrEFGdDu0sSHT"
@@ -3216,6 +3354,24 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
+        "name": "Where The Names Are Real",
+        "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321047,
+      "name": "Where The Names Are Real",
+      "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
     },
     {
       "album": {
@@ -3368,6 +3524,24 @@
       "duration_ms": 187193,
       "name": "Zdj\u0119cia",
       "url": "https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU"
+    },
+    {
+      "album": {
+        "name": "Znak",
+        "url": "https://open.spotify.com/album/0IjNaus9nS3fT3gxbsR15C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Znak",
+      "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXakrXW5YU9SI"

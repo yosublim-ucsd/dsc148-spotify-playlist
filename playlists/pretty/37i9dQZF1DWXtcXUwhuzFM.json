@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Ellinoora.",
-  "num_followers": 95815,
+  "num_followers": 95859,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-09-19 21:01:00",
       "album": {
+        "name": "Syntynyt uudelleen (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/7CEbewMvyZCRF6BmPAl8lf"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 161005,
+      "name": "Syntynyt uudelleen (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/3EkJO4XHaKSwng6M5HjVTK"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
         "name": "I'M A GREAT DAY",
         "url": "https://open.spotify.com/album/0Nzxfeb85vGezniAlYMMK9"
       },
@@ -331,6 +347,26 @@
       "duration_ms": 169567,
       "name": "Likimain",
       "url": "https://open.spotify.com/track/06Och6N7wbkTVb5RbdAafl"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
+        "name": "Viel\u00e4 jossakin kohdataan (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/2rlByOAlXO6ktUSsCGgP7s"
+      },
+      "artists": [
+        {
+          "name": "Roope Salminen",
+          "url": "https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC"
+        },
+        {
+          "name": "Roope Salminen & Koirat",
+          "url": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+        }
+      ],
+      "duration_ms": 187338,
+      "name": "Viel\u00e4 jossakin kohdataan (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/246fvzs8QH8cpQ3L759mJK"
     },
     {
       "added_at": "2024-09-19 21:01:00",
@@ -399,6 +435,26 @@
       "duration_ms": 272461,
       "name": "Kiljut riemusta (Roosa nauha 2024)",
       "url": "https://open.spotify.com/track/55hOn2rl3tx24cgYneShKz"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
+        "name": "Yksi, kaksi ...tuoppia ja taksi (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/1WixdxqHYZBAyjsaldb4RP"
+      },
+      "artists": [
+        {
+          "name": "Neon 2",
+          "url": "https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN"
+        },
+        {
+          "name": "Jussi Rainio",
+          "url": "https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD"
+        }
+      ],
+      "duration_ms": 182288,
+      "name": "Yksi, kaksi ...tuoppia ja taksi (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/5Ojn0w97U4M45vT4IiJ287"
     },
     {
       "added_at": "2024-09-19 21:01:00",
@@ -631,6 +687,22 @@
     {
       "added_at": "2024-09-19 21:01:00",
       "album": {
+        "name": "Kes\u00e4 ja y\u00f6 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/2QYXVTg01Du4u4m1q0u48K"
+      },
+      "artists": [
+        {
+          "name": "Hanna Pakarinen",
+          "url": "https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE"
+        }
+      ],
+      "duration_ms": 181311,
+      "name": "Kes\u00e4 ja y\u00f6 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/59BM4u6jcySfsRj1lXzFlz"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
         "name": "Sabotage",
         "url": "https://open.spotify.com/album/6XzCVVZWLVwCnhDU37hhrk"
       },
@@ -771,6 +843,22 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
+        "name": "Draamaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/5kTeEEYR5Kv0xKNoiwu5ss"
+      },
+      "artists": [
+        {
+          "name": "Waldo's People",
+          "url": "https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF"
+        }
+      ],
+      "duration_ms": 167352,
+      "name": "Draamaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/31TKTwu0mvxLg11aS7eQD2"
     },
     {
       "added_at": "2024-09-19 21:01:00",
@@ -955,6 +1043,22 @@
     {
       "added_at": "2024-09-19 21:01:00",
       "album": {
+        "name": "Eini, alkaa polttaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/4hTCLyk609LHcJkF5OwDW4"
+      },
+      "artists": [
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 175105,
+      "name": "Eini, alkaa polttaa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/1W0d5XmB3vIlc46IrFOCP6"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
         "name": "Vincentin t\u00e4hdet",
         "url": "https://open.spotify.com/album/2p9jYyuHDEUb6DRFSVVYTT"
       },
@@ -967,6 +1071,22 @@
       "duration_ms": 150716,
       "name": "Vincentin t\u00e4hdet",
       "url": "https://open.spotify.com/track/3xPox4mkpp5OUW6CNEVybi"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
+        "name": "Love Tune",
+        "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 187507,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
     },
     {
       "added_at": "2024-09-19 21:01:00",
@@ -1171,6 +1291,22 @@
       "duration_ms": 190060,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
+    },
+    {
+      "added_at": "2024-09-19 21:01:00",
+      "album": {
+        "name": "Pohja",
+        "url": "https://open.spotify.com/album/3qm3YWIRYZO9qSnHw7BrPB"
+      },
+      "artists": [
+        {
+          "name": "Marko Hietala",
+          "url": "https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00"
+        }
+      ],
+      "duration_ms": 224952,
+      "name": "Pohja",
+      "url": "https://open.spotify.com/track/0TdGwFdZobXOejSFHnU4oq"
     },
     {
       "added_at": "2024-09-19 21:01:00",

@@ -2,7 +2,7 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
 176 songs - 12 hr 4 min
 

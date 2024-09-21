@@ -2,7 +2,7 @@
 
 ### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
-> This is U2\. The essential tracks, all in one playlist.
+> This is: U2\. Alle wichtigen Tracks in einer Playlist.
 
 85 songs - 6 hr 15 min
 

@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Oliver Sim + Jamie xx + Romy
 
-1,351 songs - 2 day 20 hr 0 min
+1,352 songs - 2 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [AFTER THE END ft\. Yuna](https://open.spotify.com/track/0mRBk0W4P9QV59jBGfbpSH) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [AFTER THE END ft\. Yuna](https://open.spotify.com/album/17iAVZo5SYPXSplTNhMWnl) | 2:12 | 2023-08-03 | 2023-09-08 |
 | [Afterglow](https://open.spotify.com/track/6FHJtTykaTFDrd5IX3vjTz) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Michel Zitron](https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw) | [Afterglow](https://open.spotify.com/album/11ZZHbKeaw32nDGhpXQSdl) | 2:58 | 2023-02-09 | 2023-03-03 |
 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 | 2024-08-22 |  |
+| [again](https://open.spotify.com/track/27QnDBHE4l6lbVO6tLwIyi) | [COLDKIDS](https://open.spotify.com/artist/0annmahwZLMPzszAw2OnMv) | [again](https://open.spotify.com/album/3j9A9wMSh8ki12jkoUdfBo) | 2:41 | 2024-09-20 |  |
 | [Again](https://open.spotify.com/track/3gB0fkEzOzV0kEWuQBFweu) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Again](https://open.spotify.com/album/1K9U7ZYaG8bxDYskbCxR8y) | 3:19 | 2023-02-16 | 2023-03-03 |
 | [Aglow](https://open.spotify.com/track/5ytMbojsX5HtlvDPd5dam7) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Zoe](https://open.spotify.com/artist/3BORdvvXzwjXCTGMztDqRY) | [Aglow](https://open.spotify.com/album/7s1JNHj5Iymj6IK5O8ZdOF) | 2:17 | 2023-06-22 | 2023-08-11 |
 | [Ain't Nobody](https://open.spotify.com/track/4bfHVv3l0nyvJU12zIDhtm) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Ain't Nobody](https://open.spotify.com/album/0vNmfGvW3m5cN8TIDA5XKI) | 2:09 | 2023-08-24 | 2023-10-06 |

@@ -1,31 +1,35 @@
 {
   "description": "<a href=\"https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l_E1EUSFQy6mw967zlio3Q\"> Disclosure</a>'s favourite tracks. Updated regularly. Curated by Disclosure. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 10186,
+  "num_followers": 10242,
   "original_name": "Disclosure's track ID's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuLfNAAAAADjeko5DFQe3cVizJYc0dwX",
+  "snapshot_id": "Zu1yxwAAAAAZ0u5PStgq7Jc1jszGZecB",
   "tracks": [
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+        "name": "in2minds",
+        "url": "https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY"
       },
       "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
         {
           "name": "Disclosure",
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+      "duration_ms": 201979,
+      "name": "in2minds",
+      "url": "https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
@@ -45,7 +49,23 @@
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Ooh",
         "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Refraction",
         "url": "https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Bogeyman",
         "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Locked On",
         "url": "https://open.spotify.com/album/5APEg6tK8STLOsE1DnZKhP"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/2M5LhHBQnM28tQYWVvy0ru"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "S\u00f3sia",
         "url": "https://open.spotify.com/album/1gjbbdW2LlKpZiT4uEZJuQ"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/7lSEldgwOg3nYjQm4SBSy1"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "TAKA (Caribou Remix)",
         "url": "https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/47bXbkPmHSXxw2jv22cxBr"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/2GE2aAkkxmqZ54fu1tPiKG"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Joy - Romeo Louisa Remix",
         "url": "https://open.spotify.com/album/2TxzRitLftnkHFpiC3QxYk"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/3sKCtBjPQgry2v1hKxWt0H"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "The Shrew Would Have Cushioned The Blow / So Derobe",
         "url": "https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "\u00c0 l'Ouest",
         "url": "https://open.spotify.com/album/0VvCFm9a37m3MTWtlaiS95"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/5GXbpn0CnZoLhRCuW4jJSu"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Used To Do",
         "url": "https://open.spotify.com/album/1P5vYYQzsNG3ebeh6aOSEf"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/71KzW0f2cFZC08F6QDPqAC"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Tastemakers: Volume 1",
         "url": "https://open.spotify.com/album/6yHh1Sq4QJjFNcwC37ex8R"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/4XDPsjrtJrWYvskifvxsRx"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Unbalance",
         "url": "https://open.spotify.com/album/0TwCte8lYquzBK3CzLeofP"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/7Hr8doHwfnAsaeme57NNpX"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Echolocations EP",
         "url": "https://open.spotify.com/album/3imtmFr6XIpYFp6IVVXJYj"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/2fdmMIdqXMkYTjoYtEOkAH"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Phreqaflex",
         "url": "https://open.spotify.com/album/3aE9b7KTZA3TOrovJOVQxV"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/3UK5fQpBY4uc7ssNYsaAIV"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Get Me",
         "url": "https://open.spotify.com/album/2wpIozbP9fxGC0aBYk8yZV"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/1qh3Bq0KLVJSJ9oebNgqVS"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Phoneglow / Eyes Go Blank",
         "url": "https://open.spotify.com/album/64icg3faDn1lGsYpinu6eg"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/5EZcvtoZohyR3RdxgW85j9"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/4nEuIUz3MYhErH40zqVm6z"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Expander",
         "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Stockholm Disco EP",
         "url": "https://open.spotify.com/album/2Sc0BBRKiEPgvSnI7oqOUG"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/30LmSARZJ4HcFlqDuiIxq2"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Bang The Box EP",
         "url": "https://open.spotify.com/album/5pM6LxLOhdb9iCLlnZTPhL"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/1F8fGt8MoFxJjt4n9bLuMA"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Ocotillo",
         "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/10LN4j7BJzNWF6dj3JCnd9"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "IILE 01",
         "url": "https://open.spotify.com/album/6i0DrQ0KXLXtAegVhTdjxW"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/2ABwcIpFHhrI6hF1DSOZJl"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Rising Sun",
         "url": "https://open.spotify.com/album/4Ht3khS6iCOpEpwLSaMEQm"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/2j05tI4e6JtH2egmokPnKL"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Over The Summer",
         "url": "https://open.spotify.com/album/65pHRI7kegI8KmykEdHQbP"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/3e6YmMIvGd1RAWjQ6yAlc1"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Ju (Traumer Sunset Mix)",
         "url": "https://open.spotify.com/album/1ZgrCccclMPkEHD0d3JKSJ"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/031MRnGJqlmhd27mWgog2P"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "PLSN",
         "url": "https://open.spotify.com/album/1xMFLPFsZLN9o4wAZgcFEb"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/27jnPJ8BYNIOJg4lZ6Zo4N"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Carriage 8",
         "url": "https://open.spotify.com/album/3zmTRIAOIrd1NCOCJmqx1W"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/6xakJjOW5dkmf6ZMIXP5aj"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Zion V: The Ballad Of Charles Douthit",
         "url": "https://open.spotify.com/album/1Qa6GE61jrCfL4GIwZAmx2"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/5TO2186PXHZGuL8U1U6W8T"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Wanderlea: Mais Que A Paix\u00e3o",
         "url": "https://open.spotify.com/album/0vWc4HuOA1KEisENTANXIQ"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/0Np0GTkucxwBiL4pkE0XxD"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "She\u2019s Gone, Dance On (Live From The Mews)",
         "url": "https://open.spotify.com/album/1c15mn8BZMpTwzBIEcS43z"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/6kEQoXJQZnvJk4OB6VJMSm"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "Angie (Expanded Edition)",
         "url": "https://open.spotify.com/album/7KYOGBzyo40slOc0EJGOsb"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/6EFagSx8kOmHnXnryCnnEW"
     },
     {
-      "added_at": "2024-09-12 12:31:48",
+      "added_at": "2024-09-20 13:04:07",
       "album": {
         "name": "My Field Recordings from Across the Planet",
         "url": "https://open.spotify.com/album/3EmUGs6NPCzWB4JOMsmyk7"

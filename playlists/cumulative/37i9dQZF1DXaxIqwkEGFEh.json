@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 108000,
       "name": "Backend",
       "url": "https://open.spotify.com/track/02iXoRWKvCGhLSD1xzk52q"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 148732,
       "name": "BLACC OUT",
       "url": "https://open.spotify.com/track/6zb5XXVsYPpn8opKNcYxNv"
@@ -6045,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "CYBER TRUCK",
+        "url": "https://open.spotify.com/album/0Dgwe0jOh7fehZAQzZDIpv"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156044,
+      "name": "CYBER TRUCK",
+      "url": "https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5"
+    },
+    {
+      "album": {
         "name": "Meet The Reap",
         "url": "https://open.spotify.com/album/5XVDMCHpVCu2wsPErKXDDj"
       },
@@ -6286,7 +6304,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 263289,
       "name": "DEAD",
       "url": "https://open.spotify.com/track/3OIzMTyg6PIV2ZsefS3O2n"
@@ -8422,7 +8440,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 119872,
       "name": "Fish Tail Fish Scale",
       "url": "https://open.spotify.com/track/0oMOpwM8st46rOT0tmwnRC"
@@ -10018,7 +10036,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 168299,
       "name": "Global Spinning (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/6ViNOWs6pBf1kvwplclX6K"
@@ -10244,7 +10262,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 132774,
       "name": "God's Favorite",
       "url": "https://open.spotify.com/track/4MQRRl6GpDOB5GpaEYT0o3"
@@ -11100,6 +11118,28 @@
       "duration_ms": 161253,
       "name": "Head Tapper",
       "url": "https://open.spotify.com/track/7kWDb1buNN3BTY4BSJ091l"
+    },
+    {
+      "album": {
+        "name": "Tornado Warning 2",
+        "url": "https://open.spotify.com/album/30qwGkHRr5NXDV1LNJdcQe"
+      },
+      "artists": [
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        },
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175986,
+      "name": "Head Tappin",
+      "url": "https://open.spotify.com/track/7iXi9fRfvD18axClaNrjKc"
     },
     {
       "album": {
@@ -12000,7 +12040,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 182065,
       "name": "How I Grew Up (feat. Polo G)",
       "url": "https://open.spotify.com/track/6ZnOfn9ylrTmC8d3p6FFXy"
@@ -14883,6 +14923,24 @@
     },
     {
       "album": {
+        "name": "Like Will",
+        "url": "https://open.spotify.com/album/0gLxWjaNAvPIEc5Vf05VWV"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117568,
+      "name": "Like Will",
+      "url": "https://open.spotify.com/track/3evjxp73xbl9feveyXzgZX"
+    },
+    {
+      "album": {
         "name": "Likka Sto",
         "url": "https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72"
       },
@@ -15536,7 +15594,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 111059,
       "name": "Mafia Bidnezzz",
       "url": "https://open.spotify.com/track/4pbzkHMzLvGQZELa3Zoi9W"
@@ -16712,6 +16770,24 @@
       "duration_ms": 145454,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/6THwYdJS5zgKRDSsfoGXzW"
+    },
+    {
+      "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/0luXOFX2F18UaLbG9lcldL"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134661,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/5plrd9A87xVkXGtkg9Kh9L"
     },
     {
       "album": {
@@ -21395,6 +21471,28 @@
     },
     {
       "album": {
+        "name": "Tornado Warning 2",
+        "url": "https://open.spotify.com/album/30qwGkHRr5NXDV1LNJdcQe"
+      },
+      "artists": [
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        },
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109056,
+      "name": "Raincoat",
+      "url": "https://open.spotify.com/track/5Gxr43KPLazqCY4A3jB7Jb"
+    },
+    {
+      "album": {
         "name": "Rambo",
         "url": "https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr"
       },
@@ -21508,6 +21606,24 @@
       "duration_ms": 146075,
       "name": "Raw ASL",
       "url": "https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k"
+    },
+    {
+      "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "READY TO COOK UP",
+      "url": "https://open.spotify.com/track/5tUETztMKNT9NDbMUVpxzl"
     },
     {
       "album": {
@@ -23143,6 +23259,32 @@
     },
     {
       "album": {
+        "name": "Still Too Deep",
+        "url": "https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Will A Fool",
+          "url": "https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB"
+        },
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166464,
+      "name": "Same Way (feat. YFN Lucci)",
+      "url": "https://open.spotify.com/track/07SVWlvZW6dqXP02eGKzmI"
+    },
+    {
+      "album": {
         "name": "LARRY",
         "url": "https://open.spotify.com/album/19oWyPxJTqnAQnhvzIs8CS"
       },
@@ -23760,7 +23902,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 119272,
       "name": "SHHHH",
       "url": "https://open.spotify.com/track/0cIoiQRGAxt5NnfCO6Muiz"
@@ -24687,6 +24829,28 @@
     },
     {
       "album": {
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193434,
+      "name": "SO ICEY",
+      "url": "https://open.spotify.com/track/6pF5vOKDbxXYvQkZnpBs8w"
+    },
+    {
+      "album": {
         "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
         "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
       },
@@ -24758,6 +24922,24 @@
       "duration_ms": 163866,
       "name": "Something Bout Me",
       "url": "https://open.spotify.com/track/6SDAOIs8wLJvhEXcIMgm5f"
+    },
+    {
+      "album": {
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "album": {
@@ -25290,7 +25472,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 101071,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4pYpRak6mhj0MHy8nMdcgz"
@@ -26443,6 +26625,24 @@
     },
     {
       "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159893,
+      "name": "TEFLON DON",
+      "url": "https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf"
+    },
+    {
+      "album": {
         "name": "Blinded By Death (Deluxe)",
         "url": "https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl"
       },
@@ -27474,7 +27674,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 153893,
       "name": "TOPCHEF",
       "url": "https://open.spotify.com/track/54vagHML7PBKL2BZtGZ83l"
@@ -27906,7 +28106,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 138472,
       "name": "TWEAKERS (feat. Rob49 & Skilla Baby)",
       "url": "https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3"
@@ -29786,6 +29986,28 @@
       "duration_ms": 154283,
       "name": "Whole Nother League",
       "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
+    },
+    {
+      "album": {
+        "name": "Whoopty Woop",
+        "url": "https://open.spotify.com/album/4bxHWZPRYSPoxSFjtRIa7I"
+      },
+      "artists": [
+        {
+          "name": "BEO Lil Kenny",
+          "url": "https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Whoopty Woop",
+      "url": "https://open.spotify.com/track/6GGlCBkuBtOppkUQyLFT7f"
     },
     {
       "album": {

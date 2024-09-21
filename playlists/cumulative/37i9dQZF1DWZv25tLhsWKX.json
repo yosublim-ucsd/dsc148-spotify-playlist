@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 230680,
       "name": "Ain't No Harmin' Me",
       "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
@@ -218,6 +218,24 @@
       "duration_ms": 329640,
       "name": "Call to Arms",
       "url": "https://open.spotify.com/track/4m1opmaYT9zk5OP7IHUb9R"
+    },
+    {
+      "album": {
+        "name": "Can I Get An Amen",
+        "url": "https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Can I Get An Amen",
+      "url": "https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624"
     },
     {
       "album": {
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 210736,
       "name": "Sunday's Children",
       "url": "https://open.spotify.com/track/6B29urREjvzoQgCzSbgnQy"

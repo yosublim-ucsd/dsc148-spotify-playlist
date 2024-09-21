@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "The Piper",
+      "url": "https://open.spotify.com/track/5jBPAlYvSkGDz4iDW7r2FC"
+    },
+    {
+      "album": {
         "name": "The Devil Makes Three",
         "url": "https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k"
       },

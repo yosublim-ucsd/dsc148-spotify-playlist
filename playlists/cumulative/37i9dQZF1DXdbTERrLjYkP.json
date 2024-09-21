@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Rhys",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Samantha Ebert",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 148860,
       "name": "Don\u2019t Look At Me",
       "url": "https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 148978,
       "name": "Enough of Me",
       "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
@@ -3972,6 +3972,24 @@
       "duration_ms": 157142,
       "name": "Flood",
       "url": "https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
       "album": {
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 132821,
       "name": "I'm The Sinner",
       "url": "https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b"
@@ -6252,6 +6270,24 @@
       "duration_ms": 228144,
       "name": "if you still like me in the morning",
       "url": "https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166912,
+      "name": "If You Were A Person (Ruby's Song)",
+      "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
     },
     {
       "album": {
@@ -7991,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8"
+      },
+      "artists": [
+        {
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153687,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
       },
@@ -8622,6 +8676,24 @@
       "duration_ms": 123931,
       "name": "oh my god i\u2019m happy what the fuck",
       "url": "https://open.spotify.com/track/0nELcTlKKUPt2TvC6xpjQc"
+    },
+    {
+      "album": {
+        "name": "Old Car",
+        "url": "https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199922,
+      "name": "Old Car",
+      "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
     },
     {
       "album": {
@@ -10606,7 +10678,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 160487,
       "name": "Sorry to Little Me",
       "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"

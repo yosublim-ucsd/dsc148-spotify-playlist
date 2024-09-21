@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: THAIMAY
 
-1,160 songs - 2 day 17 hr 47 min
+1,162 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 | 2023-04-06 | 2023-07-14 |
 | [Yellow Scissors](https://open.spotify.com/track/4RP1PU6TT1alEhzm8zn6Cs) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [Yellow Scissors](https://open.spotify.com/album/1ODeNCAMlCOJKNbY9Ng4xq) | 3:29 | 2024-04-11 |  |
 | [You and I](https://open.spotify.com/track/5FWcHUJMy7wWD2SByZk8Hd) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [You and I](https://open.spotify.com/album/1leHwKjenNuvX4CmoUtRcl) | 4:20 | 2023-05-04 | 2023-09-01 |
+| [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-20 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/0jHtBuOZX2wcHTJSC2Rxby) | [石裂符](https://open.spotify.com/artist/2z5PPOztYLholwAHp3teQq) | [You Can't Stop Me](https://open.spotify.com/album/0qxlt4shCfMU822W22rX6t) | 3:19 | 2023-12-21 | 2024-05-10 |
 | [You gone](https://open.spotify.com/track/5nEPLPhekRKuG6I3fDaBwC) | [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51) | [You gone](https://open.spotify.com/album/3f8mtMGqgvfJyjLSFqFVru) | 2:54 | 2023-01-12 | 2023-02-03 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/2ufCmx9ku6zzEsscj9YLL8) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/album/31fT2pyLNdEDKOqx7EMUYM) | 3:04 | 2024-02-08 | 2024-05-10 |
@@ -1131,6 +1132,7 @@
 | [這裡等 \- Night Version](https://open.spotify.com/track/0WOUUnbn1DC6zQ39OvpXAx) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [GoodNite..\. \(Night Version\)](https://open.spotify.com/album/5EeZ4NipzcK4RFsa4lKptN) | 3:31 | 2023-09-28 | 2024-01-05 |
 | [過去過不去](https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [過去過不去](https://open.spotify.com/album/1t0MnE7H8ycpzZzgwZCn27) | 4:37 | 2022-08-11 | 2022-11-04 |
 | [道別重聚散](https://open.spotify.com/track/6KILI17lSadzer8OEEAH1J) | [Locksmiths 開鎖佬](https://open.spotify.com/artist/1Z4uKuJsVmcbUGaozKoXO8) | [道別重聚散](https://open.spotify.com/album/0QXwyMkU7HazMMwQrPMs1d) | 4:47 | 2024-01-05 | 2024-05-10 |
+| [選取快樂](https://open.spotify.com/track/3hewKyGbSovF9eCBMONXBe) | [Daze in White](https://open.spotify.com/artist/3Cw4lXyrHjSM0dUCTdRSmW) | [選取快樂](https://open.spotify.com/album/5GIdqbe4pjdwWIlfQYgVQM) | 3:08 | 2024-09-20 |  |
 | [醉後 Black Out \(feat\. Tsui Chin Hung\)](https://open.spotify.com/track/2RmxP2Rpuoscz77tasDxst) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Tsui Chin Hung](https://open.spotify.com/artist/4iim34n0M5J5ua3fluGflT) | [Fuo.](https://open.spotify.com/album/6SrVTBtEk4rrESjDbf1S83) | 4:16 | 2023-03-24 | 2023-07-14 |
 | [重獲自信](https://open.spotify.com/track/1VucFdXeTVlq7E3tuQqP9i) | [LikHang](https://open.spotify.com/artist/1CjN9kt3l99SnJEyaspKIh) | [重獲自信](https://open.spotify.com/album/4x0KW73otW6TBS3CwO9FAm) | 4:55 | 2022-09-22 | 2023-01-06 |
 | [金榜題名](https://open.spotify.com/track/4F65yFSP9lxFf2LKzg3Eis) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Mr\. scanner](https://open.spotify.com/artist/4x6hxzjBEIRbQ58VVZ1yYR), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [24Herbs](https://open.spotify.com/artist/529oXjexAyYU0ApmR7jpMM) | [金榜題名](https://open.spotify.com/album/7cZsfS5lOPux956zjAlSjA) | 8:05 | 2024-01-11 | 2024-05-10 |

@@ -2963,6 +2963,28 @@
     },
     {
       "album": {
+        "name": "Toskamente",
+        "url": "https://open.spotify.com/album/3X7n2KK3dlw0mnP1ak4mM2"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "Desde Cuando Bellakean",
+      "url": "https://open.spotify.com/track/1n3HQxF0RUF00m2oK8bmUH"
+    },
+    {
+      "album": {
         "name": "Efecto",
         "url": "https://open.spotify.com/album/2OF7tGEjqPHPeC4ua5TfBM"
       },
@@ -3612,6 +3634,28 @@
       "duration_ms": 188862,
       "name": "El Que Resuelve",
       "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
+    },
+    {
+      "album": {
+        "name": "El Sonido Q No Puedes Imitar",
+        "url": "https://open.spotify.com/album/2NQW4CxVAwjZTA8fro1l55"
+      },
+      "artists": [
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "El Sonido Q No Puedes Imitar",
+      "url": "https://open.spotify.com/track/4VenEuaWAac7Rac2o7l4Lc"
     },
     {
       "album": {
@@ -7083,6 +7127,32 @@
     },
     {
       "album": {
+        "name": "Maniaka",
+        "url": "https://open.spotify.com/album/3uyEAObA05tQximOWGTpOQ"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Dayner \"El Especialista\"",
+          "url": "https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "Maniaka",
+      "url": "https://open.spotify.com/track/4V3Rey40fJS8JowOeQmpQi"
+    },
+    {
+      "album": {
         "name": "Marroneo",
         "url": "https://open.spotify.com/album/3oVJ70hDWAgy1NQx6p0fGA"
       },
@@ -7644,7 +7714,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 144006,
       "name": "Monear",
       "url": "https://open.spotify.com/track/0hqk1voFWMbPZMX9xnoZIx"
@@ -7754,7 +7824,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 195000,
       "name": "Moschino",
       "url": "https://open.spotify.com/track/60UXgrlNacFlK32eijT6qk"
@@ -11372,7 +11442,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-21",
       "duration_ms": 167279,
       "name": "Sim\u00f3n Soy \u00d1ero",
       "url": "https://open.spotify.com/track/47KYICFCrKL6qD8Lb9R5DU"
