@@ -1,13 +1,29 @@
 {
   "description": "This Is Jimi Hendrix. Los temas esenciales, todos en una lista.",
-  "num_followers": 310419,
+  "num_followers": 310480,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAAAq6YzOd0MeNaTd9RKY2kpY",
+  "snapshot_id": "Zuy7AAAAAAD/jInApKSapGjIa3MgOz0h",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Blues - Alternate Mix",
+        "url": "https://open.spotify.com/album/6hJdSF1sZ0hsTm6PE1HFgL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Earth Blues - Alternate Mix",
+      "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
+    },
     {
       "added_at": null,
       "album": {
@@ -251,7 +267,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel - Take 7",
+        "name": "Angel (Take 7)",
         "url": "https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq"
       },
       "artists": [
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifting - Alternate Version / November 20, 1970",
-        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Drifting - Alternate Version / November 20, 1970",
-      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 457600,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drifting (Alternate Version / November 20, 1970)",
+        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Drifting - Alternate Version / November 20, 1970",
+      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valleys Of Neptune",
-        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Valleys Of Neptune",
+        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
+      "duration_ms": 242493,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 35906,
-      "name": "Play That Riff - Anthology Version",
-      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 194653,
       "name": "Killing Floor - Live At Monterey",
       "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 35906,
+      "name": "Play That Riff - Anthology Version",
+      "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

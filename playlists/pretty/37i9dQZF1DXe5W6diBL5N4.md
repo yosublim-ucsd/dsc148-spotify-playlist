@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YEONJUN\(연준\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,044 likes - 170 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,132 likes - 170 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 3 | [SAD SONG](https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [SAD SONG](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) | 2:54 |
 | 4 | [NA](https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY) | 2:43 |
 | 5 | [We Go \- English Version](https://open.spotify.com/track/20kWpXaYo8igmrdwwy8OSE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [We Go \- English Version](https://open.spotify.com/album/6HmUGM55FYKtA0jm3lgyFW) | 3:09 |
-| 6 | [Storage](https://open.spotify.com/track/1NY4VQNiPOumUpSa0U66Sc) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Takey](https://open.spotify.com/artist/1hGc2efVeiYztOfL4OV4jt) | [Storage](https://open.spotify.com/album/3Sln7D2N3xlQUDvhKwMLx2) | 3:52 |
+| 6 | [Storage](https://open.spotify.com/track/1NY4VQNiPOumUpSa0U66Sc) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Takey](https://open.spotify.com/artist/2idf0SXDTiJ6j7PUEqszzK) | [Storage](https://open.spotify.com/album/3Sln7D2N3xlQUDvhKwMLx2) | 3:52 |
 | 7 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 |
 | 8 | [The Origin](https://open.spotify.com/track/5jh8ssdRMrph81WwWoo8KX) | [OGS](https://open.spotify.com/artist/7wm0otkakoYAlmrqWhUfdH) | [The Origin](https://open.spotify.com/album/7ssfKhD8iDM3w4WsWARv1d) | 4:15 |
 | 9 | [illusion \(Feat\. Eunyong Sim\)](https://open.spotify.com/track/18ZcrWvaIrKd1gxdQO9VBS) | [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn), [Eunyong Sim](https://open.spotify.com/artist/7hOgbXXN10rYT03YFsdCMd) | [illusion \(Feat\. Eunyong Sim\)](https://open.spotify.com/album/5kIMnmbaGYDkxVXzMIMq42) | 3:50 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 43 | [A New Day](https://open.spotify.com/track/7eJ1UaqLEkTKdsVIcwJTFR) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [No Gain No Love, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/4vNpHi679iueEqs9rNBVXF) | 3:20 |
 | 44 | [또다시 아픈 이별이죠](https://open.spotify.com/track/31jshBVvbddD9YxmdBUe3d) | [Suki](https://open.spotify.com/artist/6wiGqCi92zXYnvXazWTsry) | [또다시 아픈 이별이죠](https://open.spotify.com/album/2OEzoAWRKR7xxTJWUUbnlN) | 3:41 |
 | 45 | [Our Days](https://open.spotify.com/track/1ts0mW7JtSKIyBZhEE6ekC) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Our Days \(Better Days X BaekA\)](https://open.spotify.com/album/5bKPyn2T27FE1sssGKUZWW) | 4:14 |
-| 46 | [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
+| 46 | [pros and cons](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [pros and cons](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
 | 47 | [SPIDER\-MAN \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/track/2SqC2gYIKjTFoLnnRxThDQ) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [SPIDER\-MAN](https://open.spotify.com/album/4h3sXi5DVi4qKbNU2Dtzgx) | 2:41 |
 | 48 | [You know, I'm just human](https://open.spotify.com/track/3b2lKEreGv85VJtLt1S6e5) | [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [When … love](https://open.spotify.com/album/1s4TOODHCyAFVnzq3V7DJs) | 3:13 |
 | 49 | [Another Story](https://open.spotify.com/track/1cTw4vJzsusbqIKL0iSK2w) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [No Gain No Love, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0HH1x9ps0QzmhMuNLL5fAp) | 3:16 |

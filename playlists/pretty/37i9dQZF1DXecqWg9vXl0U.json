@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 51993,
+  "num_followers": 52005,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "amor universal",
-        "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Maddie Moon",
-          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
-        }
-      ],
-      "duration_ms": 223887,
-      "name": "amor universal",
-      "url": "https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Instintos",
         "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "amor universal",
+        "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "Maddie Moon",
+          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
+        }
+      ],
+      "duration_ms": 223887,
+      "name": "amor universal",
+      "url": "https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "RESISTOL +",
-        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
-      },
-      "artists": [
-        {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Chiquete",
-          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "RESISTOL +",
-      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Nada me cansa",
         "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 247501,
       "name": "Amanece Otra Vez",
       "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
+      },
+      "artists": [
+        {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 201625,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
     },
     {
       "added_at": "2024-07-05 06:00:00",

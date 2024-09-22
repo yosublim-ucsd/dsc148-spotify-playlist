@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36716,
+  "num_followers": 36721,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Rollen in den Norden",
-        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 150648,
-      "name": "Rollen in den Norden",
-      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Don't Stop The Car",
         "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 194013,
       "name": "Don't Stop The Car",
       "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Rollen in den Norden",
+        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 150648,
+      "name": "Rollen in den Norden",
+      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -327,8 +327,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk"
+        "name": "Bored Of The Circus",
+        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 210582,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R"
+      "duration_ms": 182817,
+      "name": "Ashes By The Morning",
+      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -359,8 +359,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "King Bed",
-        "url": "https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI"
+        "name": "Corpse Bride",
+        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 160378,
-      "name": "King Bed",
-      "url": "https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0"
+      "duration_ms": 187053,
+      "name": "Corpse Bride",
+      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Bored Of The Circus",
-        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk"
       },
       "artists": [
         {
@@ -484,15 +484,15 @@
           "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 182817,
-      "name": "Ashes By The Morning",
-      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
+      "duration_ms": 210582,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R"
     },
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Corpse Bride",
-        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
+        "name": "King Bed",
+        "url": "https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 187053,
-      "name": "Corpse Bride",
-      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
+      "duration_ms": 160378,
+      "name": "King Bed",
+      "url": "https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 165257,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 165257,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg"
+      "duration_ms": 177269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -783,22 +799,6 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 177269,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -867,8 +867,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+        "name": "SucieriaZH",
+        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+      "duration_ms": 174296,
+      "name": "SucieriaZH",
+      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -999,8 +999,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "SucieriaZH",
-        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 174296,
-      "name": "SucieriaZH",
-      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -1067,54 +1067,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "Champions",
-      "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163143,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -1143,6 +1095,54 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163143,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 152644,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
     },
     {
       "added_at": "2024-09-13 07:22:08",

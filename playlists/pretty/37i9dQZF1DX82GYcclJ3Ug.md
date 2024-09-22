@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: COIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,370 likes - 126 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,450 likes - 126 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 122 | [Take a Look Inside](https://open.spotify.com/track/1pWu29hfLPWxqegK7ohVWt) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Take a Look Inside](https://open.spotify.com/album/63zgDmHLZgi5FtHJNLFt0R) | 4:28 |
 | 123 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 |
 | 124 | [The Painting of the Bay](https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [The Painting of the Bay](https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA) | 3:20 |
-| 125 | [Blossom](https://open.spotify.com/track/7kjMQEGVKepeKZ3gPUDeSD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \- Deluxe](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:10 |
+| 125 | [Blossom](https://open.spotify.com/track/7kjMQEGVKepeKZ3gPUDeSD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:10 |
 | 126 | [Nightmare Blunt Rotation](https://open.spotify.com/track/4lGlnkSQDh8fJrBrqJzcqK) | [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Nightmare Blunt Rotation](https://open.spotify.com/album/4aqNOef91W7UuJ3Nro3RL1) | 2:39 |
 
 Snapshot ID: `ZuzzQAAAAAAjM03VjMMb1+KXA9h7+8ln`

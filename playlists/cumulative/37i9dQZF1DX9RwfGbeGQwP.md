@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,463 songs - 2 day 7 hr 6 min
+1,464 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [City Lights Spell Your Name](https://open.spotify.com/track/7dsWVHW3noaS5KtlMmBwqQ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [City Lights Spell Your Name](https://open.spotify.com/album/6FTZzaYfhOJV0sjLFBlv0R) | 3:30 | 2022-01-27 | 2022-12-24 |
 | [Citylights](https://open.spotify.com/track/6CaJvKDrQFe5Z8WcD7frSX) | [Undrgrwth](https://open.spotify.com/artist/1oWMZvG3qcCRf4TS8Mae9t), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Migration](https://open.spotify.com/album/2szbU0YnhA1DZcCwg90IMM) | 1:40 | 2022-11-11 | 2023-09-29 |
 | [Clarity](https://open.spotify.com/track/2vL8pK1by1bWBzsqEv5Tw6) | [Roshi Ryu](https://open.spotify.com/artist/6iq3PVBOY7wJGcpvAC0rxW) | [Clarity](https://open.spotify.com/album/5RoKVcnsYZKjHMnK9TzsEL) | 2:19 | 2022-07-12 | 2022-12-10 |
-| [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2022-09-02 |  |
+| [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2022-09-02 | 2024-09-22 |
 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 | 2022-01-27 | 2022-09-03 |
 | [Cliffjumper](https://open.spotify.com/track/2kzoCKXaGINkfef5QJuruX) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Cliffjumper](https://open.spotify.com/album/1mGefacxktE8XRcFgF9b79) | 2:42 | 2022-01-27 | 2022-07-08 |
 | [Clogs And Pods](https://open.spotify.com/track/5tx1rwnQZEm5E2Bf01jGA8) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Clogs And Pods](https://open.spotify.com/album/2dfboLmJrWW1aRVQYwdlHn) | 2:28 | 2022-01-27 | 2022-10-15 |
@@ -360,7 +360,7 @@
 | [Elevator Jazz](https://open.spotify.com/track/50sMOSMjts7Bb1spwweTUu) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Elevator Jazz](https://open.spotify.com/album/0EaI5LcG7IunT55ufaDduH) | 2:36 | 2022-11-25 | 2023-09-29 |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 | 2022-07-01 |
 | [Emelie](https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Emelie](https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L) | 2:34 | 2024-03-22 | 2024-05-14 |
-| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 | 2024-06-13 |
+| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 |  |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-05-19 | 2023-11-25 |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 | 2022-10-15 |
 | [Endless Sunday](https://open.spotify.com/track/07dyGFh2pczE8rWeM6ITXx) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Endless Sunday](https://open.spotify.com/album/0uuy7OctUEaabOwiY87al5) | 2:40 | 2022-12-09 | 2023-09-16 |
@@ -428,6 +428,7 @@
 | [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-03-16 |  |
 | [Flying Dreams](https://open.spotify.com/track/62bePphA3RaOww3GuDtq6c) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Flying Dreams](https://open.spotify.com/album/0HPhtKf6LJOgEpuGro9czt) | 2:37 | 2022-12-16 | 2023-10-06 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-01-27 | 2022-07-08 |
+| [Foggy Fields](https://open.spotify.com/track/1mjpBiNzn3VsNmrQqk3pGP) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU) | [Foggy Fields](https://open.spotify.com/album/2AxLq4LhRyjPRuSzalp68C) | 2:31 | 2024-09-13 |  |
 | [Foil](https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Foil](https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa) | 2:02 | 2024-07-12 |  |
 | [Fold It Twice](https://open.spotify.com/track/45yyYYto4MqFmWPsuwCQLa) | [Yuri Yuri](https://open.spotify.com/artist/3SyyUOPWd82oHTfDnSmMDD) | [Fold It Twice](https://open.spotify.com/album/1aLWcR8oiWnvLD8UoieLQC) | 2:09 | 2023-10-20 | 2023-10-27 |
 | [folks on the hill](https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 7](https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S) | 1:27 | 2023-01-13 | 2023-09-05 |
@@ -1143,7 +1144,7 @@
 | [sloe](https://open.spotify.com/track/2CHP4QnEwOIPCOmtTEKZH3) | [static breather](https://open.spotify.com/artist/7Cs5V32aCaZI0kSYXSk30A) | [sloe](https://open.spotify.com/album/2lCN8iMb7UsSYkJyglOWBg) | 1:47 | 2022-07-15 | 2024-05-01 |
 | [Slow Down](https://open.spotify.com/track/1upQ0IyUimyLT91FRJ7Z9p) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/2jZBhwLmcxnwPSjQ2GHDeV) | 2:09 | 2022-07-22 | 2022-11-20 |
 | [Slow Down](https://open.spotify.com/track/5jIc8HHITLlEZcsqHF1cev) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/1wQxmN5bHRak6a6IANpB93) | 2:09 | 2022-11-11 | 2022-12-10 |
-| [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 | 2023-08-03 |  |
+| [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 | 2023-08-03 | 2024-09-22 |
 | [sluggish](https://open.spotify.com/track/1rdqpGkERZwwITr76nRsfX) | [Too Blue](https://open.spotify.com/artist/64dFA30C8QUhkgcTjAlZ4b) | [sluggish](https://open.spotify.com/album/3G6zHEOb8Itizqw7aL6DT2) | 2:03 | 2022-07-22 | 2023-04-21 |
 | [Slush Avalanche](https://open.spotify.com/track/1aUPXRbtZxrFt9DjaauwGv) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Slush Avalanche](https://open.spotify.com/album/4OiQ64MOUIJ9YHdpTZxP3j) | 2:24 | 2023-04-20 |  |
 | [Smokers Delight](https://open.spotify.com/track/2r3L8vTYNoiXVPM4G9jbpm) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Smokers Delight](https://open.spotify.com/album/10CkZnvZUBEJ24uzYxeBvk) | 1:57 | 2022-04-15 | 2022-11-12 |

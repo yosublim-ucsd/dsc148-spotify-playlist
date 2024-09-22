@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-807 songs - 2 day 4 hr 20 min
+808 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Our Father](https://open.spotify.com/track/6sllZXjMRU1iiTAGSSS7kN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:27 | 2024-09-12 |  |
 | [P\-Poppin'](https://open.spotify.com/track/6yOghbMYTTUdOGiExT0rIF) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Lil Fate](https://open.spotify.com/artist/6JUnsP7jmvYmdhbg7lTMQj) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 4:49 | 2024-01-29 |  |
 | [Paperwork \(feat\. Pharrell\)](https://open.spotify.com/track/0TJxAxzBxCxkGnoMYRt2aa) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 3:39 | 2024-06-20 |  |
-| [Partners for Life \(feat\. Jamie Foxx\)](https://open.spotify.com/track/16SWvs4zbz9tR8eFWPylWI) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:31 | 2024-09-12 | 2024-09-15 |
+| [Partners for Life \(feat\. Jamie Foxx\)](https://open.spotify.com/track/16SWvs4zbz9tR8eFWPylWI) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Press Play](https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h) | 4:31 | 2024-09-12 |  |
 | [Party People](https://open.spotify.com/track/0iJcwC6wgU8TGA6i4O2LPW) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:52 | 2024-06-20 |  |
 | [Pass It Pass It](https://open.spotify.com/track/771aM9AY5YUx1OWl8tPJNG) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:32 | 2024-09-12 |  |
 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 | 2024-01-29 |  |
@@ -619,7 +619,8 @@
 | [Second Chance](https://open.spotify.com/track/7gWdW6Z3RP98HcBTAQqT9A) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \- Deluxe](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 2:27 | 2024-01-29 |  |
 | [Secret Life Of Tigers](https://open.spotify.com/track/7xEmhWUYNz8m2Ctusg1chK) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:45 | 2024-06-20 |  |
 | [Sets Up](https://open.spotify.com/track/67Jhcuc9sp9ERWsjuGwjpP) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY) | 3:44 | 2024-06-20 |  |
-| [SEXTING](https://open.spotify.com/track/4GCYmXe6cbnufc4y8RkcwX) | [Dahvie](https://open.spotify.com/artist/3ERy1hRo1hY2pBL7yXgztt) | [SEXTING / LOVESTRUCK](https://open.spotify.com/album/3U5ZdDzOupbB2X2qtvij1u) | 3:43 | 2024-09-12 |  |
+| [SEXTING](https://open.spotify.com/track/5V4lzXL1hJuhjaPATSV2cY) | [bugcried](https://open.spotify.com/artist/5lvB2ZiSrNidq4GaFrWHK2) | [EPIC](https://open.spotify.com/album/22QDrSkevKwxXnk01Ms8wx) | 3:43 | 2024-09-21 |  |
+| [SEXTING](https://open.spotify.com/track/4GCYmXe6cbnufc4y8RkcwX) | [Dahvie](https://open.spotify.com/artist/3ERy1hRo1hY2pBL7yXgztt) | [SEXTING / LOVESTRUCK](https://open.spotify.com/album/3U5ZdDzOupbB2X2qtvij1u) | 3:43 | 2024-09-12 | 2024-09-22 |
 | [Señorita](https://open.spotify.com/track/23IycI0JmYrkNuXHDmWzEb) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Señorita \(Official Video\)](https://open.spotify.com/album/5vE3tfclEo0VfEWXRTvpsI) | 4:36 | 2024-01-29 | 2024-02-02 |
 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2024-02-01 |  |
 | [Shake Whatever](https://open.spotify.com/track/3DEwYYaxy5m1LhNpbNJqXz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:10 | 2024-06-20 | 2024-06-22 |

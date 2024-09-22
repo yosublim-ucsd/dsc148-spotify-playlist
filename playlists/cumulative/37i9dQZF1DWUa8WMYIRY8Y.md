@@ -2,7 +2,7 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Le meilleur de la scène alternative du moment\. Photo : Franz Ferdinand
+> Le meilleur de la scène alternative du moment\. Photo : Liily
 
 298 songs - 17 hr 55 min
 

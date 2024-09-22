@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACXDhT/OZ+e8CjfRzDK2gZH",
+  "snapshot_id": "AAAAAAAAAADTapnQUTfEeQDYHoNcRBsr",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -79,46 +79,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Big Body Bes",
-          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Minnesota Fats",
-      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Love (the) Ominous World",
         "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
       },
@@ -147,26 +107,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
       "artists": [
         {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
         }
       ],
-      "duration_ms": 248098,
-      "name": "Lyte Ghost Lil Mama",
-      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -191,6 +151,46 @@
       "duration_ms": 175466,
       "name": "WAR",
       "url": "https://open.spotify.com/track/20Cjf2hvMdwPgtozQ45G2l"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+        }
+      ],
+      "duration_ms": 248098,
+      "name": "Lyte Ghost Lil Mama",
+      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -235,6 +235,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/4eS73Hg94492QQ2aOS8QVe"
+      },
+      "artists": [
+        {
+          "name": "Doc T",
+          "url": "https://open.spotify.com/artist/2Q6XiKTS0jBDuZfzs3xLuP"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 274708,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/0FlJ0wxfgVZpZV15JKnRyK"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Just Dreams",
         "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
       },
@@ -267,6 +295,30 @@
       "duration_ms": 283586,
       "name": "First Song",
       "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Still Too Deep",
+        "url": "https://open.spotify.com/album/64BOoyjxmr52yGDAYptlOl"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Will A Fool",
+          "url": "https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 201900,
+      "name": "I Try (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/5qjNPtjXbYSzhW6NCQZueO"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -351,22 +403,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 586291,
-      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -379,6 +415,22 @@
       "duration_ms": 458858,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 586291,
+      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -476,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3UZDU4aoV3JR95COUOrLyG"
         }
       ],
-      "duration_ms": 415311,
-      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): I. Grave",
-      "url": "https://open.spotify.com/track/4kuaftyCpeFIp7zZWsw6Br"
+      "duration_ms": 562648,
+      "name": "Verkl\u00e4rte Nacht, Op. 4 (Version for String Orchestra): IV. Adagio (Bar 229)",
+      "url": "https://open.spotify.com/track/5P4SHnjE4ZmduS8lhEzBHF"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -631,50 +683,6 @@
       "duration_ms": 153648,
       "name": "3333",
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "On Sum",
-        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "On Sum",
-      "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Detonator [Feat. Rock D The Legend] - Call of Duty: Black Ops 6",
-        "url": "https://open.spotify.com/album/2piAGlf00AZ1wCItv2KOaQ"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Rock D The Legend",
-          "url": "https://open.spotify.com/artist/027fMMtTo4XJ0GEdBcNLCT"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Detonator [Feat. Rock D The Legend] - Call of Duty: Black Ops 6",
-      "url": "https://open.spotify.com/track/5LqgsjpIR3uLj06hjlG3Wz"
     },
     {
       "added_at": "2024-09-20 04:00:00",

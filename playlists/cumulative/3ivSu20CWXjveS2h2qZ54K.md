@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,549 songs - 3 day 13 hr 46 min
+1,550 songs - 3 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [As Sick As The Secrets Within](https://open.spotify.com/track/7hK0aTf0wyxRkYqWAabUwG) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [As Sick As The Secrets Within](https://open.spotify.com/album/7uXH2s3XyFOl32nO0FB0bF) | 5:35 | 2024-08-02 | 2024-08-10 |
 | [As vidas caladas](https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1), [Caamaño & Ameixeiras](https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH) | [As vidas caladas](https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO) | 3:32 | 2024-06-14 | 2024-06-22 |
 | [Ascensión](https://open.spotify.com/track/1Ys5QqGZzhtvDngyJc5Da4) | [Delone](https://open.spotify.com/artist/1KGHaoJGZ34zelOBT9gYLQ) | [Romanticismo siempre](https://open.spotify.com/album/7HT4XRu6T796BGeTrAroAd) | 5:00 | 2024-04-26 | 2024-05-10 |
-| [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-20 |  |
+| [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-20 |  |
 | [Así](https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Así](https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE) | 3:43 | 2024-09-13 | 2024-09-21 |
 | [At Your Feet](https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [At Your Feet](https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J) | 3:25 | 2024-07-19 | 2024-07-27 |
 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 | 2024-07-26 | 2024-08-10 |
@@ -1528,6 +1528,7 @@
 | [Yo Me Asomé A La Muralla \- Seguiriyas](https://open.spotify.com/track/4NzrxIugTnKABD2w9Sp1d9) | [Israel Fernández](https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI), [Antonio "El Relojero"](https://open.spotify.com/artist/3S3A7lmKe5Vxe4nceLgGYc) | [Yo Me Asomé A La Muralla \- Seguiriyas](https://open.spotify.com/album/21g4INHed9xgICRp40kAEI) | 3:47 | 2024-09-20 |  |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-15 | 2024-08-24 |
 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 | 2024-07-12 | 2024-07-19 |
+| [Yo podría ser John Wayne](https://open.spotify.com/track/0ip49KbUd1NO3p3cTHjvTA) | [Pauline En La Playa](https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe) | [Yo podría ser John Wayne](https://open.spotify.com/album/3KFC3C9KjGflulgXtEZY6E) | 4:18 | 2024-09-21 |  |
 | [Yo Tampoco](https://open.spotify.com/track/4K2WVF3qoZc6UvOKYDQakh) | [La Decadencia](https://open.spotify.com/artist/1HgAg44VWLJDt18dZ3s7S5) | [Estímulo](https://open.spotify.com/album/5dSp0qxH8SKv7WIwGeDH6n) | 3:25 | 2024-06-11 | 2024-06-14 |
 | [Yo Voy A Perder El Sentío \- Fandangos / Edit Version](https://open.spotify.com/track/5tJS3Ba72AztuesUjVBjVv) | [Israel Fernández](https://open.spotify.com/artist/1Ix5ads4niaRP9TnT08gqI), [Antonio "El Relojero"](https://open.spotify.com/artist/3S3A7lmKe5Vxe4nceLgGYc) | [Yo Voy A Perder El Sentío \(Fandangos / Edit Version\)](https://open.spotify.com/album/37a2BUoO5m9ZMHUFon4GMU) | 3:28 | 2024-09-06 | 2024-09-14 |
 | [YOMM](https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [INTRO](https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF) | 3:33 | 2024-09-20 |  |

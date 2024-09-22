@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Sep 22:02 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALZsIFtWXofcmOpxMZJQnFOR/aK72y",
+  "snapshot_id": "AAALbGdgFzQhjtVLPb06LFh7q09AH3Zg",
   "tracks": [
     {
       "added_at": "2024-09-13 10:03:43",
@@ -47,6 +47,70 @@
       "duration_ms": 218448,
       "name": "She Got Game",
       "url": "https://open.spotify.com/track/4gq0UfMdrlry2Lx1Gp6xW3"
+    },
+    {
+      "added_at": "2024-09-21 04:02:57",
+      "album": {
+        "name": "Allucinazione Collettiva",
+        "url": "https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "Allucinazione Collettiva",
+      "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
+    },
+    {
+      "added_at": "2024-09-21 04:02:57",
+      "album": {
+        "name": "Want U / Safe To Say",
+        "url": "https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk"
+    },
+    {
+      "added_at": "2024-09-21 10:02:30",
+      "album": {
+        "name": "DARKIST",
+        "url": "https://open.spotify.com/album/4YL40Gp7C7o5kCEvRBSD70"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 123050,
+      "name": "DARKIST",
+      "url": "https://open.spotify.com/track/7pLD2szp3YNlJ8FPEINo4W"
+    },
+    {
+      "added_at": "2024-09-21 22:02:30",
+      "album": {
+        "name": "Shut The Fack Up (STFU)",
+        "url": "https://open.spotify.com/album/6G5vY1siw5GEw8bZrBBk9C"
+      },
+      "artists": [
+        {
+          "name": "Rai Panesar",
+          "url": "https://open.spotify.com/artist/2UmwBQyELBTMI5dFLXyO6g"
+        }
+      ],
+      "duration_ms": 80487,
+      "name": "Shut The Fack Up (STFU)",
+      "url": "https://open.spotify.com/track/4yYh3t22EJdVgZSKxg27uP"
     },
     {
       "added_at": "2024-09-20 04:03:59",
@@ -665,6 +729,22 @@
       "url": "https://open.spotify.com/track/0aVG3mmGxMBKpOXG86kfyK"
     },
     {
+      "added_at": "2024-09-21 10:02:30",
+      "album": {
+        "name": "Duckin No Action",
+        "url": "https://open.spotify.com/album/1WuS9C6n6TUV0KSNhsPS7M"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Duckin No Action",
+      "url": "https://open.spotify.com/track/6U4Ht0Cs5V5P0XAoOxR0yq"
+    },
+    {
       "added_at": "2024-09-20 16:03:23",
       "album": {
         "name": "a song for you",
@@ -721,6 +801,26 @@
       "url": "https://open.spotify.com/track/62oaEEnxaWDIKbRA3y0H1M"
     },
     {
+      "added_at": "2024-09-21 10:02:30",
+      "album": {
+        "name": "Same Type",
+        "url": "https://open.spotify.com/album/6FKcwSL3jbt62aZCPaeFGi"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Same Type",
+      "url": "https://open.spotify.com/track/3T9oIgErL5Xc7ctroWG77Y"
+    },
+    {
       "added_at": "2024-09-20 16:03:23",
       "album": {
         "name": "LIMERENCE",
@@ -771,106 +871,6 @@
       "duration_ms": 277894,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
-    },
-    {
-      "added_at": "2024-09-20 22:02:37",
-      "album": {
-        "name": "that's it",
-        "url": "https://open.spotify.com/album/7D82Vh8pRfSVIyvHGIxoro"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 141871,
-      "name": "that's it",
-      "url": "https://open.spotify.com/track/30UYANbzh1shIq8BjrnSlf"
-    },
-    {
-      "added_at": "2024-09-20 04:03:59",
-      "album": {
-        "name": "WEIRDOS",
-        "url": "https://open.spotify.com/album/50evatuCvf9hPZ4tTae6j7"
-      },
-      "artists": [
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
-        }
-      ],
-      "duration_ms": 177014,
-      "name": "WEIRDOS",
-      "url": "https://open.spotify.com/track/2WwLo2PrHBkGN9Ndn6xx8q"
-    },
-    {
-      "added_at": "2024-09-20 16:03:23",
-      "album": {
-        "name": "blueberry skies",
-        "url": "https://open.spotify.com/album/08F7tSrEiaxAgtkwt3eGPf"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 147111,
-      "name": "blueberry skies",
-      "url": "https://open.spotify.com/track/7N1oFigY2Pgza5CV3b50Mz"
-    },
-    {
-      "added_at": "2024-09-20 04:03:59",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn"
-      },
-      "artists": [
-        {
-          "name": "Nitro Fun",
-          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
-        }
-      ],
-      "duration_ms": 180089,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/1LwL5ox7cPOS91OVzO7GRF"
-    },
-    {
-      "added_at": "2024-09-20 16:03:23",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8"
-      },
-      "artists": [
-        {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
-        }
-      ],
-      "duration_ms": 153687,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4"
-    },
-    {
-      "added_at": "2024-09-20 04:03:59",
-      "album": {
-        "name": "Kein Geheimnis",
-        "url": "https://open.spotify.com/album/7ljlRFOzAkZxqlweOjGSy8"
-      },
-      "artists": [
-        {
-          "name": "Marvin Game",
-          "url": "https://open.spotify.com/artist/5Gi9FP1m5OCW7sYwetsUBd"
-        },
-        {
-          "name": "Edo Saiya",
-          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Kein Geheimnis",
-      "url": "https://open.spotify.com/track/0jzz7N3FWhR2cJ1aglG7oS"
     }
   ],
   "unique_name": "New Singles Now",

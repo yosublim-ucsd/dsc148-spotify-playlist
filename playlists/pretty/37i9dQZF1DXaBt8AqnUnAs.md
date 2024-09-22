@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,723 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,740 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 7 | [Essa Vibe](https://open.spotify.com/track/20wWyjgqTyfP9V8AJEAHvQ) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [BIDUZEN](https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX) | [Essa Vibe](https://open.spotify.com/album/62av27NXYlmZjwu046ym0e) | 2:56 |
 | 8 | [Seu Cheiro Ta Na Minha Blusa](https://open.spotify.com/track/69ZY1GiPkZHZ6HCxZtMJ7r) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Ozzy Mk](https://open.spotify.com/artist/54sMHWIsoTDjSWdaw3kwEJ) | [Malandra](https://open.spotify.com/album/5APTetqYb3l1xIUDLtOBfY) | 2:18 |
 | 9 | [Fala na Cara](https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Fala na Cara](https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb) | 2:51 |
-| 10 | [Zodíaco](https://open.spotify.com/track/7G2M9tyMAZAIoN8dmKvSQg) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Zodíaco](https://open.spotify.com/album/7BJmJLIy1EYYrg3Y6PIT1m) | 2:21 |
+| 10 | [Zodíaco](https://open.spotify.com/track/7G2M9tyMAZAIoN8dmKvSQg) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Zodíaco](https://open.spotify.com/album/7BJmJLIy1EYYrg3Y6PIT1m) | 2:21 |
 | 11 | [Tempo](https://open.spotify.com/track/5h2umbNHTvGiT1gE4tTFCr) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo](https://open.spotify.com/album/7opYgdcsTkMNxFNHWZueO8) | 2:53 |
 | 12 | [Nada Mais](https://open.spotify.com/track/4RPwV1PmBnHMCiwZXNvfoq) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Forma Pura](https://open.spotify.com/album/6sCFlHRqSZ87Xs9yfX04uG) | 3:09 |
 | 13 | [INCONSEQUENTES](https://open.spotify.com/track/7e8SlJLysQL2OQQd9dc82Z) | [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [CL FEZ O BEAT](https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8) | [INCONSEQUENTES](https://open.spotify.com/album/4CiPAZMjZtaRbV045fXmp2) | 2:56 |

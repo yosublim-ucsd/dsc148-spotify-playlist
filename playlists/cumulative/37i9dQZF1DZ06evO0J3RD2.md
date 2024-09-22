@@ -2,7 +2,7 @@
 
 ### [This Is Movements](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J3RD2)
 
-> This Is Movements\. Los temas esenciales, todos en una lista.
+> This is Movements\. The essential tracks, all in one playlist.
 
 45 songs - 2 hr 40 min
 

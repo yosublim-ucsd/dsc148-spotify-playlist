@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jasiel Nuñez y Adriel Favela
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,789 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,904 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 24 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
 | 25 | [Pudrir en Dinero](https://open.spotify.com/track/5W0iUVa5nrDOOz8OpGLP25) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Pudrir en Dinero](https://open.spotify.com/album/7IBYrb1eT1DKKF4mDnl7PH) | 3:10 |
 | 26 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
-| 27 | [Aun Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aun Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
+| 27 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 28 | [El Primo](https://open.spotify.com/track/5I5E8vmGVyYpAo8w70EbWQ) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [El Primo](https://open.spotify.com/album/4ujqmTJFiBEMbadipYzcx6) | 2:34 |
-| 29 | [B09](https://open.spotify.com/track/1A7t57Zb52DO7uvJav3Apo) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [HIGH CITY \- Estudio](https://open.spotify.com/album/2QKCp13p6F7tRTaRyIsP8A) | 4:03 |
+| 29 | [B09](https://open.spotify.com/track/1A7t57Zb52DO7uvJav3Apo) | [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [HIGH CITY](https://open.spotify.com/album/2QKCp13p6F7tRTaRyIsP8A) | 4:03 |
 | 30 | [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 |
 | 31 | [Afortunada](https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Afortunada](https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9) | 2:44 |
 | 32 | [Los Billetitos](https://open.spotify.com/track/6fS8CzplGBcrDb9zgWnmaA) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I) | [Los Billetitos](https://open.spotify.com/album/57jz05hBHsDAx1FZZeusyV) | 2:16 |

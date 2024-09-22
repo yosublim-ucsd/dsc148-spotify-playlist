@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,051 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,060 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 45 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 | 46 | [Fresh Freestyle](https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [TwoV](https://open.spotify.com/artist/0t9nI5PtaKJIZbYdZWFWr3), [Bokage](https://open.spotify.com/artist/4npdXEx9VZU1RG7vpAQEyh) | [Fresh Freestyle](https://open.spotify.com/album/3Jh4xQPfR5azQKd536afSV) | 2:43 |
 
-Snapshot ID: `ZutpgAAAAABsCY4xmK+qGdTb/7n/Np+a`
+Snapshot ID: `Zuy7AAAAAADmPWrd0V3U6KJ2/nEuFf5C`

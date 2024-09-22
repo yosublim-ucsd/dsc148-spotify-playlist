@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11732,
+  "num_followers": 11731,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
         }
       ],
-      "duration_ms": 154853,
-      "name": "Bestenigar Taksim",
-      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
+      "duration_ms": 202866,
+      "name": "Segah Taksim",
+      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
+        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
+      },
+      "artists": [
+        {
+          "name": "Ubeydullah Sezikli",
+          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
+        }
+      ],
+      "duration_ms": 104880,
+      "name": "Acema\u015firan Pe\u015frev",
+      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Amasya \u0130lahileri",
         "url": "https://open.spotify.com/album/61GVnrhHVkx9QqCT9mijbN"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
-        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
-      },
-      "artists": [
-        {
-          "name": "Ubeydullah Sezikli",
-          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
-        }
-      ],
-      "duration_ms": 104880,
-      "name": "Acema\u015firan Pe\u015frev",
-      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Neyzen",
         "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Segah Taksim",
-      "url": "https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe"
+      "duration_ms": 154853,
+      "name": "Bestenigar Taksim",
+      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
     },
     {
       "added_at": "2024-03-05 11:27:00",

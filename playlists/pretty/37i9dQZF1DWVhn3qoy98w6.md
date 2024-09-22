@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Mala Gestión.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,820 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 5 | [Guardarte](https://open.spotify.com/track/2XBIrjjsabCZI8VI2yXI2A) | [TK MAMI](https://open.spotify.com/artist/57m30Z5V90afcpCdvXfzsO), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Guardarte](https://open.spotify.com/album/2316ixOu1aLZ4gYwBPpEzm) | 3:25 |
 | 6 | [DIN€€€RO!](https://open.spotify.com/track/0ZVlYsNkcEjowmZw9VmDN3) | [kepa](https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT), [Dyrim](https://open.spotify.com/artist/2UWvXlXrKyTwcRRjBUcmTe) | [DIN€€€RO!](https://open.spotify.com/album/3dFKax8LhOp1mtD7298S7U) | 2:52 |
 | 7 | [La Casa en Llamas](https://open.spotify.com/track/17loz2iqIhgeRmvxAGNQ8y) | [Nevo Angel](https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw) | [La Casa en Llamas](https://open.spotify.com/album/68YqSVUIFOTLtZDwbtVArj) | 3:22 |
-| 8 | [Antisocial](https://open.spotify.com/track/7maZnc0kfq8FcsvQgK6YBE) | [Pokito Paranoiko](https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag), [Tresfou](https://open.spotify.com/artist/4DtCGaOs1KNyniHfNmW1lX) | [Antisocial](https://open.spotify.com/album/0ffBeyikivwlryVXY33Afv) | 2:48 |
+| 8 | [Antisocial](https://open.spotify.com/track/7maZnc0kfq8FcsvQgK6YBE) | [Pokito Paranoiko](https://open.spotify.com/artist/0fXaqZxVTW22QGeusm0v7o), [Tresfou](https://open.spotify.com/artist/4FQiEAr8PnFz3pYg5YTG1Y) | [Antisocial](https://open.spotify.com/album/0ffBeyikivwlryVXY33Afv) | 2:48 |
 | 9 | [A MI ALREDEDOR](https://open.spotify.com/track/3ZkzBffIkBAvo17HhC1j2f) | [NEURA](https://open.spotify.com/artist/6rVCgRt8lSRSfx4CLaiKrU) | [A MI ALREDEDOR](https://open.spotify.com/album/5IrKZN58UOZHZmB2k0aI9j) | 2:29 |
 | 10 | [elixir](https://open.spotify.com/track/1VXVO7B1iuoDbC7ebSBd6Z) | [Sorroxxe](https://open.spotify.com/artist/0zxxL9BwUqEZ0YMRT5Cezy), [Myto](https://open.spotify.com/artist/2ef17EiY2Ya4O84s2H024G) | [elixir](https://open.spotify.com/album/66LMoTqqK8RizRIZyf9R7N) | 2:03 |
 | 11 | [Porrito con D10S](https://open.spotify.com/track/58hsDPCfxViYUnXStdCNeC) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [Porrito con D10S](https://open.spotify.com/album/560V4tYlI3Oe4Ib9wpWeU1) | 2:58 |

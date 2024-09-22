@@ -1,6 +1,6 @@
 {
   "description": "The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href=\"spotify:artist:2dlCuzBPpSIeyY4ZCJBKGS\">Bridge Music</a> ",
-  "num_followers": 335956,
+  "num_followers": 335965,
   "original_name": "All New Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -859,17 +859,21 @@
     {
       "added_at": "2024-09-20 11:50:42",
       "album": {
-        "name": "Be Exalted",
+        "name": "Be Exalted (feat. Brandon Premo)",
         "url": "https://open.spotify.com/album/39aKekmIMGAX4KUr9p0Rvu"
       },
       "artists": [
         {
           "name": "Bridge Worship",
           "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        },
+        {
+          "name": "Brandon Premo",
+          "url": "https://open.spotify.com/artist/0R7z2fw3sI7SQaHvQWnc7t"
         }
       ],
       "duration_ms": 321371,
-      "name": "Be Exalted",
+      "name": "Be Exalted (feat. Brandon Premo)",
       "url": "https://open.spotify.com/track/2463Y0FjKdtkKYBgaXdmQR"
     },
     {
@@ -1343,7 +1347,7 @@
     {
       "added_at": "2024-09-20 11:50:42",
       "album": {
-        "name": "Rise My Soul - Live",
+        "name": "Rise My Soul (Live)",
         "url": "https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z"
       },
       "artists": [

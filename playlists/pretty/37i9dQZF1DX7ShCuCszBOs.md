@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Listen to the setlist of the Zero Base One World Tour and relive those emotions! \(제로베이스원 월드투어의 셋리스트를 감상하며 그 때의 감동을 다시 느껴보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 29 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,234 likes - 29 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

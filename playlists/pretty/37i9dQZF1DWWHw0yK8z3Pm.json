@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Charley Crockett",
-  "num_followers": 64364,
+  "num_followers": 64371,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Tear Us Apart (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 165384,
-      "name": "Tear Us Apart (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Tear Us Apart (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 165384,
+      "name": "Tear Us Apart (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -551,22 +551,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "Passage Du Desir",
+        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
         },
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley (feat. Allison Russell)",
-      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
+      "duration_ms": 217093,
+      "name": "Mint Tea",
+      "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -587,22 +587,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Passage Du Desir",
-        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
-          "name": "Johnny Blue Skies",
-          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         },
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Mint Tea",
-      "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Still What I'm Looking For",
-        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Still What I'm Looking For",
-      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Aw, Shoot!",
         "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 229357,
       "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Still What I'm Looking For",
+        "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 187550,
+      "name": "Still What I'm Looking For",
+      "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Permanently Lonely (From \"Skincare\")",
-        "url": "https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 215664,
-      "name": "Permanently Lonely (From \"Skincare\")",
-      "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Vampire Empire / Born For Loving You",
         "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Permanently Lonely (From \"Skincare\")",
+        "url": "https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 215664,
+      "name": "Permanently Lonely (From \"Skincare\")",
+      "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "BOOTCUT",
-        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
         }
       ],
-      "duration_ms": 168645,
-      "name": "Into The Unknown",
-      "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
+      "duration_ms": 180475,
+      "name": "Our Time In The Sun",
+      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Our Time In The Sun",
-        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
       },
       "artists": [
         {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 180475,
-      "name": "Our Time In The Sun",
-      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+      "duration_ms": 168645,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
     },
     {
       "added_at": "2024-09-20 04:00:00",

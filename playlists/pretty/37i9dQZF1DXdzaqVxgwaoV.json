@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Celebrando 90 a\u00f1os de Discos Fuentes, con Pastor L\u00f3pez en portada!",
-  "num_followers": 125531,
+  "num_followers": 125537,
   "original_name": "Desde Septiembre se Siente Diciembre",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Late Que Late",
+        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
+      },
+      "artists": [
+        {
+          "name": "Sonora Malec\u00f3n",
+          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Melosa",
+      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -691,26 +707,6 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270300,
-      "name": "Pa'l Bailador",
-      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -751,18 +747,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Late Que Late",
-        "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
       },
       "artists": [
         {
-          "name": "Sonora Malec\u00f3n",
-          "url": "https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Melosa",
-      "url": "https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S"
+      "duration_ms": 270300,
+      "name": "Pa'l Bailador",
+      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -799,26 +799,6 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Inmortal (Vol. 2)",
-        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 311676,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -895,6 +875,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
+        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "Historia Musical de Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
       },
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
-        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
+        "name": "Inmortal (Vol. 2)",
+        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
       },
       "artists": [
         {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
+      "duration_ms": 311676,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
       },
@@ -999,8 +979,28 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8"
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Historia Musical de Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 214680,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa"
+      "duration_ms": 169920,
+      "name": "S\u00f3lo un Cigarro",
+      "url": "https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Listos para Bailar",
-        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        }
-      ],
-      "duration_ms": 219498,
-      "name": "Se Va la Vida",
-      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
         "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 179915,
       "name": "No Quiero Envejecer",
       "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Listos para Bailar",
+        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Se Va la Vida",
+      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
         "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 192440,
       "name": "El P\u00e1jaro Amarillo",
       "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2024-09-01 08:41:00",

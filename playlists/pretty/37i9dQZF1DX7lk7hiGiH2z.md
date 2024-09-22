@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,931 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,971 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 40 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
 | 41 | [Laubkonfetti \(Es ist Herbst\)](https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR) | [Grünschnabel](https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO) | [Lazuli\. Kindermusik für die ganze Familie](https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb) | 3:17 |
 | 42 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
-| 43 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
-| 44 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
+| 43 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
+| 44 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
 | 45 | [Laternen leuchten überall](https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 3:53 |
 | 46 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 47 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 |

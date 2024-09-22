@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 584600,
+  "num_followers": 584621,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
-        "name": "So wie du",
-        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "So wie du",
-      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
         "name": "Ich Liebe Dich",
         "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
+        "name": "So wie du",
+        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 152647,
+      "name": "So wie du",
+      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
-        "name": "Selber Schuld",
-        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
       },
       "artists": [
         {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
         }
       ],
-      "duration_ms": 141533,
-      "name": "Selber Schuld",
-      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -859,6 +843,22 @@
       "duration_ms": 119047,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
+        "name": "Selber Schuld",
+        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "Selber Schuld",
+      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 147852,
+      "name": "H\u00f6henangst",
+      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
         "name": "Breaking your heart",
         "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        }
-      ],
-      "duration_ms": 147852,
-      "name": "H\u00f6henangst",
-      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
+        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
+      },
+      "artists": [
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
+        },
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129136,
+      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
-        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
-      },
-      "artists": [
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
-        },
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129136,
-      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
-        "name": "Nie wieder sehen",
-        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 161212,
-      "name": "Nie wieder sehen",
-      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
         "name": "Let me love you",
         "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
       },
@@ -1435,34 +1419,18 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
-        "name": "Fieber / Glatteis",
-        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+        "name": "Nie wieder sehen",
+        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
         }
       ],
-      "duration_ms": 202709,
-      "name": "Glatteis",
-      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+      "duration_ms": 161212,
+      "name": "Nie wieder sehen",
+      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -1483,6 +1451,38 @@
     {
       "added_at": "2024-09-16 12:21:59",
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 202709,
+      "name": "Glatteis",
+      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -1495,6 +1495,26 @@
       "duration_ms": 155597,
       "name": "Du Fehlst",
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "added_at": "2024-09-16 12:21:59",
+      "album": {
+        "name": "sag was",
+        "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 202657,
+      "name": "sag was",
+      "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
     },
     {
       "added_at": "2024-09-16 12:21:59",
@@ -1535,26 +1555,6 @@
       "duration_ms": 146927,
       "name": "Bis ins Grab",
       "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
-    },
-    {
-      "added_at": "2024-09-16 12:21:59",
-      "album": {
-        "name": "sag was",
-        "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 202657,
-      "name": "sag was",
-      "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
     },
     {
       "added_at": "2024-09-16 12:21:59",

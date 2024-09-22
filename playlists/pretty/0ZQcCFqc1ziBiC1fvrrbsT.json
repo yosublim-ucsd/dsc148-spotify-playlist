@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 11277,
+  "num_followers": 11281,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
@@ -379,17 +379,21 @@
     {
       "added_at": "2024-09-20 18:39:04",
       "album": {
-        "name": "One Last Time",
+        "name": "One Last Time (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/4MgUkbA2r5OeMhedMDGnBI"
       },
       "artists": [
         {
           "name": "Benjamin Tod",
           "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
       "duration_ms": 219960,
-      "name": "One Last Time",
+      "name": "One Last Time (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0of8lBW25tp1RFHmnKxOx2"
     },
     {

@@ -23705,6 +23705,24 @@
     },
     {
       "album": {
+        "name": "Spells",
+        "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194910,
+      "name": "Spells",
+      "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
+    },
+    {
+      "album": {
         "name": "Spice It Up",
         "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
       },

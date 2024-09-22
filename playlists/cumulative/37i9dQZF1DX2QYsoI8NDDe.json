@@ -579,24 +579,6 @@
     },
     {
       "album": {
-        "name": "Aun As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "date_added": "2024-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196960,
-      "name": "Aun As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
-    },
-    {
-      "album": {
         "name": "Ayer Ped\u00ed",
         "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
       },
@@ -612,6 +594,24 @@
       "duration_ms": 178333,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
+    },
+    {
+      "album": {
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Real nasty house 😈😈 featuring Dillon Francis & Julian Jordan
 
-864 songs - 1 day 20 hr 31 min
+865 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Complicated](https://open.spotify.com/track/3N3w7Ge6lULExWZ4DJsHZF) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [MKJAY](https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC) | [Complicated](https://open.spotify.com/album/6Y1lU1HuhqUhyuIM62MuSK) | 4:02 | 2022-03-25 | 2022-08-26 |
 | [CONFIDENT](https://open.spotify.com/track/6WlnyD7FP7NTZxXfLVtQPS) | [JOHN BALAYA](https://open.spotify.com/artist/789ipt8BmfCVZhDo44gfz9) | [CONFIDENT](https://open.spotify.com/album/1IXX4Gd0YlTAe8y9vB3I4j) | 2:24 | 2021-10-29 | 2022-05-28 |
 | [Conflict](https://open.spotify.com/track/0UzGLQkMItEJc1NW3vrwTK) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Conflict](https://open.spotify.com/album/0RyQaIzM8sUYjC9j0Oq1LP) | 4:03 | 2021-10-29 | 2022-01-20 |
+| [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 | 2024-09-20 |  |
 | [Consume It](https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Consume It](https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07) | 3:03 | 2024-09-06 |  |
 | [Crank](https://open.spotify.com/track/5fgoTJczma2FibGrpuJNYj) | [BLEAM](https://open.spotify.com/artist/21b3kfHEAM3THTSpA92k57) | [Crank](https://open.spotify.com/album/01gLYobVbTc8yYKvrZVBfI) | 3:06 | 2022-02-04 | 2022-02-06 |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 | 2023-07-14 |
@@ -426,7 +427,7 @@
 | [Juice](https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Juice](https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP) | 2:36 | 2023-12-15 | 2024-08-17 |
 | [Jumpstarter](https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Jumpstarter](https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN) | 2:53 | 2023-12-01 | 2024-02-24 |
 | [Just Bass](https://open.spotify.com/track/55rnLa7szlgdVtnUXtdE3O) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Just Bass](https://open.spotify.com/album/1fckkva2X9IwrldsPfCt4w) | 2:35 | 2021-10-29 | 2022-05-28 |
-| [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-01-26 |  |
+| [Just Like You](https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Just Like You](https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA) | 2:20 | 2024-01-26 | 2024-09-22 |
 | [Kick Back](https://open.spotify.com/track/4UbHtOlsHWyFn60uCNM825) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Kick Back](https://open.spotify.com/album/1XoH6YumavGj8NIFaiqJET) | 2:17 | 2024-09-06 |  |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 | 2023-11-01 |
 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-04-26 |  |

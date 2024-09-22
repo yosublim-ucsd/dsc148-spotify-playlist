@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,545 likes - 157 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,543 likes - 157 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 136 | [VILLAIN](https://open.spotify.com/track/36ucHCqd276PZFIXqjeZfN) | [Venice Qin](https://open.spotify.com/artist/1w6QttbP1dpScDOCGGvecW) | [ALIEN](https://open.spotify.com/album/0ezYkmaL0BjqvqPw6sVWAY) | 3:31 |
 | 137 | [Damage](https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Damage](https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n) | 2:53 |
 | 138 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 |
-| 139 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [Majic Pāora](https://open.spotify.com/artist/1A0TzjT0kdyL0Z95G0CC5t) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 |
+| 139 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [MAJIC](https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 |
 | 140 | [EAOIA](https://open.spotify.com/track/6NlO5j3YRsNpBFBIbF5m65) | [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V) | [EAOIA](https://open.spotify.com/album/6jDJYdiUYBNnKrFKiXv4Ij) | 3:42 |
 | 141 | [Help Myself](https://open.spotify.com/track/03CHPSpb16gkupgNbmmaTT) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Help Myself](https://open.spotify.com/album/0Jcq9dK8GdEc2UYmBEWZ4P) | 2:31 |
 | 142 | [Te Piringa](https://open.spotify.com/track/67CM4b7wCUnFU3NKW10jw7) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7), [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Te Piringa](https://open.spotify.com/album/44J3SmTmKwvAblYcWZdz5W) | 3:56 |

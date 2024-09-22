@@ -2,9 +2,9 @@
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music。アーティストの代表曲をひとつのプレイリストに。
+> This is Bethel Music\. The essential tracks, all in one playlist.
 
-139 songs - 14 hr 9 min
+140 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Holy Forever](https://open.spotify.com/track/78wwNVnh9DTAHFNTZewEwB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Surrounded By Holy](https://open.spotify.com/album/40Cv3OatvEElZTKKUhL2Lg) | 5:24 | 2023-03-17 | 2023-03-28 |
 | [Holy Forever](https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:24 | 2024-08-08 |  |
 | [Holy Forever \(Live\)](https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever \(Live\)](https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM) | 10:42 | 2024-06-30 | 2024-08-08 |
+| [Holy Song \- Live](https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Holy Song \- Live](https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5) | 5:36 | 2024-09-22 |  |
 | [Homecoming \(Live\)](https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:48 | 2024-07-27 |  |
 | [Homecoming \- Live](https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:48 | 2023-03-17 | 2024-07-27 |
 | [I Believe \- Live](https://open.spotify.com/track/6p9Frj8pPOCWol6HMFihSs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:36 | 2023-03-17 | 2023-04-03 |

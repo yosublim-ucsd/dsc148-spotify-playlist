@@ -6284,7 +6284,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 127659,
       "name": "Aoimoku",
       "url": "https://open.spotify.com/track/4cabuplFVfK5U4nwHeM0nv"
@@ -58262,7 +58262,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 90352,
       "name": "It's Good Now",
       "url": "https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n"
@@ -98326,7 +98326,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 122790,
       "name": "Root System",
       "url": "https://open.spotify.com/track/712paYTcIWDA4z2NIr861U"
@@ -105012,7 +105012,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 143140,
       "name": "slow countryside days",
       "url": "https://open.spotify.com/track/2Fjk06lh3qCrBZZy47krbO"
@@ -109210,6 +109210,24 @@
       "duration_ms": 120907,
       "name": "Spice Rack",
       "url": "https://open.spotify.com/track/5Li8YZv4KwFY6wMbEkild1"
+    },
+    {
+      "album": {
+        "name": "Spicy Summer",
+        "url": "https://open.spotify.com/album/1RF4sFfqiisSK9ki9GDszY"
+      },
+      "artists": [
+        {
+          "name": "Ouflen",
+          "url": "https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115416,
+      "name": "Spicy Summer",
+      "url": "https://open.spotify.com/track/3u15I4XBgJTwQpLz5RHrjF"
     },
     {
       "album": {
@@ -134884,7 +134902,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 135603,
       "name": "You, My Love",
       "url": "https://open.spotify.com/track/6bO9af6eKCyJtDoAgx0uQB"

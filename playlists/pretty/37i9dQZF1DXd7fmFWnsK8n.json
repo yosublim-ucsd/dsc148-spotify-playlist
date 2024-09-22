@@ -539,22 +539,18 @@
     {
       "added_at": "2024-09-17 15:00:00",
       "album": {
-        "name": "einsatZ",
-        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+        "name": "\u96e8",
+        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
       },
       "artists": [
         {
-          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
-          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
-        },
-        {
-          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
-          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 184106,
-      "name": "Drift driving",
-      "url": "https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg"
+      "duration_ms": 323000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
     },
     {
       "added_at": "2024-09-17 15:00:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-09-17 15:00:00",
       "album": {
-        "name": "\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
       },
       "artists": [
         {
-          "name": "MEZZO\u201d",
-          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+        },
+        {
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
         }
       ],
-      "duration_ms": 278373,
-      "name": "\u30ab\u30e9\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+      "duration_ms": 184106,
+      "name": "Drift driving",
+      "url": "https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg"
     },
     {
       "added_at": "2024-09-17 15:00:00",
@@ -687,8 +687,8 @@
     {
       "added_at": "2024-09-17 15:00:00",
       "album": {
-        "name": "\u96e8",
-        "url": "https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k"
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
         }
       ],
-      "duration_ms": 323000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy"
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
     },
     {
       "added_at": "2024-09-17 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-17 15:00:00",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
-      },
-      "artists": [
-        {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
-    },
-    {
-      "added_at": "2024-09-17 15:00:00",
-      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/0SsBA1WDO7VQ2C2DgzBgGB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 256986,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/3TKZ0FCAUIOuHolsZVjR7o"
+    },
+    {
+      "added_at": "2024-09-17 15:00:00",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
+      },
+      "artists": [
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
     },
     {
       "added_at": "2024-09-17 15:00:00",

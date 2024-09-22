@@ -2,7 +2,7 @@
 
 ### [This Is Rich Homie Quan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3974go)
 
-> This is Rich Homie Quan\. Todos os maiores hits em uma só playlist.
+> This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
 55 songs - 3 hr 19 min
 

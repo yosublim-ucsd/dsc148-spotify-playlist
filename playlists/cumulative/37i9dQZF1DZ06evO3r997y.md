@@ -2,7 +2,7 @@
 
 ### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is Akari Kito\. Todos os maiores hits em uma só playlist.
+> This is Akari Kito\. The essential tracks, all in one playlist.
 
 76 songs - 5 hr 3 min
 

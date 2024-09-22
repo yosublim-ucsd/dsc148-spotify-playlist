@@ -1,6 +1,6 @@
 {
   "description": "Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 375249,
+  "num_followers": 375296,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 298871,
+      "name": "FEBRE",
+      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "Avisa L\u00e1, Pt. 4",
         "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 445000,
       "name": "Avisa L\u00e1, Pt. 4",
       "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 298871,
-      "name": "FEBRE",
-      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -999,6 +999,38 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "THE BOX MEDLEY FUNK 3",
+        "url": "https://open.spotify.com/album/3oF7K2XdqdXvEQ7QXJgYO5"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Kauan",
+          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "THE BOX MEDLEY FUNK 3",
+      "url": "https://open.spotify.com/track/29GPtRKtxQhHWB2dDKx8uN"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
         "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
       },
@@ -1047,38 +1079,6 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "THE BOX MEDLEY FUNK 3",
-        "url": "https://open.spotify.com/album/3oF7K2XdqdXvEQ7QXJgYO5"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "Mc Kauan",
-          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "THE BOX MEDLEY FUNK 3",
-      "url": "https://open.spotify.com/track/29GPtRKtxQhHWB2dDKx8uN"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1183,46 +1183,6 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Parece Caro",
-      "url": "https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Vai Valer A Pena - Ao Vivo",
-      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
         "name": "Quebradas 2",
         "url": "https://open.spotify.com/album/59Vwfgt1SoNC6G7CRAfSlB"
       },
@@ -1259,6 +1219,46 @@
       "duration_ms": 361411,
       "name": "Quebradas 2",
       "url": "https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Sorte (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Vai Valer A Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Parece Caro",
+      "url": "https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Resenha das Minas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
+        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        }
+      ],
+      "duration_ms": 165703,
+      "name": "Resenha das Minas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
     }
   ],
   "unique_name": "AMPLIFIKA",

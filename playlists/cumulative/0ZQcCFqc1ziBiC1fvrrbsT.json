@@ -40953,20 +40953,24 @@
     },
     {
       "album": {
-        "name": "One Last Time",
+        "name": "One Last Time (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/4MgUkbA2r5OeMhedMDGnBI"
       },
       "artists": [
         {
           "name": "Benjamin Tod",
           "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219960,
-      "name": "One Last Time",
+      "name": "One Last Time (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0of8lBW25tp1RFHmnKxOx2"
     },
     {

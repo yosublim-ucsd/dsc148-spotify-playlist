@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Reyna Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,284 likes - 128 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,359 likes - 128 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

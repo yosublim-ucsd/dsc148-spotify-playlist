@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Tommy Royale</a> y <a href="spotify:artist:7uZO1ri6Y9Wlv7cDoOOUDI">CRYS</a>
 
-2,176 songs - 6 day 16 hr 10 min
+2,176 songs - 6 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1483,7 +1483,7 @@
 | [Perdón, Jesús](https://open.spotify.com/track/1OfOF5gwi7A0U6pNoPoYS5) | [Sofía Giraldo](https://open.spotify.com/artist/62LQp7JGdAOupnM9SyLZ1Q), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Perdón, Jesús](https://open.spotify.com/album/0v7zy8oXAFDRBb8ry9UlBd) | 3:13 | 2024-07-12 | 2024-08-03 |
 | [Perfecta Combinación](https://open.spotify.com/track/09yLxEf2JTcvnAsKzKxlVT) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Perfecta Combinación](https://open.spotify.com/album/1D38Oa04mcnL7SV29Z0Grs) | 3:55 | 2023-12-08 | 2024-02-03 |
 | [perfecta paz](https://open.spotify.com/track/06qnVwreRrEiHrIRWojD8p) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm), [Christy Corson](https://open.spotify.com/artist/35ouuu71O4IRvrx5OWk7xh) | [perfecta paz](https://open.spotify.com/album/5Fgi0lLGzTDhiLsGa8BnPy) | 3:50 | 2024-07-05 | 2024-08-03 |
-| [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:09 | 2024-09-20 |  |
+| [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:30 | 2024-09-20 |  |
 | [Perfume](https://open.spotify.com/track/4fiGDd9xVIphZRs25z1QZN) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Perfume](https://open.spotify.com/album/72HwwBltTxxU8ZOvEPIB9L) | 3:10 | 2024-02-16 | 2024-03-16 |
 | [Perfume a Tus Pies](https://open.spotify.com/track/1ERglzA6cPV9f8Uphpf9wk) | [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Perfume a Tus Pies](https://open.spotify.com/album/0BuoN71r35a1tbQjttONeU) | 5:34 | 2022-10-07 | 2022-12-10 |
 | [Permanecer](https://open.spotify.com/track/3HojFX8N0oTUjOCCrXBGnx) | [FC Music](https://open.spotify.com/artist/60bQ6WSUb51AY6uCIBdG7m) | [Permanecer](https://open.spotify.com/album/39WxL5m5yumx21H4f3Hd2r) | 5:19 | 2024-02-02 | 2024-03-02 |

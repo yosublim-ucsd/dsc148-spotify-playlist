@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1178390,
+  "num_followers": 1178591,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 150640,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -127,18 +143,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
       "artists": [
         {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
         }
       ],
-      "duration_ms": 150640,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -155,22 +171,6 @@
       "duration_ms": 172400,
       "name": "Mr. Soul",
       "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The Essentials: Tommy James & The Shondells",
         "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 221826,
       "name": "One Rainy Wish",
       "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Clear Spot",
-        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "Captain Beefheart & His Magic Band",
-          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 177506,
-      "name": "Her Eyes Are a Blue Million Miles",
-      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+      "duration_ms": 222293,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Clear Spot",
+        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
+      },
+      "artists": [
+        {
+          "name": "Captain Beefheart & His Magic Band",
+          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Her Eyes Are a Blue Million Miles",
+      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "\"Os Mutantes\"",
         "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 284986,
       "name": "A Minha Menina",
       "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Manic Depression",
-      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -495,6 +495,22 @@
       "duration_ms": 353426,
       "name": "The Four Horsemen",
       "url": "https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -595,22 +611,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Mama Roux",
-      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
         "url": "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 161800,
       "name": "Dark Star - Single Version",
       "url": "https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Mama Roux",
+      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
     },
     {
       "added_at": "2024-07-12 17:17:21",

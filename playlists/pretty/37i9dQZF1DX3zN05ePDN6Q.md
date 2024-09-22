@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto:  Rincon Sapiência, Mc Luki
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,583 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,622 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 12 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |
 | 13 | [DESMISTIFICAR](https://open.spotify.com/track/5OxUASSdA0TF2rkkEKAz03) | [OLÍMPICO](https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5) | [FORA DO TEMPO](https://open.spotify.com/album/6yAPrBAqLkGl9zsG2fRI78) | 2:06 |
 | 14 | [22](https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:00 |
-| 15 | [Solidão e Arte](https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Solidão e Arte](https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m) | 2:42 |
+| 15 | [Solidão e Arte](https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [Solidão e Arte](https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m) | 2:42 |
 | 16 | [Desabafo](https://open.spotify.com/track/1ge14LTrHmghSLyqvffvVD) | [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Desabafo](https://open.spotify.com/album/3KgVxHtxxaPLluVjBGmAF6) | 1:41 |
 | 17 | [Escola da Vida](https://open.spotify.com/track/4Ozec1suC3YIUHaevTYpvM) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Spike mc](https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP) | [Escola da Vida](https://open.spotify.com/album/4RwjsNrTHlsj2ixEhtjIPY) | 1:24 |
 | 18 | [Carta Aberta](https://open.spotify.com/track/7bYemOhOuShzPq4BAje0XI) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [AM/PM](https://open.spotify.com/album/44YOBuLwAxZxhJ6zVvCtWj) | 4:09 |

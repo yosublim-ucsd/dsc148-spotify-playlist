@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 279910,
       "name": "Fine",
       "url": "https://open.spotify.com/track/7pUcuw1LB3p0GI4xo4v6k3"
@@ -3105,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Hamster Criminal",
+        "url": "https://open.spotify.com/album/0pXAF9pTeWRsS6Av4SNNMP"
+      },
+      "artists": [
+        {
+          "name": "M\u0421 Beast",
+          "url": "https://open.spotify.com/artist/1mZ1Pg8ULjQkTkYY3TXcgI"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137247,
+      "name": "Hamster Criminal",
+      "url": "https://open.spotify.com/track/3DqUZa6G4Ai4oT15hwJqQf"
+    },
+    {
+      "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
       },
@@ -3310,6 +3328,24 @@
       "duration_ms": 86557,
       "name": "Her loss",
       "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
+    },
+    {
+      "album": {
+        "name": "hermaeus mora",
+        "url": "https://open.spotify.com/album/77hzOhmvGH5BU4YenFkN60"
+      },
+      "artists": [
+        {
+          "name": "fleurnothappy",
+          "url": "https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87500,
+      "name": "hermaeus mora",
+      "url": "https://open.spotify.com/track/1hPQtiP5RYlYrS3t8AjrlK"
     },
     {
       "album": {
@@ -5388,7 +5424,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -6468,7 +6504,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 223385,
       "name": "SALUT",
       "url": "https://open.spotify.com/track/7HzZCzyUHv07CFwWMQ9elS"
@@ -10056,7 +10092,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 201019,
       "name": "\u0433\u0434\u0435 \u0442\u044b?",
       "url": "https://open.spotify.com/track/5Om5hEHe2lKknhmveGXA2j"
@@ -12965,6 +13001,32 @@
     },
     {
       "album": {
+        "name": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438",
+        "url": "https://open.spotify.com/album/4J7R85Olw2dGdfgZZVWg74"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0410\u0420\u041e\u0414\u0410",
+          "url": "https://open.spotify.com/artist/389tLzcy5zNfKEYYroDuVC"
+        },
+        {
+          "name": "10AGE",
+          "url": "https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt"
+        },
+        {
+          "name": "Anet Sai",
+          "url": "https://open.spotify.com/artist/36zuRyk8TRIW3TX6ocDcZU"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0438",
+      "url": "https://open.spotify.com/track/18VYOhPzoM8h5TfwUVvcNo"
+    },
+    {
+      "album": {
         "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
         "url": "https://open.spotify.com/album/1mbnvxxtv7Gsz9iVVeql7I"
       },
@@ -14620,6 +14682,24 @@
       "duration_ms": 108923,
       "name": "\u0426\u0435\u043b\u0443\u044e",
       "url": "https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9"
+    },
+    {
+      "album": {
+        "name": "\u0434\u0435\u043b\u0438 \u043d\u0430 \u0434\u0432\u0430",
+        "url": "https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I"
+      },
+      "artists": [
+        {
+          "name": "CUPSIZE",
+          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129427,
+      "name": "\u0446\u0435\u043b\u0443\u044e \u0442\u0435\u0431\u044f",
+      "url": "https://open.spotify.com/track/7hrAs40pKmU5eBzbKAJp3A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,150 likes - 99 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,226 likes - 99 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 27 | [Tan Tan Bueno](https://open.spotify.com/track/4t7XGKYW4GX0QGyizFfSCr) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Tan Tan Bueno](https://open.spotify.com/album/24WMh1cv0pHkXDybeLznOM) | 7:28 |
 | 28 | [Canta Mi Alma](https://open.spotify.com/track/5CMg6LmZClRr9tzFZCKdSl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Canta Mi Alma](https://open.spotify.com/album/7cU3j49De3ndopojnJxA8P) | 3:04 |
 | 29 | [Avivamiento \(Reimagined\)](https://open.spotify.com/track/1IXrlpz8Xal4vfnaiNUtYp) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Avivamiento \(Reimagined\)](https://open.spotify.com/album/3SNakKL7PQcaJqfC7XqlkF) | 2:56 |
-| 30 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:09 |
+| 30 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:30 |
 | 31 | [Nos Toca A Nosotros \- Live](https://open.spotify.com/track/3PX089zKluwtqcSla2gQtV) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Harold Velazquez \(Live\)](https://open.spotify.com/album/42AEvmFj2weFFE1Q1eMyJQ) | 3:59 |
 | 32 | [Cuando Te Busco](https://open.spotify.com/track/0ZI4ue844ftpgHjaOdANLB) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Cuando Te Busco](https://open.spotify.com/album/1qK3RtooARb8tMHjeh8hXp) | 3:29 |
 | 33 | [ALGORITMO](https://open.spotify.com/track/76XrMB2iE4Mgrixsb6JhGk) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [ALGORITMO](https://open.spotify.com/album/1xdW6wh8UZMX5Dg2IJo0hv) | 3:28 |

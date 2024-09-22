@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pressive y Nunca Jam\u00e1s en portada. ",
-  "num_followers": 1000871,
+  "num_followers": 1000884,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "La Kaguama",
-        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "La Kaguama",
-      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "La Kaguama",
+        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "La Kaguama",
+      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 266279,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "\u00bfUsted Qu\u00e9 Har\u00eda?",
-        "url": "https://open.spotify.com/album/7Kbk6cwyzuL04lgJYRk6RY"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "\u00bfUsted Qu\u00e9 Har\u00eda?",
-      "url": "https://open.spotify.com/track/3cqkoy9f0a2mKrnVOFdeQM"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Elemento Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 205466,
       "name": "Ser\u00eda Feliz",
       "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "\u00bfUsted Qu\u00e9 Har\u00eda?",
+        "url": "https://open.spotify.com/album/7Kbk6cwyzuL04lgJYRk6RY"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 187989,
+      "name": "\u00bfUsted Qu\u00e9 Har\u00eda?",
+      "url": "https://open.spotify.com/track/3cqkoy9f0a2mKrnVOFdeQM"
     },
     {
       "added_at": "2024-08-30 06:00:00",

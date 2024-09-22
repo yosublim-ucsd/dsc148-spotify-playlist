@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les 50 hits incontournables\. Cover: Lazaro
+> Manal en tête de la plus grande playlist au Maroc.
 
 323 songs - 17 hr 21 min
 

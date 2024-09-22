@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 167885,
       "name": "1+1",
       "url": "https://open.spotify.com/track/6GujKDj7JIaPwMi990CkIK"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -11078,7 +11078,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -12332,6 +12332,28 @@
       "duration_ms": 255992,
       "name": "Fotia",
       "url": "https://open.spotify.com/track/4zW19Z4IVfpLEsrTSCXiS8"
+    },
+    {
+      "album": {
+        "name": "FOTIA",
+        "url": "https://open.spotify.com/album/7tZHyy5oXZiaDFGxAg4GYp"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219516,
+      "name": "FOTIA",
+      "url": "https://open.spotify.com/track/1c6BBiaz1uXPs8Nw2WCCpr"
     },
     {
       "album": {
@@ -20902,7 +20924,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 129522,
       "name": "Makigiaz",
       "url": "https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA"
@@ -34398,7 +34420,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 164265,
       "name": "TMC",
       "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"

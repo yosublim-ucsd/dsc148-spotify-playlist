@@ -4,12 +4,12 @@
 
 > A hypnotic journey through Melodic Techno.
 
-586 songs - 1 day 22 hr 57 min
+587 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20ms](https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [20ms](https://open.spotify.com/album/5qVxSXNw0lk95eOSgLoWjP) | 4:37 | 2023-09-01 | 2023-09-30 |
-| [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 |  |
+| [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 | 2024-09-22 |
 | [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2023-09-21 |  |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/2nwzgfxFquLBgbx3LMdxWv) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [A Thousand Knives \(Enamour Remix\) \[Edit\]](https://open.spotify.com/album/5BQ5rQxDLVSi1tjzTQOZ35) | 4:49 | 2023-06-23 | 2023-07-14 |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 4:49 | 2023-08-04 | 2023-09-22 |
@@ -235,6 +235,7 @@
 | [Hold Me To The Light \- Tale Of Us Remix](https://open.spotify.com/track/3Allgqu3MaHE8QFvzoP90S) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt), [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 6:38 | 2022-11-23 | 2023-12-01 |
 | [Hold Onto This](https://open.spotify.com/track/6sdKjx7vqR50AY7KdVuK35) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Hold Onto This](https://open.spotify.com/album/3K27ZTgBuFbCs1TrsDGYGP) | 3:12 | 2023-05-23 | 2023-12-01 |
 | [Hold The Dust](https://open.spotify.com/track/7fmbCNSq2uoIT0sQgINTis) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Hold The Dust](https://open.spotify.com/album/47xEbVhO9MaVQzDfL9t6sd) | 5:42 | 2022-12-28 | 2023-01-06 |
+| [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 | 2024-09-19 |  |
 | [Home](https://open.spotify.com/track/6jYXP1jrYIHkEYglFgeL2Q) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Home](https://open.spotify.com/album/146ZQxIBQIyEOA2oCLGD1c) | 5:30 | 2022-11-23 | 2024-07-13 |
 | [Home](https://open.spotify.com/track/23QInbXr2Cn4kEskVhqmrY) | [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Home](https://open.spotify.com/album/3xCGVoP1mnfrlOSIDlC6kN) | 4:54 | 2023-04-07 | 2023-12-13 |
 | [Hook](https://open.spotify.com/track/59bBf3pgfpRR4CZNM7jSGC) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Hook](https://open.spotify.com/album/5B9Zdn8PILDbHWsgNnsgqd) | 6:14 | 2024-06-06 | 2024-07-13 |

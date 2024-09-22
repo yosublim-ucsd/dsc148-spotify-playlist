@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:26T4yOaOoFJvUvxR87Y9HO">Bethel Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,346 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,386 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 11 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 |
 | 12 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 |
 | 13 | [Trials of Many Kinds](https://open.spotify.com/track/5hYuDjuMy47jzht5ATyrBj) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Fed By Ravens](https://open.spotify.com/album/71O2R5dEgC9g4Mtou7WT8f) | 5:59 |
-| 14 | [The Battle And The Blessing \- Live](https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Rise My Soul \- Live](https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z) | 5:09 |
+| 14 | [The Battle And The Blessing \- Live](https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Rise My Soul \(Live\)](https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z) | 5:09 |
 | 15 | [Kingdom](https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 9:25 |
 | 16 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \- Live in Abuja](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 |
 | 17 | [Happily Hidden \(with John Mark McMillan\)](https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Happily Hidden](https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b) | 3:53 |

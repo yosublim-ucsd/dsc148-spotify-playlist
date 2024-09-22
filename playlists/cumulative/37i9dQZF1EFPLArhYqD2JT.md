@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-391 songs - 19 hr 53 min
+392 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [I'll Capture Your Heart](https://open.spotify.com/track/3dxDIeMuYGopSAtyEpaKX2) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [Holiday Inn \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:23 | 2024-07-26 |  |
 | [I'll See You in C\-U\-B\-A](https://open.spotify.com/track/4fNXu7QX3ImCUGCZEogGj6) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Presenting Billy Murray](https://open.spotify.com/album/4Br2d8eVvEQPk9GPSG6eWO) | 2:58 | 2024-07-26 |  |
 | [I'm A Bad, Bad Man](https://open.spotify.com/track/1xeDDyLOnWOqQf45Mi73fc) | [Neilson Taylor](https://open.spotify.com/artist/2ZBR6NBLzlRb8I1VjyA3d2), [Stanley Black](https://open.spotify.com/artist/7ICtJI0WkGw8bQB2ELzHjk) | [Annie Get Your Gun \(Original Broadway Cast / Bonus Tracks\)](https://open.spotify.com/album/1IDWNeKQAJWJL2ysC2k1u2) | 2:36 | 2024-07-26 |  |
+| [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 | 2024-09-21 |  |
 | [I'm Beginning to Miss You](https://open.spotify.com/track/0y0Lui7kpPCkmvDYYaqEpV) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [John Rarig](https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p) | [The Complete Columbia Singles, Volume 2 \(1948\-49\)](https://open.spotify.com/album/0dAu2jAFwP7GpPO5xfQpMW) | 3:06 | 2024-07-26 |  |
 | [I'm Down In Honolulu Looking Them Over](https://open.spotify.com/track/6ovTHiDhNCVvWzrppe5OW1) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Al Jolson & Orchestra](https://open.spotify.com/artist/4kAVYNCuMv0G122gnEnFYR) | [Jolson, Al: Al Jolson, Vol\. 2 \(1916\-1918\)](https://open.spotify.com/album/6iFlGQZv9y6YlAt4MxefnG) | 2:39 | 2024-07-26 |  |
 | [I'm Gonna Pin a Medal on the Girl I Left Behind](https://open.spotify.com/track/6vEtPQUZnpiK1zXOXHEOkH) | [Ryan Muska](https://open.spotify.com/artist/5LeIaDIJrUFG97GnfDDHZ9) | [Chip Deffaa's Say It with Music: The Irving Berlin Saga \(The Cast Album\)](https://open.spotify.com/album/0ZA1yb3FoJSwMNeqXrMjrd) | 2:29 | 2024-07-26 |  |

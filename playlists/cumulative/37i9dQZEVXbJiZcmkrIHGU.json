@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/57VLBRdEVnK7PBx9fc9mLp"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105331,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/5QllDVWTd3lOLcceZsekwX"
+    },
+    {
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -4848,6 +4866,32 @@
       "duration_ms": 207835,
       "name": "Aye (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
+    },
+    {
+      "album": {
+        "name": "a\u00e7 bleiben",
+        "url": "https://open.spotify.com/album/00d7QTv2YWOSq8AVdbx2zj"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        },
+        {
+          "name": "RB030",
+          "url": "https://open.spotify.com/artist/0OgTLK8owUVL3LHNkWtam0"
+        },
+        {
+          "name": "Selim61",
+          "url": "https://open.spotify.com/artist/1u2sYra3g7wawqCHEkmwP6"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123640,
+      "name": "a\u00e7 bleiben",
+      "url": "https://open.spotify.com/track/7xLbQTeLpeqlxxTPLSiM20"
     },
     {
       "album": {
@@ -6426,7 +6470,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -11616,7 +11660,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -13112,7 +13156,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 134127,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0GXAKI05bFfhHtZIg8ftA6"
@@ -18309,6 +18353,24 @@
     },
     {
       "album": {
+        "name": "FR",
+        "url": "https://open.spotify.com/album/7GzmbuPhjdydDUGANq7SS2"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "FR",
+      "url": "https://open.spotify.com/track/4oVfa8hJ90Pgfzrt7qD2h4"
+    },
+    {
+      "album": {
         "name": "Frag mich nicht",
         "url": "https://open.spotify.com/album/6UrYYz1NtrHW8GDQz0QccS"
       },
@@ -19107,6 +19169,28 @@
     },
     {
       "album": {
+        "name": "Schlaraffenland",
+        "url": "https://open.spotify.com/album/5dWNFjaGlmjRBmlfsP6nHD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
+      "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
+    },
+    {
+      "album": {
         "name": "F\u00fcllkrug",
         "url": "https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT"
       },
@@ -19322,6 +19406,24 @@
       "duration_ms": 144874,
       "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
       "url": "https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Mary <3",
+        "url": "https://open.spotify.com/album/1sAgCoqa8ZTlmG2GLSoJBP"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133791,
+      "name": "F\u00fcr Mary <3",
+      "url": "https://open.spotify.com/track/49H9r25z9itmPUeoOBbJ19"
     },
     {
       "album": {
@@ -20853,6 +20955,24 @@
     },
     {
       "album": {
+        "name": "Go Fast Go Fast",
+        "url": "https://open.spotify.com/album/2Bem1GxIwVhLWzyHFTFupJ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193041,
+      "name": "Go Fast Go Fast",
+      "url": "https://open.spotify.com/track/7vwKMA2Ui0J4fsk4XjupqS"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/4dvooNiLjhspaZnOxk1yA0"
       },
@@ -21744,6 +21864,28 @@
       "duration_ms": 298384,
       "name": "Habits",
       "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+    },
+    {
+      "album": {
+        "name": "HAHA!",
+        "url": "https://open.spotify.com/album/4ayJY5T7vrkqpd4CfR2kL7"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "HAHA!",
+      "url": "https://open.spotify.com/track/3R3g7X1z1UtnMjrWFlfs2S"
     },
     {
       "album": {
@@ -23074,7 +23216,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -24028,6 +24170,24 @@
       "duration_ms": 164213,
       "name": "Ich bin weg - BoroBoro",
       "url": "https://open.spotify.com/track/1f6Paz0Vf1CPhcNDs1vMyR"
+    },
+    {
+      "album": {
+        "name": "Ich bring dir keine Blumen",
+        "url": "https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ich bring dir keine Blumen",
+      "url": "https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE"
     },
     {
       "album": {
@@ -25276,7 +25436,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -27784,7 +27944,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -33412,7 +33572,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 184485,
       "name": "Miami",
       "url": "https://open.spotify.com/track/5N1C1ii0IsKp1Ux3OXUM8C"
@@ -35049,6 +35209,28 @@
     },
     {
       "album": {
+        "name": "Moonlight Dreams",
+        "url": "https://open.spotify.com/album/6af7xjDtfUoj6Pf8K4lNhn"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146950,
+      "name": "Moonlight Dreams",
+      "url": "https://open.spotify.com/track/4yNd1xo3DZ75MqPMscauEG"
+    },
+    {
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/0XP2nFkIVfR2i05uWBtqBW"
       },
@@ -35692,6 +35874,28 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "MYLOOOVE",
+        "url": "https://open.spotify.com/album/1tjUSYlDhuYFV4EUWhQWMb"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "OZ",
+          "url": "https://open.spotify.com/artist/6yfgM1rkLSenhFIW3iV9hm"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "MYLOOOVE",
+      "url": "https://open.spotify.com/track/14OP5aVwq3aAP2200Fbj2B"
     },
     {
       "album": {
@@ -40061,6 +40265,24 @@
     },
     {
       "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181926,
+      "name": "Pazifik",
+      "url": "https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -40638,7 +40860,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 172641,
       "name": "PKS",
       "url": "https://open.spotify.com/track/6mMbqCwLkQlyfG7UARf4Md"
@@ -42384,6 +42606,28 @@
       "duration_ms": 150200,
       "name": "Really",
       "url": "https://open.spotify.com/track/2XFCobsFrfDXayVsggwT99"
+    },
+    {
+      "album": {
+        "name": "RED CUPS (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206259,
+      "name": "RED CUPS (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
     },
     {
       "album": {
@@ -47370,7 +47614,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -49256,7 +49500,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -50908,7 +51152,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -52474,7 +52718,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -56578,6 +56822,24 @@
       "duration_ms": 125109,
       "name": "WO BIST DU",
       "url": "https://open.spotify.com/track/384mXowQJTepE6gFLOFIBC"
+    },
+    {
+      "album": {
+        "name": "Wo willst du hin",
+        "url": "https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "Wo willst du hin",
+      "url": "https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5"
     },
     {
       "album": {

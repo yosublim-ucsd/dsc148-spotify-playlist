@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: Donaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,724 likes - 65 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,765 likes - 65 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

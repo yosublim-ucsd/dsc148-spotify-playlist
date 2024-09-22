@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 334767,
+  "num_followers": 334901,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -95,42 +95,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Give a Little (feat. Naila)",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little (feat. Naila)",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "CASABLANCA",
-        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "CASABLANCA",
-      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
       },
@@ -151,6 +115,42 @@
       "duration_ms": 157165,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Give a Little (feat. Naila)",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little (feat. Naila)",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Need U",
-        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
-      },
-      "artists": [
-        {
-          "name": "John Neo",
-          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
-        }
-      ],
-      "duration_ms": 131070,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Bangladesh",
         "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 165333,
       "name": "Arabic Nights",
       "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/3LsEuZvOQzvosI3IYTYqzo"
+      },
+      "artists": [
+        {
+          "name": "John Neo",
+          "url": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+        }
+      ],
+      "duration_ms": 131070,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/5QQbY1pT2kOfYW48UXz03c"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
         "name": "Portrait of the Obscure",
         "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 258137,
       "name": "Pulse Antique",
       "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
-      },
-      "artists": [
-        {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1007,38 +1007,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
         }
       ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1083,6 +1063,26 @@
       "duration_ms": 206610,
       "name": "Cairo's Scent",
       "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1199,26 +1199,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
         }
       ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1243,18 +1235,26 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
       "artists": [
         {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
         }
       ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Anatolieni",
         "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Jawi",
-        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
-      },
-      "artists": [
-        {
-          "name": "HbbZ",
-          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Jawi",
-      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
         "name": "Moroccan Sahara",
         "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 185208,
       "name": "Moroccan Sahara",
       "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Jawi",
+        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
+      },
+      "artists": [
+        {
+          "name": "HbbZ",
+          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Jawi",
+      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1787,38 +1787,18 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Bora",
-        "url": "https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK"
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
       },
       "artists": [
         {
-          "name": "Kerem Gell",
-          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
         }
       ],
-      "duration_ms": 304918,
-      "name": "Bora",
-      "url": "https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf"
-    },
-    {
-      "added_at": "2024-09-14 18:17:38",
-      "album": {
-        "name": "1980",
-        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
-      },
-      "artists": [
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        },
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "1980",
-      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
+      "duration_ms": 172850,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1843,18 +1823,22 @@
     {
       "added_at": "2024-09-14 18:17:38",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+        "name": "1980",
+        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 172850,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
+      "duration_ms": 297146,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
     },
     {
       "added_at": "2024-09-14 18:17:38",
@@ -1895,6 +1879,22 @@
       "duration_ms": 198200,
       "name": "Mawjou3 Galbi",
       "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2024-09-14 18:17:38",
+      "album": {
+        "name": "Bora",
+        "url": "https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "duration_ms": 304918,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf"
     },
     {
       "added_at": "2024-09-14 18:17:38",

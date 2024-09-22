@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,498 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,508 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 17 | [O Saajna](https://open.spotify.com/track/5mbunFqwSF7Zo77lbJlLku) | [FIRDAUS](https://open.spotify.com/artist/7BfH29hEuqsCROoAMld4qj) | [O Saajna](https://open.spotify.com/album/3Ru1eQ5IFhxtY96lFacZl6) | 4:43 |
 | 18 | [Khuda Ne](https://open.spotify.com/track/6nd3abvd5z9eTbluyYIyjP) | [Pintu Mallick](https://open.spotify.com/artist/2KuZp7jU1PjfZKWYyscJVU) | [Khuda Ne](https://open.spotify.com/album/5HRpkVA9tJf5hR9B3232bL) | 3:58 |
 | 19 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |
-| 20 | [Meherma \(Unplugged Version\)](https://open.spotify.com/track/1u9da2w4atIsy7FMpl5zW3) | [Asit Tripathi](https://open.spotify.com/artist/2tuRuDatap3s1KBXKQS9zv), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Meherma \(Unplugged Version\)](https://open.spotify.com/album/1HZG9FmM7ukBtZ98MrfGb8) | 3:19 |
+| 20 | [Meherma \(Unplugged Version\)](https://open.spotify.com/track/1u9da2w4atIsy7FMpl5zW3) | [Asit Tripathy](https://open.spotify.com/artist/0AMlMTeTAhah1zDPvkWRg0), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Meherma \(Unplugged Version\)](https://open.spotify.com/album/1HZG9FmM7ukBtZ98MrfGb8) | 3:19 |
 | 21 | [safar](https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [dastaan](https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22) | 3:16 |
 | 22 | [Aasaan](https://open.spotify.com/track/2BL5cbOyQSghBpFwvvwtDQ) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aasaan](https://open.spotify.com/album/32DqnM6T6NdtNBCyiAamtk) | 3:08 |
 | 23 | [Thi Tu Kaha](https://open.spotify.com/track/5ukGuNbRQYrvVvCaEr5aUJ) | [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Love, Heartbreak and being a Professor](https://open.spotify.com/album/6HdlLxxA7oFDCOnjxll5T2) | 3:34 |

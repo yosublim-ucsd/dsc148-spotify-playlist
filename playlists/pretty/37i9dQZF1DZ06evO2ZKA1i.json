@@ -1,12 +1,12 @@
 {
-  "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 291009,
+  "description": "This Is Deep Purple. Los temas esenciales, todos en una lista.",
+  "num_followers": 291050,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAACla1dgh7zYPe4MR+yf64xh",
+  "snapshot_id": "Zuy7AAAAAAABvBQbUNwpBKEfSZK5Q4eO",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Deepest Purple: The Very Best of Deep Purple",
+        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 448333,
-      "name": "Mistreated - Remastered 2004",
-      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
+      "duration_ms": 233866,
+      "name": "Strange Kind Of Woman",
+      "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deepest Purple: The Very Best of Deep Purple",
-        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 233866,
-      "name": "Strange Kind Of Woman",
-      "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
+      "duration_ms": 448333,
+      "name": "Mistreated - Remastered 2004",
+      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
     },
     {
       "added_at": null,

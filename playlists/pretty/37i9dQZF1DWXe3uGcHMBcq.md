@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,671 likes - 172 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,677 likes - 172 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 | 12 | [Welcome to the Chibiverse \- From "Chibiverse"](https://open.spotify.com/track/225NqsE7ZeqkNhpPMcFSYm) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Baraka May](https://open.spotify.com/artist/331y81T4OGRJw8TPCClyw2) | [Welcome to the Chibiverse \(From "Chibiverse"\)](https://open.spotify.com/album/6IIaTPWHxOPdlAmfsxpVBR) | 1:02 |
 | 13 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
 | 14 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
-| 15 | [Gravity Falls Main Title Theme](https://open.spotify.com/track/7yf8RcnW6dcoAFf5qyHXre) | [Brad Breeck](https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT) | [Gravity Falls \- Original Soundtrack](https://open.spotify.com/album/3pPJHQNvLdS7Hd7BzU8ZCK) | 0:40 |
+| 15 | [Gravity Falls Main Title Theme](https://open.spotify.com/track/7yf8RcnW6dcoAFf5qyHXre) | [Brad Breeck](https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT) | [Gravity Falls \(Original Soundtrack\)](https://open.spotify.com/album/3pPJHQNvLdS7Hd7BzU8ZCK) | 0:40 |
 | 16 | [Where You Come From](https://open.spotify.com/track/6FzBEWmvVFmdJnX7MTL47R) | [Diamond White](https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:36 |
 | 17 | [Flesh & Bone/Come on Out Mashup](https://open.spotify.com/track/73mOXxeKICXMbA1vQxbCE2) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kylee Russell](https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1), [Carla Jeffery](https://open.spotify.com/artist/4SFjiS7o0Exe0rrpJfXvMa), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5) | [Flesh & Bone/Come on Out Mashup](https://open.spotify.com/album/2ZxEXa1WuSQmBC0Gvul51c) | 2:54 |
 | 18 | [Feeling the Love \- From "Descendants: The Royal Wedding"](https://open.spotify.com/track/05mKDRD16LmFaQuiI1hD7S) | [Cast of Descendants: The Royal Wedding](https://open.spotify.com/artist/4Z1bO4vce5gdzrICP4dWxJ) | [Feeling the Love \(From "Descendants: The Royal Wedding"\)](https://open.spotify.com/album/2hXCgI5nep1dTRnagB7Lfi) | 2:57 |

@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 325065,
+  "num_followers": 325339,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 203186,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Ghost On The Dance Floor",
+      "url": "https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Billion Dollar Babies (Deluxe Reissue)",
-        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 307226,
-      "name": "I Love the Dead",
-      "url": "https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236689,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu"
+    },
+    {
+      "added_at": "2023-10-13 04:01:00",
+      "album": {
+        "name": "Billion Dollar Babies (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 307226,
+      "name": "I Love the Dead",
+      "url": "https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo"
     },
     {
       "added_at": "2023-10-13 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 171992,
+  "num_followers": 172056,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Cupido en la Barra",
-        "url": "https://open.spotify.com/album/6FhwlDXjiy4ooMV4Iqc9JA"
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        },
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Cupido en la Barra",
-      "url": "https://open.spotify.com/track/5X0oKnPbUq1WQyGoas6UAX"
+      "duration_ms": 288360,
+      "name": "Estacion Del Metro Balderas",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Hurbanistorias",
-        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+        "name": "Cupido en la Barra",
+        "url": "https://open.spotify.com/album/6FhwlDXjiy4ooMV4Iqc9JA"
       },
       "artists": [
         {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        },
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Estacion Del Metro Balderas",
-      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+      "duration_ms": 191500,
+      "name": "Cupido en la Barra",
+      "url": "https://open.spotify.com/track/5X0oKnPbUq1WQyGoas6UAX"
     },
     {
       "added_at": "2024-07-12 18:10:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GobnmqMERb.md) - [plain]
 
 > Los temas que los Cangrejeros de Santurce están escuchando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 58 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 58 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

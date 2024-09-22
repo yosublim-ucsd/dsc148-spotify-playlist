@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,080 likes - 91 songs - 4 hr 57 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 44,096 likes - 91 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [haunted](https://open.spotify.com/track/0oukFKejkwZMvTznqqeD6u) | [Chilli Reid](https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf) | [haunted](https://open.spotify.com/album/1YirReLwbAIbM0MQ9wPn2V) | 2:05 |
 | 16 | [Nostalgia](https://open.spotify.com/track/2k7SFcdIbmWDyFaDGPXUKq) | [Cosmic Vice](https://open.spotify.com/artist/79mv7IN00LoE44hNrbbOf1) | [Nostalgia](https://open.spotify.com/album/0Qbq2UdmvEn5C5QbV8ukTO) | 3:03 |
 | 17 | [Rainbow Power](https://open.spotify.com/track/5IygPvmHuTgSVTq2oey1SJ) | [Bunny Racket](https://open.spotify.com/artist/4XWRFMfvdx8W2Aug6m0RJL) | [Power](https://open.spotify.com/album/6SFui6mIAao9PKuGuPjsa1) | 2:11 |
-| 18 | [SIDES](https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [ENERGY11](https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv) | [SIDES](https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb) | 3:57 |
+| 18 | [SIDES](https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [ENERGY11](https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv), [NYNE](https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem) | [SIDES](https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb) | 3:57 |
 | 19 | [Work Up A Sweat](https://open.spotify.com/track/7LHIiQx0f23dfgkMnvtyZ1) | [SAMUEL](https://open.spotify.com/artist/5oDDGtRl9cZgP3C5kAmsyk) | [Work Up A Sweat](https://open.spotify.com/album/1X9RmlMgTKBp0LoTQIdfpB) | 4:52 |
 | 20 | [Thumbs](https://open.spotify.com/track/562xYG9Z7SIW2Y2Xo8wT3T) | [The Ferguson Rogers Process](https://open.spotify.com/artist/2KZgII3Qz3Q0ENfHQW2zJW), [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua), [Tim Rogers](https://open.spotify.com/artist/47iske9mJ4gsyF5ZWf4Tx5) | [Thumbs](https://open.spotify.com/album/31iwBZBPSNQOCAD4y3TN9u) | 3:16 |
 | 21 | [Stick Around](https://open.spotify.com/track/4T3TYIJ3SW9qSxTMCAodId) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Stick Around](https://open.spotify.com/album/3Wl5yjsJwKmoKVOAEfSTGJ) | 3:59 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 44 | [Space](https://open.spotify.com/track/42V2DWLTOfNoDSnZK9TxRu) | [Varoc](https://open.spotify.com/artist/7yChLksdszEvGJssSRdaTJ) | [Space](https://open.spotify.com/album/2D7WN52neOqsmlGQ9IH84y) | 2:48 |
 | 45 | [Akin ay akin](https://open.spotify.com/track/6rZwQGn6hKAztKYwYkX1Mk) | [Sheed](https://open.spotify.com/artist/6WqpI59QEG4AJpleDh0wqL), [Gian franco](https://open.spotify.com/artist/4Qlp0nGuFjteUzjqGwEqAh) | [Akin ay akin](https://open.spotify.com/album/7DW7JSYmBcYJvjZeKNm2z0) | 4:47 |
 | 46 | [Hanggang sa huli](https://open.spotify.com/track/6fZGVYOvQ7OK1OT68QdrOQ) | [Pataka](https://open.spotify.com/artist/4XiqbFzU6Q5hdUwoswmPDx) | [Hanggang sa Huli](https://open.spotify.com/album/4T3feT6UVhAS1sWPJaGFx7) | 5:09 |
-| 47 | [Rent my heart for free](https://open.spotify.com/track/7dDoVy08CYe2mvDZqlc79d) | [April Gallo](https://open.spotify.com/artist/6024tYKTQo8EtEFbc0RtM4) | [Rent my heart for free](https://open.spotify.com/album/67ptfnCU7QLBVTFWYcRoqP) | 3:28 |
+| 47 | [Rent My Heart For Free](https://open.spotify.com/track/7dDoVy08CYe2mvDZqlc79d) | [April Gallo](https://open.spotify.com/artist/6024tYKTQo8EtEFbc0RtM4) | [Rent My Heart For Free](https://open.spotify.com/album/67ptfnCU7QLBVTFWYcRoqP) | 3:28 |
 | 48 | [The Great Escape](https://open.spotify.com/track/0s2hMxWDYLJ3JdVE8EznKF) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Great Escape](https://open.spotify.com/album/1OX0CqRGuNUfqIB4S8CT0m) | 3:31 |
 | 49 | [You're Getting to Be a Habit With Me](https://open.spotify.com/track/2bs51JHesQ5giFaZ9a3kaA) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [You're Getting to Be a Habit With Me](https://open.spotify.com/album/4rwrlAcmEKECpy0L736GXQ) | 4:00 |
 | 50 | [Crash Out \(feat\. Fivio Foreign\)](https://open.spotify.com/track/2Fo1k5q2XA9HiVLGd9RykS) | [Gino Mondana](https://open.spotify.com/artist/2vsRoBbScJXFoPggL3co4M), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Crash Out \(feat\. Fivio Foreign\)](https://open.spotify.com/album/0VpAZd4KH8YGe2e5pjM8P6) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Midland, Keith Urban, Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,057 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,182 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 56 | [Drink and Cry](https://open.spotify.com/track/1KM4d81F3QAOoCcxLd6zd8) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Drink and Cry](https://open.spotify.com/album/4g7fuy6hBkmBBJK0LURVKK) | 3:16 |
 | 57 | [What You Know](https://open.spotify.com/track/7Ei4vRTpM58BKgntE9E0Uh) | [Caleb Lathrop](https://open.spotify.com/artist/40bsTqQeta2NZ0KHrRqN7w) | [What You Know](https://open.spotify.com/album/6HNqpzflJvcZuCgDpXDTiE) | 2:56 |
 | 58 | [The Jesus I Know](https://open.spotify.com/track/62FEtKRUj9QXjQgO40eJ16) | [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [The Jesus I Know](https://open.spotify.com/album/2VXaTH9YwEfPyO1m4j9nSs) | 2:42 |
-| 59 | [Heartbreak's On You \(feat\. Jaren Johnston & John Osborne\)](https://open.spotify.com/track/67wrb0DoIbY3XdYzIXaB5f) | [Preston James](https://open.spotify.com/artist/63JypifDrLvGZIggb5y8iA), [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs), [John Osborne](https://open.spotify.com/artist/2ykJ3vU8SMONSbIyI2rmdF) | [Heartbreak's On You \(feat\. Jaren Johnston & John Osborne\)](https://open.spotify.com/album/7hwQX9TYia1YBRA6gYW706) | 3:02 |
+| 59 | [Heartbreak's On You \(feat\. Jaren Johnston & John Osborne\)](https://open.spotify.com/track/67wrb0DoIbY3XdYzIXaB5f) | [Preston James](https://open.spotify.com/artist/63JypifDrLvGZIggb5y8iA), [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs), [John Osborne](https://open.spotify.com/artist/0VW09qbufB4cciWJ3F17SG) | [Heartbreak's On You \(feat\. Jaren Johnston & John Osborne\)](https://open.spotify.com/album/7hwQX9TYia1YBRA6gYW706) | 3:02 |
 | 60 | [Famous](https://open.spotify.com/track/6hhxeMdr20WOKJB2qLicc7) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Famous](https://open.spotify.com/album/0Q8yVHvqA2QhzptUByCpcy) | 2:50 |
 | 61 | [All Hat](https://open.spotify.com/track/7Ax9o10RPjCgfZDyoNeoHA) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [All Hat](https://open.spotify.com/album/7yFBziJFD3bCpBYC95aczG) | 2:49 |
 | 62 | [Last Sunset Of Summer](https://open.spotify.com/track/7jze4pe19LUQi54akoZgx7) | [Brady Lee](https://open.spotify.com/artist/648RtwceZvelnaBXkMc15T) | [Watertown Summers, The EP](https://open.spotify.com/album/1TClmqlsPqUdfPKtG0RI3t) | 3:37 |

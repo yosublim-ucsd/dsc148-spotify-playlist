@@ -2,7 +2,7 @@
 
 ### [This Is Montell Fish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3acIik)
 
-> This is Montell Fish\. The essential tracks, all in one playlist.
+> This is Montell Fish\. Wszystkie najważniejsze utwory na jednej playliście.
 
 95 songs - 5 hr 4 min
 

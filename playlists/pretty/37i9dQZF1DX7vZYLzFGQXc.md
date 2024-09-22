@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Ellui, Richboy Hardy\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,514 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,515 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 8 | [Heaven](https://open.spotify.com/track/26VqtImtvXaWcQarKcXQme) | [Seowoo Cheong](https://open.spotify.com/artist/5BdU0nmrAiKwME2VBbsoIK) | [Heaven](https://open.spotify.com/album/0sZL4bkUxJfJ4noyrijsby) | 3:28 |
 | 9 | [Malibu](https://open.spotify.com/track/4Z7qJHwJhziFWu2XvIfz4M) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Malibu](https://open.spotify.com/album/6r2tKHFu5F8EHlhQonJHU8) | 3:17 |
 | 10 | [Our Days](https://open.spotify.com/track/1ts0mW7JtSKIyBZhEE6ekC) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Our Days \(Better Days X BaekA\)](https://open.spotify.com/album/5bKPyn2T27FE1sssGKUZWW) | 4:14 |
-| 11 | [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
+| 11 | [pros and cons](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [pros and cons](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
 | 12 | [You know, I'm just human](https://open.spotify.com/track/3b2lKEreGv85VJtLt1S6e5) | [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [When … love](https://open.spotify.com/album/1s4TOODHCyAFVnzq3V7DJs) | 3:13 |
 | 13 | [may](https://open.spotify.com/track/4UtVb9nr4iLr9aIvQgVDE2) | [Lee Ji Hee](https://open.spotify.com/artist/45xGLWVgktuDNDmHG6jOGe) | [may](https://open.spotify.com/album/0bQrk0TWcYgzeGut84UxRg) | 3:21 |
 | 14 | [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 |

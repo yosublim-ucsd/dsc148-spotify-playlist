@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Dayglow
 
-1,960 songs - 4 day 7 hr 35 min
+1,961 songs - 4 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,6 +1442,7 @@
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-12-09 |
 | [Rockstar](https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/3pwHONJw42S7p9b6djAUzA) | 3:28 | 2020-10-13\* | 2020-10-16 |
+| [Rollercoaster](https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [A Stranger Desired](https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC) | 3:00 | 2024-09-13 |  |
 | [Rollerskates](https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Emotions on Rollerskates](https://open.spotify.com/album/1gIi3xEGhV2g60G685E9cW) | 3:19 | 2020-10-13\* | 2021-02-26 |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-06-17 | 2022-10-08 |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-03-23 | 2022-07-29 |
@@ -1960,7 +1961,7 @@
 | [YOU'RE MY KIND](https://open.spotify.com/track/0g4a4Lsu9RUw8CPnRzCQZa) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP) | [WHY NOT](https://open.spotify.com/album/3uBYoiQjO3VHhcXO0yLYGY) | 3:34 | 2022-05-20 | 2022-07-29 |
 | [You're The One](https://open.spotify.com/track/6gCQOoiPsCVJWahUic1JDT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [You're The One](https://open.spotify.com/album/7Cd98dJhEkm97KdjIe4RLh) | 3:19 | 2021-05-03 | 2021-10-12 |
 | [Young Mistakes](https://open.spotify.com/track/40M9EC8kBbzOe9jIDwJ1dK) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Young Mistakes](https://open.spotify.com/album/5VQXsENfCGGvZvyZcwD3aX) | 2:51 | 2021-06-03 | 2021-06-04 |
-| [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-02-16 |  |
+| [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 | 2024-02-16 | 2024-09-22 |
 | [Your Drugs](https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Your Drugs](https://open.spotify.com/album/4llATXF3wt0UJuQKlg7iqc) | 3:23 | 2020-10-13\* | 2020-11-13 |
 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 | 2021-02-24 | 2021-05-24 |
 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-10-20 | 2021-06-03 |

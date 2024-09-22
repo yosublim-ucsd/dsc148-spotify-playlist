@@ -1,13 +1,33 @@
 {
-  "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 995340,
+  "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
+  "num_followers": 995589,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAADaZSf5awo2NX8td1M5XXPR",
+  "snapshot_id": "Zuy7AAAAAACuL+F9Ly9Jyedi/y/xqRXU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
     {
       "added_at": null,
       "album": {

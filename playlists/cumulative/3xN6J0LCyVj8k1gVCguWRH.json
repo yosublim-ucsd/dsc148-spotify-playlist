@@ -3029,6 +3029,32 @@
     },
     {
       "album": {
+        "name": "All You Are",
+        "url": "https://open.spotify.com/album/0Qem8a67DQPp8OE9VnAcC5"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Bridget Flowers",
+          "url": "https://open.spotify.com/artist/01bHswIciITWC4QGF714SJ"
+        },
+        {
+          "name": "Atharva Iyer",
+          "url": "https://open.spotify.com/artist/2oNgQciyuGICgyVLncfgP0"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226499,
+      "name": "All You Are (Atharva Iyer Remix)",
+      "url": "https://open.spotify.com/track/7Io6TttF0Azr4lS6Kw1hp2"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
       },
@@ -4420,6 +4446,24 @@
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
+    },
+    {
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f"
+      },
+      "artists": [
+        {
+          "name": "Jillian Loux",
+          "url": "https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi"
     },
     {
       "album": {
@@ -9920,7 +9964,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 203781,
       "name": "Cada vez",
       "url": "https://open.spotify.com/track/52UJWaqmJI4sP8OTJRFTTR"
@@ -32057,6 +32101,24 @@
     },
     {
       "album": {
+        "name": "If Love Is A Feeling",
+        "url": "https://open.spotify.com/album/3Ul8EtgKDbdvxvLMsfL4Lo"
+      },
+      "artists": [
+        {
+          "name": "Yasmine Ross",
+          "url": "https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190495,
+      "name": "If Love Is A Feeling",
+      "url": "https://open.spotify.com/track/47e2Qns1ODgJ78uuu3IwOL"
+    },
+    {
+      "album": {
         "name": "If Love Is All It Takes",
         "url": "https://open.spotify.com/album/6f9nk5tlaPr35sijIeelOs"
       },
@@ -54140,7 +54202,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 170031,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/4LWZaaAl0SIHwk12CDwHaU"
@@ -59616,7 +59678,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
@@ -61228,6 +61290,24 @@
       "duration_ms": 206000,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/7e4WCunNrl6i0ATIxd6ZwV"
+    },
+    {
+      "album": {
+        "name": "Summer Girl (Redux)",
+        "url": "https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By"
+      },
+      "artists": [
+        {
+          "name": "The High Plains Drifters",
+          "url": "https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238168,
+      "name": "Summer Girl (Redux)",
+      "url": "https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr"
     },
     {
       "album": {
@@ -73964,6 +74044,24 @@
       "duration_ms": 211618,
       "name": "yellow",
       "url": "https://open.spotify.com/track/3tpdKVeliliXmD6ujRfbxU"
+    },
+    {
+      "album": {
+        "name": "Yellow & Blue",
+        "url": "https://open.spotify.com/album/7d3hfDjLwjgG8HK0Kira3F"
+      },
+      "artists": [
+        {
+          "name": "BEET",
+          "url": "https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255999,
+      "name": "Yellow & Blue",
+      "url": "https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu"
     },
     {
       "album": {

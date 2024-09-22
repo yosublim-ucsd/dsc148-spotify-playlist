@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: DJ Koze
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,237 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,229 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 |
 | 75 | [Dreamweavers](https://open.spotify.com/track/7ax4HwtfP1KbxF9Q4OUdn8) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [DíSA](https://open.spotify.com/artist/4cAOGeZj3uwNHB1QR5HURM) | [Dreamweavers](https://open.spotify.com/album/4hdos8eRNVnURJOB5a7nbO) | 5:23 |
 
-Snapshot ID: `Zuye4AAAAACD1DeUKrXjvLfETPC/dG59`
+Snapshot ID: `Zuye4AAAAAAitbMODpDXck1dVq/dPSgZ`

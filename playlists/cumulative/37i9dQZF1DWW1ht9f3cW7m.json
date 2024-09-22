@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176751,
+      "name": "I Like Your Look",
+      "url": "https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8"
+    },
+    {
+      "album": {
         "name": "I Think That I'm Getting Boring",
         "url": "https://open.spotify.com/album/1q2dMzmwjff28MgF7F1afL"
       },
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 203312,
       "name": "My Head's In A Hurricane",
       "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"

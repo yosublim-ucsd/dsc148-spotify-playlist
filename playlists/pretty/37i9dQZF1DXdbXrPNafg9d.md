@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,467 likes - 175 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,592 likes - 175 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 29 | [Into Sands](https://open.spotify.com/track/2QfrO9c4zcB4MQbCmnY1YF) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Into Sands](https://open.spotify.com/album/6Du5vune5TRZrxqGUAZYir) | 4:01 |
 | 30 | [In a Dream](https://open.spotify.com/track/5d2bwCuRnCzG1YQBe32mj8) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Circles](https://open.spotify.com/album/19RVq9hovgoecbl5fqCnCL) | 2:13 |
 | 31 | [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/track/7Bdee0ienIRFLNX7bICp3b) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/album/4B41BK44XIvsqlHOipDKcp) | 2:59 |
-| 32 | [Blossom](https://open.spotify.com/track/7kjMQEGVKepeKZ3gPUDeSD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \- Deluxe](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:10 |
+| 32 | [Blossom](https://open.spotify.com/track/7kjMQEGVKepeKZ3gPUDeSD) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:10 |
 | 33 | [Loving Tree](https://open.spotify.com/track/5JQ82Ln6st0fZiqKNTj8KJ) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Loving Tree](https://open.spotify.com/album/6YKOe0o3mAqehf399jquVz) | 3:56 |
 | 34 | [The Punch!](https://open.spotify.com/track/2ZGgaE93DGLzYHokk3EuJo) | [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [KESSWA](https://open.spotify.com/artist/3PY0VHvnfFPNkUug7STno3) | [The Punch!](https://open.spotify.com/album/4Wur8eVeaymuw5iWD8NuZK) | 5:28 |
 | 35 | [Go Somewhere](https://open.spotify.com/track/0Z0c6q1buP1wJBcfUJGTwE) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Go Somewhere](https://open.spotify.com/album/55EXQ4Dc1C0GbVXfwrQxDp) | 3:22 |

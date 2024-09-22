@@ -2,7 +2,7 @@
 
 ### [This Is Avenged Sevenfold](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Ahq0)
 
-> This is Avenged Sevenfold\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Avenged Sevenfold\. Todos os maiores hits em uma só playlist.
 
 70 songs - 6 hr 20 min
 

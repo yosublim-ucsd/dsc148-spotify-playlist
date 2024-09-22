@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 172021,
+  "num_followers": 172110,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+    },
+    {
       "added_at": "2024-08-16 15:22:57",
       "album": {
         "name": "K.O.",
@@ -749,22 +765,6 @@
       "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Hooked Paw",
-        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 200378,
-      "name": "Hooked Paw",
-      "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
-    },
-    {
       "added_at": "2024-08-14 16:44:33",
       "album": {
         "name": "NONAGE",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
       },
       "artists": [
         {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+      "duration_ms": 200378,
+      "name": "Hooked Paw",
+      "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "betrayal",
-        "url": "https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h"
-      },
-      "artists": [
-        {
-          "name": "zphr",
-          "url": "https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N"
-        }
-      ],
-      "duration_ms": 224831,
-      "name": "betrayal",
-      "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Nostalgia Por Mesoz\u00f3ica",
@@ -1107,6 +1091,22 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "betrayal",
+        "url": "https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h"
+      },
+      "artists": [
+        {
+          "name": "zphr",
+          "url": "https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N"
+        }
+      ],
+      "duration_ms": 224831,
+      "name": "betrayal",
+      "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Truest",
@@ -1259,6 +1243,22 @@
       "duration_ms": 150000,
       "name": "Hesitations\u2026 (Intro)",
       "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1293,20 +1293,52 @@
       "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+        "name": "a two",
+        "url": "https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f"
       },
       "artists": [
         {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+          "name": "YUSAKU ARAI",
+          "url": "https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+      "duration_ms": 177622,
+      "name": "ocean, sea, ocean.",
+      "url": "https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+      },
+      "artists": [
+        {
+          "name": "House on the Strand",
+          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
+    },
+    {
+      "added_at": "2024-09-11 15:31:53",
+      "album": {
+        "name": "La Piscina",
+        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
+      },
+      "artists": [
+        {
+          "name": "Los Ganglios",
+          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
+        }
+      ],
+      "duration_ms": 140244,
+      "name": "La Piscina",
+      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1325,6 +1357,22 @@
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+    },
+    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1339,22 +1387,6 @@
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "La Piscina",
-        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
-      },
-      "artists": [
-        {
-          "name": "Los Ganglios",
-          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
-        }
-      ],
-      "duration_ms": 140244,
-      "name": "La Piscina",
-      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1447,22 +1479,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "a two",
-        "url": "https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f"
-      },
-      "artists": [
-        {
-          "name": "YUSAKU ARAI",
-          "url": "https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0"
-        }
-      ],
-      "duration_ms": 177622,
-      "name": "ocean, sea, ocean.",
-      "url": "https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Famous Mammals",
         "url": "https://open.spotify.com/album/58MaSPTHyIPoo6ePjpSX12"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+        "name": "Bearings: Soundtracks for the Bardos",
+        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
       "artists": [
         {
-          "name": "House on the Strand",
-          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
         }
       ],
-      "duration_ms": 327804,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
+      "duration_ms": 240868,
+      "name": "Gate VIII",
+      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Bearings: Soundtracks for the Bardos",
-        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
       },
       "artists": [
         {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+          "name": "Alena Spanger",
+          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
         }
       ],
-      "duration_ms": 240868,
-      "name": "Gate VIII",
-      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
+      "duration_ms": 204120,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1539,22 +1555,6 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
-      },
-      "artists": [
-        {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Ines",
-      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-21 04:00:00",

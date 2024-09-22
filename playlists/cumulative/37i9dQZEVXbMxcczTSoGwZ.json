@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -6677,6 +6677,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176670,
+      "name": "Edelleen sama",
+      "url": "https://open.spotify.com/track/0rlPhyKailqQ7cPH2LtUeV"
+    },
+    {
+      "album": {
         "name": "Edelleen sua",
         "url": "https://open.spotify.com/album/6oHI1mc2qNAeB58MsxN6uV"
       },
@@ -7064,7 +7082,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 193442,
       "name": "Ekaa kertaa",
       "url": "https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2"
@@ -10138,7 +10156,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -16258,7 +16276,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 195535,
       "name": "Kauniita",
       "url": "https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS"
@@ -16746,6 +16764,28 @@
       "duration_ms": 183915,
       "name": "Kierr\u00e4n sen kaukaa",
       "url": "https://open.spotify.com/track/2kMXQWEPwLKrMcjG6Cih5Q"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184647,
+      "name": "Kiireinen nainen (feat. ibe)",
+      "url": "https://open.spotify.com/track/14wiEbecEf1jSWiflaxHvA"
     },
     {
       "album": {
@@ -17984,6 +18024,24 @@
       "duration_ms": 180492,
       "name": "Kuolen v\u00e4h\u00e4n joka kerta",
       "url": "https://open.spotify.com/track/5UY43d7ZBUafyzNT3LHS0D"
+    },
+    {
+      "album": {
+        "name": "Kuollut liekki",
+        "url": "https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Kuollut liekki",
+      "url": "https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ"
     },
     {
       "album": {
@@ -19626,10 +19684,32 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 146666,
       "name": "Lightskinboy (feat. Sexmane)",
       "url": "https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Lightskinboy (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g"
     },
     {
       "album": {
@@ -20721,6 +20801,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189189,
+      "name": "L\u00e4het\u00e4\u00e4n menee",
+      "url": "https://open.spotify.com/track/5w5EEBseWfDwZpexgqmTsI"
+    },
+    {
+      "album": {
         "name": "L\u00e4htee k\u00e4sist\u00e4",
         "url": "https://open.spotify.com/album/4IGmEBV2AVZbMceEf05bCb"
       },
@@ -21082,7 +21180,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 174240,
       "name": "maasta taivaaseen",
       "url": "https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW"
@@ -23409,6 +23507,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156533,
+      "name": "Mit\u00e4 s\u00e4 meinaat",
+      "url": "https://open.spotify.com/track/02bzUKyVOoVt7cyVcsBJI7"
+    },
+    {
+      "album": {
         "name": "T\u00c4YTYY YMM\u00c4RT\u00c4\u00c4",
         "url": "https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba"
       },
@@ -23743,6 +23859,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292539,
+      "name": "Mood swings",
+      "url": "https://open.spotify.com/track/2kXJYC08uAjkfHsyBpgYDn"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -24021,6 +24155,28 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238708,
+      "name": "Mun hetki",
+      "url": "https://open.spotify.com/track/6O0bKJCz6gITZQgxrHsX0k"
+    },
+    {
+      "album": {
         "name": "Mun kulta",
         "url": "https://open.spotify.com/album/5zWKU2KOp2K9bLZMnI0TMp"
       },
@@ -24256,6 +24412,24 @@
       "duration_ms": 175779,
       "name": "Munkaa",
       "url": "https://open.spotify.com/track/6uBUE6pgQnHYq64cENGtrb"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162117,
+      "name": "Muotipoliisi",
+      "url": "https://open.spotify.com/track/2suOcQBfljDdURx1xHyWpa"
     },
     {
       "album": {
@@ -25540,7 +25714,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 165921,
       "name": "Norjalaista puuta",
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
@@ -25820,7 +25994,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 152326,
       "name": "Nuori & Tyhm\u00e4",
       "url": "https://open.spotify.com/track/5syJf0eS8aOziKeSFe4APG"
@@ -31006,7 +31180,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -35067,6 +35241,24 @@
     },
     {
       "album": {
+        "name": "Syystakkikausi",
+        "url": "https://open.spotify.com/album/7gDSmVPbTipAEguZK2YpD0"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Syystakkikausi",
+      "url": "https://open.spotify.com/track/73uA8BvDUEOOknZGekRiiB"
+    },
+    {
+      "album": {
         "name": "S\u00e4",
         "url": "https://open.spotify.com/album/0QflDKUFzaVYXxvo1CDnvT"
       },
@@ -35396,6 +35588,24 @@
       "duration_ms": 245506,
       "name": "Tahdon",
       "url": "https://open.spotify.com/track/6uH0ZNvrGpJ9YNcQgeydmw"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176788,
+      "name": "Taikuri",
+      "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
     },
     {
       "album": {
@@ -35754,7 +35964,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -35834,7 +36044,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 197027,
       "name": "Taulut (feat. Costi)",
       "url": "https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U"
@@ -38621,6 +38831,24 @@
     },
     {
       "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Uus",
+      "url": "https://open.spotify.com/track/78fAy9vbroTOHvtT360axM"
+    },
+    {
+      "album": {
         "name": "UUS BAE (feat. Kube & Bizi)",
         "url": "https://open.spotify.com/album/14Yqzsi20eor514wsZZX6s"
       },
@@ -39620,7 +39848,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 222016,
       "name": "Viel yhen kerran",
       "url": "https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd"
@@ -41784,6 +42012,24 @@
       "duration_ms": 148472,
       "name": "Yks Kaks",
       "url": "https://open.spotify.com/track/0vy9eNY5Rr41ZAvDdeZ1r7"
+    },
+    {
+      "album": {
+        "name": "ROADMAN",
+        "url": "https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148472,
+      "name": "Yks Kaks",
+      "url": "https://open.spotify.com/track/16Wa4Kq12iWEOgj1TC2FXn"
     },
     {
       "album": {

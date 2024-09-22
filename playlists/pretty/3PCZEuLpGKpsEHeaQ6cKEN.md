@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Louis III, Armin van Buuren
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,981 likes - 213 songs - 11 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,970 likes - 213 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 18 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
 | 19 | [Surrender Your Love](https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love](https://open.spotify.com/album/1R4yShXuxu2vVoM01StCG6) | 3:24 |
 | 20 | [Say You'll Be There](https://open.spotify.com/track/4hsD3L9ocIA6Rvr5qa5lZ3) | [Beth](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Say You'll Be There](https://open.spotify.com/album/0f8ksajkdkK0iYdMOMk7jr) | 3:13 |
-| 21 | [Good Life](https://open.spotify.com/track/5Z3WU3thWNFLBeJF3Mslge) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Danny Lees](https://open.spotify.com/artist/5g9D40FjbNaSHhmc0JBLPk) | [Good Life](https://open.spotify.com/album/7hLSmXa2KoUxluKnTTzc5X) | 2:15 |
+| 21 | [Good Life](https://open.spotify.com/track/5Z3WU3thWNFLBeJF3Mslge) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Danny Lees](https://open.spotify.com/artist/5g9D40FjbNaSHhmc0JBLPk), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/7hLSmXa2KoUxluKnTTzc5X) | 2:15 |
 | 22 | [Living in Color](https://open.spotify.com/track/2lsNq7K3vPA9ONx4wVOdql) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jeoff Harris](https://open.spotify.com/artist/434nBUvWgd5pcPv2bmyKy4) | [Living in Color](https://open.spotify.com/album/2mXd7GKfRyX2LyXMCmZKeE) | 2:52 |
 | 23 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 |
 | 24 | [Favorite Sound \- Rework](https://open.spotify.com/track/6oyNsbIzH8CTznRK9G8C6V) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [NK](https://open.spotify.com/artist/0zB11hnnEiEdMPwpszisGk) | [Favorite Sound](https://open.spotify.com/album/6ahjKQmOhqt4x0DajhbsIi) | 2:42 |

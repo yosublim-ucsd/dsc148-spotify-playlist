@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,199 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,201 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 5 | [Time Machine \- Daughter Version](https://open.spotify.com/track/1uHtISIBA8DrU6agy9Qvu2) | [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Time Machine](https://open.spotify.com/album/1Wv1DcgXkdS5RTU8Y0Bf2w) | 3:23 |
 | 6 | [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 |
 | 7 | [These are the Days](https://open.spotify.com/track/7fTB6AmnnOm1zKI5QN69Yc) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/1OFLHuLwgMSUP7PEjaIWtk) | 4:51 |
-| 8 | [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 |
+| 8 | [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 |
 | 9 | [Abba](https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Forever](https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7) | 3:08 |
 | 10 | [Anything Like Me](https://open.spotify.com/track/2FGGvxPrVkpJ3lNZQfottL) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:13 |
 | 11 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 |

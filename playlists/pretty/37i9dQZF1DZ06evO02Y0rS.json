@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 158965,
+  "num_followers": 158992,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAABP1AlLf7Wj9Od3uejKNzhj",
+  "snapshot_id": "Zuy7AAAAAAAvuqeywqonXOIlRZ+OU7Jt",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 224293,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH"
+      "duration_ms": 259839,
+      "name": "We Could Forever",
+      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 259839,
-      "name": "We Could Forever",
-      "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
+      "duration_ms": 224293,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH"
     },
     {
       "added_at": null,

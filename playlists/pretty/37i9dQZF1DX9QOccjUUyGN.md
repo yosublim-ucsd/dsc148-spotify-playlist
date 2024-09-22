@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,354 likes - 87 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,352 likes - 87 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

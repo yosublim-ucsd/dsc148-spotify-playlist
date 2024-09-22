@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-145 songs - 10 hr 59 min
+146 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 | 2022-11-01 |  |
 | [Old Love \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/2KAQMHnDLzc3jr9tlLSJIC) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 7:51 | 2022-08-05 | 2022-11-02 |
 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 | 2022-09-11 |  |
+| [One Woman](https://open.spotify.com/track/2Qp9PjglYUa3rwgi2hRrMN) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One Woman](https://open.spotify.com/album/2g21A6cU3aJSXGmDxwJkL9) | 4:50 | 2024-09-22 |  |
 | [Peaches And Diesel](https://open.spotify.com/track/1Ahz461HRMTb87MMGT8AUY) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary](https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO) | 4:48 | 2022-08-11 | 2022-10-13 |
 | [Please Be With Me](https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 3:26 | 2023-05-04 | 2024-07-23 |
 | [Pompous Fool](https://open.spotify.com/track/5EobzV1JmNMIijNeOTESTS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pompous Fool](https://open.spotify.com/album/2BPC18y4vgEymeHhdhnacw) | 4:45 | 2022-08-05 | 2022-11-21 |

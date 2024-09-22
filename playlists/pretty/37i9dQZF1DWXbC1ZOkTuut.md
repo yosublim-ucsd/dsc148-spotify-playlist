@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,037 likes - 246 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,050 likes - 246 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

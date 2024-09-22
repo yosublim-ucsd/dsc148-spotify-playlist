@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,602 songs - 3 day 11 hr 14 min
+1,604 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 | 2023-02-24 |
 | [Circus X](https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Circus X](https://open.spotify.com/album/6mk9b0Q51qdxQUVLP8MKfy) | 3:04 | 2024-02-24 | 2024-04-19 |
 | [Clap](https://open.spotify.com/track/5N2C2mNYf5l062MTTgnoF8) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Clap](https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn) | 2:57 | 2023-10-26 | 2024-02-09 |
-| [CLIMAX](https://open.spotify.com/track/50PQ2pO395WJbC5r1qEY1v) | [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [CLIMAX](https://open.spotify.com/album/5rpwNzj2xjd0ipxb4BR5ne) | 2:57 | 2024-08-22 |  |
+| [CLIMAX](https://open.spotify.com/track/50PQ2pO395WJbC5r1qEY1v) | [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [CLIMAX](https://open.spotify.com/album/5rpwNzj2xjd0ipxb4BR5ne) | 2:57 | 2024-08-22 | 2024-09-22 |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
@@ -414,6 +414,7 @@
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-15 | 2022-12-16 |
 | [Fake Front](https://open.spotify.com/track/1NK9I6zrU9TbVtV82umZHe) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Fake Front](https://open.spotify.com/album/6ltm5Hbwmss9RyCBhOJqPB) | 3:13 | 2022-05-26 | 2022-06-11 |
 | [Fakka ur](https://open.spotify.com/track/2n2ObgjImm2neSROK9phmP) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic) | [Fakka ur](https://open.spotify.com/album/3b3d4OzKPwi8T54rEZvkrF) | 2:55 | 2024-04-04 | 2024-05-10 |
+| [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 |  |
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 | 2023-09-09 |
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
@@ -462,7 +463,7 @@
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
 | [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-25 |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
-| [Free](https://open.spotify.com/track/4siNizaereDklD0Vkpului) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Free](https://open.spotify.com/album/5TP42k6jQyno6vtoBAksAe) | 2:24 | 2024-08-15 |  |
+| [Free](https://open.spotify.com/track/4siNizaereDklD0Vkpului) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Free](https://open.spotify.com/album/5TP42k6jQyno6vtoBAksAe) | 2:24 | 2024-08-15 | 2024-09-22 |
 | [Free My Soul](https://open.spotify.com/track/2NY9ERTEQnP0VOnHhMOW90) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [Free My Soul](https://open.spotify.com/album/7MVn5ssUDz8uXQT2XZ2jek) | 2:54 | 2024-05-03 | 2024-06-07 |
 | [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 | 2022-09-03 |
 | [Frenemy](https://open.spotify.com/track/38fGD18era2pGm0GO82sSn) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Frenemy](https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt) | 2:35 | 2024-01-11 | 2024-03-08 |
@@ -1122,6 +1123,7 @@
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2023-08-11 |
 | [River In Reverse](https://open.spotify.com/track/6lQoYDLeDtIbvBAuslKy4d) | [Winhill/Losehill](https://open.spotify.com/artist/7fXcDsj4r6w3mVHauFRNqu) | [The Grief](https://open.spotify.com/album/6SzQzNJsxlpH9k3oHHSIy5) | 3:58 | 2022-06-30 | 2022-07-13 |
+| [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 |  |
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |
 | [Rosa nejlikor](https://open.spotify.com/track/0czj9HxnkaotIbcXazZ6PG) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Rosa nejlikor](https://open.spotify.com/album/0ReOX2s7WHUhmYcAwRxDrZ) | 3:19 | 2022-04-07 | 2022-04-29 |

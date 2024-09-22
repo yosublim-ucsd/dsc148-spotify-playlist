@@ -2,7 +2,7 @@
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This is Nick Drake\. The essential tracks, all in one playlist.
+> This is Nick Drake\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 74 songs - 3 hr 30 min
 

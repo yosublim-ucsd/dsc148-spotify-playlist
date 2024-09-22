@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5V00ZhzyrSKM6WSBn44gE3"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -3915,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Doner Kebab Nacho Alejandro Garnacho",
+        "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
+      },
+      "artists": [
+        {
+          "name": "Y2K SPORTS",
+          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Doner Kebab Nacho Alejandro Garnacho",
+      "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
+    },
+    {
+      "album": {
         "name": "Cathexis",
         "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
       },
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 109851,
       "name": "Gib\u2018s Mir",
       "url": "https://open.spotify.com/track/2mIkDNv5RqhecXE01zdLSX"
@@ -10742,7 +10760,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 137570,
       "name": "Nardo RS",
       "url": "https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8"
@@ -11650,7 +11668,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Papa Will Ins Popoloch",
       "url": "https://open.spotify.com/track/6FkYU0hPFBXGfFbYV9QXl2"
@@ -11950,7 +11968,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 123680,
       "name": "Perfekte Welle (feat. Juli)",
       "url": "https://open.spotify.com/track/473pag6qCiVAI3Yeq1dktT"
@@ -12448,6 +12466,28 @@
       "duration_ms": 138837,
       "name": "Pyrotechnik Ist Doch Kein Verbrechen",
       "url": "https://open.spotify.com/track/2Xd6oEHmMszokWdcJAnjxw"
+    },
+    {
+      "album": {
+        "name": "PYTHON FUNK",
+        "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74285,
+      "name": "PYTHON FUNK",
+      "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
     },
     {
       "album": {
@@ -13206,7 +13246,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 146000,
       "name": "SCH",
       "url": "https://open.spotify.com/track/2QM9YY78uvdaRwWKjMqErv"
@@ -13258,7 +13298,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 176232,
       "name": "Scheiss Egal - District Red Remix",
       "url": "https://open.spotify.com/track/3LDWTfooMxOcQBP8WZzToC"

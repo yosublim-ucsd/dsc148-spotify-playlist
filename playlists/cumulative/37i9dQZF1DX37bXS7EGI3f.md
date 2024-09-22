@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-624 songs - 1 day 23 hr 52 min
+625 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Storm](https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Renaissance](https://open.spotify.com/album/1Ki56K82avE7nTkZEyVIE7) | 3:29 | 2022-07-13 | 2022-07-30 |
 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 | 2022-08-19 |  |
 | [String Theory](https://open.spotify.com/track/6KKw70o8ZTy8LVltAyUwGw) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [String Theory](https://open.spotify.com/album/2VbMfWccghg85IgMXkaPiv) | 4:56 | 2022-07-13 | 2022-07-30 |
-| [Strive](https://open.spotify.com/track/1gGmVuEuxOrYFuvTPD9fq8) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Strive](https://open.spotify.com/album/1pyu729DDMTA40MwdDeSQi) | 3:23 | 2024-09-20 |  |
+| [Strive](https://open.spotify.com/track/1gGmVuEuxOrYFuvTPD9fq8) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Strive](https://open.spotify.com/album/1pyu729DDMTA40MwdDeSQi) | 3:23 | 2024-09-20 | 2024-09-22 |
 | [Strong](https://open.spotify.com/track/5fIjngwWngFucpYJdRHhQZ) | [Anette Olzon](https://open.spotify.com/artist/37561fPR6pVMtyLd3eOFys) | [Strong](https://open.spotify.com/album/0xIa7oSXgzJAERXQqa1r6f) | 4:27 | 2021-09-11 | 2022-05-07 |
 | [Strut](https://open.spotify.com/track/6uHpr84ATepPm1NeJ7HXq0) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Story I](https://open.spotify.com/album/3a0BquAREUzoKbXH51pl3x) | 4:32 | 2022-07-13 | 2022-07-30 |
 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 | 2022-07-29 |  |
@@ -508,6 +508,7 @@
 | [The Call of the Mountains](https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT), [Masha Scream](https://open.spotify.com/artist/0rKNwdazSGDxEvTaNNxu6X) | [The Call of the Mountains & Ambiramus in Russian](https://open.spotify.com/album/0ifBPqJ1ol8j1H0G8cjZPa) | 4:14 | 2020-11-29\* | 2021-07-10 |
 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 | 2024-02-23 |  |
 | [The Crown and the Ring](https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Crown and the Ring](https://open.spotify.com/album/2QGVSOtuG50JyTMa9EUQss) | 5:17 | 2021-08-14 | 2022-04-09 |
+| [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 | 2024-09-20 |  |
 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 | 2023-04-14 |  |
 | [The Eye of Ra](https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [Chaos\. Order\. Renewal.](https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj) | 3:04 | 2022-07-13 | 2022-07-27 |
 | [The Final Sacrifice](https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Final Sacrifice](https://open.spotify.com/album/2xJzhdiI0vskP79u3CYHMR) | 5:03 | 2021-05-21 | 2022-01-08 |

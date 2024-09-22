@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Dyna V
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,532 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,542 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK), [Nam Joyy](https://open.spotify.com/artist/5EmyuvZ2el2R60zp7eCok8) | [Trốn Những Đau Thương \(feat\. Nam Joyy\)](https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4) | 3:39 |
 | 3 | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/track/42MPizZIHYhxzXVJ4DyLFS) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Cô Ta Luôn Đúng \(feat\. Dani D\)](https://open.spotify.com/album/3vqMiWee53qdzDXPhowGu4) | 4:04 |
 | 4 | [cứ để em lo](https://open.spotify.com/track/4FsGxuRrheMWN0nApLQ3B2) | [salmon](https://open.spotify.com/artist/2xHirxzZNMj4aNQ5gm3E7O), [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [ocean.](https://open.spotify.com/artist/2uogG5rfMBSXPbm8pwQaAF) | [bittersweet](https://open.spotify.com/album/5M3qG8rKExBTT9itcJBeP1) | 2:56 |
-| 5 | [Waterfall](https://open.spotify.com/track/7gBiJ63vMrVQcFkKRHRTIA) | [Dyna V](https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E) | [Waterfall](https://open.spotify.com/album/1eoQQOw7Ppp8hEUI4M6WEX) | 3:10 |
+| 5 | [Waterfall](https://open.spotify.com/track/7gBiJ63vMrVQcFkKRHRTIA) | [Dyna V](https://open.spotify.com/artist/3YFZn7pIAl5G7sIdekbI1E), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Waterfall](https://open.spotify.com/album/1eoQQOw7Ppp8hEUI4M6WEX) | 3:10 |
 | 6 | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/track/2whoMvTSstJqIS97nkV86c) | [4ward](https://open.spotify.com/artist/3ti1GHWONsfMrH0SdMeFQr), [HKayy](https://open.spotify.com/artist/0apE0aOjydd6Dmaw22mncd), [XNBC](https://open.spotify.com/artist/2XHgi3GL7NWNWoY6b6JqvK) | [bạn thân tự dưng ngọt ngào](https://open.spotify.com/album/7vKZc4dEv9VOfLtoQW76Zi) | 3:51 |
 | 7 | [Bí Đỏ](https://open.spotify.com/track/3QXjaVyveOkMmO99IH4ELL) | [Mũ Len.](https://open.spotify.com/artist/45lpgI6ITJrVqau83nBFwN), [dknâgn](https://open.spotify.com/artist/0Fl954pzIFCYSQgdWo30c1) | [Bí Đỏ](https://open.spotify.com/album/11YskLhhBfsof3IjN8sCHq) | 2:51 |
 | 8 | [MAY MẮN](https://open.spotify.com/track/0DicnTzawWwRU5C76dSr4w) | [MiQ](https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm), [Dusky](https://open.spotify.com/artist/0uujlZ3ZqFabsl6dztOMC7), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C) | [MAY MẮN](https://open.spotify.com/album/3ck93tJpX84TltnWX2VVgj) | 3:35 |

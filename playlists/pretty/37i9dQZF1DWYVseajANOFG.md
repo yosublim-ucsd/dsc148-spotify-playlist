@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Barbel
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,224 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,263 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 6 | [La Ruta](https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [La Ruta](https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn) | 3:41 |
 | 7 | [Baby Gangster](https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [Baby Gangster](https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g) | 3:59 |
 | 8 | [La Niña Consentida](https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3) | [La Niña Consentida](https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ) | 4:59 |
-| 9 | [Si Te Vas](https://open.spotify.com/track/591VEQvLB3OKAjDM1nOOae) | [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7), [Makano](https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc) | [Si Te Vas](https://open.spotify.com/album/6XYX6pdP67mlrAfTBfkZAN) | 3:00 |
+| 9 | [Te Vas](https://open.spotify.com/track/591VEQvLB3OKAjDM1nOOae) | [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7), [Makano](https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc) | [Te Vas](https://open.spotify.com/album/6XYX6pdP67mlrAfTBfkZAN) | 3:00 |
 | 10 | [BESITOS](https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [BESITOS](https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX) | 2:28 |
 | 11 | [Tu Chacal](https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz) | [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [Tu Chacal](https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w) | 2:51 |
 | 12 | [Tu Traición](https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y) | [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7), [Aspirante](https://open.spotify.com/artist/0lsWSzy0GnThN26ko4tCMf) | [Tu Traición](https://open.spotify.com/album/23zddyJgHjyJIWldCJBYJX) | 3:10 |

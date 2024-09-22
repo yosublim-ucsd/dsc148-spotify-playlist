@@ -2,7 +2,7 @@
 
 ### [This Is Lakeyah](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d2pdS)
 
-> This is Lakeyah\. The essential tracks, all in one playlist.
+> This Is Lakeyah\. Los temas esenciales, todos en una lista.
 
 54 songs - 2 hr 20 min
 

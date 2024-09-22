@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=Y3NfsvD3TQGd\_AIxZZX4Tw">Tate McRae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

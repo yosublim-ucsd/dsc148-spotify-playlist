@@ -2,7 +2,7 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
 
 146 songs - 16 hr 14 min
 

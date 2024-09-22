@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Raspyy in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,199 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,196 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 7 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
 | 8 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
 | 9 | [NGMI](https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [NGMI](https://open.spotify.com/album/02JumOFfyMhhR7yeBec2Ek) | 2:10 |
-| 10 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan & Intifaya](https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
+| 10 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
 | 11 | [Contigo](https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Contigo](https://open.spotify.com/album/78xTjDRmktseI106DiEoIG) | 2:20 |
 | 12 | [Mentale](https://open.spotify.com/track/6FzhWQuJWyWvbdUad1xEPb) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Mentale](https://open.spotify.com/album/1ijWVZdDagxdMarep595Uc) | 2:00 |
 | 13 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 |

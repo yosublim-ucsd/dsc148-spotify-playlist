@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,255 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,271 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 |
 | 2 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 |
 | 3 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 |
-| 4 | [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
+| 4 | [pros and cons](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [pros and cons](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 |
 | 5 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 |
 | 6 | [Best Part](https://open.spotify.com/track/1Ik2R65BbnFxfv3byMoLko) | [Hyeli](https://open.spotify.com/artist/6k1itI6W0whemoxvE2v5NG) | [Best Part](https://open.spotify.com/album/0fJnucFzUQfKFS3J2TPp6o) | 3:05 |
 | 7 | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/track/0Ph88trmaZJoua1Fluu3RQ) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8), [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Fade away \(Feat\. Wilcox\)](https://open.spotify.com/album/2WmPIKfHBw3oGhPmulmujp) | 3:23 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 19 | [Dress Shirt](https://open.spotify.com/track/1Wq0QiKBsiIjmb1fBMoiyl) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Dress Shirt](https://open.spotify.com/album/4TFQFq37HQ9LWa8KeqQ34g) | 2:30 |
 | 20 | [Perfect Moment](https://open.spotify.com/track/6cqwLE61pizVHv0nbuodzn) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Perfect Moment](https://open.spotify.com/album/0DKtnVlKm6G9R1xnoiuUgT) | 2:16 |
 | 21 | [Summer Film](https://open.spotify.com/track/4GxzpNi392N3WKWeH6pcDF) | [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Summer Film](https://open.spotify.com/album/2c3oSnPNFVp5c6mPk4AiDM) | 3:18 |
-| 22 | [Superpower \(Feat\. J.O.Y\)](https://open.spotify.com/track/0EwVpYFx8wxy3ccd6vCkjY) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Superpower](https://open.spotify.com/album/1qXyCHvL6mgPm5lbDXVKRG) | 2:25 |
+| 22 | [Superpower \(Feat\. J.O.Y\)](https://open.spotify.com/track/0EwVpYFx8wxy3ccd6vCkjY) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Superpower](https://open.spotify.com/album/1qXyCHvL6mgPm5lbDXVKRG) | 2:25 |
 | 23 | [Nostril \(feat\. Shiv\)](https://open.spotify.com/track/75WdqOXeNjQ6gnosWogIt7) | [Shane](https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v), [Shiv](https://open.spotify.com/artist/3cKcBmqQLmDK4ChXSGM7Tf) | [Nostril](https://open.spotify.com/album/5sPQicxekeYu8MyhjVr9xQ) | 2:19 |
 | 24 | [Y KIKI](https://open.spotify.com/track/1Bp3T0oh86HBRX6foLFxVm) | [0do](https://open.spotify.com/artist/3223iSRhZlk0zQE1JhED6H) | [SDN](https://open.spotify.com/album/7tYV3v4vMAOzPX1oluFpJ4) | 2:22 |
 | 25 | [Arcade](https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/6EcuIThgkeOxxtjmf4lHSf) | 3:19 |

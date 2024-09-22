@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59165,
+  "num_followers": 59166,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -287,7 +287,27 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "What Happens Now? - Deluxe",
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
         "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
       },
       "artists": [
@@ -425,7 +445,7 @@
         },
         {
           "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/4YunNS0WnIipSlLfPG2f5Y"
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
       "duration_ms": 164628,
@@ -555,42 +575,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Right?",
-        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 176396,
-      "name": "Right?",
-      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Right?",
+        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 176396,
+      "name": "Right?",
+      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
         "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 230975,
       "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
       "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Someone Was Listening (from Life is Strange)",
+        "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Someone Was Listening (from Life is Strange)",
+      "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -687,6 +703,38 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 180713,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Old Memories",
+        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Old Memories",
+      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -707,22 +755,6 @@
       "duration_ms": 152470,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Old Memories",
-        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Old Memories",
-      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -775,6 +807,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Fakta: Fucked Up",
+        "url": "https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Fakta: Fucked Up",
+      "url": "https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Motorcycle",
         "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
       },
@@ -803,6 +851,22 @@
       "duration_ms": 292408,
       "name": "luminary rainbows",
       "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Thee Unknown",
+        "url": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Thee Unknown",
+      "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -839,6 +903,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Ramlar jag s\u00e5 faller allt",
+        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Ramlar jag s\u00e5 faller allt",
+      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Innerst Inne",
         "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
       },
@@ -855,22 +935,6 @@
       "duration_ms": 155300,
       "name": "Innerst Inne",
       "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Ramlar jag s\u00e5 faller allt",
-        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
-      },
-      "artists": [
-        {
-          "name": "J1",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "Ramlar jag s\u00e5 faller allt",
-      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -975,22 +1039,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC"
       },
@@ -1003,6 +1051,22 @@
       "duration_ms": 188176,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1043,22 +1107,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
-      },
-      "artists": [
-        {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Vilken del av oss gick fel?",
         "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
       },
@@ -1071,6 +1119,22 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
+      },
+      "artists": [
+        {
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1107,22 +1171,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Might Destroy You",
-        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
-      },
-      "artists": [
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Might Destroy You",
-      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Sprit & Blondiner",
         "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
       },
@@ -1139,6 +1187,22 @@
       "duration_ms": 203571,
       "name": "Sprit & Blondiner",
       "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Might Destroy You",
+        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Might Destroy You",
+      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1179,6 +1243,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Sockerdricka",
+        "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
+      },
+      "artists": [
+        {
+          "name": "Petrus",
+          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Sockerdricka",
+      "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Days Like These",
         "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
       },
@@ -1207,22 +1287,6 @@
       "duration_ms": 175555,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Sockerdricka",
-        "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
-      },
-      "artists": [
-        {
-          "name": "Petrus",
-          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Sockerdricka",
-      "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1455,70 +1519,6 @@
       "duration_ms": 236842,
       "name": "Pussycat.",
       "url": "https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5"
-      },
-      "artists": [
-        {
-          "name": "Shenie Fogo",
-          "url": "https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy"
-        }
-      ],
-      "duration_ms": 184196,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "You\u2019re Breaking My Heart",
-        "url": "https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59"
-      },
-      "artists": [
-        {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
-        }
-      ],
-      "duration_ms": 209091,
-      "name": "You\u2019re Breaking My Heart",
-      "url": "https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Imagine Paradise",
-        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
-      },
-      "artists": [
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        }
-      ],
-      "duration_ms": 237655,
-      "name": "Imagine Paradise",
-      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Se p\u00e5 oss",
-        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
-      },
-      "artists": [
-        {
-          "name": "Far\u00e5ker",
-          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "Se p\u00e5 oss",
-      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
     }
   ],
   "unique_name": "p\u00e5 repeat",

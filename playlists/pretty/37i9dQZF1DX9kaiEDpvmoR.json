@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92201,
+  "num_followers": 92199,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -207,7 +207,7 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Atlas - Outtakes & Acoustics",
+        "name": "Atlas (Outtakes & Acoustics)",
         "url": "https://open.spotify.com/album/6qWPpu964E3p2WcHg9q5lF"
       },
       "artists": [
@@ -217,7 +217,7 @@
         }
       ],
       "duration_ms": 243720,
-      "name": "Waiting For The Storm To Pass",
+      "name": "Waiting for the Storm to Pass",
       "url": "https://open.spotify.com/track/3MFAqUVRhIj3LBmoodruF8"
     },
     {
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "right person, wrong time",
         "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Ljusare moln",
         "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "The Rest Of The Best - Vol. 2",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 207300,
       "name": "Sally/Hungry Eyes",
       "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "The Rest Of The Best - Vol. 2",
-        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "Communication - Polar Session '01",
-      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
       "artists": [
         {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 227400,
       "name": "Viker inte ner mig \u00e4n",
       "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
       "artists": [
         {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 199760,
       "name": "If You Lose Her, You're A Loser",
       "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "\u00c4nglarna",
-        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "\u00c4nglarna",
-      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 181106,
       "name": "Lagt kort ligger",
       "url": "https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "En v\u00e4n till mig",
+        "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 157261,
+      "name": "En v\u00e4n till mig",
+      "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Finish Line",
         "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
       },
@@ -1231,22 +1263,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Misemotional",
-        "url": "https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Atlantic",
-      "url": "https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "COWBOY",
         "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
       },
@@ -1259,6 +1275,22 @@
       "duration_ms": 203381,
       "name": "COWBOY",
       "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Misemotional",
+        "url": "https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Atlantic",
+      "url": "https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1279,6 +1311,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Tiden f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "Tiden f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
         "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
       },
@@ -1295,22 +1343,6 @@
       "duration_ms": 237508,
       "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
       "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tiden f\u00f6rsvinner",
-        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 206304,
-      "name": "Tiden f\u00f6rsvinner",
-      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1451,18 +1483,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Caught Me On A Bad Day",
-        "url": "https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN"
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
       },
       "artists": [
         {
-          "name": "Martin Almgren",
-          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
+          "name": "Lexi Berg",
+          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
         }
       ],
-      "duration_ms": 210468,
-      "name": "Caught Me On A Bad Day",
-      "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
+      "duration_ms": 200000,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1483,38 +1515,6 @@
       "duration_ms": 177562,
       "name": "Double Up",
       "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "En k\u00e4rlek sj\u00e4lv",
-        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
-      },
-      "artists": [
-        {
-          "name": "Henning",
-          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "En k\u00e4rlek sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
-      },
-      "artists": [
-        {
-          "name": "Lexi Berg",
-          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     }
   ],
   "unique_name": "Aktuellt",

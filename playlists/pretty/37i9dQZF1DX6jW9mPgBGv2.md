@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Ovi y Hades66 plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,553 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,677 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bazs Hitters](https://open.spotify.com/artist/5sCGyvWFKZ0t6ZTn52hARX) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
+| 1 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
 | 2 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
 | 3 | [Pensamos Rapido](https://open.spotify.com/track/2JhcDJFVkMS9fxEuCAgIYb) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Pensamos Rapido](https://open.spotify.com/album/0VlSYkqFo1Dq7KVqkjxQm0) | 2:15 |
 | 4 | [BIG MOVES](https://open.spotify.com/track/5V4NkldBDetisUhRsHvBfK) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BIG MOVES](https://open.spotify.com/album/0qTmGPizxtjKohNWEIADfx) | 2:36 |

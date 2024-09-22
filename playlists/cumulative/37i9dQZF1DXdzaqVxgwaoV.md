@@ -4,7 +4,7 @@
 
 > ¡Celebrando 90 años de Discos Fuentes, con Pastor López en portada!
 
-296 songs - 18 hr 10 min
+297 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 | 2023-02-03 | 2024-09-02 |
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 | 2024-04-19 |
 | [Sólo un Cigarro](https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos Pastor López \(Vol\. 1\)](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 2:49 | 2023-02-03 | 2024-09-02 |
+| [Sólo un Cigarro](https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:49 | 2024-09-01 |  |
 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 | 2023-02-03 |  |
 | [Tabaco y ron](https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt) | [Rodolfo y su Típica RA7](https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:05 | 2023-12-20 | 2024-08-28 |
 | [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2023-12-05 | 2024-01-18 |
@@ -287,7 +288,7 @@
 | [Todo Es Amor](https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA) | [Ibarra y Medina](https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM) | [Clasicas de la Cancion Popular, Vol\. 5](https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq) | 3:00 | 2023-02-03 | 2024-09-02 |
 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 | 2023-12-20 |  |
 | [Tomando Licores](https://open.spotify.com/track/6thiX6DACm3bxPPDjN6x09) | [Sonia Y Carlos](https://open.spotify.com/artist/3mB0DGOFMia4eGJ4uBxprx) | [Tomando Licores](https://open.spotify.com/album/03pZt8XZQVSXhVjb2MY851) | 3:02 | 2023-02-03 | 2024-09-02 |
-| [Traicionera](https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Éxitos Pastor López](https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8) | 3:34 | 2024-09-01 |  |
+| [Traicionera](https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Éxitos Pastor López](https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8) | 3:34 | 2024-09-01 | 2024-09-22 |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2023-11-09 | 2024-04-19 |
 | [Traicionera \- Digitally Remastered Original](https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:25 | 2023-11-09 | 2024-08-28 |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2023-11-09 | 2024-04-19 |

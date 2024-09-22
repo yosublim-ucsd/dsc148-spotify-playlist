@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 79400,
+  "num_followers": 79460,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Pad\u00ea",
+        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
+      },
+      "artists": [
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
+          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pad\u00ea",
-        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
-      },
-      "artists": [
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
-          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

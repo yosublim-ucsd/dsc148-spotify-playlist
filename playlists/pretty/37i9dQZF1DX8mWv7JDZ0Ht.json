@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem",
-  "num_followers": 435284,
+  "num_followers": 435263,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-09-20 13:29:46",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
         "name": "Eu Sinto Muito",
         "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
         "name": "Cart\u00f5es Postais",
         "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 124212,
       "name": "Cart\u00f5es Postais",
       "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
-        "name": "Sonora Sessions: Gabriel Nandes",
-        "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 188507,
-      "name": "Voc\u00ea Mentiu",
-      "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
     },
     {
       "added_at": "2024-09-20 13:29:46",
@@ -1091,6 +1071,26 @@
       "duration_ms": 158170,
       "name": "Vem C\u00e1, Me Beija",
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
+        "name": "Sonora Sessions: Gabriel Nandes",
+        "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 188507,
+      "name": "Voc\u00ea Mentiu",
+      "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
     },
     {
       "added_at": "2024-09-20 13:29:46",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
-        "name": "o que seria se...",
-        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 146339,
-      "name": "o que seria se...",
-      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
         "name": "Vis\u00edvel",
         "url": "https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO"
       },
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
+        "name": "o que seria se...",
+        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 146339,
+      "name": "o que seria se...",
+      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
     },
     {
       "added_at": "2024-09-20 13:29:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
-        "name": "Esfriou",
-        "url": "https://open.spotify.com/album/3EyzLVwpTbWR2tNM8a3twV"
-      },
-      "artists": [
-        {
-          "name": "Tuan",
-          "url": "https://open.spotify.com/artist/0fa1dVLqaZcbqjr0qryLfg"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Esfriou",
-      "url": "https://open.spotify.com/track/1eMRfCKfPVEcgpBE6DtDmQ"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
+        "name": "Esfriou",
+        "url": "https://open.spotify.com/album/3EyzLVwpTbWR2tNM8a3twV"
+      },
+      "artists": [
+        {
+          "name": "Tuan",
+          "url": "https://open.spotify.com/artist/0fa1dVLqaZcbqjr0qryLfg"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Esfriou",
+      "url": "https://open.spotify.com/track/1eMRfCKfPVEcgpBE6DtDmQ"
     },
     {
       "added_at": "2024-09-20 13:29:46",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-20 13:29:46",
       "album": {
-        "name": "Dentro Do Meu Peito",
-        "url": "https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG"
-      },
-      "artists": [
-        {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Dentro Do Meu Peito",
-      "url": "https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5"
-    },
-    {
-      "added_at": "2024-09-20 13:29:46",
-      "album": {
         "name": "Me Diz Quando A Gente Vai Se Ver",
         "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 175000,
       "name": "Me Diz Quando A Gente Vai Se Ver",
       "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2024-09-20 13:29:46",
+      "album": {
+        "name": "Dentro Do Meu Peito",
+        "url": "https://open.spotify.com/album/46wtNpnGL1zD4JTS1X0DqG"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Dentro Do Meu Peito",
+      "url": "https://open.spotify.com/track/2hwhNr8FXPw19EkXVaOeK5"
     },
     {
       "added_at": "2024-09-20 13:29:46",

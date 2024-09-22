@@ -98,6 +98,6 @@
 | [You're Gonna Miss This](https://open.spotify.com/track/68Q1r5zDnnYaHkh80yal4A) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Volume II](https://open.spotify.com/album/0iUDlT7z0kFqkCiAebkHOs) | 3:44 | 2021-06-18 |  |
 | [You're Gonna Miss This](https://open.spotify.com/track/6grgrO14uQmVC5GRGZocvM) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Happy Father's Day Y'all](https://open.spotify.com/album/7J1vFcXy5zvLt8AsaGx7b9) | 3:44 | 2022-06-10 | 2022-11-13 |
 | [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 | 2022-06-10 | 2024-04-19 |
-| [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 | 2021-06-25 |  |
+| [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 | 2021-06-25 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

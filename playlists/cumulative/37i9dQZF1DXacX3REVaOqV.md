@@ -4,7 +4,7 @@
 
 > The best in house music
 
-510 songs - 1 day 10 hr 24 min
+511 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2024-04-11 |  |
 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 | 2023-02-09 | 2024-09-13 |
 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 | 2022-04-14 | 2024-03-01 |
-| [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 |  |
+| [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 | 2024-09-22 |
 | [Back To Love](https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Back To Love](https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN) | 2:45 | 2023-07-14 | 2024-07-02 |
 | [Back To The 00s](https://open.spotify.com/track/5v0YaYtm8CCdyhBuv3tOBi) | [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7), [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Back To The 00s EP](https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a) | 3:15 | 2023-12-01 | 2024-09-13 |
 | [Back to the Raw \- Vocal Rough Mix](https://open.spotify.com/track/6CmLQCBSjUdQRt2uqB0jx6) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Back to the Raw](https://open.spotify.com/album/63SwZvdIlzjxpAPnBuICEm) | 7:56 | 2022-04-14 | 2022-07-28 |
@@ -133,6 +133,7 @@
 | [Everything \- Roog's Discofied Radio Edit](https://open.spotify.com/track/79JSToI1qAr4VJeYIn9Wyo) | [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj), [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh) | [Everything](https://open.spotify.com/album/2qJ6zXDCdH0H4R0eCjHeix) | 3:40 | 2022-04-14 | 2022-07-29 |
 | [Everything You Say](https://open.spotify.com/track/2Ps1fYFcUdqIbgJW5DqgHj) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Retpoid Meetings](https://open.spotify.com/album/3mjm9RkOfMRsILtXtF1glj) | 6:16 | 2022-04-14 | 2022-07-17 |
 | [Faith \(feat\. Leslie O'Smith\)](https://open.spotify.com/track/53obzOnsAHHBYL5ZKSt6jD) | [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C), [Leslie O'Smith](https://open.spotify.com/artist/1qkbrucLM3PKS7IQsmM6gS) | [Faith \(feat\. Leslie O'Smith\)](https://open.spotify.com/album/0lxfGkg9i6dJUOdaAMDRxy) | 3:30 | 2022-04-14 | 2022-07-29 |
+| [Fallin In Love](https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Fallin In Love](https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl) | 3:23 | 2024-09-19 |  |
 | [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-18 |  |
 | [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-06-27 |  |
 | [Family Business \- Radio Edit](https://open.spotify.com/track/4PDUz6h6rzSkf5BmxhhGnC) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Family Business \(Radio Edit\)](https://open.spotify.com/album/6vLzNZPI95rAPXGsiWRWwK) | 3:43 | 2024-06-27 |  |

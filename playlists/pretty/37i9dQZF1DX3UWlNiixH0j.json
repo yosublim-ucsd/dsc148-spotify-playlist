@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: OGRE YOU ASSHOLE",
-  "num_followers": 59103,
+  "num_followers": 59118,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "duration_ms": 174482,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
         "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
         "url": "https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ"
       },
@@ -607,26 +623,6 @@
       "duration_ms": 198002,
       "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
       "url": "https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "Oyasumi na Sayang (feat. Zee Avi)",
-        "url": "https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr"
-      },
-      "artists": [
-        {
-          "name": "MuchaMuchaM",
-          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
-        },
-        {
-          "name": "Zee Avi",
-          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Oyasumi Nasayang (feat. Zee Avi)",
-      "url": "https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -651,18 +647,22 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
-        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W"
+        "name": "Oyasumi na Sayang (feat. Zee Avi)",
+        "url": "https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr"
       },
       "artists": [
         {
-          "name": "Hedigan\u2019s",
-          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+          "name": "MuchaMuchaM",
+          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
+        },
+        {
+          "name": "Zee Avi",
+          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
         }
       ],
-      "duration_ms": 174482,
-      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN"
+      "duration_ms": 203389,
+      "name": "Oyasumi Nasayang (feat. Zee Avi)",
+      "url": "https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
-        "name": "GO!!!",
-        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "GO!!!",
-      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
         "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
         "url": "https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0"
       },
@@ -727,38 +711,6 @@
       "duration_ms": 247023,
       "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
       "url": "https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
-        }
-      ],
-      "duration_ms": 234726,
-      "name": "777",
-      "url": "https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
-        "url": "https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ"
-      },
-      "artists": [
-        {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
-        }
-      ],
-      "duration_ms": 233236,
-      "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
-      "url": "https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -779,6 +731,22 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/31rNJ42JTBF3amlVwwbLDx"
       },
@@ -791,6 +759,54 @@
       "duration_ms": 266391,
       "name": "\u30a2\u30dd\u30ed\u30f3",
       "url": "https://open.spotify.com/track/4rvt5B4F6QGugUdMf0YSFP"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
+        "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
+        "url": "https://open.spotify.com/album/6Odhs3MSJpuMuRGPzEs4QQ"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "duration_ms": 233236,
+      "name": "\u541b\u3088\u308a\u3082\u541b\u3089\u3057\u3044",
+      "url": "https://open.spotify.com/track/0DwBDvqgXKhtFs7XpS9eEZ"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
+        "name": "\u3088\u304b",
+        "url": "https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "\u3088\u304b",
+      "url": "https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+        }
+      ],
+      "duration_ms": 234726,
+      "name": "777",
+      "url": "https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -823,22 +839,6 @@
       "duration_ms": 241773,
       "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
       "url": "https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "\u3088\u304b",
-        "url": "https://open.spotify.com/album/6V01wVHdl54mAT70xGUxxw"
-      },
-      "artists": [
-        {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "\u3088\u304b",
-      "url": "https://open.spotify.com/track/0ceCCzzxs7PyUB7Yl5j1Kj"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
+        "name": "lifedrop!",
+        "url": "https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj"
+      },
+      "artists": [
+        {
+          "name": "Xamd",
+          "url": "https://open.spotify.com/artist/7iru9u1tzWCEe76f7tbRzf"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
+      "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
         "name": "ELECTRIC RIDER",
         "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
-        "name": "lifedrop!",
-        "url": "https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj"
-      },
-      "artists": [
-        {
-          "name": "Xamd",
-          "url": "https://open.spotify.com/artist/7iru9u1tzWCEe76f7tbRzf"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
-      "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
         "name": "40\u2103",
         "url": "https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 270810,
       "name": "To get there",
       "url": "https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
+        "name": "\u904a\u6cf3\u306e\u97f3\u697d",
+        "url": "https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "\u4eba\u306e\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
-        "name": "\u904a\u6cf3\u306e\u97f3\u697d",
-        "url": "https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6"
+        "name": "\u3053\u306e\u66f2",
+        "url": "https://open.spotify.com/album/1JW0zutPSdL3J1MY6OjUZw"
       },
       "artists": [
         {
-          "name": "\u6d66\u4e0a\u60f3\u8d77",
-          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
         }
       ],
-      "duration_ms": 285824,
-      "name": "\u4eba\u306e\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL"
+      "duration_ms": 283246,
+      "name": "\u3053\u306e\u66f2",
+      "url": "https://open.spotify.com/track/3ugXyFuD01jT9egwNSdqYH"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
-        "name": "\u3053\u306e\u66f2",
-        "url": "https://open.spotify.com/album/1JW0zutPSdL3J1MY6OjUZw"
+        "name": "Saladbowl",
+        "url": "https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt"
       },
       "artists": [
         {
-          "name": "ODD Foot Works",
-          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+          "name": "Geloomy",
+          "url": "https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK"
         }
       ],
-      "duration_ms": 283246,
-      "name": "\u3053\u306e\u66f2",
-      "url": "https://open.spotify.com/track/3ugXyFuD01jT9egwNSdqYH"
+      "duration_ms": 209256,
+      "name": "Shock!!\u4e2d\u6bd2",
+      "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
     },
     {
       "added_at": "2024-09-17 18:17:21",
@@ -1203,6 +1219,38 @@
     {
       "added_at": "2024-09-17 18:17:21",
       "album": {
+        "name": "\u541b\u306b\u30e2\u30c6\u305f\u3044\u3063!!",
+        "url": "https://open.spotify.com/album/5OflzoOWZV8mZyAQLhBdfx"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 86676,
+      "name": "\u307c\u304f\u306e\u90e8\u5c4b\u306b\u304a\u3044\u3067\u30e8",
+      "url": "https://open.spotify.com/track/3j44XhZV3f1n10HUSamZEO"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
+        "name": "\u3044\u3051\u306a\u3044",
+        "url": "https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW"
+      },
+      "artists": [
+        {
+          "name": "Kaede",
+          "url": "https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "\u3044\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW"
+    },
+    {
+      "added_at": "2024-09-17 18:17:21",
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/5KAMm49Mz35eH5g5xUqFCE"
       },
@@ -1235,62 +1283,6 @@
       "duration_ms": 203478,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/0IhqnOAlNjqa8CcVFj8xBd"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "BET",
-        "url": "https://open.spotify.com/album/3WruJWg8DgPcqy7UlV8L60"
-      },
-      "artists": [
-        {
-          "name": "dawgss",
-          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
-        },
-        {
-          "name": "Kingo",
-          "url": "https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP"
-        },
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/75oZgfBbEErNzXIT5YPnzX"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "\u6563\u7b56\u30e1\u30ac\u30d4\u30af\u30bb\u30eb",
-        "url": "https://open.spotify.com/album/6YgoDSPCoU6zhRBXnoCoVz"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u305a\u3079\u304b\u3093\u3055\u3064\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/4uwFXwAAp4648iAP8M0KXG"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "\u30b7\u30e3\u30c3\u30c8\u30c0\u30a6\u30f3",
-      "url": "https://open.spotify.com/track/0EuG7N8pRYsleIF7t9jvQl"
-    },
-    {
-      "added_at": "2024-09-17 18:17:21",
-      "album": {
-        "name": "\u697d\u56e3",
-        "url": "https://open.spotify.com/album/2aASwnX3VrhbgRo5wHMms1"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5185\u8857\u5b50",
-          "url": "https://open.spotify.com/artist/1PEFjk4A5Z4HpU6PF9GYwl"
-        }
-      ],
-      "duration_ms": 234413,
-      "name": "\u697d\u56e3",
-      "url": "https://open.spotify.com/track/2bh5KofhrF9oJDxS3f0YJ8"
     }
   ],
   "unique_name": "Edge!",

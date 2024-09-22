@@ -4,11 +4,12 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-253 songs - 13 hr 4 min
+255 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 | 2024-08-10 |
+| [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \- Acoustic](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 |  |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
@@ -26,6 +27,7 @@
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
+| [Beyond the Sea \- Acoustic](https://open.spotify.com/track/1YHB4atLgNr7UMDwA0WMY1) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Beyond the Sea \- Acoustic](https://open.spotify.com/album/57dND5OOaL8jwJ1CIGebQI) | 3:19 | 2024-09-21 |  |
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2024-05-27 |  |
 | [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 | 2024-01-13 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 | 2019-10-13 |  |

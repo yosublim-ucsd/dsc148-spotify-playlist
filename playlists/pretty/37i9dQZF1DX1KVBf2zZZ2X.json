@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 57986,
+  "num_followers": 58067,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Berolige",
-        "url": "https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF"
+        "name": "Placid Creek",
+        "url": "https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7"
       },
       "artists": [
         {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+          "name": "Refugium",
+          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
         }
       ],
-      "duration_ms": 156061,
-      "name": "Berolige",
-      "url": "https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I"
+      "duration_ms": 179631,
+      "name": "Placid Creek",
+      "url": "https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Placid Creek",
-        "url": "https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7"
+        "name": "Berolige",
+        "url": "https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF"
       },
       "artists": [
         {
-          "name": "Refugium",
-          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 179631,
-      "name": "Placid Creek",
-      "url": "https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp"
+      "duration_ms": 156061,
+      "name": "Berolige",
+      "url": "https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC"
-      },
-      "artists": [
-        {
-          "name": "Moonweaver",
-          "url": "https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 149884,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC"
+      },
+      "artists": [
+        {
+          "name": "Moonweaver",
+          "url": "https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Hommage \u00e0 la for\u00eat",
-        "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
-      },
-      "artists": [
-        {
-          "name": "David Sato",
-          "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Hommage \u00e0 la for\u00eat",
-      "url": "https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Take a Breath",
         "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170000,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Hommage \u00e0 la for\u00eat",
+        "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
+      },
+      "artists": [
+        {
+          "name": "David Sato",
+          "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Hommage \u00e0 la for\u00eat",
+      "url": "https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Morning light",
-        "url": "https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz"
-      },
-      "artists": [
-        {
-          "name": "Rani Williams",
-          "url": "https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU"
-        }
-      ],
-      "duration_ms": 140374,
-      "name": "Morning light",
-      "url": "https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Lazy Lanta",
         "url": "https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 210541,
       "name": "Lazy Lanta",
       "url": "https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Morning light",
+        "url": "https://open.spotify.com/album/2MPQP2mJFRopO0dyvhkLWz"
+      },
+      "artists": [
+        {
+          "name": "Rani Williams",
+          "url": "https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU"
+        }
+      ],
+      "duration_ms": 140374,
+      "name": "Morning light",
+      "url": "https://open.spotify.com/track/1XkWUG4p9pmqJe2UD8mcw0"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Early Morning",
-        "url": "https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL"
-      },
-      "artists": [
-        {
-          "name": "Thomas Webster",
-          "url": "https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV"
-        }
-      ],
-      "duration_ms": 150810,
-      "name": "Early Morning",
-      "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/129PEfz7ICa9PzjLfE0lo8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 169021,
       "name": "Light Of Day",
       "url": "https://open.spotify.com/track/1UoNLlJ3FAWznkO3huAvuh"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL"
+      },
+      "artists": [
+        {
+          "name": "Thomas Webster",
+          "url": "https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "The Perfect Morning",
-        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
-      },
-      "artists": [
-        {
-          "name": "Milton Laines",
-          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 167678,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "The Perfect Morning",
+        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
+      },
+      "artists": [
+        {
+          "name": "Milton Laines",
+          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Dasik\u00f3 Plankt\u00f3n",
-        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
-      },
-      "artists": [
-        {
-          "name": "Olhans",
-          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Dasik\u00f3 Plankt\u00f3n",
-      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Morning on a STHLM Island",
         "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Arbores",
-        "url": "https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr"
+        "name": "Dasik\u00f3 Plankt\u00f3n",
+        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
       },
       "artists": [
         {
-          "name": "Amber Bisa",
-          "url": "https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK"
+          "name": "Olhans",
+          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Arbores",
-      "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
+      "duration_ms": 210000,
+      "name": "Dasik\u00f3 Plankt\u00f3n",
+      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1575,6 +1559,22 @@
       "duration_ms": 130807,
       "name": "New Roads",
       "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Arbores",
+        "url": "https://open.spotify.com/album/6GaoYZE2DMnLAXXKwVbyKr"
+      },
+      "artists": [
+        {
+          "name": "Amber Bisa",
+          "url": "https://open.spotify.com/artist/329rG1xMpCkB0hhBUv10CK"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Arbores",
+      "url": "https://open.spotify.com/track/04rVrBygXJgRV10I4Me90r"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
+        "name": "Forelsket (Forest)",
+        "url": "https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Forelsket (Forest)",
+      "url": "https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
         "name": "Honeydew",
         "url": "https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 205605,
       "name": "Balcons Verdoyants",
       "url": "https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
-        "name": "Forelsket (Forest)",
-        "url": "https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK"
-      },
-      "artists": [
-        {
-          "name": "Orvalis",
-          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Forelsket (Forest)",
-      "url": "https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Softly Now",
-        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
-      },
-      "artists": [
-        {
-          "name": "Moon Garden",
-          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Softly Now",
-      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "Ra\u00f0lj\u00f3st",
         "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 135000,
       "name": "Ra\u00f0lj\u00f3st",
       "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Softly Now",
+        "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Softly Now",
+      "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
     },
     {
       "added_at": "2024-09-04 08:40:02",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-09-04 08:40:02",
       "album": {
-        "name": "Final Step",
-        "url": "https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r"
-      },
-      "artists": [
-        {
-          "name": "Elton Baptiste",
-          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Final Step",
-      "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
-    },
-    {
-      "added_at": "2024-09-04 08:40:02",
-      "album": {
         "name": "The Old Grandfather Clock",
         "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 146500,
       "name": "Hygrometer",
       "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
+    },
+    {
+      "added_at": "2024-09-04 08:40:02",
+      "album": {
+        "name": "Final Step",
+        "url": "https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Final Step",
+      "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
     }
   ],
   "unique_name": "Calming Nature Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 鶴  \(The Crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,697 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,701 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 35 | [鳳翔](https://open.spotify.com/track/0OADE8XaH0qxUncQIPv1pT) | [王晨宇IceCraz](https://open.spotify.com/artist/2Hn1JOz00GeUV7iEfdYfYM) | [鳳翔](https://open.spotify.com/album/26YnRk2aBu8FjtT3r2SezY) | 2:59 |
 | 36 | [大話](https://open.spotify.com/track/1ym9TYEmnM5FWsjxqKlA4R) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB) | [大話](https://open.spotify.com/album/5BVPJIHgyVzTeI0SJzGuC2) | 3:00 |
 | 37 | [KEY](https://open.spotify.com/track/6Rt06UlN318u2K9mCyrUkA) | [吉米高JIMIN](https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo), [m00dzzz](https://open.spotify.com/artist/26uCgYlH66vPvo22PXEyx1) | [KEY](https://open.spotify.com/album/2MEwFPXX52KrxiIJViWepa) | 3:02 |
-| 38 | [換季 \- Prod.理化兄弟P.C.B.](https://open.spotify.com/track/0A2404eGi0A7DA5dtiifOT) | [氓犬](https://open.spotify.com/artist/6hlmOOHYNqqIWn1QNxyu5b), [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd) | [換季 \- Prod.理化兄弟P.C.B.](https://open.spotify.com/album/4tkr8RB9DzPkP2rY4FMWBc) | 3:38 |
+| 38 | [換季 \(Prod.理化兄弟P.C.B.\)](https://open.spotify.com/track/0A2404eGi0A7DA5dtiifOT) | [氓犬](https://open.spotify.com/artist/6hlmOOHYNqqIWn1QNxyu5b), [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd) | [換季 \(Prod.理化兄弟P.C.B.\)](https://open.spotify.com/album/4tkr8RB9DzPkP2rY4FMWBc) | 3:38 |
 | 39 | [I've been thinking about you all day and all night](https://open.spotify.com/track/7k5b866cwiko3hAk5Jc9QN) | [Potato馬鈴薯小弟](https://open.spotify.com/artist/0riRJxCMWZWKHfFcLpkpGq), [Woosic](https://open.spotify.com/artist/2Fw2S8a321wjtk7uyAOVTL) | [I've been thinking about you all day and all night](https://open.spotify.com/album/55Z6dwW11mHxyQegektWRP) | 3:32 |
 | 40 | [喜歡你的我](https://open.spotify.com/track/41P0c5wju22G8wSPVTMv1I) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB), [游家雁 Addsalt](https://open.spotify.com/artist/7LbUHilFL9Fx3EsTxRUAJ4) | [喜歡你的我](https://open.spotify.com/album/1jyNQxZtcivCMkyM9a51B3) | 3:24 |
 | 41 | [Heal Your Broken Heart](https://open.spotify.com/track/4Y2dVByrRa1RmW1L37FSnf) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [《彈一場完美戀愛》戲劇原聲帶, 第二樂章](https://open.spotify.com/album/2I6GUy7G9JFhDeZC31gDj2) | 3:16 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 79 | [飛咯](https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [空中飛人](https://open.spotify.com/album/5T6ErFoPoKV9UEmrLePRp5) | 4:25 |
 | 80 | [累累](https://open.spotify.com/track/5u7nTFYOiowljp5UGphYTR) | [YILE LIN 林以樂](https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ) | [素顏的樣子](https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4) | 4:21 |
 | 81 | [赏味期限](https://open.spotify.com/track/0dhHxMgqAkcFZvIiE3MIrG) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH), [小妖在不在](https://open.spotify.com/artist/3nxDWwNcn5ntvakyfK1OyW) | [Uptown Vibes郊气](https://open.spotify.com/album/4Zldz1fWp9tmZD3NAnKBC3) | 4:00 |
-| 82 | [ADG](https://open.spotify.com/track/5OvyITPLb9pbYjLi1qDoi9) | [dlwindle](https://open.spotify.com/artist/1UNh3VR67drIdOJaau0wOH), [Losty](https://open.spotify.com/artist/54SfaqS6XKQHrdbYg7rgZ1), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [ADG](https://open.spotify.com/album/0m68TPjasqo6szMFQMfBUZ) | 2:24 |
+| 82 | [ADG](https://open.spotify.com/track/5OvyITPLb9pbYjLi1qDoi9) | [dlwindle](https://open.spotify.com/artist/1UNh3VR67drIdOJaau0wOH), [Losty](https://open.spotify.com/artist/54SfaqS6XKQHrdbYg7rgZ1), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX), [The Fletxher](https://open.spotify.com/artist/5FvLI6sB3UoYaHVdyTvEjY), [Audi boi](https://open.spotify.com/artist/06hEj7cp6X9vAVdPA9b0v4) | [ADG](https://open.spotify.com/album/0m68TPjasqo6szMFQMfBUZ) | 2:24 |
 | 83 | [一起跳著跳著](https://open.spotify.com/track/15xz1V5w1fEPxs17loSDTF) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [一起跳著跳著](https://open.spotify.com/album/6NUZrhkPX4ylpmyfbmDMNy) | 4:00 |
 | 84 | [數字蝴蝶](https://open.spotify.com/track/3ufqW9z1JoOjhepUJYfpya) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [數字蝴蝶](https://open.spotify.com/album/2RBgwq4FKnxtqF4y12vUXJ) | 3:01 |
 | 85 | [海洋賜予](https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [海洋賜予](https://open.spotify.com/album/1SpWiFUkVLznEOiJcAlsNu) | 1:47 |

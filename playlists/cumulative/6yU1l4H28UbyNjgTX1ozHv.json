@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "...Baby One More Time - Acoustic",
+        "url": "https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2"
+      },
+      "artists": [
+        {
+          "name": "The Canyon Run",
+          "url": "https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166515,
+      "name": "...Baby One More Time - Acoustic",
+      "url": "https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95"
+    },
+    {
+      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -338,6 +356,24 @@
       "duration_ms": 187103,
       "name": "Believe - Acoustic",
       "url": "https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU"
+    },
+    {
+      "album": {
+        "name": "Beyond the Sea - Acoustic",
+        "url": "https://open.spotify.com/album/57dND5OOaL8jwJ1CIGebQI"
+      },
+      "artists": [
+        {
+          "name": "Callum J Wright",
+          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199909,
+      "name": "Beyond the Sea - Acoustic",
+      "url": "https://open.spotify.com/track/1YHB4atLgNr7UMDwA0WMY1"
     },
     {
       "album": {

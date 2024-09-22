@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Annie\-Dog
 
-225 songs - 12 hr 13 min
+226 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Reject Loser Daydream](https://open.spotify.com/track/7oo31yFxiG3IEu90guW8Aq) | [whoisdays](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Reject Loser Daydream](https://open.spotify.com/album/5Zrj7PUYLLZozST3datBG0) | 2:58 | 2024-02-02 | 2024-02-23 |
 | [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 | 2024-03-08 |
 | [RoseGold](https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [RoseGold](https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N) | 4:56 | 2024-04-05 | 2024-08-23 |
+| [RUNAWAY](https://open.spotify.com/track/3ElJ5DOaqQEshMnejsX0VQ) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [RUNAWAY](https://open.spotify.com/album/3zguSEANWhPXzGCI34R3aX) | 2:31 | 2024-09-19 |  |
 | [SAY MY NAME](https://open.spotify.com/track/6T52Nwzdn3YkPefljuLfs2) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [SAY MY NAME](https://open.spotify.com/album/6VfQlGsSDU0Hl5WOgSrEDF) | 1:37 | 2024-09-19 |  |
 | [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-02-02 | 2024-04-19 |
 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 | 2024-03-29 | 2024-05-17 |

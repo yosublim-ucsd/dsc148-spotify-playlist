@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,826 songs - 6 day 6 hr 22 min
+2,827 songs - 6 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,7 +1102,7 @@
 | [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 | 2023-05-04 |
 | [J'ai brisé ma voix](https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [J'ai brisé ma voix](https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG) | 3:30 | 2024-08-30 | 2024-09-07 |
 | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/album/5Ezp3SweJKbdqdZ7jn0zXM) | 1:46 | 2021-12-31 | 2022-01-22 |
-| [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 |  |
+| [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 | 2024-09-22 |
 | [J'ai le coeur chaud](https://open.spotify.com/track/4dvds4Du1WMVGcAEs5wfvH) | [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [J'ai le coeur chaud](https://open.spotify.com/album/68WsThCderiLAOdZLcBEqY) | 2:44 | 2024-09-13 | 2024-09-21 |
 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 | 2024-03-15 | 2024-05-03 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-06-04 |
@@ -2038,6 +2038,7 @@
 | [Polymorphe](https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Polymorphe](https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI) | 3:36 | 2023-03-17 | 2023-04-15 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 | 2024-07-19 |
 | [Pomme Z](https://open.spotify.com/track/1kueShAhewtwchYTE8qTrt) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Pomme Z](https://open.spotify.com/album/53zm21Uiy9gbCGQh7zptz8) | 3:10 | 2024-06-14 | 2024-06-22 |
+| [PONA NINI](https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:06 | 2024-09-20 |  |
 | [Pool](https://open.spotify.com/track/4rtStE7kciNRNuJPaqTrWR) | [Kibcha](https://open.spotify.com/artist/1r8ynsGGZtzzS8oVzsT7Hl), [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Pool](https://open.spotify.com/album/29nIkQ0s7iVt6fueCpDNCA) | 3:50 | 2022-07-01 | 2022-07-16 |
 | [Porcelaine](https://open.spotify.com/track/7J7EsDTsrRjqhPKKMQBJmf) | [Léa Jarry](https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da) | [Porcelaine](https://open.spotify.com/album/1m38qHondfJDG8bgAn8H3u) | 2:57 | 2023-07-14 | 2023-07-22 |
 | [Port d'arme](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2024-06-01 |

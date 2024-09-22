@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
+  "description": "This Is Los Farmerz. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Farmerz",
   "tracks": [
     {
@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "El Solo",
+        "url": "https://open.spotify.com/album/4Uq0cbdFneEV76KBoZI2vO"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "El Solo",
+      "url": "https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql"
+    },
+    {
+      "album": {
         "name": "Ni Modo Que Sea Mentira",
         "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
       },
@@ -866,7 +888,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-22",
       "duration_ms": 155000,
       "name": "La Cheyene",
       "url": "https://open.spotify.com/track/1ZBux9Fo2OdW8MEvIiueoP"

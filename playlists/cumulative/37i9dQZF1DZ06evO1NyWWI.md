@@ -2,7 +2,7 @@
 
 ### [This Is Led Zeppelin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NyWWI)
 
-> This Is Led Zeppelin\. Los temas esenciales, todos en una lista.
+> This is Led Zeppelin\. Todos os maiores hits em uma só playlist.
 
 60 songs - 5 hr 11 min
 

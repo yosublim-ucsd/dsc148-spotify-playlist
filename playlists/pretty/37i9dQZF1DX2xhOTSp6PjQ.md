@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=cNNTUa\_2SVyYFveCYBEF6Q">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,154 likes - 60 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,295 likes - 60 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

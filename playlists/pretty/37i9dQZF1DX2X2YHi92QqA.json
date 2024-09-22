@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31610,
+  "num_followers": 31627,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
-        "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
-      },
-      "artists": [
-        {
-          "name": "Phil It",
-          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
-        },
-        {
-          "name": "ROXOLANA",
-          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
-        }
-      ],
-      "duration_ms": 218928,
-      "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
-      "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
         "url": "https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY"
       },
@@ -347,34 +327,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+        "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
+        "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 203324,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
-      },
-      "artists": [
+          "name": "Phil It",
+          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
+        },
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "ROXOLANA",
+          "url": "https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4"
         }
       ],
-      "duration_ms": 122666,
-      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
+      "duration_ms": 218928,
+      "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
+      "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -395,6 +363,38 @@
       "duration_ms": 167086,
       "name": "\u0414\u043e\u0434\u043e\u043c\u0443",
       "url": "https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
       "artists": [
         {
-          "name": "TUMAZAR",
-          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
         }
       ],
-      "duration_ms": 218571,
-      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -627,38 +627,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
       },
       "artists": [
         {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+          "name": "TUMAZAR",
+          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
         }
       ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+      "duration_ms": 218571,
+      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -675,6 +655,26 @@
       "duration_ms": 132705,
       "name": "\u0421\u043b\u044c\u043e\u0437\u0438 \u0456 \u041f\u0456\u0441\u043d\u0456",
       "url": "https://open.spotify.com/track/0LrxqTCzZ5O67u3rK52wg8"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+      },
+      "artists": [
+        {
+          "name": "To Eternity",
+          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
+      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
-      },
-      "artists": [
-        {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041d\u0435 \u0437\u0430\u0441\u043d\u0443",
         "url": "https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166000,
       "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "\u0431\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/2HllpojdmP0If39UA6BACR"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
-      },
-      "artists": [
-        {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u0423 \u0422\u041e\u0411\u0406",
         "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
+        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
       },
       "artists": [
         {
-          "name": "Krechet",
-          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
         }
       ],
-      "duration_ms": 126000,
-      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
+      "duration_ms": 189890,
+      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -951,6 +935,22 @@
       "duration_ms": 137307,
       "name": "\u0421\u0435\u043d\u0441",
       "url": "https://open.spotify.com/track/44R7zD0G7YcNcPyr7ZwNpy"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
+      },
+      "artists": [
+        {
+          "name": "Krechet",
+          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041d\u043e\u0436\u0456",
-        "url": "https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9"
-      },
-      "artists": [
-        {
-          "name": "DEMCHUK",
-          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "\u041d\u043e\u0436\u0456",
-      "url": "https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "Feel it Still",
         "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041d\u043e\u0436\u0456",
+        "url": "https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9"
+      },
+      "artists": [
+        {
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "\u041d\u043e\u0436\u0456",
+      "url": "https://open.spotify.com/track/7sJaNUYg8EsY8WmJb6JRLQ"
     }
   ],
   "unique_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

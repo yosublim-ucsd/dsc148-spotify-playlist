@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,277 likes - 27 songs - 1 hr 42 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,281 likes - 27 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 19 | [YCBTT](https://open.spotify.com/track/6BaodRyM0dMIB6OY6avAuK) | [Downhaul](https://open.spotify.com/artist/5g4PKgeQwXYLTktYSIYPXR) | [How To Begin](https://open.spotify.com/album/4n0ewMXNCC56czylYYDunX) | 2:06 |
 | 20 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 |
 | 21 | [Brooklyn](https://open.spotify.com/track/1adZhRPyJq3rFu3WZvVhPM) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Silver Patron Saints](https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G) | 4:01 |
-| 22 | [One Last Time](https://open.spotify.com/track/0of8lBW25tp1RFHmnKxOx2) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [One Last Time](https://open.spotify.com/album/4MgUkbA2r5OeMhedMDGnBI) | 3:39 |
+| 22 | [One Last Time \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/0of8lBW25tp1RFHmnKxOx2) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [One Last Time \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/4MgUkbA2r5OeMhedMDGnBI) | 3:39 |
 | 23 | [Meander](https://open.spotify.com/track/13VrzkK5WJDlBXyv46IvEi) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Meander](https://open.spotify.com/album/0oHq0oAA0XGzfnacUpE0ma) | 1:59 |
 | 24 | [Living Less](https://open.spotify.com/track/5d9xpprlYS5lLRTFebBCJE) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Living Less](https://open.spotify.com/album/31y2oBtE605SBDqM4no7lC) | 2:43 |
 | 25 | [Fly Move \(The Whole Time\)](https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Warmer Weather](https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x) | 3:16 |

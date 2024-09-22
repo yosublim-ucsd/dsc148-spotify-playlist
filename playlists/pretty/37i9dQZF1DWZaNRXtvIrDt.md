@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: IN2STELLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,323 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,321 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 8 | [How Does It Make You Feel](https://open.spotify.com/track/6tQWs8upU20Ry9RfKlRikl) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [How Does It Make You Feel \(Part of Dekmantel Ten: A Decade of Dekmantel Festival\)](https://open.spotify.com/album/2hSQVfb97oRqZ3bujQs2eX) | 5:08 |
 | 9 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 10 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
-| 11 | [SIDES](https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [ENERGY11](https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv) | [SIDES](https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb) | 3:57 |
+| 11 | [SIDES](https://open.spotify.com/track/3x6QBmP0uYbaVSXLHV4Xrj) | [1NN3R53LF](https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM), [ENERGY11](https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv), [NYNE](https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem) | [SIDES](https://open.spotify.com/album/20ymgJJ9g7HvuNdGh1BBMb) | 3:57 |
 | 12 | [Divine](https://open.spotify.com/track/4pkSzjnEYghi9kc9BNwuJu) | [Solsta](https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A), [Amraks](https://open.spotify.com/artist/45QSSn5J9uRnJqyCRxTBxw), [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [Divine](https://open.spotify.com/album/3vqjyD50i2FGxdwshFiXV5) | 2:47 |
 | 13 | [Show You](https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3) | [Show You](https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL) | 3:51 |
 | 14 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |

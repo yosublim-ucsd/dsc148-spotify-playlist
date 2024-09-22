@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,599 likes - 131 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,730 likes - 131 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 34 | [Livin' On A Prayer \- Symphony Orchestra Version](https://open.spotify.com/track/6QeWU1rbQEIEDvDJPWN8Km) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Classical 80's Songs \- Symphony Orchestra Versions](https://open.spotify.com/album/7eAphLGUamTfmjC48TibAt) | 2:30 |
 | 35 | [Dynamite](https://open.spotify.com/track/4InMSe7k0NfeNeko4VC5Mg) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:18 |
 | 36 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 |
-| 37 | [If I Ain't Got You](https://open.spotify.com/track/01YQb1zrekds5e5hYqA6ug) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Anouchka Hack](https://open.spotify.com/artist/0EF2Pnl3aFhj5mNb8GzKcq), [Katharina Hack](https://open.spotify.com/artist/16A9jnAldDIuMCqc1j2arg) | [If I Ain't Got You](https://open.spotify.com/album/3fPol4KYYaPnoKwWPL2piv) | 4:22 |
+| 37 | [If I Ain't Got You \(Arr\. For cello & piano by Wolf Kerschek\)](https://open.spotify.com/track/01YQb1zrekds5e5hYqA6ug) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Anouchka Hack](https://open.spotify.com/artist/0EF2Pnl3aFhj5mNb8GzKcq), [Katharina Hack](https://open.spotify.com/artist/16A9jnAldDIuMCqc1j2arg) | [If I Ain't Got You](https://open.spotify.com/album/3fPol4KYYaPnoKwWPL2piv) | 4:22 |
 | 38 | [We Found Love](https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Luka Sulic](https://open.spotify.com/artist/36a1FhGZwPM18t4IkpOkpG) | [In2ition](https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D) | 3:32 |
 | 39 | [Shake It Off](https://open.spotify.com/track/477QsWo0LJO2jVtAshAk4e) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Taylor Swift](https://open.spotify.com/album/4f5ciuGccXCtsdwfZkpGq3) | 3:41 |
 | 40 | [I Will Always Love You](https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:45 |

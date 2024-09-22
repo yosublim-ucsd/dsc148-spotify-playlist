@@ -11349,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/2W8jEtqhZAM6jrCULtRdbU"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60491,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/2O2qQoNFS22SwO8HPdocY7"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz"
       },
@@ -12102,6 +12120,24 @@
       "duration_ms": 60899,
       "name": "Gazing Up",
       "url": "https://open.spotify.com/track/65BrSKwNrvW8jADQQSWpMg"
+    },
+    {
+      "album": {
+        "name": "Gentle Breath",
+        "url": "https://open.spotify.com/album/3hP5URaSBhPmG3X5EBx9aC"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60461,
+      "name": "Gentle Breath",
+      "url": "https://open.spotify.com/track/7Ct5htZuLBzmiZAhh5XBVU"
     },
     {
       "album": {
@@ -26574,6 +26610,24 @@
       "duration_ms": 63439,
       "name": "Steadily",
       "url": "https://open.spotify.com/track/0yYOqGEjN3a9U5KBfKoYmg"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/34cHXsmh22C7wlevgu8KIg"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60476,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/03lORgNpYtOyxXKex2yLg7"
     },
     {
       "album": {

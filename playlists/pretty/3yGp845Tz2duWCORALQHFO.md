@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,780 likes - 55 songs - 2 hr 56 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,782 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 19 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 |
 | 20 | [Turn Around](https://open.spotify.com/track/45EDlda9ern2PjvHTEgEsH) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Turn Around](https://open.spotify.com/album/3BWZeye8P9JH3fWNab1v0d) | 2:32 |
 | 21 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 |
-| 22 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 |
+| 22 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \[Max Styler Remix\]](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 |
 | 23 | [Rattlesnake](https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Rattlesnake](https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X) | 2:56 |
 | 24 | [Fallin In Love](https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Fallin In Love](https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl) | 3:23 |
 | 25 | [Location](https://open.spotify.com/track/7bRFBvh9cQn1sEjn74PBV5) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Location](https://open.spotify.com/album/2PKbQG1w3AnGCmnZI26CuZ) | 2:44 |

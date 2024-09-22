@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Rondodasosa, Rue Diego e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,493 likes - 87 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,506 likes - 87 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 20 | [Napoli \- Juve](https://open.spotify.com/track/1iAlOKxg0GhqHmvK9Uz8Zh) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [Young Donghito](https://open.spotify.com/artist/4Ll4sOvxN7VHLMX7d04FB4) | [Napoli \- Juve](https://open.spotify.com/album/3YsfetOoVTPVFv5LRwzwbf) | 3:20 |
 | 21 | [CONVOGLIO \(feat\. Tony Effe\)](https://open.spotify.com/track/0AMQo5EwkBmYaedxmy4BuI) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:57 |
 | 22 | [Nino Nino](https://open.spotify.com/track/4IAtZ4qQeXewkgSr062hfe) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Nino Nino](https://open.spotify.com/album/3OX0hJW4QqgXTw8v2V7Gf5) | 2:52 |
-| 23 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan & Intifaya](https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
+| 23 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
 | 24 | [RIP](https://open.spotify.com/track/2hlm13i9IpSFjOT1dbrJGq) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [RIP](https://open.spotify.com/album/5fVm5sLJr1a7oVApONzlFq) | 2:18 |
 | 25 | [Chance](https://open.spotify.com/track/7qvI1RnRmIzQ52r5WN8TI5) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Chance](https://open.spotify.com/album/06iLcirNazg1Nb0hFzYDAd) | 3:19 |
 | 26 | [DIEGO DIEGO](https://open.spotify.com/track/45xmYIV3MJyA3Ei1VKY3Cy) | [BADMAN](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [DIEGO DIEGO](https://open.spotify.com/album/68r0qWuu0QjzwSxqBXNGNd) | 2:01 |

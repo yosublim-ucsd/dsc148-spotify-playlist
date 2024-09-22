@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 473795,
+  "num_followers": 473912,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+        "name": "Je t'aime encore",
+        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
         }
       ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
+      "duration_ms": 217230,
+      "name": "Je t'aime encore",
+      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
       "added_at": "2022-02-09 03:25:54",
@@ -1199,50 +1199,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Je t'aime encore",
-        "url": "https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ"
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
       },
       "artists": [
         {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 217230,
-      "name": "Je t'aime encore",
-      "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
-    },
-    {
-      "added_at": "2024-06-26 18:41:25",
-      "album": {
-        "name": "Love Potion",
-        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Potion",
-      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
-    },
-    {
-      "added_at": "2024-01-03 18:42:32",
-      "album": {
-        "name": "So Pacific",
-        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "So Pacific",
-      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2023-04-11 00:45:41",
@@ -1261,20 +1229,36 @@
       "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
+      "added_at": "2024-01-03 18:42:32",
       "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
       },
       "artists": [
         {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+    },
+    {
+      "added_at": "2024-06-26 18:41:25",
+      "album": {
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2023-03-22 17:53:19",
@@ -1291,6 +1275,22 @@
       "duration_ms": 197600,
       "name": "SMT",
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
       "added_at": "2023-12-20 03:28:07",
       "album": {
         "name": "If You Could See Me Now",
@@ -1371,6 +1355,22 @@
       "duration_ms": 161229,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
       "added_at": "2023-11-23 03:41:20",
       "album": {
         "name": "say your way",
@@ -1547,6 +1531,22 @@
       "duration_ms": 170500,
       "name": "say your way",
       "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1583,34 +1583,6 @@
       "duration_ms": 146487,
       "name": "I Love Vertigo",
       "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
-    },
-    {
-      "added_at": "2024-05-03 16:49:18",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/2NFr0YmfDAVbsLVtWY5XWZ"
-      },
-      "artists": [
-        {
-          "name": "Catpack",
-          "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        },
-        {
-          "name": "Jacob Mann",
-          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
-        },
-        {
-          "name": "Phil Beaudreau",
-          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/03UKfWyoE48oFWWLZWz2eI"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1657,24 +1629,48 @@
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2024-05-03 16:49:18",
       "album": {
-        "name": "Sinking",
-        "url": "https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/2NFr0YmfDAVbsLVtWY5XWZ"
       },
       "artists": [
         {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+          "name": "Catpack",
+          "url": "https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt"
         },
         {
-          "name": "Srigala",
-          "url": "https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a"
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        },
+        {
+          "name": "Jacob Mann",
+          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
+        },
+        {
+          "name": "Phil Beaudreau",
+          "url": "https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Sinking",
-      "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
+      "duration_ms": 175250,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/03UKfWyoE48oFWWLZWz2eI"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "The Adventures Of Masta Splinta",
+        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
+      },
+      "artists": [
+        {
+          "name": "Intalekt",
+          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
+        }
+      ],
+      "duration_ms": 221086,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
     },
     {
       "added_at": "2024-01-11 02:15:10",
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "The Adventures Of Masta Splinta",
-        "url": "https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ"
+        "name": "Sinking",
+        "url": "https://open.spotify.com/album/4D8EIm8LytFmaEkFRCNTOJ"
       },
       "artists": [
         {
-          "name": "Intalekt",
-          "url": "https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy"
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Srigala",
+          "url": "https://open.spotify.com/artist/3lBNI625YjN4YIk4bmD79a"
         }
       ],
-      "duration_ms": 221086,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU"
+      "duration_ms": 192000,
+      "name": "Sinking",
+      "url": "https://open.spotify.com/track/4BvhCD3CgNX6Dlw6fBD3L4"
     },
     {
       "added_at": "2021-10-15 03:01:31",

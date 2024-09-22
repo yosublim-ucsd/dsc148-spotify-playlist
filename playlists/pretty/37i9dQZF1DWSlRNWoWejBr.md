@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,086 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,214 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 9 | [Sexta\-Feira Tô na Bala](https://open.spotify.com/track/7Lm79MdoqvoxnpnOSp7FR8) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Sexta\-Feira Tô na Bala](https://open.spotify.com/album/6KdHQQe9PAVwPHgOkxRMCM) | 3:26 |
 | 10 | [Vilão Não Se Apaixona](https://open.spotify.com/track/7swBVNE92qIhwqPgcva9lI) | [Patrick DJ](https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y), [Diana Correa](https://open.spotify.com/artist/7DBUtuwLmluTRLxP41RSVO), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Vilão Não Se Apaixona](https://open.spotify.com/album/56rjeffjTlCyGJxqvv1iAq) | 1:56 |
 | 11 | [Não Fosse Tão Tarde \- MTG Remix](https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [Não Fosse Tão Tarde \(MTG Remix\)](https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni) | 1:57 |
-| 12 | [Mega das Tchutchuca](https://open.spotify.com/track/04kc5SEMpaNQXzZakiAOUv) | [DJ MARCONE 014](https://open.spotify.com/artist/6HoEOT3YHu3O763jlfZkoA) | [Mega das Tchutchuca](https://open.spotify.com/album/5wRmMonHLD3d4T1kbY7BqO) | 1:42 |
+| 12 | [Mega das Tchutchuca](https://open.spotify.com/track/04kc5SEMpaNQXzZakiAOUv) | [DJ MARCONE 014](https://open.spotify.com/artist/6HoEOT3YHu3O763jlfZkoA), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [Mega das Tchutchuca](https://open.spotify.com/album/5wRmMonHLD3d4T1kbY7BqO) | 1:42 |
 | 13 | [Machuquei](https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa) | [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Dj Luizinho MPC](https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW) | [Machuquei](https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K) | 3:07 |
 | 14 | [Bota Com Vontade](https://open.spotify.com/track/56J2kZxmlaem6H6R1vkFcn) | [Dj Brenno Paixão](https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM), [Dj Kaua Jesus](https://open.spotify.com/artist/667jSgZZTW1oLCfOwwqrhy), [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [Mc India](https://open.spotify.com/artist/0NseDkNLAVBv2OZY5wquS7) | [Bota Com Vontade](https://open.spotify.com/album/3d3eL3e5FqXneLa1mlaOM6) | 1:36 |
 | 15 | [De Baixo Pra Cima](https://open.spotify.com/track/64kKYenLqoB53EWmtHi4DP) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [DJ WG DO SS](https://open.spotify.com/artist/32qJz58OMpD1QBX1qVMGcL), [Dj Alan Melo](https://open.spotify.com/artist/05kM6bfPvwG2DRwR8o5aGp), [MC FG](https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI), [Mc Neguinho do ITR](https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA) | [De Baixo Pra Cima](https://open.spotify.com/album/0iHVSE9ym0MwCQ8aJWaD3l) | 1:51 |

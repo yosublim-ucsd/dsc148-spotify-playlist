@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 178748,
+  "num_followers": 178856,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -267,8 +267,8 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+      "duration_ms": 160860,
+      "name": "Double Dare Ya",
+      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "i'm not crying you're crying",
-      "url": "https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Pottymouth",
         "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
       },
@@ -427,8 +411,24 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "i'm not crying you're crying",
+      "url": "https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 160860,
-      "name": "Double Dare Ya",
-      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "The Raincoats",
-        "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Fairytale in the Supermarket",
-      "url": "https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198200,
       "name": "Dress",
       "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "The Raincoats",
+        "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Fairytale in the Supermarket",
+      "url": "https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -775,22 +775,6 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "No One's Little Girl",
-      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -871,6 +855,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "No One's Little Girl",
+      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Demonstration Tapes",
+        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
+      },
+      "artists": [
+        {
+          "name": "Dolly Mixture",
+          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Step Close Now",
+      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 120573,
       "name": "Getting Nowhere Fast",
       "url": "https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Demonstration Tapes",
-        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
-      },
-      "artists": [
-        {
-          "name": "Dolly Mixture",
-          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
-        }
-      ],
-      "duration_ms": 118853,
-      "name": "Step Close Now",
-      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Such Friends Are Dangerous",
+        "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
+      },
+      "artists": [
+        {
+          "name": "Excuse 17",
+          "url": "https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Watchmaker",
+      "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Update Your Brain",
         "url": "https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 237013,
       "name": "Love Is the Slug - Bargainous Longerer Mix",
       "url": "https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Such Friends Are Dangerous",
-        "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
-      },
-      "artists": [
-        {
-          "name": "Excuse 17",
-          "url": "https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Watchmaker",
-      "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
     },
     {
       "added_at": "2024-07-22 20:24:37",

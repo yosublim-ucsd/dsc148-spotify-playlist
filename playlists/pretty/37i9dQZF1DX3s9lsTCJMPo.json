@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 114873,
+  "num_followers": 114931,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "Hard Wine",
-      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 253253,
       "name": "Feels Like I'm Home Again",
       "url": "https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "Hard Wine",
+      "url": "https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1123,26 +1123,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Wining Season",
-        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Defense (The Anthem) (feat. Lil Jon)",
-      "url": "https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK"
+      "duration_ms": 258893,
+      "name": "Blame It (on De Music)",
+      "url": "https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1159,22 +1151,6 @@
       "duration_ms": 221776,
       "name": "X Man",
       "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Blame It (on De Music)",
-      "url": "https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1207,6 +1183,30 @@
       "duration_ms": 338053,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4cht5aaAj57nUVWpM40L4c"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Wining Season",
+        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Defense (The Anthem) (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca 101 Vol.1",
         "url": "https://open.spotify.com/album/111Eu8ZNJ4IaHd9HJppqZG"
       },
@@ -1319,6 +1303,26 @@
       "duration_ms": 292533,
       "name": "Hold Ya Bam Bam",
       "url": "https://open.spotify.com/track/5AQbcTkvpl8irCdFOjF71f"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Best of 2000 & 2001 Soca",
+        "url": "https://open.spotify.com/album/6H9ZgUBAmyAhz4xjeQ2uIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Master K",
+          "url": "https://open.spotify.com/artist/0Fw5I6Ke1vvSiuG2JHC24r"
+        },
+        {
+          "name": "K. Hart",
+          "url": "https://open.spotify.com/artist/2yq3eHv4vVpiFXeQXM3Fnq"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Jump - Soca Mix",
+      "url": "https://open.spotify.com/track/4HPGDCF5BL09n0DsO2sNon"
     }
   ],
   "unique_name": "Soca Classics",

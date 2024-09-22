@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
-  "num_followers": 31487,
+  "num_followers": 31494,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,38 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "Thalasses",
+        "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "Thalasses",
+      "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Odos Tsimiski",
+        "url": "https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 189996,
+      "name": "Odos Tsimiski",
+      "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "Evaisthisies",
         "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
       },
@@ -775,34 +807,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Odos Tsimiski",
-        "url": "https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9"
+        "name": "Ti Na Peis Gia Mena (Live 2024)",
+        "url": "https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 189996,
-      "name": "Odos Tsimiski",
-      "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "Thalasses",
-        "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Thalasses",
-      "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
+      "duration_ms": 198305,
+      "name": "Ti Na Peis Gia Mena - Live 2024",
+      "url": "https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Ti Na Peis Gia Mena (Live 2024)",
-        "url": "https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol"
+        "name": "Dromo Epikindino",
+        "url": "https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp"
       },
       "artists": [
         {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Dimos Anastasiadis",
+          "url": "https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq"
         }
       ],
-      "duration_ms": 198305,
-      "name": "Ti Na Peis Gia Mena - Live 2024",
-      "url": "https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc"
+      "duration_ms": 205279,
+      "name": "Dromo Epikindino",
+      "url": "https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 199551,
       "name": "Ti Sou Kanei",
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "Dromo Epikindino",
-        "url": "https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp"
-      },
-      "artists": [
-        {
-          "name": "Dimos Anastasiadis",
-          "url": "https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq"
-        }
-      ],
-      "duration_ms": 205279,
-      "name": "Dromo Epikindino",
-      "url": "https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ"
     },
     {
       "added_at": "2024-09-19 21:00:00",

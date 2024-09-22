@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 14 hr 6 min
+189 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [In the Heights](https://open.spotify.com/track/4dS1QQw8askb1KSDLCKuvK) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), ['In The Heights' Original Broadway Company](https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 7:38 | 2022-09-08 | 2024-08-18 |
 | [In The Heights](https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Jimmy Smits](https://open.spotify.com/artist/5hv9BKVlMmFIIzmwdCZO5m), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Dascha Polanco](https://open.spotify.com/artist/4nyZZkQQM7rXIuGpDDamgB), [Corey Hawkins](https://open.spotify.com/artist/2BFxmZrsXPazaWFVR53Wpi), [Gregory Diaz IV](https://open.spotify.com/artist/7jcRcSKFpP4o0P02lDADVN), [Melissa Barrera](https://open.spotify.com/artist/0yac03Stzfyoukz2361kU7), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [In The Heights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n) | 7:41 | 2024-08-17 |  |
 | [In the Mood \- Live](https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Glenn Miller Carnegie Hall Concert \(Live\)](https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk) | 3:29 | 2023-09-25 |  |
-| [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 | 2024-08-22 |  |
+| [Intimacy Of The Blues](https://open.spotify.com/track/3QNiGiKzSmqDaoOuxVS2AE) | [Louis Bellson](https://open.spotify.com/artist/2BywXVVpHNWDTGpn8fksJT) | [The Best Of Louie Bellson](https://open.spotify.com/album/2yp4jNVWZLgbija0nF5QJv) | 6:00 | 2024-09-21 |  |
+| [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 | 2024-08-22 | 2024-09-22 |
 | [Jo](https://open.spotify.com/track/3MMTXcokvnOvkXFc2iPper) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:21 | 2022-09-08 |  |
 | [Johnny Come Lately](https://open.spotify.com/track/229U3wp0xQTIyk564uyHDR) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:36 | 2022-09-08 |  |
 | [Juanita](https://open.spotify.com/track/4Af3a5GQkggFmsjylz5Psn) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:17 | 2022-12-11 |  |

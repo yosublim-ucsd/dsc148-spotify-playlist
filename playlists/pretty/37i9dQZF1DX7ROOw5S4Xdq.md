@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,692 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,724 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
-| 2 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Agnus Dei \- Ao Vivo](https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF) | 4:46 |
+| 2 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF) | 4:46 |
 | 3 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 |
 | 4 | [És o Meu Amor](https://open.spotify.com/track/5FJx6A87uRYHowoeHfEe7F) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v), [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [És o Meu Amor](https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k) | 3:46 |
 | 5 | [Janelas da Alma \(Ao Vivo\)](https://open.spotify.com/track/7xzmPgn1Ouqp3QJ6LJYFYX) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Janelas da Alma \(Ao Vivo\)](https://open.spotify.com/album/12ad7MgMII8RvwKttADR1C) | 4:20 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 21 | [Por me Amar](https://open.spotify.com/track/2ehyygb0ozO5ym91QgY5ov) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Por me Amar](https://open.spotify.com/album/1PMTATeuSSTm0Tw205TLrR) | 3:50 |
 | 22 | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/track/4LkEw1iHqCF6Ol1LdjM2zd) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Derrama o Teu Poder \- Ao Vivo](https://open.spotify.com/album/6oC2r7pNp735hePioQ88Vm) | 4:51 |
 | 23 | [A Voz \(Ao Vivo\)](https://open.spotify.com/track/4alRrQm7F9LQ0ICmPpbOwQ) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [A Voz \(Ao Vivo\)](https://open.spotify.com/album/232udrjbLGRWFYA8FCo0TC) | 5:40 |
-| 24 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/1Fg4Y3YL8QwSRuJAG38ZXt) | [Thiago Oliveira](https://open.spotify.com/artist/6Gbjh8pk6l82aE69sJi1op), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/7Gol0hIEXsPf19ZH85Snsd) | 4:05 |
+| 24 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/1Fg4Y3YL8QwSRuJAG38ZXt) | [Thiago Oliveira](https://open.spotify.com/artist/6s7wHQDwchpij8hPEq2UCM), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/7Gol0hIEXsPf19ZH85Snsd) | 4:05 |
 | 25 | [Jesus É o Mesmo \(Ao Vivo\)](https://open.spotify.com/track/42A57nqWntlxCnTDxrtVRf) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70) | [Jesus É o Mesmo \(Ao Vivo\)](https://open.spotify.com/album/6ubjfolenzhMtZ0arBtE4R) | 5:32 |
 | 26 | [Até Que Ele Venha \- Ao Vivo](https://open.spotify.com/track/7z8o4uICJHTZFDFMsPRKNs) | [Thiago Henrique](https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp) | [Até Que Ele Venha \(Ao Vivo\)](https://open.spotify.com/album/3w4IKp47HJ6mhpYNdztX71) | 5:56 |
 | 27 | [Rei dos Reis \- Ao Vivo](https://open.spotify.com/track/5Q8D8qzp4e8fGJtW7gqfRU) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Rei dos Reis \(Ao Vivo\)](https://open.spotify.com/album/3ClsDBhXjrMS3q6wfUViSV) | 4:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 46 | [Deus de Maravilhas \(Legado\)](https://open.spotify.com/track/4sw6041XBnC3jFT50JXJak) | [Beno César](https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Deus de Maravilhas \(Legado\)](https://open.spotify.com/album/1lWyqwIpdxTXKlZBaV2bqN) | 3:55 |
 | 47 | [Fé e Atitude \- One Take](https://open.spotify.com/track/41nq39VnAHSS6GVvTQewjJ) | [Ricarlo Rocha](https://open.spotify.com/artist/3vz4Z3xgADcZ7lw6CxtD2a) | [Fé e Atitude \- One Take](https://open.spotify.com/album/0bAjPBZizK6OI0LLBvn9eE) | 4:13 |
 | 48 | [Todos Os Dias \- Ao Vivo](https://open.spotify.com/track/6D69qZPo0vq1nrMWRSYWnT) | [Serginho Vílem](https://open.spotify.com/artist/213Sdfj6QVB67sEZBH6JKH), [GROOVESHIP](https://open.spotify.com/artist/3mc5kDWOfkEscpAtX43Jlj) | [Todos Os Dias \- Ao Vivo](https://open.spotify.com/album/4q6gvoL4JIGPccwlIbdHvx) | 3:21 |
-| 49 | [Se Lembre](https://open.spotify.com/track/7zsEf3F7p7rPfDKxNpIlYH) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Se Lembre \- Ao Vivo](https://open.spotify.com/album/7CC1TaHId34gXLiCzdbk5m) | 3:23 |
-| 50 | [Profetizar](https://open.spotify.com/track/2YR70Y7Hr3aYWdiqx0hLtm) | [M3MA Music](https://open.spotify.com/artist/3ai65DpDE3gdzlFXTuIsIe) | [Profetizar \- Ao Vivo](https://open.spotify.com/album/3jkCXJxk6MuMoZ1LFjDRVK) | 4:35 |
+| 49 | [Se Lembre \- Ao Vivo](https://open.spotify.com/track/7zsEf3F7p7rPfDKxNpIlYH) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Se Lembre \(Ao Vivo\)](https://open.spotify.com/album/7CC1TaHId34gXLiCzdbk5m) | 3:23 |
+| 50 | [Profetizar \- Ao Vivo](https://open.spotify.com/track/2YR70Y7Hr3aYWdiqx0hLtm) | [M3MA Music](https://open.spotify.com/artist/3ai65DpDE3gdzlFXTuIsIe) | [Profetizar \(Ao Vivo\)](https://open.spotify.com/album/3jkCXJxk6MuMoZ1LFjDRVK) | 4:35 |
 
 Snapshot ID: `ZuzlbAAAAAChCxYRcC0Ds6UCi7SIcBbu`

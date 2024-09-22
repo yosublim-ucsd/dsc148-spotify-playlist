@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,708 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,752 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 18 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 |
 | 19 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 |
 | 20 | [The Pink Panther Theme \- From "The Pink Panther"](https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \- Original Soundtrack](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy) | 2:37 |
-| 21 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |
+| 21 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
 | 22 | [Overture \- From "Whiplash"](https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 3:19 |
-| 23 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 |
+| 23 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |
 | 24 | [Musetta's Waltz](https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Arranged By](https://open.spotify.com/artist/6J5eHNGDXInDjIYZBv9Ffa), [Dick Hyman](https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT), [Moe Koffman](https://open.spotify.com/artist/3fGFTCSpapYvLMZ7nzUfAi) | [Moonstruck \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 4:27 |
 | 25 | [Main Title \(from "Taxi Driver"\)](https://open.spotify.com/track/7xPefqZB6BBosOdfKJh9nJ) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 2:14 |
 | 26 | [He's Younger Than You Are \- From "Alfie" Score](https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 5:13 |

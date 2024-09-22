@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover: <a href="spotify:artist:5m8b1Ofn4kNkzRV84GopBU">Austin French</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,545 likes - 45 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,553 likes - 45 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 32 | [All We Ever Need](https://open.spotify.com/track/0BCE2TaKxWnaESXFLP7oLz) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [All We Ever Need](https://open.spotify.com/album/21Ue7pnNCDJeJpf3OYZhRh) | 3:10 |
 | 33 | [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 |
 | 34 | [You're All I'm After \- Live](https://open.spotify.com/track/1ehpGnSzHMNUsblmlYGfVq) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [You're All I'm After \(Live\)](https://open.spotify.com/album/38pdZqUj7YMuTem0YMAtSa) | 5:37 |
-| 35 | [Eden Restored \- Live](https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV) | [JUBILATION](https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv) | 6:50 |
+| 35 | [Eden Restored](https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV) | [JUBILATION](https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv) | 6:50 |
 | 36 | [It's Time](https://open.spotify.com/track/3oxjv64jCXPAOPQPrHkwVQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [It's Time](https://open.spotify.com/album/7lGdBj36Sswo10f0e5NPlw) | 4:13 |
 | 37 | [Praise](https://open.spotify.com/track/0ZjS6dbLy2DKiGkl8PJ78w) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Praise](https://open.spotify.com/album/0Kaib6L3q1EUeAbqFBgcap) | 4:01 |
 | 38 | [Oh What A Friend](https://open.spotify.com/track/6Me57rRHSblLtoexHpPw7n) | [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Oh What A Friend](https://open.spotify.com/album/1i2J6zD8932uZXrhrnqFhj) | 3:46 |

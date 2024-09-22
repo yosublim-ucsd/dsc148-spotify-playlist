@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
+    },
+    {
+      "album": {
         "name": "If I Ain't Got You",
         "url": "https://open.spotify.com/album/3fPol4KYYaPnoKwWPL2piv"
       },
@@ -1844,26 +1862,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262890,
-      "name": "If I Ain't Got You",
+      "name": "If I Ain't Got You (Arr. For cello & piano by Wolf Kerschek)",
       "url": "https://open.spotify.com/track/01YQb1zrekds5e5hYqA6ug"
-    },
-    {
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "date_added": "2023-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214000,
-      "name": "If I Ain't Got You",
-      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
     },
     {
       "album": {

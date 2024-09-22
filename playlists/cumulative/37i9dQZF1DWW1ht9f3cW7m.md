@@ -4,7 +4,7 @@
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-125 songs - 6 hr 54 min
+126 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [How Do You See The World?](https://open.spotify.com/track/34nfOrevDLN1aFoSFeNawK) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [How Do You See The World?](https://open.spotify.com/album/1atB3sBQjgamnaak2tUE56) | 3:28 | 2024-06-14 | 2024-08-22 |
 | [How I Wish I Was Cool](https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D) | [Bayboards](https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM) | [How I Wish I Was Cool](https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL) | 3:06 | 2024-07-12 |  |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-08-21 |  |
+| [I Like Your Look](https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:56 | 2024-09-20 |  |
 | [I Think That I'm Getting Boring](https://open.spotify.com/track/3g3f5WOOjZ05dHUnKC55Jf) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [I Think That I'm Getting Boring](https://open.spotify.com/album/1q2dMzmwjff28MgF7F1afL) | 3:22 | 2024-06-14 | 2024-08-22 |
 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 | 2024-08-21 |  |
 | [idea of you](https://open.spotify.com/track/1gnjxcqvMQUHv2asWTxo8J) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [obscura](https://open.spotify.com/album/1QBQzpCgdoe89WjGPdKPMm) | 2:57 | 2024-06-14 | 2024-08-22 |
@@ -90,7 +91,7 @@
 | [monsters](https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [monsters](https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU) | 2:26 | 2024-07-12 | 2024-08-22 |
 | [Moving Slow](https://open.spotify.com/track/28ePKpOvM6q9t2HLm1K4OG) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/2AoyVm8A8ZfkbRzij3qq7i) | 3:51 | 2024-06-14 | 2024-08-22 |
 | [Mr Useless](https://open.spotify.com/track/0B2jp7LW4HL9tfEBOwQ8Td) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Third Second Chance](https://open.spotify.com/album/2g8QiLGGO8oUhCeQuPgBFv) | 2:59 | 2024-06-14 | 2024-08-22 |
-| [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2024-06-14 |  |
+| [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2024-06-14 | 2024-09-22 |
 | [Never Get It Right](https://open.spotify.com/track/5sfcsarWqncOJ5vi34aAXz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Never Get It Right](https://open.spotify.com/album/1LVnxRugTrMRHEQxKqRrMT) | 3:21 | 2024-06-14 | 2024-08-22 |
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-14 |  |
 | [Nothing Compares To Nineteen](https://open.spotify.com/track/7GQwcstzhZd6GNFp0LJqEt) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Nothing Compares To Nineteen](https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD) | 2:48 | 2024-09-20 |  |

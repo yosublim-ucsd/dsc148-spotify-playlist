@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Tasha Low
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,809 likes - 115 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,810 likes - 115 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/4QzbAeoA1sNSvY0WLtzVgQ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
+| 1 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
 | 2 | [PHASES](https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [PHASES](https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3) | 1:53 |
 | 3 | [Made Up Your Mind](https://open.spotify.com/track/56wusiS0BFtTPpsqtXINwS) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [sarah su](https://open.spotify.com/artist/7o75L7nxbMGT9OZ0UQODOm) | [Made Up Your Mind](https://open.spotify.com/album/4tLvpS6rqdf5VAgBCUAsZO) | 3:22 |
 | 4 | [Rawan](https://open.spotify.com/track/2H6X5Vqfm6Dbn0ALy326De) | [Hazrul Nizam](https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC) | [Rawan](https://open.spotify.com/album/4U1FImW4oJe9njptCD3wJw) | 3:55 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 17 | [IRON MIKE](https://open.spotify.com/track/409IZ4xmIq6Gfh5Cac6cpB) | [Martin Spacely](https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS), [Sharbil](https://open.spotify.com/artist/5V0a9aIe2TMOGWECwBUG9n), [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t) | [IRON MIKE](https://open.spotify.com/album/028uBTEowynwUISRqpuGcz) | 2:35 |
 | 18 | [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 |
 | 19 | [crazy girl](https://open.spotify.com/track/2qh0B9oEpeVa4huNfustpO) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [crazy girl](https://open.spotify.com/album/6ZC1MX5xk9GwQoGQPxqyzM) | 2:33 |
-| 20 | [Infatuated \(with Patrickananda\)](https://open.spotify.com/track/33ZxVNJZcA02qpBu0XSJhG) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Infatuated \(with Patrickananda\)](https://open.spotify.com/album/0nSy7vqw1Goe8xDml9ysjL) | 3:46 |
+| 20 | [Infatuated \(with Patrickananda\)](https://open.spotify.com/track/33ZxVNJZcA02qpBu0XSJhG) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated \(with Patrickananda\)](https://open.spotify.com/album/0nSy7vqw1Goe8xDml9ysjL) | 3:46 |
 | 21 | [dear you,](https://open.spotify.com/track/4pR9DCtZ9WFaX5mRneODS6) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [dear you,](https://open.spotify.com/album/5sUOSdYvK5sASvsGmtN4RF) | 2:59 |
 | 22 | [Donovan](https://open.spotify.com/track/5AAz1gElpsyU6lCb0AvjXW) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Donovan](https://open.spotify.com/album/17Os7TNjG1vhzkT7i1o46m) | 3:25 |
 | 23 | [V\-01C3 \(Japanese Version\)](https://open.spotify.com/track/7DpUYuBLuuHqHFdAFiw1Ur) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3 \(Alternate Universe\)](https://open.spotify.com/album/3O2zSzoSnvzoSHIcegkS8Q) | 2:32 |

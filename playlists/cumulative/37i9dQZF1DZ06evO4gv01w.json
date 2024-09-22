@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "If God Is A Woman",
+        "url": "https://open.spotify.com/album/42Dy2REVSOkDuFzuaF0b9s"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205962,
+      "name": "If God Is a Woman",
+      "url": "https://open.spotify.com/track/2knn8RrwyObnPvpNQ7jdCW"
+    },
+    {
+      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },

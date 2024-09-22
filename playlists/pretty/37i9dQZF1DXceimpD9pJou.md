@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Tommy Royale</a> y <a href="spotify:artist:7uZO1ri6Y9Wlv7cDoOOUDI">CRYS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,093 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,115 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:09 |
+| 1 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:30 |
 | 2 | [El mood](https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Base y fundamento](https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72) | 2:53 |
 | 3 | [Cómo No Alabarte](https://open.spotify.com/track/5MyzSyjwwizvOcpPdv2bqy) | [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Cómo No Alabarte](https://open.spotify.com/album/6ujemlzDsWe8van5kZKPOx) | 2:36 |
 | 4 | [Por Ti](https://open.spotify.com/track/09bRLZWd9AFz72wP92B1z9) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Por Ti](https://open.spotify.com/album/4T40Iv05X5BjqviBRTXbCv) | 2:58 |

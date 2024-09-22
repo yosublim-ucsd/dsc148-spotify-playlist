@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 75720,
+  "num_followers": 75755,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "Bring It Hardcore",
         "url": "https://open.spotify.com/album/6Rpr2axSXD0r9B66J6WOYc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 284494,
       "name": "Bring It Hardcore",
       "url": "https://open.spotify.com/track/3s3TQQciJdZ6ZlKJoZjdHp"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -895,8 +895,8 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Creed Of Freakstyle",
-        "url": "https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D"
+        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
+        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
       },
       "artists": [
         {
@@ -904,13 +904,13 @@
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Creed Of Freakstyle",
-      "url": "https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE"
+      "duration_ms": 273729,
+      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
+      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1045,7 +1045,7 @@
         },
         {
           "name": "Karun",
-          "url": "https://open.spotify.com/artist/6cyi2rKZrlXjGjFj1tD6HS"
+          "url": "https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT"
         }
       ],
       "duration_ms": 170461,
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 206808,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1735,18 +1735,22 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+        "name": "Fvcking One",
+        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
       "artists": [
         {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+          "name": "Edwar",
+          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
         }
       ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
+      "duration_ms": 213254,
+      "name": "Fvcking One",
+      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1767,22 +1771,18 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Fvcking One",
-        "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
       },
       "artists": [
         {
-          "name": "Edwar",
-          "url": "https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC"
-        },
-        {
-          "name": "Sidekick",
-          "url": "https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co"
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
         }
       ],
-      "duration_ms": 213254,
-      "name": "Fvcking One",
-      "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2024-09-17 15:11:11",

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-206 songs - 9 hr 4 min
+207 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
 | [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 | 2024-07-25 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
+| [cascades](https://open.spotify.com/track/7z3euqNn3PvyVAFjdDwSMR) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [cascades](https://open.spotify.com/album/4QKXfYNfoT576G4NPccav2) | 2:09 | 2024-09-13 |  |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-01-12 | 2024-07-13 |
 | [Chardonnay Kisses](https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Chardonnay Kisses](https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48) | 2:32 | 2023-01-13 | 2024-05-25 |
@@ -213,6 +214,6 @@
 | [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-11-10 |  |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2023-01-12 |  |
 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 | 2023-02-23 | 2024-05-25 |
-| [Yellow Rose](https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC) | [Digital Candle](https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi) | [Party Life](https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1) | 3:09 | 2023-11-26 |  |
+| [Yellow Rose](https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC) | [Digital Candle](https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi) | [Party Life](https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1) | 3:09 | 2023-11-26 | 2024-09-22 |
 
 \*This playlist was first scraped on 2023-01-13. Prior content cannot be recovered.

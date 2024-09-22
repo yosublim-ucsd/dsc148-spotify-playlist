@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lazza in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,508 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,588 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 24 | [Echoes](https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/7x2wXwU5gQZ6pauIlkWIi3) | 2:50 |
 | 25 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 |
 | 26 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
-| 27 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \- spanish version](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 |
+| 27 | [melodrama \- spanish version](https://open.spotify.com/track/58VNLfh2s8c0hIIyt6pSju) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama \(spanish version\)](https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ) | 2:28 |
 | 28 | [Piazza Samba](https://open.spotify.com/track/4mxoVyaAfwUaGEmWaxk3WV) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Piazza Samba](https://open.spotify.com/album/7hA7jB2SxONB4m4x9wj9K9) | 2:35 |
 | 29 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 |
 | 30 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 52 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 |
 | 53 | [pugnale](https://open.spotify.com/track/0zBnqDWkGtWDMYOjnm7wts) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [pugnale](https://open.spotify.com/album/0pLQPcAenfatBUnPjYQu12) | 2:00 |
 | 54 | [Better Days](https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Better Days](https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX) | 2:53 |
-| 55 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
+| 55 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 56 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 |
 | 57 | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/track/2tsrnrD6DVCfxVUn0oEPTR) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Trincee \(feat\. Rondodasosa\)](https://open.spotify.com/album/2mKjDMufiYjhZbAuiAplZc) | 3:00 |
 | 58 | [VIEN](https://open.spotify.com/track/4HeOiMGIHqTbknru5JDOT2) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [VIEN](https://open.spotify.com/album/07lUE05Kpe2i0K7u8jgZm5) | 2:06 |
 | 59 | [ENEMIE2](https://open.spotify.com/track/76u819Qt0qds4r3GfVHOEB) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [ENEMIES](https://open.spotify.com/album/0Wnb1e4sXWNpoPK3CrjIut) | 2:00 |
-| 60 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan & Intifaya](https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
+| 60 | [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 |
 | 61 | [\( ARIA \)](https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [\) \) \) echo \( \( \( \(](https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB) | 2:07 |
 | 62 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 63 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 |

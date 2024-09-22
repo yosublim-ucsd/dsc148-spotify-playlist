@@ -2,7 +2,7 @@
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This is LEGADO 7\. The essential tracks, all in one playlist.
+> This is LEGADO 7。アーティストの代表曲をひとつのプレイリストに。
 
 73 songs - 3 hr 33 min
 

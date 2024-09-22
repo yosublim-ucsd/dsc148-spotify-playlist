@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Ramil Ganjoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,677 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,690 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dastaan](https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf) | [Sahil](https://open.spotify.com/artist/78JG5kr7YT1NgxFYhoV9Xe), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4zE29dptvOz8XMFIlMgC6t), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Dastaan](https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx) | 3:06 |
+| 1 | [Dastaan](https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4zE29dptvOz8XMFIlMgC6t), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Dastaan](https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx) | 3:06 |
 | 2 | [Azaad](https://open.spotify.com/track/4oX4eA8ThoYJpKjpbZBNRn) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Azaad](https://open.spotify.com/album/6SJRwxlxxhUlEoz9IuJIuM) | 3:54 |
 | 3 | [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 |
 | 4 | [Jugnu](https://open.spotify.com/track/6iL8xTD7YrKq9KxJ0lQpp4) | [Aanand Bajpai](https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce) | [Jugnu](https://open.spotify.com/album/2TAmYr4EUfsvXhr7bgx4Na) | 2:58 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lizzo. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 488394,
+  "description": "This is Lizzo. The essential tracks, all in one playlist.",
+  "num_followers": 488373,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAAAH5T5Ky2EmZMTMRz0aatcH",
+  "snapshot_id": "Zuy7AAAAAACFyynS8kxxGkRCl6FuAGdS",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Times For Low Lives",
+        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
+      },
+      "artists": [
+        {
+          "name": "The Griswolds",
+          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "YDLM",
+      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Panther",
         "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Times For Low Lives",
-        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
-      },
-      "artists": [
-        {
-          "name": "The Griswolds",
-          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "YDLM",
-      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
     },
     {
       "added_at": null,

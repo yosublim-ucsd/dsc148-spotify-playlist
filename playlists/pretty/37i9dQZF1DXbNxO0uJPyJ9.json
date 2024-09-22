@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 705261,
+  "num_followers": 705498,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "The 80's Album",
+        "url": "https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ"
+      },
+      "artists": [
+        {
+          "name": "C.C. Catch",
+          "url": "https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "I Can Lose My Heart Tonight - Maxi-Version",
+      "url": "https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 325720,
       "name": "La Isla Bonita - Extended Remix",
       "url": "https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "The 80's Album",
-        "url": "https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ"
-      },
-      "artists": [
-        {
-          "name": "C.C. Catch",
-          "url": "https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "I Can Lose My Heart Tonight - Maxi-Version",
-      "url": "https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Cruel Summer - Extended Version",
-      "url": "https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Cruel Summer - Extended Version",
+      "url": "https://open.spotify.com/track/33ORrHQvjcWEzf8IxY77Cr"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "12\" 80s Classics",
-        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 534693,
-      "name": "Tainted Love / Where Did Our Love Go? - Extended Version",
-      "url": "https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 256586,
       "name": "Extended Souvenir - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "12\" 80s Classics",
+        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 534693,
+      "name": "Tainted Love / Where Did Our Love Go? - Extended Version",
+      "url": "https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Raspberry Beret",
+        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 400520,
+      "name": "Raspberry Beret - Extended 12\" Version",
+      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "12\" 80s Classics",
         "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 480200,
       "name": "Shout - U.S. Remix",
       "url": "https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Raspberry Beret",
-        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 400520,
-      "name": "Raspberry Beret - Extended 12\" Version",
-      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Never Ending Story",
-        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
-      },
-      "artists": [
-        {
-          "name": "Limahl",
-          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
-        }
-      ],
-      "duration_ms": 368413,
-      "name": "Never Ending Story - 12'' Dance Mix",
-      "url": "https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "80s 12'' Summer",
         "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 435213,
       "name": "Gold - 12\" Mix",
       "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Never Ending Story",
+        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
+      },
+      "artists": [
+        {
+          "name": "Limahl",
+          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
+        }
+      ],
+      "duration_ms": 368413,
+      "name": "Never Ending Story - 12'' Dance Mix",
+      "url": "https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Axel F (Theme from \"Beverly Hills Cop\")",
-        "url": "https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV"
+        "name": "20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol. 1",
+        "url": "https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5"
       },
       "artists": [
         {
-          "name": "Forever 80",
-          "url": "https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 310525,
-      "name": "Axel F - Extended Mix",
-      "url": "https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74"
+      "duration_ms": 423573,
+      "name": "Nightshift - Club Mix",
+      "url": "https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS"
     }
   ],
   "unique_name": "12\" Classics",

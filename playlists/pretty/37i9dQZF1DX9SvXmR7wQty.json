@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Choses Sauvages",
-  "num_followers": 41898,
+  "num_followers": 41907,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -128,7 +128,7 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 134246,
+      "duration_ms": 134000,
       "name": "STUPID(E)",
       "url": "https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt"
     },
@@ -391,6 +391,38 @@
     {
       "added_at": "2024-09-20 04:43:11",
       "album": {
+        "name": "Si seulement...",
+        "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Si seulement...",
+      "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "Plus je sais, mieux je suis",
+        "url": "https://open.spotify.com/album/7dNBNmqlKlneAtpFVqfzkY"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "duration_ms": 238983,
+      "name": "Plus je sais, mieux je suis",
+      "url": "https://open.spotify.com/track/2sMGRziLt3qD6cO85tf44o"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -447,38 +479,6 @@
       "duration_ms": 480160,
       "name": "Sous le soleil",
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Plus je sais, mieux je suis",
-        "url": "https://open.spotify.com/album/7dNBNmqlKlneAtpFVqfzkY"
-      },
-      "artists": [
-        {
-          "name": "Alfa Rococo",
-          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
-        }
-      ],
-      "duration_ms": 238983,
-      "name": "Plus je sais, mieux je suis",
-      "url": "https://open.spotify.com/track/2sMGRziLt3qD6cO85tf44o"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "Si seulement...",
-        "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Si seulement...",
-      "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -647,6 +647,30 @@
       "duration_ms": 135000,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u"
+    },
+    {
+      "added_at": "2024-09-20 04:43:11",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Prototype",
+          "url": "https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo"
+        }
+      ],
+      "duration_ms": 246978,
+      "name": "PONA NINI",
+      "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
       "added_at": "2024-09-20 04:43:11",
@@ -891,22 +915,6 @@
       "duration_ms": 166774,
       "name": "Sugar daddy",
       "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
-    },
-    {
-      "added_at": "2024-09-20 04:43:11",
-      "album": {
-        "name": "J'ai l'impression",
-        "url": "https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 167563,
-      "name": "J'ai l'impression",
-      "url": "https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz"
     },
     {
       "added_at": "2024-09-20 04:43:11",

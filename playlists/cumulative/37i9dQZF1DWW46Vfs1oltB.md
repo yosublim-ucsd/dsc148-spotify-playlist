@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Jay Park\(박재범\)\)
 
-1,316 songs - 2 day 23 hr 21 min
+1,317 songs - 2 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1129,6 +1129,7 @@
 | [The Masquerade](https://open.spotify.com/track/4Tahw1YkBZdfzMeCjgjRkE) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [FANATIC : 13th Anniversary Edition](https://open.spotify.com/album/5Pywv3nGXSPqpENgc6Mtdp) | 4:08 | 2022-03-26 | 2022-07-06 |
 | [THE NICE FREESTYLE](https://open.spotify.com/track/4zXBEMN4LdPPwnAytHrxi2) | [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK) | [THE NICE FREESTYLE](https://open.spotify.com/album/5zTGDCsfu2yTf8NA2OXHfl) | 3:29 | 2024-05-30 |  |
 | [The Notorious \(feat\. BOBBY & DAMINI\)](https://open.spotify.com/track/31uX7zezKOuaxhgr8mUFMB) | [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [READMISSION](https://open.spotify.com/album/4G78sgtDniNBDajtRnVeEw) | 3:48 | 2024-04-19 | 2024-06-29 |
+| [The Origin](https://open.spotify.com/track/5jh8ssdRMrph81WwWoo8KX) | [OGS](https://open.spotify.com/artist/7wm0otkakoYAlmrqWhUfdH) | [The Origin](https://open.spotify.com/album/7ssfKhD8iDM3w4WsWARv1d) | 4:15 | 2024-09-21 |  |
 | [The Roots \(Feat\. JUSTHIS\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/6LSRHi9dycuaS83L0Yych1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:05 | 2023-01-10 | 2023-01-18 |
 | [The Scent of Life](https://open.spotify.com/track/039K4B6V38d38WzSkchtyx) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Yoon Mi Rae \(T\) the First Album \(As Time Goes By\)](https://open.spotify.com/album/0RoshgK629hYRo0wU6LHb0) | 3:56 | 2023-01-10 | 2023-01-18 |
 | [The Trapper](https://open.spotify.com/track/7KSo4suJ1r37GtTfG6hfuc) | [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM) | [Hyun Seong So](https://open.spotify.com/album/24xU8EWabeqwXltGNRIqn7) | 2:50 | 2022-09-08 | 2022-10-08 |

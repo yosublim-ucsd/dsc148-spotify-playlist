@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: The Purge
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,161 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,191 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 4 | [Games Of Destiny \(Knockout Outdoor 2024 Anthem\)](https://open.spotify.com/track/50DIJDupovqbGfCCl1ZTFy) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Adriana Stone](https://open.spotify.com/artist/5s8VWRoP7qFE4SVRaIdStT) | [Games Of Destiny \(Knockout Outdoor 2024 Anthem\) \[feat\. Adriana Stone\]](https://open.spotify.com/album/4uOY94Zo1KDjq76aVckmnF) | 3:36 |
 | 5 | [Sin City](https://open.spotify.com/track/2yWQsPYBRRus0kFS6qewDW) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Sin City](https://open.spotify.com/album/7Df8MeG58aggdbwBMrurgk) | 4:17 |
 | 6 | [Rave Dream](https://open.spotify.com/track/1MnOMs1o74bk7VzpYw0pco) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Rave Dream](https://open.spotify.com/album/27Z6aOQL42u7u0FgluJ7OW) | 2:37 |
-| 7 | [Another World](https://open.spotify.com/track/5AjJk4nV07BeLxXFuxwPd9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN) | [Another World](https://open.spotify.com/album/5K3DstlwjgebkL7sJyghKJ) | 3:56 |
+| 7 | [Another World](https://open.spotify.com/track/5AjJk4nV07BeLxXFuxwPd9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Another World](https://open.spotify.com/album/5K3DstlwjgebkL7sJyghKJ) | 3:56 |
 | 8 | [Wide Awake](https://open.spotify.com/track/6ykkQVbhf1uBhlaFYCkFCI) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Wide Awake](https://open.spotify.com/album/62ro2RWYySrYQvSFasrRLd) | 2:51 |
 | 9 | [Party All The Time](https://open.spotify.com/track/7MxyjShs8F5zq2iiiIwdQ1) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Party All The Time](https://open.spotify.com/album/4eejWz2lmDQFjwEcI5SFhN) | 2:44 |
 | 10 | [My Weakness](https://open.spotify.com/track/2p0ABXkWRU53bqRq1K4YgC) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [My Weakness](https://open.spotify.com/album/3ckq27IVjUd8eDhvDH6gQT) | 2:45 |

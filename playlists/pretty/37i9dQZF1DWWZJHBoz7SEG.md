@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Mientras Septiembre no se acabe, nosotros seguimos la fiesta con Grupo Marca Registrada y Deorro! 🇲🇽🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,074 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,261 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 19 | [Notredame](https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Notredame](https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T) | 2:49 |
 | 20 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 |
 | 21 | [G O D D E S S](https://open.spotify.com/track/6CqT8nNfeFX89UaZQn6eIa) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [G O D D E S S](https://open.spotify.com/album/3Nu0PN3Oiw7Z1yCqDubU4m) | 2:35 |
-| 22 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bazs Hitters](https://open.spotify.com/artist/5sCGyvWFKZ0t6ZTn52hARX) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
+| 22 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
 | 23 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
 | 24 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
 | 25 | [MI AMIGA ES UNA P](https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [UNDERWATER](https://open.spotify.com/album/6Q6k7LvauK7jFZNe3hnRqB) | 2:42 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 30 | [La 40](https://open.spotify.com/track/2d7KNIUi1hdjrE5WD3iAg0) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [LA 40](https://open.spotify.com/album/3OzhitEA1330m3Uqiyz80W) | 2:53 |
 | 31 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
 | 32 | [Afortunada](https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Afortunada](https://open.spotify.com/album/5kC1XgP6HSTEXLux9mQCB9) | 2:44 |
-| 33 | [Aun Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aun Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
+| 33 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 34 | [Un Amor Bonito](https://open.spotify.com/track/1JQfkZedTZnrudWt104FEt) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Un Amor Bonito](https://open.spotify.com/album/6dzoLkJvnmpTfjaElAPrEG) | 2:33 |
 | 35 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
 | 36 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \- Con David Summers](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |

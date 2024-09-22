@@ -2,7 +2,7 @@
 
 ### [This Is Noah Kahan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Exmrs)
 
-> This is Noah Kahan\. The essential tracks, all in one playlist.
+> This Is Noah Kahan\. Les titres incontournables, réunis dans une seule et même playlist.
 
 75 songs - 4 hr 37 min
 

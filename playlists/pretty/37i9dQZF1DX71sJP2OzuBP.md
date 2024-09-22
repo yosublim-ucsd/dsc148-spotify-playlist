@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,870 likes - 122 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,869 likes - 122 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 7 | [小蝴蝶](https://open.spotify.com/track/4IsPpXAVXDIbxdf72M094J) | [MAD](https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze) | [小蝴蝶](https://open.spotify.com/album/03UXmbAoRq6a1HFft4tucs) | 3:26 |
 | 8 | [你我 \(影視劇《九部的檢察官》情感曲\)](https://open.spotify.com/track/2UR2lNbbDZyYUBDWrXZIiO) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [影視劇《九部的檢察官》原聲帶](https://open.spotify.com/album/7FadrmXJj99PhdVkQVtfC5) | 3:59 |
 | 9 | [縫補傷的人](https://open.spotify.com/track/3jEEH8chKE09e8ONgxo1Hw) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [縫補傷的人](https://open.spotify.com/album/2QmNxNAagoEXqjiF0MIkkC) | 4:31 |
-| 10 | [在北极写信给你](https://open.spotify.com/track/30qSgNKxXPKEaMozkfQylu) | [深海鱼子酱](https://open.spotify.com/artist/7IwX6b1kdlcOxOa8NpsCwo) | [在北极写信给你](https://open.spotify.com/album/0iqN4qLXCdWZeXTw7eRmud) | 3:54 |
+| 10 | [在北极写信给你](https://open.spotify.com/track/30qSgNKxXPKEaMozkfQylu) | [YuZi](https://open.spotify.com/artist/3nidv77ujBu7pTQOyFcImH) | [在北极写信给你](https://open.spotify.com/album/0iqN4qLXCdWZeXTw7eRmud) | 3:54 |
 | 11 | [要记得我说过的话](https://open.spotify.com/track/6zOmwflYbWwABy4AvofpsO) | [烟\(许佳豪\)](https://open.spotify.com/artist/2DXogZyZTpItlsIGCG6Qpt) | [要记得我说过的话](https://open.spotify.com/album/2NYI2RoH9Ht0xH3Mg8dw5c) | 3:43 |
 | 12 | [億點點](https://open.spotify.com/track/3gXfPCQRNtS9r2i9W3cvxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [謝慧嫻 Stella](https://open.spotify.com/artist/4LZDii3NkICtWotw25Pt4i) | [億點點](https://open.spotify.com/album/5CCCFBeZXAX3xRgssdX3aC) | 3:08 |
 | 13 | [黑洞](https://open.spotify.com/track/7sWMk8eW2Eu1wzcoaZu6As) | [吳是閎](https://open.spotify.com/artist/1gjgosK4xDv4S0zGOgcKhH) | [黑洞](https://open.spotify.com/album/0g9fRU7wD5drH3k6hKofrQ) | 3:59 |

@@ -2,9 +2,9 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is Danny Felix\. The essential tracks, all in one playlist.
+> This is: Danny Felix\. Alle wichtigen Tracks in einer Playlist.
 
-86 songs - 4 hr 50 min
+87 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 |  |
 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 | 2024-02-14 | 2024-08-11 |
 | [BANDIDOS](https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:50 | 2024-01-29 |  |
-| [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 |  |
+| [Brillando Bengalas](https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0) | 2:27 | 2024-09-22 |  |
+| [Brillando Bengalas](https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Nivel Dios](https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u) | 2:27 | 2024-03-01 | 2024-09-22 |
 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 | 2024-01-29 |  |
 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 |  |
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [La Destreza](https://open.spotify.com/artist/24R1KBqLrpV8Ta5Yha8TTm), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 |  |

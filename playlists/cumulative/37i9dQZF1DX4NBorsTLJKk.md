@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-163 songs - 11 hr 40 min
+164 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [同一個下雨天](https://open.spotify.com/track/3hfhrCKA37Rq0wEPR8F8H6) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [雨天。日記](https://open.spotify.com/album/4BxdNZfGVvZsdse48Ieyd8) | 3:39 | 2022-09-05 | 2023-02-25 |
 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 | 2022-09-05 |  |
 | [在狂雨中](https://open.spotify.com/track/7exYTigadzsYN668TBami6) | [David Huang](https://open.spotify.com/artist/78NfAbd1srddKUQz4ytHWd) | [手下留情](https://open.spotify.com/album/3liazabJeymD8r6oLWSTVF) | 6:05 | 2021-11-22 | 2022-07-29 |
-| [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 |  |
+| [多雨的城市 \- 2020](https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU) | [Mary See the Future 先知瑪莉](https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP) | [多雨的城市 \(2020\)](https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx) | 5:26 | 2021-11-22 | 2024-09-22 |
 | [夜雨](https://open.spotify.com/track/3UoF18UQUsMcNpZCnYzpd4) | [派對紳士](https://open.spotify.com/artist/2zYn9LCK3BBJEzF7e9fh0Y) | [專屬暗號](https://open.spotify.com/album/5NMw4YxVESOHqA5hqVXRxz) | 4:01 | 2023-01-10 | 2023-02-26 |
 | [夜雨](https://open.spotify.com/track/7mFCNlD2iFvaSxBvZsm7Yk) | [派對紳士](https://open.spotify.com/artist/2hPOuwoy5IpYmDHJmWMsvq) | [專屬暗號](https://open.spotify.com/album/0odBFuc4f0g84KxyhqAxLE) | 4:01 | 2021-11-22 | 2022-07-26 |
 | [大雨](https://open.spotify.com/track/2U2wahaZnYyExiJkpgHmU1) | [娃娃](https://open.spotify.com/artist/6S8MrxRafKB4y6qUz8xKCg) | [金智娟經典重生輯](https://open.spotify.com/album/1HaU6ost9P8XkC9D6wXNBC) | 4:49 | 2022-09-05 | 2024-04-19 |
@@ -79,6 +79,7 @@
 | [想要淋雨的人 \(電影《全面攻佔3:天使救援》中文宣傳曲\)](https://open.spotify.com/track/6tpw6fA4DDrwWp5Ettz2MC) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [想要淋雨的人 \(電影《全面攻佔3:天使救援》中文宣傳曲\)](https://open.spotify.com/album/1NU6x0Fn10YFh0bq0vwgp9) | 3:31 | 2021-11-22 | 2023-06-28 |
 | [愛上下雨天](https://open.spotify.com/track/55BYgPXgJY7SFHBJ6jUz6g) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [新鮮](https://open.spotify.com/album/4k8c7UGWxzwlkdvjy3Wlx7) | 4:28 | 2021-11-22 | 2024-01-02 |
 | [愛上下雨天](https://open.spotify.com/track/6GTQH0BrVbV8KO1rI1xeA7) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [新鮮](https://open.spotify.com/album/5yX5j54j65WUtQGplBScZm) | 4:28 | 2023-09-20 | 2024-04-19 |
+| [愛在雨季](https://open.spotify.com/track/0RxnzlWHkeUsAVV1oGLwsU) | [吳映香](https://open.spotify.com/artist/0eUn7kfD3cW5SQ4f3eJXXW) | [愛在雨季](https://open.spotify.com/album/1ZsDL6I0mkMaafkE0c5JLL) | 2:46 | 2023-09-20 |  |
 | [整座城市都在下雨](https://open.spotify.com/track/2tC9417EOGfxP1mYHXn9rl) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/4Q44cNWQXpBdBzUUDgQIMK) | 5:09 | 2022-09-05 | 2022-10-07 |
 | [整座城市都在下雨](https://open.spotify.com/track/4E8wNU9geZMNFW8K1au54s) | [Teresa Tseng](https://open.spotify.com/artist/4bliFwoYKuaWBNHMOOu72z) | [想遇見](https://open.spotify.com/album/0dH2XqKTKGgcMvTDURokVY) | 5:09 | 2021-11-22 | 2022-07-21 |
 | [晴天雨天](https://open.spotify.com/track/1AzQjh998Ha3YKhVsUMnd5) | [唐貓 SUGARCAT](https://open.spotify.com/artist/4aWERTpHN8Z4OEtq9hcLR9) | [晴天雨天](https://open.spotify.com/album/5df0AO6gNJBe5KvX4C3tKw) | 3:47 | 2021-11-22 | 2024-04-19 |

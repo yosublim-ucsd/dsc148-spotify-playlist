@@ -1,12 +1,12 @@
 {
   "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
-  "num_followers": 83557,
+  "num_followers": 83571,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAADnWu0/wif8qBgiwUHFMxM7",
+  "snapshot_id": "Zuy7AAAAAAAkFH2vdThmCm9foNJyhPw/",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Piensame",
-      "url": "https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF"
+      "duration_ms": 188080,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
+      "duration_ms": 226240,
+      "name": "Piensame",
+      "url": "https://open.spotify.com/track/649bIUP229t1UR3KBAZdaF"
     },
     {
       "added_at": null,
@@ -579,6 +579,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
+      },
+      "artists": [
+        {
+          "name": "Shamanes Crew",
+          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "San\u00e1ndonos",
+      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Could You Be Loved",
         "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00f3tem",
-        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
-      },
-      "artists": [
-        {
-          "name": "Shamanes Crew",
-          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
-        },
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Tiano Bless",
-          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "San\u00e1ndonos",
-      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 325450,
-      "name": "Divina verdad",
-      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
+      "duration_ms": 233465,
+      "name": "Mejor que intentes otra vez",
+      "url": "https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 233465,
-      "name": "Mejor que intentes otra vez",
-      "url": "https://open.spotify.com/track/3HCpsDMzAL3ksrPTP02KL8"
+      "duration_ms": 325450,
+      "name": "Divina verdad",
+      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 943869,
+  "num_followers": 943928,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,18 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Vestido Curto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
       "artists": [
         {
           "name": "Diego & Victor Hugo",
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 151976,
-      "name": "Vestido Curto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
+      "duration_ms": 190276,
+      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -243,18 +239,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+        "name": "Vestido Curto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/50EBa9sCxSSWP1NqkYawcC"
       },
       "artists": [
         {
           "name": "Diego & Victor Hugo",
           "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 190276,
-      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
+      "duration_ms": 151976,
+      "name": "Vestido Curto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -619,22 +619,18 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Surto De Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
+        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         }
       ],
-      "duration_ms": 157202,
-      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
-      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
+      "duration_ms": 145197,
+      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -655,6 +651,26 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
+        "name": "Surto De Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 157202,
+      "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
+      "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
         "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 173226,
       "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 145197,
-      "name": "Bagun\u00e7a Minha Vida - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
+        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 152149,
+      "name": "Mo\u00e7a do Espelho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
         "name": "C\u00e9u de S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 176155,
       "name": "Deixa a Gente Quieto - Ao Vivo",
       "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 152149,
-      "name": "Mo\u00e7a do Espelho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

@@ -1,6 +1,6 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 526804,
+  "num_followers": 526808,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-09-17 16:04:43",
       "album": {
-        "name": "Lay Me Down (feat. IZA)",
-        "url": "https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 253681,
-      "name": "Lay Me Down (feat. IZA)",
-      "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"
-    },
-    {
-      "added_at": "2024-09-17 16:04:43",
-      "album": {
         "name": "Chasing_(Demo)",
         "url": "https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 181714,
       "name": "Chasing_(Demo)",
       "url": "https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT"
+    },
+    {
+      "added_at": "2024-09-17 16:04:43",
+      "album": {
+        "name": "Lay Me Down (feat. IZA)",
+        "url": "https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 253681,
+      "name": "Lay Me Down (feat. IZA)",
+      "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"
     },
     {
       "added_at": "2024-09-17 16:04:43",

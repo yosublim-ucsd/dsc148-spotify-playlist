@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: 156/Silence
 
-1,014 songs - 2 day 14 hr 49 min
+1,015 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Parasite](https://open.spotify.com/track/4V004qkJIj2kvRUvA28LI3) | [Abyss Walker](https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ), [Sammy SlamDance](https://open.spotify.com/artist/64LYfCjQQZTG2ygTRfFzk1), [Nick Cross](https://open.spotify.com/artist/0YSnq2dV2heq3fiu5kacmH), [Divisive](https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC) | [Parasite](https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP) | 3:51 | 2022-07-13 | 2022-07-22 |
 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-02-24 | 2024-02-10 |
 | [Passenger](https://open.spotify.com/track/2SXk2Adq9A8hMvrbglHmRs) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [This place only brings death](https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0) | 3:59 | 2023-09-29 | 2024-06-05 |
+| [PAY ATTENTION](https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [PAY ATTENTION](https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz) | 3:20 | 2024-09-20 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 | 2024-02-27 |
@@ -869,7 +870,7 @@
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
 | [The Far Side](https://open.spotify.com/track/3ws26a6G2rYjtAD5fK9ObC) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Vended](https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU) | 4:58 | 2024-09-20 |  |
-| [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-12 |  |
+| [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-12 | 2024-09-22 |
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 | 2024-08-26 |
 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |
 | [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |

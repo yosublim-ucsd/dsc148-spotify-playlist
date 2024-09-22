@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 170364,
+  "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
+  "num_followers": 170454,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAACVtH6klvLxHd99UxQ6UL7f",
+  "snapshot_id": "Zuy7AAAAAAA11JqB/pM+nggLI1flKUL6",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207906,
       "name": "Dios No Lo Quiera",
       "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
     },
     {
       "added_at": null,

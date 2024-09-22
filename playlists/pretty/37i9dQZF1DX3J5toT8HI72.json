@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 774982,
+  "num_followers": 775027,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Bossa Nova Essenciais",
-        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
-      },
-      "artists": [
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251426,
       "name": "Luz Dos Olhos - Ao Vivo",
       "url": "https://open.spotify.com/track/2evNqAoJGCTbfx9KEqzPQ9"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Bossa Nova Essenciais",
+        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
+      },
+      "artists": [
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2024-08-30 13:54:21",

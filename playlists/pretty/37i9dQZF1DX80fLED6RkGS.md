@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Joefes
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,498 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,506 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 8 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 |
 | 9 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 | 10 | [Peleka Chini](https://open.spotify.com/track/40z0fTZsUf9ONKT80tF2QG) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Peleka Chini](https://open.spotify.com/album/5fQntkWvwb7rjFXnOM6Vh0) | 2:52 |
-| 11 | [Kudade \- Fancy Fingers Refix](https://open.spotify.com/track/1R74ifptJ17EjVxpoqhBTP) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [JohnnyJohnny](https://open.spotify.com/artist/3ag7A8dU7kabvBIyTiIP3H), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Kudade \(Fancy Fingers Refix\)](https://open.spotify.com/album/5K9DKeLWrpVl5W0GzUA5ju) | 3:17 |
+| 11 | [Kudade \- Fancy Fingers Refix](https://open.spotify.com/track/1R74ifptJ17EjVxpoqhBTP) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Johnny Johnny](https://open.spotify.com/artist/6zcJl0I5G3JX8Z3qzLfW1K) | [Kudade \(Fancy Fingers Refix\)](https://open.spotify.com/album/5K9DKeLWrpVl5W0GzUA5ju) | 3:17 |
 | 12 | [Pressure](https://open.spotify.com/track/3RWuvQbOWKZ9oJfO09nFu7) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pressure](https://open.spotify.com/album/1lYadJfRqKScfW1STZ2Fth) | 2:40 |
 | 13 | [Kuja Ruiru Remix](https://open.spotify.com/track/2RyMBsVAQLXhWip5CyI4Fq) | [Ouka Harry](https://open.spotify.com/artist/2pR1WpfygcYIttGgB2YzNg), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Kuja Ruiru Remix](https://open.spotify.com/album/2HzdQvcsCZWRi5KxQtd5PK) | 3:29 |
 | 14 | [Dedi Dedilee](https://open.spotify.com/track/2TyeNaKpRKsQzQYP5D5i9i) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Dedi Dedilee](https://open.spotify.com/album/1KnlYboasv4DR1BsksHBv3) | 3:09 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Oxlade and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,951 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,039 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
+| 1 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 2 | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq) | 2:36 |
 | 3 | [TOO FAST](https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:25 |
 | 4 | [Raba](https://open.spotify.com/track/0NOQsEqzVIRy8nigNHP4hm) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Sir hopy](https://open.spotify.com/artist/1bWf2YvWHsAb9M9agK2Hwu) | [Raba](https://open.spotify.com/album/6F8fAHLAtjOqrfPHLs2MWS) | 2:38 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 20 | [PONA NINI](https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:06 |
 | 21 | [ONE DAY \(feat\. Libianca\)](https://open.spotify.com/track/2HnKFaStqZQaXomTuCa1WC) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:17 |
 | 22 | [Blessings](https://open.spotify.com/track/49UE0b2lwMw7edazWGvdy7) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Blessings](https://open.spotify.com/album/5FxxGiOmN3t6E5YuAj0gpQ) | 3:28 |
-| 23 | [Miskeena](https://open.spotify.com/track/5Amw6VxWBUBi90IVTIxHOO) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Miskeena](https://open.spotify.com/album/7AEy07W7u1H0nnyvJt2fEV) | 2:30 |
+| 23 | [Miskeena](https://open.spotify.com/track/5Amw6VxWBUBi90IVTIxHOO) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Miskeena](https://open.spotify.com/album/7AEy07W7u1H0nnyvJt2fEV) | 2:32 |
 | 24 | [Safe](https://open.spotify.com/track/7dXdkGdFsBqHA12BCLrYm2) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Story of Our Lives](https://open.spotify.com/album/11She1URb5G1orrCZeLFsG) | 2:42 |
 | 25 | [Sign](https://open.spotify.com/track/1liuSUuFDJm5FFNaljnQXX) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [Waltar](https://open.spotify.com/artist/1zguzPA6Qj9VEI2C3frGRd), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [A Place 4 You \(Songs For Amahle\)](https://open.spotify.com/album/5zUHSvE8bYXIsazHmkbcyK) | 2:41 |
 | 26 | [Somebody Else's](https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Somebody Else's](https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy) | 3:44 |

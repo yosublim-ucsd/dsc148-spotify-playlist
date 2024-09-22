@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: THUS LOVE
 
-1,630 songs - 3 day 18 hr 1 min
+1,631 songs - 3 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,6 +1312,7 @@
 | [Speaking In Tongues](https://open.spotify.com/track/1w0W9lLBKPzXOXSfBouKop) | [In The Pines](https://open.spotify.com/artist/3KQoZQIHTfe9FsMMRuw9S6) | [Painting By Numbers](https://open.spotify.com/album/0Tu8sQkAEgOPCDTPBMzZZP) | 4:01 | 2023-11-08 | 2024-04-04 |
 | [Special](https://open.spotify.com/track/5cguM5xFmj0CLWZTycYxUp) | [Lindsay Coulson](https://open.spotify.com/artist/4Ez7b0CUctOsgdPgDBSimI) | [Special](https://open.spotify.com/album/1846fEX7cXPjEd7YuH8dwV) | 3:32 | 2022-08-24 | 2023-01-12 |
 | [Speed Freak](https://open.spotify.com/track/4fQOkwVQq2nD2JXMMKFg8X) | [Grazia](https://open.spotify.com/artist/4tcHXoy77cX7v2yHLkG1Xd) | [In Poor Taste](https://open.spotify.com/album/0oMT4DHBmYID7DiUEYxYFH) | 2:07 | 2024-02-07 | 2024-07-04 |
+| [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 | 2024-09-21 |  |
 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 | 2023-08-02 | 2023-11-30 |
 | [spin the bottle](https://open.spotify.com/track/7JXtmsHpGslWNlBloLG8WP) | [massie99](https://open.spotify.com/artist/26lkYo9suieohq7ZCsxSYY) | [spin the bottle](https://open.spotify.com/album/0gwhE24PH9EXwBJj6lxeJm) | 1:29 | 2024-07-03 | 2024-08-15 |
 | [Spiral](https://open.spotify.com/track/192dXdVrtl5jRdfbCWfv5k) | [Madam Bombs](https://open.spotify.com/artist/2fbXad6V1vzVbsCL7o1nfV) | [Spiral](https://open.spotify.com/album/3AwFtLV4QVt7LeUNIfAnuU) | 3:32 | 2023-01-18 | 2023-03-02 |

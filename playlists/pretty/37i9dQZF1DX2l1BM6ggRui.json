@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6512,
+  "num_followers": 6515,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "Page 0",
         "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 187360,
       "name": "Page 0",
       "url": "https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "Summer Bliss",
-        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
-      },
-      "artists": [
-        {
-          "name": "JinE",
-          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Summer Bliss",
-      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "WATCH ME !",
-        "url": "https://open.spotify.com/album/32FwrQyrSpcjo8831ZzhLY"
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
       },
       "artists": [
         {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
-        },
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
         }
       ],
-      "duration_ms": 186040,
-      "name": "WATCH ME !",
-      "url": "https://open.spotify.com/track/7GJAyy2kGrQ6GdfNUUjyTN"
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -835,6 +815,26 @@
       "duration_ms": 206624,
       "name": "Take it To the Grave",
       "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
+        "name": "WATCH ME !",
+        "url": "https://open.spotify.com/album/32FwrQyrSpcjo8831ZzhLY"
+      },
+      "artists": [
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        },
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "WATCH ME !",
+      "url": "https://open.spotify.com/track/7GJAyy2kGrQ6GdfNUUjyTN"
     },
     {
       "added_at": "2024-09-04 08:03:50",

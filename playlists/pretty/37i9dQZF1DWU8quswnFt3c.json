@@ -1,31 +1,35 @@
 {
-  "description": "Listen to women at full volume from across the world. Cover: Maria Becerra",
-  "num_followers": 965161,
+  "description": "Listen to women at full volume from across the world. Cover: Shreya Ghoshal.",
+  "num_followers": 965398,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZupQQAAAAACtoLQpFQLhH7eW4tPZi+Vn",
+  "snapshot_id": "Zu5EwAAAAAAn0YiqGTrraI5D8Z7o0Uw/",
   "tracks": [
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
-        "name": "AGORA",
-        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+        "name": "Angana Morey",
+        "url": "https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Soumyadeep Ghoshal",
+          "url": "https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF"
         }
       ],
-      "duration_ms": 153564,
-      "name": "AGORA",
-      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+      "duration_ms": 225909,
+      "name": "Angana Morey",
+      "url": "https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -61,39 +65,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
@@ -109,23 +81,63 @@
       "url": "https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Maharaj",
+        "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 204041,
+      "name": "Haan Ke Haan",
+      "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
@@ -145,23 +157,7 @@
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -185,7 +181,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
@@ -201,7 +197,39 @@
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Leta Jaijo Re | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Chotu Khan",
+          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+        },
+        {
+          "name": "Jaipur Kawa Brass Band",
+          "url": "https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 234913,
+      "name": "Leta Jaijo Re | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -217,7 +245,7 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -233,7 +261,7 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
@@ -249,7 +277,47 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Kalpana Gandharva",
+          "url": "https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax"
+        },
+        {
+          "name": "A M Turaz",
+          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
+        }
+      ],
+      "duration_ms": 251735,
+      "name": "Ek Baar Dekh Lijiye",
+      "url": "https://open.spotify.com/track/7M5iFFOJlvUWpg3A56GVAL"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Terlintas",
         "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
@@ -265,7 +333,7 @@
       "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -281,7 +349,7 @@
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -317,7 +385,7 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
@@ -333,7 +401,51 @@
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -349,7 +461,7 @@
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
@@ -365,7 +477,7 @@
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Read My Lips - Deluxe Version",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -381,7 +493,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -397,7 +509,7 @@
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "JOYRIDE",
         "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
@@ -413,7 +525,7 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
@@ -429,7 +541,7 @@
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
@@ -445,7 +557,7 @@
       "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
@@ -461,7 +573,7 @@
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "WOMAN\u2019S WORLD",
         "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
@@ -477,7 +589,39 @@
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
@@ -497,23 +641,7 @@
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 456866,
-      "name": "It's All Coming Back to Me Now",
-      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Meio Cidade / Meio Interior EP. 1",
         "url": "https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG"
@@ -529,7 +657,7 @@
       "url": "https://open.spotify.com/track/0m0SnvnhsVJs580ZP5i4vO"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
@@ -545,23 +673,7 @@
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "15 MINUTES",
-        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 189192,
-      "name": "15 MINUTES",
-      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
@@ -577,7 +689,23 @@
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "15 MINUTES",
+        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 189192,
+      "name": "15 MINUTES",
+      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh"
@@ -601,7 +729,23 @@
       "url": "https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203482,
+      "name": "Everything is romantic",
+      "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
+    },
+    {
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Love On",
         "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
@@ -617,7 +761,7 @@
       "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr"
@@ -633,7 +777,7 @@
       "url": "https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
@@ -653,23 +797,7 @@
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203482,
-      "name": "Everything is romantic",
-      "url": "https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Quantum Baby",
         "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
@@ -685,7 +813,7 @@
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
@@ -713,7 +841,7 @@
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
@@ -729,7 +857,7 @@
       "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Sheryl Crow",
         "url": "https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd"
@@ -745,7 +873,7 @@
       "url": "https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Puntirya",
         "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
@@ -761,7 +889,7 @@
       "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
+      "added_at": "2024-09-21 04:00:00",
       "album": {
         "name": "Dirt Femme",
         "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
@@ -775,98 +903,6 @@
       "duration_ms": 185875,
       "name": "2 Die 4",
       "url": "https://open.spotify.com/track/1VYlIU9IpVa4MHUqzKHyOb"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Immortal Queen (feat. Chaka Khan & Neneh Cherry)",
-        "url": "https://open.spotify.com/album/10PRsSg1UHMMHmrVU8rdQQ"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 214828,
-      "name": "Immortal Queen (feat. Chaka Khan & Neneh Cherry)",
-      "url": "https://open.spotify.com/track/1oaTGSu8QidJIyLt4SKWLk"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "\u6211\u5feb\u6a02\u55ce",
-        "url": "https://open.spotify.com/album/4GCphKqkTtAiIl23y8zhZm"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "\u6211\u5feb\u6a02\u55ce",
-      "url": "https://open.spotify.com/track/2RsJqOLTyk2iGpchwb8xIQ"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Faut que tu m'aimes",
-        "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "Faut que tu m'aimes",
-      "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 245521,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Tu Jhoom",
-        "url": "https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M"
-      },
-      "artists": [
-        {
-          "name": "Naseebo Lal",
-          "url": "https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a"
-        },
-        {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
-        }
-      ],
-      "duration_ms": 397546,
-      "name": "Tu Jhoom",
-      "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
     }
   ],
   "unique_name": "EQUAL",

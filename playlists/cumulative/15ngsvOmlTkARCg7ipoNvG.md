@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,800 songs - 1 day 13 hr 5 min
+1,803 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Forgiving Time](https://open.spotify.com/track/3iPkJtUr8qDIhTljuiJtEM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:06 | 2022-01-21 |  |
 | [Forgiving Times \- Cello Version](https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forgiving Times](https://open.spotify.com/album/2n0vBsVAWzmbwuM4YsYBK4) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Forgiving Times Arr\. For Strings](https://open.spotify.com/track/6YDWylhDSKTsMuUz7TLsum) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Forgiving Times Arr\. For Strings](https://open.spotify.com/album/3wUFg8a9aYgpZUUrkYshEv) | 1:00 | 2023-09-27 |  |
+| [Forward](https://open.spotify.com/track/2O2qQoNFS22SwO8HPdocY7) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Forward](https://open.spotify.com/album/2W8jEtqhZAM6jrCULtRdbU) | 1:00 | 2024-09-21 |  |
 | [Forward Together](https://open.spotify.com/track/57nzVFPqrEPnsMJEXmdXHe) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
 | [Found \- Piano Lullaby Version](https://open.spotify.com/track/3qxGQAiAc4jIPE2M4R2FPX) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Found](https://open.spotify.com/album/4VDKpdoqS9XnvfeAjVMU3M) | 1:00 | 2024-04-19 |  |
 | [Found and Lost](https://open.spotify.com/track/5ZiTk9bTnXha6YqjL8PYX2) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Melancholy](https://open.spotify.com/album/4w5UWNsIFePMRrgx147NvB) | 1:49 | 2022-01-12 | 2024-01-30 |
@@ -678,6 +679,7 @@
 | [Gazing at the Universe](https://open.spotify.com/track/78san9vKKucgdUjkBGN44x) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Nocturnal](https://open.spotify.com/album/4TMcXG9vuGb5jDRLdcEhhF) | 1:49 | 2024-01-29 |  |
 | [Gazing Towards The Sky](https://open.spotify.com/track/4awAMEKytUSE7r5j4d5XXs) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gazing Towards The Sky](https://open.spotify.com/album/11AvT7xDlcFEwP50VQqRfU) | 1:00 | 2022-06-18 |  |
 | [Gazing Up](https://open.spotify.com/track/65BrSKwNrvW8jADQQSWpMg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
+| [Gentle Breath](https://open.spotify.com/track/7Ct5htZuLBzmiZAhh5XBVU) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Gentle Breath](https://open.spotify.com/album/3hP5URaSBhPmG3X5EBx9aC) | 1:00 | 2024-09-21 |  |
 | [Gentle Fall](https://open.spotify.com/track/0uNJhJw62KQf8yPqBEH10w) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:16 | 2024-01-29 |  |
 | [Gentle Fall \- Strings Version](https://open.spotify.com/track/7IV4JK8YpM3bLSBkSVEzzC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Gentle Fall \(Strings Version\)](https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj) | 1:00 | 2023-01-29 | 2024-02-13 |
 | [Gentle Flight](https://open.spotify.com/track/4q7FJ0Xiftijp3gmwau2n1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
@@ -1480,6 +1482,7 @@
 | [Staying](https://open.spotify.com/track/6mPhDJ23EcTSySV5GjWWfy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:05 | 2022-01-20 |  |
 | [Staying With You](https://open.spotify.com/track/7H53TRynOJ1UVldh4iBVg6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 2](https://open.spotify.com/album/0ZpYIReXZsftPNnwQsNEF9) | 1:09 | 2022-02-10 | 2024-01-30 |
 | [Steadily](https://open.spotify.com/track/0yYOqGEjN3a9U5KBfKoYmg) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-21 | 2024-01-30 |
+| [Steady](https://open.spotify.com/track/03lORgNpYtOyxXKex2yLg7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Steady](https://open.spotify.com/album/34cHXsmh22C7wlevgu8KIg) | 1:00 | 2024-09-21 |  |
 | [Stepping Stones \- Piano Version](https://open.spotify.com/track/34NNE3p9j0vJqWtkqyJNon) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Harp and Piano Lullabies](https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7) | 1:03 | 2023-05-14 | 2024-01-30 |
 | [Stepping Stones \- Strings Version](https://open.spotify.com/track/54gk1nWIruEU9zuarm1ZKQ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Stepping Stones](https://open.spotify.com/album/1FWVW3fUW1YfFXG2Psg0rE) | 1:03 | 2023-05-14 | 2024-02-13 |
 | [Still Breathing Deeply](https://open.spotify.com/track/0KtfZn2C8Hvk2CDHuwkwUl) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Still Breathing Deeply](https://open.spotify.com/album/5JFzh36NE9kANK9fEw2zjh) | 1:00 | 2024-02-09 | 2024-02-13 |

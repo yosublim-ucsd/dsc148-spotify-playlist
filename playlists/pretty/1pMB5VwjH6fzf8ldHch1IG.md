@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,384 likes - 60 songs - 3 hr 13 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,382 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 6 | [Did You Love Somebody](https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did You Love Somebody](https://open.spotify.com/album/7HYIpIJ4qfmAFqgHYOC3fR) | 4:09 |
 | 7 | [SHE'S THE WHOLE WORLD](https://open.spotify.com/track/1Vl7Xo7kT4MEXSQyNdGDOd) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [SHE'S THE WHOLE WORLD](https://open.spotify.com/album/52ZrJz647l0yIGx1wvgllt) | 2:07 |
 | 8 | [Spill The Tea](https://open.spotify.com/track/1iguChASZXHGVIpf96tb3B) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Spill The Tea](https://open.spotify.com/album/6vnz3Rk20X8evaJJuVl5AO) | 2:35 |
-| 9 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
+| 9 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 10 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
 | 11 | [PEACHES \(feat\. Princess Nokia\)](https://open.spotify.com/track/31kbfYh14g4xOjXtQUWXvM) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 3:36 |
 | 12 | [Jocelyn](https://open.spotify.com/track/4kTJ1qEFzbqt1sSigWVzWJ) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Jocelyn](https://open.spotify.com/album/2irLfxkqc0T040cfaQ5EkT) | 3:32 |

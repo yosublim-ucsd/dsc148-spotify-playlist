@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Arca & Tokischa",
-  "num_followers": 216079,
+  "num_followers": 216073,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
+        "name": "Hay Que Venir Al Sur",
+        "url": "https://open.spotify.com/album/09uJZ3rlqPosjshlIhLi2r"
+      },
+      "artists": [
+        {
+          "name": "Dulze",
+          "url": "https://open.spotify.com/artist/1PNJOvNCIMG9dN4cy7IG4D"
+        },
+        {
+          "name": "Ana Nieto",
+          "url": "https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn"
+        }
+      ],
+      "duration_ms": 166660,
+      "name": "Hay Que Venir Al Sur",
+      "url": "https://open.spotify.com/track/5npbKSTNpSEJ6CRU2y0qq4"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
         "name": "Oni Chan",
         "url": "https://open.spotify.com/album/6pamDkLxoyI6o0XIjd81Jv"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 150638,
       "name": "Oni Chan",
       "url": "https://open.spotify.com/track/3nkujAQ9G6VHdHc5f0ZD0n"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
-        "name": "Hay Que Venir Al Sur",
-        "url": "https://open.spotify.com/album/09uJZ3rlqPosjshlIhLi2r"
-      },
-      "artists": [
-        {
-          "name": "Dulze",
-          "url": "https://open.spotify.com/artist/1PNJOvNCIMG9dN4cy7IG4D"
-        },
-        {
-          "name": "Ana Nieto",
-          "url": "https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn"
-        }
-      ],
-      "duration_ms": 166660,
-      "name": "Hay Que Venir Al Sur",
-      "url": "https://open.spotify.com/track/5npbKSTNpSEJ6CRU2y0qq4"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
+        "name": "ANGELES - \u20b3",
+        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "\u20b3ngeles",
+      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
         "name": "Sin Noticias\u2026",
         "url": "https://open.spotify.com/album/6RMmCCmNSWSHbntvBPmJcC"
       },
@@ -819,30 +835,6 @@
       "duration_ms": 120629,
       "name": "Sin Noticias\u2026",
       "url": "https://open.spotify.com/track/5OtGiZ3BiLv5bP6Rplr0QU"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
-      },
-      "artists": [
-        {
-          "name": "Nevo Angel",
-          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
-        },
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 149230,
-      "name": "SUPERBETA",
-      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -867,18 +859,26 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "ANGELES - \u20b3",
-        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
       },
       "artists": [
         {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        },
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
         }
       ],
-      "duration_ms": 166285,
-      "name": "\u20b3ngeles",
-      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+      "duration_ms": 149230,
+      "name": "SUPERBETA",
+      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "Clavao en visto",
-        "url": "https://open.spotify.com/album/4PieOcv1NKQUUS0j1usMh6"
-      },
-      "artists": [
-        {
-          "name": "2pawn",
-          "url": "https://open.spotify.com/artist/2vU403y4Qz3R1OLcQ34eF2"
-        },
-        {
-          "name": "AfterSub",
-          "url": "https://open.spotify.com/artist/75MRgkPfL3kXAVdh23TZls"
-        }
-      ],
-      "duration_ms": 220169,
-      "name": "Clavao en visto",
-      "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
         "name": "Como Misa y Kira",
         "url": "https://open.spotify.com/album/0nHMCY2HK6i8LfXK5uIH2t"
       },
@@ -1059,6 +1039,26 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
+        "name": "Clavao en visto",
+        "url": "https://open.spotify.com/album/4PieOcv1NKQUUS0j1usMh6"
+      },
+      "artists": [
+        {
+          "name": "2pawn",
+          "url": "https://open.spotify.com/artist/2vU403y4Qz3R1OLcQ34eF2"
+        },
+        {
+          "name": "AfterSub",
+          "url": "https://open.spotify.com/artist/75MRgkPfL3kXAVdh23TZls"
+        }
+      ],
+      "duration_ms": 220169,
+      "name": "Clavao en visto",
+      "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
         "name": "Cuando Te Veo Pasar",
         "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 134697,
       "name": "Cuando Te Veo Pasar",
       "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
+        "name": "ME DUELE TANTO",
+        "url": "https://open.spotify.com/album/76u0WrZQpkB1Kvm39Y5swI"
+      },
+      "artists": [
+        {
+          "name": "ROXXXANA",
+          "url": "https://open.spotify.com/artist/6FejMEBcwLPCpnoQ2UTnOV"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "ME DUELE TANTO",
+      "url": "https://open.spotify.com/track/2XDhKrxadd2eZ8VJYKKEs3"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1171,22 +1187,6 @@
       "duration_ms": 143534,
       "name": "Trapboi",
       "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
-        "name": "ME DUELE TANTO",
-        "url": "https://open.spotify.com/album/76u0WrZQpkB1Kvm39Y5swI"
-      },
-      "artists": [
-        {
-          "name": "ROXXXANA",
-          "url": "https://open.spotify.com/artist/6FejMEBcwLPCpnoQ2UTnOV"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "ME DUELE TANTO",
-      "url": "https://open.spotify.com/track/2XDhKrxadd2eZ8VJYKKEs3"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "Enfermedad",
-        "url": "https://open.spotify.com/album/4T0TvG4am4yq4kX1EV5lx7"
-      },
-      "artists": [
-        {
-          "name": "Hilfi",
-          "url": "https://open.spotify.com/artist/3ebs7zyOKVqI3OMIHx40Qz"
-        },
-        {
-          "name": "Pokito Paranoiko",
-          "url": "https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag"
-        }
-      ],
-      "duration_ms": 158870,
-      "name": "Enfermedad",
-      "url": "https://open.spotify.com/track/3UhrvAdMSewBOgSjPK9KY9"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
         "name": "2005 a. A.",
         "url": "https://open.spotify.com/album/6XvEWWwGd7grI27bFKMDcu"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 157714,
       "name": "hoy amaneci\u00f3 nublado",
       "url": "https://open.spotify.com/track/2LtQ0EE4CwuDWiLb5uLt9r"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
+        "name": "Enfermedad",
+        "url": "https://open.spotify.com/album/4T0TvG4am4yq4kX1EV5lx7"
+      },
+      "artists": [
+        {
+          "name": "Hilfi",
+          "url": "https://open.spotify.com/artist/3ebs7zyOKVqI3OMIHx40Qz"
+        },
+        {
+          "name": "Pokito Paranoiko",
+          "url": "https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag"
+        }
+      ],
+      "duration_ms": 158870,
+      "name": "Enfermedad",
+      "url": "https://open.spotify.com/track/3UhrvAdMSewBOgSjPK9KY9"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
+        "name": "Diavlo",
+        "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Diavlo",
+      "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
       },
@@ -1483,22 +1503,22 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "Diavlo",
-        "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
+        "name": "rez\u00e1ndole a dios",
+        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
       },
       "artists": [
         {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+          "name": "solopepe",
+          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
         },
         {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+          "name": "catculator",
+          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
         }
       ],
-      "duration_ms": 193714,
-      "name": "Diavlo",
-      "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
+      "duration_ms": 101470,
+      "name": "rez\u00e1ndole a dios",
+      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "rez\u00e1ndole a dios",
-        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
-      },
-      "artists": [
-        {
-          "name": "solopepe",
-          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
-        },
-        {
-          "name": "catculator",
-          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
-        }
-      ],
-      "duration_ms": 101470,
-      "name": "rez\u00e1ndole a dios",
-      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
         "name": "No Hab\u00eda Choice",
         "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 171245,
       "name": "No Hab\u00eda Choice",
       "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
+        "name": "MI NOVIO ES LO OPUESTO A UN CURA",
+        "url": "https://open.spotify.com/album/15EXpb1scBNAylVphykIc4"
+      },
+      "artists": [
+        {
+          "name": "Kadriana Massri",
+          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "MI NOVIO ES LO OPUESTO A UN CURA",
+      "url": "https://open.spotify.com/track/5RLhfK1t1ZUgprTS12FEGb"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "MI NOVIO ES LO OPUESTO A UN CURA",
-        "url": "https://open.spotify.com/album/15EXpb1scBNAylVphykIc4"
-      },
-      "artists": [
-        {
-          "name": "Kadriana Massri",
-          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "MI NOVIO ES LO OPUESTO A UN CURA",
-      "url": "https://open.spotify.com/track/5RLhfK1t1ZUgprTS12FEGb"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
         "name": "ALAS Y GARRAS",
         "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
+        "name": "ChuchePlayboi.069",
+        "url": "https://open.spotify.com/album/5WD3F3MfMezrunaLI0Mrkt"
+      },
+      "artists": [
+        {
+          "name": "Kxnashi",
+          "url": "https://open.spotify.com/artist/3fuWqVG6H13ZrJ8Mrov9Tw"
+        }
+      ],
+      "duration_ms": 135182,
+      "name": "ChuchePlayboi.069",
+      "url": "https://open.spotify.com/track/3VMl7LzmviVKyplI9igbt6"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1723,22 +1739,6 @@
       "duration_ms": 151724,
       "name": "RADIKKHAL",
       "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
-        "name": "ChuchePlayboi.069",
-        "url": "https://open.spotify.com/album/5WD3F3MfMezrunaLI0Mrkt"
-      },
-      "artists": [
-        {
-          "name": "Kxnashi",
-          "url": "https://open.spotify.com/artist/3fuWqVG6H13ZrJ8Mrov9Tw"
-        }
-      ],
-      "duration_ms": 135182,
-      "name": "ChuchePlayboi.069",
-      "url": "https://open.spotify.com/track/3VMl7LzmviVKyplI9igbt6"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1771,6 +1771,26 @@
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
+    },
+    {
+      "added_at": "2024-09-20 16:37:37",
+      "album": {
+        "name": "Vivir De M\u00e1s",
+        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
+      },
+      "artists": [
+        {
+          "name": "Mydros",
+          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
+        },
+        {
+          "name": "G3D3R",
+          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Vivir De M\u00e1s",
+      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
     },
     {
       "added_at": "2024-09-20 16:37:37",
@@ -1867,26 +1887,6 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "Vivir De M\u00e1s",
-        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
-      },
-      "artists": [
-        {
-          "name": "Mydros",
-          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
-        },
-        {
-          "name": "G3D3R",
-          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Vivir De M\u00e1s",
-      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
-    },
-    {
-      "added_at": "2024-09-20 16:37:37",
-      "album": {
         "name": "23B 53B Pntv Night-Time",
         "url": "https://open.spotify.com/album/6BYfhoNKjDGHmB3KyStq5G"
       },
@@ -1919,18 +1919,26 @@
     {
       "added_at": "2024-09-20 16:37:37",
       "album": {
-        "name": "Guapo Subido",
-        "url": "https://open.spotify.com/album/18PfRcWYMhEgHeSolC4a9x"
+        "name": "LA \u00daLTIMA VEZ",
+        "url": "https://open.spotify.com/album/44Ie5UhDAc4fag3GuKIiFS"
       },
       "artists": [
         {
-          "name": "H1x2",
-          "url": "https://open.spotify.com/artist/74yGN4u33VSjnXVM0ubPuP"
+          "name": "Peta",
+          "url": "https://open.spotify.com/artist/44j7jMydQOjraZEyfdwYNs"
+        },
+        {
+          "name": "Gozzo",
+          "url": "https://open.spotify.com/artist/6HDR2lQmTURDW8wfd7Gbz4"
+        },
+        {
+          "name": "JNull",
+          "url": "https://open.spotify.com/artist/6n4XUJWTCbESSDDmeomYDn"
         }
       ],
-      "duration_ms": 90066,
-      "name": "Guapo Subido",
-      "url": "https://open.spotify.com/track/0RDqyjbdRjACp0wKCfJKg7"
+      "duration_ms": 166285,
+      "name": "LA \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
     }
   ],
   "unique_name": "helium",

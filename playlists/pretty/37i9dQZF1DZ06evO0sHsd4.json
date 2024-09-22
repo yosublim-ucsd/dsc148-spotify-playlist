@@ -1,13 +1,33 @@
 {
-  "description": "This is Jasiel Nu\u00f1ez. De essenti\u00eble nummers, allemaal in \u00e9\u00e9n playlist.",
-  "num_followers": 8928,
-  "original_name": "This is Jasiel Nu\u00f1ez",
+  "description": "This Is Jasiel Nu\u00f1ez. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 8956,
+  "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAACcmZ03Ed3G7E1Vws+Li7/n",
+  "snapshot_id": "Zuy7AAAAAACwIvGcZqrfZH9Pq2kxaEl3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "MIRADAS",
+        "url": "https://open.spotify.com/album/6ELd07xBg562NdO4CRv7tL"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Miradas",
+      "url": "https://open.spotify.com/track/0jZBBCtNiEqp4iCv7AyyZL"
+    },
     {
       "added_at": null,
       "album": {
@@ -581,6 +601,6 @@
       "url": "https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x"
     }
   ],
-  "unique_name": "This is Jasiel Nu\u00f1ez",
+  "unique_name": "This Is Jasiel Nu\u00f1ez",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sHsd4"
 }

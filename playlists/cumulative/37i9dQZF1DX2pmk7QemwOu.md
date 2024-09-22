@@ -4,7 +4,7 @@
 
 > ONE DREAM with TXT!
 
-130 songs - 6 hr 55 min
+132 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blue Orangeade](https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:05 | 2022-05-12 | 2024-04-19 |
 | [Blue Orangeade](https://open.spotify.com/track/7C31PdvTuSvEFqn2sKISsX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg) | 3:05 | 2022-05-12 |  |
 | [Blue Spring](https://open.spotify.com/track/7o3sxXABQ4VacMPDa6hUFO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:05 | 2023-11-03 |  |
+| [Boyfriend](https://open.spotify.com/track/7dk7jxKBun1JQ2pPPBxDYl) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Cinderella at 2AM OST Part 4](https://open.spotify.com/album/6gmq8wZ2p5mFkg8DRyvZcE) | 3:22 | 2024-09-21 |  |
 | [Can't We Just Leave The Monster Alive?](https://open.spotify.com/track/1cTghWvaY20Vm2jkBZecZN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:50 | 2022-05-12 |  |
 | [Can't We Just Leave the Monster Alive?](https://open.spotify.com/track/4O7sUONPtqPBUKXuAMsoak) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:50 | 2022-05-12 | 2024-04-19 |
 | [Can't You See Me?](https://open.spotify.com/track/2ecGP5xUE5126x6yHa7J6E) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:21 | 2022-05-12 | 2024-04-19 |
@@ -69,6 +70,7 @@
 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 | 2022-09-19 |  |
 | [Frost](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:14 | 2022-05-12 |  |
 | [Frost](https://open.spotify.com/track/4wZeTwH0B4zk77j2vPfFAU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:15 | 2022-05-12 |  |
+| [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2024-09-21 |  |
 | [Ghosting](https://open.spotify.com/track/6mS8cd33jFrighnLc0obxQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:43 | 2022-05-12 |  |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-12 |  |
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/2Hg6dMAD2KJwo2wlA9Xk1B) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:11 | 2023-08-17 |  |

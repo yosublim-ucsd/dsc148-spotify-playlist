@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ya Levis
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,466 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,550 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [OMW](https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Welcome To The Pack](https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln) | 2:21 |
 | 4 | [Caméra](https://open.spotify.com/track/1w4wrabnubzXTdlXobHjmB) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Caméra](https://open.spotify.com/album/7CBvhywoWNCovsppvHPfoz) | 2:26 |
 | 5 | [EGWU EJI](https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EGWU EJI](https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p) | 2:52 |
-| 6 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
+| 6 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 7 | [Pio Pio](https://open.spotify.com/track/0jxhvVriAJfkqskjN5nL9h) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ), [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT) | [Pio Pio](https://open.spotify.com/album/2LDSMjOIlBAz31FMDHyZbz) | 3:15 |
 | 8 | [Tempted](https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Tempted](https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6) | 2:56 |
 | 9 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |

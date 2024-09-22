@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,116 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,137 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 21 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
 | 22 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 |
 | 23 | [I Wanna Scare Myself](https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 1:12 |
-| 24 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 |
-| 25 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
+| 24 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
+| 25 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 |
 | 26 | [The Werewolf Song](https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:22 |
 | 27 | [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 |
 | 28 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 45 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 46 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 |
 | 47 | [I Picked One Pumpkin](https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [I Picked One Pumpkin](https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ) | 2:10 |
-| 48 | [Goosebumps](https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:21 |
+| 48 | [Bad Blood](https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:08 |
 | 49 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 |
 | 50 | [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 |
 | 51 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 63 | [The Monster Jive](https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 1:58 |
 | 64 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 |
 | 65 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 |
-| 66 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 |
-| 67 | [Ghost in My House](https://open.spotify.com/track/0RKlpEAPELRwO3LbCX6Sgh) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt) | [Kookie](https://open.spotify.com/album/0Wg1YzktkuNoyV48GFQ2Wz) | 3:21 |
+| 66 | [Ghost in My House](https://open.spotify.com/track/0RKlpEAPELRwO3LbCX6Sgh) | [Jumpin' jamie](https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt) | [Kookie](https://open.spotify.com/album/0Wg1YzktkuNoyV48GFQ2Wz) | 3:21 |
+| 67 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 |
 | 68 | [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 |
 | 69 | [Trick or Treating](https://open.spotify.com/track/2SOaGHay97PK2gBrFsVirj) | [Maple Leaf Learning](https://open.spotify.com/artist/7jze83chqHoyro7onnZBx9) | [Spooky Spooky: Halloween Songs for Kids](https://open.spotify.com/album/6Vz0zRCj3cPc11lkzkhLBi) | 2:12 |
 | 70 | [The Human Bash](https://open.spotify.com/track/5ErlOvdivAtm0X4ahT8MyT) | [Billy Kelly](https://open.spotify.com/artist/090ICuz3ufLFq7nIWZD9tQ) | [Ha Ha Halloween](https://open.spotify.com/album/2zn94cpcSZ5qkbZnOfMB4J) | 2:19 |

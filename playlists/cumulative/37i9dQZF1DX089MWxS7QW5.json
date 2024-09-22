@@ -2611,24 +2611,6 @@
     },
     {
       "album": {
-        "name": "fault lines",
-        "url": "https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ"
-      },
-      "artists": [
-        {
-          "name": "b!ni",
-          "url": "https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU"
-        }
-      ],
-      "date_added": "2024-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130444,
-      "name": "fault lines",
-      "url": "https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1"
-    },
-    {
-      "album": {
         "name": "KHAMAI",
         "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
@@ -5739,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "pros and cons",
+        "url": "https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ"
+      },
+      "artists": [
+        {
+          "name": "b!ni",
+          "url": "https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130444,
+      "name": "pros and cons",
+      "url": "https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1"
+    },
+    {
+      "album": {
         "name": "Purple Love (Feat. Leellamarz)",
         "url": "https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9"
       },
@@ -6790,8 +6790,8 @@
           "url": "https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF"
         },
         {
-          "name": "J.O.High",
-          "url": "https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
       "date_added": "2024-09-02",

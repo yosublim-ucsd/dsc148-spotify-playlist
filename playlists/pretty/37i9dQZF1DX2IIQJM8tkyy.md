@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IIQJM8tkyy.md) - [plain]
 
 > Toutes les chansons des Princesses Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,034 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,039 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Où est la vraie vie? \- De "Raiponce"/Bande Originale Française du Film](https://open.spotify.com/track/5NXjdZ3PhvMzubCs4493ok) | [Maéva Méline](https://open.spotify.com/artist/6TPwj6mbraHlQOP5ZY1Uq6) | [Raiponce](https://open.spotify.com/album/4DnfniyyQUthE8K0BM3Pr4) | 2:32 |
-| 2 | [Libérée, Délivrée \- French Version](https://open.spotify.com/track/2UDZRYieIpkwBcguZuxXRc) | [Anaïs Delva](https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN) | [Let It Go The Complete Set \- From “Frozen”](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:44 |
+| 2 | [Libérée, Délivrée \- French Version](https://open.spotify.com/track/2UDZRYieIpkwBcguZuxXRc) | [Anaïs Delva](https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:44 |
 | 3 | [Le bleu lumière \- BOF "Vaiana, la légende du bout du monde"](https://open.spotify.com/track/10LjgenzvDY1lXgUM465l8) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [Cerise chante Disney](https://open.spotify.com/album/4FnIWttm1PSxROpp2daoLs) | 2:56 |
 | 4 | [Comme un homme \- De "Mulan"/Bande Originale Française du Film](https://open.spotify.com/track/5g9E2PkKFSVJAApILSrevP) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Jose Garcia](https://open.spotify.com/artist/0jezfHhTNUwE6PwIC0IdXD), [Thierry Ragueneau](https://open.spotify.com/artist/0uUEBNTne0kL8dCatkKbn1), [Pierre Francois Pistorio](https://open.spotify.com/artist/0GKqgSvsiMAnOK3ZB2PWjb), [Michel Vigné](https://open.spotify.com/artist/1wQuzbB0oVi3t8yVCkcx4W), [Chorus \- Mulan](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) | [Mulan \(Bande originale française du Film\)](https://open.spotify.com/album/2HxaAc5eaV6lJt6AukYRaV) | 3:19 |
 | 5 | [Vers le Ciel](https://open.spotify.com/track/2SzrmRJFX3o3aufqAdsAU5) | [Maéva Méline](https://open.spotify.com/artist/6TPwj6mbraHlQOP5ZY1Uq6) | [Rebelle \(Bande Originale du Film\)](https://open.spotify.com/album/7EbSrNBOKWuWxQrBu5scws) | 2:29 |

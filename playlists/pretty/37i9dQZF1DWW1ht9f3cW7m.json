@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29309,
+  "num_followers": 29311,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Dayglow",
+        "url": "https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278460,
+      "name": "Mindless Creatures",
+      "url": "https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Dayglow",
-        "url": "https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278460,
-      "name": "Mindless Creatures",
-      "url": "https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Happy Customers",
-        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 170340,
-      "name": "Happy Customers",
-      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+      "duration_ms": 176751,
+      "name": "I Like Your Look",
+      "url": "https://open.spotify.com/track/6ZTmWZIjdDhZUNdq8uGCZ8"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -491,6 +491,22 @@
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Happy Customers",
+        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 170340,
+      "name": "Happy Customers",
+      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -639,6 +655,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
       },
@@ -655,18 +687,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
+        "name": "I Feel You",
+        "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
       },
       "artists": [
         {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
+      "duration_ms": 156000,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -691,22 +723,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "I Feel You",
-        "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
       },
@@ -719,6 +735,22 @@
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Weather's Better",
+        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "Weather's Better",
+      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -771,22 +803,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "If I Was Abducted By Aliens",
-        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
-      },
-      "artists": [
-        {
-          "name": "Dirty Nice",
-          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "If I Was Abducted By Aliens",
-      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Crashmat",
         "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
       },
@@ -803,34 +819,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Weather's Better",
-        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
         }
       ],
-      "duration_ms": 172991,
-      "name": "Weather's Better",
-      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Gramophone",
-        "url": "https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF"
-      },
-      "artists": [
-        {
-          "name": "Citizen Papes",
-          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Gramophone",
-      "url": "https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN"
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -851,6 +851,38 @@
       "duration_ms": 139470,
       "name": "Shell (with Jordana)",
       "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Gramophone",
+        "url": "https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF"
+      },
+      "artists": [
+        {
+          "name": "Citizen Papes",
+          "url": "https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l"
+        }
+      ],
+      "duration_ms": 202900,
+      "name": "Gramophone",
+      "url": "https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Spells",
+        "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 194910,
+      "name": "Spells",
+      "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -883,22 +915,6 @@
       "duration_ms": 189866,
       "name": "Split Lip",
       "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Spells",
-        "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 194910,
-      "name": "Spells",
-      "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 226983,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 187906,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 226983,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "miss american dream",
         "url": "https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW"
       },
@@ -1207,22 +1239,6 @@
       "duration_ms": 196829,
       "name": "miss american dream",
       "url": "https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
-      },
-      "artists": [
-        {
-          "name": "Hana Lili",
-          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1291,22 +1307,6 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Life Is A Killer",
-        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
-      },
-      "artists": [
-        {
-          "name": "Love Fame Tragedy",
-          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
-        }
-      ],
-      "duration_ms": 203312,
-      "name": "My Head's In A Hurricane",
-      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
     }
   ],
   "unique_name": "peach",

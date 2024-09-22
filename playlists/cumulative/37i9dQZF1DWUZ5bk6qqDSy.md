@@ -4,7 +4,7 @@
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-452 songs - 21 hr 13 min
+453 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [White Altitude](https://open.spotify.com/track/22jTdzsf7YHTnBja5IMwD0) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [White Altitude](https://open.spotify.com/album/3Ry1ow425eO88IDXZcsPRD) | 2:53 | 2021-12-01 |  |
 | [White and Bright Noise](https://open.spotify.com/track/7L7kOAyHsmreWzHTcgrKU4) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [White and Bright Noise](https://open.spotify.com/album/1zexBNSthkr4RkK2k3SIsM) | 5:26 | 2024-07-31 |  |
 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 | 2022-10-27 |  |
+| [White Cotton Noise](https://open.spotify.com/track/6Wz9UEf10gfLO0rsDk4tLu) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Cotton Noise](https://open.spotify.com/album/01tdvOvnpHI8HPMG2LsVAu) | 5:44 | 2024-07-31 |  |
 | [White Heaven](https://open.spotify.com/track/6QC5r7XJPiyn92rOWpLkc6) | [Ambinima](https://open.spotify.com/artist/1DtkBjA8TFpAlXxOHxCqta) | [Placid Noise](https://open.spotify.com/album/2BOzypucqC7iyUbofB6gWn) | 2:59 | 2022-04-27 | 2023-01-20 |
 | [White Home Noise](https://open.spotify.com/track/6jdH1T167abmhAvIz0M3CR) | [Rocket FX](https://open.spotify.com/artist/3dFUAutVe4CdBO7DMDtIN5) | [White Home Noise](https://open.spotify.com/album/4eK8WPytYdJkH7uRnABaaW) | 2:10 | 2021-12-01 |  |
 | [White Icicles](https://open.spotify.com/track/2cly2YT0hRbPW9ow6wGStq) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [White Icicles](https://open.spotify.com/album/20FothTpdht8Pt30Q2GKLj) | 5:18 | 2024-07-31 |  |
@@ -448,7 +449,7 @@
 | [White Shapes](https://open.spotify.com/track/3xDinRDqNsKIsdBfnhXHSs) | [XYK east](https://open.spotify.com/artist/1W0DuOKAU4Lq9Ke0dj1bds) | [White Shapes](https://open.spotify.com/album/0ma1vhytAU2rsktMovPJlw) | 1:49 | 2021-12-01 | 2023-06-29 |
 | [White Stars](https://open.spotify.com/track/7Fys0m6kGltWbqYeSAGAMx) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [White Stars](https://open.spotify.com/album/0BLt2AQUVsNb1RqZaBOxf0) | 2:45 | 2022-10-27 |  |
 | [White Stillness](https://open.spotify.com/track/6UKGwtoh2dvrAzYNTqJRqz) | [Chome](https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC) | [White Stillness](https://open.spotify.com/album/0iPB6VzMrzOG2BBVCs2PML) | 2:57 | 2023-10-25 |  |
-| [White Storm](https://open.spotify.com/track/2gOKJx09WDhxgZWfYSWIIG) | [Equantos](https://open.spotify.com/artist/0yvPrTfptKnt9yMMJGZWkZ) | [White Storm](https://open.spotify.com/album/6TguDAxTgE9amuWogsTMwG) | 2:54 | 2021-12-01 |  |
+| [White Storm](https://open.spotify.com/track/2gOKJx09WDhxgZWfYSWIIG) | [Equantos](https://open.spotify.com/artist/0yvPrTfptKnt9yMMJGZWkZ) | [White Storm](https://open.spotify.com/album/6TguDAxTgE9amuWogsTMwG) | 2:54 | 2021-12-01 | 2024-09-22 |
 | [White Tonality](https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [White Tonality](https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN) | 2:57 | 2022-04-27 |  |
 | [Whiteosphere](https://open.spotify.com/track/52O3MLLIHlQ4FDItAOsEDt) | [Spiritual Essence](https://open.spotify.com/artist/0noRWYJspgODzUSRy5yD98) | [Whiteosphere](https://open.spotify.com/album/2rQ1kT0dcRMwpsrDSN6nCk) | 3:18 | 2021-12-01 |  |
 | [Wide Skies \(Noise\)](https://open.spotify.com/track/2t59Nh57fvHOwfiV7aZwTn) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calm Sleep \(Noise\)](https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc) | 2:32 | 2023-06-28 |  |

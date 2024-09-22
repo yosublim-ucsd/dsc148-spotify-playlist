@@ -13755,6 +13755,24 @@
     },
     {
       "album": {
+        "name": "6 Feet Beneath The Moon",
+        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2024-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Out Getting Ribs",
+      "url": "https://open.spotify.com/track/30JUrbIq4PsRjIvDz8freE"
+    },
+    {
+      "album": {
         "name": "Freewave 3",
         "url": "https://open.spotify.com/album/4PKdUHGtcJtsjhIaR4fjMk"
       },

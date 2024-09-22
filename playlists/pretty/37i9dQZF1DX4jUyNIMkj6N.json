@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 206179,
+  "num_followers": 206225,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Malory",
         "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 178003,
       "name": "Malory",
       "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Have This Dance",
         "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 214380,
       "name": "Have This Dance",
       "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Innocent",
-        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Rarities 2",
         "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Broken Road",
-        "url": "https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3"
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
       },
       "artists": [
         {
-          "name": "Niila",
-          "url": "https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Broken Road",
-      "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
+      "duration_ms": 156197,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+        "name": "Broken Road",
+        "url": "https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3"
       },
       "artists": [
         {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+          "name": "Niila",
+          "url": "https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+      "duration_ms": 202000,
+      "name": "Broken Road",
+      "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -875,22 +875,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Away From This Dream",
-        "url": "https://open.spotify.com/album/5bKVm5ADPdEAnwaSqh5Uwv"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 191751,
-      "name": "Don't Wait For Summer",
-      "url": "https://open.spotify.com/track/62AWMWX41acCZ259kuU1Hr"
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Away From This Dream",
+        "url": "https://open.spotify.com/album/5bKVm5ADPdEAnwaSqh5Uwv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 191751,
+      "name": "Don't Wait For Summer",
+      "url": "https://open.spotify.com/track/62AWMWX41acCZ259kuU1Hr"
     }
   ],
   "unique_name": "Nordic Folk",

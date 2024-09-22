@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: A$HP
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,675 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,660 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 66 | [Maconha & Sexo](https://open.spotify.com/track/2eJ4Mz7lHfBaDzVl2WPwgR) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Maconha & Sexo](https://open.spotify.com/album/7v3yyRhKxvxtDdT6263Jf7) | 2:10 |
 | 67 | [Brotou uma P!ranha](https://open.spotify.com/track/3VqAUdeNOHJqheiVit9gyl) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Brotou uma P!ranha](https://open.spotify.com/album/6jX0Nz2S4cq3DQlRFohE5u) | 2:40 |
 | 68 | [Inconvencional](https://open.spotify.com/track/3URgu7EkiNuswUVoXVE4BX) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 2:28 |
-| 69 | [ASMR](https://open.spotify.com/track/5izophAYYzzuucdehttmoN) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [chard la plaga](https://open.spotify.com/artist/1RKq2YyvdgeiC4IcspV1wS) | [ASMR](https://open.spotify.com/album/4AhXjVvT9CAqbunVOtWLxJ) | 3:32 |
+| 69 | [ASMR](https://open.spotify.com/track/5izophAYYzzuucdehttmoN) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [chard la plaga](https://open.spotify.com/artist/1RKq2YyvdgeiC4IcspV1wS), [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG) | [ASMR](https://open.spotify.com/album/4AhXjVvT9CAqbunVOtWLxJ) | 3:32 |
 | 70 | [2 Balão](https://open.spotify.com/track/1DSRGi8zbHLatxuA5y5rz1) | [jotaverlk](https://open.spotify.com/artist/7aSCf8IdcjkppGECF9F9TC), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [2 Balão](https://open.spotify.com/album/4PI21Le8eXEBYM3lukZUjq) | 2:35 |
 | 71 | [Mal Pressentimento](https://open.spotify.com/track/0PxNCOsTg01n05F9h2fjC2) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Mal Pressentimento](https://open.spotify.com/album/2oURgLBgFBdgIOj369e1hd) | 2:29 |
 | 72 | [Bandida](https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bandida](https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN) | 2:04 |

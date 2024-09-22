@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 43977,
+  "num_followers": 43986,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZutpgAAAAADwRqIl/aRD2XAZQ+guiK0F",
+  "snapshot_id": "Zuy7AAAAAACgYZUj014SFHPUApy0jVZT",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olv\u00eddala",
         "url": "https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 276000,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "No Se Que Voy A Hacer",
-      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "No Se Que Voy A Hacer",
+      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
     },
     {
       "added_at": null,
@@ -947,22 +947,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vozes",
-        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
       },
       "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,
@@ -983,18 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "Vozes",
+        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
       "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
+      "duration_ms": 213173,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  bedacerita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,609 likes - 111 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,611 likes - 111 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

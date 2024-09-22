@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,229 likes - 269 songs - 13 hr 36 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,228 likes - 269 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 90 | [Talk to Me](https://open.spotify.com/track/03Du19uqh7mGTSfQwpgZLa) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Talk to Me](https://open.spotify.com/album/2CCLNopJoGPhw2VpgTBJd6) | 2:40 |
 | 91 | [Dudu \(Goes Like This\)](https://open.spotify.com/track/5hp4pGZ3S45m7UCSqlaxJK) | [Alejandro Diego](https://open.spotify.com/artist/15zf3JdbSo0Q2um3mFkm3D), [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET) | [Dudu \(Goes Like This\)](https://open.spotify.com/album/2bmsBnjYFrfLfEKK67ouLR) | 3:01 |
 | 92 | [Take You There](https://open.spotify.com/track/7t7X4jD3T3zUhM8xmGQjaj) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Take You There EP](https://open.spotify.com/album/3u52zcaTB9naGJcKKSyFCq) | 2:52 |
-| 93 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 |
+| 93 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \[Max Styler Remix\]](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 |
 | 94 | [Give It to You](https://open.spotify.com/track/1ChmxHfW4rOM7B8RwEEU8y) | [Zenemy](https://open.spotify.com/artist/2cHw7LZDGn9mjTiFTSeEHt) | [Give It to You](https://open.spotify.com/album/5SpBVU8681KromUTz68ghZ) | 3:54 |
 | 95 | [Tech Phonk](https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI) | [Tech Phonk](https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV) | 2:02 |
 | 96 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 |

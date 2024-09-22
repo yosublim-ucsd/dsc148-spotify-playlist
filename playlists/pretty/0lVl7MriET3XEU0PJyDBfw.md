@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,013 likes - 70 songs - 3 hr 37 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,013 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,13 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 68 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 |
 | 69 | [There It Is](https://open.spotify.com/track/71b4fGIGMUacvD6fg6xltk) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [There It Is](https://open.spotify.com/album/1HIhM9eys4WCCLvgcppZTl) | 3:09 |
 | 70 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 |
+| 71 | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh) | 2:18 |
+| 72 | [underground](https://open.spotify.com/track/3CqDUah3hz637y9a2ERyNm) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf) | [underground](https://open.spotify.com/album/4g8NXBEduciysz5gR2qHwL) | 3:23 |
+| 73 | [Runaway](https://open.spotify.com/track/6woRRDfbiI0utsHgeikpit) | [BARKER](https://open.spotify.com/artist/7DxRTy0KPVfY36OlS1F67W) | [Sun Tea / Summer Sampler](https://open.spotify.com/album/7kdd9v5d6MtcDAqL8yrJbV) | 2:42 |
+| 74 | [It Started In Chicago \- DONT BLINK Remix](https://open.spotify.com/track/7vWsAn1ebtMaolNfBLGXzx) | [Mixed Methods](https://open.spotify.com/artist/0P8W0L8S8BxbDw24mMFm1e), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [It Started In Chicago \- DONT BLINK Remix](https://open.spotify.com/album/2UpbJe13zGQQa1aFaYK8X4) | 3:35 |
+| 75 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 |
+| 76 | [Your Love](https://open.spotify.com/track/7CYBjGnNjXAJa9GybUo5nZ) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA) | [Your Love](https://open.spotify.com/album/6XrX3WormKbLkw3zGYSyNf) | 2:19 |
+| 77 | [Mic Check](https://open.spotify.com/track/5kv6nnbOCYLo9R6wDqFZ3u) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Mic Check](https://open.spotify.com/album/7xXv27TRWwCd9lCekoDSDV) | 4:20 |
+| 78 | [Flow On](https://open.spotify.com/track/5TOPvHIu7JEwTDkYy7SZWO) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Deep Inside](https://open.spotify.com/album/2DbjarFHBuwTKFS7uZFH8O) | 2:27 |
 
-Snapshot ID: `AAAZGfTp2zQ5uuHVMIdPewzIyW7WraVI`
+Snapshot ID: `AAAZIfatAN34maVu+WL9vOc0glvhhZPp`

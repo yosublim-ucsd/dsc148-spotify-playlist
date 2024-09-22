@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: DAPARTE, Ana Caetano
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,720 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,672 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Selvagem Silêncio](https://open.spotify.com/track/7m3PiVSwPtOpTnydpxQzH0) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Selvagem Silêncio](https://open.spotify.com/album/4C1ssWfVzqTOj1NLfdn7nX) | 4:08 |
 | 75 | [pois bem \- PP sessions \- Ao Vivo](https://open.spotify.com/track/4jAgdIeBtsTFXApCOqKxUH) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [Capim\-Limão \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/11wK1LoU9LToldMOGky4dZ) | 3:02 |
 
-Snapshot ID: `Zuzl5AAAAADr3fK98bpZBaItGhi3f4Bg`
+Snapshot ID: `Zuzl5AAAAAAhi8VIZHjbiDvXeCuyA74u`

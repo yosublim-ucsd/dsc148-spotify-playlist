@@ -1,6 +1,6 @@
 {
   "description": "Lazza in cover + le migliori uscite di questa settimana!",
-  "num_followers": 316508,
+  "num_followers": 316588,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -495,7 +495,7 @@
     {
       "added_at": "2024-09-19 23:01:00",
       "album": {
-        "name": "melodrama - spanish version",
+        "name": "melodrama (spanish version)",
         "url": "https://open.spotify.com/album/6ZnPYFp4Kdbq0tktEyiNUZ"
       },
       "artists": [
@@ -520,7 +520,7 @@
           "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
         }
       ],
-      "duration_ms": 155811,
+      "duration_ms": 155329,
       "name": "Piazza Samba",
       "url": "https://open.spotify.com/track/4mxoVyaAfwUaGEmWaxk3WV"
     },
@@ -1023,7 +1023,7 @@
     {
       "added_at": "2024-09-19 23:01:00",
       "album": {
-        "name": "OFA - Oxlade From Africa",
+        "name": "OFA (Oxlade From Africa)",
         "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
       },
       "artists": [
@@ -1128,8 +1128,12 @@
       },
       "artists": [
         {
-          "name": "Rayan & Intifaya",
-          "url": "https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0"
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
         }
       ],
       "duration_ms": 171627,

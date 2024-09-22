@@ -1,6 +1,6 @@
 {
   "description": "Raspyy in cover della playlist con la nuova generazione del rap italiano. ",
-  "num_followers": 226199,
+  "num_followers": 226196,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
@@ -196,8 +196,12 @@
       },
       "artists": [
         {
-          "name": "Rayan & Intifaya",
-          "url": "https://open.spotify.com/artist/5GDmRKmj58rMaUsFkzPKE0"
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
         }
       ],
       "duration_ms": 171627,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,108 likes - 74 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,195 likes - 74 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 2 | [Separação / Meu Amor / Súbita Paixão \- Ao Vivo](https://open.spotify.com/track/1jJ4EDNRJtUf5nZn1KM4MD) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ) | [Na Pagodeira, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4p9tR7nV4IFwayMrw5ZStz) | 6:59 |
 | 3 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 |
 | 4 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
-| 5 | [Ilusão / Conto De Fadas](https://open.spotify.com/track/3i7TpsLv9dHgCBlUnzliJB) | [Diney](https://open.spotify.com/artist/6aCdgfPW2UdRENM5XC3145), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [PagoDi \#2 com Di Propósito](https://open.spotify.com/album/49YtgHOl5RIY76LUSKQVrM) | 3:13 |
+| 5 | [Ilusão / Conto De Fadas \- Ao Vivo](https://open.spotify.com/track/3i7TpsLv9dHgCBlUnzliJB) | [Diney](https://open.spotify.com/artist/6aCdgfPW2UdRENM5XC3145), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [PagoDi \#2 com Di Propósito \(Ao Vivo\)](https://open.spotify.com/album/49YtgHOl5RIY76LUSKQVrM) | 3:13 |
 | 6 | [Fato Consumado / Já Virou Rotina / Tá Louco Hein \- Ao Vivo](https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \- EP4 \(Ao Vivo\)](https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF) | 5:00 |
 | 7 | [Pra Mim Não É / Se Eu Te Pego Te Envergo / Instigante \- Ao Vivo](https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 2 \- Ao Vivo](https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE) | 7:06 |
 | 8 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 |

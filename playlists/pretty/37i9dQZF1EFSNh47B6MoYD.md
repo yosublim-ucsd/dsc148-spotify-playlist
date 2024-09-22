@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 143 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 143 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 109 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
 | 110 | [En Exclusiva](https://open.spotify.com/track/2DjMvChCKP3nOoQ9VlKcxW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:26 |
 | 111 | [Back to the Basics](https://open.spotify.com/track/1u3e9Vhg9LYv6GvLN6xqUD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/6foXmtdGJFnpyzdolnSTpM) | 3:28 |
-| 112 | [Mañana Es Muy Tarde](https://open.spotify.com/track/7ktVgQqSv1WacAf0KEym73) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Dentro Y Fuera](https://open.spotify.com/album/6kwCKTwZI1wgBQZzK2NKAf) | 3:45 |
-| 113 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 |
+| 112 | [Por Eso Me Voy](https://open.spotify.com/track/6wmG6oTCXdGzo2lqrKN5GQ) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [De Miles A Uno](https://open.spotify.com/album/2zasLrVORM3LSxqGNVbhzX) | 3:55 |
+| 113 | [Mañana Es Muy Tarde](https://open.spotify.com/track/7ktVgQqSv1WacAf0KEym73) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Dentro Y Fuera](https://open.spotify.com/album/6kwCKTwZI1wgBQZzK2NKAf) | 3:45 |
 | 114 | [Ten Cuidao \- En Vivo](https://open.spotify.com/track/1Cb0jvXLZAaXeQpxMErBrD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:35 |
 | 115 | [Nota 10](https://open.spotify.com/track/3MOu40is7Omfmhkx5zh8Kj) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [EP Z4](https://open.spotify.com/album/3U7lCBWkbwjZhP5UQRm0Vn) | 2:16 |
 | 116 | [Por Qué?](https://open.spotify.com/track/6KkfzyRjWlKUKqgg3T9euM) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 3:35 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 142 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbcrigAAAABP75SLB+QSVTBfkpgjHsoC`
+Snapshot ID: `AbcxKgAAAADZv3zBdINlIiQOXMaSnAlX`

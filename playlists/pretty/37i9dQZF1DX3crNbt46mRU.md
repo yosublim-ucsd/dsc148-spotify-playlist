@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Loco Escrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,833 likes - 121 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,837 likes - 121 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |
 | 101 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 |
 | 102 | [White Room](https://open.spotify.com/track/6SERFBbkl8JPfQDEwhrVFN) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54), [Eddington Again](https://open.spotify.com/artist/1qx1wjImNcB4QRgT6OQceR) | [White Room](https://open.spotify.com/album/2R32WZmkLybt35yygxkQjq) | 4:11 |
-| 103 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \- Oxlade From Africa](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
+| 103 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 104 | [Ich versteh die Welt nicht mehr](https://open.spotify.com/track/1fPTbzU6jcAHITF2KHrqYA) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Ich versteh die Welt nicht mehr](https://open.spotify.com/album/7mutsu2kFAhXDaZyPbCU7R) | 1:54 |
 | 105 | [CYBER TRUCK](https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [CYBER TRUCK](https://open.spotify.com/album/0Dgwe0jOh7fehZAQzZDIpv) | 2:36 |
 | 106 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
