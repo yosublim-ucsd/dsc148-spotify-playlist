@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-625 songs - 1 day 23 hr 57 min
+626 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Living Room](https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF) | [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Who Bit the Moon](https://open.spotify.com/album/4XlMNDp7GSFGF56dw5CJG5) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Load Your Cannons](https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [Load Your Cannons](https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j) | 3:30 | 2023-03-24 | 2023-04-21 |
 | [Loki](https://open.spotify.com/track/5p1QCPjzj78AugCNUMsxCi) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Loki](https://open.spotify.com/album/3f3Qg35UJ1vXOU8CJcreMj) | 3:56 | 2020-11-29\* | 2021-02-26 |
-| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 |  |
+| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 | 2024-09-23 |
 | [Lonely Tears in Chinatown](https://open.spotify.com/track/3poXKPjtgJdt9Y1WbTsZOv) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Lonely Tears in Chinatown](https://open.spotify.com/album/41wAvfdHHgyW20L37DcYQr) | 3:40 | 2021-10-16 | 2021-11-20 |
 | [Louder Than Hell](https://open.spotify.com/track/4y8jRLVaKNEPx1Ri1uAhaN) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Louder Than Hell](https://open.spotify.com/album/5gtMaHTNhK0VBgFyP8i1uZ) | 4:26 | 2020-11-29\* | 2021-06-04 |
 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 | 2021-12-11 |  |
@@ -517,6 +517,7 @@
 | [The Gates of Time](https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Metamorphosis](https://open.spotify.com/album/3vXgzqeNQPIT9RDgShcKun) | 4:35 | 2023-05-19 | 2024-04-19 |
 | [The Gates of Time](https://open.spotify.com/track/7htJHIpqvekWbUvy3mDQAZ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [The Gates of Time](https://open.spotify.com/album/32keP0AvWGw1HknYoHQGV8) | 4:35 | 2023-03-24 | 2023-05-15 |
 | [The Gospel of Judas](https://open.spotify.com/track/5fDfOivURFfaa91vz5W2Eh) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Gospel of Judas](https://open.spotify.com/album/4kl8qGOuNY1TKWCe6XVxiy) | 4:05 | 2021-07-04 | 2022-03-23 |
+| [The Grand Inferno](https://open.spotify.com/track/6wvS71j5iww95t0Wu07kJI) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [The Grand Inferno](https://open.spotify.com/album/0pa0VDXc571gPfHDTICWiq) | 4:42 | 2024-09-20 |  |
 | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/track/4xXkmpsOPJtR7z7dy0tiNn) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/album/73I0s203vjEG5d7ZC2PtsV) | 5:03 | 2022-10-14 | 2022-10-27 |
 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 | 2023-01-20 | 2024-09-21 |
 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 |  |

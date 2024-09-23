@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-49 songs - 3 hr 6 min
+54 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,8 @@
 | [Boys Boys Boys](https://open.spotify.com/track/3SuUKzHOo6PRuyoYMuez5S) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [FMA](https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja) | 3:53 | 2024-08-23 |  |
 | [By your side](https://open.spotify.com/track/2FtJGsJVNjrJOPFG3GpUNE) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [DNA Lover \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC) | 4:12 | 2024-08-26 |  |
 | [By your side \- Instrumental](https://open.spotify.com/track/4tqhAIE3GG8cEuyhQw8b4d) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [DNA Lover \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC) | 4:12 | 2024-08-26 |  |
+| [Caged](https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 | 2024-09-23 |  |
+| [Caged \- Instrumental](https://open.spotify.com/track/7CQtYAScrUbwp1jknhJ199) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 | 2024-09-23 |  |
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2024-08-23 |  |
 | [Candlelight \(feat\. OHHYUK\)](https://open.spotify.com/track/70DYNbGc6SWqkUvhchYBo9) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [SOFT STORM](https://open.spotify.com/album/2G7WLFGIIcR1T3uRglH4cN) | 3:17 | 2024-08-23 |  |
 | [Cayman Islands](https://open.spotify.com/track/6R8agdKCfA4Poo0vnRKQKo) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:02 | 2024-08-23 |  |
@@ -35,9 +37,12 @@
 | [Lift Up Holy Hands/He's Alive \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0f4KJyCfLckEa8b3nncFwM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 6:59 | 2024-08-23 |  |
 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 | 2024-08-23 |  |
 | [Miss You](https://open.spotify.com/track/62iFQArtVPHIJh7zNWFtQ5) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [inner](https://open.spotify.com/album/07uJH3r3JrSbaQGeQyfnwJ) | 3:44 | 2024-08-23 |  |
+| [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 | 2024-09-23 |  |
 | [Please Wait](https://open.spotify.com/track/7be6Hh3raT7CwyXv6G9FOl) | [Airmangirl](https://open.spotify.com/artist/6lHqZFk7FgvUD9Ib5QGPzu) | [Please Wait](https://open.spotify.com/album/1sZVgmq6mgnx1dvjFnJLT3) | 3:07 | 2024-08-23 |  |
 | [Polar Night](https://open.spotify.com/track/76V49Eff84umE7YUHmaCRG) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Polar Night](https://open.spotify.com/album/1A1gCes6TP34C3FhVE8t0N) | 4:18 | 2024-08-23 |  |
 | [Special lecture for LOVE \(FEAT\. Han Ye Seul\)](https://open.spotify.com/track/2vu0gIbtabp50KJq3hw9bu) | [Mighty Mouth](https://open.spotify.com/artist/7pxK1v2idIDo5Imir0lb5i), [Han Ye Seul](https://open.spotify.com/artist/5vBWv11p4V6VIjeY7OkOkP) | [LOVE CLASS](https://open.spotify.com/album/03qQrGDjnL0csovaAuKSbb) | 3:39 | 2024-08-23 |  |
+| [Starshine](https://open.spotify.com/track/0pnRjiARJjdWielNbscJLZ) | [HWISEO](https://open.spotify.com/artist/0bznj2UW0piRoLR8Km5P40) | [DNA Lover \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0HTQg1wNAROyUOXh8qesxE) | 3:35 | 2024-09-23 |  |
+| [Starshine \- Instrumental](https://open.spotify.com/track/3ImvEjcEED8X4V6LeQsZkr) | [HWISEO](https://open.spotify.com/artist/0bznj2UW0piRoLR8Km5P40) | [DNA Lover \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0HTQg1wNAROyUOXh8qesxE) | 3:35 | 2024-09-23 |  |
 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 | 2024-08-23 |  |
 | [Tempt](https://open.spotify.com/track/3x0sTCtWb6dt4CwsGMAhEI) | [Leenzy](https://open.spotify.com/artist/2116oBbgoFStjoP9GDnRfI) | [DNA Lover \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4VTeY0kyLMNBIYifr0GtnL) | 2:56 | 2024-09-10 |  |
 | [the deep sea](https://open.spotify.com/track/1hQDMQleO7992DMawi3lhd) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:47 | 2024-08-23 |  |

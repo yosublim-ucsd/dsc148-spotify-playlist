@@ -6231,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/1Ant2Zj6STwDQs5Aaebtay"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/5FwPY70yxiwEcUXmvcczxb"
+    },
+    {
+      "album": {
         "name": "Silhouettes",
         "url": "https://open.spotify.com/album/12ltZJAZrIczGXrbmwFwqg"
       },
@@ -6268,6 +6286,24 @@
       "duration_ms": 389033,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv"
+    },
+    {
+      "album": {
+        "name": "Not Forever",
+        "url": "https://open.spotify.com/album/2hswjkQxtpUxy6NDNTc4Sv"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Not Forever",
+      "url": "https://open.spotify.com/track/71IiKGC3OzbmRcUJEO5rWC"
     },
     {
       "album": {
@@ -7208,7 +7244,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 276480,
       "name": "potluck",
       "url": "https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA"
@@ -10222,7 +10258,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 240338,
       "name": "We Used to Disappear",
       "url": "https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP"

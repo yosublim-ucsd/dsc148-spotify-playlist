@@ -2,7 +2,7 @@
 
 ### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This Is La Fiera de Ojinaga\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is La Fiera de Ojinaga\. Los temas esenciales, todos en una lista.
 
 58 songs - 2 hr 53 min
 

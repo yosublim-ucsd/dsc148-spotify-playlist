@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,069 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,082 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 15 | [Il fait trop beau pour travailler](https://open.spotify.com/track/4Xt6do7xmBqVEs1G6vkPlh) | [Les Parisiennes](https://open.spotify.com/artist/5pUSLCL3Tsju3SPCEYsr2H) | [Il Fait Trop Beau Pour Travailler](https://open.spotify.com/album/3qYJhooIMPsv0O501RunHQ) | 2:20 |
 | 16 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 |
 | 17 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
-| 18 | [Mon amie la rose \- Remix 89](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
+| 18 | [Mon amie la rose](https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Mon amie la rose\)](https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub) | 2:17 |
 | 19 | [Mirza](https://open.spotify.com/track/6ra8H4uQsTWKmSyovSRcK5) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/7EXl1EDhQ8z50gJpYfC9jB) | 2:24 |
 | 20 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 |
 | 21 | [Ma biche](https://open.spotify.com/track/4aQdYn8c5BrVpZ4GZpPHzr) | [Frank Alamo](https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM) | [Les Annees Barclay](https://open.spotify.com/album/15Ul1kl0QUCxTLR1IgMMz6) | 2:22 |

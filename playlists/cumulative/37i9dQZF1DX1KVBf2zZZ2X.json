@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 156000,
       "name": "Final Step",
       "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
@@ -2954,6 +2954,24 @@
       "duration_ms": 168750,
       "name": "Tranquil Echoes",
       "url": "https://open.spotify.com/track/4QnatFvgTdjkUK0izkmONm"
+    },
+    {
+      "album": {
+        "name": "Tranquility Falls (Falling Nature)",
+        "url": "https://open.spotify.com/album/1QKUiPUxADGbh1bRVN7yYY"
+      },
+      "artists": [
+        {
+          "name": "Luna Riviera",
+          "url": "https://open.spotify.com/artist/6IzgIyiIjcXQTWEeWf1fUw"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146132,
+      "name": "Tranquility Falls (Falling Nature)",
+      "url": "https://open.spotify.com/track/7ITR2g5UUyX2EqexlpHjGk"
     },
     {
       "album": {

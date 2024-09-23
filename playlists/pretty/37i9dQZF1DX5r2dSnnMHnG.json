@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7154,
+  "num_followers": 7153,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
         "name": "Full Album RED PLANET",
         "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 190279,
+      "name": "Chocolate Drive",
+      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
         "name": "flutter",
         "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 196920,
       "name": "flutter",
       "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -463,22 +495,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 190279,
-      "name": "Chocolate Drive",
-      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
         "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+        "name": "Mini Stewardess",
+        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
         }
       ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+      "duration_ms": 202823,
+      "name": "Mini Stewardess",
+      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Mini Stewardess",
-        "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "Mini Stewardess",
-      "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "talks about blossoms",
-        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "talks about blossoms",
+        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "Love is You",
         "url": "https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 188841,
       "name": "spring days",
       "url": "https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "the 24th spring",
-        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
-      },
-      "artists": [
-        {
-          "name": "jeong min joo",
-          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
-        }
-      ],
-      "duration_ms": 241749,
-      "name": "the 24th spring",
-      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
+        "name": "the 24th spring",
+        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
+      },
+      "artists": [
+        {
+          "name": "jeong min joo",
+          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
+        }
+      ],
+      "duration_ms": 241749,
+      "name": "the 24th spring",
+      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+        "name": "Like The Moon",
+        "url": "https://open.spotify.com/album/1smQCmAsoQRMEDH0zGyeLG"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "J.cob",
+          "url": "https://open.spotify.com/artist/0ElmlBhw88a1jOhfU2hrd2"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
+      "duration_ms": 220125,
+      "name": "Like The Moon (Prod. Jgrow)",
+      "url": "https://open.spotify.com/track/0vTOAtgn7H1XBmLgKfLXr4"
     }
   ],
   "unique_name": "*\ubd04 \uc124\ub808\uc784",

@@ -2,7 +2,7 @@
 
 ### [This Is Bratty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tKTQI)
 
-> This is Bratty\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Bratty\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 56 songs - 3 hr 7 min
 

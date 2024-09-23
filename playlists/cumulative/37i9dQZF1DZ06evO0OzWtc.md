@@ -2,7 +2,7 @@
 
 ### [This Is Sebastian Esquivel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OzWtc)
 
-> This Is Sebastian Esquivel\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Sebastian Esquivel\. Los temas esenciales, todos en una lista.
 
 26 songs - 1 hr 18 min
 

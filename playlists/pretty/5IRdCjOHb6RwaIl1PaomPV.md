@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring Snow Strippers, and new music from Kito, DJ\_Dave, evilgiane, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,735 likes - 100 songs - 5 hr 15 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,733 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

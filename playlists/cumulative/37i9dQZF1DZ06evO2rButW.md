@@ -2,7 +2,7 @@
 
 ### [This Is Mon Laferte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rButW)
 
-> This Is Mon Laferte\. Los temas esenciales, todos en una lista.
+> This is Mon Laferte。アーティストの代表曲をひとつのプレイリストに。
 
 72 songs - 4 hr 24 min
 

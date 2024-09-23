@@ -692,6 +692,28 @@
     {
       "album": {
         "name": "How You Love Me",
+        "url": "https://open.spotify.com/album/0aozeKEcFC8lP7KEuXUVho"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210468,
+      "name": "How You Love Me",
+      "url": "https://open.spotify.com/track/0A1y3d5O3SDvXaQ8snkmOf"
+    },
+    {
+      "album": {
+        "name": "How You Love Me",
         "url": "https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C"
       },
       "artists": [
@@ -706,7 +728,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 210468,
       "name": "How You Love Me",
       "url": "https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79"

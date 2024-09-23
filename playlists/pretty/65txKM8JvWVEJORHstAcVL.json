@@ -1,12 +1,12 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 29058,
-  "original_name": "LA LLISTA DE FLAIXBAC (15/9/2024)",
+  "num_followers": 29055,
+  "original_name": "LA LLISTA DE FLAIXBAC (22/9/2024)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AAA3CrbiJeNR7sqg+zOU8KkDU0rAD0bQ",
+  "snapshot_id": "AAA3MPQBEXEAbSBNy8cFan3UsQtLpFfe",
   "tracks": [
     {
       "added_at": "2024-07-14 16:17:27",
@@ -39,22 +39,6 @@
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
-    },
-    {
-      "added_at": "2024-07-07 16:49:59",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2024-07-14 16:17:05",
@@ -93,6 +77,22 @@
       "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
     },
     {
+      "added_at": "2024-07-07 16:49:59",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
       "added_at": "2024-06-09 16:13:58",
       "album": {
         "name": "Belong Together",
@@ -107,6 +107,42 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-07-21 17:49:22",
+      "album": {
+        "name": "to lo ke",
+        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
+      },
+      "artists": [
+        {
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "to lo ke",
+      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
+    },
+    {
+      "added_at": "2024-06-02 16:13:31",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-06-23 15:44:13",
@@ -125,20 +161,20 @@
       "url": "https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd"
     },
     {
-      "added_at": "2024-06-02 16:13:31",
+      "added_at": "2024-08-04 15:39:33",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "Stargazing - Moonlight Version",
+        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
     },
     {
       "added_at": "2024-06-16 19:02:01",
@@ -165,26 +201,6 @@
       "url": "https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd"
     },
     {
-      "added_at": "2024-07-21 17:49:22",
-      "album": {
-        "name": "to lo ke",
-        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
-      },
-      "artists": [
-        {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "to lo ke",
-      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
-    },
-    {
       "added_at": "2024-05-05 16:43:45",
       "album": {
         "name": "Stumblin' In",
@@ -199,6 +215,38 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-08-25 16:39:31",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
+    },
+    {
+      "added_at": "2024-06-30 16:22:34",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2024-05-05 16:43:34",
@@ -225,20 +273,56 @@
       "url": "https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP"
     },
     {
-      "added_at": "2024-08-04 15:39:33",
+      "added_at": "2024-04-21 16:26:53",
       "album": {
-        "name": "Stargazing - Moonlight Version",
-        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2024-08-04 15:39:17",
+      "album": {
+        "name": "Austin (Boots Stop Workin')",
+        "url": "https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
+    },
+    {
+      "added_at": "2024-09-08 15:21:52",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2024-05-19 16:52:59",
@@ -261,24 +345,24 @@
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
     },
     {
-      "added_at": "2024-04-21 16:26:53",
+      "added_at": "2024-08-18 16:02:55",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
     },
     {
       "added_at": "2024-06-23 15:44:02",
@@ -295,86 +379,6 @@
       "duration_ms": 167595,
       "name": "Passen coses",
       "url": "https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH"
-    },
-    {
-      "added_at": "2024-06-30 16:22:34",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-08-25 16:39:31",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
-    },
-    {
-      "added_at": "2024-05-05 16:43:56",
-      "album": {
-        "name": "LA CAL\u00c7OTADA",
-        "url": "https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF"
-      },
-      "artists": [
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "SOLUCIONS i NO PROBLEMES",
-      "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
-    },
-    {
-      "added_at": "2024-08-04 15:39:17",
-      "album": {
-        "name": "Austin (Boots Stop Workin')",
-        "url": "https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
-    },
-    {
-      "added_at": "2024-06-02 16:13:40",
-      "album": {
-        "name": "Que vinguis",
-        "url": "https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT"
-      },
-      "artists": [
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Que Vinguis",
-      "url": "https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb"
     },
     {
       "added_at": "2024-03-17 17:54:21",
@@ -397,6 +401,22 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
+      "added_at": "2024-05-05 16:43:56",
+      "album": {
+        "name": "LA CAL\u00c7OTADA",
+        "url": "https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "SOLUCIONS i NO PROBLEMES",
+      "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
+    },
+    {
       "added_at": "2024-02-11 16:14:09",
       "album": {
         "name": "Beautiful Things",
@@ -413,24 +433,52 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-08-18 16:02:55",
+      "added_at": "2024-09-15 17:07:22",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+        "name": "WE PRAY (TINI Version)",
+        "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC"
+    },
+    {
+      "added_at": "2024-06-02 16:13:40",
+      "album": {
+        "name": "Que vinguis",
+        "url": "https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT"
+      },
+      "artists": [
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Que Vinguis",
+      "url": "https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb"
     },
     {
       "added_at": "2024-04-28 17:08:22",
@@ -449,20 +497,24 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-09-08 15:21:52",
+      "added_at": "2024-09-08 15:21:30",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Octubre del 24",
+        "url": "https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+        },
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 190160,
+      "name": "Octubre del 24",
+      "url": "https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg"
     },
     {
       "added_at": "2024-06-30 16:22:45",
@@ -513,36 +565,40 @@
       "url": "https://open.spotify.com/track/5AxKeSyenbb6lH0xYF5kjk"
     },
     {
-      "added_at": "2024-06-09 16:14:09",
+      "added_at": "2024-09-01 15:45:09",
       "album": {
-        "name": "La Far\u00e0ndula",
-        "url": "https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC"
+        "name": "Aix\u00f2 \u00e9s l'estiu",
+        "url": "https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4"
       },
       "artists": [
         {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
         }
       ],
-      "duration_ms": 186260,
-      "name": "La Far\u00e0ndula",
-      "url": "https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q"
+      "duration_ms": 201760,
+      "name": "Aix\u00f2 \u00e9s l'estiu",
+      "url": "https://open.spotify.com/track/2afUtubQ3Gq6q9LXUP7mmt"
     },
     {
-      "added_at": "2024-02-18 16:39:42",
+      "added_at": "2024-09-15 17:03:23",
       "album": {
-        "name": "La meva sort",
-        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 154577,
-      "name": "La meva sort",
-      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-07-28 15:57:38",
@@ -569,72 +625,20 @@
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
     },
     {
-      "added_at": "2024-04-28 17:08:44",
+      "added_at": "2024-08-25 16:39:19",
       "album": {
-        "name": "Lugar Para\u00edso (y el tuyo)",
-        "url": "https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr"
+        "name": "Noctalgia",
+        "url": "https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
         }
       ],
-      "duration_ms": 186827,
-      "name": "ARA",
-      "url": "https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ"
-    },
-    {
-      "added_at": "2024-09-01 15:45:09",
-      "album": {
-        "name": "Aix\u00f2 \u00e9s l'estiu",
-        "url": "https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4"
-      },
-      "artists": [
-        {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
-        },
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Aix\u00f2 \u00e9s l'estiu",
-      "url": "https://open.spotify.com/track/2afUtubQ3Gq6q9LXUP7mmt"
-    },
-    {
-      "added_at": "2024-09-15 17:07:22",
-      "album": {
-        "name": "WE PRAY (TINI Version)",
-        "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY",
-      "url": "https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC"
+      "duration_ms": 196438,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9"
     },
     {
       "added_at": "2024-01-28 17:01:37",
@@ -653,72 +657,20 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2024-08-25 16:39:19",
+      "added_at": "2024-06-09 16:14:09",
       "album": {
-        "name": "Noctalgia",
-        "url": "https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE"
+        "name": "La Far\u00e0ndula",
+        "url": "https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
         }
       ],
-      "duration_ms": 196438,
-      "name": "Volver a Nacer",
-      "url": "https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9"
-    },
-    {
-      "added_at": "2024-09-08 15:21:30",
-      "album": {
-        "name": "Octubre del 24",
-        "url": "https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK"
-      },
-      "artists": [
-        {
-          "name": "Joan Daus\u00e0",
-          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
-        },
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Octubre del 24",
-      "url": "https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg"
-    },
-    {
-      "added_at": "2024-05-12 15:42:37",
-      "album": {
-        "name": "COMEN\u00c7AR A VIURE",
-        "url": "https://open.spotify.com/album/2xsNgctYHbxR23g8LV7MDp"
-      },
-      "artists": [
-        {
-          "name": "Els Catarres",
-          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
-        }
-      ],
-      "duration_ms": 166668,
-      "name": "COMEN\u00c7AR A VIURE",
-      "url": "https://open.spotify.com/track/0Lh4c3QpwRP4a7DeybvhRN"
-    },
-    {
-      "added_at": "2024-09-01 15:45:00",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+      "duration_ms": 186260,
+      "name": "La Far\u00e0ndula",
+      "url": "https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q"
     },
     {
       "added_at": "2024-09-08 15:21:42",
@@ -737,36 +689,52 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-02-25 17:17:14",
+      "added_at": "2024-09-01 15:45:00",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
-      "added_at": "2024-09-15 17:03:23",
+      "added_at": "2024-02-18 16:39:42",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "La meva sort",
+        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 154577,
+      "name": "La meva sort",
+      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
+    },
+    {
+      "added_at": "2024-04-28 17:08:44",
+      "album": {
+        "name": "Lugar Para\u00edso (y el tuyo)",
+        "url": "https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "ARA",
+      "url": "https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ"
     },
     {
       "added_at": "2024-09-15 17:03:11",
@@ -785,26 +753,62 @@
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
-      "added_at": "2024-03-17 17:54:45",
+      "added_at": "2024-09-22 16:17:42",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+        "name": "Fa Dies",
+        "url": "https://open.spotify.com/album/7A0S0A22wCBCkl8KHO1Ed0"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
         }
       ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+      "duration_ms": 163699,
+      "name": "Fa Dies",
+      "url": "https://open.spotify.com/track/2NnV4FSgDsRSzaTIaoKt8b"
+    },
+    {
+      "added_at": "2024-09-22 16:17:31",
+      "album": {
+        "name": "Only Hits",
+        "url": "https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ"
+      },
+      "artists": [
+        {
+          "name": "Mama Dousha",
+          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
+        },
+        {
+          "name": "Scotty DK",
+          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
+        }
+      ],
+      "duration_ms": 155398,
+      "name": "Sant Tornem-hi",
+      "url": "https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF"
+    },
+    {
+      "added_at": "2024-02-25 17:17:14",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (15/9/2024)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (22/9/2024)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

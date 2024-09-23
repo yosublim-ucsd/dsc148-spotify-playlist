@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Bardero$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,301 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,315 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 9 | [GOAT](https://open.spotify.com/track/6jdmP2pVIN5MXZ1G7GPiCN) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Ahora es Religión](https://open.spotify.com/album/202mSKQoBuHqKMtm2X1qDo) | 2:54 |
 | 10 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 |
 | 11 | [Demenciales](https://open.spotify.com/track/0UJPAOOmj7KGoQgv1ytKuu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31) | [Demenciales](https://open.spotify.com/album/5Yy4rwXZXN8sWRCfE0V5xn) | 2:01 |
-| 12 | [I´m Blessed](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 |
+| 12 | [I'm Blessd](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 |
 | 13 | [CYPHER, VOL\. 2](https://open.spotify.com/track/5Rc6JymSmpqTIUpfasQ6D2) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Troubless](https://open.spotify.com/artist/2nERcYxoWpuXEqqNyNxVfN), [IL Tano](https://open.spotify.com/artist/6JaqA9vuIgHux5GKCBmasD), [MPDhela](https://open.spotify.com/artist/1eRIuabz1YCtsHpPND7AMN) | [CYPHER, VOL\. 2](https://open.spotify.com/album/2dXKMk7BeqzBCKRY9LYRUK) | 8:32 |
 | 14 | [Estoy fuera \- Freestyle](https://open.spotify.com/track/5JYlNZMxphxneDI8DU8kTX) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Estoy fuera \- Freestyle](https://open.spotify.com/album/6V2frckzXN5aURiPlcWljL) | 2:35 |
 | 15 | [El Mal Necesario](https://open.spotify.com/track/5SLT2KCIVLw8mLJ0xAag5M) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg) | [El Mal Necesario](https://open.spotify.com/album/1eK7XuLoEbjuEpHCUafgOX) | 2:25 |

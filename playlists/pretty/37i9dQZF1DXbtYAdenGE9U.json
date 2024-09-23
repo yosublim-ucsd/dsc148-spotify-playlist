@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 604786,
+  "num_followers": 604981,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "La Trec",
-          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Stay - Original Single Edit",
-      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Faithless 2.0",
         "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "La Trec",
+          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Stay - Original Single Edit",
+      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Happiness Happening",
         "url": "https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 215480,
       "name": "Happiness Happening - Lange Remix",
       "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
-        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        },
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
-      "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Southern Sun / Ready Steady Go",
         "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 235426,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
     },
     {
       "added_at": "2024-07-23 09:55:55",

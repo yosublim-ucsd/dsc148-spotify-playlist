@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 46012,
+  "num_followers": 46024,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "666.667 Club",
         "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 225933,
       "name": "L'homme press\u00e9",
       "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -251,6 +251,38 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Je cours",
+      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Comme elle vient",
+      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "L'amour Parfait",
         "url": "https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX"
       },
@@ -279,54 +311,6 @@
       "duration_ms": 207933,
       "name": "\u00c7a me vexe",
       "url": "https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Comme elle vient",
-      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Je cours",
-      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Rock'n'Roll Part 9",
-        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
-      },
-      "artists": [
-        {
-          "name": "Les Wampas",
-          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -391,6 +375,22 @@
       "duration_ms": 206640,
       "name": "La sentinelle",
       "url": "https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Rock'n'Roll Part 9",
+        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
+      },
+      "artists": [
+        {
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Aeromusical",
+        "url": "https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Tchi Cum Bah",
+      "url": "https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Jouer dehors",
         "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 242533,
       "name": "Qu'est-ce qu'on va faire de toi",
       "url": "https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Aeromusical",
-        "url": "https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF"
-      },
-      "artists": [
-        {
-          "name": "Superbus",
-          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Tchi Cum Bah",
-      "url": "https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5"
     },
     {
       "added_at": "2024-06-24 19:56:15",

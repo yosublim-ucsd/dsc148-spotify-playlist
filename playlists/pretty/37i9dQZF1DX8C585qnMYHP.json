@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 172110,
+  "num_followers": 172215,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -725,20 +741,20 @@
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-08-14 16:44:33",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
       "artists": [
         {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
       "added_at": "2024-08-16 15:22:57",
@@ -763,22 +779,6 @@
       "duration_ms": 191145,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
-    },
-    {
-      "added_at": "2024-08-14 16:44:33",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "O O O O",
-      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Camburi",
-        "url": "https://open.spotify.com/album/5eW1UG1aQwLdLR22nM9iPC"
-      },
-      "artists": [
-        {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
-        }
-      ],
-      "duration_ms": 132916,
-      "name": "Verlaine",
-      "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 234828,
       "name": "Serenade of Secrets",
       "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Camburi",
+        "url": "https://open.spotify.com/album/5eW1UG1aQwLdLR22nM9iPC"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 132916,
+      "name": "Verlaine",
+      "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2024-08-14 14:21:25",
       "album": {
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "Muzak For Mesozoic Showreel",
+      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
         "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
       },
@@ -1073,26 +1093,6 @@
       "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Nostalgia Por Mesoz\u00f3ica",
-        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        },
-        {
-          "name": "Arthur Mine",
-          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "Muzak For Mesozoic Showreel",
-      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "betrayal",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Northern Classic",
-        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
-      },
-      "artists": [
-        {
-          "name": "Donna Regina",
-          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
-        }
-      ],
-      "duration_ms": 336786,
-      "name": "Drifting Around",
-      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1139,6 +1123,22 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Northern Classic",
+        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
+      },
+      "artists": [
+        {
+          "name": "Donna Regina",
+          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
+        }
+      ],
+      "duration_ms": 336786,
+      "name": "Drifting Around",
+      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Misterio Lounge 3000",
+        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
+      },
+      "artists": [
+        {
+          "name": "Tia Rosa",
+          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
+        }
+      ],
+      "duration_ms": 223098,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Cr\u00edo Cuervos",
@@ -1277,20 +1293,20 @@
       "url": "https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-09-11 15:31:53",
       "album": {
-        "name": "Misterio Lounge 3000",
-        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
+        "name": "La Piscina",
+        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
       },
       "artists": [
         {
-          "name": "Tia Rosa",
-          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
+          "name": "Los Ganglios",
+          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
         }
       ],
-      "duration_ms": 223098,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
+      "duration_ms": 140244,
+      "name": "La Piscina",
+      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 327804,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
-    },
-    {
-      "added_at": "2024-09-11 15:31:53",
-      "album": {
-        "name": "La Piscina",
-        "url": "https://open.spotify.com/album/6Eb89M1J7R2EoYkeae4icA"
-      },
-      "artists": [
-        {
-          "name": "Los Ganglios",
-          "url": "https://open.spotify.com/artist/397thZD98rAlhyqIQJvBjx"
-        }
-      ],
-      "duration_ms": 140244,
-      "name": "La Piscina",
-      "url": "https://open.spotify.com/track/0DFeHMzx1BXFeiflbBoU1s"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1389,6 +1389,22 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Side A: The Rude Interruption of Fear",
+        "url": "https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj"
+      },
+      "artists": [
+        {
+          "name": "Bowl",
+          "url": "https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm"
+        }
+      ],
+      "duration_ms": 238503,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk"
+    },
+    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Ritual",
@@ -1405,20 +1421,20 @@
       "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Side A: The Rude Interruption of Fear",
-        "url": "https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj"
+        "name": "Sundown Muse",
+        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
       },
       "artists": [
         {
-          "name": "Bowl",
-          "url": "https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm"
+          "name": "ERHA",
+          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
         }
       ],
-      "duration_ms": 238503,
-      "name": "Parasites",
-      "url": "https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk"
+      "duration_ms": 261004,
+      "name": "Sundown Muse",
+      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1439,22 +1455,6 @@
       "duration_ms": 196818,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/42swVwBM6DiiIJnQMj53UE"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Sundown Muse",
-        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
-      },
-      "artists": [
-        {
-          "name": "ERHA",
-          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
-        }
-      ],
-      "duration_ms": 261004,
-      "name": "Sundown Muse",
-      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
-      },
-      "artists": [
-        {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Ines",
-      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Meta",
@@ -1555,6 +1539,22 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
+      },
+      "artists": [
+        {
+          "name": "Alena Spanger",
+          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-21 04:00:00",

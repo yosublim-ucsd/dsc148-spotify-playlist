@@ -2,7 +2,7 @@
 
 ### [This Is Cultura Profética](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3AMXrG)
 
-> This is Cultura Profética。アーティストの代表曲をひとつのプレイリストに。
+> This is Cultura Profética\. The essential tracks, all in one playlist.
 
 71 songs - 6 hr 6 min
 

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-252 songs - 12 hr 58 min
+253 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2023-08-22 | 2023-09-01 |
 | [Day After](https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [Myuga](https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED) | [Day After](https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68) | 2:22 | 2024-08-23 |  |
 | [deep space](https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6) | [trees of sleep](https://open.spotify.com/artist/4PlHxeFd0jqHReZRnrtpz3) | [delaye](https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK) | 1:30 | 2023-08-22 | 2024-08-24 |
-| [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 |  |
+| [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 | 2024-09-23 |
 | [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 |  |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 |  |
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |
@@ -100,6 +100,7 @@
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 |  |
 | [Hidden Gems](https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Sedimental](https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO) | 2:37 | 2024-06-07 |  |
 | [Hideouts](https://open.spotify.com/track/0VD1obEexRZeAfYMluwSox) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Hideouts](https://open.spotify.com/album/2482yoojUTuPHgC2PdUHxY) | 2:12 | 2024-06-07 |  |
+| [High Stakes](https://open.spotify.com/track/6kURl2z8oL9QPeFH4GlKhd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [High Stakes](https://open.spotify.com/album/5Ji2T3G9TQIB7jiP5TT8Kc) | 1:46 | 2024-09-20 |  |
 | [Hit the Lights](https://open.spotify.com/track/4InFEKneua0HUGrwHuZ78h) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv) | [Hit the Lights](https://open.spotify.com/album/6hESTwKEAi1Qacec4JSuxy) | 2:06 | 2024-09-06 |  |
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
 | [i remember this picture](https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 3:33 | 2024-03-20 | 2024-04-19 |

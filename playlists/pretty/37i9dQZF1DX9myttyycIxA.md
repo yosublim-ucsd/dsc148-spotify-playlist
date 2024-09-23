@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Lutalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,016 likes - 104 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,035 likes - 104 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

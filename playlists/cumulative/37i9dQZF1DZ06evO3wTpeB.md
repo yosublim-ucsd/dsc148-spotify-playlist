@@ -2,7 +2,7 @@
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This is Ali Aka Mind\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 23 min
 

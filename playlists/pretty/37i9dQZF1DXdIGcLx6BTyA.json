@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -151,6 +135,26 @@
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Tell Me When It\u2019s Over",
+        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 296933,
+      "name": "Tell Me When It\u2019s Over",
+      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -203,18 +207,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The SteelDrivers",
-        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 174906,
-      "name": "Drinkin' Dark Whiskey",
-      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Tell Me When It\u2019s Over",
-        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
+        "name": "The SteelDrivers",
+        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 296933,
-      "name": "Tell Me When It\u2019s Over",
-      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
+      "duration_ms": 174906,
+      "name": "Drinkin' Dark Whiskey",
+      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Something More Than Free",
         "url": "https://open.spotify.com/album/1foB2t5YmfC6PxIC31g5Cp"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 193613,
       "name": "24 Frames",
       "url": "https://open.spotify.com/track/3TWffuE2fuzzl1qC2W2V6j"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Find a Light",
         "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 183164,
-      "name": "Hope the High Road",
-      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222733,
       "name": "Best Years of My Life",
       "url": "https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Hope the High Road",
+      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "While I'm Livin'",
         "url": "https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 231746,
       "name": "Wild Love",
       "url": "https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "(I\u2019m Gonna Get Over This) Some Day",
-        "url": "https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 168780,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "(I\u2019m Gonna Get Over This) Some Day",
+        "url": "https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "J.T.",
-        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 215669,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Adobe Sessions",
         "url": "https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 229927,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 215669,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1239,22 +1239,6 @@
       "duration_ms": 199786,
       "name": "All My Favorite People (feat. Brothers Osborne)",
       "url": "https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 186639,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "The Luckier You Get",
         "url": "https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Watch the World Die",
-        "url": "https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw"
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 234984,
-      "name": "Watch the World Die",
-      "url": "https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg"
+      "duration_ms": 226666,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR"
     }
   ],
   "unique_name": "The Road Less Traveled",

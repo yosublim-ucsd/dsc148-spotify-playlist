@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=IsFwsk8TRPummkMhBslTUg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,842 likes - 88 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,932 likes - 88 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 37 | [Comfort me](https://open.spotify.com/track/3e35HnDENOkg77SBrmOhsa) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY) | [Comfort me](https://open.spotify.com/album/2Ugn4YVHHiEgMQhcBAHPT5) | 2:22 |
 | 38 | [He's able](https://open.spotify.com/track/2WRlrGVFwSXgFh0c5Cnjhk) | [Fredrock](https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy) | [He's able](https://open.spotify.com/album/4MD3uGAgDpiIi4C01LKJNM) | 5:31 |
 | 39 | [Supernatural Is My Normal Chant](https://open.spotify.com/track/4SX1FDPHyimXyIKbRP6eAe) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Supernatural Is My Normal Chant](https://open.spotify.com/album/2NWjWyD3N5U5NDs1Bh9MF2) | 3:17 |
-| 40 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko’rale](https://open.spotify.com/artist/2G16sEJNGdtXuXeoRRfN8K) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 |
+| 40 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 |
 | 41 | [Jesus Anthem](https://open.spotify.com/track/1CJSMzouRTXL9VBCu1dyDg) | [Dr\. Flourish Peters](https://open.spotify.com/artist/5j0FoGE3z6UkezW54YaztZ), [SMJ](https://open.spotify.com/artist/1Gx8Ed6w4kQldnomP5H0uY), [Dorcas Moore](https://open.spotify.com/artist/4re7QR4ID3Jd0q9MbqJ5Tr), [Flo](https://open.spotify.com/artist/7G8cIOdRcKMBFwNYjP96lD) | [Jesus Anthem](https://open.spotify.com/album/0M1YBxBsPBq45x6As3zyw5) | 3:30 |
 | 42 | [Hallelu](https://open.spotify.com/track/5zVIaJBUWNDNEWy2iM4B03) | [DaJesse](https://open.spotify.com/artist/0RtjBpiIYB8bSkyDDEMeZl), [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45) | [Hallelu](https://open.spotify.com/album/5zwCZ9cszIGwka9joPjNX1) | 2:12 |
 | 43 | [Redemption \- Acoustic](https://open.spotify.com/track/3a75C0obxc1nKSNoNuT0Wk) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j) | [Sound Of Redemption \- Unplugged](https://open.spotify.com/album/0kf5vbuvpjd63oYzQiDHZL) | 5:21 |

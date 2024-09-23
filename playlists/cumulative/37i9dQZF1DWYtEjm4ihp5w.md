@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen ma kayn f rap mghribi\. Cover: Figoshin
+> Playlist dial a7sen ma kayn f rap mghribi\. Cover: Bo9al
 
 283 songs - 15 hr 9 min
 

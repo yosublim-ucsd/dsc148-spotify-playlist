@@ -2,7 +2,7 @@
 
 ### [This Is Phoebe Bridgers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N5yhI)
 
-> This is Phoebe Bridgers\. The essential tracks, all in one playlist.
+> This is Phoebe Bridgers。アーティストの代表曲をひとつのプレイリストに。
 
 71 songs - 4 hr 39 min
 

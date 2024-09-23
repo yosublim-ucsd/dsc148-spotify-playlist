@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,206 likes - 545 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,232 likes - 545 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 131 | [By Your Side](https://open.spotify.com/track/5kIsAdu63383IiX3gNnsW5) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Circo De Amor](https://open.spotify.com/album/49Jzqo2Zyzq8Rv2QToVHWt) | 2:17 |
 | 132 | [Esta Soledad](https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Esta Soledad](https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo) | 4:14 |
 | 133 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
-| 134 | [I´m Blessed](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 |
+| 134 | [I'm Blessd](https://open.spotify.com/track/5ToZKR67BcLZOTMn38zMdm) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:28 |
 | 135 | [RCP](https://open.spotify.com/track/3HTwXJ9lOWEQHqpXa6XBJ0) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 3:03 |
 | 136 | [Tú](https://open.spotify.com/track/6SSbMKSHk1wgUWvTOyvitE) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Hora Cero](https://open.spotify.com/album/7G1y1jJTOwXqCemSHwfg8U) | 3:14 |
 | 137 | [Toda la Vida](https://open.spotify.com/track/6Sm5hujl6c8x3n4EKyVkVN) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Hora Cero](https://open.spotify.com/album/7G1y1jJTOwXqCemSHwfg8U) | 3:10 |

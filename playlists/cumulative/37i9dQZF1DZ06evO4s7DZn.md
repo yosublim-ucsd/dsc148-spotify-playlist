@@ -2,7 +2,7 @@
 
 ### [This Is Banda Rafaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s7DZn)
 
-> This is Banda Rafaga\. The essential tracks, all in one playlist.
+> This is Banda Rafaga\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 110 songs - 6 hr 8 min
 

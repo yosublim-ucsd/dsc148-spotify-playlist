@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Festival Candelabrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,834 likes - 125 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,855 likes - 125 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

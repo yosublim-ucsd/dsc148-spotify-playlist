@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 761831,
+  "num_followers": 761935,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAABsUzxCtHPWQotAhTzPGmWU",
+  "snapshot_id": "Zu4MgAAAAABYKlgkIHEgpW5m0O5eKVGd",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 139432,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi"
+      "duration_ms": 246877,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 246877,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/06vyBAqzokvXjw3b7FPcZi"
+      "duration_ms": 139432,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6EnWm7fQBUku6EuNc3xPmi"
     },
     {
       "added_at": null,

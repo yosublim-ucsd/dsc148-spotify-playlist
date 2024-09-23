@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
-  "num_followers": 83571,
+  "description": "This Is Gondwana. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
+  "num_followers": 83583,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAAAkFH2vdThmCm9foNJyhPw/",
+  "snapshot_id": "Zu4MgAAAAADhz5rhRVOzqSJHQ7f0xEqZ",
   "tracks": [
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00f3tem",
-        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
-      },
-      "artists": [
-        {
-          "name": "Shamanes Crew",
-          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
-        },
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Tiano Bless",
-          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "San\u00e1ndonos",
-      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Could You Be Loved",
         "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
+      },
+      "artists": [
+        {
+          "name": "Shamanes Crew",
+          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "San\u00e1ndonos",
+      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
     },
     {
       "added_at": null,

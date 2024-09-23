@@ -15144,7 +15144,7 @@
     {
       "album": {
         "name": "Still Too Deep",
-        "url": "https://open.spotify.com/album/64BOoyjxmr52yGDAYptlOl"
+        "url": "https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr"
       },
       "artists": [
         {
@@ -15163,6 +15163,32 @@
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201900,
+      "name": "I Try (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/3DhxAnsGkBgc7UxC4IZRyi"
+    },
+    {
+      "album": {
+        "name": "Still Too Deep",
+        "url": "https://open.spotify.com/album/64BOoyjxmr52yGDAYptlOl"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "Will A Fool",
+          "url": "https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-09-23",
       "duration_ms": 201900,
       "name": "I Try (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/5qjNPtjXbYSzhW6NCQZueO"

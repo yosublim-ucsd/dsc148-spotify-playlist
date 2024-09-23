@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 170405,
+  "num_followers": 170681,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-13 07:28:49",
       "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 170882,
+      "name": "Gulabi Pagg",
+      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
+    },
+    {
+      "added_at": "2024-09-13 07:28:49",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 212347,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
-    },
-    {
-      "added_at": "2024-09-13 07:28:49",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 170882,
-      "name": "Gulabi Pagg",
-      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -670,11 +670,15 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 179285,
-      "name": "Jatti",
-      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
+      "duration_ms": 198260,
+      "name": "Track Suit",
+      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -686,15 +690,11 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Track Suit",
-      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
+      "duration_ms": 179285,
+      "name": "Jatti",
+      "url": "https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
+      "duration_ms": 154285,
+      "name": "Poppin'",
+      "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Poppin'",
-      "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2024-09-13 07:28:49",

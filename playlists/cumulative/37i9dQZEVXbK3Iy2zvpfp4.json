@@ -10142,7 +10142,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 115921,
       "name": "did i tell u that i miss u",
       "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
@@ -10374,7 +10374,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -12612,7 +12612,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 302826,
       "name": "Eyes on Fire",
       "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
@@ -26873,6 +26873,24 @@
     },
     {
       "album": {
+        "name": "Moja pi\u010da nie je skromn\u00e1",
+        "url": "https://open.spotify.com/album/1aWBky8wDZifMbAM7OS61p"
+      },
+      "artists": [
+        {
+          "name": "Lifted Sounds",
+          "url": "https://open.spotify.com/artist/7aEHurEUOCLcYTwTfyBc7b"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60400,
+      "name": "Moja pi\u010da nie je skromn\u00e1",
+      "url": "https://open.spotify.com/track/4KYG6y626yZwPzi6Smgpog"
+    },
+    {
+      "album": {
         "name": "mojamojamoja/margiela",
         "url": "https://open.spotify.com/album/5QMo2F6bN7eIelXFNcdB15"
       },
@@ -27376,7 +27394,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 54308,
       "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
       "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
@@ -33664,7 +33682,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -34284,6 +34302,24 @@
       "duration_ms": 142080,
       "name": "prayer1",
       "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
+    },
+    {
+      "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "praying to the sky",
+      "url": "https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3"
     },
     {
       "album": {
@@ -37464,7 +37500,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -45066,7 +45102,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
@@ -48856,6 +48892,24 @@
       "duration_ms": 121200,
       "name": "\u017eeleznice",
       "url": "https://open.spotify.com/track/5izJDJcEHfJGORuXGGyXs9"
+    },
+    {
+      "album": {
+        "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+        "url": "https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178296,
+      "name": "\u0410\u0434\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f",
+      "url": "https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur"
     },
     {
       "album": {

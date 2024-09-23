@@ -2,7 +2,7 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is: Danny Felix\. Alle wichtigen Tracks in einer Playlist.
+> This is Danny Felix。アーティストの代表曲をひとつのプレイリストに。
 
 87 songs - 4 hr 52 min
 

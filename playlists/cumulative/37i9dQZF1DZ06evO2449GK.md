@@ -2,7 +2,7 @@
 
 ### [This Is Alcolirykoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2449GK)
 
-> This is Alcolirykoz\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Alcolirykoz\. Los temas esenciales, todos en una lista.
 
 49 songs - 3 hr 8 min
 

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-744 songs - 2 day 0 hr 46 min
+746 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [953](https://open.spotify.com/track/6TYqetg2GzbwdeDvLBZbZF) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 5:20 | 2024-01-03 |  |
 | [<2](https://open.spotify.com/track/6b7UmVZAUEdc7cwF52tuBd) | [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Slugger](https://open.spotify.com/album/4pIfQJoWkRlqdPG4geudEf) | 3:23 | 2024-01-18 |  |
 | [A Beautiful Woman](https://open.spotify.com/track/31NVIwE4edzNpTXAZ7UyB6) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [The Expanding Flower Planet](https://open.spotify.com/album/10e1mx1PykreNOn02pFjIU) | 3:31 | 2023-03-23 |  |
+| [A Day a Gorilla Gives a Banana](https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 1:40 | 2024-09-22 |  |
 | [A Dream Goes On Forever](https://open.spotify.com/track/1CGT5LV74SNzXFnVmTdAE8) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 4:39 | 2024-04-05 |  |
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-07-31 |  |
 | [A Good Thing](https://open.spotify.com/track/4h7N08txmbfso1H5WtUkjS) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Carrier Pigeon](https://open.spotify.com/album/5ufL1kagvdUMrUNNP4FCuV) | 3:29 | 2024-08-05 |  |
@@ -698,6 +699,7 @@
 | [Velvet Portraits](https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 1:33 | 2024-02-06 |  |
 | [Versailles](https://open.spotify.com/track/5XeSZTj2XOqFHcr78W9guM) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Despot](https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1) | [Aethiopes](https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD) | 3:07 | 2024-04-18 | 2024-04-20 |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2024-01-08 |  |
+| [Vocoder \[Club Mix\]](https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:31 | 2024-09-22 |  |
 | [Voicemail](https://open.spotify.com/track/7sWoi73RVYkbkd8S7duNAV) | [Antarctigo Vespucci](https://open.spotify.com/artist/574PYry9WzUvHwvtxmKKSW) | [Love in the Time of E\-Mail](https://open.spotify.com/album/5RddM7DlVMenEItqNJRk6i) | 1:37 | 2024-01-19 | 2024-03-28 |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2024-06-12 |  |
 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 | 2023-06-01 |  |

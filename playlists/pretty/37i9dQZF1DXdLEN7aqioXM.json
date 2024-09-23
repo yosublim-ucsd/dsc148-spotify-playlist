@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1056905,
+  "num_followers": 1056980,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Summer Is Over (Fury Weekend Remix)",
-        "url": "https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg"
-      },
-      "artists": [
-        {
-          "name": "Nouveau Arcade",
-          "url": "https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx"
-        },
-        {
-          "name": "Fury Weekend",
-          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
-        }
-      ],
-      "duration_ms": 235514,
-      "name": "Summer Is Over - Fury Weekend Remix",
-      "url": "https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "A Sea of Stars (Miami Nights 1984 Remix)",
         "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 211200,
       "name": "A Sea of Stars (Miami Nights 1984 Remix)",
       "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Summer Is Over (Fury Weekend Remix)",
+        "url": "https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg"
+      },
+      "artists": [
+        {
+          "name": "Nouveau Arcade",
+          "url": "https://open.spotify.com/artist/2NfoN7WCze5NEJe3J98CQx"
+        },
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        }
+      ],
+      "duration_ms": 235514,
+      "name": "Summer Is Over - Fury Weekend Remix",
+      "url": "https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0exKBTteHl0GD1h7y4pcTi"
+      },
+      "artists": [
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        },
+        {
+          "name": "PRIZM",
+          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3HnXETGg80pcyTNpGbCkqR"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Flashbacks (Arcade High Remix)",
         "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0exKBTteHl0GD1h7y4pcTi"
-      },
-      "artists": [
-        {
-          "name": "Fury Weekend",
-          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
-        },
-        {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/3HnXETGg80pcyTNpGbCkqR"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Fundamentals, Vol. III",
-        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
-      },
-      "artists": [
-        {
-          "name": "Brothertiger",
-          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
-        }
-      ],
-      "duration_ms": 316129,
-      "name": "Pel\u00e9e",
-      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Tsukuyomi",
         "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 270317,
       "name": "Tsukuyomi",
       "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Fundamentals, Vol. III",
+        "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
+      },
+      "artists": [
+        {
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
+        }
+      ],
+      "duration_ms": 316129,
+      "name": "Pel\u00e9e",
+      "url": "https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Soul Survivor (feat. Ollie Wride)",
         "url": "https://open.spotify.com/album/5WOWb8G56KSeb6qFqIUJbR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 218614,
       "name": "Soul Survivor (feat. Ollie Wride)",
       "url": "https://open.spotify.com/track/6LvKahncumcR2KJypCYOkB"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/5fFaSHgDjLJV5Gt04ezP8P"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 192500,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Defender",
-        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Defender",
-      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        }
+      ],
+      "duration_ms": 180559,
+      "name": "End",
+      "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/72tw9FXt9VsabfFSzAHXLO"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 288557,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/4tNtBl6Y9TcInf3HNrOfJs"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
-      },
-      "artists": [
-        {
-          "name": "Ashel",
-          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
-        }
-      ],
-      "duration_ms": 180559,
-      "name": "End",
-      "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
+      },
+      "artists": [
+        {
+          "name": "Droid Bishop",
+          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+        }
+      ],
+      "duration_ms": 301687,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Nights",
-        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
-      },
-      "artists": [
-        {
-          "name": "Droid Bishop",
-          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
-        }
-      ],
-      "duration_ms": 301687,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Synthtopia",
-        "url": "https://open.spotify.com/album/69Iu2ZoWLdduBcOFmzi5Dc"
-      },
-      "artists": [
-        {
-          "name": "Brand X Music",
-          "url": "https://open.spotify.com/artist/1jee9hr0fXhz1aoGnwOSiL"
-        }
-      ],
-      "duration_ms": 160027,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/1UxbCY5cw2q3SM7N889OHs"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "F-zero",
         "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Ascella (Dub)",
-        "url": "https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5"
+        "name": "Synthtopia",
+        "url": "https://open.spotify.com/album/69Iu2ZoWLdduBcOFmzi5Dc"
       },
       "artists": [
         {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+          "name": "Brand X Music",
+          "url": "https://open.spotify.com/artist/1jee9hr0fXhz1aoGnwOSiL"
         }
       ],
-      "duration_ms": 352128,
-      "name": "Ascella (Dub)",
-      "url": "https://open.spotify.com/track/66YbANFZ7Ops6csoTqL7iS"
+      "duration_ms": 160027,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1UxbCY5cw2q3SM7N889OHs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1727,6 +1711,22 @@
       "duration_ms": 278400,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Ascella (Dub)",
+        "url": "https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 352128,
+      "name": "Ascella (Dub)",
+      "url": "https://open.spotify.com/track/66YbANFZ7Ops6csoTqL7iS"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
-        "url": "https://open.spotify.com/album/55l1WoJzMpquZIX4FWY6Yv"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0443\u0447",
-          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
-        }
-      ],
-      "duration_ms": 182403,
-      "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
-      "url": "https://open.spotify.com/track/2AvDaqxSlxeXFb0kSWnVOs"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Eleos",
         "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
       },
@@ -1787,18 +1771,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
+        "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
+        "url": "https://open.spotify.com/album/55l1WoJzMpquZIX4FWY6Yv"
       },
       "artists": [
         {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+          "name": "\u041b\u0443\u0447",
+          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
+      "duration_ms": 182403,
+      "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
+      "url": "https://open.spotify.com/track/2AvDaqxSlxeXFb0kSWnVOs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/0VXVzLE88TUjuL70AhCkWY"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Astral Dive (From \u201cIn Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/0lx9vIcRrJsEbDzAHun46p"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "We Find Ourselves",
         "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
       },
@@ -1847,22 +1847,6 @@
       "duration_ms": 219609,
       "name": "We Find Ourselves - Edit",
       "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 278130,
-      "name": "October",
-      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1903,6 +1887,22 @@
       "duration_ms": 210000,
       "name": "Days Away",
       "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 278130,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Memorie",
         "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
       },
@@ -2035,22 +2019,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Transition Phase",
-        "url": "https://open.spotify.com/album/1TFxWfegvhejzw9EKvBJoe"
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
       "artists": [
         {
-          "name": "The Present Sound",
-          "url": "https://open.spotify.com/artist/3UrI05QoPASfBPfOMR6pZr"
-        },
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Transition Phase",
-      "url": "https://open.spotify.com/track/3bJJN5dmgDfNe8Aq8FnICw"
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2067,6 +2047,26 @@
       "duration_ms": 325423,
       "name": "Kame House",
       "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Transition Phase",
+        "url": "https://open.spotify.com/album/1TFxWfegvhejzw9EKvBJoe"
+      },
+      "artists": [
+        {
+          "name": "The Present Sound",
+          "url": "https://open.spotify.com/artist/3UrI05QoPASfBPfOMR6pZr"
+        },
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Transition Phase",
+      "url": "https://open.spotify.com/track/3bJJN5dmgDfNe8Aq8FnICw"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "duration_ms": 263076,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "WUT",
         "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 342031,
       "name": "Echoes Of The Past",
       "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
-      },
-      "artists": [
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
-        }
-      ],
-      "duration_ms": 263076,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2235,6 +2235,26 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Succeed EP",
+        "url": "https://open.spotify.com/album/6p5XNL1ONh2VxEdJaKmkPl"
+      },
+      "artists": [
+        {
+          "name": "Alexey Union",
+          "url": "https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G"
+        },
+        {
+          "name": "Aves Volare",
+          "url": "https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq"
+        }
+      ],
+      "duration_ms": 422226,
+      "name": "Succeed",
+      "url": "https://open.spotify.com/track/2526hhBAM2AmBCfruVFR7n"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Wavefinder",
         "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
       },
@@ -2255,22 +2275,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Succeed EP",
-        "url": "https://open.spotify.com/album/6p5XNL1ONh2VxEdJaKmkPl"
+        "name": "Sweet Gold (Ishi Rework)",
+        "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
       },
       "artists": [
         {
-          "name": "Alexey Union",
-          "url": "https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G"
+          "name": "Ishi",
+          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
         },
         {
-          "name": "Aves Volare",
-          "url": "https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq"
+          "name": "Nia Brock",
+          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
         }
       ],
-      "duration_ms": 422226,
-      "name": "Succeed",
-      "url": "https://open.spotify.com/track/2526hhBAM2AmBCfruVFR7n"
+      "duration_ms": 208453,
+      "name": "Sweet Gold (Ishi Rework)",
+      "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2303,26 +2323,6 @@
       "duration_ms": 267752,
       "name": "Falkor Flight",
       "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Sweet Gold (Ishi Rework)",
-        "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
-      },
-      "artists": [
-        {
-          "name": "Ishi",
-          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
-        },
-        {
-          "name": "Nia Brock",
-          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Sweet Gold (Ishi Rework)",
-      "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
-      },
-      "artists": [
-        {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 307747,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Redux",
         "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 144000,
       "name": "Redux",
       "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 307747,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2024-09-11 17:46:02",

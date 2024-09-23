@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 881,
+  "num_followers": 880,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Heaven EP",
+        "url": "https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 200718,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Heaven EP",
-        "url": "https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 200718,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -907,38 +907,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Svikare",
-        "url": "https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 161207,
-      "name": "Svikare",
-      "url": "https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Grodjakten",
-        "url": "https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb"
-      },
-      "artists": [
-        {
-          "name": "Johannes R\u00e4ih\u00e4",
-          "url": "https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP"
-        }
-      ],
-      "duration_ms": 151465,
-      "name": "Grodjakten",
-      "url": "https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
         "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 202480,
       "name": "Step By Step - Axel Boman\u2019s In The Air Version",
       "url": "https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Grodjakten",
+        "url": "https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb"
+      },
+      "artists": [
+        {
+          "name": "Johannes R\u00e4ih\u00e4",
+          "url": "https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP"
+        }
+      ],
+      "duration_ms": 151465,
+      "name": "Grodjakten",
+      "url": "https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Svikare",
+        "url": "https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 161207,
+      "name": "Svikare",
+      "url": "https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "We Never Knew",
+        "url": "https://open.spotify.com/album/436z0vlNIcIcZuHcjdCYw6"
+      },
+      "artists": [
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "We Never Knew",
+      "url": "https://open.spotify.com/track/1TNYf1sRv0DwTFmgthn3Yk"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "RATTLESNAKE",
         "url": "https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "We Never Knew",
-        "url": "https://open.spotify.com/album/436z0vlNIcIcZuHcjdCYw6"
-      },
-      "artists": [
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "We Never Knew",
-      "url": "https://open.spotify.com/track/1TNYf1sRv0DwTFmgthn3Yk"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 208225,
       "name": "WOMAN",
       "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 244693,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "If The Car Crashed",
+        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
+      },
+      "artists": [
+        {
+          "name": "Beforefrances",
+          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "If The Car Crashed",
+      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "Fight Back Time",
         "url": "https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 197079,
       "name": "Fight Back Time",
       "url": "https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "If The Car Crashed",
-        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
-      },
-      "artists": [
-        {
-          "name": "Beforefrances",
-          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "If The Car Crashed",
-      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Daghem",
-        "url": "https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so"
-      },
-      "artists": [
-        {
-          "name": "Daghem",
-          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "TIAMA l",
         "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 173045,
       "name": "If You (Papapa)",
       "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Daghem",
+        "url": "https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so"
+      },
+      "artists": [
+        {
+          "name": "Daghem",
+          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a"
     },
     {
       "added_at": "2023-11-29 12:17:00",

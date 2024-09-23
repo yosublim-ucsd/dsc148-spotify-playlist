@@ -4,11 +4,12 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,827 songs - 6 day 6 hr 26 min
+2,829 songs - 6 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Il y a"](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 | 2023-11-24 | 2024-03-02 |
+| ['Ndrangheta](https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | ['Ndrangheta](https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF) | 2:41 | 2024-09-20 |  |
 | [\(Last Call\) Braille pas](https://open.spotify.com/track/3qhxoWjYeo5NT0hW4M9myN) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [\(Last Call\) Braille pas](https://open.spotify.com/album/5mhxezbfl2WMeAkPSUJxMe) | 1:58 | 2024-02-23 | 2024-03-02 |
 | [+1](https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8) | 2:18 | 2023-03-31 | 2023-04-09 |
 | [+1 pour l'artiste](https://open.spotify.com/track/051SRL0n7bNknKqge6QSuI) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:51 | 2022-03-11 | 2022-03-26 |
@@ -1294,6 +1295,7 @@
 | [L'île aux bleuets](https://open.spotify.com/track/4QkVqjrBrvoGemP2vnQbNV) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [L'île aux bleuets](https://open.spotify.com/album/2qGx04164PdegOfarPyxvP) | 3:25 | 2024-03-01 | 2024-03-09 |
 | [L.A.](https://open.spotify.com/track/7vZ7xY8o1LELm4gL2zUlR9) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [L.A.](https://open.spotify.com/album/25A4BOTZDwSqIh5aItLWm7) | 3:19 | 2022-03-11 | 2022-03-18 |
 | [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-05-20 | 2022-06-04 |
+| [La 17](https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 17](https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9) | 2:43 | 2024-09-20 |  |
 | [La BBQ Dance](https://open.spotify.com/track/5jeBgJ4cqqSy6VuR089h8j) | [Laurie LeBlanc](https://open.spotify.com/artist/5PBVcwGdkX9vYCBX8rkDRb) | [La BBQ Dance](https://open.spotify.com/album/730JDGc4SuBJD6nHqrNLrx) | 2:51 | 2022-05-13 | 2022-05-28 |
 | [La Bohème](https://open.spotify.com/track/4wqlhKrG4K8DKgRoHpZqED) | [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [La Bohème](https://open.spotify.com/album/23xonxmEJ51Jqs3Y3aLpaa) | 3:54 | 2022-06-17 | 2022-06-25 |
 | [La botanique](https://open.spotify.com/track/0mnRhqrfdy9FeX3FGIiKLZ) | [Viviane Audet](https://open.spotify.com/artist/71GvXWXg9NgdanmMg9XWHo) | [La botanique](https://open.spotify.com/album/1gtt7GAx52GfTHepkV1mHr) | 3:21 | 2023-03-10 | 2023-03-18 |
@@ -2414,7 +2416,7 @@
 | [Submergé](https://open.spotify.com/track/46ae6uZp2EKthMU14RcyQh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Submergé](https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4) | 3:01 | 2023-11-17 | 2023-11-25 |
 | [Sucré salé](https://open.spotify.com/track/13GYItYsEpYNQyTzmLG0Pe) | [Of Course](https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w) | [Sucré salé](https://open.spotify.com/album/66JXzIZeS6SfDD6S5vvDGU) | 3:12 | 2022-04-15 | 2022-04-29 |
 | [Suffit d'attendre I](https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Aurore](https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m) | 1:36 | 2022-09-16 | 2022-09-24 |
-| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 |  |
+| [Sugar daddy](https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Sugar daddy](https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r) | 2:46 | 2024-09-20 | 2024-09-23 |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-28 | 2022-02-12 |
 | [Sumerset](https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 3:42 | 2024-03-29 | 2024-04-06 |
 | [Summer Hunting \(Remix\)](https://open.spotify.com/track/4zLdbIH7sP4W2C3599ip9I) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Summer Hunting \(Remix\)](https://open.spotify.com/album/1gDyPNLgWmPvWb6pLVyL4W) | 4:40 | 2022-04-01 | 2022-04-16 |
@@ -2539,7 +2541,7 @@
 | [Tour du Monde](https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Tour du Monde](https://open.spotify.com/album/1ybBcRxpUhorl343FGWUyO) | 2:25 | 2024-06-14 | 2024-06-29 |
 | [Tour à tour](https://open.spotify.com/track/4UmWhzUhv36VxBAZOiCL1Q) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Tour à tour](https://open.spotify.com/album/6uHRnW7m0xWOKaOotcRote) | 3:20 | 2022-10-28 | 2022-11-19 |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-03-08 | 2024-03-16 |
-| [Tous ces ongles rongés](https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 2:58 | 2024-09-20 |  |
+| [Tous ces ongles rongés](https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 2:58 | 2024-09-20 | 2024-09-23 |
 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 | 2023-05-12 | 2023-05-20 |
 | [Tout c'que j'connais](https://open.spotify.com/track/6ysi2zSXcx4WjU2gX6Cmcr) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Tout c'que j'connais](https://open.spotify.com/album/5atVuDm8WzCguB6Itn4IyD) | 3:17 | 2022-06-17 | 2022-07-09 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-16 |

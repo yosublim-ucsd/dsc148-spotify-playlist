@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DAMONA",
-  "num_followers": 34740,
+  "num_followers": 34749,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Wieso eigentlich?",
-        "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
-      },
-      "artists": [
-        {
-          "name": "Juli Gilde",
-          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "Wieso eigentlich?",
-      "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "Lightspeed",
         "url": "https://open.spotify.com/album/50d54rqpQUL9ehdRSVp29j"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195754,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/1mzmi01eh31P8zbCFi02E5"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Wieso eigentlich?",
+        "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "Wieso eigentlich?",
+      "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Nothing (Demo)",
-        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 112054,
-      "name": "Nothing - Demo",
-      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "KUNDALINI",
         "url": "https://open.spotify.com/album/1CAHe8maf0Ki0BJWd3jXnL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 157700,
       "name": "KUNDALINI",
       "url": "https://open.spotify.com/track/08gHmcjdsJdiSCRe9vNZHw"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Nothing (Demo)",
+        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 112054,
+      "name": "Nothing - Demo",
+      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
     },
     {
       "added_at": "2024-09-04 05:16:29",

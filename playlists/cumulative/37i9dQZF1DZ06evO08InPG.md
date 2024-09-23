@@ -2,7 +2,7 @@
 
 ### [This Is Machine Head](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08InPG)
 
-> This is Machine Head\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Machine Head\. Track\-track unggulan, semuanya dalam satu playlist.
 
 87 songs - 7 hr 39 min
 

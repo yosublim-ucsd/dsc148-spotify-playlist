@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > Stray Kids LIVE Blu\-ray 『Stray Kids 5\-STAR Dome Tour 2023』発売記念。プレイリストで公演を振り返ろう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,441 likes - 24 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,465 likes - 24 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

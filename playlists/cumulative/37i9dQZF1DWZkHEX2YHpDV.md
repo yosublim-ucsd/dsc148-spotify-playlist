@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: Winona Fighter
 
-1,286 songs - 2 day 19 hr 55 min
+1,287 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,6 +954,7 @@
 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 | 2022-08-02 | 2023-11-04 |
 | [She Likes My Tattoos](https://open.spotify.com/track/70VBBZjawKfX6Jkrb0ru4d) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/0D0K1XSh7i6MkbWBZTPmeH) | 2:44 | 2023-10-27 | 2023-11-11 |
 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 | 2023-12-08 | 2024-04-13 |
+| [She's a Rose](https://open.spotify.com/track/3NLCuJu9FqaHohaFd5rROu) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [High Wire](https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09) | [She's a Rose](https://open.spotify.com/album/0KGHromCKa9EpEqs4ShDZG) | 3:05 | 2024-09-20 |  |
 | [she's a vampire](https://open.spotify.com/track/0TijcPb77nixLGQQzVECLJ) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [she's a vampire](https://open.spotify.com/album/5DKISuJT879vrCsbUcKAt4) | 3:09 | 2023-10-27 | 2023-12-13 |
 | [she's a vampire](https://open.spotify.com/track/0mKgF83Y31cJKwPc13o5nR) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 3:09 | 2023-12-08 | 2024-02-10 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-04-10 | 2023-05-13 |
@@ -1016,7 +1017,7 @@
 | [Soul Drive](https://open.spotify.com/track/2G40INFnvdXvMMr4dYa5Ra) | [Stickup Kid](https://open.spotify.com/artist/54ePTSLN5k7BMWG3SKEw1n) | [Soul Drive](https://open.spotify.com/album/0ewm87FpviLq8YWQdRSEVO) | 2:45 | 2022-04-01 | 2022-04-21 |
 | [Soul Escape](https://open.spotify.com/track/6gDPtFBsQPqFOQFTpuS5vf) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Soul Escape](https://open.spotify.com/album/02G82rBngUHkKuH3XfuJ0Q) | 3:28 | 2022-03-25 | 2022-04-15 |
 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 | 2024-06-24 |  |
-| [Sour](https://open.spotify.com/track/1eEq2illl2lZlqawke83S8) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Sour](https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ) | 2:45 | 2024-05-14 |  |
+| [Sour](https://open.spotify.com/track/1eEq2illl2lZlqawke83S8) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Sour](https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ) | 2:45 | 2024-05-14 | 2024-09-23 |
 | [SOURDOUGHSTARTER](https://open.spotify.com/track/3DlMt2XaWX5twGCQdYZdvr) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [No Dice](https://open.spotify.com/artist/3PjQbg9IJ0y2Y2ioqnLYDv) | [RICH SIPS](https://open.spotify.com/album/3mXJ13XcyoR55oDfoxLgvT) | 3:19 | 2021-12-10 | 2022-07-03 |
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2023-04-10 | 2024-01-20 |
 | [Speed Demon](https://open.spotify.com/track/16rvPyhsZXi5K6j5yYe3AS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Speed Demon](https://open.spotify.com/album/5pRynVwtbIK21R2w6hVK6M) | 3:10 | 2024-05-14 |  |

@@ -5129,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "LOVE IS HARD",
+      "url": "https://open.spotify.com/track/2Nyaks5SHuBDr6ykEEXx6t"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2 (Gag City Deluxe)",
         "url": "https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro"
       },

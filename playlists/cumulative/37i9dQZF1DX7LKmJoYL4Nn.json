@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 270906,
       "name": "Castle of my Heart",
       "url": "https://open.spotify.com/track/1Urnxd5ABu511f6XxQEptd"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 223866,
       "name": "Mystic Fragrance",
       "url": "https://open.spotify.com/track/3u6HywP3wR5eObLRReV6w6"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 269706,
       "name": "Shall we dance?",
       "url": "https://open.spotify.com/track/4RwhihlovRBGCCFfdVbSHq"
@@ -1678,6 +1678,24 @@
       "duration_ms": 260495,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Valkyrie",
+        "url": "https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/7qBy7Y8N9KcQ8DDbwtezqM"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221940,
+      "name": "\u5922\u898b\u308b\u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3",
+      "url": "https://open.spotify.com/track/4dt6rT3qvwRR0i3jHb2bsT"
     },
     {
       "album": {

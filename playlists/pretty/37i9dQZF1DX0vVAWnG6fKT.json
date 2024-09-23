@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 145754,
+  "num_followers": 145763,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166160,
       "name": "Kentucky Waltz",
       "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183893,
       "name": "Mule Train",
       "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Heavy Traffic Ahead",
-      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -843,38 +843,6 @@
       "duration_ms": 138000,
       "name": "One Kiss Too Many",
       "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Nippers 50's-Vol.1",
-        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King & His Golden West Cowboys",
-          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Slow Poke",
-      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -895,18 +863,18 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
         {
-          "name": "Tex Ritter",
-          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
         }
       ],
-      "duration_ms": 161840,
-      "name": "You Two-Timed Me One Time Too Often",
-      "url": "https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu"
+      "duration_ms": 171466,
+      "name": "Heavy Traffic Ahead",
+      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -923,6 +891,38 @@
       "duration_ms": 140426,
       "name": "Invisible Stripes",
       "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Nippers 50's-Vol.1",
+        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee King & His Golden West Cowboys",
+          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Slow Poke",
+      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
+      },
+      "artists": [
+        {
+          "name": "Tex Ritter",
+          "url": "https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "You Two-Timed Me One Time Too Often",
+      "url": "https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "Pistol Packin' Mama - The Best of Al Dexter",
+        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2",
         "url": "https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh"
       },
@@ -1059,38 +1075,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "The Collection '36-'59",
-        "url": "https://open.spotify.com/album/1jqG8AduwUDm6uwTHqrE3v"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff & His Smoky Mountain Boys",
-          "url": "https://open.spotify.com/artist/6bagacZmgSfuW3vShtm0Js"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Worried Mind",
-      "url": "https://open.spotify.com/track/3RmaBKQtO5QVPsPUVDwv3P"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Pistol Packin' Mama - The Best of Al Dexter",
-        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Country and Western",
         "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 98066,
       "name": "Headin' Down The Wrong Highway",
       "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "The Collection '36-'59",
+        "url": "https://open.spotify.com/album/1jqG8AduwUDm6uwTHqrE3v"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff & His Smoky Mountain Boys",
+          "url": "https://open.spotify.com/artist/6bagacZmgSfuW3vShtm0Js"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Worried Mind",
+      "url": "https://open.spotify.com/track/3RmaBKQtO5QVPsPUVDwv3P"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "Pistol Packin' Mama - The Best Of Al Dexter",
+        "url": "https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 163056,
+      "name": "Too Late To Worry, Too Blue To Cry",
+      "url": "https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "Retrospective: Volume 2",
         "url": "https://open.spotify.com/album/47ymTrwffavz5onalcmEP9"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Everybody Stomp - Rag Time",
-        "url": "https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL"
-      },
-      "artists": [
-        {
-          "name": "Hoosier Hot Shots",
-          "url": "https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Sioux city sue",
-      "url": "https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv"
     }
   ],
   "unique_name": "40s Country",

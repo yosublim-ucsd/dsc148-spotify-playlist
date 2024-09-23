@@ -2,7 +2,7 @@
 
 ### [This Is Rob Zombie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29RPTW)
 
-> This is Rob Zombie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Rob Zombie\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 13 min
 

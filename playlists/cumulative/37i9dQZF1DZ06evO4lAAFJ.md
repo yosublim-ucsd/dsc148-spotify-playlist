@@ -2,7 +2,7 @@
 
 ### [This Is ROSALÍA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lAAFJ)
 
-> This is ROSALÍA\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is ROSALÍA\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 40 min
 

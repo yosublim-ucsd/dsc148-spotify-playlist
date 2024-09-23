@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30310,
+  "num_followers": 30315,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4 \u05d0\u05e0\u05e4\u05dc\u05d0\u05d2\u05d3 2022",
         "url": "https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 350312,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05de\u05e9\u05d5\u05d2\u05e2 - \u05e7\u05d9\u05e1\u05e8\u05d9\u05d4 \u05d0\u05e0\u05e4\u05dc\u05d0\u05d2\u05d3",
       "url": "https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -391,6 +391,22 @@
       "duration_ms": 228000,
       "name": "\u05d4\u05de\u05d7\u05dc\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 205276,
-      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "Mon Amour Fou",
         "url": "https://open.spotify.com/album/54dZ9gGpwdgeqGKmD3IGA0"
       },
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         }
       ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+      "duration_ms": 205276,
+      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05e9\u05de\u05e9 \u05d5\u05e2\u05e0\u05df",
         "url": "https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8"
       },
@@ -603,6 +619,22 @@
       "duration_ms": 187860,
       "name": "\u05e1\u05d1\u05ea\u05d0 \u05d7\u05e0\u05d4",
       "url": "https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
+      },
+      "artists": [
+        {
+          "name": "Gil Bar Hadas",
+          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -627,22 +659,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
-      },
-      "artists": [
-        {
-          "name": "Gil Bar Hadas",
-          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -843,6 +843,58 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
+      },
+      "artists": [
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "VuVuVu",
+          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
+        }
+      ],
+      "duration_ms": 229362,
+      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g"
       },
@@ -871,58 +923,6 @@
       "duration_ms": 259000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
-      },
-      "artists": [
-        {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
-      },
-      "artists": [
-        {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
-        },
-        {
-          "name": "VuVuVu",
-          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
-        }
-      ],
-      "duration_ms": 229362,
-      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
         "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
         "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 181600,
       "name": "Fool For Your Smile",
       "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-09-19 21:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-09-19 21:00:00",
       "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
-    },
-    {
-      "added_at": "2024-09-19 21:00:00",
-      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
         "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+    },
+    {
+      "added_at": "2024-09-19 21:00:00",
+      "album": {
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
     },
     {
       "added_at": "2024-09-19 21:00:00",

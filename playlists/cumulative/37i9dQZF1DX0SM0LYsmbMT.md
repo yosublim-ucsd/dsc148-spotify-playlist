@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,240 songs - 6 day 17 hr 49 min
+4,241 songs - 6 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1667,7 +1667,7 @@
 | [Illbehomeinten](https://open.spotify.com/track/28RNyxtXmaw5ApzIZJkZ1o) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Sloth City \(Vol\. 1\)](https://open.spotify.com/album/3aVpPnDAyPhfOACOjOBrWR) | 2:02 | 2021-03-06 | 2021-07-30 |
 | [Illjazz](https://open.spotify.com/track/6Nf3WJHF1ZCya9gwD55NwD) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Illjazz](https://open.spotify.com/album/3zh3LrNpLIKuNr2aI5FCsS) | 2:27 | 2023-01-26 | 2023-10-13 |
 | [Illusion](https://open.spotify.com/track/7kkC29lt2KkY3jhlpR5zQL) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp) | [Illusion](https://open.spotify.com/album/1iw5SuYjCHxy0YqOL7Zrj1) | 2:09 | 2020-07-11 | 2021-01-29 |
-| [Illvibe](https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Illvibe](https://open.spotify.com/album/127mSzu1Br8ch4nJuEJ31u) | 2:40 | 2023-11-13 |  |
+| [Illvibe](https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Illvibe](https://open.spotify.com/album/127mSzu1Br8ch4nJuEJ31u) | 2:40 | 2023-11-13 | 2024-09-23 |
 | [Iluminay](https://open.spotify.com/track/4rqM67XoYt67XSaIqW5sBI) | [DJ Piper](https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ) | [Iluminay](https://open.spotify.com/album/5OElQ8rdiezyYYlB0pfavf) | 2:48 | 2020-07-18 | 2020-10-23 |
 | [Imber](https://open.spotify.com/track/6kWn7r94SfctU3TdqV4xeE) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Imber](https://open.spotify.com/album/6Xw7izNloQa91g8WlQjb9v) | 2:22 | 2023-06-22 | 2024-08-23 |
 | [Immersion](https://open.spotify.com/track/09Tu4JjGLmMyegdpmPOOfX) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Immersion](https://open.spotify.com/album/6bLEJGG9hVxA163od6N0Ii) | 2:21 | 2021-08-13 | 2021-09-10 |
@@ -2193,6 +2193,7 @@
 | [Mango Tree](https://open.spotify.com/track/5L0gv3FIRdt90VqJkINoMv) | [Gil Wanders](https://open.spotify.com/artist/2oRIFAsZojEU4OwGL2dGH3), [Reggie San Miguel](https://open.spotify.com/artist/7wtDHn0RCPnaDITtR89uQg), [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Mango Tree](https://open.spotify.com/album/2wNLXj7sdxs8gduCoyG9nr) | 2:23 | 2022-08-01 | 2022-08-12 |
 | [Mango Tree](https://open.spotify.com/track/4b3k19H2jeOxHvPpSHIX9q) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Still Life](https://open.spotify.com/album/2Soi9dNZuVFigjP19LRZIv) | 2:05 | 2022-07-28 | 2022-11-04 |
 | [Mango Tree](https://open.spotify.com/track/697J2HJPgF7klXERmeLs4f) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Mango Tree](https://open.spotify.com/album/77Rw2U1zpOiRys3V6t5r7h) | 2:05 | 2021-11-12 | 2022-07-29 |
+| [Maple](https://open.spotify.com/track/3dCSED6UnykK6RmbVp5r2N) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Maple](https://open.spotify.com/album/0mn5M0prH1Kc6uOk07uX7S) | 1:36 | 2024-09-16 |  |
 | [Maple Tree](https://open.spotify.com/track/7oMBaIaQmrxSe40QouKQGe) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Maple Tree](https://open.spotify.com/album/0AISjVbzcuOeKcmtSjoxns) | 2:04 | 2021-06-12 | 2021-07-16 |
 | [maravi](https://open.spotify.com/track/5GDoCm1iNcRp2BU4nxXpgw) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [maravi](https://open.spotify.com/album/5b5LWcmvDS4cmGnxSlRYUg) | 2:14 | 2019-08-24 | 2020-02-01 |
 | [Marbles](https://open.spotify.com/track/0WZVKvzrIHoQhmY2Nhl7GQ) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Marbles](https://open.spotify.com/album/39xX4oBkTKXzXqWx3qnWgI) | 2:30 | 2023-08-17 | 2024-06-07 |

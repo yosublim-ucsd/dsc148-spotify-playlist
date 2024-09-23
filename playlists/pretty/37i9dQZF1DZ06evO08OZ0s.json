@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAADiuG3MAl9fImc/V9qOjlxb",
+  "snapshot_id": "Zu4MgAAAAAAF7POM0pwH+rkyA+4UoVDV",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightales",
-        "url": "https://open.spotify.com/album/5kPhV5VRedNjMpsJx9XkvI"
-      },
-      "artists": [
-        {
-          "name": "Redfield",
-          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "Nightales",
-      "url": "https://open.spotify.com/track/4r0zC8FXAyB7ElkqrnMzF3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chemical Love",
         "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 126490,
       "name": "Chemical Love",
       "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightales",
+        "url": "https://open.spotify.com/album/5kPhV5VRedNjMpsJx9XkvI"
+      },
+      "artists": [
+        {
+          "name": "Redfield",
+          "url": "https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "Nightales",
+      "url": "https://open.spotify.com/track/4r0zC8FXAyB7ElkqrnMzF3"
     },
     {
       "added_at": null,
@@ -439,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide Awake (Deluxe)",
+        "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Selfish (feat. Kelli-Leigh & YOU)",
+      "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feelin' U",
         "url": "https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn"
       },
@@ -499,30 +523,6 @@
       "duration_ms": 221427,
       "name": "For Love",
       "url": "https://open.spotify.com/track/5AuS594msbacnVERxzdk7J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Selfish (feat. Kelli-Leigh & YOU)",
-      "url": "https://open.spotify.com/track/1Mb4DktDtZNcg0d0OuQypw"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Chic",
+        "url": "https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
         "url": "https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 173150,
       "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Chic",
-        "url": "https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 179070,
-      "name": "New Chic",
-      "url": "https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Dance Again",
-        "url": "https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 192788,
-      "name": "Never Dance Again",
-      "url": "https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underneath the Tree",
         "url": "https://open.spotify.com/album/4QR9NBs2MpQcJJizlzYHsi"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Lucky (With Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
+        "name": "Never Dance Again",
+        "url": "https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh"
       },
       "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 177925,
-      "name": "Get Lucky (With Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
+      "duration_ms": 192788,
+      "name": "Never Dance Again",
+      "url": "https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 166080,
       "name": "Can't Dance - Club Radio Edit",
       "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Lucky (With Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 177925,
+      "name": "Get Lucky (With Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do You Wanna Be Loved Like This?",
-        "url": "https://open.spotify.com/album/1zqTFiY23qkgPkDJDhw1on"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 162646,
-      "name": "Do You Wanna Be Loved Like This?",
-      "url": "https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold On Tonight",
         "url": "https://open.spotify.com/album/3f8SHI9BUPT0xuBZxSeu59"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 163073,
       "name": "Hold On Tonight",
       "url": "https://open.spotify.com/track/5xGwrKhMIxUlHRu2lk0kTE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do You Wanna Be Loved Like This?",
+        "url": "https://open.spotify.com/album/1zqTFiY23qkgPkDJDhw1on"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 162646,
+      "name": "Do You Wanna Be Loved Like This?",
+      "url": "https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L"
     },
     {
       "added_at": null,

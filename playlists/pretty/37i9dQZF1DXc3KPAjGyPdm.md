@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,127,666 likes - 198 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,127,677 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 29 | [B.G.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 |
 | 30 | [40 Miles Bad Road](https://open.spotify.com/track/1SzKu64YLIUqbIVDHyDWOx) | [The Lively Ones](https://open.spotify.com/artist/63T2P0nIRzAj4rCSwnSC8J) | [Surf Drums](https://open.spotify.com/album/0pmft5pJtKhZaJxE1Bg9mp) | 3:02 |
 | 31 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
-| 32 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
+| 32 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
 | 33 | [In Transit to Bermuda](https://open.spotify.com/track/21NipBIcS2PhxHwBPauGCw) | [Dorian Zero](https://open.spotify.com/artist/0ObztW0DmBT3xKrctHY3N3) | [In Transit to Bermuda](https://open.spotify.com/album/3mxDsZ0mT8filFQoadnkRQ) | 3:22 |
 | 34 | [Sentinels](https://open.spotify.com/track/3E4XQO8bKIToXTejc8LFGb) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [Sentinels](https://open.spotify.com/album/32ywMGWzAyULcYnvYkfmkC) | 5:21 |
 | 35 | [Got Your Number](https://open.spotify.com/track/5PD49jBpJNs9lGk9Bn9zll) | [The Lloyd Langton Group](https://open.spotify.com/artist/1TmoiS0yjPl2CLrQjzSYj2) | [Night Air](https://open.spotify.com/album/4WSzQR3Z2ulVnaEsCEG6YU) | 3:34 |

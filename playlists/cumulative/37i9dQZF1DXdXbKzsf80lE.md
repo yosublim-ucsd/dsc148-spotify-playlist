@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-139 songs - 6 hr 41 min
+140 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cracudo](https://open.spotify.com/track/456nQoGd4zPrJtfeugR221) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou na Mosca](https://open.spotify.com/album/5Jum3LSjwNFO8OxVo0PM2N) | 2:51 | 2023-10-23 | 2024-06-03 |
 | [Cracudo](https://open.spotify.com/track/6pgdBfiIOGjR3B0Hyvzykz) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Acertou Na Mosca](https://open.spotify.com/album/4vOfQufVR5xI14wXEjgdX0) | 2:52 | 2024-03-28 | 2024-04-19 |
 | [Decida](https://open.spotify.com/track/26SiLqV7fI8m3ruKzI0hpz) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Estouro das Vaquejadas](https://open.spotify.com/album/0CgvVfyNywoIw0rcFsdgsD) | 2:42 | 2023-10-23 | 2024-04-19 |
-| [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 | 2023-10-23 |  |
+| [Deixa Eu te Chamar de Meu Amor](https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz) | [O Trator Chegou](https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw) | 2:22 | 2023-10-23 | 2024-09-23 |
 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 | 2023-10-23 |  |
 | [Disco Arranhado](https://open.spotify.com/track/4QTy8WBsWugusgc32mtj2j) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ) | [Atualiza Aê BB](https://open.spotify.com/album/4WiGDTDjR9B5P6Cy0Bk27R) | 2:47 | 2023-10-23 | 2024-04-19 |
 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 | 2023-10-23 |  |
@@ -126,6 +126,7 @@
 | [Sonâmbulo \(Do Nada Eu Apareço Na Balada\) \- Ao Vivo](https://open.spotify.com/track/6v79fQifgBz164BIrWrKty) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Sonâmbulo \(Do Nada Eu Apareço Na Balada\) \(ao Vivo\)](https://open.spotify.com/album/4V6aijt4BJ08TlGxkTwTPm) | 4:08 | 2024-03-28 |  |
 | [Status](https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Status](https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F) | 2:31 | 2024-02-23 |  |
 | [Storiezin](https://open.spotify.com/track/1h6a1gcgHa4hg09xEmue3V) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Storiezin](https://open.spotify.com/album/0JAqfnn7bGnuh6siVnog8t) | 2:18 | 2023-10-23 |  |
+| [Só Pra Castigar](https://open.spotify.com/track/2X8sssaxS5GReg6945B6RW) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Mais uma Vez](https://open.spotify.com/album/4jIBQoLUex0mkGHpPLhPu8) | 2:43 | 2024-07-08 |  |
 | [Só Pra Castigar](https://open.spotify.com/track/1Qda9UHtYhe5KycSNXGT0J) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Mais Uma Vez](https://open.spotify.com/album/0cmScSlyjIcoBgz35qz9kg) | 2:43 | 2023-10-23 | 2024-04-19 |
 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 | 2023-10-23 |  |
 | [Só Você](https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Na Pressão](https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ) | 3:07 | 2023-10-23 | 2024-04-19 |

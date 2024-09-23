@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. The essential tracks, all in one playlist.
+> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,840 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,031 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 50 | [PARANÓIAS](https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:25 |
 | 51 | [Glória Pra Nós](https://open.spotify.com/track/5Zobl93oFR01ZBcjiQW2PE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:42 |
 
-Snapshot ID: `Zuy7AAAAAAAdh2CRD4UBi3jkF1+/AHQS`
+Snapshot ID: `Zu4MgAAAAAD2rzIV0CvLiZzfs8FfZNvB`

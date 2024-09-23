@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121691,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/51BUYyFMqfMEJZBfEmRMtA"
+    },
+    {
+      "album": {
         "name": "In Memoria",
         "url": "https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht"
       },

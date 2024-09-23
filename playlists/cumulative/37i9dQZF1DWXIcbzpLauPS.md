@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: 156/Silence
 
-1,015 songs - 2 day 14 hr 52 min
+1,016 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [HORIZON](https://open.spotify.com/track/1DtJnU6U3E0BnZ8DnTH1rw) | [BEFORE MY LIFE FAILS](https://open.spotify.com/artist/7gg6GebRQdCY8CwPfcsudT) | [HORIZON](https://open.spotify.com/album/4pxmnZ04SiG6WzAmnMln6e) | 3:38 | 2021-12-17 | 2022-02-26 |
 | [Horror Domain](https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Horror Domain](https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK) | 3:00 | 2024-05-10 | 2024-07-13 |
 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 | 2022-06-24 | 2023-04-22 |
-| [House of Cards](https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [House of Cards](https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C) | 3:59 | 2024-02-09 |  |
+| [House of Cards](https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [House of Cards](https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C) | 3:59 | 2024-02-09 | 2024-09-23 |
 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 | 2024-04-12 |  |
 | [Human](https://open.spotify.com/track/2DadCsA57rCAfroNC9Wqo5) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Human](https://open.spotify.com/album/5rj9JShh87F4I0rRDMisky) | 3:58 | 2023-04-21 | 2023-08-19 |
 | [Human Target](https://open.spotify.com/track/6lCCcsaT5jPPx0X5DMy38H) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/0cwpjjTsXmGa3D3F4G0BKX) | 3:31 | 2022-07-13 | 2022-07-15 |
@@ -611,6 +611,7 @@
 | [Nemesis](https://open.spotify.com/track/3u4fdUGjzrXsfZfZS2j00k) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Nemesis](https://open.spotify.com/album/4MK1OoQYfTvV7IO0n7tubP) | 4:12 | 2022-07-13 | 2022-07-19 |
 | [Neon Grave](https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Neon Grave](https://open.spotify.com/album/2C0qO4tvCCBmlklai9rzI8) | 3:59 | 2022-03-25 | 2022-05-21 |
 | [Neuro](https://open.spotify.com/track/5bOmleKvMS956pVl9uBLaI) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Neuro](https://open.spotify.com/album/6YlSznx44NDU19Gyehrjq6) | 3:54 | 2022-07-13 | 2022-07-15 |
+| [Neurotic](https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 3:06 | 2024-09-20 |  |
 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 | 2023-07-14 | 2023-09-30 |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-13 | 2022-07-23 |
 | [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 | 2024-06-04 |  |

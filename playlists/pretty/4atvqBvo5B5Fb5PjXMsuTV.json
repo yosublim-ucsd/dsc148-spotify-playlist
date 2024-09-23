@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Sep 16:03 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALbGdgFzQhjtVLPb06LFh7q09AH3Zg",
+  "snapshot_id": "AAALcHUhLtQeHyhsQ9XOF05Nnp26S3Fe",
   "tracks": [
     {
       "added_at": "2024-09-13 10:03:43",
@@ -49,9 +49,49 @@
       "url": "https://open.spotify.com/track/4gq0UfMdrlry2Lx1Gp6xW3"
     },
     {
+      "added_at": "2024-09-22 04:02:50",
+      "album": {
+        "name": "Mind Yo Mf Business",
+        "url": "https://open.spotify.com/album/1RKFWuCk4seCqVcT1OJmnF"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "duration_ms": 151942,
+      "name": "Mind Yo Mf Business",
+      "url": "https://open.spotify.com/track/3qaabZZVFSgcRTOt3uAER4"
+    },
+    {
+      "added_at": "2024-09-22 16:03:01",
+      "album": {
+        "name": "liter sladoleda",
+        "url": "https://open.spotify.com/album/1cpnbiYE2w9KvjvCHcu6PV"
+      },
+      "artists": [
+        {
+          "name": "zalagasper",
+          "url": "https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "liter sladoleda",
+      "url": "https://open.spotify.com/track/3ePvcVoeLQw7MKvia3q8el"
+    },
+    {
       "added_at": "2024-09-21 04:02:57",
       "album": {
-        "name": "Allucinazione Collettiva",
+        "name": "ALLUCINAZIONE COLLETTIVA",
         "url": "https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se"
       },
       "artists": [
@@ -61,7 +101,7 @@
         }
       ],
       "duration_ms": 176785,
-      "name": "Allucinazione Collettiva",
+      "name": "ALLUCINAZIONE COLLETTIVA",
       "url": "https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ"
     },
     {
@@ -835,42 +875,6 @@
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
-    },
-    {
-      "added_at": "2024-09-20 04:03:59",
-      "album": {
-        "name": "+1",
-        "url": "https://open.spotify.com/album/4FvSyKog587pT37wscO9L5"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 203524,
-      "name": "+1",
-      "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
-    },
-    {
-      "added_at": "2024-09-20 04:03:59",
-      "album": {
-        "name": "Houston",
-        "url": "https://open.spotify.com/album/48adyhddPaE5YihkleCu7I"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Houston",
-      "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
     }
   ],
   "unique_name": "New Singles Now",

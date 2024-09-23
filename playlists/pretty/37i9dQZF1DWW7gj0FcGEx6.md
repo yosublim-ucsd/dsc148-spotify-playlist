@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,109 likes - 259 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,160 likes - 259 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 193 | [Procession](https://open.spotify.com/track/07tlV5B44wa5DjtRTehjaH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [Yellowstone Season 5, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/6bsKFCs0u9kVE7kVmwcjKU) | 1:18 |
 | 194 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 |
 | 195 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 |
-| 196 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \- Covers from the Netflix Series](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
+| 196 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
 | 197 | [Mane Title](https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4g03IkKXYEjG1vei9WB2Hx) | 3:01 |
 | 198 | [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 |
 | 199 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 |

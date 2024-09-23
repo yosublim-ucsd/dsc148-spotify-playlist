@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:  張蔓姿 Gigi Cheung
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,278 likes - 372 songs - 22 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,285 likes - 372 songs - 22 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

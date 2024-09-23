@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 536582,
+  "num_followers": 536733,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Feels Like We Only Go Backwards",
-      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2024-06-27 18:50:21",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "Desert Island",
         "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 252160,
       "name": "Bright Blue Day Haze",
       "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2024-06-27 18:58:13",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Naxatras",
         "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
@@ -431,6 +431,38 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Who dreams of cats?",
+      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -455,22 +487,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Who dreams of cats?",
-      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Ananda Shankar (US Internet Release)",
         "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Joe Frazier",
         "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
         }
       ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "H\u00e4xan",
+        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+      },
+      "artists": [
+        {
+          "name": "Yo Diablo",
+          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+        }
+      ],
+      "duration_ms": 247034,
+      "name": "Cap.4: El Sabbath de las Brujas",
+      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "Fuckin Whatever",
         "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "H\u00e4xan",
-        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
       "artists": [
         {
-          "name": "Yo Diablo",
-          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 247034,
-      "name": "Cap.4: El Sabbath de las Brujas",
-      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -947,22 +963,6 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Sophomore",
-        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
-      },
-      "artists": [
-        {
-          "name": "Speck Joliet",
-          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
-        }
-      ],
-      "duration_ms": 332335,
-      "name": "Time Frame",
-      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "Sophomore",
+        "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
+      },
+      "artists": [
+        {
+          "name": "Speck Joliet",
+          "url": "https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws"
+        }
+      ],
+      "duration_ms": 332335,
+      "name": "Time Frame",
+      "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 237493,
       "name": "Feel so Fine",
       "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "World's Most Stressed Out Gardener",
+        "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
+      },
+      "artists": [
+        {
+          "name": "Chad VanGaalen",
+          "url": "https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ"
+        }
+      ],
+      "duration_ms": 239804,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "World's Most Stressed Out Gardener",
-        "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
-      },
-      "artists": [
-        {
-          "name": "Chad VanGaalen",
-          "url": "https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ"
-        }
-      ],
-      "duration_ms": 239804,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Shimmer and Disappear",
-      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1507,34 +1507,18 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
-        "url": "https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD"
-      },
-      "artists": [
-        {
-          "name": "Durukan Betses",
-          "url": "https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid"
-        }
-      ],
-      "duration_ms": 292340,
-      "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
-      "url": "https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB"
+      "duration_ms": 195346,
+      "name": "Shimmer and Disappear",
+      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
+        "url": "https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD"
+      },
+      "artists": [
+        {
+          "name": "Durukan Betses",
+          "url": "https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid"
+        }
+      ],
+      "duration_ms": 292340,
+      "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
+      "url": "https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
@@ -1567,38 +1567,6 @@
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "Taste of Blood",
-        "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
-      },
-      "artists": [
-        {
-          "name": "My Expansive Awareness",
-          "url": "https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "God of Sun",
-      "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
-    },
-    {
-      "added_at": "2024-06-21 21:34:38",
-      "album": {
-        "name": "Sorcerer",
-        "url": "https://open.spotify.com/album/5IJcP6CvNg4P1m1hJHrxRy"
-      },
-      "artists": [
-        {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
-        }
-      ],
-      "duration_ms": 699976,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6HX1Wa3knjoiLFK9LvIqrQ"
     },
     {
       "added_at": "2024-06-21 21:34:38",
@@ -1619,6 +1587,22 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
+        "name": "Sorcerer",
+        "url": "https://open.spotify.com/album/5IJcP6CvNg4P1m1hJHrxRy"
+      },
+      "artists": [
+        {
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+        }
+      ],
+      "duration_ms": 699976,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6HX1Wa3knjoiLFK9LvIqrQ"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
         "name": "An Cnoc M\u00f3r",
         "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
       },
@@ -1635,18 +1619,34 @@
     {
       "added_at": "2024-06-21 21:34:38",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+        "name": "Taste of Blood",
+        "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "My Expansive Awareness",
+          "url": "https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
+      "duration_ms": 269799,
+      "name": "God of Sun",
+      "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
+    },
+    {
+      "added_at": "2024-06-21 21:34:38",
+      "album": {
+        "name": "Lost Lands",
+        "url": "https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV"
+      },
+      "artists": [
+        {
+          "name": "Marie Byrd Land Band",
+          "url": "https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Catatumbo Lightnings",
+      "url": "https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

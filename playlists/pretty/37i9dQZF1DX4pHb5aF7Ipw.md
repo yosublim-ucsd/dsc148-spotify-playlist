@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,221 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,245 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 4 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 |
 | 5 | [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 |
 | 6 | [Insecure](https://open.spotify.com/track/6iD7lRJbxkZrmAMglhqzaD) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Insecure](https://open.spotify.com/album/3LcNQMWKN5P2KH8dfSM4Vc) | 2:47 |
-| 7 | [Brooklyn Bars](https://open.spotify.com/track/3yWebecWgFL0sa1t4x3T49) | [Love Randhawa](https://open.spotify.com/artist/23DjDsCni0MltUKQ9shGKA), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW), [Sukhpreet Bal](https://open.spotify.com/artist/1b0JMdV8aD2ZnQwdLR32Fp) | [Brooklyn Bars](https://open.spotify.com/album/2PpPlmH9xGVWGx6kW36OiZ) | 2:19 |
+| 7 | [Brooklyn Bars](https://open.spotify.com/track/3yWebecWgFL0sa1t4x3T49) | [Love randhawa](https://open.spotify.com/artist/1XmhCtYj4j6KdtO7fR2D3G), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW), [Sukhpreet Bal](https://open.spotify.com/artist/1b0JMdV8aD2ZnQwdLR32Fp) | [Brooklyn Bars](https://open.spotify.com/album/2PpPlmH9xGVWGx6kW36OiZ) | 2:19 |
 | 8 | [Well Off](https://open.spotify.com/track/25E2REAAzyZqPSU7suoRtn) | [Jas Dhillon](https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO), [SXRPANCH](https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv) | [Well Off](https://open.spotify.com/album/0bS8KwZxyqPymb7ZkVkH3n) | 2:24 |
 | 9 | [Maade Link](https://open.spotify.com/track/6GH81vyJy19qwuCT7CZMBA) | [Ish Dhankhar](https://open.spotify.com/artist/1RT7HUjgIIhAmOMh8ZK6se), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Maade Link](https://open.spotify.com/album/46MaYPzbhzDI0umuNxZuqV) | 3:31 |
 | 10 | [Hood Icon](https://open.spotify.com/track/5bqKUqoC5XsagFow2zXq97) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO) | [Hood Icon](https://open.spotify.com/album/4Sdgyge8bqZDDDFVzibg4B) | 2:27 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
-  "num_followers": 156235,
+  "num_followers": 156256,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAAD5lNzBUc4xdApz5JRChiWm",
+  "snapshot_id": "Zu4MgAAAAAC90Il1vN1XOlszJHKy93zS",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
-        "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Me Llamas - En Vivo",
-      "url": "https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duren",
         "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
+        "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 + 11",
-        "url": "https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "La Duda",
-          "url": "https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "11 + 11",
-      "url": "https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 217733,
       "name": "Vida Truncada",
       "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 + 11",
+        "url": "https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "La Duda",
+          "url": "https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "11 + 11",
+      "url": "https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "No Comprendo",
+      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Costurera",
         "url": "https://open.spotify.com/album/3dY2FLPM4CzuNbKdVleabW"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 191688,
       "name": "La Careada",
       "url": "https://open.spotify.com/track/6IwQrjoquIhM1vVKXesoMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "No Comprendo",
-      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 210681,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa - En Vivo",
         "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
       },
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2 - En Vivo",
-        "url": "https://open.spotify.com/album/77YuTsjt3HShK7vQZrf2VR"
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 187545,
-      "name": "Ense\u00f1ame A Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1r1x8P6SA7FQNZzKurlSHz"
+      "duration_ms": 210681,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 154713,
       "name": "Tres Besitos",
       "url": "https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2 - En Vivo",
+        "url": "https://open.spotify.com/album/77YuTsjt3HShK7vQZrf2VR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 187545,
+      "name": "Ense\u00f1ame A Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1r1x8P6SA7FQNZzKurlSHz"
     },
     {
       "added_at": null,

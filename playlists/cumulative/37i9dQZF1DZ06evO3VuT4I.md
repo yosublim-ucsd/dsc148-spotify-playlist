@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
 117 songs - 9 hr 36 min
 

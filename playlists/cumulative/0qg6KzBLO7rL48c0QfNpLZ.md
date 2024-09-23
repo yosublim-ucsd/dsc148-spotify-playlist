@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-665 songs - 1 day 5 hr 37 min
+666 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Waiting For](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Waiting For](https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji) | 2:24 | 2024-07-19 | 2024-08-19 |
 | [Waiting For](https://open.spotify.com/track/7frmv0TaHOiLrzcXEHiOgU) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Waiting For](https://open.spotify.com/album/1qGmr1O8Mco2Nsm0FDrYuM) | 3:16 | 2024-02-23 | 2024-09-10 |
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2022-06-10 | 2024-09-15 |
+| [Waiting For Love](https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Waiting For Love](https://open.spotify.com/album/4rmXQjXfK8CyPtAcYxO8VJ) | 2:15 | 2024-09-22 |  |
 | [Walk Away](https://open.spotify.com/track/4nzZYDgs2sOA2DLDpyO1Ui) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Walk Away](https://open.spotify.com/album/578JeuuypNg1Fd9ZLj0BDB) | 2:24 | 2024-07-26 | 2024-08-31 |
 | [Walk Away](https://open.spotify.com/track/2FCltzpqmJ3sZRcXmOTVID) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Walk Away](https://open.spotify.com/album/7sb7fAMIPadqcaHkPV5MNE) | 2:00 | 2024-02-09 | 2024-03-16 |
 | [Walk On Water](https://open.spotify.com/track/1w8DUyDfKZkLAgCcOQutLa) | [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G) | [Walk On Water](https://open.spotify.com/album/2obJgn1skJOtfJoMSlFF0r) | 3:06 | 2024-07-26 | 2024-08-31 |

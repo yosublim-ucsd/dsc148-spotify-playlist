@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-744 songs - 2 day 19 hr 12 min
+745 songs - 2 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
-| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 |  |
+| [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-09-23 |
 | [Medieval \- LP Giobbi Remix](https://open.spotify.com/track/3PglnB18NqXPMiDGDHO0t1) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Temple Of Dreams \(Remixes Part 3\)](https://open.spotify.com/album/06hdt6bc2zFnFccUCa4GCR) | 3:41 | 2023-10-27 | 2024-07-13 |
 | [Megatron](https://open.spotify.com/track/3YzchKT35RxM7eZ3nQqEpU) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Megatron EP](https://open.spotify.com/album/6RE2zeSoghUWFFh2aSy3Mp) | 5:59 | 2024-06-28 | 2024-07-27 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-01-21 | 2023-03-19 |
@@ -700,6 +700,7 @@
 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 | 2022-03-25 | 2023-09-30 |
 | [Unlocked \- Einmusik Remix](https://open.spotify.com/track/5hRRDrpfl39Gfw7jXEZx82) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Unlocked \(Einmusik Remix\)](https://open.spotify.com/album/6vzHHn8bY3ja0rwkbhZ4NB) | 7:28 | 2022-06-17 | 2022-08-07 |
 | [Up In Flames](https://open.spotify.com/track/1YzVzEDuXM3G7C6EmwJs8O) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Up In Flames](https://open.spotify.com/album/5JobfXSHIn01Fhgpif0Lw2) | 6:54 | 2021-06-25 | 2022-07-24 |
+| [Use Somebody](https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Redd](https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0) | [Use Somebody](https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg) | 3:19 | 2024-09-20 |  |
 | [ut i rommet](https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ut i rommet](https://open.spotify.com/album/04A1xtX4Cp81M4YOEMi1J9) | 7:26 | 2022-01-14 | 2022-07-29 |
 | [ut i rommet](https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [Kløbb Ka2 \(Vol\. 3\)](https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N) | 7:26 | 2022-07-01 | 2023-04-29 |
 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 | 2024-02-09 | 2024-05-04 |

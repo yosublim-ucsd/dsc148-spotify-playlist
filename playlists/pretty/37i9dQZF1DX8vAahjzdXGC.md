@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,119 likes - 107 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,162 likes - 107 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

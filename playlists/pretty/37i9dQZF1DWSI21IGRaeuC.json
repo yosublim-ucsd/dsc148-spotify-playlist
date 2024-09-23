@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 39909,
+  "num_followers": 39948,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Running from the Noise (Edit)",
+        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Running from the Noise - Edit",
+      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 303230,
       "name": "Estribeira",
       "url": "https://open.spotify.com/track/2GhTcfg03sFW9FxOeCqayc"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Running from the Noise (Edit)",
-        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Running from the Noise - Edit",
-      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Reso Riddim EP",
+        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 186412,
+      "name": "Reso Riddim",
+      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Reso Riddim EP",
-        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 186412,
-      "name": "Reso Riddim",
-      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "OSSAB",
-        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
-      },
-      "artists": [
-        {
-          "name": "Basso (UK)",
-          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "OSSAB",
-      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "OSSAB",
+        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
+      },
+      "artists": [
+        {
+          "name": "Basso (UK)",
+          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "OSSAB",
+      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "On The Ground - EP",
-        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
-      },
-      "artists": [
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Where Ya At",
         "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Get Jiggy",
-        "url": "https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb"
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
       },
       "artists": [
         {
-          "name": "EVIE (UK)",
-          "url": "https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 332307,
-      "name": "Get Jiggy",
-      "url": "https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U"
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "On The Ground - EP",
+        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
+      },
+      "artists": [
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Seeder",
-        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+        "name": "Get Jiggy",
+        "url": "https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "EVIE (UK)",
+          "url": "https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Seeder",
-      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+      "duration_ms": 332307,
+      "name": "Get Jiggy",
+      "url": "https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U"
     },
     {
       "added_at": "2024-09-20 04:00:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 ### [This Is Glassjaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mMOIM)
 
-> This is Glassjaw\. Todos os maiores hits em uma só playlist.
+> This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 35 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 35 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 34 | [U Mean I'm Not](https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 1:38 |
 | 35 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 
-Snapshot ID: `Zuy7AAAAAAAa67l3WoQWfDpNC2HUYWIZ`
+Snapshot ID: `Zu4MgAAAAAAx/YTvMM7ZRkX4jDXZUZ5E`

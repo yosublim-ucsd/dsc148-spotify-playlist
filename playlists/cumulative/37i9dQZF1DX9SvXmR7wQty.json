@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "'Ndrangheta",
+        "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161079,
+      "name": "'Ndrangheta",
+      "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
+    },
+    {
+      "album": {
         "name": "(Last Call) Braille pas",
         "url": "https://open.spotify.com/album/5mhxezbfl2WMeAkPSUJxMe"
       },
@@ -25117,6 +25139,24 @@
     },
     {
       "album": {
+        "name": "La 17",
+        "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163704,
+      "name": "La 17",
+      "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
+    },
+    {
+      "album": {
         "name": "La BBQ Dance",
         "url": "https://open.spotify.com/album/730JDGc4SuBJD6nHqrNLrx"
       },
@@ -46868,7 +46908,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 166774,
       "name": "Sugar daddy",
       "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
@@ -49338,7 +49378,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 178653,
       "name": "Tous ces ongles rong\u00e9s",
       "url": "https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT"

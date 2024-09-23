@@ -8111,6 +8111,28 @@
     },
     {
       "album": {
+        "name": "Crying In The Night",
+        "url": "https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Crying In The Night",
+      "url": "https://open.spotify.com/track/5fwHOt6PwHtdMIaN318984"
+    },
+    {
+      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },

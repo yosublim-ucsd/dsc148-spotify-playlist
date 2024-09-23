@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,597 likes - 266 songs - 17 hr 33 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 306,584 likes - 266 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 6 | [Clair de lune](https://open.spotify.com/track/1dsRMrt0UNCB4egmlSI12Z) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [Dragon in Harmony](https://open.spotify.com/album/7BiKEf58x9WCD7ysIWCLYC) | 5:42 |
 | 7 | [4 Piano Pieces, Op\. 119: No\. 3: Intermezzo in C Major](https://open.spotify.com/track/6xImwTqddNdIbt2ix5mpVp) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [4 Piano Pieces, Op\. 119/No\. 3: Intermezzo in C Major](https://open.spotify.com/album/052VDS560IUHi2fMQbeOy9) | 1:27 |
 | 8 | [Cantique de Jean Racine, Op\. 11 \(Paraphrase for Piano by Lucas Debargue\)](https://open.spotify.com/track/6B6quVh40KpOmd9VgBh9aA) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Cantique de Jean Racine, Op\. 11 \(Paraphrase for Piano by Lucas Debargue\)](https://open.spotify.com/album/1qL6A3fJ5ThHlGbRCJHUwt) | 5:04 |
-| 9 | [Interlude \#1 \(Killing Me Softly With His Song\)](https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Interlude \#1 \(Killing Me Softly With His Song\)](https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ) | 1:03 |
+| 9 | [Killing Me Softly With His Song](https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Killing Me Softly With His Song](https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ) | 1:03 |
 | 10 | [Suite Italienne: II\. Serenata](https://open.spotify.com/track/3iFtDNpG0GrscW621Rwibi) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Jean\-Sélim Abdelmoula](https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh) | [Suite Italienne: II\. Serenata](https://open.spotify.com/album/1ClNBHeK5aPgolfZghAHLR) | 2:58 |
 | 11 | [Lever du Soleil](https://open.spotify.com/track/3TuPNQm8bcbYqGPLqLjZXP) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Lever du Soleil](https://open.spotify.com/album/41aO074e1pQ5AarcA0nflY) | 2:24 |
 | 12 | [Budapest](https://open.spotify.com/track/409GR6CNQMVuevf1IMpTeX) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Clara Büsel](https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O), [Leandro Hauxwell](https://open.spotify.com/artist/05wR32yzOF9iIsXlmtiMRu), [Alona Khlevna](https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s), [Gereon Theis](https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv), [Benedikt Wagner](https://open.spotify.com/artist/3rz9zuTeiW8wUSNg0xawy1), [Michael Neumann](https://open.spotify.com/artist/0S70K7OU1bqOEhwDF148J4) | [Budapest](https://open.spotify.com/album/5OsIQW2sI5mZIXM5fl5y4O) | 4:06 |

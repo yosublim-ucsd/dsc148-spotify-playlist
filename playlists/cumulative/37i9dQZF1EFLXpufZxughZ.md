@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 8 hr 33 min
+147 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Champion](https://open.spotify.com/track/2NMIcon70yj6ymGshnrjMI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 4:56 | 2023-12-13 |  |
 | [Co\-Defendant](https://open.spotify.com/track/0TEWH6vaudxvccI5dO2Ari) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:27 | 2023-12-13 |  |
 | [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:17 | 2023-12-13 |  |
-| [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-22 |  |
+| [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-22 | 2024-09-23 |
+| [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 | 2024-09-22 |  |
 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 | 2024-06-19 |  |
 | [Damaged](https://open.spotify.com/track/6S1tjR6PtQRXnC3a4lCjDE) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:36 | 2023-12-13 |  |
 | [Decades](https://open.spotify.com/track/6yiCFprNLeKraW5RsYUxiE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:28 | 2023-12-13 |  |
@@ -40,6 +41,7 @@
 | [Drained](https://open.spotify.com/track/6amtC1uRBQ2nmQxHlXv65w) | [LeToya](https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx) | [Lady Love \(Explicit\)](https://open.spotify.com/album/1dht3QpXW8ai8yRyz5UXkS) | 3:21 | 2023-12-13 |  |
 | [drill 7mn](https://open.spotify.com/track/1PExDH4IeYrhUBhA6DlOrJ) | [bacin92](https://open.spotify.com/artist/6RJ2uR2RPe8PgF87uR8idY) | [drill 7mn](https://open.spotify.com/album/1VRnlNK9I1gjr0mzvgLN5A) | 3:32 | 2024-08-19 | 2024-08-22 |
 | [Early Morning Trappin \(feat\. Trippie Redd\)](https://open.spotify.com/track/5I9ToLsF7Rrt9PZ71uk0Qq) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [The World Is Yours](https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6) | 3:21 | 2023-12-13 |  |
+| [Fantasy](https://open.spotify.com/track/5du6x7wfZXYUPjTNyNpBx1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:08 | 2024-09-22 |  |
 | [Footprints](https://open.spotify.com/track/3FRwUvm669IOURF8TXqLum) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:13 | 2023-12-13 |  |
 | [Forever](https://open.spotify.com/track/15Zf7969cwmjHmXaiveUla) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC), [The Soul Sisters](https://open.spotify.com/artist/4vHGlaYbIEkXVVnWZodTXl) | [The 2 Sides Of Sam Cooke](https://open.spotify.com/album/0MdgAZwWoKeokRKYPPyZ9C) | 2:57 | 2023-12-13 |  |
 | [Fortunate](https://open.spotify.com/track/0xQoL9oDujnzD0TgM61H83) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Fortunate](https://open.spotify.com/album/44oH5T2kPyYzPj8s4ctxkz) | 2:15 | 2023-12-13 |  |

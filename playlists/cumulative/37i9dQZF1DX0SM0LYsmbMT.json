@@ -33518,7 +33518,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 160000,
       "name": "Illvibe",
       "url": "https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW"
@@ -44080,6 +44080,28 @@
       "duration_ms": 125333,
       "name": "Mango Tree",
       "url": "https://open.spotify.com/track/697J2HJPgF7klXERmeLs4f"
+    },
+    {
+      "album": {
+        "name": "Maple",
+        "url": "https://open.spotify.com/album/0mn5M0prH1Kc6uOk07uX7S"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96623,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/3dCSED6UnykK6RmbVp5r2N"
     },
     {
       "album": {

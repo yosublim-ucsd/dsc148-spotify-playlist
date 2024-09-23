@@ -1,15 +1,63 @@
 {
   "description": "Listen to the soundtracks of DNA Lover. (DNA \ub7ec\ubc84\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 611,
+  "num_followers": 619,
   "original_name": "DNA \ub7ec\ubc84 (DNA Lover)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuAWuAAAAAD9m45DRQ0n3YvuRfjOs21x",
+  "snapshot_id": "ZvDKogAAAABDSXP/9iZDL0+/mueHN9DX",
   "tracks": [
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Caged",
+      "url": "https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB"
+    },
+    {
+      "added_at": "2024-09-23 01:55:46",
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "Ordinary love",
+      "url": "https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I"
+    },
+    {
+      "added_at": "2024-09-23 01:55:46",
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0HTQg1wNAROyUOXh8qesxE"
+      },
+      "artists": [
+        {
+          "name": "HWISEO",
+          "url": "https://open.spotify.com/artist/0bznj2UW0piRoLR8Km5P40"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Starshine",
+      "url": "https://open.spotify.com/track/0pnRjiARJjdWielNbscJLZ"
+    },
+    {
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/4VTeY0kyLMNBIYifr0GtnL"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/3x0sTCtWb6dt4CwsGMAhEI"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/2FtJGsJVNjrJOPFG3GpUNE"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3i932Ysorg1UeMSCgQvHEn"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/0qLPyWaMynjNNG0pqgX2kA"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover Audio Liners",
         "url": "https://open.spotify.com/album/1ol76P14foNcLiTphOO06s"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/3T1YxXLCj45iphPI3D1ThK"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Ella And Louis Again",
         "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/0f2489MzoisF9pKduawvce"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/2kr8HG09btDIh8vPyEJjWh"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/4qBva9xOk82fhCFPc52GjI"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Live In Miami",
         "url": "https://open.spotify.com/album/7DVBC9uavDM2X6LGHSLjU3"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/7dcX4P7koRDPZjnfhBIuIe"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "All Glory And Honor (Live)",
         "url": "https://open.spotify.com/album/6ogu589CEKDdD5KjNbd3IP"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/3B04hXI9c1JQg7Udmqnvtk"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057\u301c\u30d4\u30a2\u30ce\u3067\u8074\u304d\u305f\u3044\u30b8\u30d6\u30ea\u540d\u66f2\u96c6",
         "url": "https://open.spotify.com/album/0afi3CeTvaSRMgN0iFyoI5"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/6l7daff7RZrxIy5fW0zOrs"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
@@ -181,7 +229,7 @@
       "url": "https://open.spotify.com/track/0f4KJyCfLckEa8b3nncFwM"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Hannibal - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6JgvWFkxKiG6Z2rDWZCLGV"
@@ -221,7 +269,7 @@
       "url": "https://open.spotify.com/track/4AyRUVc4sDfVFJOgJvApie"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/6R8agdKCfA4Poo0vnRKQKo"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/3eOXiUUfz9OhyVqoREsJYe"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover Audio Liners",
         "url": "https://open.spotify.com/album/1ol76P14foNcLiTphOO06s"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/1qir1rWp1UauXyVVnCwVRa"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Golden Days",
         "url": "https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO"
@@ -301,7 +349,7 @@
       "url": "https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/5mNjFEWm65zdqHoVKKttv4"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "VANILLA VILLA",
         "url": "https://open.spotify.com/album/1T2p4JKx1XIj6JLmUIaJ8v"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/5GYVRgPzH63t7i0873LwYm"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "SOFT STORM",
         "url": "https://open.spotify.com/album/2G7WLFGIIcR1T3uRglH4cN"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/70DYNbGc6SWqkUvhchYBo9"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Light & Shade chapter.2",
         "url": "https://open.spotify.com/album/3VMZhTgZW2ugrTgj7FydgI"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/5oudDwupzSbUnu4D7PXj8k"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "\uc2e0\ub77c\uc758 \ub2ec\ubc24 OST",
         "url": "https://open.spotify.com/album/2K2tFrdhmRUri33xkEKvdW"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/3WxW3ptQtZbi9iU84FPwBJ"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Polar Night",
         "url": "https://open.spotify.com/album/1A1gCes6TP34C3FhVE8t0N"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/76V49Eff84umE7YUHmaCRG"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "The Eye Of A Typhoon",
         "url": "https://open.spotify.com/album/6Ubbz2ffLEU2ddk0mGs4dk"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/7t3VrqZcXASJ5j39ysYhUp"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "FMA",
         "url": "https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/3SuUKzHOo6PRuyoYMuez5S"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover Audio Liners",
         "url": "https://open.spotify.com/album/1ol76P14foNcLiTphOO06s"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/7JPbN5wnY6uBGWDGkXrvwk"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "I Live and Mourn, Thus Resketch You",
         "url": "https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "A Form Of Love",
         "url": "https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8"
@@ -501,7 +549,7 @@
       "url": "https://open.spotify.com/track/2CxR1IipE09KsUmmD3oT4E"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Let Me Love My Youth",
         "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "stars and memories and poetry",
         "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/1hQDMQleO7992DMawi3lhd"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Let\u2032s Take A Walk",
         "url": "https://open.spotify.com/album/0233KfCcA6v3QCwjU80EBe"
@@ -549,7 +597,7 @@
       "url": "https://open.spotify.com/track/05vUJHSgvD8Esv34TfoqNH"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/32UUy7PJJASCHsyJvatRs6"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/5BX3ZXQlnUs2NQIrd4Sdjj"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Please Wait",
         "url": "https://open.spotify.com/album/1sZVgmq6mgnx1dvjFnJLT3"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/7be6Hh3raT7CwyXv6G9FOl"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "\ub098\uc5d0\uac8c \ub108\ubb34 \uc2ac\ud508, \ubd04\uc0ac\ub791",
         "url": "https://open.spotify.com/album/5TxB8zjXs3XqlsPpNafver"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/56yQ1udY5C9lpOUDrhBpdM"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "inner",
         "url": "https://open.spotify.com/album/07uJH3r3JrSbaQGeQyfnwJ"
@@ -613,7 +661,7 @@
       "url": "https://open.spotify.com/track/62iFQArtVPHIJh7zNWFtQ5"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "And I Miss You",
         "url": "https://open.spotify.com/album/26RXtlukiZs8FsX7A7f8Sd"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/2XZxuJTgI40SU0lNzvhIhD"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover Audio Liners",
         "url": "https://open.spotify.com/album/1ol76P14foNcLiTphOO06s"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/6GIsfEk2hBADxlj0BjQ7dp"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "LOVE CLASS",
         "url": "https://open.spotify.com/album/03qQrGDjnL0csovaAuKSbb"
@@ -665,7 +713,7 @@
       "url": "https://open.spotify.com/track/2vu0gIbtabp50KJq3hw9bu"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Music In The Backpack",
         "url": "https://open.spotify.com/album/1nKnQYnBB21jNJvtlElrls"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/5zp1GhMQI3me4o3jDROldg"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
@@ -729,7 +777,7 @@
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
@@ -749,7 +797,7 @@
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "MINISERIES",
         "url": "https://open.spotify.com/album/4c0fvocypE3743qXeleq3b"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/79vUdXKF8lViW4d2D0qZ7s"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
@@ -829,7 +877,7 @@
       "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -845,7 +893,23 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0HTQg1wNAROyUOXh8qesxE"
+      },
+      "artists": [
+        {
+          "name": "HWISEO",
+          "url": "https://open.spotify.com/artist/0bznj2UW0piRoLR8Km5P40"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Starshine - Instrumental",
+      "url": "https://open.spotify.com/track/3ImvEjcEED8X4V6LeQsZkr"
+    },
+    {
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/4tqhAIE3GG8cEuyhQw8b4d"
     },
     {
-      "added_at": "2024-09-10 09:51:52",
+      "added_at": "2024-09-23 01:55:46",
       "album": {
         "name": "DNA Lover (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3i932Ysorg1UeMSCgQvHEn"
@@ -875,6 +939,22 @@
       "duration_ms": 199426,
       "name": "I\u2019ll Get You - Instrumental",
       "url": "https://open.spotify.com/track/2IV2a2WFAyuuTs5VXP9WB6"
+    },
+    {
+      "added_at": "2024-09-23 01:55:46",
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Caged - Instrumental",
+      "url": "https://open.spotify.com/track/7CQtYAScrUbwp1jknhJ199"
     }
   ],
   "unique_name": "DNA \ub7ec\ubc84 (DNA Lover)",

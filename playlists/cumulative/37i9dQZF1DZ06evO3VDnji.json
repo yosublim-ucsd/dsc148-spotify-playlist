@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "This is DannyLux. The essential tracks, all in one playlist.",
+  "description": "This Is DannyLux. Los temas esenciales, todos en una lista.",
   "name": "This Is DannyLux",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "para ti <3",
       "url": "https://open.spotify.com/track/1QHOFeU2Vqa25RtwmcVFML"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 259558,
       "name": "Respuestas",
       "url": "https://open.spotify.com/track/4xF6lmeRyJYneEzL84XTvr"

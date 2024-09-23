@@ -2,7 +2,7 @@
 
 ### [This Is My Chemical Romance](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xHh28)
 
-> This is My Chemical Romance\. The essential tracks, all in one playlist.
+> This is My Chemical Romance\. Todos os maiores hits em uma só playlist.
 
 50 songs - 3 hr 7 min
 

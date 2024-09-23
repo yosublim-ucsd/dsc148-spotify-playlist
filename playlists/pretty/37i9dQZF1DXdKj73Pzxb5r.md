@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Peonies
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,525 likes - 94 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,554 likes - 94 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

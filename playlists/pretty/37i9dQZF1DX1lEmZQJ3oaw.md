@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,341 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,359 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 20 | [Yeh Raat Yeh Chandni \- MTV Unwind](https://open.spotify.com/track/3at3X8kqQ3nxiB6lKgVJts) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yeh Raat Yeh Chandni \- MTV Unwind](https://open.spotify.com/album/43vmgvDwOPbW7bIKqMWfKi) | 3:50 |
 | 21 | [Babuji Bhole Bhaale](https://open.spotify.com/track/5JUQDfESf88rE9PnzJZ9E5) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 4:05 |
 | 22 | [Neeyat](https://open.spotify.com/track/4jUnFiyug6wlf9I7lrHLbj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Teen Patti](https://open.spotify.com/album/73yp3yX2sUyxA7V4uvxXHV) | 3:55 |
-| 23 | [Pardesi](https://open.spotify.com/track/12cK3COq4z4MwaZyjc51zX) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 3:58 |
+| 23 | [Pardesi](https://open.spotify.com/track/12cK3COq4z4MwaZyjc51zX) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 3:58 |
 | 24 | [Hosanna](https://open.spotify.com/track/5NChQ2tXB9q9D8kdkLTWOL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ekk Deewana Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7u8VFwwX4grIUnuHriflDf) | 5:31 |
 | 25 | [Main Kya Karoon](https://open.spotify.com/track/4GagsETs7qfR3cwQkRcXgb) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:30 |
 | 26 | [Zinda](https://open.spotify.com/track/1gEHNfJRSXpDVaEicwRRfe) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Lootera](https://open.spotify.com/album/3VrQeNAFHS4Vjl4uspl1s3) | 4:01 |

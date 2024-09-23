@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 51004,
+  "num_followers": 51020,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Ma Fi Leil",
-        "url": "https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        },
-        {
-          "name": "Rahma Riad",
-          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
-        }
-      ],
-      "duration_ms": 237452,
-      "name": "Ma Fi Leil",
-      "url": "https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -155,6 +135,22 @@
       "duration_ms": 371890,
       "name": "Law Fina",
       "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
+        "name": "Ya Leil W Yal Ein",
+        "url": "https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Ya Leil W Yal Ein",
+      "url": "https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -175,18 +171,38 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Ya Leil W Yal Ein",
-        "url": "https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62"
+        "name": "Ma Fi Leil",
+        "url": "https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM"
       },
       "artists": [
         {
-          "name": "AL SHAMI",
-          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        },
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Ya Leil W Yal Ein",
-      "url": "https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO"
+      "duration_ms": 237452,
+      "name": "Ma Fi Leil",
+      "url": "https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
+        "name": "SAWWAN",
+        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "SAWWAN",
+      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "SAWWAN",
-        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
+        "name": "Ya Qatily",
+        "url": "https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ"
       },
       "artists": [
         {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
         }
       ],
-      "duration_ms": 146666,
-      "name": "SAWWAN",
-      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
+      "duration_ms": 255586,
+      "name": "Ya Qatily",
+      "url": "https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -319,18 +335,18 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Ya Qatily",
-        "url": "https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ"
+        "name": "Wall\u00e9",
+        "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
       },
       "artists": [
         {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
         }
       ],
-      "duration_ms": 255586,
-      "name": "Ya Qatily",
-      "url": "https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI"
+      "duration_ms": 177818,
+      "name": "Wall\u00e9",
+      "url": "https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -367,6 +383,22 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
+        "name": "Ghanni",
+        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Ghanni",
+      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
         "name": "Apachi",
         "url": "https://open.spotify.com/album/5O905UHULciUjek70N7dmW"
       },
@@ -379,6 +411,22 @@
       "duration_ms": 188928,
       "name": "Masa Shamy",
       "url": "https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
+        "name": "El'nayzak",
+        "url": "https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "El'nayzak",
+      "url": "https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -399,18 +447,34 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Wall\u00e9",
-        "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
+        "name": "Swarat",
+        "url": "https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE"
       },
       "artists": [
         {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Wall\u00e9",
-      "url": "https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd"
+      "duration_ms": 206000,
+      "name": "Swarat",
+      "url": "https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
+        "name": "Sada Mawalena",
+        "url": "https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Sada Mawalena",
+      "url": "https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -431,22 +495,6 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Third World Wide Vol. 1",
-        "url": "https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh"
-      },
-      "artists": [
-        {
-          "name": "Assasi",
-          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Laysh",
-      "url": "https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
         "name": "Lahn Al Hayat",
         "url": "https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi"
       },
@@ -463,34 +511,18 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "Swarat",
-        "url": "https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE"
+        "name": "Third World Wide Vol. 1",
+        "url": "https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "Assasi",
+          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Swarat",
-      "url": "https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
-        "name": "Ghanni",
-        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Ghanni",
-      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
+      "duration_ms": 178440,
+      "name": "Laysh",
+      "url": "https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -567,66 +599,18 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
-        "name": "El'nayzak",
-        "url": "https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9"
+        "name": "Sarya Al Sawas 2014",
+        "url": "https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V"
       },
       "artists": [
         {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+          "name": "Saria Al Sawas",
+          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
         }
       ],
-      "duration_ms": 136842,
-      "name": "El'nayzak",
-      "url": "https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
-        "name": "Malak Halle",
-        "url": "https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz"
-      },
-      "artists": [
-        {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
-        }
-      ],
-      "duration_ms": 262601,
-      "name": "Malak Halle",
-      "url": "https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
-        "name": "Wala Fuse (Special Version)",
-        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
-      },
-      "artists": [
-        {
-          "name": "Assasi",
-          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wala Fuse - Special Version",
-      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
-        "name": "Sada Mawalena",
-        "url": "https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Sada Mawalena",
-      "url": "https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj"
+      "duration_ms": 252734,
+      "name": "Ma Mallet",
+      "url": "https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi"
     },
     {
       "added_at": "2024-08-14 15:56:02",
@@ -647,6 +631,38 @@
     {
       "added_at": "2024-08-14 15:56:02",
       "album": {
+        "name": "Wala Fuse (Special Version)",
+        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
+      },
+      "artists": [
+        {
+          "name": "Assasi",
+          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wala Fuse - Special Version",
+      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
+        "name": "Malak Halle",
+        "url": "https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "duration_ms": 262601,
+      "name": "Malak Halle",
+      "url": "https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q"
+    },
+    {
+      "added_at": "2024-08-14 15:56:02",
+      "album": {
         "name": "Ana Lamma Bheb",
         "url": "https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 203987,
       "name": "Ana Lamma Bheb",
       "url": "https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ"
-    },
-    {
-      "added_at": "2024-08-14 15:56:02",
-      "album": {
-        "name": "Sarya Al Sawas 2014",
-        "url": "https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V"
-      },
-      "artists": [
-        {
-          "name": "Saria Al Sawas",
-          "url": "https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ"
-        }
-      ],
-      "duration_ms": 252734,
-      "name": "Ma Mallet",
-      "url": "https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi"
     },
     {
       "added_at": "2024-08-14 15:56:02",

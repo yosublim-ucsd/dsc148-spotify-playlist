@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29858,
+  "num_followers": 29862,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAADfqgeTESo5OeP77HeBm0SU",
+  "snapshot_id": "Zu4MgAAAAACFeikqs8bS+u6xIqKeZjM7",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Isso Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
       "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Tudo Isso Vai Passar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH"
+      "duration_ms": 286533,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+        "name": "Tudo Isso Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/7x3qHc3QKCC9ObpYaWPJNz"
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH"
     },
     {
       "added_at": null,

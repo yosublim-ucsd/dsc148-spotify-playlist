@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,067 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,089 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 42 | [3ada Kol El Kalam](https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [3ada Kol El Kalam](https://open.spotify.com/album/3U0f2e9rvMojOb8JaR6KAn) | 2:52 |
 | 43 | [Aldunia Rayqah](https://open.spotify.com/track/3SzIuZpB6O5pIaRm4w9XAg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Aldunia Rayqah](https://open.spotify.com/album/0TJkJw04EJS3lE3ubpLXu2) | 2:13 |
 
-Snapshot ID: `Zu1IMgAAAACOL28GpNwtdL89V2SqEvTe`
+Snapshot ID: `ZvC6agAAAAB7wC7o7+BEpRvbUeFhdzT7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,129 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,220 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 10 | [Mauja Hi Mauja](https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:05 |
 | 11 | [Dilliwaali Girlfriend](https://open.spotify.com/track/3W1XPf7mvuQcWQB7U7MbTM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:20 |
 | 12 | [Raula Raula](https://open.spotify.com/track/59wwFmFLincPeHJZMp7wZ2) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Davvy Singh](https://open.spotify.com/artist/5Kq8UpbqjCdPBGshVrYnsc) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 2:54 |
-| 13 | [Sadi Gali](https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb) | [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV) | [Tanu Weds Manu](https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd) | 4:24 |
+| 13 | [Sadi Gali](https://open.spotify.com/track/1tEto4JrqNmBZFH5uAiYqb) | [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Tanu Weds Manu](https://open.spotify.com/album/5R0EsoxxqsmxdJEuM1JPFd) | 4:24 |
 | 14 | [Sawan Mein Lag Gayi Aag](https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ginny Weds Sunny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC) | 3:46 |
 | 15 | [Second Hand Jawaani](https://open.spotify.com/track/7kz0NubU5M4k9kdARMBlFK) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 4:01 |
 | 16 | [Nachde Ne Saare](https://open.spotify.com/track/7HuLB7m448hiKT7Af60Ew3) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Aditya Sharma](https://open.spotify.com/artist/2V3QpcHI40ZRGMUhr3bHsl) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:14 |

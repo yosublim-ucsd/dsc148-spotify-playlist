@@ -13081,6 +13081,28 @@
     },
     {
       "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/4rmXQjXfK8CyPtAcYxO8VJ"
+      },
+      "artists": [
+        {
+          "name": "Steam Phunk",
+          "url": "https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2024-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135737,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/578JeuuypNg1Fd9ZLj0BDB"
       },

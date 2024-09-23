@@ -3977,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/6Dvr7FusD6imYgIpxYoRut"
+      },
+      "artists": [
+        {
+          "name": "Zen Miyako",
+          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108705,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/6q87qDhXWpTr80K1LPHN1d"
+    },
+    {
+      "album": {
         "name": "Flight Order",
         "url": "https://open.spotify.com/album/03QIiy4XJgdC5HxNdJ3ycp"
       },
@@ -5006,7 +5024,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 178000,
       "name": "Hapuna",
       "url": "https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy"

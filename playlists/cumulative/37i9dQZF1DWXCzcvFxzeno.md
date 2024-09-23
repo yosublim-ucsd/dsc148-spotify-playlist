@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Indira Paganotto
 
-170 songs - 13 hr 53 min
+171 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4MD1o8JcULNAz85S6Ld57J) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/7eTVuYNi1UiN2cinZkJp56) | 3:12 | 2024-04-09 |  |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2024-04-09 |  |
+| [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 |  |
 | [Die Welt Brennt](https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Obernauer](https://open.spotify.com/artist/1PDMLYsqcKoGCBaWMTwcpi) | [Die Welt Brennt](https://open.spotify.com/album/44WQTL892sCs09rNu3hSLJ) | 5:10 | 2024-08-05 |  |
-| [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 |  |
+| [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 | 2024-09-23 |
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 |  |
 | [Do You Think About Me](https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Do You Think About Me](https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR) | 2:24 | 2024-09-06 |  |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,604 songs - 3 day 11 hr 21 min
+1,605 songs - 3 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 | 2023-02-01 |
 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 | 2023-11-30 | 2024-02-09 |
 | [Bättre i neon](https://open.spotify.com/track/2Tq07wfcTsx5jr5E3Oo2uc) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Bättre i neon](https://open.spotify.com/album/0WEOl4abVPI5HKdcrZXmGG) | 2:52 | 2024-04-26 | 2024-05-24 |
-| [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 |  |
+| [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-23 |
 | [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 | 2024-03-21 |
 | [CALIFORNIA](https://open.spotify.com/track/0a17so3YQZCWz3PQb9JvDD) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [KATARINA](https://open.spotify.com/album/7xlDFbtOofSD7dSgsYZYhn) | 3:20 | 2024-05-02 | 2024-06-01 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
@@ -905,6 +905,7 @@
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
 | [Mer du mer allt](https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Mer du mer allt](https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv) | 2:36 | 2024-08-29 |  |
 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 | 2023-04-13 | 2023-10-20 |
+| [Mercy](https://open.spotify.com/track/1JUVicktD1rcUzXlwmkYf4) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Mercy](https://open.spotify.com/album/5bJv5Iay9mu6rrRimESIJ4) | 2:58 | 2024-09-19 |  |
 | [Mermaid](https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mermaid](https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3) | 2:59 | 2024-05-23 | 2024-06-21 |
 | [Met her at a party](https://open.spotify.com/track/0yyndWvnE5QBeLFsUA1XRV) | [Ivy Lane](https://open.spotify.com/artist/2NQ0cPoo4XRQAute70oM75) | [Met her at a party](https://open.spotify.com/album/3Kck9oyHAjOZYnfDfCXWEg) | 2:26 | 2024-01-25 | 2024-02-18 |
 | [Metal Firecracker](https://open.spotify.com/track/39WpNQa08UH6Mi4oorneMB) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Too Late for Edelweiss](https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS) | 3:03 | 2022-09-29 | 2023-01-18 |

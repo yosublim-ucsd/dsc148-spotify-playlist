@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Lazza, Rondodasosa, Rue Diego e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,506 likes - 87 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,523 likes - 87 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 |
-| 2 | [Allucinazione Collettiva](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [Allucinazione Collettiva](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 |
+| 2 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 |
 | 3 | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4) | 3:04 |
 | 4 | [FENTANYL \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:08 |
 | 5 | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 |

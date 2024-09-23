@@ -1873,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "HOP ON DA SHOW",
+        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175876,
+      "name": "HOP ON DA SHOW",
+      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
+    },
+    {
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
@@ -4652,7 +4674,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 187454,
       "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
       "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"

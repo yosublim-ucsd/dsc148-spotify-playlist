@@ -2,7 +2,7 @@
 
 ### [This Is Tainy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lgtAi)
 
-> This Is Tainy\. Los temas esenciales, todos en una lista.
+> This is Tainy\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 78 songs - 4 hr 6 min
 

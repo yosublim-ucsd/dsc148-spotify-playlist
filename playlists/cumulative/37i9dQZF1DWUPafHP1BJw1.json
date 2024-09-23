@@ -831,7 +831,7 @@
     },
     {
       "album": {
-        "name": "Bridgerton Season Two - Covers from the Netflix Series",
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [
@@ -1907,24 +1907,6 @@
     },
     {
       "album": {
-        "name": "Interlude #1 (Killing Me Softly With His Song)",
-        "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "date_added": "2024-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 63372,
-      "name": "Interlude #1 (Killing Me Softly With His Song)",
-      "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
-    },
-    {
-      "album": {
         "name": "Iris (arr. piano)",
         "url": "https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9"
       },
@@ -1961,7 +1943,7 @@
     },
     {
       "album": {
-        "name": "Bridgerton Season Two - Covers from the Netflix Series",
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [
@@ -1976,6 +1958,24 @@
       "duration_ms": 208893,
       "name": "Kabhi Khushi Kabhie Gham",
       "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly With His Song",
+        "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo"
     },
     {
       "album": {
@@ -2193,7 +2193,7 @@
     },
     {
       "album": {
-        "name": "Bridgerton Season Two - Covers from the Netflix Series",
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [
@@ -3701,7 +3701,7 @@
     },
     {
       "album": {
-        "name": "Bridgerton Season Two - Covers from the Netflix Series",
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [
@@ -3885,7 +3885,7 @@
     },
     {
       "album": {
-        "name": "Bridgerton Season Two - Covers from the Netflix Series",
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
       "artists": [

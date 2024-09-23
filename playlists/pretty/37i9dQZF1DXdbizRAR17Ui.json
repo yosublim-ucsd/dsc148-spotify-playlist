@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 197521,
+  "num_followers": 197542,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Del Oro",
-        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 374122,
-      "name": "Del Oro",
-      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "sometimes i feel like saying goodbye (feat. Sondae)",
         "url": "https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194000,
       "name": "sometimes i feel like saying goodbye (feat. Sondae)",
       "url": "https://open.spotify.com/track/0QcO66hidLPUiazab9hprm"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-08-22 23:00:00",

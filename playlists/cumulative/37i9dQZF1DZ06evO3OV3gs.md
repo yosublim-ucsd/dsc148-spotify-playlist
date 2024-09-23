@@ -2,7 +2,7 @@
 
 ### [This Is Madonna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OV3gs)
 
-> This is Madonna\. Todos os maiores hits em uma só playlist.
+> This Is Madonna\. Los temas esenciales, todos en una lista.
 
 74 songs - 5 hr 12 min
 

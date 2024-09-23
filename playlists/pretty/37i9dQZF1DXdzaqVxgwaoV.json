@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Celebrando 90 a\u00f1os de Discos Fuentes, con Pastor L\u00f3pez en portada!",
-  "num_followers": 125537,
+  "num_followers": 125546,
   "original_name": "Desde Septiembre se Siente Diciembre",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220020,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220020,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/0GDWfiGkJsArr9mNYjfMa1"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "Late Que Late",
         "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -767,42 +783,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 280783,
-      "name": "Un Solo Cuerpo",
-      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -819,22 +799,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 242918,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
+      "duration_ms": 280783,
+      "name": "Un Solo Cuerpo",
+      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -859,38 +839,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 231890,
-      "name": "Entre Rejas",
-      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
-        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Historia Musical de Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
       },
@@ -907,22 +855,54 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Inmortal (Vol. 2)",
-        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 311676,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
+      "duration_ms": 231890,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 242918,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
+        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -959,6 +939,42 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Inmortal (Vol. 2)",
+        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 311676,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Historia Musical de Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "S\u00f3lo un Cigarro",
+      "url": "https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
       },
@@ -975,6 +991,38 @@
       "duration_ms": 215322,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 171374,
+      "name": "Dame Tu Mujer Jos\u00e9",
+      "url": "https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 252980,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -999,22 +1047,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Historia Musical de Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "S\u00f3lo un Cigarro",
-      "url": "https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Regresaron en Grande",
         "url": "https://open.spotify.com/album/4Y67gVM4tekV1B70jkRTxa"
       },
@@ -1035,34 +1067,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
+        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Lucho Y Rafa",
+          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
         }
       ],
-      "duration_ms": 252980,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 171374,
-      "name": "Dame Tu Mujer Jos\u00e9",
-      "url": "https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd"
+      "duration_ms": 179915,
+      "name": "No Quiero Envejecer",
+      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
-        "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
       "artists": [
         {
-          "name": "Lucho Y Rafa",
-          "url": "https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x"
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
         }
       ],
-      "duration_ms": 179915,
-      "name": "No Quiero Envejecer",
-      "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
+      "duration_ms": 268230,
+      "name": "La Zenaida",
+      "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1131,26 +1151,6 @@
       "duration_ms": 181001,
       "name": "Distancia 83",
       "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
-      },
-      "artists": [
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
-        }
-      ],
-      "duration_ms": 268230,
-      "name": "La Zenaida",
-      "url": "https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Colecci\u00f3n \u00c9xitos Joe Arroyo (Vol. 4)",
-        "url": "https://open.spotify.com/album/5DlqvlzDC14xoGHo9OLq4s"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 269141,
-      "name": "Mundo Cruel",
-      "url": "https://open.spotify.com/track/176BofrETpnUXaVDFYv8hl"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 244608,
       "name": "En Mi Pensamiento (Te Necesito)",
       "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos Joe Arroyo (Vol. 4)",
+        "url": "https://open.spotify.com/album/5DlqvlzDC14xoGHo9OLq4s"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 269141,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/176BofrETpnUXaVDFYv8hl"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
+        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "El Bailador",
+      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "\u00c9xitos los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU"
       },
@@ -1415,6 +1431,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
+        }
+      ],
+      "duration_ms": 121893,
+      "name": "Apagame La Vela",
+      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "\u00c9xitos los Corraleros de Majagual",
         "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
       },
@@ -1431,38 +1463,6 @@
       "duration_ms": 189372,
       "name": "Hace un Mes",
       "url": "https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos (Vol. 1)",
-        "url": "https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "El Bailador",
-      "url": "https://open.spotify.com/track/3bvQnI2iqaGMjDz7e35Kdv"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Apagame La Vela",
-      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 251761,
-      "name": "Me Toc\u00f3 Perderte",
-      "url": "https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h"
+      "duration_ms": 162298,
+      "name": "El Ron de Vinola",
+      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
+        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
       "artists": [
         {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 162298,
-      "name": "El Ron de Vinola",
-      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
+      "duration_ms": 251761,
+      "name": "Me Toc\u00f3 Perderte",
+      "url": "https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Bailables del A\u00f1o (Vol. 19)",
-        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cariaco",
-          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Abriendo Puertas",
         "url": "https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 279133,
       "name": "Farolito (Little Star)",
       "url": "https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Bailables del A\u00f1o (Vol. 19)",
+        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cariaco",
+          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
-        "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        }
-      ],
-      "duration_ms": 299744,
-      "name": "Toma de M\u00ed",
-      "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
+        "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar",
+          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 299744,
+      "name": "Toma de M\u00ed",
+      "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
     },
     {
       "added_at": "2024-09-01 08:41:00",

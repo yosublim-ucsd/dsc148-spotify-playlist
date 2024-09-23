@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 335827,
+  "num_followers": 336007,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Songs I've Needed",
-        "url": "https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 391202,
-      "name": "Highlands (Song of Ascent)",
-      "url": "https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Songs I've Needed",
+        "url": "https://open.spotify.com/album/3qmGo2mmcMfwD1wBaGD8JO"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 391202,
+      "name": "Highlands (Song of Ascent)",
+      "url": "https://open.spotify.com/track/3Zyz8rGBTpSlCUUwIROIPe"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -939,18 +939,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+        "name": "Still There's Something",
+        "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
       "artists": [
         {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Melody Lynn",
+          "url": "https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM"
         }
       ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
+      "duration_ms": 218382,
+      "name": "Still There's Something",
+      "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -971,22 +975,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Still There's Something",
-        "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Melody Lynn",
-          "url": "https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM"
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
         }
       ],
-      "duration_ms": 218382,
-      "name": "Still There's Something",
-      "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
-      },
-      "artists": [
-        {
-          "name": "Momentum Music",
-          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
-        }
-      ],
-      "duration_ms": 387536,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "King of Eternity",
         "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 408430,
       "name": "King of Eternity",
       "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+      },
+      "artists": [
+        {
+          "name": "Momentum Music",
+          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+        }
+      ],
+      "duration_ms": 387536,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 297005,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Better Plan",
         "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 238152,
       "name": "Better Plan",
       "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 297005,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
     },
     {
       "added_at": "2024-08-03 00:38:12",

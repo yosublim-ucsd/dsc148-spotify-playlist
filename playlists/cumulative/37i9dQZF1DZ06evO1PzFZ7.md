@@ -2,7 +2,7 @@
 
 ### [This Is Ángela Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PzFZ7)
 
-> This is: Ángela Aguilar\. Alle wichtigen Tracks in einer Playlist.
+> This Is Ángela Aguilar\. Los temas esenciales, todos en una lista.
 
 114 songs - 6 hr 49 min
 

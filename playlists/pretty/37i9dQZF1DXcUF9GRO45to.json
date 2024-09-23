@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38323,
+  "num_followers": 38320,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Power Lines",
-        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
-      },
-      "artists": [
-        {
-          "name": "Two Trains Left",
-          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Power Lines",
-      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Random Acts of Total Control",
         "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 255483,
       "name": "Piece Of You",
       "url": "https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Power Lines",
+        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Power Lines",
+      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
-      },
-      "artists": [
-        {
-          "name": "MSS FRNCE",
-          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
-        }
-      ],
-      "duration_ms": 107456,
-      "name": "Pas la peine",
-      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "A Hooded Witness",
         "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 246853,
       "name": "A Hooded Witness",
       "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "duration_ms": 107456,
+      "name": "Pas la peine",
+      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -571,38 +571,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "L\u00e9on",
-        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
-      },
-      "artists": [
-        {
-          "name": "Ottis C\u0153ur",
-          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "L\u00e9on",
-      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/5Ra5ZI7sjmxLxi8pA4t3Pc"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "L\u00e9on",
+        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
+      },
+      "artists": [
+        {
+          "name": "Ottis C\u0153ur",
+          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "L\u00e9on",
+      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "...About Going Home",
         "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 249013,
       "name": "Model",
       "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Sitcoms for Aliens",
-        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
-      },
-      "artists": [
-        {
-          "name": "Noiseheads",
-          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240333,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Sitcoms for Aliens",
+        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
+      },
+      "artists": [
+        {
+          "name": "Noiseheads",
+          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
+        }
+      ],
+      "duration_ms": 185218,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Teenage Ends",
-        "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Carwash",
-          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
-        }
-      ],
-      "duration_ms": 135270,
-      "name": "I Don't Give A Shit",
-      "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228080,
       "name": "HORIZON",
       "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Teenage Ends",
+        "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "duration_ms": 135270,
+      "name": "I Don't Give A Shit",
+      "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "doityourself",
-        "url": "https://open.spotify.com/album/6nNZnKlaKC0RqMHOZjSUYQ"
-      },
-      "artists": [
-        {
-          "name": "Curtism",
-          "url": "https://open.spotify.com/artist/4P9WAupdvpUf1uLzHf7Phs"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "doityourself",
-      "url": "https://open.spotify.com/track/7oKc8qRv8hEsktaWv6GGD0"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Fall Away",
         "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "doityourself",
+        "url": "https://open.spotify.com/album/6nNZnKlaKC0RqMHOZjSUYQ"
+      },
+      "artists": [
+        {
+          "name": "Curtism",
+          "url": "https://open.spotify.com/artist/4P9WAupdvpUf1uLzHf7Phs"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "doityourself",
+      "url": "https://open.spotify.com/track/7oKc8qRv8hEsktaWv6GGD0"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Devil's Dance",
-        "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
-      },
-      "artists": [
-        {
-          "name": "Goblins On Saturn",
-          "url": "https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v"
-        }
-      ],
-      "duration_ms": 223978,
-      "name": "Devil's Dance",
-      "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+        "name": "Devil's Dance",
+        "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
       },
       "artists": [
         {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+          "name": "Goblins On Saturn",
+          "url": "https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+      "duration_ms": 223978,
+      "name": "Devil's Dance",
+      "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1151,6 +1135,22 @@
       "duration_ms": 232453,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Back Garden Light",
-        "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
       },
       "artists": [
         {
-          "name": "Back Garden Light",
-          "url": "https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ"
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
         }
       ],
-      "duration_ms": 284800,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Hungry for Action",
-        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+        "name": "Back Garden Light",
+        "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
       },
       "artists": [
         {
-          "name": "Iron Lizards",
-          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+          "name": "Back Garden Light",
+          "url": "https://open.spotify.com/artist/7bLrwX8HkyBWahu7yvw7bJ"
         }
       ],
-      "duration_ms": 164068,
-      "name": "It's About Time !",
-      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
+      "duration_ms": 284800,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1271,34 +1271,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+        "name": "Hungry for Action",
+        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
       },
       "artists": [
         {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+          "name": "Iron Lizards",
+          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
         }
       ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
-      },
-      "artists": [
-        {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
-        }
-      ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+      "duration_ms": 164068,
+      "name": "It's About Time !",
+      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
       "artists": [
         {
-          "name": "TERNE",
-          "url": "https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq"
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
         }
       ],
-      "duration_ms": 189803,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1351,34 +1351,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
       },
       "artists": [
         {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+          "name": "TERNE",
+          "url": "https://open.spotify.com/artist/4QkgbsfcoQbCfiSw9gT4kq"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Homes & Galaxies",
-        "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e8che",
-          "url": "https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs"
-        }
-      ],
-      "duration_ms": 263100,
-      "name": "Once You Taste Blood",
-      "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
+      "duration_ms": 189803,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Nasty Habits",
-        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
+        "name": "Homes & Galaxies",
+        "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
       },
       "artists": [
         {
-          "name": "Komodor",
-          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
+          "name": "Fl\u00e8che",
+          "url": "https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs"
         }
       ],
-      "duration_ms": 238541,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
+      "duration_ms": 263100,
+      "name": "Once You Taste Blood",
+      "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Nasty Habits",
+        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
+      },
+      "artists": [
+        {
+          "name": "Komodor",
+          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
+        }
+      ],
+      "duration_ms": 238541,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Day After Day",
         "url": "https://open.spotify.com/album/5O3oHcfxZjMpXFD3lD67EJ"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 211800,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/57pGtVBCp7ZJYav8EppSNH"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "OUT",
+        "url": "https://open.spotify.com/album/72TjycfjTBDs9u9bfKKDx9"
+      },
+      "artists": [
+        {
+          "name": "Fishtalk",
+          "url": "https://open.spotify.com/artist/1bNwgQR3QNjZwSRXJG2yiy"
+        }
+      ],
+      "duration_ms": 324458,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/32OMftrmsklEtDmYRHZNPy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "OUT",
-        "url": "https://open.spotify.com/album/72TjycfjTBDs9u9bfKKDx9"
-      },
-      "artists": [
-        {
-          "name": "Fishtalk",
-          "url": "https://open.spotify.com/artist/1bNwgQR3QNjZwSRXJG2yiy"
-        }
-      ],
-      "duration_ms": 324458,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/32OMftrmsklEtDmYRHZNPy"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Rhythm + Ethics",
         "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
       },
@@ -1523,54 +1523,6 @@
       "duration_ms": 205386,
       "name": "Sink",
       "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "I Need a Blue",
-        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
-      },
-      "artists": [
-        {
-          "name": "G L I T C H",
-          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "I Need a Blue",
-      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "CityT error",
-        "url": "https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj"
-      },
-      "artists": [
-        {
-          "name": "Shoefiti",
-          "url": "https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB"
-        }
-      ],
-      "duration_ms": 222734,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Vomit Candy",
-        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mafia",
-          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "Vomit Candy",
-      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1607,18 +1559,66 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Lair of Gods",
-        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
+        "name": "CityT error",
+        "url": "https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj"
       },
       "artists": [
         {
-          "name": "Servo",
-          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
+          "name": "Shoefiti",
+          "url": "https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB"
         }
       ],
-      "duration_ms": 241812,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
+      "duration_ms": 222734,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "I Need a Blue",
+        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
+      },
+      "artists": [
+        {
+          "name": "G L I T C H",
+          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
+        }
+      ],
+      "duration_ms": 224206,
+      "name": "I Need a Blue",
+      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Vomit Candy",
+        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Vomit Candy",
+      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Anabasis",
+        "url": "https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5"
+      },
+      "artists": [
+        {
+          "name": "L'Effondras",
+          "url": "https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y"
+        }
+      ],
+      "duration_ms": 433466,
+      "name": "Anhedonia",
+      "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
     }
   ],
   "unique_name": "French Noise",

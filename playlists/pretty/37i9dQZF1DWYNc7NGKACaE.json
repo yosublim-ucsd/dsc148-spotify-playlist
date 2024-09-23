@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 82462,
+  "num_followers": 82474,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Se a Saudade Bater (Workout Version)",
         "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Boa Noite, DEUS (Sped Up)",
-        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
-      },
-      "artists": [
-        {
-          "name": "Nick Die",
-          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
-        },
-        {
-          "name": "WMBR",
-          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Boa Noite, DEUS (Sped Up)",
-      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
         "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 125270,
       "name": "Sou Eu - Speed",
       "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -799,6 +799,22 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -911,22 +927,6 @@
       "duration_ms": 88068,
       "name": "Kill Bill - Speed",
       "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 153795,
+      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/54DM6nkdgSQoaHAMyPlQ65"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 121543,
       "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
       "url": "https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 153795,
-      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
     }
   ],
   "unique_name": "speed BR",

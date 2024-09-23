@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Michael Kiwanuka",
-  "num_followers": 90232,
+  "num_followers": 90245,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Mustang",
         "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 194731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Rainbow Overpass",
         "url": "https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 181853,
       "name": "Rainbow Overpass",
       "url": "https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Vintage",
-      "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Empty And Silent (feat. King Krule)",
         "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "I'm In Love (Subaru)",
         "url": "https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp"
       },
@@ -839,38 +871,6 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Bells and Whistles",
-        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Bells and Whistles",
-      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "People Who Aren\u2019t There Anymore",
-        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "The Thief",
-      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "July",
-      "url": "https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "July",
+      "url": "https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "En Forma",
-        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "En Forma",
-      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1435,6 +1419,38 @@
       "duration_ms": 289760,
       "name": "2 2 BOOTLEG",
       "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Eye To The Ear",
+        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Breathe Round Corners",
+      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "En Forma",
+        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "En Forma",
+      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Eye To The Ear",
-        "url": "https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Breathe Round Corners",
-      "url": "https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Sad Eyes",
-        "url": "https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0"
-      },
-      "artists": [
-        {
-          "name": "Tempesst",
-          "url": "https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Sad Eyes",
-      "url": "https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Fishbrain",
         "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 277285,
       "name": "Fishbrain",
       "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Sad Eyes",
+        "url": "https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0"
+      },
+      "artists": [
+        {
+          "name": "Tempesst",
+          "url": "https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
+        "name": "Stop The Music",
+        "url": "https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX"
       },
       "artists": [
         {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
         }
       ],
-      "duration_ms": 155874,
-      "name": "Gears",
-      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+      "duration_ms": 160013,
+      "name": "Stop The Music",
+      "url": "https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Gears",
+        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 155874,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "We Make Hits",
         "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 182606,
       "name": "We Make Hits",
       "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Stop The Music",
-        "url": "https://open.spotify.com/album/0rEQQdNkMixaXRqYCe4kaX"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Stop The Music",
-      "url": "https://open.spotify.com/track/4b5OF1J2hs6o6VsgccJgwB"
     },
     {
       "added_at": "2024-08-14 10:25:18",

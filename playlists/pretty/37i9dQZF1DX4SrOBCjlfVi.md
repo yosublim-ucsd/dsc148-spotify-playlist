@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Tecca, Future, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,079 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,235 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Clap For Me](https://open.spotify.com/track/0F6mXWicsDyhFUn4xRX9Yx) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Will A Fool](https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB) | [Still Too Deep](https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr) | 2:41 |
 | 37 | [Spill The Tea](https://open.spotify.com/track/1iguChASZXHGVIpf96tb3B) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Spill The Tea](https://open.spotify.com/album/6vnz3Rk20X8evaJJuVl5AO) | 2:35 |
 | 38 | [Nepo Baby](https://open.spotify.com/track/4BHw8DmhHvnIHO4VFKTQ90) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Nepo Baby](https://open.spotify.com/album/5pGK1Av8qcBVXx7h5tXGDm) | 1:51 |
-| 39 | [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 |
+| 39 | [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 |
 | 40 | [In Ya Face](https://open.spotify.com/track/4XT1eqyfimCJA7Gq93rCjx) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [In Ya Face](https://open.spotify.com/album/3TUjBzfGhbuGJk0r5D0TQe) | 2:19 |
 | 41 | [Bully 2.0](https://open.spotify.com/track/0y00QvWxGFZdalipdSUCgC) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [59Boofy](https://open.spotify.com/artist/4KjfxEN5wQiqzB1wLrNjaa) | [Bully 2.0](https://open.spotify.com/album/77bKl0FyeryrZKmb2q1WHA) | 2:53 |
 | 42 | [Undisputed](https://open.spotify.com/track/279Mndmg9OOJblDEwlFR2n) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [Love \(the\) Ominous World](https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY) | 3:25 |

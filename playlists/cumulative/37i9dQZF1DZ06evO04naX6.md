@@ -2,7 +2,7 @@
 
 ### [This Is Yandel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04naX6)
 
-> This Is Yandel\. Los temas esenciales, todos en una lista.
+> This is: Yandel\. Alle wichtigen Tracks in einer Playlist.
 
 97 songs - 5 hr 50 min
 

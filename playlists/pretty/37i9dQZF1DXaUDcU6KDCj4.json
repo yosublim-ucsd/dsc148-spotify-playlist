@@ -1,12 +1,12 @@
 {
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Bon Iver ",
-  "num_followers": 807102,
+  "num_followers": 807277,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAADdmYgihCmhlsJpU1UsMjGP",
+  "snapshot_id": "ZvCfxQAAAAB4QN0HOXO6EKJ4xZ8r9Ed+",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -167,6 +167,26 @@
       "duration_ms": 223746,
       "name": "I Wanna Be A Mother",
       "url": "https://open.spotify.com/track/0tPOkNqkI2TM0gvqHLEgty"
+    },
+    {
+      "added_at": "2024-09-22 22:52:53",
+      "album": {
+        "name": "Crying In The Night",
+        "url": "https://open.spotify.com/album/3sRsWL6atcSfJ9tWlPsCKt"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Crying In The Night",
+      "url": "https://open.spotify.com/track/5fwHOt6PwHtdMIaN318984"
     },
     {
       "added_at": "2024-09-20 04:00:00",

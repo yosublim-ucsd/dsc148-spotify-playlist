@@ -1,12 +1,12 @@
 {
   "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 413869,
+  "num_followers": 414018,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy7AAAAAABYAiMb7NHKlvHfOBZYWpWJ",
+  "snapshot_id": "Zu4MgAAAAAAWho4FbtRnzcSRpZNv3y4p",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos Para Pistear - En Vivo",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
       "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 173336,
-      "name": "Un Par De Ojitos Negros - En Vivo",
-      "url": "https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq"
+      "duration_ms": 160631,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+        "name": "Recuerdos Para Pistear - En Vivo",
+        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
       "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 160631,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
+      "duration_ms": 173336,
+      "name": "Un Par De Ojitos Negros - En Vivo",
+      "url": "https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq"
     },
     {
       "added_at": null,

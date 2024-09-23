@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ‧₊˚ 🎐✩ 🫧 tumblr golden era covers from role model, tkay maidza, & good neighbours\. dust off ur docs!!!!₊˚⊹♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,833 likes - 109 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,550 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

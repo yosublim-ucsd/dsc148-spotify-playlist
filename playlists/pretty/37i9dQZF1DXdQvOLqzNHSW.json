@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 995949,
+  "num_followers": 995979,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "Ada Jean",
+      "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -327,34 +343,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+        "name": "On The Inside",
+        "url": "https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K"
       },
       "artists": [
         {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
         }
       ],
-      "duration_ms": 199032,
-      "name": "Ada Jean",
-      "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
+      "duration_ms": 223733,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -383,22 +387,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "On The Inside",
-        "url": "https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K"
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "Pretty Little Thing",
-      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "I'll Still Call",
         "url": "https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 132903,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Pretty Little Thing",
+      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Hate the Sun",
+      "url": "https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Caf\u00e9 Noir",
         "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 140800,
       "name": "Fallin 4 Ya Luv",
       "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Hate the Sun",
-      "url": "https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Your Touch",
         "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 206394,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "HOMESICK",
-        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Evening News",
-      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 141236,
       "name": "How many miles",
       "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "HOMESICK",
+        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Evening News",
+      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We're Here, My Dear",
-      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "I Ask Nothing of You",
         "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 254300,
       "name": "Human Breach",
       "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We're Here, My Dear",
+      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239604,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Hundred Fifty Roses",
         "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 96525,
       "name": "Flowers & Honey Interlude",
       "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 239604,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Iris and I",
         "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 169253,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
-      },
-      "artists": [
-        {
-          "name": "Insightful",
-          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "DD",
-      "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "NYC Stuff and NYC Bags - EP",
-        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
-      },
-      "artists": [
-        {
-          "name": "Vondelpark",
-          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
-        }
-      ],
-      "duration_ms": 115773,
-      "name": "Outro 4 NYC",
-      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Live at RBC Echo Beach",
         "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 175707,
       "name": "Plastic Beach",
       "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "NYC Stuff and NYC Bags - EP",
+        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
+      },
+      "artists": [
+        {
+          "name": "Vondelpark",
+          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
+        }
+      ],
+      "duration_ms": 115773,
+      "name": "Outro 4 NYC",
+      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
     },
     {
       "added_at": "2024-08-14 03:53:43",

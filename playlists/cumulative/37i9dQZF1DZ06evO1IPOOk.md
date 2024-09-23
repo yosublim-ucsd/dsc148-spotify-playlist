@@ -2,7 +2,7 @@
 
 ### [This Is Kendrick Lamar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1IPOOk)
 
-> This Is Kendrick Lamar\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
 58 songs - 4 hr 2 min
 

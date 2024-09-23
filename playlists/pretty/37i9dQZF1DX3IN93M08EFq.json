@@ -139,6 +139,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Ramlar",
-      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Wounded Rhymes (The Lost Sessions)",
         "url": "https://open.spotify.com/album/0KJBXTa4Mwz0zDO2kQ0FD8"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Ramlar",
+      "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "In Lust We Trust",
         "url": "https://open.spotify.com/album/2853c5Z7BEfJCaFltIQ0C7"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 272360,
       "name": "Calleth You, Cometh I",
       "url": "https://open.spotify.com/track/2kvg4AwMIstkygdQhfFfSf"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Mavericks",
-        "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "What's The Point",
-      "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
-        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
+        "name": "Mavericks",
+        "url": "https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
         }
       ],
-      "duration_ms": 231320,
-      "name": "Kom igen Lena!",
-      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+      "duration_ms": 255706,
+      "name": "What's The Point",
+      "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -619,22 +603,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Let Me Introduce My Friends",
-        "url": "https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L"
-      },
-      "artists": [
-        {
-          "name": "I'm From Barcelona",
-          "url": "https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "We're from Barcelona",
-      "url": "https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "State of the Ark",
         "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
       },
@@ -651,8 +619,8 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Din tid kommer",
-        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
+        "name": "Det \u00e4r s\u00e5 jag s\u00e4ger det",
+        "url": "https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj"
       },
       "artists": [
         {
@@ -660,9 +628,25 @@
           "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 281890,
-      "name": "Din tid kommer",
-      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
+      "duration_ms": 231320,
+      "name": "Kom igen Lena!",
+      "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Let Me Introduce My Friends",
+        "url": "https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L"
+      },
+      "artists": [
+        {
+          "name": "I'm From Barcelona",
+          "url": "https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "We're from Barcelona",
+      "url": "https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -715,18 +699,34 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Facit",
-        "url": "https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/1hgzDN5BjbqPBXOyb4Lnn2"
       },
       "artists": [
         {
-          "name": "S\u00e4kert!",
-          "url": "https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx"
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Dansa, fast\u00e4n",
-      "url": "https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn"
+      "duration_ms": 195573,
+      "name": "The Band",
+      "url": "https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Din tid kommer",
+        "url": "https://open.spotify.com/album/6lfUesANDlkcKDHdveFfYd"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 281890,
+      "name": "Din tid kommer",
+      "url": "https://open.spotify.com/track/2E4pGT15X6ElliPQIxSGaq"
     }
   ],
   "unique_name": "Spela Shoreline!",

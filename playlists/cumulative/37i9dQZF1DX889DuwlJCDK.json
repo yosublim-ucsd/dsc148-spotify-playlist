@@ -9892,7 +9892,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 183975,
       "name": "\u50d5\u305f\u3061\u306f\u606f\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/6KFJndpQASJefbnxiWgPaz"
@@ -11982,6 +11982,24 @@
       "duration_ms": 199529,
       "name": "\u6771\u4eac\u99c5",
       "url": "https://open.spotify.com/track/4FpE2FA3wVOUCjnXmyF0nd"
+    },
+    {
+      "album": {
+        "name": "\u681e",
+        "url": "https://open.spotify.com/album/5T45HLKZEBO9yks1JimpBJ"
+      },
+      "artists": [
+        {
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219700,
+      "name": "\u681e",
+      "url": "https://open.spotify.com/track/34dFIc5SKZDfkN5LAzbKY6"
     },
     {
       "album": {

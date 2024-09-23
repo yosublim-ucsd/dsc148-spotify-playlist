@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Rancid. The essential tracks, all in one playlist.",
+  "description": "This is Rancid. De viktigaste l\u00e5tarna samlade i en spellista.",
   "name": "This Is Rancid",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-23",
       "duration_ms": 163506,
       "name": "Dominoes Fall",
       "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
@@ -978,6 +978,28 @@
       "duration_ms": 121560,
       "name": "Nihilism",
       "url": "https://open.spotify.com/track/5g1jCZ5cQuPw6YvEkd7Yni"
+    },
+    {
+      "album": {
+        "name": "Silver Patron Saints",
+        "url": "https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/42xV5bA6XOYF9oe78cs4Qk"
     },
     {
       "album": {

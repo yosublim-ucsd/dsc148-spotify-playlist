@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Montez
 
-124 songs - 5 hr 40 min
+125 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,13 @@
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 |  |
 | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Du Liebst Mich Auch PT\. II \(feat\. Florentina\)](https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl) | 2:09 | 2024-06-28 |  |
 | [Du liebst mich nicht](https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Du liebst mich nicht](https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC) | 2:40 | 2024-06-28 |  |
-| [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 |  |
+| [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 | 2024-09-23 |
 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 | 2024-06-28 |  |
 | [Ein Auge blau](https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Ein Auge blau](https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF) | 3:02 | 2024-06-28 |  |
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 |  |
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 |  |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 |  |
+| [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 |  |
 | [Erkläre mir die Liebe](https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Erkläre mir die Liebe](https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX) | 3:04 | 2024-06-28 |  |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-09-09 |  |
 | [Family](https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [FAMILY & MONEY](https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS) | 2:28 | 2024-09-02 |  |

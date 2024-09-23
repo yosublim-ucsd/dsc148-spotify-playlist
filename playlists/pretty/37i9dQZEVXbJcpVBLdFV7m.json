@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LoI2oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LoOFyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -77,7 +77,27 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/0OJrrOWze34ixAgXPfM9EJ"
+      },
+      "artists": [
+        {
+          "name": "Sasho Jokera",
+          "url": "https://open.spotify.com/artist/5Z7ygXJazgnI752fnjrgW3"
+        },
+        {
+          "name": "Sergi Tigara",
+          "url": "https://open.spotify.com/artist/78CjN7CLIERyY5zVMhIFqH"
+        }
+      ],
+      "duration_ms": 249685,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/6SMlsMWdjrDCfG6M3uHtty"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "GLAMOUR",
         "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
@@ -105,27 +125,23 @@
       "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/0OJrrOWze34ixAgXPfM9EJ"
+        "name": "\u0411\u041b\u041e\u041a 5",
+        "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
       },
       "artists": [
         {
-          "name": "Sasho Jokera",
-          "url": "https://open.spotify.com/artist/5Z7ygXJazgnI752fnjrgW3"
-        },
-        {
-          "name": "Sergi Tigara",
-          "url": "https://open.spotify.com/artist/78CjN7CLIERyY5zVMhIFqH"
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
         }
       ],
-      "duration_ms": 249685,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/6SMlsMWdjrDCfG6M3uHtty"
+      "duration_ms": 186666,
+      "name": "\u0413-\u041d \u041f\u041e\u0420\u042a\u0427\u041a\u0410",
+      "url": "https://open.spotify.com/track/1UeRaFI9tWAF9gy5hsnxHl"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -153,99 +169,7 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "AMG Isteria",
-        "url": "https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL"
-      },
-      "artists": [
-        {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
-        },
-        {
-          "name": "Silver",
-          "url": "https://open.spotify.com/artist/2xZOjY3LYFt8mfHuBUOBwF"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "AMG Isteria",
-      "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u041d\u0430\u043f\u0438\u0445 \u0441\u0435",
-        "url": "https://open.spotify.com/album/6TwAdlNsd4u2AW9yF8gxK2"
-      },
-      "artists": [
-        {
-          "name": "Berk317",
-          "url": "https://open.spotify.com/artist/3RRhFRVu9NUO5XHeLy42Yq"
-        },
-        {
-          "name": "Emrah",
-          "url": "https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr"
-        }
-      ],
-      "duration_ms": 182366,
-      "name": "\u041d\u0430\u043f\u0438\u0445 \u0441\u0435",
-      "url": "https://open.spotify.com/track/4ff2pcvZXu42cbtA9vXYnK"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u0411\u041b\u041e\u041a 5",
-        "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
-      },
-      "artists": [
-        {
-          "name": "MOMO RECORDS",
-          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "\u0413-\u041d \u041f\u041e\u0420\u042a\u0427\u041a\u0410",
-      "url": "https://open.spotify.com/track/1UeRaFI9tWAF9gy5hsnxHl"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "THE FORCE",
-        "url": "https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 185456,
-      "name": "Murdergram Deux (feat. Eminem)",
-      "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -273,71 +197,7 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/6rVJG1Yn13I33irXRxpWNe"
-      },
-      "artists": [
-        {
-          "name": "Silver",
-          "url": "https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/1lVyaRHwjyoWd9YZqybJEq"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
-        "url": "https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
-      "url": "https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "\u041b\u0443\u0434\u0430 \u043f\u043e \u0442\u0435\u0431\u0435",
         "url": "https://open.spotify.com/album/5XJ9CUQ1rndXegohlRtFor"
@@ -353,7 +213,111 @@
       "url": "https://open.spotify.com/track/1WAKXJTfpz3a2718eXNNJq"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "AMG Isteria",
+        "url": "https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL"
+      },
+      "artists": [
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        },
+        {
+          "name": "Silver",
+          "url": "https://open.spotify.com/artist/2xZOjY3LYFt8mfHuBUOBwF"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "AMG Isteria",
+      "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/6rVJG1Yn13I33irXRxpWNe"
+      },
+      "artists": [
+        {
+          "name": "Silver",
+          "url": "https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "\u042f\u043c \u043f\u0430\u0440\u043a\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/1lVyaRHwjyoWd9YZqybJEq"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
+        "url": "https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
+      "url": "https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "THE FORCE",
+        "url": "https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 185456,
+      "name": "Murdergram Deux (feat. Eminem)",
+      "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -373,71 +337,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "Doner Kebab Nacho Alejandro Garnacho",
-        "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
-      },
-      "artists": [
-        {
-          "name": "Y2K SPORTS",
-          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Doner Kebab Nacho Alejandro Garnacho",
-      "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "CRAZY (Party Remixes 1)",
-        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u041f\u0430\u0439\u043d\u0435\u0440 \u0425\u0438\u0442 \u0421\u0435\u0437\u043e\u043d\u0438 \u0415\u0441\u0435\u043d 2015",
-        "url": "https://open.spotify.com/album/0OrgcGhq3xaQIJlOereMgR"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "\u041d\u0430\u0432\u044a\u0442\u0440\u0435 \u0432 \u043c\u0435\u043d",
-      "url": "https://open.spotify.com/track/7hWVFOo0ElAsL98FNqO1Zw"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
@@ -453,7 +353,103 @@
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Doner Kebab Nacho Alejandro Garnacho",
+        "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
+      },
+      "artists": [
+        {
+          "name": "Y2K SPORTS",
+          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "Doner Kebab Nacho Alejandro Garnacho",
+      "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -473,7 +469,23 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Chief Boot Knocka",
+        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Nasty Dog",
+      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "OTKACHALKI",
         "url": "https://open.spotify.com/album/0wxBkakmoiGcrGov64qJZO"
@@ -497,39 +509,79 @@
       "url": "https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Chief Boot Knocka",
-        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
+        "name": "Si Ai (Marshmello & UKAY Remix)",
+        "url": "https://open.spotify.com/album/3dXl5dcxNnDy3f4awbJJWZ"
       },
       "artists": [
         {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "UKAY",
+          "url": "https://open.spotify.com/artist/61g8SMtoEd288zbblnptOJ"
         }
       ],
-      "duration_ms": 240293,
-      "name": "Nasty Dog",
-      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
+      "duration_ms": 183999,
+      "name": "Si Ai - Marshmello & UKAY Remix",
+      "url": "https://open.spotify.com/track/6QiMlAAWY6CV1ItB9oAgF2"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "Why's this dealer?",
+        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
         }
       ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+      "duration_ms": 129571,
+      "name": "Why's this dealer?",
+      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "\u041f\u0430\u0439\u043d\u0435\u0440 \u0425\u0438\u0442 \u0421\u0435\u0437\u043e\u043d\u0438 \u0415\u0441\u0435\u043d 2015",
+        "url": "https://open.spotify.com/album/0OrgcGhq3xaQIJlOereMgR"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "\u041d\u0430\u0432\u044a\u0442\u0440\u0435 \u0432 \u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/7hWVFOo0ElAsL98FNqO1Zw"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Mea Culpa (Ah! \u00c7a ira!)",
         "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
@@ -553,55 +605,103 @@
       "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/4RE53VzgwNoIQjT7DvuE50"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Kadincho Original",
+          "url": "https://open.spotify.com/artist/3SxEp3HzinHI8FDeZD1U7e"
+        },
+        {
+          "name": "Bisko Iliev",
+          "url": "https://open.spotify.com/artist/5pGPrEuCXrH4l5L8VjQ1Qg"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 204502,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/63Qy55Cvff8uCqL7oOu1tt"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "\u9e7f\u4e43\u5b50\u306e\u3053 (CV.\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN"
+        },
+        {
+          "name": "\u864e\u8996\u864e\u5b50 (CV.\u85e4\u7530 \u54b2)",
+          "url": "https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd"
+        },
+        {
+          "name": "\u864e\u8996\u9921\u5b50 (CV.\u7530\u8fba\u7559\u4f9d)",
+          "url": "https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT"
+        },
+        {
+          "name": "\u99ac\u8eca\u82bd\u3081\u3081 (CV.\u548c\u6cc9\u98a8\u82b1)",
+          "url": "https://open.spotify.com/artist/73326vNByOtmvaXTJryL19"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 201299,
+      "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Why's this dealer?",
-        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
       "artists": [
         {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 129571,
-      "name": "Why's this dealer?",
-      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "90 60 90",
+        "url": "https://open.spotify.com/album/5TcMXl6NtNKo0vuUTgv6Y9"
+      },
+      "artists": [
+        {
+          "name": "Adnan Beats",
+          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "90 60 90",
+      "url": "https://open.spotify.com/track/3W0fNploVeIygAt4L3dxg8"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "GO AGAIN (feat. Superheaven)",
         "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
@@ -625,7 +725,7 @@
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "\u0633\u0637\u0644\u0627\u0646\u0629",
         "url": "https://open.spotify.com/album/3dSwt8D25ST0ROdebYf7Op"
@@ -661,99 +761,27 @@
       "url": "https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/4RE53VzgwNoIQjT7DvuE50"
+        "name": "Cum n Cocaine",
+        "url": "https://open.spotify.com/album/2blliGGUSb0eMWp9iFHI6h"
       },
       "artists": [
         {
-          "name": "Kadincho Original",
-          "url": "https://open.spotify.com/artist/3SxEp3HzinHI8FDeZD1U7e"
+          "name": "BJ Lips",
+          "url": "https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9"
         },
         {
-          "name": "Bisko Iliev",
-          "url": "https://open.spotify.com/artist/5pGPrEuCXrH4l5L8VjQ1Qg"
+          "name": "princess paparazzi",
+          "url": "https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV"
         }
       ],
-      "duration_ms": 204502,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/63Qy55Cvff8uCqL7oOu1tt"
+      "duration_ms": 173168,
+      "name": "Love Potions",
+      "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "RAP NA HAP",
-        "url": "https://open.spotify.com/album/56uQQrq2AsNSyQ93co4K0h"
-      },
-      "artists": [
-        {
-          "name": "Gocata Kangal",
-          "url": "https://open.spotify.com/artist/79LfvzdMQhTIFoeMC7UBRG"
-        }
-      ],
-      "duration_ms": 166442,
-      "name": "RAP NA HAP",
-      "url": "https://open.spotify.com/track/08nY5StGB4SCJiAm5Ex0TY"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 173431,
-      "name": "1-800-hot-n-fun",
-      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "Si Ai (Marshmello & UKAY Remix)",
-        "url": "https://open.spotify.com/album/3dXl5dcxNnDy3f4awbJJWZ"
-      },
-      "artists": [
-        {
-          "name": "Tayna",
-          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "UKAY",
-          "url": "https://open.spotify.com/artist/61g8SMtoEd288zbblnptOJ"
-        }
-      ],
-      "duration_ms": 183999,
-      "name": "Si Ai - Marshmello & UKAY Remix",
-      "url": "https://open.spotify.com/track/6QiMlAAWY6CV1ItB9oAgF2"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Se Paciente Funk",
         "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
@@ -769,7 +797,43 @@
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "RAP NA HAP",
+        "url": "https://open.spotify.com/album/56uQQrq2AsNSyQ93co4K0h"
+      },
+      "artists": [
+        {
+          "name": "Gocata Kangal",
+          "url": "https://open.spotify.com/artist/79LfvzdMQhTIFoeMC7UBRG"
+        }
+      ],
+      "duration_ms": 166442,
+      "name": "RAP NA HAP",
+      "url": "https://open.spotify.com/track/08nY5StGB4SCJiAm5Ex0TY"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
+      "album": {
+        "name": "\u0413\u0434\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u0441 \u043a\u0435\u043c",
+        "url": "https://open.spotify.com/album/45ftYJfBuR27hoeL0HmOLy"
+      },
+      "artists": [
+        {
+          "name": "Basta",
+          "url": "https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H"
+        },
+        {
+          "name": "HammAli & Navai",
+          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
+        }
+      ],
+      "duration_ms": 306493,
+      "name": "\u0413\u0434\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u0441 \u043a\u0435\u043c",
+      "url": "https://open.spotify.com/track/7zKRBfhF6CABVsc8b1spJ0"
+    },
+    {
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -785,7 +849,7 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "wutiwant",
         "url": "https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic"
@@ -801,7 +865,7 @@
       "url": "https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
         "url": "https://open.spotify.com/album/7cekQBr7MUbxcUVcb1UTwa"
@@ -817,23 +881,23 @@
       "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "A\u015fka \u0130nanmaz",
-        "url": "https://open.spotify.com/album/7HPDobtd7ZH2McwQkZkroV"
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
       "artists": [
         {
-          "name": "Kendi",
-          "url": "https://open.spotify.com/artist/59sYqGGNlpHuTWcenvV9mZ"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 233821,
-      "name": "A\u015fka \u0130nanmaz",
-      "url": "https://open.spotify.com/track/065g6sD1YLuMXMKUpOPDSW"
+      "duration_ms": 173431,
+      "name": "1-800-hot-n-fun",
+      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -865,47 +929,31 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
-        "name": "BACKBONE",
-        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/1QwrrQjli04j1cFCzbVCBt"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "BACKBONE",
-      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "\u0413\u0434\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u0441 \u043a\u0435\u043c",
-        "url": "https://open.spotify.com/album/45ftYJfBuR27hoeL0HmOLy"
-      },
-      "artists": [
-        {
-          "name": "Basta",
-          "url": "https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H"
+          "name": "LVAN",
+          "url": "https://open.spotify.com/artist/4pX5wOEgopPbKHqVnhmB58"
         },
         {
-          "name": "HammAli & Navai",
-          "url": "https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE"
+          "name": "Sif Saga",
+          "url": "https://open.spotify.com/artist/3TC280oA2Xpndk2UBbyM8q"
         }
       ],
-      "duration_ms": 306493,
-      "name": "\u0413\u0434\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u0441 \u043a\u0435\u043c",
-      "url": "https://open.spotify.com/track/7zKRBfhF6CABVsc8b1spJ0"
+      "duration_ms": 161803,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/0rTpvwpRT7D2ddwjiptU2K"
     },
     {
-      "added_at": "2024-09-21 13:55:55",
+      "added_at": "2024-09-22 13:48:58",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -919,38 +967,6 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "I'll Take You There Choir",
-          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
-      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
-    },
-    {
-      "added_at": "2024-09-21 13:55:55",
-      "album": {
-        "name": "90 60 90",
-        "url": "https://open.spotify.com/album/5TcMXl6NtNKo0vuUTgv6Y9"
-      },
-      "artists": [
-        {
-          "name": "Adnan Beats",
-          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "90 60 90",
-      "url": "https://open.spotify.com/track/3W0fNploVeIygAt4L3dxg8"
     }
   ],
   "unique_name": "Viral 50 - Bulgaria",
