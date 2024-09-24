@@ -2,7 +2,7 @@
 
 ### [This Is Pedro Suárez\-Vértiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25rPSy)
 
-> This is Pedro Suárez\-Vértiz\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Pedro Suárez\-Vértiz\. Los temas esenciales, todos en una lista.
 
 46 songs - 3 hr 7 min
 

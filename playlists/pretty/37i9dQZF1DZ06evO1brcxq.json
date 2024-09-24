@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charli xcx. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 128212,
+  "description": "This Is Charli xcx. Los temas esenciales, todos en una lista.",
+  "num_followers": 128299,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAACAqKULGpxnRVzqTtoUw/ki",
+  "snapshot_id": "Zu9eAAAAAAAVcLIQE9jTGVLnCal5t6/B",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 326906,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 243672,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -751,38 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 243672,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Next Level Charli",
-      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop 2",
-        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 326906,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+      "duration_ms": 157626,
+      "name": "Next Level Charli",
+      "url": "https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1yUJK3qxPiFiPeAG2gLfuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 214529,
       "name": "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]",
       "url": "https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1yUJK3qxPiFiPeAG2gLfuW"
     },
     {
       "added_at": null,

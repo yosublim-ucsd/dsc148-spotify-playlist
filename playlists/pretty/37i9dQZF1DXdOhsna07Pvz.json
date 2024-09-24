@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 79493,
+  "num_followers": 79525,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 152680,
       "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",

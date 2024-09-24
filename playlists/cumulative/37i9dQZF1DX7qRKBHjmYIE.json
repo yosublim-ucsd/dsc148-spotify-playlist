@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 177196,
       "name": "Cosas Imposibles (No Me Sirven)",
       "url": "https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y"
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 241333,
       "name": "Frankies",
       "url": "https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3"
@@ -8744,6 +8744,24 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "album": {
+        "name": "Medallo-Madrid-Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126133,
+      "name": "Medallo-Madrid-Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI"
     },
     {
       "album": {
@@ -13156,6 +13174,24 @@
       "duration_ms": 265225,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1d24IsT8Vx0sENM2Oof4V2"
+    },
+    {
+      "album": {
+        "name": "something bout u",
+        "url": "https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171483,
+      "name": "something bout u",
+      "url": "https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID"
     },
     {
       "album": {

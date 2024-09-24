@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92196,
+  "num_followers": 92201,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Innan tystnaden tar vid",
-        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
-      },
-      "artists": [
-        {
-          "name": "David Ritschard",
-          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
-        }
-      ],
-      "duration_ms": 394696,
-      "name": "Europa",
-      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "S\u00e5nger om dig",
         "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Innan tystnaden tar vid",
+        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
+      },
+      "artists": [
+        {
+          "name": "David Ritschard",
+          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
+        }
+      ],
+      "duration_ms": 394696,
+      "name": "Europa",
+      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "S\u00e4kra kort",
+        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "S\u00e4kra kort",
+      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 207300,
       "name": "Sally/Hungry Eyes",
       "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "S\u00e4kra kort",
-        "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "S\u00e4kra kort",
-      "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "En v\u00e4n till mig",
+        "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 157261,
+      "name": "En v\u00e4n till mig",
+      "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
-      },
-      "artists": [
-        {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
-        }
-      ],
-      "duration_ms": 210568,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Weak Point",
         "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
+      },
+      "artists": [
+        {
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+        }
+      ],
+      "duration_ms": 210568,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "En v\u00e4n till mig",
-        "url": "https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 157261,
-      "name": "En v\u00e4n till mig",
-      "url": "https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 195187,
       "name": "Presence",
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "I'm Not Dead Yet",
-        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "If You Lose Her, You're A Loser",
-      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "I'm Not Dead Yet",
+        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "If You Lose Her, You're A Loser",
+      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Tiden f\u00f6rsvinner",
         "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 206304,
       "name": "Tiden f\u00f6rsvinner",
       "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 181428,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Min Elsa",
         "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
+        "name": "Bermuda Triangle",
+        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Lexi Berg",
+          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
         }
       ],
-      "duration_ms": 181428,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+      "duration_ms": 200000,
+      "name": "Bermuda Triangle",
+      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1483,38 +1499,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Bermuda Triangle",
-        "url": "https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z"
+        "name": "Caught Me On A Bad Day",
+        "url": "https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN"
       },
       "artists": [
         {
-          "name": "Lexi Berg",
-          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
+          "name": "Martin Almgren",
+          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bermuda Triangle",
-      "url": "https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
+      "duration_ms": 210468,
+      "name": "Caught Me On A Bad Day",
+      "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
     }
   ],
   "unique_name": "Aktuellt",

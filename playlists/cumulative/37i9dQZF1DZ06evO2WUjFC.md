@@ -2,7 +2,7 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is Danny Felix。アーティストの代表曲をひとつのプレイリストに。
+> This is Danny Felix\. The essential tracks, all in one playlist.
 
 87 songs - 4 hr 52 min
 
@@ -34,9 +34,9 @@
 | [El 0\-10](https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El 0\-10](https://open.spotify.com/album/3InQJ7xM3XPE7BzMizPgW6) | 2:42 | 2024-01-29 |  |
 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 | 2024-02-14 | 2024-04-07 |
 | [EL ATASCADO](https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-27 |  |
-| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 | 2024-09-17 |
+| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 |  |
 | [EL GAVILÁN](https://open.spotify.com/track/3DEyKgtG8Z1enjpfGDuETH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GAVILÁN](https://open.spotify.com/album/6Seu8jXab2lGU2CJ2Jofuu) | 4:28 | 2024-07-08 | 2024-08-25 |
-| [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 |  |
+| [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 | 2024-09-24 |
 | [EL MAGO “EL MÁGICO”](https://open.spotify.com/track/7n1mrrgEcpSXpjULsOQZmO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:03 | 2024-01-29 | 2024-06-12 |
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2024-01-29 |  |
 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |

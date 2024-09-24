@@ -2,7 +2,7 @@
 
 ### [This Is Zona Ganjah](https://open.spotify.com/playlist/37i9dQZF1DZ06evO24f0z5)
 
-> This is Zona Ganjah\. The essential tracks, all in one playlist.
+> This Is Zona Ganjah\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 3 min
 

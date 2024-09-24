@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 233755,
+  "num_followers": 233862,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "When Will We Land?",
-        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 246840,
-      "name": "Always Get Through To You",
-      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -431,6 +435,22 @@
       "duration_ms": 213620,
       "name": "The Colour In Anything",
       "url": "https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -519,26 +539,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 245654,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -587,6 +603,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
         "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
       },
@@ -611,22 +643,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Light Shines Through",
-        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+        "name": "Light Shines Through",
+        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+      "duration_ms": 258084,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Space Drag",
+        "url": "https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Ohh Baby",
+      "url": "https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Heart - EP",
         "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
-      },
-      "artists": [
-        {
-          "name": "S+C+A+R+R",
-          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Space Drag",
-        "url": "https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Ohh Baby",
-      "url": "https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 237945,
       "name": "Stay With Us",
       "url": "https://open.spotify.com/track/28jlJgtlrNJpEsn4rgoR11"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
-      },
-      "artists": [
-        {
-          "name": "Shlohmo",
-          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
-        }
-      ],
-      "duration_ms": 302210,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
     }
   ],
   "unique_name": "Electronica Romantica",

@@ -4431,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -5260,7 +5278,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 205425,
       "name": "Blamegame",
       "url": "https://open.spotify.com/track/3dSplmMF8Dyw5R8NL5fb5c"
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 273946,
       "name": "El Destino",
       "url": "https://open.spotify.com/track/2HQxiK6VtkuZRBveJ5QYQH"
@@ -12884,7 +12902,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 174933,
       "name": "El Mariachi Loco",
       "url": "https://open.spotify.com/track/2t4Xr23WCRxao3l6EdJaXY"
@@ -17961,6 +17979,24 @@
     },
     {
       "album": {
+        "name": "Huapango Rikititriki",
+        "url": "https://open.spotify.com/album/30mWh0lKexfcIEnk196sQE"
+      },
+      "artists": [
+        {
+          "name": "Apacibles Del Norte",
+          "url": "https://open.spotify.com/artist/7ajZbW67R0tBJdoGiEnQ19"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218904,
+      "name": "Huapango Rikititriki",
+      "url": "https://open.spotify.com/track/1MA7lKm8UZK50Avzi9aA7T"
+    },
+    {
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -20028,7 +20064,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 197186,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
@@ -24650,7 +24686,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 166800,
       "name": "Mexico Lindo y Querido",
       "url": "https://open.spotify.com/track/0hMWssovlBRbVRFYsNSJD6"
@@ -37132,7 +37168,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 181000,
       "name": "Son De La Negra",
       "url": "https://open.spotify.com/track/14mPMMwXf9GHp1Tw435f2d"

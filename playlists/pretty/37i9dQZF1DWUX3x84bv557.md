@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Zoë Livay
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,813 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,820 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 |
 | 4 | [Wie is zij](https://open.spotify.com/track/76RE1A1vlV8AsFWhAVnGbT) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Wie is zij](https://open.spotify.com/album/7qM0YRpQDSYHVFmcb6bpvr) | 2:55 |
 | 5 | [Onweer In M'n Hoofd](https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Onweer In M'n Hoofd](https://open.spotify.com/album/7DP9NG2p1qW5hgO2S87BT3) | 2:54 |
-| 6 | [Astronaut](https://open.spotify.com/track/0KEcM17Ln54bBRvYyStNNL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Astronaut](https://open.spotify.com/album/30qJqX4urP4QYcDs4XtfIy) | 2:38 |
-| 7 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 |
-| 8 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
-| 9 | [Geen Kind Meer](https://open.spotify.com/track/5KVNPxLX6YVwmmHVjo2idf) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Beste Zangers 2024 \(Aflevering 1\- Karin Bloemen\)](https://open.spotify.com/album/3PiEas18tOEugpt9G2E201) | 3:37 |
-| 10 | [Tweede plaats](https://open.spotify.com/track/6iqeSHQx1ncY31OwZ5ahIE) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Tweede plaats](https://open.spotify.com/album/22Duxq6izqd9qB91UnXubl) | 2:49 |
-| 11 | [Op Zoek Naar Mezelf](https://open.spotify.com/track/1SsyC8Zfd7fwDcqviVa9OX) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Op Zoek Naar Mezelf](https://open.spotify.com/album/3q5aMpW5W8h5ddLiuhU9mo) | 2:54 |
-| 12 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 |
-| 13 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
-| 14 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 |
+| 6 | [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 |
+| 7 | [Astronaut](https://open.spotify.com/track/0KEcM17Ln54bBRvYyStNNL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Astronaut](https://open.spotify.com/album/30qJqX4urP4QYcDs4XtfIy) | 2:38 |
+| 8 | [Tweede plaats](https://open.spotify.com/track/6iqeSHQx1ncY31OwZ5ahIE) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Tweede plaats](https://open.spotify.com/album/22Duxq6izqd9qB91UnXubl) | 2:49 |
+| 9 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 |
+| 10 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
+| 11 | [Geen Kind Meer](https://open.spotify.com/track/5KVNPxLX6YVwmmHVjo2idf) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Beste Zangers 2024 \(Aflevering 1\- Karin Bloemen\)](https://open.spotify.com/album/3PiEas18tOEugpt9G2E201) | 3:37 |
+| 12 | [Op Zoek Naar Mezelf](https://open.spotify.com/track/1SsyC8Zfd7fwDcqviVa9OX) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Op Zoek Naar Mezelf](https://open.spotify.com/album/3q5aMpW5W8h5ddLiuhU9mo) | 2:54 |
+| 13 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 |
+| 14 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 15 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
 | 16 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 |
 | 17 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Nou En](https://open.spotify.com/track/5l67NZAMvIOJ2NhMRpLtqc) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Nou En](https://open.spotify.com/album/7gqSCbF0YcOXbYdYCetdkh) | 2:50 |
 | 70 | [Vol Geluk](https://open.spotify.com/track/39bzVRAtNSKI7xSmoKC4dX) | [Nigel Sean](https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT) | [Vol Geluk](https://open.spotify.com/album/23seFRUDp7rC0fj2s972oU) | 1:52 |
 
-Snapshot ID: `Zuye4AAAAACLM/jmNSGW0e1Y37yHLyFR`
+Snapshot ID: `ZvHk4AAAAACVCpDdYJhcDQjKQXNzrRsu`

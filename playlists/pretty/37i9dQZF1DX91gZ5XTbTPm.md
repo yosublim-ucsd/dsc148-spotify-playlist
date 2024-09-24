@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Juice Wrld
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,264 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,326 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 39 | [Starter Kit \(featuring Veeze\)](https://open.spotify.com/track/3wnZwwG9IzwN8A2gUrjdNv) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [H.I.M \(Hustle In Me\)](https://open.spotify.com/album/5wE3Y9ir6DSF2AG2rWRKdn) | 2:15 |
 | 40 | [BNB](https://open.spotify.com/track/1h59HtygSsi5xnYAQYYznT) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [BNB](https://open.spotify.com/album/153HJPBe64oudNXeDlnpsF) | 2:52 |
 | 41 | [Polynesian](https://open.spotify.com/track/27ATssFYewh8Vcg6wd6Udq) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Polynesian](https://open.spotify.com/album/1h5dJ992NoupgWlLlsubjI) | 3:00 |
-| 42 | [DON'T WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
+| 42 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
 | 43 | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4) | 3:16 |
 | 44 | [What You Need \(with Skilla Baby\)](https://open.spotify.com/track/4ESpN7uNGuhw3Mpu7KwBsa) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [What You Need \(with Skilla Baby\)](https://open.spotify.com/album/7dZogAybcQ8eBs5uVeO0PR) | 2:54 |
 | 45 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Grimes الراديو](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Rádio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> مع Pastel Ghost, Cults, Sidewalks and Skeletons والمزيد
+> Com Pastel Ghost, Cults, Sidewalks and Skeletons e mais
 
 1,781 songs - 4 day 13 hr 31 min
 
@@ -147,7 +147,7 @@
 | [Bad Friend](https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:28 | 2020-10-17 | 2022-02-19 |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-10-10 | 2024-09-23 |
 | [Bad Girls](https://open.spotify.com/track/3o6cyNUUVQ55klr7tswS1c) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Ritual In Repeat \(Deluxe\)](https://open.spotify.com/album/2qpspWmRrEI8EEEXqL1O5e) | 4:31 | 2022-03-14 | 2022-05-25 |
-| [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 |  |
+| [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 | 2024-09-24 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-15 | 2024-07-11 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2024-01-13 |  |
 | [Baptism](https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:11 | 2020-11-17 | 2022-03-09 |
@@ -211,7 +211,7 @@
 | [Bit Of Rain](https://open.spotify.com/track/1YXIOzYdHojl0GRsIEhHsN) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [I'm Your Empress Of](https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq) | 3:30 | 2022-10-10 | 2023-09-26 |
 | [Bitch](https://open.spotify.com/track/1CVQ8euBNROz7KDPeNqwWE) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/2vRvnMqmqw8DUpUEVEynXt) | 3:27 | 2020-10-20 | 2022-10-12 |
 | [Bitch](https://open.spotify.com/track/2RHACQ60QdCc5rPtM5NciW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Collxtion I](https://open.spotify.com/album/6i2wkAsjqQ9CUc7g9dSGbS) | 3:27 | 2022-10-17 | 2023-12-14 |
-| [BITCH](https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 3:27 | 2024-04-19 | 2024-09-23 |
+| [BITCH](https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 3:27 | 2024-04-19 |  |
 | [Bitch Bites Dog](https://open.spotify.com/track/78xCI7hkmeiveXBP4uhYww) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 3:32 | 2022-04-07 | 2023-07-07 |
 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2022-03-28 | 2023-03-07 |
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-11 | 2022-09-12 |
@@ -1068,7 +1068,7 @@
 | [My Sister Says The Saddest Things](https://open.spotify.com/track/6nnkEqZWBghN8GJ1EAe6GA) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D) | 4:11 | 2022-03-10 | 2024-05-04 |
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2020-11-03 | 2024-04-07 |
 | [Myth](https://open.spotify.com/track/5UFt0wpIRFSYTIPjZny4u9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/1UYkwtjbjdLlHc4bdnkvdO) | 4:18 | 2020-10-18 | 2020-11-03 |
-| [Myth](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/6w84G1JaQPqbf8RzS48tPf) | 4:18 | 2024-07-29 |  |
+| [Myth](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/6w84G1JaQPqbf8RzS48tPf) | 4:18 | 2024-07-29 | 2024-09-24 |
 | [n](https://open.spotify.com/track/00qFKcIptJXilzqMAc8Qra) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [bounty](https://open.spotify.com/album/7ewgvBY5ykj7cn0vRCK1u4) | 4:35 | 2022-04-21 | 2022-06-11 |
 | [Nangs](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:47 | 2023-12-14 | 2024-03-06 |
 | [Napalm](https://open.spotify.com/track/2Smp3Fk79CMuvll4TBm999) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 2:30 | 2022-05-01 | 2022-10-11 |
@@ -1110,7 +1110,7 @@
 | [No Nightmares](https://open.spotify.com/track/0JlwmGK34Lbe62xPbpsmSb) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 4:06 | 2020-11-05 | 2020-12-19 |
 | [No Shadow](https://open.spotify.com/track/1kEHnkvaGmE1nfS6il75vs) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [No Shadow](https://open.spotify.com/album/3B1JyI2iR1HJ0zfJDtzHyN) | 3:18 | 2022-07-24 | 2022-08-04 |
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2022-03-09 | 2024-01-11 |
-| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2024-01-17 | 2024-09-23 |
+| [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2024-01-17 |  |
 | [Nobody Asked Me \(If I Was Okay\)](https://open.spotify.com/track/0UOQdxiWOMJDAw8AHSslDr) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:05 | 2022-03-10 | 2023-07-01 |
 | [Noches](https://open.spotify.com/track/634IBwtWmFmJCwVnFG8gzG) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Noches](https://open.spotify.com/album/08MGy8aiFy1Omd1UKoPvKy) | 3:13 | 2022-08-03 | 2023-08-26 |
 | [Noid](https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 3:29 | 2020-11-09 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-728 songs - 1 day 12 hr 30 min
+729 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Aquí](https://open.spotify.com/track/4VkLkS6EHULiBDnrD0fAXN) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [Aquí](https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX) | 3:31 | 2023-02-12 | 2023-04-13 |
 | [Around We Go](https://open.spotify.com/track/1t7Mbqw7mrtX4S4bYPPPGc) | [Ben Remember](https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc) | [Around We Go](https://open.spotify.com/album/4tmaK94UxQtJSiuvG6J1QF) | 3:34 | 2023-07-14 | 2023-12-14 |
 | [As We Know](https://open.spotify.com/track/4zwH8Clzrn4AuYnBI30M4r) | [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [As We Know](https://open.spotify.com/album/2AqZ8hm6V7mdi87e86OA0i) | 3:54 | 2023-06-23 | 2023-07-14 |
+| [Ascend](https://open.spotify.com/track/0KnoZARszd7dcic61claEn) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ascend](https://open.spotify.com/album/3IGKNxB664yDCJUpVj7gp0) | 2:46 | 2024-09-23 |  |
 | [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 | 2023-12-23 |
 | [Asking \(feat\. Clementine Douglas\) \- Tiësto Remix](https://open.spotify.com/track/6bJa9BTNHYGyeHhJr41Kfb) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Asking \(feat\. Clementine Douglas\) \[Tiësto Remix\]](https://open.spotify.com/album/7FlbEc8atVHKLNC8wHKTiS) | 3:12 | 2023-09-15 | 2023-12-14 |
 | [Ass Made In USA](https://open.spotify.com/track/1QwZDpX5vfsCEI28EBkKVq) | [Vessbroz](https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt) | [Ass Made In USA](https://open.spotify.com/album/46GHeqiYcausBtqTjmIHDO) | 2:07 | 2024-02-09 |  |

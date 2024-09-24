@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 50926,
+  "num_followers": 50940,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+        "name": "Pastor Luna - Chamemecero de Ley",
+        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
         }
       ],
-      "duration_ms": 171399,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+      "duration_ms": 177213,
+      "name": "Meta lonja y chamam\u00e9",
+      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -179,18 +175,22 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Pastor Luna - Chamemecero de Ley",
-        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
       "artists": [
         {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Meta lonja y chamam\u00e9",
-      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
+      "duration_ms": 171399,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 159363,
-      "name": "Puerto Tirol",
-      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 99333,
       "name": "Laguna Totora",
       "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 159363,
+      "name": "Puerto Tirol",
+      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
         "name": "Sobredosis De Chamame",
         "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 189293,
       "name": "Taipero Poriahu",
       "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
-      },
-      "artists": [
-        {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 155666,
       "name": "Virgencita de Itat\u00ed",
       "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 183220,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
         "name": "#2: Sin Testigos",
         "url": "https://open.spotify.com/album/6pT779PGLDp7U0uP5KqCqk"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 228171,
       "name": "#2: Sin Testigos",
       "url": "https://open.spotify.com/track/4XUDu3k42ma37NdQaTnAvu"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "12 A\u00f1os Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
-      },
-      "artists": [
-        {
-          "name": "La Pilarcita",
-          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
-        },
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 183220,
-      "name": "El Gallo Negro",
-      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "A Puro Sapucay",
-        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
-      },
-      "artists": [
-        {
-          "name": "Los Tatas del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Creciendo el Gualeguay",
-      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 206573,
       "name": "Al Gaucho Gil",
       "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "A Puro Sapucay",
+        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Creciendo el Gualeguay",
+      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1399,6 +1399,22 @@
       "duration_ms": 156025,
       "name": "El Petizo Maceta",
       "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "No Le Mezquine la Marca",
+        "url": "https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "duration_ms": 129412,
+      "name": "Al Tigre de los Arenales",
+      "url": "https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1479,22 +1495,6 @@
       "duration_ms": 164440,
       "name": "Mi Anhelo",
       "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "No Le Mezquine la Marca",
-        "url": "https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1"
-      },
-      "artists": [
-        {
-          "name": "Los Tatas del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
-        }
-      ],
-      "duration_ms": 129412,
-      "name": "Al Tigre de los Arenales",
-      "url": "https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU"
     },
     {
       "added_at": "2024-08-15 20:22:33",

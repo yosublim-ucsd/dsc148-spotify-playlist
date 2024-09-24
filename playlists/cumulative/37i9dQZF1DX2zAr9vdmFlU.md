@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-275 songs - 17 hr 25 min
+276 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Boulevard](https://open.spotify.com/track/0bPh6AN7Xa7rnZzeDCrR4k) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh) | 3:17 | 2022-01-01 | 2024-04-19 |
 | [Boulevard](https://open.spotify.com/track/3FFmthb4kt71BVglTx78D9) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/4prWHzICcdSu2yuPdfS7T5) | 3:17 | 2021-12-09 | 2022-01-08 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2023-03-07 | 2024-04-19 |
+| [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-23 |  |
 | [Calaveras y Diablitos](https://open.spotify.com/track/6OOYmmUw3jcF51g3iMpvXA) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveras y Diablitos](https://open.spotify.com/album/0ArxTs4EwDUAR6hPIBLOle) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7) | [Clemente Castillo](https://open.spotify.com/artist/6xq8uO5PE2Vs9G6OsIicin), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Eureka](https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf) | 3:55 | 2022-01-01 | 2024-04-19 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-09 |  |
@@ -259,7 +260,7 @@
 | [Todos Tenemos un Amor](https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Todos Tenemos un Amor](https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0) | 3:44 | 2024-02-16 |  |
 | [Together](https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Together](https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo) | 3:43 | 2023-03-07 |  |
 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 | 2021-12-09 | 2023-03-08 |
-| [Tregua](https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tregua](https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG) | 3:03 | 2023-11-03 |  |
+| [Tregua](https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tregua](https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG) | 3:03 | 2023-11-03 | 2024-09-24 |
 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 | 2021-12-09 |  |
 | [Tú y Yo](https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Tú y Yo](https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9) | 3:29 | 2023-03-07 |  |
 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 | 2021-12-09 |  |

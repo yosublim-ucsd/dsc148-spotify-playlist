@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1717953,
+  "num_followers": 1718002,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify, London)",
         "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "PANDAMONIUM!",
-        "url": "https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU"
-      },
-      "artists": [
-        {
-          "name": "Trash Panda",
-          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "So Sweet",
-      "url": "https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 194160,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "PANDAMONIUM!",
+        "url": "https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU"
+      },
+      "artists": [
+        {
+          "name": "Trash Panda",
+          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6"
     },
     {
       "added_at": "2024-07-05 22:35:53",

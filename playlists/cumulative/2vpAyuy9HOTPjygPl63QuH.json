@@ -31089,6 +31089,24 @@
     },
     {
       "album": {
+        "name": "High Volume EP",
+        "url": "https://open.spotify.com/album/4ZNoLdNJekJ0fv3fUdPmkW"
+      },
+      "artists": [
+        {
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376497,
+      "name": "Smooth Originator",
+      "url": "https://open.spotify.com/track/6FY0QqwuKjGrKjZbmgnEMz"
+    },
+    {
+      "album": {
         "name": "Snake Melody",
         "url": "https://open.spotify.com/album/3HQXHBmTW82OTATBX2H9Dl"
       },

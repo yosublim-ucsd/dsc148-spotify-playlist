@@ -679,6 +679,32 @@
     },
     {
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/3IGKNxB664yDCJUpVj7gp0"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/0KnoZARszd7dcic61claEn"
+    },
+    {
+      "album": {
         "name": "Asereje",
         "url": "https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is EST Gee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JD1f2)
 
-> This is EST Gee。アーティストの代表曲をひとつのプレイリストに。
+> This is EST Gee\. The essential tracks, all in one playlist.
 
 111 songs - 5 hr 4 min
 

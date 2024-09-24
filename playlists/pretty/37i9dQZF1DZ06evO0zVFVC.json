@@ -1,12 +1,12 @@
 {
-  "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 99256,
+  "description": "This Is Parkway Drive. Los temas esenciales, todos en una lista.",
+  "num_followers": 99309,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADf8tarnmyGjhtGJJnbYOX0",
+  "snapshot_id": "Zu9eAAAAAADnrmcYMngZXgKtdGZwRf9H",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
+      "duration_ms": 211106,
+      "name": "Gimme a D",
+      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
     },
     {
       "added_at": null,
@@ -668,25 +668,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Gimme a D",
-      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva The Underdogs",
-        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 233700,
-      "name": "Die Leere",
-      "url": "https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD"
+      "duration_ms": 196840,
+      "name": "Mutiny",
+      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
     },
     {
       "added_at": null,

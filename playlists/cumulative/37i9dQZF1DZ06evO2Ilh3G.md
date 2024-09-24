@@ -2,7 +2,7 @@
 
 ### [This Is Offset](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ilh3G)
 
-> This is Offset\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Offset\. The essential tracks, all in one playlist.
 
 73 songs - 3 hr 58 min
 

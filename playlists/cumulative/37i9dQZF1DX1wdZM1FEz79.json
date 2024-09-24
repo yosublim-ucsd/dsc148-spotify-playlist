@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bBaek A(\ubc31\uc544)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: LENA(\ub808\ub098)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Blame The Summer",
+        "url": "https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y"
+      },
+      "artists": [
+        {
+          "name": "LENA",
+          "url": "https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Blame The Summer",
+      "url": "https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3tePaoi07rPbKErbdBwE3w"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 214880,
       "name": "Can you tell me it's okey",
       "url": "https://open.spotify.com/track/31rP2uql9Dt2p1opVSHn15"
@@ -2090,6 +2108,24 @@
       "duration_ms": 194853,
       "name": "fall in you",
       "url": "https://open.spotify.com/track/7kjdV8qFX2UfvK47XzXQBh"
+    },
+    {
+      "album": {
+        "name": "Fall Is Coming",
+        "url": "https://open.spotify.com/album/2P2zTJkaEDQVG58HvaFT9l"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154256,
+      "name": "Fall Is Coming",
+      "url": "https://open.spotify.com/track/4I0kjIezui6dV6uVovFYty"
     },
     {
       "album": {
@@ -3815,6 +3851,32 @@
     },
     {
       "album": {
+        "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
+        "url": "https://open.spotify.com/album/43KTTj2BtUePbWeQbhGmbM"
+      },
+      "artists": [
+        {
+          "name": "yowoon",
+          "url": "https://open.spotify.com/artist/05Sc4rR9HIhRZrszKwynLk"
+        },
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        },
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
+      "url": "https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug"
+    },
+    {
+      "album": {
         "name": "Is you",
         "url": "https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1"
       },
@@ -3848,7 +3910,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 138225,
       "name": "It is what it is...",
       "url": "https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2"
@@ -4499,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Love as much as you can",
+        "url": "https://open.spotify.com/album/4E1EiIC42wfeuxeei2u7GF"
+      },
+      "artists": [
+        {
+          "name": "PARK HAE WON",
+          "url": "https://open.spotify.com/artist/0to2hcxkSnDl5Td9jEkzel"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269166,
+      "name": "Love as much as you can",
+      "url": "https://open.spotify.com/track/57WU98fXrRDWzLvTP5Iy43"
+    },
+    {
+      "album": {
         "name": "Love is Strange (2024 Ver.)",
         "url": "https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5"
       },
@@ -4658,7 +4738,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 257986,
       "name": "Loveless Night",
       "url": "https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB"
@@ -6942,7 +7022,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"

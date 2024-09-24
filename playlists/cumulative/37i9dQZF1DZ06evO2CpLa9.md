@@ -2,7 +2,7 @@
 
 ### [This Is Santa Fe Klan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CpLa9)
 
-> This is Santa Fe Klan\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Santa Fe Klan\. Los temas esenciales, todos en una lista.
 
 71 songs - 4 hr 27 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Troye Sivan, Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,588 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,630 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 69 | [LIKE A DAWG](https://open.spotify.com/track/3TLfrZEPkRaV42OMuysuiE) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [LIKE A DAWG](https://open.spotify.com/album/5YDGqVOCWWtMGSbsHstmIo) | 2:42 |
 | 70 | [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 4:38 |
 
-Snapshot ID: `ZuwuYAAAAACuPS2TMCLvvaSblbtEyIex`
+Snapshot ID: `ZuwuYAAAAADtNrFEZundPZ1s5zqJ5eIU`

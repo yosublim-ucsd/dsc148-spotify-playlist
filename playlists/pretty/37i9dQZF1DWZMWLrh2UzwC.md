@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,703 likes - 114 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,708 likes - 114 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

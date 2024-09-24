@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 252224,
+  "num_followers": 252276,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAABh3bMa5aB6SrnBxVbRnE/8",
+  "snapshot_id": "Zu9eAAAAAADLHKbJWRjveI3aoeR+GIJ0",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 355040,
+      "name": "The Antikythera Mechanism",
+      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Day Of...",
         "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 273573,
       "name": "The Day Of...",
       "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Yesterwynde",
-      "url": "https://open.spotify.com/track/576svYvAzVV0uzfxMrZaOD"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Yesterwynde",
+      "url": "https://open.spotify.com/track/576svYvAzVV0uzfxMrZaOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 289009,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 355040,
-      "name": "The Antikythera Mechanism",
-      "url": "https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Century Child",
-        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "End Of All Hope",
-      "url": "https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -315,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+        "name": "Century Child",
+        "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+      "duration_ms": 233800,
+      "name": "End Of All Hope",
+      "url": "https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 302266,
-      "name": "Over The Hills And Far Away",
-      "url": "https://open.spotify.com/track/7xgQ0KuuTmKu3pQ4Tn85p7"
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 263560,
       "name": "Sway",
       "url": "https://open.spotify.com/track/3UG048BsyKH9MfqPgTpyzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Over The Hills And Far Away",
+        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 302266,
+      "name": "Over The Hills And Far Away",
+      "url": "https://open.spotify.com/track/7xgQ0KuuTmKu3pQ4Tn85p7"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Wishmaster",
-      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 399546,
       "name": "Something Whispered Follow Me",
       "url": "https://open.spotify.com/track/42vCgooTTrjJN3Rtz1MW8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Wishmaster",
+      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
     },
     {
       "added_at": null,
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 278760,
-      "name": "Planet Hell",
-      "url": "https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 319025,
-      "name": "Shoemaker",
-      "url": "https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v"
+      "duration_ms": 602080,
+      "name": "Ghost Love Score",
+      "url": "https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 386266,
       "name": "Spider Silk",
       "url": "https://open.spotify.com/track/2nV6SKSccjYc8SB4hUFUmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 319025,
+      "name": "Shoemaker",
+      "url": "https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 602080,
-      "name": "Ghost Love Score",
-      "url": "https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy"
+      "duration_ms": 278760,
+      "name": "Planet Hell",
+      "url": "https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 259120,
+      "name": "Turn Loose the Mermaids",
+      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Turn Loose the Mermaids",
-      "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over The Hills And Far Away",
-        "url": "https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 320733,
-      "name": "10th Man Down",
-      "url": "https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME"
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,

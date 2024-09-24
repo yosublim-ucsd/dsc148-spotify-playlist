@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo, Big One & Emanero.",
-  "num_followers": 1162044,
+  "num_followers": 1162036,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
+        "name": "Amor de Vago",
+        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 188423,
+      "name": "Amor de Vago",
+      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
-        "name": "Amor de Vago",
-        "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "Amor de Vago",
-      "url": "https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Me cont\u00f3 un pajarito",
-        "url": "https://open.spotify.com/album/3Ys048QukYZMG2eopoRrEX"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        }
-      ],
-      "duration_ms": 125210,
-      "name": "Me cont\u00f3 un pajarito",
-      "url": "https://open.spotify.com/track/77rUZmUBYdHKRlicQcRG5g"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -1079,22 +1047,34 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
+        "name": "Me cont\u00f3 un pajarito",
+        "url": "https://open.spotify.com/album/3Ys048QukYZMG2eopoRrEX"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        }
+      ],
+      "duration_ms": 125210,
+      "name": "Me cont\u00f3 un pajarito",
+      "url": "https://open.spotify.com/track/77rUZmUBYdHKRlicQcRG5g"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -1111,6 +1091,26 @@
       "duration_ms": 195274,
       "name": "Cuando Se Pone a Bailar",
       "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -1203,30 +1203,30 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Una Noche Contigo (Remix)",
-        "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
+        "name": "Quiero Verte Bailar (Remix)",
+        "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
         },
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         },
         {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
         },
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Una Noche Contigo - Remix",
-      "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
+      "duration_ms": 197142,
+      "name": "Quiero Verte Bailar (Remix)",
+      "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -1271,34 +1271,6 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Quiero Verte Bailar (Remix)",
-        "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
-      },
-      "artists": [
-        {
-          "name": "VI-EM",
-          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
-        },
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        },
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Quiero Verte Bailar (Remix)",
-      "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
+        "name": "Una Noche Contigo (Remix)",
+        "url": "https://open.spotify.com/album/6pmDtvsP7z9oqgSxgBVR8y"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Una Noche Contigo - Remix",
+      "url": "https://open.spotify.com/track/0Xbz33Mggb4NV2A1vabjJx"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
+        "name": "ELEUSECA",
+        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "ELEUSECA",
+      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
-        "name": "ELEUSECA",
-        "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "ELEUSECA",
-      "url": "https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "Quedamos solo amigos",
-        "url": "https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 160610,
-      "name": "Quedamos solo amigos",
-      "url": "https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX"
-    },
-    {
-      "added_at": "2024-09-19 17:36:54",
-      "album": {
         "name": "Piel a Piel",
         "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 155350,
       "name": "Piel a Piel",
       "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
+    },
+    {
+      "added_at": "2024-09-19 17:36:54",
+      "album": {
+        "name": "Quedamos solo amigos",
+        "url": "https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 160610,
+      "name": "Quedamos solo amigos",
+      "url": "https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX"
     },
     {
       "added_at": "2024-09-19 17:36:54",
@@ -2015,30 +2015,18 @@
     {
       "added_at": "2024-09-19 17:36:54",
       "album": {
-        "name": "TIT\u00c1N RMX",
-        "url": "https://open.spotify.com/album/2j4F4W3z0k2E0kx1gsQ1Fr"
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 269662,
-      "name": "TIT\u00c1N RMX",
-      "url": "https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut"
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

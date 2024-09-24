@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,013 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,021 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 82 | [Shadowplay](https://open.spotify.com/track/6XYEalTsDDhBPwloPJP7fy) | [Loud Love](https://open.spotify.com/artist/5kYa99ELpGj3PaOYI9YwHp) | [Bright Shadows](https://open.spotify.com/album/2nrBh3k6ZQLWS6rC0YQ5JM) | 2:02 |
 | 83 | [Soleil](https://open.spotify.com/track/2Rkl9fBgBpxxhfUlCGsSJW) | [Naomi Aguilera](https://open.spotify.com/artist/1C9JdiobtnE0jht0I6g9uI) | [Soleil](https://open.spotify.com/album/0AKqQAsMpvhYJ1hWsKUWF0) | 3:41 |
 | 84 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
-| 85 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 |
-| 86 | [Westside \- Remix](https://open.spotify.com/track/4rlBhJR3jtIqEfATUnrRAx) | [Grisha](https://open.spotify.com/artist/1wtfTxSVfd2eRJqW2bBguo), [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP) | [Westside \- Remix](https://open.spotify.com/album/2IJ5SInX3FLHokhStx4IOb) | 2:19 |
-| 87 | [Freedom](https://open.spotify.com/track/1zZI6aSfgNjczQWZj3fSNy) | [Kunginho](https://open.spotify.com/artist/6HOWAImZuRFCX4ndszzj8M) | [L'Élu](https://open.spotify.com/album/1nD8BCTsjmK6MtnMiJw6U7) | 4:09 |
-| 88 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 |
-| 89 | [Fallin In Love](https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Fallin In Love](https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl) | 3:23 |
-| 90 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 |
+| 85 | [Westside \- Remix](https://open.spotify.com/track/4rlBhJR3jtIqEfATUnrRAx) | [Grisha](https://open.spotify.com/artist/1wtfTxSVfd2eRJqW2bBguo), [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP) | [Westside \- Remix](https://open.spotify.com/album/2IJ5SInX3FLHokhStx4IOb) | 2:19 |
+| 86 | [Freedom](https://open.spotify.com/track/1zZI6aSfgNjczQWZj3fSNy) | [Kunginho](https://open.spotify.com/artist/6HOWAImZuRFCX4ndszzj8M) | [L'Élu](https://open.spotify.com/album/1nD8BCTsjmK6MtnMiJw6U7) | 4:09 |
+| 87 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 |
+| 88 | [Fallin In Love](https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Fallin In Love](https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl) | 3:23 |
+| 89 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 |
 
-Snapshot ID: `Zuye4AAAAAAWoLuYnT8hNd1E1y+CifNU`
+Snapshot ID: `ZvEgcwAAAACJabbBdSihXw0jl4LidGSJ`

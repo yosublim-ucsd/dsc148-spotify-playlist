@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: SOPHIE",
-  "num_followers": 31965,
+  "num_followers": 31961,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
+        "name": "Head Start",
+        "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Malfoy",
+          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
+        }
+      ],
+      "duration_ms": 184717,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/6RhqGeeaTAFs5zUSNm5jr9"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
         "name": "My Soft Machine (Deluxe)",
         "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
-        "name": "Head Start",
-        "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Malfoy",
-          "url": "https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH"
-        }
-      ],
-      "duration_ms": 184717,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/6RhqGeeaTAFs5zUSNm5jr9"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "You Lucky One",
         "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 294851,
       "name": "You Lucky One",
       "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "added_at": "2024-09-09 23:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-09 23:00:00",
       "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "Sad Girl Summer",
-      "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
-    },
-    {
-      "added_at": "2024-09-09 23:00:00",
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 276602,
       "name": "Liar (Re: Romy)",
       "url": "https://open.spotify.com/track/6eiY2tu7EKFVGf2ZyCD1wy"
+    },
+    {
+      "added_at": "2024-09-09 23:00:00",
+      "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/66xT802jNExU9nMii68YnZ"
     },
     {
       "added_at": "2024-09-09 23:00:00",

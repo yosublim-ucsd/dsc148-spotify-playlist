@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Sep 16:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Sep 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 128052,
       "name": "a song for you",
       "url": "https://open.spotify.com/track/4GThIlx5ld3vH7wB6kzjS9"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 108314,
       "name": "Adult Swim",
       "url": "https://open.spotify.com/track/0aVG3mmGxMBKpOXG86kfyK"
@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Algorithm (Eng Ver.)",
+        "url": "https://open.spotify.com/album/2ll1Xywddas3VzGcQVo35S"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Algorithm - Eng Ver.",
+      "url": "https://open.spotify.com/track/219BWYqAdlhbNp9wHpXUkL"
+    },
+    {
+      "album": {
         "name": "Alimony",
         "url": "https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf"
       },
@@ -1812,6 +1830,24 @@
       "duration_ms": 228202,
       "name": "All Kind Of Ideas",
       "url": "https://open.spotify.com/track/5HyTW0c0Op3NspGNNYmSO3"
+    },
+    {
+      "album": {
+        "name": "All My Freaks",
+        "url": "https://open.spotify.com/album/5nKeAjFQwW4os6jxKOkv1E"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181315,
+      "name": "All My Freaks",
+      "url": "https://open.spotify.com/track/0zuMZmRQBp65CNS6WfzEYl"
     },
     {
       "album": {
@@ -6152,7 +6188,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 259799,
       "name": "Brittle Bones Nicky 3",
       "url": "https://open.spotify.com/track/6eKgL6oLpgISyX2aCQvwJy"
@@ -6174,6 +6210,28 @@
       "duration_ms": 166523,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
+    },
+    {
+      "album": {
+        "name": "Broke The Mold",
+        "url": "https://open.spotify.com/album/3hDize2RnZYMy3vzz0REdA"
+      },
+      "artists": [
+        {
+          "name": "RiTchie",
+          "url": "https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z"
+        },
+        {
+          "name": "FearDorian",
+          "url": "https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126424,
+      "name": "Broke The Mold",
+      "url": "https://open.spotify.com/track/4pfcaGWw4zlkDTTBJfEYYF"
     },
     {
       "album": {
@@ -11882,7 +11940,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 177230,
       "name": "Duckin No Action",
       "url": "https://open.spotify.com/track/6U4Ht0Cs5V5P0XAoOxR0yq"
@@ -21849,6 +21907,24 @@
     },
     {
       "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/0Ctct2JQ8BNLC6t82wz8bR"
+      },
+      "artists": [
+        {
+          "name": "The Crying Nudes",
+          "url": "https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/0UWX9IHs29vm1odEcn4Asd"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/2mwSpaRVD9ydJTxZsOwfBQ"
       },
@@ -21864,7 +21940,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 191940,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/62oaEEnxaWDIKbRA3y0H1M"
@@ -23888,7 +23964,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
@@ -25216,7 +25292,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 257142,
       "name": "Mailly",
       "url": "https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04"
@@ -25624,6 +25700,24 @@
       "duration_ms": 218954,
       "name": "Massachusetts",
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
+    },
+    {
+      "album": {
+        "name": "Masturbating in a Coffin",
+        "url": "https://open.spotify.com/album/0Hz2oqcPZ866m8nOK2fwKK"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Masturbating in a Coffin",
+      "url": "https://open.spotify.com/track/4Z6pFbLItqF29YFGb0F67q"
     },
     {
       "album": {
@@ -34260,7 +34354,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 193684,
       "name": "Same Type",
       "url": "https://open.spotify.com/track/3T9oIgErL5Xc7ctroWG77Y"
@@ -36116,6 +36210,24 @@
       "duration_ms": 150620,
       "name": "SLS",
       "url": "https://open.spotify.com/track/6poRnCH1N2fwpreGWFlvGJ"
+    },
+    {
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180850,
+      "name": "Slugger",
+      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
     },
     {
       "album": {
@@ -46463,6 +46575,32 @@
     },
     {
       "album": {
+        "name": "Z\u0142ota Polska Jesie\u0144",
+        "url": "https://open.spotify.com/album/0WGfNpBxYHL3q8xGMa2XTu"
+      },
+      "artists": [
+        {
+          "name": "Franek Warzywa",
+          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
+        },
+        {
+          "name": "M\u0142ody Budda",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        },
+        {
+          "name": "POLA NUDA",
+          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Z\u0142ota Polska Jesie\u0144",
+      "url": "https://open.spotify.com/track/5QKdPOV1zCyWJ5EAcH7UuW"
+    },
+    {
+      "album": {
         "name": "\u00a73",
         "url": "https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt"
       },
@@ -46894,6 +47032,24 @@
       "duration_ms": 118947,
       "name": "\u0425\u041f",
       "url": "https://open.spotify.com/track/28HmyDAbM5TjxwCBO2kEav"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
+        "url": "https://open.spotify.com/album/2PgfddpUmMlUjF8J5UUvD1"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214617,
+      "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
+      "url": "https://open.spotify.com/track/6AkV52ZIcHEVNxJUGpHVL3"
     },
     {
       "album": {

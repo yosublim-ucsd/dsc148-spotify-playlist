@@ -6197,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "Like Rain",
+        "url": "https://open.spotify.com/album/6NLgMBrfFOymoRQr560dmy"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Like Rain",
+      "url": "https://open.spotify.com/track/5CAhPF67F9jxoNsASa48Lq"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG"
       },
@@ -9778,6 +9796,28 @@
       "duration_ms": 170602,
       "name": "Signs",
       "url": "https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ"
+      },
+      "artists": [
+        {
+          "name": "Extra Terra",
+          "url": "https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU"
+        },
+        {
+          "name": "N3b",
+          "url": "https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
     },
     {
       "album": {

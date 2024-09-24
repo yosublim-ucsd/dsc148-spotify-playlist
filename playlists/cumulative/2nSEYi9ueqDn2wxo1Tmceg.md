@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ">Porches</a>
 
-1,065 songs - 3 day 1 hr 4 min
+1,066 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 | 2023-02-16 |
 | [Sky Hook](https://open.spotify.com/track/5nZTYnKo1ugzmtP7EHfOWr) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Guiro EP](https://open.spotify.com/album/0Mh3tPpe3iGnbTjUAXMIxt) | 5:13 | 2023-11-01 | 2023-12-07 |
 | [Slightly Shaking Cells](https://open.spotify.com/track/3ttLpQ2Jsfn8fgwViPKMjC) | [Pozi](https://open.spotify.com/artist/0i1dJNVY6kGU5lUzmwXNhS) | [Smiling Pools](https://open.spotify.com/album/0AOqmNJlKmpoq06wiSk7IO) | 3:28 | 2023-05-24 | 2023-07-06 |
+| [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 | 2024-09-23 |  |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-07-12 | 2023-08-31 |
 | [Smile Please](https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Smile Please](https://open.spotify.com/album/7ICcPNtiYMD2teS4rFClhS) | 2:15 | 2023-05-03 | 2023-06-15 |
 | [So Low \- Live at Empty Bottle](https://open.spotify.com/track/3GOwLkxgL3RejeRIDJ99iS) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Eloise / So Low \(Live at Empty Bottle\)](https://open.spotify.com/album/4ieAv54Yt9MDu3m2villx2) | 3:19 | 2024-05-15 | 2024-06-13 |

@@ -2,9 +2,9 @@
 
 ### [This Is G Herbo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rtuJW)
 
-> This is G Herbo\. The essential tracks, all in one playlist.
+> This is G Herbo\. Todos os maiores hits em uma só playlist.
 
-134 songs - 6 hr 40 min
+135 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Everyday](https://open.spotify.com/track/6ap34UKRf5aCSvrryCUZSv) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 1:57 | 2023-04-30 | 2023-05-27 |
 | [Everything](https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 2:41 | 2022-10-28 | 2024-05-03 |
 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 | 2022-10-28 |  |
+| [FASHO](https://open.spotify.com/track/3VPad6p3YPcZW6s7K00yUZ) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [THA STREETS VOL 1](https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr) | 2:45 | 2024-09-24 |  |
 | [FASHO](https://open.spotify.com/track/3nRF4GMXhR76qgxNNdVMbB) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FASHO](https://open.spotify.com/album/3czDNbQY3T12tazXEzn5JQ) | 2:45 | 2024-06-03 | 2024-08-18 |
 | [Feel This](https://open.spotify.com/track/2XZu4fjdBW6NuLUCsBMy9M) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:54 | 2023-05-24 | 2023-11-11 |
 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 | 2022-10-28 | 2023-03-25 |
@@ -58,7 +59,7 @@
 | [History](https://open.spotify.com/track/1NGOnyxsMjFJ2TOttcjMQV) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:46 | 2022-10-28 | 2022-12-05 |
 | [hmm…BD](https://open.spotify.com/track/0BJxFuVQIxaeAezRErWGHr) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [hmm…BD](https://open.spotify.com/album/04sMVbbQ24aeuHtIaplR8z) | 2:59 | 2024-07-08 | 2024-09-11 |
 | [Honestly \(feat\. Juice WRLD\)](https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:34 | 2022-10-28 |  |
-| [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 | 2022-10-28 |  |
+| [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 | 2022-10-28 | 2024-09-24 |
 | [Hot Summer \(feat\. G Herbo\)](https://open.spotify.com/track/66F8wUZW98EOg0CfSa6ILI) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:57 | 2022-10-28 | 2022-12-02 |
 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/5ybvTSA7a1w5ARhT2wpP4O) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:22 | 2022-10-28 | 2022-11-11 |
 | [idk that bitch \(feat\. G Herbo\)](https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:30 | 2022-10-28 |  |

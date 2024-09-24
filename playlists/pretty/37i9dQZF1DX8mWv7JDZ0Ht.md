@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gilsons, Ferrugem
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,252 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,242 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 63 | [Visível](https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Visível](https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO) | 2:25 |
 | 64 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
 | 65 | [Coisa Rara](https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Coisa Rara](https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn) | 2:45 |
-| 66 | [o que seria se...](https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [o que seria se...](https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH) | 2:26 |
-| 67 | [Tão Bom](https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:25 |
+| 66 | [Tão Bom](https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:25 |
+| 67 | [o que seria se...](https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [o que seria se...](https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH) | 2:26 |
 | 68 | [Caetano](https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Caetano](https://open.spotify.com/album/2sXrM5agNPq05PLg8JaiKM) | 3:22 |
 | 69 | [Mar Manso](https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Mar Manso](https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki) | 3:09 |
 | 70 | [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 |

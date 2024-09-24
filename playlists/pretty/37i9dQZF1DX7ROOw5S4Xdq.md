@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,750 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,763 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Se Lembre \- Ao Vivo](https://open.spotify.com/track/7zsEf3F7p7rPfDKxNpIlYH) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [Se Lembre \(Ao Vivo\)](https://open.spotify.com/album/7CC1TaHId34gXLiCzdbk5m) | 3:23 |
 | 50 | [Profetizar \- Ao Vivo](https://open.spotify.com/track/2YR70Y7Hr3aYWdiqx0hLtm) | [M3MA Music](https://open.spotify.com/artist/3ai65DpDE3gdzlFXTuIsIe) | [Profetizar \(Ao Vivo\)](https://open.spotify.com/album/3jkCXJxk6MuMoZ1LFjDRVK) | 4:35 |
 
-Snapshot ID: `ZuzlbAAAAAChCxYRcC0Ds6UCi7SIcBbu`
+Snapshot ID: `ZuzlbAAAAABgf+WCA3jiFpuM/yFmWwjK`

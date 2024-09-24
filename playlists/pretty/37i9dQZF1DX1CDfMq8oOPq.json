@@ -1,6 +1,6 @@
 {
   "description": "calma malvadeza \ud83d\udc40 \ud83d\ude30",
-  "num_followers": 57180,
+  "num_followers": 57216,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,50 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Verdinha Criminosa",
+        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Hug\u00e3o",
+          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "Verdinha Criminosa",
+      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "TROPA",
         "url": "https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS"
       },
@@ -823,50 +867,6 @@
       "duration_ms": 182400,
       "name": "Flores",
       "url": "https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Verdinha Criminosa",
-        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
-      },
-      "artists": [
-        {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
-        },
-        {
-          "name": "Hug\u00e3o",
-          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
-        },
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
-        }
-      ],
-      "duration_ms": 159516,
-      "name": "Verdinha Criminosa",
-      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
     },
     {
       "added_at": "2024-09-13 03:01:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This is Billy Paul\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Billy Paul\. Todos os maiores hits em uma só playlist.
 
 78 songs - 6 hr 27 min
 

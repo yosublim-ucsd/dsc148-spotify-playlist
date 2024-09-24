@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Luan Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,728,029 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,728,149 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Cabelo Loiro \(F&J 10 Anos\) \- Ao Vivo](https://open.spotify.com/track/2Qx8g3zoHsi0GvtYCCAFAT) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Cabelo Loiro \(F&J 10 Anos\) \[Ao Vivo\]](https://open.spotify.com/album/3pOoU8C3ThxBi1mdnNiazx) | 2:56 |
 | 50 | [Amor Não Dá Em Copo \- Ao Vivo](https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Amor Não Dá Em Copo \(Ao Vivo\)](https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl) | 2:49 |
 
-Snapshot ID: `Zuzl5AAAAADqptsuVRiVpMzx0xKZS3z2`
+Snapshot ID: `Zuzl5AAAAABeCoMpwmNJOjeStUwYRODB`

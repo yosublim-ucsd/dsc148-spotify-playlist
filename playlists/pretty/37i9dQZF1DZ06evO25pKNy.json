@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Hijos De Garcia. Tutti i brani in un'unica playlist.",
-  "num_followers": 5116,
+  "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
+  "num_followers": 5117,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADlzcbNktcvvcSpotsubTjo",
+  "snapshot_id": "Zu9eAAAAAADQg4HZX73942rkrKHsW0iz",
   "tracks": [
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fracasado",
-        "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
+        "name": "Historia Personal",
+        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 165035,
-      "name": "El Fracasado",
-      "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
+      "duration_ms": 261002,
+      "name": "Historia Personal",
+      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia Personal",
-        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
+        "name": "El Fracasado",
+        "url": "https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 261002,
-      "name": "Historia Personal",
-      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
+      "duration_ms": 165035,
+      "name": "El Fracasado",
+      "url": "https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT"
     },
     {
       "added_at": null,

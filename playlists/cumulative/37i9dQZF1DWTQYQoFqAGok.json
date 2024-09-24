@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 352952,
       "name": "En Cualquier Momento",
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
@@ -1576,6 +1576,24 @@
       "duration_ms": 336586,
       "name": "Paq-Man",
       "url": "https://open.spotify.com/track/3cRDVtteYW537cdLCxkoMF"
+    },
+    {
+      "album": {
+        "name": "Eugenio Toussaint Trio: Oinos - Musica Para Beber Vino (Music To Enjoy Wine)",
+        "url": "https://open.spotify.com/album/1O9vgJ3kfT0a8kOaP2vJuq"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Toussaint Trio",
+          "url": "https://open.spotify.com/artist/4wZez3y034S80LmKJ3ykOW"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390080,
+      "name": "Pinot noir",
+      "url": "https://open.spotify.com/track/457xW1Wa1Tzp98BbX3ykku"
     },
     {
       "album": {

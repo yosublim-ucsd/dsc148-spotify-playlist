@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,904 likes - 53 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,983 likes - 53 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/track/57ciWTOKgrXVBxktMJyUB1) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pose \(feat\. Megan Thee Stallion & Lil Uzi Vert\)](https://open.spotify.com/album/3VEC69yVh8w9R4Rk8aMliW) | 3:46 |
 | 53 | [Big Booty \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Woptober II](https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU) | 2:08 |
 
-Snapshot ID: `Zu4MgAAAAAB1b2+iqvQZCryVGOGIK5S5`
+Snapshot ID: `Zu9eAAAAAACHgVVjZ3RLK0TOtQwqZYXe`

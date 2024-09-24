@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 17920,
+  "num_followers": 17928,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAB+2bwAp4ScBg8LVHp2gw/+",
+  "snapshot_id": "Zu9eAAAAAAD9Eu8cUGpnR3vLZoDqfqj0",
   "tracks": [
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einstein",
-        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
+        "name": "swag it! (Remix)",
+        "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
       },
       "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 135744,
-      "name": "Einstein",
-      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
+      "duration_ms": 191526,
+      "name": "swag it! - Remix",
+      "url": "https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja"
     },
     {
       "added_at": null,
@@ -895,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "swag it! (Remix)",
-        "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
+        "name": "Einstein",
+        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
       },
       "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 191526,
-      "name": "swag it! - Remix",
-      "url": "https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja"
+      "duration_ms": 135744,
+      "name": "Einstein",
+      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
     },
     {
       "added_at": null,

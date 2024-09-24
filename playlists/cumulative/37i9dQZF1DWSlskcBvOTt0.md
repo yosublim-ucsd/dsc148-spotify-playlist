@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-745 songs - 2 day 19 hr 15 min
+746 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 | 2023-12-30 |
 | [Destination Lost](https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Destination Lost](https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0) | 3:39 | 2024-05-17 |  |
 | [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 | 2023-11-11 |
-| [DIKEBO \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d) | [CISUMMI](https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [DIKEBO](https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI) | 5:34 | 2024-03-08 |  |
+| [DIKEBO \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d) | [CISUMMI](https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [DIKEBO](https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI) | 5:34 | 2024-03-08 | 2024-09-24 |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 | 2024-04-19 |
 | [Disappear \- Andrea Oliva Remix](https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Disappear \(Andrea Oliva Remix\)](https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7) | 3:32 | 2023-03-10 | 2024-03-27 |
 | [Disco Voador \- Single Edit](https://open.spotify.com/track/6XuVgxaYTtaeTspOSgnoIW) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Disco Voador & Depois](https://open.spotify.com/album/1SfGQplxlHE1J1pid0VkNR) | 5:27 | 2021-08-06 | 2022-07-29 |
@@ -614,6 +614,7 @@
 | [Somebody \- Edit](https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Somebody \(Edit\)](https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj) | 3:43 | 2023-11-03 | 2024-04-19 |
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-05-24 | 2023-11-05 |
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
+| [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-09-20 |  |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-10 | 2023-04-10 |
 | [Spirale](https://open.spotify.com/track/1NTl2IqpGs7iwKo2fl4boF) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Spirale](https://open.spotify.com/album/2NcaYhLVadAjKpD2DKlYHb) | 6:48 | 2021-04-21 | 2022-07-21 |
 | [Square Sounds](https://open.spotify.com/track/1oG7I9AOjU2aYmrbNirfJB) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Square Sounds](https://open.spotify.com/album/2lUgwsssbuopFPQNnZ3xhG) | 6:26 | 2022-07-01 | 2022-07-23 |

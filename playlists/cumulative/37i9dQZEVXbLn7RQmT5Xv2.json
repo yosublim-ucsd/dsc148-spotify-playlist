@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 189474,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/1rbTrWXSIPfJmYUUptlUhD"
@@ -1148,6 +1148,24 @@
       "duration_ms": 189474,
       "name": "Ana Meen",
       "url": "https://open.spotify.com/track/6W71HKb8szXCWhtS5rIhdL"
+    },
+    {
+      "album": {
+        "name": "Ana Meen",
+        "url": "https://open.spotify.com/album/4AqGKM28CecPAnMpZ1Tgj2"
+      },
+      "artists": [
+        {
+          "name": "\u0632\u0627\u062f",
+          "url": "https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189567,
+      "name": "Ana Meen",
+      "url": "https://open.spotify.com/track/5LcThJzvvRzOZZb4apH9Px"
     },
     {
       "album": {
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 158586,
       "name": "El Mabda2",
       "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
@@ -7400,7 +7418,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 227053,
       "name": "Mahzouz",
       "url": "https://open.spotify.com/track/2fNGw4weCNtNiP58znlTve"
@@ -14216,7 +14234,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 186749,
       "name": "\u0627\u0648\u0644 \u0642\u0641\u0627 \u064a\u0627 \u0628\u0631\u0648\u0633\u0644\u064a ( \u062e\u0645\u0633\u0647 \u0639\u0644\u064a\u0646\u0627 \u0645\u0646 \u0639\u064a\u0646\u0643\u0648 )",
       "url": "https://open.spotify.com/track/75aiWGFwPn6LiYoKJz5H8f"
@@ -14690,7 +14708,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"

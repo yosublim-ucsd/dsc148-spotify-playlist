@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: All Time Low & I Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,240 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,942 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Figure It Out](https://open.spotify.com/track/0kHwIt7dkmfyaGypOdJy16) | [The Sooks](https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj) | [Oyster Boy](https://open.spotify.com/album/5njP3jDX4Muqrz6I7smGR7) | 2:52 |
 | 50 | [not ur bitch](https://open.spotify.com/track/4iINdMihS8BH7OW2XDBx7J) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [not ur bitch](https://open.spotify.com/album/1LBpCcJeY72WC4O1uuozAm) | 2:18 |
 
-Snapshot ID: `Zu1qiAAAAACd6+zBfshWw3rYstkEY2mv`
+Snapshot ID: `Zu1qiAAAAACcdfgOuveaJEu+BH/HrFt+`

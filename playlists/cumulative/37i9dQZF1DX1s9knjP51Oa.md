@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-801 songs - 1 day 10 hr 22 min
+802 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-18 | 2024-01-03 |
 | [A Time Long Ago](https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [A Time Long Ago](https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj) | 2:15 | 2023-05-09 |  |
 | [a wild place](https://open.spotify.com/track/2UJttBzaAe8bCjuNSIi35b) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [a wild place](https://open.spotify.com/album/7jtVVSZJFsOQ016fmO7Dbr) | 2:06 | 2023-04-03 | 2023-06-27 |
+| [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-23 |  |
 | [Abode](https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Abode](https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr) | 2:29 | 2022-09-23 | 2024-01-03 |
 | [Ache](https://open.spotify.com/track/4dd7mReOYiKAYjAEkNUTLD) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Ache](https://open.spotify.com/album/32HmaNE93uxhghyiJFIZmP) | 2:24 | 2021-12-13 | 2022-10-14 |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-20 | 2024-02-13 |
@@ -707,7 +708,7 @@
 | [The Woman Who Sat On A Shelf](https://open.spotify.com/track/7A13EdjItdR8H8stkIwJ77) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Roar: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/56T17eSb3ZEPT39FaxRKkQ) | 3:57 | 2022-04-21 | 2022-09-13 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-27 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-13 | 2022-10-25 |
-| [Thoughts From Above](https://open.spotify.com/track/7kaE0yge2zcyQn1SA6Ectq) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts From Above](https://open.spotify.com/album/3vzfmFLNTzqJatPJbAu3ch) | 2:11 | 2023-01-20 |  |
+| [Thoughts From Above](https://open.spotify.com/track/7kaE0yge2zcyQn1SA6Ectq) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts From Above](https://open.spotify.com/album/3vzfmFLNTzqJatPJbAu3ch) | 2:11 | 2023-01-20 | 2024-09-24 |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2021-12-13 | 2022-09-13 |
 | [Time And Space](https://open.spotify.com/track/07ejQhAKkyJ0suOIuXsZjF) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Time And Space](https://open.spotify.com/album/5heWRSlZGM5hMAJodtKMlz) | 2:12 | 2022-08-29 | 2024-01-03 |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-13 | 2022-03-18 |

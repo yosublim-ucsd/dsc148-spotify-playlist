@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125792,
+  "num_followers": 125787,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATBct2t5RsK9v2nGZNuwKrd8pSXhxE",
+  "snapshot_id": "AAATB+Hgf7z1qzSz6NbxYJUTVj1i6lW4",
   "tracks": [
+    {
+      "added_at": "2024-09-23 14:01:28",
+      "album": {
+        "name": "Who's Laughing Now - A Hundred Drums Remix",
+        "url": "https://open.spotify.com/album/31SK5QOjF2DhFBXAsSznBf"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Who's Laughing Now - A Hundred Drums Remix",
+      "url": "https://open.spotify.com/track/39XzfK4wI5C16ou4HRiCmu"
+    },
     {
       "added_at": "2024-09-20 14:35:45",
       "album": {
@@ -1171,22 +1195,6 @@
       "duration_ms": 190500,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/1KJKFTpQPWpwNxuk9XuXyG"
-    },
-    {
-      "added_at": "2024-07-02 09:36:16",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/07DHgHAJ20535Or6I2vcL2"
-      },
-      "artists": [
-        {
-          "name": "VESK GREEN",
-          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

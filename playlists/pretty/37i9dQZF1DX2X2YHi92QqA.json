@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31636,
+  "num_followers": 31654,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "Chasing My Happiness",
-        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
-      },
-      "artists": [
-        {
-          "name": "DEMCHUK",
-          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Chasing My Happiness",
-      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
         "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
+        "name": "Chasing My Happiness",
+        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
       },
       "artists": [
         {
-          "name": "TUMAZAR",
-          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
         }
       ],
-      "duration_ms": 218571,
-      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
+      "duration_ms": 126538,
+      "name": "Chasing My Happiness",
+      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -695,6 +679,22 @@
       "duration_ms": 183529,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
+      },
+      "artists": [
+        {
+          "name": "TUMAZAR",
+          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
-      },
-      "artists": [
-        {
-          "name": "Krechet",
-          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
-      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
         "url": "https://open.spotify.com/album/0gC71CH1y6T9aC9tgPK5gD"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 140000,
       "name": "\u041a\u0440\u0430\u043f\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/25xuio7k2QCnvFiiEObfIR"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e"
+      },
+      "artists": [
+        {
+          "name": "Krechet",
+          "url": "https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "\u0412\u0430\u0440\u0442\u043e\u0432\u0456 \u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0438",
+      "url": "https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY"
     },
     {
       "added_at": "2024-09-01 22:04:49",

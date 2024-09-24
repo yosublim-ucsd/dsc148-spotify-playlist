@@ -7221,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "Sarvasva",
+        "url": "https://open.spotify.com/album/34reXacrMBY1Us6Fxr9WGm"
+      },
+      "artists": [
+        {
+          "name": "Chetan Rao",
+          "url": "https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P"
+        },
+        {
+          "name": "Arjun Kishor Chandra",
+          "url": "https://open.spotify.com/artist/6mLU8wT3dCJP64BDTq0p4W"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244323,
+      "name": "Sarvasva",
+      "url": "https://open.spotify.com/track/6LwQiE4cRBM4YJg2nXYX6I"
+    },
+    {
+      "album": {
         "name": "Saviyada",
         "url": "https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr"
       },

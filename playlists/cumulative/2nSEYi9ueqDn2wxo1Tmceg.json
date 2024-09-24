@@ -15845,6 +15845,24 @@
     },
     {
       "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180850,
+      "name": "Slugger",
+      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
+    },
+    {
+      "album": {
         "name": "Slugs",
         "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
       },

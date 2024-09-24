@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: James Smith",
-  "num_followers": 46067,
+  "num_followers": 46068,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "pretty",
-        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 166849,
-      "name": "breath away",
-      "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
         "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 166849,
+      "name": "breath away",
+      "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     },
     {
+      "added_at": "2024-09-05 11:50:37",
+      "album": {
+        "name": "I Cried, I Wept",
+        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "I Cried, I Wept",
+      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
+    },
+    {
       "added_at": "2024-08-23 11:05:43",
       "album": {
         "name": "Kind Of Man",
@@ -867,22 +883,6 @@
       "duration_ms": 195850,
       "name": "The Alibi",
       "url": "https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL"
-    },
-    {
-      "added_at": "2024-09-05 11:50:37",
-      "album": {
-        "name": "I Cried, I Wept",
-        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "I Cried, I Wept",
-      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Happy World",
         "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 179993,
       "name": "Happy World",
       "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145742,
-      "name": "BOYS",
-      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "ur special to me",
         "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 114418,
       "name": "ur special to me",
       "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "Death & Romance",
-        "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Death & Romance",
-      "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 178588,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "Death & Romance",
+        "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 314733,
+      "name": "Death & Romance",
+      "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
     },
     {
       "added_at": "2024-08-23 11:05:43",

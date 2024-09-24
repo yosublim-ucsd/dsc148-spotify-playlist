@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:2dlCuzBPpSIeyY4ZCJBKGS">Bridge Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,013 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,053 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Holy Place](https://open.spotify.com/track/5QoqtwYfMo7Z2QqA0ztFc2) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Holy Place / Without Jesus](https://open.spotify.com/album/5miFmVxsNcCcZYG31k8xEH) | 2:54 |
 | 100 | [Bad Habit](https://open.spotify.com/track/5VU5xIJOrIeKZ0TB7jZZbP) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [OM53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [Bad Habit](https://open.spotify.com/album/42zUWnEAIrc3EuF0Iy4IuE) | 2:51 |
 
-Snapshot ID: `Zu1hkgAAAAAFtFd4DsnVTNSIr4RzXjq8`
+Snapshot ID: `Zu1hkgAAAAA4VVq3VPBxCN8p/U/ptBBI`

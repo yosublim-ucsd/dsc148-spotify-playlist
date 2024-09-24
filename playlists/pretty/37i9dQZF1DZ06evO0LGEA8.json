@@ -1,12 +1,12 @@
 {
-  "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 244941,
+  "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
+  "num_followers": 245103,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAB3W0dqwWEEbJFJnlEDwfBG",
+  "snapshot_id": "Zu9eAAAAAAA/gtNjmk2CkxqrUl+qOUlT",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 315141,
-      "name": "MI Necesidad",
-      "url": "https://open.spotify.com/track/5I6FABuflROqF98yBr3Qlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal Ejemplo, Vol. 3",
         "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 315141,
+      "name": "MI Necesidad",
+      "url": "https://open.spotify.com/track/5I6FABuflROqF98yBr3Qlz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Donde Se Pueda, Vol. 2",
         "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
       },
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 316003,
-      "name": "Si Tuviera una Fortuna",
-      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
+      "duration_ms": 345861,
+      "name": "Hasta Donde Se Pueda",
+      "url": "https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 345861,
-      "name": "Hasta Donde Se Pueda",
-      "url": "https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv"
+      "duration_ms": 316003,
+      "name": "Si Tuviera una Fortuna",
+      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 291974,
+      "name": "Alcoholizados",
+      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 291974,
-      "name": "Alcoholizados",
-      "url": "https://open.spotify.com/track/1ypmtYntwtFVW8AoQtBAOm"
     },
     {
       "added_at": null,

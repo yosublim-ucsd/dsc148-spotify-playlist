@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Celia Becks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,623 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,626 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Special K](https://open.spotify.com/track/0jsVPYRgzAFGyQAXihhZnC) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [El Virtual](https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY), [BASS.SEISMIC](https://open.spotify.com/artist/34N9ufnZMrCYjShnohtnV4), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Special K](https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK) | 2:32 |
 | 46 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
 | 47 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
-| 48 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
-| 49 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 48 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 49 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
 | 50 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 |
 
 Snapshot ID: `ZteG4AAAAABBeyEm1fo3arjx36yCP0Dh`

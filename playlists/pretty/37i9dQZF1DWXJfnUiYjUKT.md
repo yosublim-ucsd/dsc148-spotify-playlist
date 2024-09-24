@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,862 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,877 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 16 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
 | 17 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 18 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 |
-| 19 | [DON'T WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
+| 19 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
 | 20 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 |
 | 21 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 |
 | 22 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \- Spotify Singles](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 |

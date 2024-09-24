@@ -2,7 +2,7 @@
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This is Los Dos Carnales\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
 93 songs - 4 hr 47 min
 

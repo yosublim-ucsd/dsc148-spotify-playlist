@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,680 songs - 4 day 19 hr 10 min
+1,681 songs - 4 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [From Afar](https://open.spotify.com/track/688cHlgtt5R0LnUogACigR) | [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [From Afar](https://open.spotify.com/album/1H8uocRtmA5lnZf6ultY5X) | 4:58 | 2022-03-18 | 2022-04-20 |
 | [From Here](https://open.spotify.com/track/4Z1xD1Wr3EF2uqgEODVPyH) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [OWSLA Worldwide Broadcast](https://open.spotify.com/album/4fBqQQJK4TKPHTGPAzmFCC) | 3:23 | 2020-05-18 | 2020-07-03 |
 | [From the Lake](https://open.spotify.com/track/28F7jaaUO7Ft7V5YI9YzO3) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Solstice](https://open.spotify.com/album/1T5l4ODNci1whDaMCDiF7Y) | 3:28 | 2020-02-29\* | 2020-03-16 |
+| [From The Start](https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [From The Start](https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe) | 3:19 | 2024-09-20 |  |
 | [Fruit&Sun](https://open.spotify.com/track/0e8eAsgCKopyIhrSasmZwh) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [The Color of Nothing](https://open.spotify.com/album/4H0uHXcnZwYI9hcsUQ91OP) | 2:57 | 2020-10-19 | 2022-07-29 |
 | [Fruit&Sun](https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [The Color of Nothing](https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF) | 2:57 | 2022-07-01 | 2023-06-05 |
 | [Funk'd](https://open.spotify.com/track/5cfdb9Nd3wFoX5SJN8fPT6) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Manu Gonzalez](https://open.spotify.com/artist/2cFk2G62Tt8YG0MXZ8srNS) | [Funk'd](https://open.spotify.com/album/5n5HNAG3Qn99jgAPytKorB) | 7:27 | 2020-05-22 | 2020-07-03 |
@@ -1158,7 +1159,7 @@
 | [Photograph](https://open.spotify.com/track/1KCcvAYh4blypKDA575DFk) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 4:44 | 2020-03-19 | 2022-01-05 |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2020-05-18 | 2020-10-09 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-26 | 2022-09-10 |
-| [Pieces](https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Pieces](https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC) | 4:17 | 2024-04-05 |  |
+| [Pieces](https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Pieces](https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC) | 4:17 | 2024-04-05 | 2024-09-24 |
 | [Pipi Dormir](https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Pipi Dormir](https://open.spotify.com/album/38FvCoA5CE5mO9PY7CHqtU) | 6:34 | 2023-10-20 |  |
 | [Places](https://open.spotify.com/track/1FxZblJPTjTl7SWSOwdmBk) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Places](https://open.spotify.com/album/4f941DhLsNiB6DsqOojyhY) | 3:05 | 2021-03-19 | 2022-04-23 |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-19 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: Cinderella at 2AM(\uc0c8\ubcbd 2\uc2dc\uc758 \uc2e0\ub370\ub810\ub77c)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: Love Next Door(\uc5c4\ub9c8\uce5c\uad6c\uc544\ub4e4)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "Korean OSTs",
   "tracks": [
     {
@@ -2240,6 +2240,24 @@
       "duration_ms": 242363,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1uj92PjmEBcyTb4bXtHpQC"
+    },
+    {
+      "album": {
+        "name": "DNA Lover (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Caged",
+      "url": "https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB"
     },
     {
       "album": {
@@ -7540,6 +7558,24 @@
       "duration_ms": 291333,
       "name": "Leave",
       "url": "https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW"
+    },
+    {
+      "album": {
+        "name": "Love Next Door, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ev79pgPGMEsT4k53ngove"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Leave it all behind",
+      "url": "https://open.spotify.com/track/3z9HFAPJRMbMXAtG52P0FW"
     },
     {
       "album": {

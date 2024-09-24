@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 166220,
+  "num_followers": 166251,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
+        "name": "\u305a\u308b\u304f\u306a\u3044?",
+        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 208981,
+      "name": "\u305a\u308b\u304f\u306a\u3044?",
+      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
         "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
         "url": "https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 244905,
       "name": "Climax Night",
       "url": "https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
-        "name": "\u305a\u308b\u304f\u306a\u3044?",
-        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 208981,
-      "name": "\u305a\u308b\u304f\u306a\u3044?",
-      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
         "name": "cherish",
         "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 279120,
       "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0?\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
       "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -967,26 +967,6 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
-        "name": "LOVE TRIP (feat. Hannah Warm)",
-        "url": "https://open.spotify.com/album/5DfUoeGRKrcC5eEaQ5gkgJ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hannah Warm",
-          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
-        }
-      ],
-      "duration_ms": 242362,
-      "name": "LOVE TRIP (feat. Hannah Warm)",
-      "url": "https://open.spotify.com/track/42eeVyfEZSIdoEHTLx4mmQ"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
+        "name": "LOVE TRIP (feat. Hannah Warm)",
+        "url": "https://open.spotify.com/album/5DfUoeGRKrcC5eEaQ5gkgJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hannah Warm",
+          "url": "https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7"
+        }
+      ],
+      "duration_ms": 242362,
+      "name": "LOVE TRIP (feat. Hannah Warm)",
+      "url": "https://open.spotify.com/track/42eeVyfEZSIdoEHTLx4mmQ"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
         "name": "noidleap",
         "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 248098,
-      "name": "TOMODACHI",
-      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
+      "duration_ms": 223083,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -1111,18 +1111,34 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 223083,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
+        "name": "Windy You",
+        "url": "https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 230172,
+      "name": "Windy You",
+      "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -1143,22 +1159,6 @@
       "duration_ms": 225000,
       "name": "Glitter Eyes (feat. mindfreakkk)",
       "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
-        "name": "Windy You",
-        "url": "https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 230172,
-      "name": "Windy You",
-      "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
         "name": "\u3061\u304c\u3046",
         "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 230786,
       "name": "eden",
       "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2024-09-18 01:55:28",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
         "name": "Every One Minute",
         "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-18 01:55:28",
       "album": {
-        "name": "\u8003\u3048\u4e2d",
-        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "\u8003\u3048\u4e2d",
-      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2024-09-18 01:55:28",
-      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 305760,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+    },
+    {
+      "added_at": "2024-09-18 01:55:28",
+      "album": {
+        "name": "\u8003\u3048\u4e2d",
+        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "\u8003\u3048\u4e2d",
+      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
     },
     {
       "added_at": "2024-09-18 01:55:28",

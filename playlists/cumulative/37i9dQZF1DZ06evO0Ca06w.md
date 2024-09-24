@@ -2,7 +2,7 @@
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba\. The essential tracks, all in one playlist.
+> This is Miriam Makeba\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 180 songs - 9 hr 23 min
 
@@ -46,7 +46,7 @@
 | [Erev Shel Shoshanim](https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:19 | 2021-12-28 | 2022-10-19 |
 | [For What It's Worth \- Remastered](https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:08 | 2021-12-28 |  |
 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 | 2021-12-28 |  |
-| [Give Us Our Land \- Mabayeke](https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 2:27 | 2023-04-30 |  |
+| [Give Us Our Land \- Mabayeke](https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 2:27 | 2023-04-30 | 2024-09-24 |
 | [Gone Are My Children \- Baile Banake](https://open.spotify.com/track/1mAvOmswRW33aepuS27W3l) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 2:52 | 2022-11-12 | 2023-09-10 |
 | [Ha Po Zamani \- Stereo Version](https://open.spotify.com/track/0iKkfLyUCwjsX3PXZ1XG2C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:55 | 2021-12-28 |  |
 | [Hauteng](https://open.spotify.com/track/6XsrERz24iuh7dWkZ2aJYO) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:49 | 2021-12-28 | 2023-02-25 |
@@ -145,7 +145,7 @@
 | [Saduva \- Mono Version](https://open.spotify.com/track/5bRK2of0jRe5vFWHE33Tf9) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:41 | 2023-11-10 | 2023-12-22 |
 | [Samba](https://open.spotify.com/track/7wRrVZt1Xq7iCbq6AYrthq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:52 | 2021-12-30 | 2022-06-26 |
 | [Show Me the Way, My Brother \- Iph'indlela](https://open.spotify.com/track/379vHYzOPbCYzVAC45FC1i) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 3:11 | 2021-12-28 | 2023-01-14 |
-| [Sindiza Ngecadillacs](https://open.spotify.com/track/0cEz3caou9B0Ayqh1oMaJb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:23 | 2024-08-24 | 2024-09-22 |
+| [Sindiza Ngecadillacs](https://open.spotify.com/track/0cEz3caou9B0Ayqh1oMaJb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:23 | 2024-08-24 |  |
 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 | 2021-12-29 |  |
 | [Siyavuya](https://open.spotify.com/track/2QP3MmoV7cc7h9rZdublEP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:38 | 2022-12-19 | 2023-09-22 |
 | [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 | 2021-12-28 |  |

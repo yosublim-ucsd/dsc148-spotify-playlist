@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,184 likes - 535 songs - 1 day 8 hr 0 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,187 likes - 535 songs - 1 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chasing Tales](https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 4:35 |
+| 1 | [All this Time](https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 3:42 |
 | 2 | [Real Sugar](https://open.spotify.com/track/6x6N8bAelrCSRqxtZNDBru) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Real Sugar](https://open.spotify.com/album/1VPmvMPZtM18DShIQdoLoO) | 2:41 |
 | 3 | [Over When The Night Is Gone](https://open.spotify.com/track/4aJlY9Zlb7QpPL3uFFhpxP) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Over When The Night Is Gone](https://open.spotify.com/album/1EGoDiHif7aYqRDXdiajx9) | 2:56 |
-| 4 | [All this Time](https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 3:42 |
+| 4 | [Chasing Tales](https://open.spotify.com/track/79xo23Gxi8ye5BBOABwdD6) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 4:35 |
 | 5 | [90's Girl](https://open.spotify.com/track/2VlLVvToaKsPcKi8hJy60H) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [90's Girl](https://open.spotify.com/album/2zBZGPnA8i2VEifngsFKTR) | 2:42 |
 | 6 | [Citrus](https://open.spotify.com/track/3nand3cxcEc7X2yyiCf3U8) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [Gardening is a Practice, Not an Idea \(Deluxe\)](https://open.spotify.com/album/3A5v9tb1gc0TtegtuLTk84) | 2:24 |
 | 7 | [Closing That Door](https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f) | [Beach for Tiger](https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F) | [Closing That Door](https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd) | 3:11 |
@@ -544,4 +544,4 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 534 | [Beaches](https://open.spotify.com/track/49mCMSO35lFQ6suIp6YVMW) | [Tamasene](https://open.spotify.com/artist/3An7eBBOli7vKqSGCTnjLA) | [Beaches](https://open.spotify.com/album/1jgCxu2RcoDDscmiPMaJQt) | 3:22 |
 | 535 | [On Edge](https://open.spotify.com/track/5joJ2RbMO3jlQpgbN3m6Ay) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [On Edge](https://open.spotify.com/album/4i5kwe4vbjH0nxDNJVSKWW) | 3:50 |
 
-Snapshot ID: `AAALdxQzw6bg44JRpuOwNwegMgmvAZst`
+Snapshot ID: `AAALeoVrPT0DvoKlbx0gvreluYlp2DhA`

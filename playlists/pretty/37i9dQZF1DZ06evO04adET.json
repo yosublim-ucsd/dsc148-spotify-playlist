@@ -1,12 +1,12 @@
 {
-  "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 737088,
+  "description": "This Is Natanael Cano. Los temas esenciales, todos en una lista.",
+  "num_followers": 737655,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAACDeT/LRv0U9kVpZAD1itam",
+  "snapshot_id": "Zu9eAAAAAAD182zpuQGo77oGVxooEYxt",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Nuevo Yo",
+        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Compa Bladi",
+      "url": "https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 150974,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Nuevo Yo",
-        "url": "https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 177583,
-      "name": "Compa Bladi",
-      "url": "https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR"
     },
     {
       "added_at": null,

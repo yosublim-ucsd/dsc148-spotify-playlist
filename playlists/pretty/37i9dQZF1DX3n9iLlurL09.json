@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 92861,
+  "num_followers": 92881,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Shields",
-        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 318423,
-      "name": "Yet Again",
-      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+      "duration_ms": 318423,
+      "name": "Yet Again",
+      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 232132,
-      "name": "That's What's Up",
-      "url": "https://open.spotify.com/track/5njddWcaUd9FQFJJaSOCze"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232132,
+      "name": "That's What's Up",
+      "url": "https://open.spotify.com/track/5njddWcaUd9FQFJJaSOCze"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/6ilQUgysYUuauHDwqJ0l7L"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 230586,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0B4R6lMH2Fsyzcndp4RP4c"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aNJ374poL5VkfwWAqe1iX"
-      },
-      "artists": [
-        {
-          "name": "The Walkmen",
-          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh"
     }
   ],
   "unique_name": "Best of Indie 2012",

@@ -2,7 +2,7 @@
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is: Emicida\. Alle wichtigen Tracks in einer Playlist.
+> This is Emicida\. Track\-track unggulan, semuanya dalam satu playlist.
 
 65 songs - 4 hr 7 min
 

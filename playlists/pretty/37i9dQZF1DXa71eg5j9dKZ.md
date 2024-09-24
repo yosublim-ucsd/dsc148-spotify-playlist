@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,731 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,762 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 |
 | 100 | [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 |
 
-Snapshot ID: `Zuys8AAAAACARxzp7/0vfEWxt/ukpxfy`
+Snapshot ID: `Zuys8AAAAABGgj3BriY56vB4VrO5Xx95`

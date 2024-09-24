@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-821 songs - 1 day 22 hr 51 min
+822 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
 | [Love Runs Out](https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Love Runs Out](https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg) | 4:02 | 2023-02-21 | 2023-05-13 |
 | [Love You for the Summer](https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You for the Summer](https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW) | 2:52 | 2024-07-25 |  |
-| [Lullaby](https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Lullaby](https://open.spotify.com/album/07DHgHAJ20535Or6I2vcL2) | 3:08 | 2024-07-02 |  |
+| [Lullaby](https://open.spotify.com/track/1mPER4WK21doNM1VhdwxYj) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Lullaby](https://open.spotify.com/album/07DHgHAJ20535Or6I2vcL2) | 3:08 | 2024-07-02 | 2024-09-24 |
 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2024-02-23 |
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2022-10-31 | 2023-01-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |
@@ -806,6 +806,7 @@
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-16 | 2024-02-29 |
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-05-08 |
+| [Who's Laughing Now \- A Hundred Drums Remix](https://open.spotify.com/track/39XzfK4wI5C16ou4HRiCmu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [Who's Laughing Now \- A Hundred Drums Remix](https://open.spotify.com/album/31SK5QOjF2DhFBXAsSznBf) | 3:18 | 2024-09-23 |  |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
 | [Wildfire](https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Wildfire](https://open.spotify.com/album/3XFyWwB4yXHSjoRHqNq98y) | 3:40 | 2024-08-07 |  |
 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 | 2022-09-06 | 2022-11-05 |

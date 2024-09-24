@@ -2,7 +2,7 @@
 
 ### [This Is Dean Martin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
 
-> This is Dean Martin\. The essential tracks, all in one playlist.
+> This Is Dean Martin\. Los temas esenciales, todos en una lista.
 
 137 songs - 6 hr 4 min
 

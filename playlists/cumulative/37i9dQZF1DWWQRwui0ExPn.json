@@ -58262,7 +58262,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 90352,
       "name": "It's Good Now",
       "url": "https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n"
@@ -64970,6 +64970,28 @@
       "duration_ms": 108000,
       "name": "lemons",
       "url": "https://open.spotify.com/track/2WDqySqy4Q85CsYQUfVLE4"
+    },
+    {
+      "album": {
+        "name": "Lens Flare",
+        "url": "https://open.spotify.com/album/4WHVkWrU4qvkTqZnRNzHLO"
+      },
+      "artists": [
+        {
+          "name": "Eu93ne",
+          "url": "https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4"
+        },
+        {
+          "name": "Adrian Planitz",
+          "url": "https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lens Flare",
+      "url": "https://open.spotify.com/track/2QAtrLtHWHIJks6Vx6Tp8L"
     },
     {
       "album": {

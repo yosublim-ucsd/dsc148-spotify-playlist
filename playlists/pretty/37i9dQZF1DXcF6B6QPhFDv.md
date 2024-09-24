@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies \| feel it in your bones\.  📸: WesGhost
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,568,628 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,568,680 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 75 | [Chow](https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Chow](https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh) | 2:49 |
 
-Snapshot ID: `ZuzzQAAAAACehl6rZILrvV8Q3+tcJQ+a`
+Snapshot ID: `ZuzzQAAAAADGBKsQBk0eVoEsYFmjhwqR`

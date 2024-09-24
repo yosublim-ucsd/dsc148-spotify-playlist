@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49735,
+  "num_followers": 49739,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAAjfPl6hA3bmVbAaixnTCG8",
+  "snapshot_id": "Zu9eAAAAAAAdCa3i4WgoeJmuwDWFz8eT",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Me Voy O Te Vas (En Vivo)",
         "url": "https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF"
       },
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Nuestro Adios",
+      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel El Sabroso",
         "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Nuestro Adios",
-      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
     },
     {
       "added_at": null,
@@ -563,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -619,6 +587,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edganle",
-        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "Diganle",
-      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 256000,
       "name": "La Bruta (En Vivo)",
       "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edganle",
+        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 175842,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te dejo por la paz",
-        "url": "https://open.spotify.com/album/0akScALsw0CRffleKbjqzp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Calin",
-          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 160541,
-      "name": "Te dejo por la paz",
-      "url": "https://open.spotify.com/track/7qTlfD623rTU2uR55Wbwx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesi\u00f3n Ac\u00fastica",
         "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te dejo por la paz",
+        "url": "https://open.spotify.com/album/0akScALsw0CRffleKbjqzp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 160541,
+      "name": "Te dejo por la paz",
+      "url": "https://open.spotify.com/track/7qTlfD623rTU2uR55Wbwx5"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "H\u00e1zmela Buena",
-        "url": "https://open.spotify.com/album/77ORGh8Qp12vD8aUK8YCgF"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "H\u00e1zmela Buena",
-      "url": "https://open.spotify.com/track/7inmHVezY9Lc0cTWkwoHFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "H\u00e1zmela Buena",
+        "url": "https://open.spotify.com/album/77ORGh8Qp12vD8aUK8YCgF"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "H\u00e1zmela Buena",
+      "url": "https://open.spotify.com/track/7inmHVezY9Lc0cTWkwoHFL"
     },
     {
       "added_at": null,

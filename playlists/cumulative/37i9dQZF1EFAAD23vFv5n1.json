@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/0Rt92Xa4ng0V0cmmXCPf9Y"
+      },
+      "artists": [
+        {
+          "name": "Mudimbi",
+          "url": "https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111114,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/7lfhbKPw3ne71I57lAGQXV"
+    },
+    {
+      "album": {
         "name": "ROCKABILLY CARTER",
         "url": "https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar"
       },

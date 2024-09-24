@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62431,
+  "num_followers": 62432,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHb2w4RIz1hB8b4huW1YOZgdHG95cj",
+  "snapshot_id": "AAAHdaCyXwQ/69GklvuTu9JziA4dsrHO",
   "tracks": [
+    {
+      "added_at": "2024-09-23 18:38:52",
+      "album": {
+        "name": "Anima III",
+        "url": "https://open.spotify.com/album/15spvmlCW5j60dfs4l5Izx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 176789,
+      "name": "Anima III",
+      "url": "https://open.spotify.com/track/7HCtusx1qdSdfwOpuEcHE1"
+    },
     {
       "added_at": "2024-09-03 13:47:23",
       "album": {
@@ -47,6 +63,70 @@
       "duration_ms": 305462,
       "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
       "url": "https://open.spotify.com/track/6XZoq075NOdK5RhibcWARK"
+    },
+    {
+      "added_at": "2024-09-23 18:40:16",
+      "album": {
+        "name": "Nocturne II - After Dawn",
+        "url": "https://open.spotify.com/album/5lYT3LFBYCqSpB2YqYyUoY"
+      },
+      "artists": [
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Nocturne II - After Dawn",
+      "url": "https://open.spotify.com/track/525ryQdhkG7si9Eyky3PGM"
+    },
+    {
+      "added_at": "2024-09-23 18:41:50",
+      "album": {
+        "name": "Standing On the Edge",
+        "url": "https://open.spotify.com/album/069S1hP3SXHlYXkyNvtHzK"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "Standing On the Edge",
+      "url": "https://open.spotify.com/track/2ctBJDCBNUixYHRNG4TeMN"
+    },
+    {
+      "added_at": "2024-09-23 18:40:48",
+      "album": {
+        "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+        "url": "https://open.spotify.com/album/3y59zcMN0zoBuTSpQEyLTT"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "duration_ms": 224422,
+      "name": "Pohjola (Arr. for Strings by Carlos Hof)",
+      "url": "https://open.spotify.com/track/2aWm6k9oNgtqJVq61KlANg"
+    },
+    {
+      "added_at": "2024-09-23 18:39:34",
+      "album": {
+        "name": "Muntenia",
+        "url": "https://open.spotify.com/album/6eOzM7LMLD6lSSBRWAEGgV"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Muntenia",
+      "url": "https://open.spotify.com/track/24qyToIrPlagq2pb0eqMwf"
     },
     {
       "added_at": "2024-08-09 13:16:18",
@@ -119,6 +199,22 @@
       "duration_ms": 187285,
       "name": "Quietly Yours",
       "url": "https://open.spotify.com/track/4NXFInAtx4Uit2TWUlSckW"
+    },
+    {
+      "added_at": "2024-09-23 18:39:09",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/0HIRByaoQlaNIi0reVDTWj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/7CtqDteKSr3C4k3hkBu8iT"
     },
     {
       "added_at": "2024-08-09 13:15:26",

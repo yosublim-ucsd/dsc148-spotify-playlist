@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,916 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,924 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 3 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 |
 | 4 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
 | 5 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 |
-| 6 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
-| 7 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
+| 6 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
+| 7 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
 | 8 | [Häflä](https://open.spotify.com/track/2yEVWfpe2JKjidkQpFW3I2) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [HYVÄ SYDÄN, PAHA SUU](https://open.spotify.com/album/1LDra5gUrgQ3Vs6M7prCMg) | 2:20 |
 | 9 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 |
 | 10 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 |
 | 50 | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/track/288AqC7SebjSQh5SGa6diI) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Finanssiveli](https://open.spotify.com/artist/1lQle7p1O9Km6lVr98cNsf) | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/album/7G6ZryN0DX8o4Ua8cdjpKJ) | 2:45 |
 
-Snapshot ID: `ZvBb2AAAAAA6D9z4LbLcsFrzlsaBCGZN`
+Snapshot ID: `ZvEf5gAAAADAtVM/cTEZmeJ2aUsZONBD`

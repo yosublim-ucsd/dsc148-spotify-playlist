@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:2IwoU1JvxmNCdD1i69FmKr\">Marcus.wav</a>",
-  "num_followers": 45369,
+  "num_followers": 45368,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "duration_ms": 171456,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "N\u00e5r Man Taler Om Solen",
         "url": "https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 172338,
       "name": "Gennem Dit Hjerte (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
-      },
-      "artists": [
-        {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
-        }
-      ],
-      "duration_ms": 171456,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "I storsl\u00e5et kinddans, med livet som indsats",
+        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Mand P\u00e5 En Nat",
+      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 192783,
       "name": "Dans I Morgen (feat. Wads.png)",
       "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "I storsl\u00e5et kinddans, med livet som indsats",
-        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Mand P\u00e5 En Nat",
-      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "SAMBA",
         "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215238,
       "name": "Under Vand",
       "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Syreregn",
-        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Syreregn",
-      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "dagdr\u00f8mmer (akustisk version)",
         "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Den Ud\u00f8delige Historie",
-        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
+        "name": "Syreregn",
+        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
       },
       "artists": [
         {
-          "name": "Soleima",
-          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
         }
       ],
-      "duration_ms": 152729,
-      "name": "Den Ud\u00f8delige Historie",
-      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
+      "duration_ms": 170192,
+      "name": "Syreregn",
+      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "K\u00e6rligheden Vinder",
-        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
+        "name": "Den Ud\u00f8delige Historie",
+        "url": "https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I"
       },
       "artists": [
         {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+          "name": "Soleima",
+          "url": "https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM"
         }
       ],
-      "duration_ms": 212589,
-      "name": "K\u00e6rligheden Vinder",
-      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
+      "duration_ms": 152729,
+      "name": "Den Ud\u00f8delige Historie",
+      "url": "https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 161911,
       "name": "Dopa min",
       "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "K\u00e6rligheden Vinder",
+        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 212589,
+      "name": "K\u00e6rligheden Vinder",
+      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "</3",
+        "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 203218,
+      "name": "Til Mit Hjerte Stopper (feat. Kundo)",
+      "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Puff",
         "url": "https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E"
       },
@@ -1151,22 +1171,6 @@
       "duration_ms": 230125,
       "name": "Lyden Af Livet",
       "url": "https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Ny Og N\u00e6",
-        "url": "https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD"
-      },
-      "artists": [
-        {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
-        }
-      ],
-      "duration_ms": 191437,
-      "name": "Ny Og N\u00e6",
-      "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"
     }
   ],
   "unique_name": "ung kniv ",

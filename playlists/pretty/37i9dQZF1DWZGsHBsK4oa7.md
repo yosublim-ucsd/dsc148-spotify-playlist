@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,414 likes - 57 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,444 likes - 57 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 | 14 | [Moon Revenge](https://open.spotify.com/track/7jfdJ7oeLudhL7DpY9P5p9) | [セーラー戦士](https://open.spotify.com/artist/1Zx5OCEpNwP3NlmWRc7gs1) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 4:03 |
 | 15 | [タキシード・ミラージュ](https://open.spotify.com/track/0zuH7W3wmDtaZeSBDh76Ey) | [三石 琴乃](https://open.spotify.com/artist/32f5oVSBSURCljBbrLgHHM), [富沢 美智恵](https://open.spotify.com/artist/7Eq2VwXwqFkGfbP0UXjAuf), [久川 綾](https://open.spotify.com/artist/1RMtLtxNv4i0IunDlZnozf), [篠原 恵美](https://open.spotify.com/artist/5x9z1OhzpARmz4oz8fIUEo), [深見 梨加](https://open.spotify.com/artist/2u8vHfb1YgQqE0w1psHF4l) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 3:36 |
 | 16 | [プリンセス・ムーン](https://open.spotify.com/track/53UNsb1WPOjQtEbjwZyfY9) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q), [アップルパイ](https://open.spotify.com/artist/1R0lYkLRxvSIK4o77PuAGm) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 4:04 |
-| 17 | [“らしく”いきましょ](https://open.spotify.com/track/5ktElmJWossvXHI4UYFnyu) | [Meu](https://open.spotify.com/artist/0C0sPt2eBCiTGaMwJJnvT8) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 3:33 |
+| 17 | [“らしく”いきましょ](https://open.spotify.com/track/5ktElmJWossvXHI4UYFnyu) | [Meu](https://open.spotify.com/artist/6wAVRWbuKbJKhG4Yh9sxQl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 3:33 |
 | 18 | [セーラースターソング](https://open.spotify.com/track/37YPAfT52nTBML93fvZoPS) | [花沢 加絵](https://open.spotify.com/artist/4ePLmIo9hQaSccMCh6fAzL) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 3:53 |
 | 19 | [HEART MOVING](https://open.spotify.com/track/2uAwJmjEOUyy0gatseqCCT) | [高松 美砂絵](https://open.spotify.com/artist/2oHI4iPA1TIkvnywp9tena) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 3:40 |
 | 20 | [愛の戦士](https://open.spotify.com/track/70r6Q6UDGxE6yEznKFWPi6) | [石田 よう子](https://open.spotify.com/artist/7J891mkeUDgnwbyAJ0ds6T) | [美少女戦士セーラームーンＲ～未来ヘ向かって～](https://open.spotify.com/album/3p05BlUCqDPIJUhAeJAdo7) | 3:38 |

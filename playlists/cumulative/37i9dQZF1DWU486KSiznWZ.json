@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 321369,
       "name": "El Gheyab",
       "url": "https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi"
@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Mithl Alqamar",
+        "url": "https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b"
+      },
+      "artists": [
+        {
+          "name": "KADEJAH MOAATH",
+          "url": "https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237381,
+      "name": "Mithl Alqamar",
+      "url": "https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth"
+    },
+    {
+      "album": {
         "name": "Mo 3ebek",
         "url": "https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB"
       },
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 306573,
       "name": "Wainah",
       "url": "https://open.spotify.com/track/3I5npfVJYnbpLJb7KEd0SX"
@@ -2994,6 +3012,24 @@
       "duration_ms": 263210,
       "name": "\u0636\u0627\u0642 \u0627\u0644\u063a\u0645\u0627\u0645",
       "url": "https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL"
+    },
+    {
+      "album": {
+        "name": "\u0636\u0639\u062a \u0645\u0646\u0643",
+        "url": "https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236457,
+      "name": "\u0636\u0639\u062a \u0645\u0646\u0643",
+      "url": "https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j"
     },
     {
       "album": {

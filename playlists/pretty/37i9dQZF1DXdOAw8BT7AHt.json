@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
     },
     {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "Karma Too Close",
-        "url": "https://open.spotify.com/album/1e0UiI1obOMLnuCmfQESyJ"
-      },
-      "artists": [
-        {
-          "name": "Laura Jane Grace",
-          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
-        }
-      ],
-      "duration_ms": 141056,
-      "name": "Karma Too Close",
-      "url": "https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "The Mosaic",
@@ -971,6 +955,22 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "Karma Too Close",
+        "url": "https://open.spotify.com/album/1e0UiI1obOMLnuCmfQESyJ"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "duration_ms": 141056,
+      "name": "Karma Too Close",
+      "url": "https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 184934,
       "name": "Girls!",
       "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 370939,
       "name": "The Last Drag",
       "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-07-05 04:00:00",

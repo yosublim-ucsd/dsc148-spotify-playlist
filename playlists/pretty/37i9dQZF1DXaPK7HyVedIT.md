@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Devochka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,391 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,384 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Straight Up](https://open.spotify.com/track/303qnQkhKDmtBIWr3No7XY) | [Morphy](https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Little League](https://open.spotify.com/artist/1Su706KJL5OFFqpbaTmw25) | [Straight Up](https://open.spotify.com/album/1ylvIVtXgZcmTiXZ48LEIY) | 3:30 |
 | 80 | [Light It Up](https://open.spotify.com/track/3aM3elSql2STyiob9POgWY) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Light It Up](https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht) | 2:37 |
 
-Snapshot ID: `Zuzl5AAAAACVueUXdgvIBLhGrH5EAma0`
+Snapshot ID: `Zuzl5AAAAABm2VNDiQLf4h00IBkDLi8b`

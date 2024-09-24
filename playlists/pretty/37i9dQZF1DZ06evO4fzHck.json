@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Cure. Los temas esenciales, todos en una lista.",
-  "num_followers": 546463,
+  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "num_followers": 546572,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAA4TBWpDkH8hJLmmBOyizGk",
+  "snapshot_id": "Zu9eAAAAAAAfZHp9d9vDZMqSSaeMjD7N",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 163600,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 153040,
-      "name": "Perfect Girl",
-      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
+      "duration_ms": 163600,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
     },
     {
       "added_at": null,

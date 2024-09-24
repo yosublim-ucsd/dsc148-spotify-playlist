@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 268391,
+  "num_followers": 268432,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAABzm3St8KhCRbxtwnP/aSOj",
+  "snapshot_id": "Zu9eAAAAAAA5AZFrC3qRaWGhqmjMs0ko",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "Dancin' Til Dawn",
-      "url": "https://open.spotify.com/track/3Lc9RexjkRH4ButA7diDoj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 237466,
       "name": "Fields Of Joy",
       "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Dancin' Til Dawn",
+      "url": "https://open.spotify.com/track/3Lc9RexjkRH4ButA7diDoj"
     },
     {
       "added_at": null,

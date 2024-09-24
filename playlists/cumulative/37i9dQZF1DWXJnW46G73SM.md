@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مسلم
 
-1,159 songs - 2 day 16 hr 43 min
+1,160 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Tab3ak Ghalab](https://open.spotify.com/track/5gh6uDCEwPtz5khpNn7o3K) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Tab3ak Ghalab](https://open.spotify.com/album/3Z8ckVlwhwVcKGcrQtO3Kl) | 4:06 | 2024-02-20 | 2024-05-09 |
 | [Tabtabli From Mar3y El Breemo Movie](https://open.spotify.com/track/7hYaLDWuVgxSeZdBONdXBf) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd) | [Tabtabli From Mar3y El Breemo Movie](https://open.spotify.com/album/77togvaC4Ov3W1rylLGheJ) | 2:38 | 2023-07-28 | 2023-09-26 |
 | [Taka Taka](https://open.spotify.com/track/56wfjZl06ATKuczJoL5RI6) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Taka Taka](https://open.spotify.com/album/4QaIYxJWkv0wL6rGalJFH2) | 3:18 | 2022-09-01 | 2022-11-25 |
+| [Talabatna Basita](https://open.spotify.com/track/722A998e2KVipNMEpBLc6m) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [Talabatna Basita](https://open.spotify.com/album/1th7nH3a3k9B9319Hb6wAR) | 3:42 | 2024-09-23 |  |
 | [Talakik](https://open.spotify.com/track/4EqU9JKazUgb8ogjx4nIPm) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Talakik](https://open.spotify.com/album/1b6GHVe41cj2ruyohBJ7Vu) | 2:39 | 2022-06-23 | 2022-09-23 |
 | [Tamakan Menny Al 7ob: Batn El Hout Series](https://open.spotify.com/track/2R9t25f4QxMvqKias4SRUz) | [Khaled Elgabry](https://open.spotify.com/artist/1YSwC1Xn18o9H97XrBSy81), [Gehad Hossam El Din](https://open.spotify.com/artist/67HVHdBZVeWJbfX9rAgBa8) | [Tamakan Menny Al 7ob: Batn El Hout Series](https://open.spotify.com/album/2pSPkQ5DIorPRcG9KFscjQ) | 2:16 | 2024-01-05 | 2024-02-09 |
 | [Tamer Hosny Haytna](https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Tamer Hosny Haytna](https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v) | 4:51 | 2022-09-25 | 2022-11-08 |
@@ -922,7 +923,7 @@
 | [تعرف احساس](https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [تعرف احساس](https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW) | 3:07 | 2024-04-30 | 2024-07-01 |
 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 | 2024-06-20 | 2024-07-30 |
 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 | 2024-07-29 |  |
-| [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 |  |
+| [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 | 2024-09-24 |
 | [جاية جاية](https://open.spotify.com/track/4pphE4xWp08tPAkBW8p1ni) | [Pepsi Egypt](https://open.spotify.com/artist/7rvQhlTMhXIqxMTFAaxhKN), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جاية جاية](https://open.spotify.com/album/6Eqy1TyVZVghna1QLvh30K) | 1:25 | 2023-05-19 | 2023-07-08 |
 | [جراج عمومى](https://open.spotify.com/track/0pPdwmbnjsmDRtc5GQ3Dkv) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [جراج عمومى](https://open.spotify.com/album/4vBKChd7YtMVAhq3eGEVdr) | 2:58 | 2024-07-11 | 2024-08-30 |
 | [جوة الجحور](https://open.spotify.com/track/2qpxshCadd6uCSrOmeLKZN) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [جوة الجحور](https://open.spotify.com/album/1FuC6Dhc1404uUKJXBQLjL) | 4:22 | 2024-03-12 | 2024-06-14 |

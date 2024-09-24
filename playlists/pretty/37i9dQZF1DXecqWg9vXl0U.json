@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 52019,
+  "num_followers": 52046,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
       },
       "artists": [
         {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
         }
       ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+      "duration_ms": 239965,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
       "artists": [
         {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
         }
       ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Siempre Hago Lo Que Quiero",
-        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Siempre Hago Lo Que Quiero",
-      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Nada me cansa",
         "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Siempre Hago Lo Que Quiero",
+        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Siempre Hago Lo Que Quiero",
+      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Amantes Astrales",
+        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "Amantes Astrales",
+      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "RESISTOL +",
         "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 190285,
       "name": "RESISTOL +",
       "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Amantes Astrales",
-        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "Amantes Astrales",
-      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Nada Que Perder",
-        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 199853,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
+      "duration_ms": 174116,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
     }
   ],
   "unique_name": "dreamy \u2728",

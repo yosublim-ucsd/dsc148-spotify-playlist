@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 237573,
       "name": "Alone - Remastered",
       "url": "https://open.spotify.com/track/78FKqLoqGN2x3Wss7R0uxU"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 230156,
       "name": "Atomic",
       "url": "https://open.spotify.com/track/1hO5PM8f3DwiDRkM57cG1b"
@@ -2088,6 +2088,24 @@
       "duration_ms": 127600,
       "name": "Autosuficiencia",
       "url": "https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK"
+    },
+    {
+      "album": {
+        "name": "The Order of the Reptile",
+        "url": "https://open.spotify.com/album/3qKyM7dJeBYayfx3AiBZ52"
+      },
+      "artists": [
+        {
+          "name": "Ego Likeness",
+          "url": "https://open.spotify.com/artist/57sd8Uae6udFZ1hipB9ld4"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211506,
+      "name": "Aviary",
+      "url": "https://open.spotify.com/track/3Ch5HHeVx8SGzJAsCp2UWS"
     },
     {
       "album": {
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 223906,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 256973,
       "name": "Beso Negro",
       "url": "https://open.spotify.com/track/6My42aBi7Rg1v07YdM0WsS"
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 294760,
       "name": "Burn a Hole",
       "url": "https://open.spotify.com/track/7fJZisLc35j8EbIQxTFx8b"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 186058,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/2ep3fPkgSCHV5OT1rIYaft"
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 236906,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/2DnojOUKbmewhTWsWjM2yY"
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 336440,
       "name": "Detox - Remastered",
       "url": "https://open.spotify.com/track/5oANYeEgcIjuTLgdxVeuWb"
@@ -7930,7 +7948,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 218800,
       "name": "Du bist es nicht wert",
       "url": "https://open.spotify.com/track/79WnM27UaFasRl1YVQDjh3"
@@ -8074,7 +8092,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 357413,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/215kPFTnVJfubMfKl1ySEv"
@@ -8499,6 +8517,24 @@
     },
     {
       "album": {
+        "name": "Llegando Los Monos",
+        "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134173,
+      "name": "El Ojo Blindado",
+      "url": "https://open.spotify.com/track/5L0oNcUAPW4zFLBekccycM"
+    },
+    {
+      "album": {
         "name": "El Rey de la Noche",
         "url": "https://open.spotify.com/album/4NolsB5LBPHZriU3u2WEiT"
       },
@@ -8906,7 +8942,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 256506,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4D4wh1GyvA4gSxBN7e7ysN"
@@ -10744,7 +10780,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 238933,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/7eIpz5oojZjLbJwGISfgvF"
@@ -10852,7 +10888,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 232160,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
@@ -15343,6 +15379,24 @@
     },
     {
       "album": {
+        "name": "Acts of Worship",
+        "url": "https://open.spotify.com/album/5dbGUE5KRvrxq1Fj5wUlmk"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Like Suicide",
+      "url": "https://open.spotify.com/track/05W7tUxmGIFZLshv3EPVkQ"
+    },
+    {
+      "album": {
         "name": "Lindo Momento Frente al Caos",
         "url": "https://open.spotify.com/album/6E0fRundeyRShr06fLSVs4"
       },
@@ -15748,6 +15802,24 @@
       "duration_ms": 280533,
       "name": "Love Me To Death",
       "url": "https://open.spotify.com/track/3MTP0WTrcJWMi5gdtBhOOV"
+    },
+    {
+      "album": {
+        "name": "7 - Deluxe Bonus Track Edition (Remastered)",
+        "url": "https://open.spotify.com/album/5DobmHmoNI3QYobRONG6CC"
+      },
+      "artists": [
+        {
+          "name": "Apoptygma Berzerk",
+          "url": "https://open.spotify.com/artist/3OHbToMuJihWhRcqzKjpBd"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327866,
+      "name": "Love Never Dies - Part 1",
+      "url": "https://open.spotify.com/track/6En2SlxJuWj8TpGE4izsD7"
     },
     {
       "album": {
@@ -17798,7 +17870,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 377611,
       "name": "My Name Is Ruin",
       "url": "https://open.spotify.com/track/5N9fzr0zQQyeLoTVDihNkj"
@@ -18108,7 +18180,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 179504,
       "name": "Necromance",
       "url": "https://open.spotify.com/track/3Wk8Kib7X8QqkKbyWwzKEf"
@@ -19464,7 +19536,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 298160,
       "name": "Otro D\u00eda para Ser",
       "url": "https://open.spotify.com/track/5VkftS3xixRBFbJjWzY2cf"
@@ -20483,6 +20555,24 @@
     },
     {
       "album": {
+        "name": "Zen Arcade",
+        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "Pink Turns to Blue",
+      "url": "https://open.spotify.com/track/1icyef1nNmLusODA03FLGf"
+    },
+    {
+      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -20856,7 +20946,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 211426,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2FqDEb5wkhtwSl8H2erumv"
@@ -21977,7 +22067,7 @@
     },
     {
       "album": {
-        "name": "Rio - Collector's Edition",
+        "name": "Rio (Collector's Edition)",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
       "artists": [
@@ -21988,7 +22078,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 337333,
       "name": "Rio - 2009 Remaster",
       "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
@@ -22820,7 +22910,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 604013,
       "name": "Screaming At Forgotten Fears (2007)",
       "url": "https://open.spotify.com/track/0qZ818q7eh1ovFUG8LU1RO"
@@ -23180,7 +23270,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
@@ -24034,7 +24124,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 235893,
       "name": "Sleeping (In The Fire)",
       "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
@@ -24754,7 +24844,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 407000,
       "name": "Spirit Crusher",
       "url": "https://open.spotify.com/track/3sSonVXqDeoEFj2lM7mpYT"
@@ -24826,7 +24916,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 196973,
       "name": "Stand Up And Shout",
       "url": "https://open.spotify.com/track/2HwtiwV8OgIwNuj1Wq9e0B"
@@ -25028,7 +25118,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 471187,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5AbFdMKdv6kQB5rmIr8qTD"
@@ -26216,7 +26306,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 219800,
       "name": "The American Way",
       "url": "https://open.spotify.com/track/1eyE2fyXSeVQihQCVn5xxp"
@@ -26288,7 +26378,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 246933,
       "name": "The Beginning Of The End",
       "url": "https://open.spotify.com/track/0Eaz1Hjb830c2hr3zaUF7c"
@@ -26826,7 +26916,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 197253,
       "name": "The Men",
       "url": "https://open.spotify.com/track/40JldHffC28y7iVr5wFjLv"
@@ -30186,7 +30276,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 323413,
       "name": "Wreath of Barbs (Album Mix)",
       "url": "https://open.spotify.com/track/6I2lZcI1Dm8VeUYsOASNxz"
@@ -30762,7 +30852,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 348053,
       "name": "\u03a7 \u039e \u03a3 - 666",
       "url": "https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0"

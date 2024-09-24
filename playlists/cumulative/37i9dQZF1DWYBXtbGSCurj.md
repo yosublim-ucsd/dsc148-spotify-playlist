@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Jé
 
-1,371 songs - 2 day 20 hr 3 min
+1,372 songs - 2 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [Para Sempre 21 \- Remix](https://open.spotify.com/track/5di62sje3CXN84ejeAIaGx) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Para Sempre 21 \(Remix\)](https://open.spotify.com/album/3F1QSpRVW6TuZX5qnt1SC9) | 3:21 | 2022-07-15 | 2022-08-09 |
 | [PARATY](https://open.spotify.com/track/3379eG8dndozUeQFkKl1Pr) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [PARATY](https://open.spotify.com/album/5OFeMjNwngmxWxUuKiNYsd) | 2:43 | 2022-01-28 | 2022-02-12 |
 | [Paris](https://open.spotify.com/track/6S61yf0kZd7jW1ooUWDfDS) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Planetarium Projects](https://open.spotify.com/artist/1hlveAkped8r2RE3HU4WFm), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Zambrota](https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI), [Maycxxn](https://open.spotify.com/artist/282nMnpwccirIcBqbtpycX) | [Paris](https://open.spotify.com/album/5rNKsdwG7jnJWOdRTMJSbt) | 4:00 | 2022-04-22 | 2022-04-29 |
+| [PASSADO DE UM VILÃO](https://open.spotify.com/track/5gXH6r92zVkhgP1BF73J4b) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [CAOS](https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8) | 2:44 | 2024-09-23 |  |
 | [Passarinhos](https://open.spotify.com/track/1aOOFWnu2kr6xlkeBgzeXn) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Passarinhos](https://open.spotify.com/album/01U7RlpcQaFdfdfA4Znzmc) | 2:29 | 2023-08-25 | 2023-09-02 |
 | [Passin Com a Peça](https://open.spotify.com/track/2WgqY4Eua0npcbdicVPsWn) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Passin Com a Peça](https://open.spotify.com/album/46aK7BFxBLutzK7A74yFPZ) | 2:32 | 2022-04-29 | 2022-06-18 |
 | [Patrício's](https://open.spotify.com/track/6HVzQ2xHsE7nfRrD8zTawj) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Rubro](https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw) | [Patrício's](https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB) | 4:33 | 2024-07-08 | 2024-08-10 |

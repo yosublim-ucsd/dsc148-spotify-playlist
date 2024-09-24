@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
-  "name": "Cantautores",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edlvia P\u00e9rez Cruz.",
+  "name": "Cantautoras",
   "tracks": [
     {
       "album": {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 303699,
       "name": "La Cultura del Miedo",
       "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
@@ -3096,6 +3096,24 @@
       "duration_ms": 191038,
       "name": "Me Haces Sentir",
       "url": "https://open.spotify.com/track/4ywBpjRtlyKNl6peJiwQlV"
+    },
+    {
+      "album": {
+        "name": "Me ir\u00eda contigo",
+        "url": "https://open.spotify.com/album/0NUq5usKMXLfkcKvae1wCu"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205501,
+      "name": "Me ir\u00eda contigo",
+      "url": "https://open.spotify.com/track/60lshuY1w3XPv2Q6kvs96z"
     },
     {
       "album": {
@@ -3984,10 +4002,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
+    },
+    {
+      "album": {
+        "name": "Pastores",
+        "url": "https://open.spotify.com/album/4OFeXqdVRgjOkOFd6rGHYQ"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141433,
+      "name": "Pastores",
+      "url": "https://open.spotify.com/track/60ks4Mzs16IM7mlbtB7y8H"
     },
     {
       "album": {
@@ -4845,6 +4881,28 @@
     },
     {
       "album": {
+        "name": "Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/606x4RWcuBQAORbCgjjeFk"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201254,
+      "name": "Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/62acVIul8sVkk5ljkcSmJ9"
+    },
+    {
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -4976,7 +5034,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 264493,
       "name": "Soy un Coraz\u00f3n Tendido al Sol",
       "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"

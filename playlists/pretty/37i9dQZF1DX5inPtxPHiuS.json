@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86509,
+  "num_followers": 86511,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 159781,
       "name": "Ni\u00f1os Perdidos",
       "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Te Valgo",
-        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
-      },
-      "artists": [
-        {
-          "name": "Piel Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Te Valgo",
-      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "The Mills 10 A\u00f1os (En Vivo) [Desde el Teatro Col\u00f3n]",
         "url": "https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 306333,
       "name": "Guadalupe (En Vivo) [Desde el Teatro Col\u00f3n]",
       "url": "https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Te Valgo",
+        "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Te Valgo",
+      "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
-      },
-      "artists": [
-        {
-          "name": "Cielito Drive",
-          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Antes de Que Sea Muy Tarde",
         "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 192787,
       "name": "Antes de Que Sea Muy Tarde",
       "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
+      },
+      "artists": [
+        {
+          "name": "Cielito Drive",
+          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
     },
     {
       "added_at": "2024-09-20 08:27:00",

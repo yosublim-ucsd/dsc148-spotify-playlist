@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 23547,
+  "num_followers": 23549,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Traicionarse",
-        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "Traicionarse",
-      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Traicionarse",
+        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Traicionarse",
+      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Una Temporada en el Invierno",
-        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Entre Sombras",
-        "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 220350,
-      "name": "La calma del cementerio",
-      "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 196751,
       "name": "Olas Negras",
       "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Entre Sombras",
+        "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 220350,
+      "name": "La calma del cementerio",
+      "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -471,6 +471,42 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "VERANO OSCURO",
+        "url": "https://open.spotify.com/album/1sRsax1I2URqUYwABbAimT"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+        }
+      ],
+      "duration_ms": 135232,
+      "name": "VERANO OSCURO",
+      "url": "https://open.spotify.com/track/1zasmKuBkel0tvuviVWF9t"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "El Buen Fantasma",
         "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
       },
@@ -499,22 +535,6 @@
       "duration_ms": 204875,
       "name": "Me Gusta Mirarte De Cerca",
       "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -587,6 +607,26 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Creo que necesito ir a dar una vuelta",
+        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 192137,
+      "name": "Oh my goth",
+      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "malas decisiones",
         "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
       },
@@ -615,46 +655,6 @@
       "duration_ms": 195410,
       "name": "Malos Sentimientos",
       "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Creo que necesito ir a dar una vuelta",
-        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 192137,
-      "name": "Oh my goth",
-      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "VERANO OSCURO",
-        "url": "https://open.spotify.com/album/1sRsax1I2URqUYwABbAimT"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
-        }
-      ],
-      "duration_ms": 135232,
-      "name": "VERANO OSCURO",
-      "url": "https://open.spotify.com/track/1zasmKuBkel0tvuviVWF9t"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT"
+      },
+      "artists": [
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        }
+      ],
+      "duration_ms": 144341,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -1187,6 +1203,30 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Canciones de Amor",
+        "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
+      },
+      "artists": [
+        {
+          "name": "Lesbiandrama",
+          "url": "https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl"
+        },
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 194043,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -1223,26 +1263,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Canciones de Amor",
-        "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
       "artists": [
         {
-          "name": "Lesbiandrama",
-          "url": "https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl"
-        },
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
         }
       ],
-      "duration_ms": 194043,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1287,34 +1319,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT"
+        "name": "No hay tiempo",
+        "url": "https://open.spotify.com/album/4qK4DPTYmND7rWUAvIPmn0"
       },
       "artists": [
         {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+          "name": "Vico Villamil",
+          "url": "https://open.spotify.com/artist/0tDZ8MpyTPqgejulZuDH4E"
         }
       ],
-      "duration_ms": 144341,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+      "duration_ms": 202027,
+      "name": "No hay tiempo",
+      "url": "https://open.spotify.com/track/15eJY3sym1GzpPT13YbXxe"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "No hay tiempo",
-        "url": "https://open.spotify.com/album/4qK4DPTYmND7rWUAvIPmn0"
+        "name": "de la primavera",
+        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
       },
       "artists": [
         {
-          "name": "Vico Villamil",
-          "url": "https://open.spotify.com/artist/0tDZ8MpyTPqgejulZuDH4E"
+          "name": "Fabi\u00e1n Iurino",
+          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
+        },
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
         }
       ],
-      "duration_ms": 202027,
-      "name": "No hay tiempo",
-      "url": "https://open.spotify.com/track/15eJY3sym1GzpPT13YbXxe"
+      "duration_ms": 205589,
+      "name": "de la primavera",
+      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1447,26 +1467,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "de la primavera",
-        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
-      },
-      "artists": [
-        {
-          "name": "Fabi\u00e1n Iurino",
-          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
-        },
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 205589,
-      "name": "de la primavera",
-      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 128802,
       "name": "Lago Eterno",
       "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Fantas\u00edas de Violencia",
+        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "duration_ms": 253177,
+      "name": "Los Carritos",
+      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Fantas\u00edas de Violencia",
-        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 253177,
-      "name": "Los Carritos",
-      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "added_at": "2024-09-20 03:00:00",

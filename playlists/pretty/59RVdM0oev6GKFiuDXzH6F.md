@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,228 likes - 269 songs - 13 hr 36 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,227 likes - 270 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,5 +277,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 267 | [CU](https://open.spotify.com/track/7ure3lFBwSpg9swnE6BIVH) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [CU](https://open.spotify.com/album/6ynTdYClCDNFrls0oIVAfn) | 3:10 |
 | 268 | [I Like Your Body](https://open.spotify.com/track/7xlDhcOJPfme6LMvbKnTMY) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [I Like Your Body](https://open.spotify.com/album/5MZMOH4y53KBd4wadUoAFj) | 2:55 |
 | 269 | [Just Keep Dancing](https://open.spotify.com/track/0fiCJFdYdX9TGi2c56hEpz) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Just Keep Dancing](https://open.spotify.com/album/5cDw9FFGDpwSA8eIJHTEUL) | 2:37 |
+| 270 | [Ascend](https://open.spotify.com/track/0KnoZARszd7dcic61claEn) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ascend](https://open.spotify.com/album/3IGKNxB664yDCJUpVj7gp0) | 2:46 |
 
-Snapshot ID: `AAAPNo0zJ6rMcCiaqZnh5v6ghHA1slq/`
+Snapshot ID: `AAAPN2fE/5eMEmFmyuh213Z1Wrp07Itp`

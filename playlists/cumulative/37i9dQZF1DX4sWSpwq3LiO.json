@@ -3719,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "between the mountains",
+        "url": "https://open.spotify.com/album/17Kjig77c1myRfRdmEoPnC"
+      },
+      "artists": [
+        {
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115369,
+      "name": "between the mountains",
+      "url": "https://open.spotify.com/track/3KHHLDvKIovW4yrZOQOuNq"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/256IW7GzDyiWn4Hn9wtLAH"
       },
@@ -10886,7 +10904,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 136648,
       "name": "Hommage d'amiti\u00e9",
       "url": "https://open.spotify.com/track/5DezuV0RFcMcgA11UGdGBR"
@@ -22556,7 +22574,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 141861,
       "name": "Sans Regrets",
       "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
@@ -23612,6 +23630,24 @@
       "duration_ms": 130250,
       "name": "Skagerrak",
       "url": "https://open.spotify.com/track/4RBuB7D4zW3dy6ZvuQgN7c"
+    },
+    {
+      "album": {
+        "name": "Sketch of an Oak",
+        "url": "https://open.spotify.com/album/46g7sCetwmFGsaINqMu8CY"
+      },
+      "artists": [
+        {
+          "name": "Stanley Lloyd",
+          "url": "https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Sketch of an Oak",
+      "url": "https://open.spotify.com/track/2Qws9DGOmIDupsJU1Qcy7w"
     },
     {
       "album": {

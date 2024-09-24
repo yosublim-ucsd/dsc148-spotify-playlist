@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Tecca, Future, GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,235 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,328 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 4 | [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 |
 | 5 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 |
 | 6 | [MEET THE BOSS](https://open.spotify.com/track/4EJBx1Y8QaFATDAAeZ6YPJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LOVE LASTS FOREVER V2.5](https://open.spotify.com/album/58IBgtbmRfMrGBbnMrDq2A) | 2:30 |
-| 7 | [DON'T WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
+| 7 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
 | 8 | [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 |
 | 9 | [another song](https://open.spotify.com/track/7znnURzbiabwxPXttDlY5G) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [LIL PEEP; PART ONE](https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M) | 2:09 |
 | 10 | [CYBER TRUCK](https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [CYBER TRUCK](https://open.spotify.com/album/0Dgwe0jOh7fehZAQzZDIpv) | 2:36 |

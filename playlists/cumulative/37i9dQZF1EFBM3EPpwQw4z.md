@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 7 hr 19 min
+126 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [High \- Benson Remix](https://open.spotify.com/track/511oneseWVZRrSPuno4qgG) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [High \(Benson Remix\)](https://open.spotify.com/album/1G1Xk8DeGIjuGNPcYiXTVb) | 3:27 | 2024-07-10 |  |
 | [Jaguar](https://open.spotify.com/track/0QcwSZWxpePBVSCbfIJUz6) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Jaguar](https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2) | 4:46 | 2023-12-30 |  |
 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 | 2023-12-30 |  |
+| [Lately](https://open.spotify.com/track/1Z6RuYFWKqNaEKUrkgVJHT) | [WZA](https://open.spotify.com/artist/2TqOxk4tzOGX9ns3feBXU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Lately](https://open.spotify.com/album/2eO58FVIBNoEjGgJ6OrjFU) | 3:16 | 2024-09-23 |  |
 | [Let Me Know](https://open.spotify.com/track/29310yrKMYwmCw9yJwZJXV) | [Terace](https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl) | [Let Me Know](https://open.spotify.com/album/5WOyodAauh50nUftaZ355E) | 4:35 | 2023-12-30 |  |
 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 | 2024-03-13 |  |
 | [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 | 2024-03-08 |  |

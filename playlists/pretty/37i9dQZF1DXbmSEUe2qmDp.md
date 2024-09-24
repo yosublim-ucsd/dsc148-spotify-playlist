@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Rapha & Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,465 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,455 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 69 | [Não Prometi \- Ao Vivo](https://open.spotify.com/track/0XTJllfB214MgvmVp8LoDm) | [Rapha & Leo](https://open.spotify.com/artist/05BcBTSbcgEgbIMzRTOhKs) | [Não Prometi \(Ao Vivo\)](https://open.spotify.com/album/4Rzr4LTFJzDZv37ZaQs3B8) | 2:23 |
 | 70 | [O Cavalo Dela \- Ao Vivo](https://open.spotify.com/track/5hr4ymkcRUjity5OZGPBDD) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [O Cavalo Dela \(Ao Vivo\)](https://open.spotify.com/album/7gujc832xuAEicoaYLM9Eb) | 2:26 |
 
-Snapshot ID: `Zuzl5AAAAADx9SuI89rTKrLJ6KLGeeA0`
+Snapshot ID: `Zuzl5AAAAAA4NBLnabLU+Zg4FkI5Y6X7`

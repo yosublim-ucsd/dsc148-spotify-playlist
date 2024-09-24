@@ -836,7 +836,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201426,
-      "name": "El Ni\u00f1o del Tambor",
+      "name": "El Ni\u00f1o Del Tambor",
       "url": "https://open.spotify.com/track/3MPoy0uesBJJsUjor7UCOF"
     },
     {
@@ -2751,6 +2751,10 @@
         "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
       },
       "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
         {
           "name": "Betsy",
           "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"

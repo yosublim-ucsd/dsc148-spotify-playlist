@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: TAEYEON, Sam Smith\(태연, 샘 스미스\)\)
 
-240 songs - 14 hr 21 min
+241 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 | 2022-07-25 | 2024-04-19 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2022-03-24 |  |
 | [Dream Attic](https://open.spotify.com/track/1FQW5ctU2wWoqbSdE6yQNH) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [Little Planets](https://open.spotify.com/album/5YsfeS2R8EiYM5HLDreSAB) | 3:18 | 2022-04-21 | 2022-07-27 |
+| [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 | 2024-09-23 |  |
 | [emotions](https://open.spotify.com/track/73ZadJGppqmh1cfk0RsPqL) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [GILLA](https://open.spotify.com/artist/2qg65aLixfdExljOpqKJm3), [Ripley](https://open.spotify.com/artist/2jiWpC31g4n0579kCJeARn) | [when I leave](https://open.spotify.com/album/5v3uvNgATtnMzQNQO2DqZG) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [Empty](https://open.spotify.com/track/2uRzqqTLON3QXNBTsGuiEi) | [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Empty](https://open.spotify.com/album/2CQVRMXgWAxw8Ps64yGFQE) | 3:27 | 2022-03-24 | 2022-04-20 |
 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 | 2023-10-27 |  |
@@ -113,7 +114,7 @@
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 |  |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-01 |  |
 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 | 2022-03-24 |  |
-| [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 | 2022-03-24 |  |
+| [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 | 2022-03-24 | 2024-09-24 |
 | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Lovelylove \(feat\. CHOI NAKTA\)](https://open.spotify.com/album/5r6hXPpgoLzmI9baalPZim) | 3:10 | 2022-03-24 | 2022-07-29 |
 | [Loveship](https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Loveship](https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ) | 4:19 | 2022-04-21 | 2022-07-28 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |

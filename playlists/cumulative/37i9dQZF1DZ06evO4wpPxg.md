@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This Is Rev\. Gary Davis\. Sus mejores éxitos, todos en una playlist.
+> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
 
 312 songs - 19 hr 37 min
 
@@ -13,7 +13,7 @@
 | [A Little More Faith](https://open.spotify.com/track/5TTKDtedtCZOEK9RUDWr32) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:42 | 2022-05-25 | 2024-09-05 |
 | [All Night Long](https://open.spotify.com/track/5Dy1tUmCe8WKWRlnLKPhZE) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 2:04 | 2022-10-12 | 2023-08-02 |
 | [Amazing Grace](https://open.spotify.com/track/2Lw2Tc9PmdbbbGaAlKpFOw) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:30 | 2023-04-13 | 2023-04-17 |
-| [Announcing Guitar Lessons](https://open.spotify.com/track/30FsuTY9kaJfBQCWpMnTK3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 0:59 | 2023-06-03 | 2024-09-02 |
+| [Announcing Guitar Lessons](https://open.spotify.com/track/30FsuTY9kaJfBQCWpMnTK3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 0:59 | 2023-06-03 |  |
 | [Baby, Let Me Lay It On You \- Live](https://open.spotify.com/track/4eFMtVuEWbL2clRfgu66Oe) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 3:50 | 2022-08-30 | 2023-08-08 |
 | [Baby, What You Going to Do](https://open.spotify.com/track/7Gd0XqerYO8TqI7CuW2N50) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:30 | 2022-07-23 | 2023-12-14 |
 | [Bad Company](https://open.spotify.com/track/646Yt78fgHq9FC6J9V57Ph) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:54 | 2022-06-26 |  |
@@ -185,7 +185,7 @@
 | [Moon Goes Down](https://open.spotify.com/track/1YztbRfyrwv1o07T4dnCwp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 4:46 | 2022-08-08 | 2022-12-19 |
 | [Moon is Going Down](https://open.spotify.com/track/3jjV3Ifz4zlqzm13cJCVov) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:39 | 2023-03-17 | 2024-09-20 |
 | [Motherless Children](https://open.spotify.com/track/1cJdV7ifoxkB5jca6rkkYk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 4:12 | 2022-06-18 | 2022-08-30 |
-| [Mountain Jack](https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:32 | 2022-05-25 |  |
+| [Mountain Jack](https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:32 | 2022-05-25 | 2024-09-24 |
 | [My Heart is Fixed](https://open.spotify.com/track/5wi4Jf8NkHH77X1Wla5UiT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:08 | 2022-07-10 | 2023-07-24 |
 | [No One Can Do Me Like Jesus](https://open.spotify.com/track/1xpURbfnpOACV0IT7Ydgqy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 3:38 | 2022-05-25 | 2023-02-01 |
 | [Nobody Cares For Me](https://open.spotify.com/track/5nXcwhtPc3EHtSjn9zCHL8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 2:26 | 2024-06-26 | 2024-08-15 |

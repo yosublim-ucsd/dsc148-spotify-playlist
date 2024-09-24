@@ -2,7 +2,7 @@
 
 ### [This Is Joy Crookes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3w1CV3)
 
-> This is Joy Crookes\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Joy Crookes\. Track\-track unggulan, semuanya dalam satu playlist.
 
 30 songs - 1 hr 40 min
 

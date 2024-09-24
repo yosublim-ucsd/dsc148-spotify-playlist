@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 987596,
+  "num_followers": 987832,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAACA5xWRQu7kQqBYeolZOeHE",
+  "snapshot_id": "Zu9eAAAAAADbSgSMsmoA8iF1RybjHYcL",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 319426,
-      "name": "The Blister Exists",
-      "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
+      "duration_ms": 265453,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 265453,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
+      "duration_ms": 319426,
+      "name": "The Blister Exists",
+      "url": "https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
       "duration_ms": 308306,
       "name": "Disasterpiece",
       "url": "https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Pulse of the Maggots",
-      "url": "https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 123400,
       "name": "Get This",
       "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Pulse of the Maggots",
+      "url": "https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm"
     },
     {
       "added_at": null,

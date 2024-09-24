@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,984 songs - 4 day 16 hr 18 min
+1,985 songs - 4 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1538,6 +1538,7 @@
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-09-30 | 2022-10-08 |
 | [Small Talk](https://open.spotify.com/track/5GzeX965D5kEuCMT35sQqb) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [Beni Hana](https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU) | [Small Talk](https://open.spotify.com/album/4vLom1oyQf1Hcxsb1XGqKX) | 2:50 | 2022-06-04 | 2022-06-18 |
 | [Smoking Kills](https://open.spotify.com/track/3YCXbwKfJXyikCKlssFitm) | [Screechy](https://open.spotify.com/artist/4Ts1L827tQWBpc9I2GekWG) | [Smoking Kills](https://open.spotify.com/album/3tOK9Q6iHEUG0jtWjssfk6) | 3:39 | 2023-01-21 | 2023-01-29 |
+| [Smooth Originator](https://open.spotify.com/track/6FY0QqwuKjGrKjZbmgnEMz) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [High Volume EP](https://open.spotify.com/album/4ZNoLdNJekJ0fv3fUdPmkW) | 6:16 | 2024-09-23 |  |
 | [Snake Melody](https://open.spotify.com/track/5qqThv9NfQF7ZBJKtlkbMx) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Snake Melody](https://open.spotify.com/album/3HQXHBmTW82OTATBX2H9Dl) | 3:11 | 2023-11-03 | 2023-11-10 |
 | [Snare Thing](https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Snare Thing](https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV) | 3:00 | 2024-02-24 | 2024-03-30 |
 | [Snatch](https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Snatch](https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto) | 4:18 | 2023-04-14 | 2023-04-22 |

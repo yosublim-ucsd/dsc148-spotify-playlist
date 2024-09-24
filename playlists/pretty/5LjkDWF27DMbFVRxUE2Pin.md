@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 403 songs - 1 day 2 hr 10 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 407 songs - 1 day 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,9 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 401 | [Dearly Loved](https://open.spotify.com/track/339gbkFVGkQTIPM9A15VZq) | [Gianna Minichiello](https://open.spotify.com/artist/2opSEMQBfqfYDAiFBwDdk5) | [Dearly Loved](https://open.spotify.com/album/70G3EkWnamHdFF7Oddrm8v) | 4:07 |
 | 402 | [Let's Turn This Back Around](https://open.spotify.com/track/4A20ZnyWpMOhdRvcq0JXDr) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 5:28 |
 | 403 | [Gonna Find What's Killing Me](https://open.spotify.com/track/6SDseSF6qW6uEVXOAfp6Al) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 3:37 |
+| 404 | [Lone Digger](https://open.spotify.com/track/3Y91fIpStxQrUaXuaTbGVv) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO) | 3:49 |
+| 405 | [Comics](https://open.spotify.com/track/40OuGHvwKGA9FKo1lECOZV) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO) | 3:32 |
+| 406 | [Miracle](https://open.spotify.com/track/5uKKPK1HAdPL3y4CEQDL7q) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo) | 3:36 |
+| 407 | [The Wolf](https://open.spotify.com/track/3TB2IK1QVfNH04puo4KQXE) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:46 |
 
-Snapshot ID: `AAAB5SC4UadTZn6yU4BwTXTqFTNPN0r5`
+Snapshot ID: `AAAB6aKcSi8zEGFyG5EKFX7FopCrHdUC`

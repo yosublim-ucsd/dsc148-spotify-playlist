@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 264477,
+  "num_followers": 264527,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -303,8 +303,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "Tequila (Original)",
-      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 283200,
       "name": "Just A Gigolo - Remastered",
       "url": "https://open.spotify.com/track/6lYeYgSkWh6TZDQy6YZuvG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "Tequila (Original)",
+      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Ten Cats Down / Finders Keepers",
+        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
+      },
+      "artists": [
+        {
+          "name": "The Miller Sisters",
+          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
+        }
+      ],
+      "duration_ms": 137201,
+      "name": "Ten Cats Down",
+      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Slow Down / A Fool for Loving You",
         "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 137799,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Ten Cats Down / Finders Keepers",
-        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
-      },
-      "artists": [
-        {
-          "name": "The Miller Sisters",
-          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
-        }
-      ],
-      "duration_ms": 137201,
-      "name": "Ten Cats Down",
-      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
     },
     {
       "added_at": "2022-06-07 05:25:13",

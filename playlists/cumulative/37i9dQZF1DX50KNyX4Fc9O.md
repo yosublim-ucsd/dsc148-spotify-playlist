@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: grentperez
 
-1,342 songs - 2 day 21 hr 24 min
+1,343 songs - 2 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,6 +1112,7 @@
 | [Swimming](https://open.spotify.com/track/4F0Rd6CX3UdVNtcpqUM4nG) | [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [Swimming](https://open.spotify.com/album/7r67S9gq2Zv4QljsjTkISn) | 2:34 | 2024-09-13 |  |
 | [Swimming Pool](https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Swimming Pool](https://open.spotify.com/album/3hcMcEo5O1i707MVen72zi) | 3:24 | 2024-08-30 |  |
 | [Swing By](https://open.spotify.com/track/0PzteNmXCHK9tM7EbFKjYk) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [LEARNINGTHEROPES](https://open.spotify.com/album/1eeRYqhtFi5r9dMMUUUDiq) | 2:39 | 2023-09-14 | 2023-10-27 |
+| [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-23 |  |
 | [Sympathy](https://open.spotify.com/track/0ljDt5ixXGZ7Oz3w2NiaKF) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Sympathy](https://open.spotify.com/album/5kP9yBqOV5iO9y2YYQGihQ) | 2:17 | 2024-05-30 | 2024-06-21 |
 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-03-14 | 2024-04-12 |
 | [Syrena](https://open.spotify.com/track/1djUWFrvvUDaESpdHuqm5o) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Syrena](https://open.spotify.com/album/1J7n96LdOcReicOcSvVMS0) | 5:31 | 2024-06-07 | 2024-07-05 |

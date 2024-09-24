@@ -2,7 +2,7 @@
 
 ### [This Is Rodrigo Gonzalez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WFUvk)
 
-> This Is Rodrigo Gonzalez\. Sus mejores éxitos, todos en una playlist.
+> This is Rodrigo Gonzalez\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 32 songs - 2 hr 8 min
 

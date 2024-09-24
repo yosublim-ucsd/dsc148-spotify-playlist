@@ -1,12 +1,12 @@
 {
-  "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 305645,
+  "description": "This is Akon. The essential tracks, all in one playlist.",
+  "num_followers": 305874,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAD//XfVEISNf3Nd/PyQakO/",
+  "snapshot_id": "Zu9eAAAAAAA0jVwS3gCyye+/gmp96v4g",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colby O",
         "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 243013,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Came To Do (feat. Akon)",
+      "url": "https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Right Now (Na Na Na) [Sped Up]",
         "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 226709,
       "name": "Right Now (Na Na Na) - Sped Up",
       "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Came To Do (feat. Akon)",
-      "url": "https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve"
     },
     {
       "added_at": null,

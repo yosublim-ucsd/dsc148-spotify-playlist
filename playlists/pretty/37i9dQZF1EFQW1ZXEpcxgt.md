@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 57 | [Westside](https://open.spotify.com/track/2hkBrU5mjoielqu0SFW3DX) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Free TC \(Deluxe Edition\)](https://open.spotify.com/album/5nIgDHf42VCFVfBY9BG2fr) | 4:04 |
 | 58 | [Mula Remix](https://open.spotify.com/track/4k1twluDPNSnrFd3Wxsibv) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:54 |
 | 59 | [Mona Lisa](https://open.spotify.com/track/6FjcShHWPvel5QPNhWivJe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:30 |
-| 60 | [Ricky Ricardo](https://open.spotify.com/track/4dp9yUpE7Da8YZcDjhVtlp) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Jacuzzi Blues, the Interlude](https://open.spotify.com/album/7hXRNjpYx1iCrfzznnSec6) | 3:33 |
+| 60 | [Ricky Ricardo En Español](https://open.spotify.com/track/4fCMligaMtxzMdvtyZA4hF) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Bon Voyage](https://open.spotify.com/album/6bCczvS4guIxYRIbDZ3ewv) | 3:32 |
 | 61 | [Gimme Your Number](https://open.spotify.com/track/76NZFxqS6b0xsd16e0LIfF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:37 |
 | 62 | [Hips Don't Lie](https://open.spotify.com/track/0E7AHMdJL4XMOuRShGs23D) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:28 |
 | 63 | [Stevie Knows](https://open.spotify.com/track/7sGPkvZ4ovda4NYBHzv4ce) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Never Been Better \- Expanded Edition](https://open.spotify.com/album/41QyJYx6N181E3QxWpC2FW) | 3:11 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 109 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 110 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `Abc2ygAAAAAIb54qxD89uGWek+iuYT+v`
+Snapshot ID: `Abc8YAAAAAB6UjhAQ6zmM/fcwliyIuv3`

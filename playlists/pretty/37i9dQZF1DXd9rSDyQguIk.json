@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1924697,
+  "num_followers": 1925206,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Damn Right, I've Got The Blues",
@@ -307,6 +291,22 @@
       "duration_ms": 271653,
       "name": "Damn Right, I've Got the Blues",
       "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
     },
     {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
@@ -791,22 +807,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Nothing But The Truth",
-        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 367533,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 187600,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -851,6 +835,22 @@
       "duration_ms": 183133,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
       "added_at": "2020-01-15 21:29:46",

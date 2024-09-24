@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Cafres. The essential tracks, all in one playlist.",
-  "num_followers": 159071,
+  "description": "This Is Los Cafres. Los temas esenciales, todos en una lista.",
+  "num_followers": 159096,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADIVg95M1RrtqZykEsuPo/O",
+  "snapshot_id": "Zu9eAAAAAABvH2ODCjVXHJ9uPuqTfyqS",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
-        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Mi Aliento",
-      "url": "https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz"
+      "duration_ms": 247066,
+      "name": "Capit\u00e1n Pelusa",
+      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suena la Alarma",
-        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Capit\u00e1n Pelusa",
-      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
+      "duration_ms": 243200,
+      "name": "Mi Aliento",
+      "url": "https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25231,
+  "num_followers": 25239,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAABY/BGd4nX9ciXXY90/htXP",
+  "snapshot_id": "Zu9eAAAAAACR8/tFxfAbKD6LUbI2LTUI",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EZ",
-        "url": "https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 181163,
-      "name": "EZ",
-      "url": "https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV"
+      "duration_ms": 208377,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "EZ",
+        "url": "https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ"
       },
       "artists": [
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 208377,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL"
+      "duration_ms": 181163,
+      "name": "EZ",
+      "url": "https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Belong",
-        "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 177219,
-      "name": "God Speed",
-      "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 158493,
       "name": "Baby Mama 2",
       "url": "https://open.spotify.com/track/0bm8L8NM3TOdtgpVb8hyPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Belong",
+        "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 177219,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
     },
     {
       "added_at": null,

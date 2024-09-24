@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 218549,
       "name": "Happiest Man Alive",
       "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
@@ -4044,17 +4044,17 @@
       },
       "artists": [
         {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        },
-        {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 243133,
       "name": "Soca",
       "url": "https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V"

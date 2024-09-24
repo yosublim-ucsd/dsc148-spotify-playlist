@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: FIFTY FIFTY",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: KEY",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -6752,6 +6752,24 @@
       "duration_ms": 201680,
       "name": "Play",
       "url": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu"
+    },
+    {
+      "album": {
+        "name": "Pleasure Shop - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182280,
+      "name": "Pleasure Shop",
+      "url": "https://open.spotify.com/track/2022n4pxaEaDC2YvzVl1w7"
     },
     {
       "album": {

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,906 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,941 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 | 2 | [Juanita](https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Juanita](https://open.spotify.com/album/2yZ51UjDjH3jc3g6yOF5rY) | 3:36 |
-| 3 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 |
-| 4 | [Space Piloot](https://open.spotify.com/track/6fSLqvEylA2IUrvD7X6l8T) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Space Piloot](https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1) | 2:55 |
-| 5 | [Ladder Naar De Hemel](https://open.spotify.com/track/56x8TdbbAo6KHvToVEQ9vD) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ladder Naar De Hemel](https://open.spotify.com/album/1Fo1S5d0Z0KiVffUAfLaGl) | 3:09 |
-| 6 | [Wat Maakt Het Uit](https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Wat Maakt Het Uit](https://open.spotify.com/album/0KfUyIG4rn8eRdQr5Oh5hm) | 2:52 |
-| 7 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 |
+| 3 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 |
+| 4 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 |
+| 5 | [Space Piloot](https://open.spotify.com/track/6fSLqvEylA2IUrvD7X6l8T) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Space Piloot](https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1) | 2:55 |
+| 6 | [Ladder Naar De Hemel](https://open.spotify.com/track/56x8TdbbAo6KHvToVEQ9vD) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ladder Naar De Hemel](https://open.spotify.com/album/1Fo1S5d0Z0KiVffUAfLaGl) | 3:09 |
+| 7 | [Wat Maakt Het Uit](https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Wat Maakt Het Uit](https://open.spotify.com/album/0KfUyIG4rn8eRdQr5Oh5hm) | 2:52 |
 | 8 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 |
 | 9 | [Dit Gaat Over jou](https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Dit Gaat over jou](https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz) | 2:52 |
 | 10 | [Zou Jij Mij Doen?!](https://open.spotify.com/track/43oq1u2ymYMSAlNF7h4zy1) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Zou Jij Mij Doen?!](https://open.spotify.com/album/6AMIJvQID6bAxFp3vMFHR0) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Jij en Ik met Z'n Twee](https://open.spotify.com/track/6XvkdaXGluguBki0kBkXAK) | [Kobus Engels](https://open.spotify.com/artist/31ceTfWruX9GVw1VjR30ke) | [Jij en Ik met Z'n Twee](https://open.spotify.com/album/5jLjAsfGPHT6XeVPNSAD2E) | 2:56 |
 | 80 | [Vier Het Leven](https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Vier Het Leven](https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM) | 3:20 |
 
-Snapshot ID: `Zuye4AAAAABYND4fbndVy6FJg4f5buOW`
+Snapshot ID: `ZvHk4AAAAAAqtzE84+MvKeG+Gaky/l6i`

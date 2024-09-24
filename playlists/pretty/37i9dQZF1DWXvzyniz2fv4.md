@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,402 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,414 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 30 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
 | 31 | [Mundo Gira](https://open.spotify.com/track/4weBE9PEbb6WqtPoh47KaH) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mundo Gira](https://open.spotify.com/album/0zE0SYmMMq03W08p6hQJru) | 2:55 |
 | 32 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
-| 33 | [Alta Definição](https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Alta Definição](https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6) | 2:03 |
-| 34 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 33 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
+| 34 | [Alta Definição](https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Alta Definição](https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6) | 2:03 |
 | 35 | [Talvez](https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Alguém Tinha Que Falar De Amor](https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf) | 3:20 |
 | 36 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 37 | [Manual Da Bandida](https://open.spotify.com/track/1Lgdi8yfpK2RTMHuJxHcAA) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [Dom'Ví](https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc) | [Manual Da Bandida](https://open.spotify.com/album/0swcWOMq4T7XaYKomCCZQC) | 3:06 |

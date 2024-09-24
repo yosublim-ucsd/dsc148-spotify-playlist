@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Gajendra Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,386 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,409 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enna Yaad](https://open.spotify.com/track/7k6rMwA3ZzE0SI2jHhfou8) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Enna Yaad](https://open.spotify.com/album/5G1UIEpLAdfixST5nBT3Oq) | 3:58 |
-| 2 | [Nazar](https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Hiten](https://open.spotify.com/artist/0lO6QzY2nP8XYNX94HJkq9) | [Nazar](https://open.spotify.com/album/6aqgxCtAd96JPvM4unprZz) | 2:25 |
+| 2 | [Nazar](https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Nazar](https://open.spotify.com/album/6aqgxCtAd96JPvM4unprZz) | 2:25 |
 | 3 | [Main Hawa Mein Hu](https://open.spotify.com/track/1y80LDw4jNgs5X8o1pSXOY) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Main Hawa Mein Hu](https://open.spotify.com/album/0BwhDzXo2T6ceWGwHN73yi) | 2:34 |
 | 4 | [Dil Kyun Bas Mein Nahi](https://open.spotify.com/track/7taUjp1VcBWqAcU6ms4Tok) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Dil Kyun Bas Mein Nahi](https://open.spotify.com/album/3iz5tIn9LGmtEGRQaM6dFQ) | 4:07 |
 | 5 | [Itna Kaafi Nahi](https://open.spotify.com/track/0xK7woGsWG3WItB4jpEUN9) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditya Jain](https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1) | [Itna Kaafi Nahi](https://open.spotify.com/album/04xFfsmI9FHHHzltyN5Mv5) | 4:26 |

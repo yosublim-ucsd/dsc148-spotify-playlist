@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: アーリャ（CV：上坂すみれ） ©Sunsunsun,Momoco/KADOKAWA/Alya\-san Partners \(edited\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,400 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,668 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 46 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 47 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 48 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 |
-| 49 | [晴々！](https://open.spotify.com/track/583o9Mq3GaRdTQWYkwRTW3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [晴々！](https://open.spotify.com/album/0j5lA2YJu1SbYrtAxCdVPH) | 3:59 |
-| 50 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 |
+| 49 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 |
+| 50 | [晴々！](https://open.spotify.com/track/583o9Mq3GaRdTQWYkwRTW3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [晴々！](https://open.spotify.com/album/0j5lA2YJu1SbYrtAxCdVPH) | 3:59 |
 
 Snapshot ID: `ZuMFiAAAAAAEmBxMadmmXDzUnZTfHl+m`

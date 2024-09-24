@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/2eO58FVIBNoEjGgJ6OrjFU"
+      },
+      "artists": [
+        {
+          "name": "WZA",
+          "url": "https://open.spotify.com/artist/2TqOxk4tzOGX9ns3feBXU7"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196237,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/1Z6RuYFWKqNaEKUrkgVJHT"
+    },
+    {
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/5WOyodAauh50nUftaZ355E"
       },

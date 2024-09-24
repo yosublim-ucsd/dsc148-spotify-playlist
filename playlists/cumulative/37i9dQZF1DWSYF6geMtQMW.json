@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166876,
+      "name": "A+ (feat. Ravid Plotnik)",
+      "url": "https://open.spotify.com/track/34R5dih7V1DWiuuUxH2tcj"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -234,7 +256,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 178965,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
@@ -394,7 +416,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -412,7 +434,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -524,7 +546,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 181733,
       "name": "\u05d0\u05dc \u05ea\u05dc\u05db\u05d9",
       "url": "https://open.spotify.com/track/3ZxJ11VOqtzbFPQJAGYCjC"
@@ -805,6 +827,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d5\u05e4",
+        "url": "https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163213,
+      "name": "\u05dc\u05d5\u05e4",
+      "url": "https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d9\u05dc\u05d4 \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/7cLpPcxx3Nh8FsHLTZHdWU"
       },
@@ -816,7 +856,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 149316,
       "name": "\u05dc\u05d9\u05dc\u05d4 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/0xEyCZ6cQg3apftD06KVaA"
@@ -1091,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05d1\u05e8\u05e0\u05d5 \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/3PIMlTzSQFaYRYcsD2pwPn"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195238,
+      "name": "\u05e2\u05d1\u05e8\u05e0\u05d5 \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/4L5Uj4Dt6rjFL0H7hl2qHF"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d1\u05d3 \u05d1\u05db\u05e4\u05e8",
         "url": "https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw"
       },
@@ -1356,6 +1414,42 @@
       "duration_ms": 228320,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
       "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/1YdxoBErtg9MusUuZ6hjSp"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
+          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172694,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/3CZdlwKHGTvfveatbfKD3q"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05e1\u05d1\u05d9\u05db\u05d9\u05dd \u05e7\u05e9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d9\u05e8\u05d6 \u05d0\u05d1\u05e8\u05d4\u05dd",
+          "url": "https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "\u05ea\u05e1\u05d1\u05d9\u05db\u05d9\u05dd \u05e7\u05e9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu"
     },
     {
       "album": {

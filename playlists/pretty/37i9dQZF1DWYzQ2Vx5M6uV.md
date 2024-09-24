@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Ryan Castro, Farruko, Kapo, Maluma & Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,388 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,405 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 43 | [Uff](https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:32 |
 | 44 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 | 45 | [Si Mami Supiera](https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Mami Supiera](https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V) | 2:40 |
-| 46 | [Europa](https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Europa](https://open.spotify.com/album/42nZQTeozDdU1ReiwtysnD) | 2:51 |
-| 47 | [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 |
+| 46 | [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 |
+| 47 | [Europa](https://open.spotify.com/track/5DN2tYSlhn04NqAwmgl4s4) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Europa](https://open.spotify.com/album/42nZQTeozDdU1ReiwtysnD) | 2:51 |
 | 48 | [LLORANDO EN UN VERANO](https://open.spotify.com/track/52NfXNvve1Tufz2PAiJ8D9) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [LLORANDO EN UN VERANO](https://open.spotify.com/album/1qUyLTHm9Z54TuLBQQLyiz) | 2:33 |
 | 49 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 |
 | 50 | [Flow De La Mata](https://open.spotify.com/track/4z9UI0T9Wperl0DDecK81H) | [Kenai](https://open.spotify.com/artist/6lca9phTiMCNjObnwuCFi1) | [Flow De La Mata](https://open.spotify.com/album/6D1lZ5poIL4z5qHOJYXLx0) | 2:51 |

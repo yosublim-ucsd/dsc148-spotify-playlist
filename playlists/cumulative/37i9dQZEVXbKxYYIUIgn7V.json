@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Wandering (Love Me Back)",
+        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY"
+    },
+    {
+      "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/6OWfvkLDLekKnwUsO2VUQq"
       },
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 109851,
       "name": "Gib\u2018s Mir",
       "url": "https://open.spotify.com/track/2mIkDNv5RqhecXE01zdLSX"
@@ -7574,7 +7592,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 160000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"

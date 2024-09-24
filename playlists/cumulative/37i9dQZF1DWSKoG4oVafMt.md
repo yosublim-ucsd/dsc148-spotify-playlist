@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-920 songs - 2 day 1 hr 49 min
+921 songs - 2 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2021-12-02 | 2022-04-06 |
 | [Maa Da Ladla](https://open.spotify.com/track/3g0YKnUd6OAISsqOtWXalD) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Maa Da Ladla \(From "Maa Da Ladla"\) \- Single](https://open.spotify.com/album/5XDCqx7v4cws40DvtZxVqE) | 2:40 | 2022-08-31 | 2022-09-03 |
 | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5YRF192d5rE7xk6cT1H6wN) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Maafi \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/4ohGfpncGicmnQ3gPHeIlt) | 4:20 | 2022-02-15 | 2022-04-06 |
-| [Maahi Maahi](https://open.spotify.com/track/0iaG10jcOPWAoEwo66y8IA) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Maahi Maahi](https://open.spotify.com/album/67C8SOhG4gDRiOxpjD741T) | 3:28 | 2024-09-13 |  |
+| [Maahi Maahi](https://open.spotify.com/track/0iaG10jcOPWAoEwo66y8IA) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Maahi Maahi](https://open.spotify.com/album/67C8SOhG4gDRiOxpjD741T) | 3:28 | 2024-09-13 | 2024-09-24 |
 | [Maahi Ve \- From "Khao Piyo Aish Karo"](https://open.spotify.com/track/43TBtfmutJ3PtoZ1JFYUSU) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maahi Ve \(From "Khao Piyo Aish Karo"\)](https://open.spotify.com/album/2A5hjp8xz9eqX4oo5epl4C) | 2:31 | 2022-06-24 | 2022-07-06 |
 | [Mafioso](https://open.spotify.com/track/43LCLweOOR8a3InLT4QVBa) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sonia Aulakh](https://open.spotify.com/artist/1c3PnMjRlyaMpQ6V0sbJ63) | [Mafioso](https://open.spotify.com/album/6CWGvQ8Ug61BApJqQzNDRN) | 2:32 | 2022-03-18 | 2022-04-06 |
 | [Magic](https://open.spotify.com/track/2c1QWruUy84qPY8R2rJubV) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Magic](https://open.spotify.com/album/54Sq4PeS6zeLVQ5jfm0Jv9) | 2:56 | 2022-04-04 | 2022-04-29 |
@@ -658,6 +658,7 @@
 | [Rabb Lagda](https://open.spotify.com/track/08VrJGA7t2dmth9oP8D3g8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT) | [Rabb Lagda](https://open.spotify.com/album/1QffzMgmVdIEQpjVGxhY0Z) | 3:31 | 2022-05-10 | 2022-05-20 |
 | [Rabba Kyun](https://open.spotify.com/track/27ffhH14QEiGyuqY9BJAzM) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4) | [Rabba Kyun](https://open.spotify.com/album/3dCwIeIdC2nQNXpGOgZgw0) | 3:16 | 2022-05-09 | 2022-05-20 |
 | [Rabba Mainu \- From "Jind Mahi"](https://open.spotify.com/track/76lfsGx43fls0iMp7x2Ix1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Rabba Mainu \(From "Jind Mahi"\)](https://open.spotify.com/album/2z3LpgoXKC3GjbnGS9AKDF) | 3:21 | 2022-07-20 | 2022-12-16 |
+| [Raja Rani](https://open.spotify.com/track/7MddugzwprJeR1zy4jSlcD) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Raja Rani](https://open.spotify.com/album/6nU0q2jRcAcwDR6wJiezEb) | 2:08 | 2024-09-23 |  |
 | [Rang Biscuity \- From "Rode College"](https://open.spotify.com/track/0SqLDuHyXPr8o2dqTI1TeE) | [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH), [Amrit Sandhu](https://open.spotify.com/artist/3EHdCKDLcpcjXHTj7rHpmP), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Rang Biscuity \(From "Rode College"\)](https://open.spotify.com/album/1f2dXPh21Ysku6Dgh6SQtR) | 2:49 | 2024-04-05 | 2024-04-24 |
 | [Rang Chadheya](https://open.spotify.com/track/0pHVpjpyZg3rI6e2AWYQFm) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG) | [Rang Chadheya](https://open.spotify.com/album/4s2WLUhDysiCe9JWcmmEnR) | 3:35 | 2024-03-26 | 2024-05-24 |
 | [Rang Soneya](https://open.spotify.com/track/4wGJwd7XWkqhy9sQ9e81IR) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Rang Soneya](https://open.spotify.com/album/4EABUN4xMmsfwEY2i04jq0) | 2:44 | 2022-02-23 | 2022-04-06 |

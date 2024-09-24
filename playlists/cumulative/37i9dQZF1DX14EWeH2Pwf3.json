@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
@@ -418,6 +418,32 @@
       "duration_ms": 162406,
       "name": "40 GRADI",
       "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
+    },
+    {
+      "album": {
+        "name": "64 BARRE DI VERIT\u00c0 (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "LAX",
+          "url": "https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230965,
+      "name": "64 BARRE DI VERIT\u00c0 (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV"
     },
     {
       "album": {
@@ -2952,6 +2978,24 @@
       "duration_ms": 174379,
       "name": "CHIARA",
       "url": "https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe"
+    },
+    {
+      "album": {
+        "name": "CHIARA",
+        "url": "https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149473,
+      "name": "CHIARA",
+      "url": "https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj"
     },
     {
       "album": {
@@ -8396,7 +8440,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 188130,
       "name": "MYLOVE! (feat. Rose Villain, Ernia, SLF)",
       "url": "https://open.spotify.com/track/2MkcmFyCYUkkEpx8lcrcJM"

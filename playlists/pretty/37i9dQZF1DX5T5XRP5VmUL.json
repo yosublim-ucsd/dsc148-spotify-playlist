@@ -1,6 +1,6 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 148579,
+  "num_followers": 148574,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-09-20 16:16:35",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
     },
     {
       "added_at": "2024-09-20 16:16:35",
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-09-20 16:16:35",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2024-09-20 16:16:35",

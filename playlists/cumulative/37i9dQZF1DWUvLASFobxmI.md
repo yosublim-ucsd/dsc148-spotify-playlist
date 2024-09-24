@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Régulo Caro en portada.
 
-568 songs - 1 day 6 hr 13 min
+569 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2022-12-09 |  |
 | [956](https://open.spotify.com/track/1wM5VDXeR8o0ueQIvAaJib) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [956](https://open.spotify.com/album/5GfFyWL5lWT3JQ5WsUE0kz) | 2:22 | 2024-01-12 | 2024-01-27 |
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [A Mí Me Gustas Tú](https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy) | 3:06 | 2022-12-02 |  |
-| [A Puro Dolor](https://open.spotify.com/track/0M7w6W5Z6Zk1PmG4mnsa9Z) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [A Puro Dolor](https://open.spotify.com/album/6BU641BOaX28xdeTKmpMHV) | 3:35 | 2024-08-30 |  |
+| [A Puro Dolor](https://open.spotify.com/track/0M7w6W5Z6Zk1PmG4mnsa9Z) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [A Puro Dolor](https://open.spotify.com/album/6BU641BOaX28xdeTKmpMHV) | 3:35 | 2024-08-30 | 2024-09-24 |
 | [Abriendo Los Caminos](https://open.spotify.com/track/7DZPSq8mIO1BiVJ3c1Mht4) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik) | [Abriendo Los Caminos](https://open.spotify.com/album/4KAlI2f8U66VLSttCPjagx) | 2:29 | 2023-10-06 | 2023-10-22 |
 | [Adolescente y Bonita](https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Homenaje A Ramon Vega](https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56) | 3:17 | 2024-07-12 | 2024-08-31 |
 | [Agachadita](https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Agachadita](https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY) | 3:15 | 2022-12-09 | 2024-03-23 |
@@ -546,6 +546,7 @@
 | [Una Aventura](https://open.spotify.com/track/1gNzBRLuAKNZNf7zAp59cD) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Una Aventura](https://open.spotify.com/album/6mTSwfg0ncYlg9pJox9Dvo) | 3:05 | 2023-06-16 | 2023-08-27 |
 | [Vaivén](https://open.spotify.com/track/41bThbXGVhiFwHa5hX6jaD) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Vaivén](https://open.spotify.com/album/0wZC53nTNW23eTtTTX73Vo) | 3:12 | 2022-09-02 | 2022-10-01 |
 | [Varios Años](https://open.spotify.com/track/5bCibcsWBAsa4Pqjg4ZR9q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Varios Años](https://open.spotify.com/album/3l4D4Td34r9gRSkNkbzt1S) | 2:48 | 2023-06-16 | 2023-12-02 |
+| [VESTIDO COMO MINISTERIAL](https://open.spotify.com/track/0IK5oo3djc0FTtdpjknAXn) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [VESTIDO COMO MINISTERIAL](https://open.spotify.com/album/1CsMtkCYbkzdJUZWQAfAS5) | 3:15 | 2024-09-20 |  |
 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 | 2023-04-14 |  |
 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 | 2022-12-09 | 2023-04-15 |
 | [Vete a Buscar Aquel](https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm) | [Conjunto Oro](https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs) | [Lo Mejor De](https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP) | 3:32 | 2022-12-09 | 2023-08-26 |

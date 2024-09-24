@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD/8e6i3FUFUQrmxZtamNA5",
+  "snapshot_id": "AAAAAAAAAABMKtUeGKLrlAbTIgWp4hS1",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
-        "url": "https://open.spotify.com/album/66ifWgXVUmxAaVaaOYqkYm"
+        "name": "Mirage Tour '82 (Live)",
+        "url": "https://open.spotify.com/album/62BXtgi628S51UANvOPTxi"
       },
       "artists": [
         {
@@ -58,7 +58,7 @@
       ],
       "duration_ms": 272333,
       "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
-      "url": "https://open.spotify.com/track/1TLJVrZwI5nMmIhJvH6dXv"
+      "url": "https://open.spotify.com/track/2Jr4yka1zUfsnQdeLuIxul"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -75,34 +75,6 @@
       "duration_ms": 262186,
       "name": "Earth Blues - Alternate Mix",
       "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Love (the) Ominous World",
-        "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
-        },
-        {
-          "name": "Blu & Exile",
-          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 171241,
-      "name": "Intro - Hello LA",
-      "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -131,6 +103,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/1B2qzdJ8aJ9ee1qj8YKRjx"
       },
@@ -155,58 +143,30 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+        "name": "Love (the) Ominous World",
+        "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
       },
       "artists": [
         {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
         },
         {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
-        }
-      ],
-      "duration_ms": 248098,
-      "name": "Lyte Ghost Lil Mama",
-      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
-      },
-      "artists": [
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
-        "url": "https://open.spotify.com/album/3ANdGEVavDd9YK2V0abBiC"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 534130,
-      "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
-      "url": "https://open.spotify.com/track/2tCb63qwibZi8EbkkNuv8g"
+      "duration_ms": 171241,
+      "name": "Intro - Hello LA",
+      "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -259,6 +219,46 @@
       "duration_ms": 274708,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/0FlJ0wxfgVZpZV15JKnRyK"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+        }
+      ],
+      "duration_ms": 248098,
+      "name": "Lyte Ghost Lil Mama",
+      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+        "url": "https://open.spotify.com/album/3ANdGEVavDd9YK2V0abBiC"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 534130,
+      "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/2tCb63qwibZi8EbkkNuv8g"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -451,24 +451,8 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 461880,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "precious mind",
-        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
+        "name": "always centered at night - quiet home: remixes dj mix",
+        "url": "https://open.spotify.com/album/15cCs1EBNCmXsIBFZubnfE"
       },
       "artists": [
         {
@@ -480,9 +464,25 @@
           "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
         }
       ],
-      "duration_ms": 304453,
+      "duration_ms": 298707,
       "name": "precious mind (cassette remix)",
-      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
+      "url": "https://open.spotify.com/track/4w43gRbHf7HAi7PbFlTAUg"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/4GHQqu1CNfWN3wK0JxZz7j"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 461880,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/5jPo2CilQ3TotztQuekrmU"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151274,
-      "name": "Something (feat. Syd)",
-      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
         "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 266866,
       "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
       "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151274,
+      "name": "Something (feat. Syd)",
+      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
     },
     {
       "added_at": "2024-09-20 04:00:00",

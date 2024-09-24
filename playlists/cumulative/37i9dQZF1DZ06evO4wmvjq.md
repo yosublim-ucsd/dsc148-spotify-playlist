@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This is Terry Riley\. The essential tracks, all in one playlist.
+> This is Terry Riley\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 182 songs - 1 day 2 hr 30 min
 
@@ -151,7 +151,7 @@
 | [St\. Francis and the Birds](https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [For the Birds: The Birdsong Project, Vol\. I](https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv) | 4:49 | 2023-02-23 |  |
 | [Summer Fling](https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Destination \- Summer Fling Riddim](https://open.spotify.com/album/3rURS7kdzBgkD5EFBrujHD) | 2:30 | 2022-09-09 | 2024-04-30 |
 | [Sunrise Of The Planetary Dream Collector \- 1985 Version](https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Cadenza On The Night Plain And Other String Quartets \(1985 Version\)](https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq) | 10:13 | 2022-11-04 | 2024-06-11 |
-| [Tango Ladeado](https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 3:27 | 2022-05-29 |  |
+| [Tango Ladeado](https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 3:27 | 2022-05-29 | 2024-09-24 |
 | [Tarana in Hindol](https://open.spotify.com/track/4mLCDBrUnCOoKQif9ucuHH) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Amelia Cuni](https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW) | [The Lion's Throne](https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP) | 9:50 | 2022-12-02 | 2022-12-04 |
 | [Terry Riley: Keyboard Study \#1](https://open.spotify.com/track/1w9GGVy7WJAUvxVQAv47o2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gregor Schwellenbach](https://open.spotify.com/artist/5JV80xmxUuqhnBeqQrUMBB), [Lukas Vogel](https://open.spotify.com/artist/6lo2YQrQvYEjSE5TGmeWts) | [Steve Reich: Six Pianos & Terry Riley: Keyboard Study \#1](https://open.spotify.com/album/4tZdDTJcXvF7mDH9MTlC01) | 19:50 | 2022-05-29 |  |
 | [The Ecstacy](https://open.spotify.com/track/09QcATbcO7JKxSFwl075Mw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 4:46 | 2024-07-06 | 2024-07-13 |
@@ -189,6 +189,6 @@
 | [Wedding Song](https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 2:12 | 2022-07-13 | 2023-11-11 |
 | [You're Nogood](https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [You're Nogood](https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ) | 20:30 | 2022-05-31 | 2024-09-23 |
 | [Zamorra](https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 9:52 | 2022-05-29 | 2024-09-07 |
-| [Zucchini](https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 3:00 | 2022-10-12 | 2024-09-10 |
+| [Zucchini](https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Autodreamographical Tales](https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g) | 3:00 | 2022-10-12 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

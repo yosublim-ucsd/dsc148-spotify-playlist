@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 162106,
+  "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 162206,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADHH7l3byuclZcpJj4MUM2h",
+  "snapshot_id": "Zu9eAAAAAAD/aQN1GULBRRFg/g7nXm2v",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "La Chica Est\u00e1 Enojada",
-      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Qu\u00e9 M\u00e1s Da",
         "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 149506,
       "name": "Amor Chiquito",
       "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "La Chica Est\u00e1 Enojada",
+      "url": "https://open.spotify.com/track/4AqXQptYKEAwnuVtGk3zyR"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Espero Que \u00c9l",
-      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
+      "duration_ms": 181146,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 181146,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+      "duration_ms": 204120,
+      "name": "Espero Que \u00c9l",
+      "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
     },
     {
       "added_at": null,

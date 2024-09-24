@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-166 songs - 9 hr 49 min
+167 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Plåstret](https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Plåstret](https://open.spotify.com/album/68mz74xN3EE3nUKVvYevUq) | 3:22 | 2024-06-28 | 2024-08-30 |
 | [Pretty girl](https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/3wWRgEXZBrD7PfejLHElrd) | 3:55 | 2024-06-28 | 2024-08-30 |
 | [prismor](https://open.spotify.com/track/3qR6U22OHQY7YykVUrGZSV) | [Maja Gödicke](https://open.spotify.com/artist/211ACOZQsLwIxPJIIz7nEG) | [arken/prismor](https://open.spotify.com/album/0w84MKny8k6Usfod8gDVxD) | 4:08 | 2024-06-28 | 2024-09-13 |
-| [Pussycat.](https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw), [Skoj](https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E) | [Pussycat.](https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs) | 3:56 | 2024-08-15 |  |
+| [Pussycat.](https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw), [Skoj](https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E) | [Pussycat.](https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs) | 3:56 | 2024-08-15 | 2024-09-24 |
 | [På sommaren](https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [På sommaren](https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF) | 3:11 | 2024-08-15 |  |
 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 | 2024-09-19 |  |
 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-13 |  |
@@ -136,6 +136,7 @@
 | [Right?](https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Right?](https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw) | 2:56 | 2024-06-28 |  |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 |  |
+| [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 |  |
 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 | 2024-08-08 | 2024-09-22 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 |  |
 | [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-06-28 | 2024-08-16 |

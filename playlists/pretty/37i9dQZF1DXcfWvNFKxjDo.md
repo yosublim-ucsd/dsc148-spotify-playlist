@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Imanbek, DJ SODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,654 likes - 78 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,780 likes - 78 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 77 | [Hypnotized](https://open.spotify.com/track/3xwBd5amAcGgrPAxVDDkqa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Hypnotized](https://open.spotify.com/album/2y2dWBsbaIAXVbyCIMp6p9) | 3:36 |
 | 78 | [Sweet Dreams](https://open.spotify.com/track/1mz4zuKNYAvIgOSV1IsJZY) | [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0) | [Sweet Dreams](https://open.spotify.com/album/1aUaDoZ6kXdko4ELzKZgRg) | 3:20 |
 
-Snapshot ID: `Zuye4AAAAAAdzD6Cd5vbsNAck9r1COY5`
+Snapshot ID: `Zuye4AAAAACX71ii4HIDk4XUx1ZRXdxg`

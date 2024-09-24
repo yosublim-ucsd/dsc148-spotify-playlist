@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 34871,
+  "num_followers": 34870,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "Plena Que Se Pega",
+        "url": "https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um"
+      },
+      "artists": [
+        {
+          "name": "Unci\u00f3n Tropical",
+          "url": "https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Medley Coritos De Navidad",
+      "url": "https://open.spotify.com/track/51LEeTB85rTK2jVULTmAz4"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 272250,
       "name": "Buscando Al Rey",
       "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Plena Que Se Pega",
-        "url": "https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um"
-      },
-      "artists": [
-        {
-          "name": "Unci\u00f3n Tropical",
-          "url": "https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Medley Coritos De Navidad",
-      "url": "https://open.spotify.com/track/51LEeTB85rTK2jVULTmAz4"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -661,7 +661,7 @@
         }
       ],
       "duration_ms": 201426,
-      "name": "El Ni\u00f1o del Tambor",
+      "name": "El Ni\u00f1o Del Tambor",
       "url": "https://open.spotify.com/track/3MPoy0uesBJJsUjor7UCOF"
     },
     {
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Cristianos Vayamos",
-        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
       "artists": [
         {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 227705,
-      "name": "Cristianos Vayamos",
-      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
         }
       ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1068,6 +1068,10 @@
       },
       "artists": [
         {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
           "name": "Betsy",
           "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
         }
@@ -1075,22 +1079,6 @@
       "duration_ms": 186613,
       "name": "Noche De Paz (feat. Betsy)",
       "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "El Burrito De Bel\u00e9n",
-      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1147,22 +1135,6 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Se Oye el Anuncio",
-        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Rosa",
-          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "Se Oye el Anuncio",
-      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
         "name": "Navidad Lleg\u00f3",
         "url": "https://open.spotify.com/album/1kZuuVkiGyFc2LpNbkfzmw"
       },
@@ -1179,18 +1151,34 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Navidad Con Gospa",
-        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
       },
       "artists": [
         {
-          "name": "Gospa",
-          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
         }
       ],
-      "duration_ms": 187204,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
+      "duration_ms": 192386,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "Se Oye el Anuncio",
+        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Rosa",
+          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "Se Oye el Anuncio",
+      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1211,18 +1199,18 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Nattyvidad",
-        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
+        "name": "Navidad Con Gospa",
+        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
       },
       "artists": [
         {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+          "name": "Gospa",
+          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
         }
       ],
-      "duration_ms": 264661,
-      "name": "Nattyvidad",
-      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
+      "duration_ms": 187204,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1239,6 +1227,22 @@
       "duration_ms": 223376,
       "name": "Pa\u2019 Regalarme Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/14WUmiYvMXlMIakfhjMUlA"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "Nattyvidad",
+        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "Nattyvidad",
+      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1275,6 +1279,22 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "duration_ms": 181690,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
         "name": "Venid Fieles Todos",
         "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
       },
@@ -1303,22 +1323,6 @@
       "duration_ms": 184448,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
-        "name": "Esta Navidad",
-        "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Miguez",
-          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
-        }
-      ],
-      "duration_ms": 181690,
-      "name": "Esta Navidad",
-      "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -1975,30 +1979,6 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Navidad Con V\u00e1stago Vol. 2",
-        "url": "https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0"
-      },
-      "artists": [
-        {
-          "name": "Adrian Romero",
-          "url": "https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        },
-        {
-          "name": "Daniel Fraire",
-          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
-        }
-      ],
-      "duration_ms": 215046,
-      "name": "Un Cuento De Navidad",
-      "url": "https://open.spotify.com/track/0y9pSP2pvOXx5qyqIVnkrb"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
         "name": "Noche de paz",
         "url": "https://open.spotify.com/album/3ASFoKaxRtfLItf3UthC91"
       },
@@ -2011,6 +1991,22 @@
       "duration_ms": 186375,
       "name": "Noche de paz",
       "url": "https://open.spotify.com/track/1FgGbxn7dhxkjxivVUxF96"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Romero",
+          "url": "https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "\u00bfQu\u00e9 Dir\u00edas?",
+      "url": "https://open.spotify.com/track/2gHZj7um0KdIav8ncUCEqE"
     },
     {
       "added_at": "2024-09-12 08:29:55",
@@ -2119,22 +2115,6 @@
     {
       "added_at": "2024-09-12 08:29:55",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrian Romero",
-          "url": "https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "\u00bfQu\u00e9 Dir\u00edas?",
-      "url": "https://open.spotify.com/track/2gHZj7um0KdIav8ncUCEqE"
-    },
-    {
-      "added_at": "2024-09-12 08:29:55",
-      "album": {
         "name": "Navidad en Mi Tierra",
         "url": "https://open.spotify.com/album/3bBEvMvpx2UnVRIYMTn6S0"
       },
@@ -2147,6 +2127,30 @@
       "duration_ms": 272352,
       "name": "Medley de Coritos",
       "url": "https://open.spotify.com/track/0KsL7ntQptxiIGfuLqH4ue"
+    },
+    {
+      "added_at": "2024-09-12 08:29:55",
+      "album": {
+        "name": "Navidad Con V\u00e1stago Vol. 2",
+        "url": "https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0"
+      },
+      "artists": [
+        {
+          "name": "Adrian Romero",
+          "url": "https://open.spotify.com/artist/5PbgoupAwL4bLeg5uv9u1O"
+        },
+        {
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
+        },
+        {
+          "name": "Daniel Fraire",
+          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
+        }
+      ],
+      "duration_ms": 215046,
+      "name": "Un Cuento De Navidad",
+      "url": "https://open.spotify.com/track/0y9pSP2pvOXx5qyqIVnkrb"
     },
     {
       "added_at": "2024-09-12 08:29:55",

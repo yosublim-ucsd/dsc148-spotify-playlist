@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mc Binn, Jovem MK, Dalsin, Mu540
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,118 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,121 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Exagerado \(Bônus\)](https://open.spotify.com/track/1z1tnfN2YICyM9Exmh6IKy) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [O Retrato Falado da Minha Face](https://open.spotify.com/album/6OZiT5xv7XoRc5wHE3XI44) | 1:59 |
 | 75 | [Perfil \#95 \- Muita Luta](https://open.spotify.com/track/6lJ90Cs9Qr644OmLHgBkD2) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Perfil \#95 \- Muita Luta](https://open.spotify.com/album/3OdIO29zdJMI6P31H1YKwb) | 3:03 |
 
-Snapshot ID: `ZuzlbAAAAAA5dWkwu80h8psGeMSfhaHy`
+Snapshot ID: `ZuzlbAAAAACY2DApAyHL4rG2V5x+fikU`

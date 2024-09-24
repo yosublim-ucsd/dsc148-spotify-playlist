@@ -2,9 +2,9 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Cinderella at 2AM\(새벽 2시의 신데렐라\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Love Next Door\(엄마친구아들\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-924 songs - 2 day 8 hr 6 min
+926 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [By Your Side](https://open.spotify.com/track/7nycbeEEeLvF1CcUKC3NaV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Romance in the House \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3gBfJhcaevqcsmz2zsGG07) | 2:59 | 2024-09-02 |  |
 | [By Your Side](https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Poong, the Joseon Psychiatrist OST Part.1](https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI) | 3:52 | 2022-08-12 | 2022-12-20 |
 | [Bye Bye](https://open.spotify.com/track/1uj92PjmEBcyTb4bXtHpQC) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Our Blues, Pt\. 9 \(Original Television Soundtrack\)](https://open.spotify.com/album/3soPFtAjCtDtljX7hfjJCR) | 4:02 | 2022-06-09 | 2022-08-13 |
+| [Caged](https://open.spotify.com/track/4329q7cdXuIDJ4UgOdnoyB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [DNA Lover \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3d7mNfKj8Vygsebsc1Xw91) | 3:45 | 2024-09-23 |  |
 | [Calling for Spring](https://open.spotify.com/track/2kL5OJKk7rQUnVaOAuQH1u) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 | 2023-08-16 | 2024-02-11 |
 | [Can we fly like a bird](https://open.spotify.com/track/71XeSNV3ReLzTLZSZBdi3h) | [KIM SO YEON](https://open.spotify.com/artist/0MX5nfUypMRGoxewT2VcM7) | [Kill Heel, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3PGpqVjYS0St1arZetKeKM) | 4:13 | 2022-04-21 | 2022-06-29 |
 | [Can We Go Back To The Good Old Days](https://open.spotify.com/track/0Tk3i4zjMKNbD5xvOXKIii) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Soundtrack \#2: Vol\. 1](https://open.spotify.com/album/3I4gPQQ9JMsM5lNEsTFurJ) | 4:10 | 2023-12-14 | 2024-06-26 |
@@ -419,6 +420,7 @@
 | [Last minute](https://open.spotify.com/track/7lNskvQuQ4fxtXpAa3I7nt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [EXchange3, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3IhnwWehcwHwLKfP2vgVYn) | 3:34 | 2024-02-10 | 2024-08-13 |
 | [Learning to Live](https://open.spotify.com/track/58PKHsshq0OSPJvdEHhWin) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [Never give up, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6IOAz4E5KTGQ2hBxdSoi6H) | 3:55 | 2022-06-09 | 2022-08-03 |
 | [Leave](https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/43wpzZRIko2hqhjZMkR32n) | 4:51 | 2022-01-03 | 2022-04-13 |
+| [Leave it all behind](https://open.spotify.com/track/3z9HFAPJRMbMXAtG52P0FW) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Love Next Door, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/6Ev79pgPGMEsT4k53ngove) | 3:38 | 2024-09-23 |  |
 | [Lemon](https://open.spotify.com/track/4uBkLFdqwsKI7Mn3QE0k0Z) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [브랜딩 인 성수동 OST Part.2](https://open.spotify.com/album/1UGXySXL9nDZBIU1gtEfEo) | 3:51 | 2024-02-27 | 2024-09-12 |
 | [Let It Bleed \(From "Bite Sisters"\)](https://open.spotify.com/track/5MhoswLckCCOAGzdoVfNv4) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM), [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA) | [Let It Bleed \(From "Bite Sisters"\)](https://open.spotify.com/album/5CugfvXAi18dQaVxZTu0sK) | 3:56 | 2021-12-19 | 2022-03-04 |
 | [Let It Flow](https://open.spotify.com/track/17L3Am6DeUdCkmm70P5bTh) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Bloody Heart, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7dMTl85582Mbm9xUa34vc8) | 3:28 | 2022-06-13 | 2022-08-26 |

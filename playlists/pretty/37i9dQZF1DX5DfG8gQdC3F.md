@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nelly Furtado, Bad Bunny, Bon Iver, The Beaches and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,399 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,414 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 27 | [Slut For Excel](https://open.spotify.com/track/7KBqbyOkR7JHoOCUroSUuF) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Slut For Excel](https://open.spotify.com/album/1p5yOFn5jn3bVvPMBOsSVW) | 2:44 |
 | 28 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |
 | 29 | [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 |
-| 30 | [DON'T WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
+| 30 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
 | 31 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 |
 | 32 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
 | 33 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \- Spotify Singles](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 |

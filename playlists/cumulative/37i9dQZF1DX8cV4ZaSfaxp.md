@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-339 songs - 20 hr 58 min
+340 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [都市女子](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 | 2022-05-11 | 2023-08-07 |
 | [都市女子](https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by) | 3:17 | 2023-07-13 | 2024-04-19 |
 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 | 2022-06-18 |  |
-| [다시, 설렘](https://open.spotify.com/track/5Sf6guL6oy60wl037gHQMW) | [소근남](https://open.spotify.com/artist/2IoZlJgGFWr0jSJjgbIKDv) | [다시, 설렘](https://open.spotify.com/album/1tNLr1kyi5E7ycKn6DBHpG) | 5:19 | 2024-09-13 |  |
+| [다시, 설렘](https://open.spotify.com/track/5Sf6guL6oy60wl037gHQMW) | [소근남](https://open.spotify.com/artist/2IoZlJgGFWr0jSJjgbIKDv) | [다시, 설렘](https://open.spotify.com/album/1tNLr1kyi5E7ycKn6DBHpG) | 5:19 | 2024-09-13 | 2024-09-24 |
 | [마법소녀 Magic girl](https://open.spotify.com/track/6mre9iAnKmOmABGcWKEbsa) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Bittersweet](https://open.spotify.com/album/0nWcRZpD3gEivKnpnrtdEB) | 3:59 | 2022-05-11 | 2022-07-09 |
 | [무성영화 Silent Movie](https://open.spotify.com/track/1Uw4C5ytMpTT5CNXTtULdI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of The End](https://open.spotify.com/album/0tETEOounTtE1iBygDvQgz) | 3:20 | 2022-05-11 | 2022-07-29 |
 | [미래](https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN) | 3:35 | 2023-05-05 | 2024-04-19 |
@@ -345,6 +345,7 @@
 | [어떤 오후 One Afternoon](https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:35 | 2022-05-11 |  |
 | [오늘 너의 두 손을 잡고](https://open.spotify.com/track/5gOyLqY1Y9qQ768QSwMPI0) | [현성민](https://open.spotify.com/artist/47kUNrAocpuIOvyRHpfwxB), [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [오늘 너의 두 손을 잡고](https://open.spotify.com/album/11NsORdJyGvf2k2SQtCTQd) | 3:37 | 2022-05-11 | 2022-07-28 |
 | [우리 둘만 특별하게](https://open.spotify.com/track/7k5i9hzO4rq5Qk3NOTdjo2) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 4/6](https://open.spotify.com/album/2heqZChEg4UgSBjLYjQ0UW) | 3:37 | 2022-06-09 | 2022-06-30 |
+| [우리 사랑이 툭 끝나면](https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O) | [해인](https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS) | [우리 사랑이 툭 끝나면](https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K) | 3:17 | 2024-09-13 |  |
 | [이 순간 Remember](https://open.spotify.com/track/5RJWYPiBiEtqKDWLfHHr9B) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3qVG71ED0PeWluJVoJaROJ) | 3:45 | 2022-05-11 | 2022-07-26 |
 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 | 2022-09-05 | 2023-10-05 |
 

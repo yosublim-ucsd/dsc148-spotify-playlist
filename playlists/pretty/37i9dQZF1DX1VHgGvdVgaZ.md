@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,478 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,497 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 29 | [Annapoorne Visalakshi \(Raga: Sama; Tala: Adi\)](https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t) | [Sikkil Mala Chandrasekhar](https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo) | [Annapoorne Visalakshi \- Sikkil Mala Chandrasekhar](https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ) | 5:41 |
 | 30 | [Jagadodharana \(Kadri Gopalnath\-Sax\)](https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp) | [Vadya Sangamam](https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or) | [Vadya Sangamam](https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo) | 7:26 |
 | 31 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
-| 32 | [Nadhatanumanisam](https://open.spotify.com/track/2EkDCXZOkMbL0d8miDIXNT) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 4:04 |
-| 33 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
+| 32 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
+| 33 | [Nadhatanumanisam](https://open.spotify.com/track/2EkDCXZOkMbL0d8miDIXNT) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 4:04 |
 | 34 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
 | 35 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
 | 36 | [Jagadhanandha karaka \- Nattai \- Adi](https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 9:39 |

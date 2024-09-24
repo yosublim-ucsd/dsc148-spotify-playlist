@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Petros Iakovidis
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,492 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,491 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 41 | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ) | 3:34 |
 | 42 | [Fyllo Kai Ftero](https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Fyllo Kai Ftero](https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4) | 3:02 |
 | 43 | [Thalasses](https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Thalasses](https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5) | 4:12 |
-| 44 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 |
-| 45 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 |
+| 44 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 |
+| 45 | [As Ta Leme Kala](https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [As Ta Leme Kala](https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz) | 2:53 |
 | 46 | [Odos Tsimiski](https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Odos Tsimiski](https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9) | 3:09 |
-| 47 | [As Ta Leme Kala](https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [As Ta Leme Kala](https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz) | 2:53 |
+| 47 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 |
 | 48 | [Dromo Epikindino](https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Dromo Epikindino](https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp) | 3:25 |
 | 49 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 |
-| 50 | [Pes Mou](https://open.spotify.com/track/2KDf834esNz60YkoISdDu2) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Pes Mou](https://open.spotify.com/album/732IvasfkpLJYx41saBVrg) | 2:49 |
+| 50 | [Mia Thessaloniki](https://open.spotify.com/track/1IhgepZQpejpPqcO2hGgW6) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Mia Thessaloniki](https://open.spotify.com/album/1t8bnA2GwNaLXBfait6EO5) | 3:33 |
 
 Snapshot ID: `ZuyQ0AAAAAAdXwN69Lh+tm6Ariahh4zF`

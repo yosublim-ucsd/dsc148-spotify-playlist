@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,931 likes - 32 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,921 likes - 32 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

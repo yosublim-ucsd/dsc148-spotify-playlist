@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Lucas & Steve
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,507 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,516 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 85 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 |
 | 86 | [Cannibal](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
 | 87 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 |
-| 88 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 |
-| 89 | [Superhero](https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [Superhero](https://open.spotify.com/album/6zt3YRyXOr4TDbJksVnfuX) | 2:09 |
-| 90 | [Better Days](https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Better Days](https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX) | 2:53 |
-| 91 | [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 |
-| 92 | [The Way Of Love](https://open.spotify.com/track/4YuORB0c2BDXLVxHyz6qrz) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Way Of Love](https://open.spotify.com/album/3hxPIJgp5A0188KdknQOHk) | 3:15 |
-| 93 | [Outta My Mind](https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Outta My Mind](https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi) | 2:19 |
-| 94 | [feel the water](https://open.spotify.com/track/6GL5nCSp7Ag8jLvYhchDq9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [feel the water](https://open.spotify.com/album/7e6CcLwQRkQ9LIthhwgmqI) | 2:57 |
-| 95 | [strange](https://open.spotify.com/track/08MUUMb6UAq5T0zdHxNHk8) | [Julia Tan](https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc) | [strange](https://open.spotify.com/album/58JNHk5KNUzhAoZlLpo4Nq) | 3:38 |
-| 96 | [Dit Gaat Over jou](https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Dit Gaat over jou](https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz) | 2:52 |
-| 97 | [Blijf Bij Mij](https://open.spotify.com/track/5c9AHfLZ3E7d4F5j3YvXOP) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Blijf Bij Mij](https://open.spotify.com/album/6QKPp2frLAnkdPmS5Vj7ub) | 2:26 |
-| 98 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
-| 99 | [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 |
-| 100 | [You](https://open.spotify.com/track/199veyyv63X43EXVU3pYUx) | [Jeroen Houben](https://open.spotify.com/artist/5UCfG3IkUZpgbyZswPj3pS), [Carla Juri](https://open.spotify.com/artist/6MVXgKElZ6f2g5Me9NqVHh) | [Torch Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5wCBLlxW2N2XgLvVJYNbug) | 2:10 |
+| 88 | [Superhero](https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [Superhero](https://open.spotify.com/album/6zt3YRyXOr4TDbJksVnfuX) | 2:09 |
+| 89 | [Better Days](https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Better Days](https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX) | 2:53 |
+| 90 | [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 |
+| 91 | [The Way Of Love](https://open.spotify.com/track/4YuORB0c2BDXLVxHyz6qrz) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Way Of Love](https://open.spotify.com/album/3hxPIJgp5A0188KdknQOHk) | 3:15 |
+| 92 | [Outta My Mind](https://open.spotify.com/track/476vp0wkbvWAdDV8Vi0ORf) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Outta My Mind](https://open.spotify.com/album/4WmGJtAzjYZnU8LVVRZLMi) | 2:19 |
+| 93 | [feel the water](https://open.spotify.com/track/6GL5nCSp7Ag8jLvYhchDq9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [feel the water](https://open.spotify.com/album/7e6CcLwQRkQ9LIthhwgmqI) | 2:57 |
+| 94 | [strange](https://open.spotify.com/track/08MUUMb6UAq5T0zdHxNHk8) | [Julia Tan](https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc) | [strange](https://open.spotify.com/album/58JNHk5KNUzhAoZlLpo4Nq) | 3:38 |
+| 95 | [Dit Gaat Over jou](https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Dit Gaat over jou](https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz) | 2:52 |
+| 96 | [Blijf Bij Mij](https://open.spotify.com/track/5c9AHfLZ3E7d4F5j3YvXOP) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Blijf Bij Mij](https://open.spotify.com/album/6QKPp2frLAnkdPmS5Vj7ub) | 2:26 |
+| 97 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 |
+| 98 | [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 |
+| 99 | [You](https://open.spotify.com/track/199veyyv63X43EXVU3pYUx) | [Jeroen Houben](https://open.spotify.com/artist/5UCfG3IkUZpgbyZswPj3pS), [Carla Juri](https://open.spotify.com/artist/6MVXgKElZ6f2g5Me9NqVHh) | [Torch Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5wCBLlxW2N2XgLvVJYNbug) | 2:10 |
 
-Snapshot ID: `Zuye4AAAAABJr1BoZ9/DZkkrnQmka7Xq`
+Snapshot ID: `ZvEgaAAAAABaNLf5ZedsIPSxXcyrHXq3`

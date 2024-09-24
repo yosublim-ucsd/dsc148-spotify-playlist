@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Lazza in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,628 likes - 95 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,657 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 33 | [OG \(feat\. Jake La Furia & Il Ghost\)](https://open.spotify.com/track/7pxltmUbDHMBhABMwDAsnt) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [OG \(feat\. Jake La Furia & Il Ghost\)](https://open.spotify.com/album/6JdaiAh4kzPiKcLkFaEkZu) | 3:06 |
 | 34 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 |
 | 35 | [MILANOBELLADADIO](https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd) | [MILANOBELLADADIO](https://open.spotify.com/album/0QrUu2fTC9RzTsYuzha1XL) | 1:54 |
-| 36 | [HIND'S HALL 2 \(feat\. Amer Zahr\)](https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Amer Zahr](https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u) | [HIND'S HALL 2 \(feat\. Amer Zahr\)](https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae) | 5:17 |
+| 36 | [HIND'S HALL 2 \(feat\. anees, MC Abdul, & Amer Zahr\)](https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Amer Zahr](https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u) | [HIND'S HALL 2 \(feat\. anees, MC Abdul, & Amer Zahr\)](https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae) | 5:17 |
 | 37 | [Drown Me in Your River](https://open.spotify.com/track/0I7ppo2wo6EOz1sz00krtP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Drown Me in Your River](https://open.spotify.com/album/2cU0FflY59LDxXqyeisN6C) | 2:46 |
 | 38 | [1:1](https://open.spotify.com/track/2lyR4sKecLAbtboEg11ouu) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [1:1](https://open.spotify.com/album/5hrK6UohlHNdzCcdL2ajdu) | 2:23 |
 | 39 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 |

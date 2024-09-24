@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 252093,
+  "num_followers": 252285,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 508120,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Tac..!",
         "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236333,
       "name": "Balla Ba",
       "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "From Here to Eternity (Remastered)",
-        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
-      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Dirty Talk",
         "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+      },
+      "artists": [
+        {
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
     }
   ],
   "unique_name": "Italo Disco",

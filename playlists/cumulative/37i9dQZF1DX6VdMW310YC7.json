@@ -10879,6 +10879,28 @@
     },
     {
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199450,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "album": {
         "name": "The Color of Nothing",
         "url": "https://open.spotify.com/album/4H0uHXcnZwYI9hcsUQ91OP"
       },
@@ -23408,7 +23430,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 257560,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"

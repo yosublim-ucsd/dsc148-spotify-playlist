@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Message from Stray Kids",
+        "url": "https://open.spotify.com/album/00jt3qbQdZuEKoRPDLgmDi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64597,
+      "name": "Message from Stray Kids",
+      "url": "https://open.spotify.com/track/1SpS4uDgjt4nhWwJPNceDU"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
       },

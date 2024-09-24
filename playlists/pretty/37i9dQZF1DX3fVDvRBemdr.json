@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Mart Hoogkamer",
-  "num_followers": 147906,
+  "num_followers": 147941,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAABYND4fbndVy6FJg4f5buOW",
+  "snapshot_id": "ZvHk4AAAAAAqtzE84+MvKeG+Gaky/l6i",
   "tracks": [
     {
       "added_at": "2024-09-19 22:00:00",
@@ -39,6 +39,30 @@
       "duration_ms": 216263,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Brussel",
+        "url": "https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "duration_ms": 170024,
+      "name": "Brussel",
+      "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -111,30 +135,6 @@
       "duration_ms": 172245,
       "name": "Wat Maakt Het Uit",
       "url": "https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Brussel",
-        "url": "https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z"
-      },
-      "artists": [
-        {
-          "name": "Bolle Tito",
-          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
-        },
-        {
-          "name": "Keizer",
-          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
-        }
-      ],
-      "duration_ms": 170024,
-      "name": "Brussel",
-      "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
     },
     {
       "added_at": "2024-09-19 22:00:00",

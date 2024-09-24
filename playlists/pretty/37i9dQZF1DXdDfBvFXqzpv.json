@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106567,
+  "num_followers": 106583,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Episode ll",
+        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 405693,
+      "name": "Played-A-Live (The Bongo Song)",
+      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Episode ll",
-        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
-      },
-      "artists": [
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 405693,
-      "name": "Played-A-Live (The Bongo Song)",
-      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 310440,
-      "name": "Lyla",
-      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 310440,
+      "name": "Lyla",
+      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "anthems",
-      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 270840,
       "name": "Are You What You Want to Be?",
       "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "anthems",
+      "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wrong Time",
-        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 170387,
-      "name": "Wrong Time",
-      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wrong Time",
+        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 170387,
+      "name": "Wrong Time",
+      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Postpone",
-      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Ticket To Ride",
         "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 182066,
       "name": "Ticket To Ride",
       "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Postpone",
+      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "ErruDumEllaHvad",
         "url": "https://open.spotify.com/album/6X1t3OqSHWM8zFEjGKHcyN"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 148942,
       "name": "ErruDumEllaHvad",
       "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 283225,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
         "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 213000,
       "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
       "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 283225,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az"
     },
     {
       "added_at": "2022-11-02 14:00:00",

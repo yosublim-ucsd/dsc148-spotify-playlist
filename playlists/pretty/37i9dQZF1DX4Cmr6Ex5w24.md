@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,185 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,242 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 18 | [Telephone Mani Pol](https://open.spotify.com/track/6gGfcvpyTSM8G1Vf5xUGYW) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indian](https://open.spotify.com/album/7IIRC6m8rRU0qQUHo0BmR4) | 6:14 |
 | 19 | [Uyire Uyire](https://open.spotify.com/track/0hUGQUSf8YcHdOnQG9AFth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 7:14 |
 | 20 | [Maargazhi Poovea](https://open.spotify.com/track/1BsUz93KmwBdR7GI2tWJCe) | [Shobha Shanker](https://open.spotify.com/artist/5Ep3klpu2IgTQJLqsmEHQ0) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 6:19 |
-| 21 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
-| 22 | [Jumballakka](https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR) | [Rafee](https://open.spotify.com/artist/5K3q2zudwdnRiPzbNEm0dc) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 6:19 |
-| 23 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
+| 21 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 |
+| 22 | [Romeo Attam Potal](https://open.spotify.com/track/5KRBc2QCh13xUtBX8Vdg75) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Mr\. Romeo](https://open.spotify.com/album/5g7z1LlsFdThLtZet4OOUx) | 5:38 |
+| 23 | [Jumballakka](https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR) | [Rafee](https://open.spotify.com/artist/5K3q2zudwdnRiPzbNEm0dc) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 6:19 |
 | 24 | [Azhagana Rakshasiyea](https://open.spotify.com/track/22ES2cn1sUsVMn53YIjw57) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Mudhalvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HNLeUTKiANw8DtcLLpHPA) | 6:07 |
 | 25 | [Kuchi Kuchi Rakkamma](https://open.spotify.com/track/7zgUcaUKZJifUZdiGizuth) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sharadha](https://open.spotify.com/artist/6vCB1lbO6PH4tz0EJUO2LR) | [Bombay](https://open.spotify.com/album/1L8QB4XDTFddfoWkZffL2D) | 5:03 |
 | 26 | [Veerapandi Kotayyile](https://open.spotify.com/track/20GvRntcVUf2iB9yuN5jZ3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 6:29 |

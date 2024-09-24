@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Chris Lake &amp; Disclosure
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,716 likes - 148 songs - 7 hr 45 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,718 likes - 148 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

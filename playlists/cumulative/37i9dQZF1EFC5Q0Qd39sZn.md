@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-617 songs - 1 day 18 hr 42 min
+618 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,8 @@
 | [Please Remember](https://open.spotify.com/track/1rB4HmjMpfGKDc53vsVzOY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Please Remember \(Dave Audé Mix\)](https://open.spotify.com/album/7KDMaaPtQ7uEOHmQhngd6O) | 4:34 | 2023-12-30 |  |
 | [Pleasure Or Pain](https://open.spotify.com/track/1qtvhltHHmeFqnz0T3BOoW) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 4:06 | 2023-12-30 |  |
 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 | 2023-12-30 |  |
-| [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/0rEja75Y98wfZWBNcYp0o9) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:20 | 2023-12-30 |  |
+| [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/4jlqmL32s9Y2SyFKo2Gqee) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Mis Favoritas](https://open.spotify.com/album/3eorE1fUTEZafSTr3obncg) | 4:20 | 2024-09-23 |  |
+| [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/0rEja75Y98wfZWBNcYp0o9) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:20 | 2023-12-30 | 2024-09-24 |
 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 | 2023-12-30 |  |
 | [Pray For The Love](https://open.spotify.com/track/1N9hQc4dOwszaH1fX49Ckx) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Matt Dunkley](https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 4:54 | 2023-12-30 |  |
 | [Pretend](https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \- Japan Edition](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 3:20 | 2023-12-30 | 2024-09-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 420056,
+  "num_followers": 420126,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+        "name": "Maranata",
+        "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Minist\u00e9rio Avivah",
+          "url": "https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
+      "duration_ms": 384760,
+      "name": "Maranata - Ao Vivo",
+      "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -367,22 +371,18 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Maranata",
-        "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Avivah",
-          "url": "https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 384760,
-      "name": "Maranata - Ao Vivo",
-      "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
     },
     {
       "added_at": "2024-09-20 03:01:00",

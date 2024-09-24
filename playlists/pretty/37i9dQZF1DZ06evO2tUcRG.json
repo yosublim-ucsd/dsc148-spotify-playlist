@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gabriela Rocha. Los temas esenciales, todos en una lista.",
-  "num_followers": 263640,
+  "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 263670,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAACO4F7BTfGQc6X1HNH7YsYg",
+  "snapshot_id": "Zu9eAAAAAADLHSP84i6njm7blVDazCH4",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00danico - Ac\u00fastico",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -423,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
         "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
       },
@@ -435,26 +435,6 @@
       "duration_ms": 384870,
       "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
       "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 326883,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX"
     },
     {
       "added_at": null,
@@ -479,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 520935,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -511,6 +475,42 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 520935,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 326883,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX"
     },
     {
       "added_at": null,

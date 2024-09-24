@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 170517,
+  "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 170576,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADdZps5yCl0DIEv9EasgAFf",
+  "snapshot_id": "Zu9eAAAAAAApDBf88GJKlHyA52n6Mnqm",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 188093,
-      "name": "Total Ya Se Fue",
-      "url": "https://open.spotify.com/track/0Mps5Z6CN05QkPIzBoAqRM"
+      "duration_ms": 191813,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
+      "duration_ms": 188093,
+      "name": "Total Ya Se Fue",
+      "url": "https://open.spotify.com/track/0Mps5Z6CN05QkPIzBoAqRM"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150533,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al De Alerta",
         "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 165853,
       "name": "Ni Que Tuvieras Tanta Suerte",
       "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "No Llorar\u00e9",
-      "url": "https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168160,
       "name": "Vete Con El",
       "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "No Llorar\u00e9",
+      "url": "https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Rancheras",
-        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Mi Flor De Naranjo",
-      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186173,
       "name": "Distancia Maldita",
       "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Mi Flor De Naranjo",
+      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Gracias Porque Volviste",
-      "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 140333,
       "name": "Te Sorprend\u00ed Llorando",
       "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Gracias Porque Volviste",
+      "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Reproches Del Viento",
-      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Reproches Del Viento",
+      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
     },
     {
       "added_at": null,

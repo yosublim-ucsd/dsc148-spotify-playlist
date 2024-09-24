@@ -6,7 +6,7 @@
     "name": "Arran Ross-Paterson",
     "url": "https://open.spotify.com/user/arranrp"
   },
-  "snapshot_id": "AAAB5SC4UadTZn6yU4BwTXTqFTNPN0r5",
+  "snapshot_id": "AAAB6aKcSi8zEGFyG5EKFX7FopCrHdUC",
   "tracks": [
     {
       "added_at": "2024-07-04 15:39:40",
@@ -6715,6 +6715,70 @@
       "duration_ms": 217586,
       "name": "Gonna Find What's Killing Me",
       "url": "https://open.spotify.com/track/6SDseSF6qW6uEVXOAfp6Al"
+    },
+    {
+      "added_at": "2024-09-23 17:16:43",
+      "album": {
+        "name": "<I\u00b0_\u00b0I>",
+        "url": "https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 229804,
+      "name": "Lone Digger",
+      "url": "https://open.spotify.com/track/3Y91fIpStxQrUaXuaTbGVv"
+    },
+    {
+      "added_at": "2024-09-23 17:16:52",
+      "album": {
+        "name": "<I\u00b0_\u00b0I>",
+        "url": "https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "Comics",
+      "url": "https://open.spotify.com/track/40OuGHvwKGA9FKo1lECOZV"
+    },
+    {
+      "added_at": "2024-09-23 17:17:06",
+      "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5uKKPK1HAdPL3y4CEQDL7q"
+    },
+    {
+      "added_at": "2024-09-23 17:31:35",
+      "album": {
+        "name": "Old Habits",
+        "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 166130,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/3TB2IK1QVfNH04puo4KQXE"
     }
   ],
   "unique_name": "Nice With A Cup of Tea",

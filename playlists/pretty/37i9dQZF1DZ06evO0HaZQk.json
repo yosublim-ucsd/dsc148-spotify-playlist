@@ -1,12 +1,12 @@
 {
   "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 500078,
+  "num_followers": 500145,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADlG36KuI4xDznE22j+2vq0",
+  "snapshot_id": "Zu9eAAAAAADmW+HMo46wcr6qpoan3kR5",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
-        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo por Vivir (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 240333,
       "name": "Que Nadie Sepa Mi Sufrir (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "Ya No Vivo por Vivir (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4"
     },
     {
       "added_at": null,

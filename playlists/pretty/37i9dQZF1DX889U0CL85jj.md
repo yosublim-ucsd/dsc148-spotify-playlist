@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Always good, always chill indie for hanging out and relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,456,339 likes - 145 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456,236 likes - 145 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 144 | [27](https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [27 / Hologram](https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu) | 3:12 |
 | 145 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
 
-Snapshot ID: `Zth/uwAAAABNvplKtVtTdh24WLblWTIE`
+Snapshot ID: `Zth/uwAAAADFzHj0ifBFXpegMNEJcfex`

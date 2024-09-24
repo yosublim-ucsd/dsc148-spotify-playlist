@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-08-11",
-  "description": "This is \u5742\u672c\u771f\u7dbe\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "name": "This Is \u5742\u672c\u771f\u7dbe",
+  "description": "This is Maaya Sakamoto. Track-track unggulan, semuanya dalam satu playlist.",
+  "name": "This Is Maaya Sakamoto",
   "tracks": [
     {
       "album": {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 296906,
       "name": "Kotoba ni Dekinai",
       "url": "https://open.spotify.com/track/3IwTddh6f5P2C0iVdOBFnt"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 297293,
       "name": "un_mute",
       "url": "https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul"

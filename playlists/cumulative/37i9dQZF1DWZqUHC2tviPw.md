@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-227 songs - 10 hr 21 min
+228 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Lot Of Noise For Nothing](https://open.spotify.com/track/3Vj6A1u4JYh5aVNYFJOFPZ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [A Lot Of Noise For Nothing](https://open.spotify.com/album/1lEegQJdCxDf3Cq3e49jsh) | 2:00 | 2021-11-11 | 2022-04-22 |
 | [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-11-11 |  |
 | [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 | 2021-11-11 |  |
-| [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-11-11 |  |
+| [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-11-11 | 2024-09-24 |
 | [ALONE](https://open.spotify.com/track/0sufKKoOv3vi1oghbBtY0L) | [ZERIUS](https://open.spotify.com/artist/5BbcAuQREj8NxK6EG1dnmc), [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe) | [ALONE](https://open.spotify.com/album/476Hp48mzF4ZHOKnDFy91u) | 2:58 | 2022-04-08 |  |
 | [Apolitikio](https://open.spotify.com/track/7gnP8uPbqEzAMNcJLTq6FU) | [Sardos97](https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W) | [Unreleased 2002\-2022 Vol.2](https://open.spotify.com/album/3pRq2E9J7ifJ7Zf7YJ2N0D) | 2:22 | 2023-01-06 | 2024-06-14 |
 | [Ares](https://open.spotify.com/track/70eKN516JGgd1dt5zdlRbb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Ares](https://open.spotify.com/album/7FezwNt76ZTj0OebKoBEZ0) | 2:59 | 2021-11-11 |  |
@@ -120,7 +120,7 @@
 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-11-11 |  |
 | [Long Way Back](https://open.spotify.com/track/01YRpfh6Tj63CB4vNvJ35J) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:39 | 2022-06-17 |  |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
-| [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
+| [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 | 2024-09-24 |
 | [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 | 2022-05-13 |  |
 | [Malaku](https://open.spotify.com/track/3LCxm5TwNd2a1gFCWD2k4x) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Malaku](https://open.spotify.com/album/7zev7B0gKjYLJfeUbQmhqx) | 2:36 | 2024-01-23 |  |
 | [Marble Flooring](https://open.spotify.com/track/2JaEJlUrMGRGKxVP1P6ZD4) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Marble Flooring](https://open.spotify.com/album/3tdNvmSxAgJCAA5GewSlue) | 2:27 | 2022-07-22 |  |
@@ -160,6 +160,7 @@
 | [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 | 2021-11-11 | 2022-05-14 |
 | [Ransomware](https://open.spotify.com/track/0Xq3MbT0WU19vw6n3kw9CU) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Ransomware / Missed Out](https://open.spotify.com/album/5kwTPu2nX7XlMfU6NlwkG6) | 2:43 | 2022-07-15 |  |
 | [Respect Me](https://open.spotify.com/track/5lq2h9XA6dzKM567SVXuWR) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Call Me A Cab](https://open.spotify.com/album/5OYvzMi4M9wW3NMQXOcdXe) | 2:58 | 2021-11-11 |  |
+| [Respect the deal](https://open.spotify.com/track/10brTE49EOr03R8xemG8eO) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [Respect the deal](https://open.spotify.com/album/47zdHB3zMHgm1V35raQW0R) | 2:18 | 2024-09-23 |  |
 | [Reverse Spell](https://open.spotify.com/track/2pKWTPdKUWgRam6kmRG8Em) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 3:11 | 2022-07-01 |  |
 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 | 2024-01-20 |  |
 | [Ritual](https://open.spotify.com/track/3uDWsAoVlvzaNz0JdTRKvv) | [Alx Beats](https://open.spotify.com/artist/5n8XW4GI0uT3sHgwUOUapx) | [Ritual](https://open.spotify.com/album/0TPakPFzZk4JJDjIU4MLSG) | 1:58 | 2022-09-02 | 2024-02-23 |

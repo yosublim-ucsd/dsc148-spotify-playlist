@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: 鶴 The Crane \(Taiwan\)
 
-1,528 songs - 3 day 20 hr 16 min
+1,529 songs - 3 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Deep](https://open.spotify.com/track/7pirPXzUp4hWprqqnSDL90) | [Plvmb](https://open.spotify.com/artist/4Tnim5uIGi5fXElf6v5uL2) | [Deep](https://open.spotify.com/album/26zBc38mso3uDF5er8el3d) | 4:09 | 2023-02-23 | 2023-04-09 |
 | [deep breath in](https://open.spotify.com/track/2rObMC4F1tSewQPn87RUi8) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [deep breath in](https://open.spotify.com/album/5kAlXseC7IrX2M5MMWrQdV) | 3:23 | 2022-08-18 | 2022-08-26 |
 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 | 2023-08-10 | 2023-09-11 |
-| [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-08 |  |
+| [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-08 | 2024-09-24 |
 | [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-24 | 2022-04-15 |
 | [Desire](https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Desire](https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG) | 4:06 | 2023-03-09 | 2023-11-24 |
 | [Desire](https://open.spotify.com/track/3xnBJVytupb5FhfOHwjwER) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI), [Sara Dennaz](https://open.spotify.com/artist/7EWf5ShQantyDNV3dYtTst) | [Desire](https://open.spotify.com/album/1BssOlfQL1Mc4BKMzmRXDG) | 2:44 | 2023-01-19 | 2023-03-18 |
@@ -981,6 +981,7 @@
 | [Red Light \- FUGŌ Version](https://open.spotify.com/track/65NogUB6HAVfomOaeE8Yko) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Nightvision \(Love Is God 9/16 Edition\)](https://open.spotify.com/album/1E9jVYPxL3Cp6da9OdGYgD) | 3:16 | 2023-09-15 | 2023-10-06 |
 | [Reddish](https://open.spotify.com/track/2LPXXxh35IkO5xQVFWEhVx) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Reddish](https://open.spotify.com/album/1KCF0xlDdL0TLgE2IbYPLP) | 3:57 | 2022-05-12 | 2022-06-10 |
 | [regret](https://open.spotify.com/track/3j0GWCC5vw7jylMjDZEAz5) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [regret](https://open.spotify.com/album/49ed2UXd4qvqZKEZcjWrvZ) | 3:24 | 2022-08-25 | 2022-09-02 |
+| [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 | 2024-09-19 |  |
 | [restless](https://open.spotify.com/track/6s8hshYGPCWAGfLWD6SL1L) | [mididuck](https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W) | [restless](https://open.spotify.com/album/7aXNuM3gfUpjbh6H9dpJeY) | 3:40 | 2024-07-25 | 2024-08-02 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 |  |

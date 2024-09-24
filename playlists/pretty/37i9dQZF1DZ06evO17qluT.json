@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 58100,
+  "num_followers": 58167,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADph+igkdEFE1eIqM4oZPZK",
+  "snapshot_id": "Zu9eAAAAAACRz93j0RE3sPsAx37KMJrT",
   "tracks": [
     {
       "added_at": null,
@@ -1119,30 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "exalta",
-      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Favela Vive 2",
         "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 422857,
       "name": "Favela Vive 2",
       "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
       "added_at": null,
@@ -1275,34 +1275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "REAL NIGGA",
-      "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Assim Tocam os MEUS TAMBORES",
         "url": "https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 270062,
       "name": "ROMPEU O COURO.",
       "url": "https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "REAL NIGGA",
+      "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
     },
     {
       "added_at": null,

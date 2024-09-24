@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Mailly",
+        "url": "https://open.spotify.com/album/6VZFN9g6d1XbLS7KwXJ9GE"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Mailly",
+      "url": "https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04"
+    },
+    {
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 150759,
       "name": "Target Practice",
       "url": "https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE"

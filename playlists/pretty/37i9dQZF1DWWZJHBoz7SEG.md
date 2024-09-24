@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Mientras Septiembre no se acabe, nosotros seguimos la fiesta con Grupo Marca Registrada y Deorro! 🇲🇽🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,439 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,567 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 30 years of Joe Diffie's iconic album \"Third Rock from the Sun\" on 90s Country!",
-  "num_followers": 1919840,
+  "num_followers": 1920025,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Time Marches On",
+        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 185360,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "Time Marches On",
-        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 193064,
       "name": "There's Your Trouble",
       "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Indian Outlaw",
-      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
         "name": "If I Could Make a Living",
         "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Indian Outlaw",
+      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 242266,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "When Fallen Angels Fly",
-        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
-      },
-      "artists": [
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "I Try to Think About Elvis",
-      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 188240,
       "name": "I Left Something Turned On At Home",
       "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "When Fallen Angels Fly",
+        "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "I Try to Think About Elvis",
+      "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
     },
     {
       "added_at": "2024-09-18 21:12:43",
@@ -2087,38 +2087,6 @@
     {
       "added_at": "2024-09-18 21:12:43",
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Dream Walkin'",
-      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2024-09-18 21:12:43",
-      "album": {
         "name": "Love Can Build A Bridge",
         "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
@@ -2147,6 +2115,38 @@
       "duration_ms": 210866,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
+    },
+    {
+      "added_at": "2024-09-18 21:12:43",
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Dream Walkin'",
+      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
     },
     {
       "added_at": "2024-09-18 21:12:43",

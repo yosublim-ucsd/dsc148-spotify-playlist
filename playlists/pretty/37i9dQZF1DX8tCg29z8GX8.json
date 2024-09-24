@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14845,
+  "num_followers": 14854,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Love Don't Cost A Dime (Re-Up)",
+        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Love Don't Cost A Dime (Re-Up)",
+      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Love Don't Cost A Dime (Re-Up)",
-        "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Love Don't Cost A Dime (Re-Up)",
-      "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -679,18 +679,26 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 147641,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -719,26 +727,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+      "duration_ms": 147641,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "13POS",
         "url": "https://open.spotify.com/album/3vJ0nwmFEngfkyAa6C83j0"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 291439,
       "name": "13 POS (Ke Bo Mang)",
       "url": "https://open.spotify.com/track/3broQqYTmS1ctbl5mvFAKc"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "METU",
+        "url": "https://open.spotify.com/album/5GTeSVYiKU7lvVxiMYlyZ7"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "duration_ms": 149518,
+      "name": "METU",
+      "url": "https://open.spotify.com/track/3AyBILZ8DEk6tfUjgMluj9"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
       },
@@ -1407,26 +1423,6 @@
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Mood (feat. Khaid)",
-        "url": "https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG"
-      },
-      "artists": [
-        {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Mood (feat. Khaid)",
-      "url": "https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "METU",
-        "url": "https://open.spotify.com/album/5GTeSVYiKU7lvVxiMYlyZ7"
+        "name": "Mood (feat. Khaid)",
+        "url": "https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG"
       },
       "artists": [
         {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 149518,
-      "name": "METU",
-      "url": "https://open.spotify.com/track/3AyBILZ8DEk6tfUjgMluj9"
+      "duration_ms": 177931,
+      "name": "Mood (feat. Khaid)",
+      "url": "https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT"
     },
     {
       "added_at": "2024-09-20 00:01:00",

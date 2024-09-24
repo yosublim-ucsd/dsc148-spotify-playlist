@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 122353,
+  "num_followers": 122415,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "I Will Find You",
-        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "I Will Find You",
-      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Nightshapes",
         "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205779,
       "name": "Nightshapes",
       "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Close Encounters",
-        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Close Encounters",
-      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Sorry (with Madonna) [Miss Monique Remix]",
         "url": "https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 187200,
       "name": "Sorry (with Madonna) - Miss Monique Remix",
       "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Close Encounters",
+        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Close Encounters",
+      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW"
-      },
-      "artists": [
-        {
-          "name": "Testpilot",
-          "url": "https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 525000,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW"
+      },
+      "artists": [
+        {
+          "name": "Testpilot",
+          "url": "https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 525000,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Not Exactly (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Not Exactly - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Atomic Heart",
         "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 433920,
       "name": "Atomic Heart",
       "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Not Exactly (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Not Exactly - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 283246,
+      "name": "Falcon",
+      "url": "https://open.spotify.com/track/5gZSEoy3LStIBZdT46klLm"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "WHISPERS",
         "url": "https://open.spotify.com/album/66MXIQMytwsMQdYtXSlG1C"
       },
@@ -1703,26 +1723,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/11MWTmeKNRaPCGR9wcFsGp"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 283246,
-      "name": "Falcon",
-      "url": "https://open.spotify.com/track/5gZSEoy3LStIBZdT46klLm"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
@@ -1739,6 +1739,26 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1763,6 +1783,26 @@
       "duration_ms": 288374,
       "name": "A Lot Like Heaven - Space Motion Remix",
       "url": "https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 286451,
+      "name": "Alone ft. braev",
+      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1799,26 +1839,6 @@
       "duration_ms": 194434,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "Alone ft. braev",
-      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1967,42 +1987,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Gate / Masterplan",
-        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 343764,
-      "name": "Gate",
-      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -2023,38 +2019,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Sternstunde (Joris Voorn Edit)",
-        "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         },
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Sternstunde - Joris Voorn Edit",
-      "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -2083,22 +2063,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Transmission (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
+        "name": "Sternstunde (Joris Voorn Edit)",
+        "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
       },
       "artists": [
         {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
         },
         {
           "name": "Joris Voorn",
           "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 224274,
-      "name": "Transmission - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
+      "duration_ms": 226680,
+      "name": "Sternstunde - Joris Voorn Edit",
+      "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -2123,6 +2103,26 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Devon (Oliver Huntemann Remix)",
         "url": "https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU"
       },
@@ -2139,46 +2139,6 @@
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Ringo (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 222594,
-      "name": "Ringo - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 226423,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -2203,6 +2163,26 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Ringo (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 222594,
+      "name": "Ringo - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
       },
@@ -2219,18 +2199,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk"
+      "duration_ms": 226423,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -2247,6 +2231,22 @@
       "duration_ms": 334838,
       "name": "The Puzzle",
       "url": "https://open.spotify.com/track/6Fivn91TO0E7orLq2NcJwX"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk"
     },
     {
       "added_at": "2024-09-19 22:00:00",

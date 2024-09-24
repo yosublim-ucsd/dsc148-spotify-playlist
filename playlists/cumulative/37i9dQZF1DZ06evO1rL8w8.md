@@ -2,7 +2,7 @@
 
 ### [This Is El Komander](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rL8w8)
 
-> This Is El Komander\. Los temas esenciales, todos en una lista.
+> This is: El Komander\. Alle wichtigen Tracks in einer Playlist.
 
 70 songs - 3 hr 24 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jueun(\uc8fc\uc740))",
-  "num_followers": 1014112,
+  "num_followers": 1014301,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-19 07:30:47",
       "album": {
-        "name": "Roses/Dandelion",
-        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
-    },
-    {
-      "added_at": "2024-09-19 07:30:47",
-      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "added_at": "2024-09-19 07:30:47",
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y"
     },
     {
       "added_at": "2024-09-19 07:30:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-09-19 07:30:47",
       "album": {
-        "name": "Horizon - NCT LAB",
-        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
-    },
-    {
-      "added_at": "2024-09-19 07:30:47",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "added_at": "2024-09-19 07:30:47",
+      "album": {
+        "name": "Horizon - NCT LAB",
+        "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
       "added_at": "2024-09-19 07:30:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-09-19 07:30:47",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Simple Joys",
-      "url": "https://open.spotify.com/track/5PE5szcHT0tkEROctJKnmu"
-    },
-    {
-      "added_at": "2024-09-19 07:30:47",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2024-09-19 07:30:47",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Simple Joys",
+      "url": "https://open.spotify.com/track/5PE5szcHT0tkEROctJKnmu"
     },
     {
       "added_at": "2024-09-19 07:30:47",

@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 115295,
+  "num_followers": 115326,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Apocalipsis Confort - En Vivo",
-        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 261456,
-      "name": "Apocalipsis Confort - En Vivo",
-      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Vivo X la 25",
         "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
       },
@@ -1295,6 +1279,38 @@
       "duration_ms": 262866,
       "name": "Solo Voy - En Vivo",
       "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Apocalipsis Confort - En Vivo",
+        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 261456,
+      "name": "Apocalipsis Confort - En Vivo",
+      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 448381,
       "name": "La Grange - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3noiACsm4BRcQAYlJNmQoR"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Demonio Paraguayo (En Vivo)",
-        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Demonio Paraguayo - En Vivo",
-      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Demonio Paraguayo (En Vivo)",
+        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Demonio Paraguayo - En Vivo",
+      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
     },
     {
       "added_at": "2024-09-13 03:00:00",

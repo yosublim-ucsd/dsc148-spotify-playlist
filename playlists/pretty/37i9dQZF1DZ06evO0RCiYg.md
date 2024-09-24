@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 
 ### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is Black Eyed Peas\. The essential tracks, all in one playlist.
+> This Is Black Eyed Peas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,724 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,832 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 50 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 |
 | 51 | [Party All The Time](https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:43 |
 
-Snapshot ID: `Zu4MgAAAAAAiuzST1qlarLwKgogcObXx`
+Snapshot ID: `Zu9eAAAAAACK0lXyerA1hP1KvnAao4VZ`

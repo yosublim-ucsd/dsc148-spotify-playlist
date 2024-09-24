@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-571 songs - 1 day 1 hr 1 min
+572 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Sympathy](https://open.spotify.com/track/7dWQoTFmsAnVznADr1sZwB) | [yara.](https://open.spotify.com/artist/7rEDYRkDN2Fg6yl4xYopJC), [Lotus](https://open.spotify.com/artist/7irNamZWVrstQU1HWzY6mj), [Jan Liva](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Sympathy](https://open.spotify.com/album/6mK76zWb9h5ZPJLycqqSf0) | 2:21 | 2023-10-24 | 2024-01-28 |
 | [Take It Easy](https://open.spotify.com/track/138WIAG4MuVT77Ynr42vt3) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Take It Easy](https://open.spotify.com/album/3CCwjRyfPPnkSbypQz0D7U) | 2:35 | 2024-07-30 |  |
 | [Take It Slow](https://open.spotify.com/track/2gbmGcKUCyU3bifR49KMAY) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [Megggi](https://open.spotify.com/artist/2aJSeysNzFHO6Y5pMrIK3O) | [Take It Slow](https://open.spotify.com/album/1Vu3BmfYbqRmNyOy3Eb7WF) | 3:01 | 2024-03-01 | 2024-07-05 |
+| [Take Me Far](https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Take Me Far](https://open.spotify.com/album/1fgBP8xLHiTlxQ0Y0uWfDE) | 2:15 | 2024-09-23 |  |
 | [Take Me Higher](https://open.spotify.com/track/7EuDg4t8Xo4Exrk7MxqPdX) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Take Me Higher](https://open.spotify.com/album/0Ijdp7RUQ4gEN0p5diiFVG) | 2:09 | 2024-06-21 | 2024-07-29 |
 | [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-17 | 2024-08-12 |
 | [Talk To Me](https://open.spotify.com/track/2vpK9DsFJJHRNinZyoK18C) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Talk To Me](https://open.spotify.com/album/7rpfJUWZSEhx5u5mxPN0RG) | 2:00 | 2024-04-12 | 2024-06-23 |

@@ -10855,6 +10855,32 @@
     },
     {
       "album": {
+        "name": "Take Me Far",
+        "url": "https://open.spotify.com/album/1fgBP8xLHiTlxQ0Y0uWfDE"
+      },
+      "artists": [
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        },
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "Onyra",
+          "url": "https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135818,
+      "name": "Take Me Far",
+      "url": "https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV"
+    },
+    {
+      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/0Ijdp7RUQ4gEN0p5diiFVG"
       },

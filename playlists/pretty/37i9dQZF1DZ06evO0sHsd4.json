@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jasiel Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 8978,
+  "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
+  "num_followers": 9011,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAADy6Dm2gXuyq9Z28PygLgdB",
+  "snapshot_id": "Zu9eAAAAAAA43lR+WxWSfZyEKI18DUTv",
   "tracks": [
     {
       "added_at": null,
@@ -494,11 +494,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "El Juanpa",
+          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
+      "duration_ms": 171093,
+      "name": "La Vida Real",
+      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "El Juanpa",
-          "url": "https://open.spotify.com/artist/6PqovqAlvMlboVJ9D2DTb8"
         }
       ],
-      "duration_ms": 171093,
-      "name": "La Vida Real",
-      "url": "https://open.spotify.com/track/7p3QYYuf7ExGdWpU7sD6UL"
+      "duration_ms": 136000,
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
     },
     {
       "added_at": null,

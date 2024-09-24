@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6515,
+  "num_followers": 6514,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "Page 0",
         "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 187360,
       "name": "Page 0",
       "url": "https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "wish you all to be happy",
-        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 232588,
-      "name": "wish you all to be happy",
-      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "Take it To the Grave",
+        "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Take it To the Grave",
+      "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 200973,
       "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "Take it To the Grave",
-        "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Take it To the Grave",
-      "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
     },
     {
       "added_at": "2024-09-04 08:03:50",

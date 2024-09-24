@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,829 songs - 6 day 6 hr 31 min
+2,830 songs - 6 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Ce Soir](https://open.spotify.com/track/7cjZwi0ZIiotcjPKl0ymLU) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Ce Soir](https://open.spotify.com/album/5wp0Zwk1GtcUhZUVUCb5xE) | 2:51 | 2022-10-21 | 2022-11-05 |
 | [Ce soir \- j'suis dans ma tête](https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Ce soir \(j'suis dans ma tête\)](https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e) | 2:20 | 2023-05-12 | 2023-06-24 |
 | [Ce Soir 22](https://open.spotify.com/track/0r2GXh51kE6Lxt5khapdWE) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Ce Soir 22](https://open.spotify.com/album/3DwGIRqyfNcbcKkYTudUc3) | 1:14 | 2022-03-18 | 2022-03-26 |
-| [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 | 2024-09-13 | 2024-09-21 |
+| [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 | 2024-09-13 |  |
 | [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-13 | 2022-05-28 |
 | [Celle\-là](https://open.spotify.com/track/1zm0GXo74RpE4oZfvq2gEV) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Celle\-là](https://open.spotify.com/album/416sctnWh0f51OgNPvAhnP) | 3:18 | 2022-09-02 | 2022-09-17 |
 | [Central Park La Fontaine](https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Central Park La Fontaine](https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl) | 3:20 | 2023-04-21 | 2023-05-28 |
@@ -1831,7 +1831,7 @@
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |
 | [nouvelle vie](https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [nouvelle vie](https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg) | 2:37 | 2024-05-17 | 2024-05-25 |
-| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 |  |
+| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 | 2024-09-24 |
 | [Nouvelle ère](https://open.spotify.com/track/5EGBzg0DuYFZFVLnG9rzjB) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Nouvelle ère](https://open.spotify.com/album/7g7Sfraq90lpgOko9oEbTt) | 3:06 | 2023-03-17 | 2023-04-15 |
 | [Novembre](https://open.spotify.com/track/2SlsXvnVdrAfWvYO3esHGM) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Novembre](https://open.spotify.com/album/5vLkJ5UoYWwsXII9qZPQHM) | 3:10 | 2022-04-22 | 2022-04-29 |
 | [Noël blanc](https://open.spotify.com/track/0TzdxTeaStfhDADxoTeRaE) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi), [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Noël En Noir & Blanc](https://open.spotify.com/album/1zO0MHz7l9N9kaFEBAvQWA) | 2:57 | 2021-12-31 | 2022-01-22 |
@@ -2556,6 +2556,7 @@
 | [Tout le monde a raison](https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Lounaire](https://open.spotify.com/artist/6S5hi1MwIrqeZ1tHW5GL6F) | [Tout le monde a raison](https://open.spotify.com/album/5XjJEfwC3ybxsdqfNuB0o3) | 3:39 | 2022-05-13 | 2022-05-28 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-11 | 2022-11-26 |
 | [Tout ou rien \- De l'autre côté](https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Tout ou rien \(De l'autre côté\)](https://open.spotify.com/album/6TMqENMy33MdWMGJ3ZgApt) | 3:12 | 2023-02-24 | 2023-03-11 |
+| [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 | 2024-09-20 |  |
 | [Tout pour moi](https://open.spotify.com/track/5agiy4fEysnc5wBex6bHqa) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Tout pour moi](https://open.spotify.com/album/2owno0hp8OZmK2H7pBB202) | 3:25 | 2022-01-14 | 2022-01-29 |
 | [Tout pour plaire](https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Pour tout vous dire](https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa) | 3:37 | 2024-05-31 | 2024-06-08 |
 | [tout recommencer](https://open.spotify.com/track/0AV9tT6p54itcLnpr8YhQa) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [tout recommencer](https://open.spotify.com/album/71iSmTg0jWj7XffqbFSLGh) | 2:21 | 2023-04-14 | 2023-05-23 |
@@ -2755,7 +2756,7 @@
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-06-11 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2021-12-31 | 2022-01-22 |
 | [X Freestyle](https://open.spotify.com/track/5TP6atkguwiAwp1KDGKEbc) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [X Freestyle](https://open.spotify.com/album/3Z2FAJleolchMDQAKMS8Bb) | 2:00 | 2024-06-07 | 2024-06-15 |
-| [X\-ADV](https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [X\-ADV](https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn) | 2:51 | 2024-08-30 |  |
+| [X\-ADV](https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [X\-ADV](https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn) | 2:51 | 2024-08-30 | 2024-09-24 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 | 2022-04-02 |
 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 | 2023-11-17 | 2024-02-10 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-28 | 2023-09-30 |

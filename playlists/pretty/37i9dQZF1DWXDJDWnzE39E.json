@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 691442,
+  "num_followers": 691548,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Don't Give Me Names",
-        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
-      },
-      "artists": [
-        {
-          "name": "Guano Apes",
-          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Big in Japan",
-      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "The Phantom Agony (Expanded Edition)",
         "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 289306,
       "name": "Sensorium",
       "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Don't Give Me Names",
+        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Big in Japan",
+      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "WITCH",
         "url": "https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234111,
       "name": "WITCH",
       "url": "https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "FATAL",
-        "url": "https://open.spotify.com/album/34G9ajD2MdWFFWJUmXcvYH"
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
       "artists": [
         {
-          "name": "emily jeffri",
-          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 198288,
-      "name": "FATAL",
-      "url": "https://open.spotify.com/track/1n9aWX9W7kbM9czknPMjlE"
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     }
   ],
   "unique_name": "Heavy Queens",

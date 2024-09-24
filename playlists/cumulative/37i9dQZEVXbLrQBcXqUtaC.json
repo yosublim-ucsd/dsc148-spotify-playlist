@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -7438,7 +7438,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -8122,7 +8122,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -10120,7 +10120,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
@@ -11908,7 +11908,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -17428,7 +17428,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
@@ -19608,7 +19608,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -19626,7 +19626,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -22699,6 +22699,24 @@
     },
     {
       "album": {
+        "name": "Rabih 96",
+        "url": "https://open.spotify.com/album/4DAe3mIfqZx5SF79oGhEZf"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256756,
+      "name": "Ya Daar",
+      "url": "https://open.spotify.com/track/273AViU7CJfV66xb2nk6DT"
+    },
+    {
+      "album": {
         "name": "Kol Yom Men Dah",
         "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
       },
@@ -24488,6 +24506,24 @@
     {
       "album": {
         "name": "\u062d\u0646\u0627 \u062c\u0646\u0648\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
+        "url": "https://open.spotify.com/album/5uDBTEPt0k9IL5chhlfX8W"
+      },
+      "artists": [
+        {
+          "name": "Majed Alrslani",
+          "url": "https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "\u062d\u0646\u0627 \u062c\u0646\u0648\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
+      "url": "https://open.spotify.com/track/2DrBGxB4SHENJOB8UDvB7K"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0646\u0627 \u062c\u0646\u0648\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
         "url": "https://open.spotify.com/album/15N82zOWty4dyjKK37eLqt"
       },
       "artists": [
@@ -25100,7 +25136,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 256987,
       "name": "\u0639\u0627\u0634 \u0633\u0644\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/1m0Wr5lzJDs801vsUFvZvH"
@@ -25958,6 +25994,24 @@
       "duration_ms": 224653,
       "name": "\u0647\u0630\u0627 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0642",
       "url": "https://open.spotify.com/track/1fLrPuVJlEn1YjBwZFUw2i"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0630\u0627 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0642",
+        "url": "https://open.spotify.com/album/1xTLQnusoVFrT9Zoqpu3Qa"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0647\u062f \u0628\u0646 \u0641\u0635\u0644\u0627",
+          "url": "https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "\u0647\u0630\u0627 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0642",
+      "url": "https://open.spotify.com/track/2CfvtEuDUlkr0UI1js0uv6"
     },
     {
       "album": {

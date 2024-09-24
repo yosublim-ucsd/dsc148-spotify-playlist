@@ -22351,6 +22351,24 @@
     },
     {
       "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219562,
+      "name": "Lie In the Gutter",
+      "url": "https://open.spotify.com/track/0E6iIMjKE4h1y9jApdHcjM"
+    },
+    {
+      "album": {
         "name": "Lie In the Gutter",
         "url": "https://open.spotify.com/album/4eTLniqLCP2qKsar2Rjk1E"
       },

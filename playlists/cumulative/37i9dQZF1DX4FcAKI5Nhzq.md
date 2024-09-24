@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: JINHO
+> Future K\-Pop hits! Cover: KANGDANIEL
 
-1,149 songs - 2 day 14 hr 33 min
+1,150 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-06-18 |
 | [Eeny Meeny](https://open.spotify.com/track/6g1bC84sN16hsWICgeXXb9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Eeny Meeny](https://open.spotify.com/album/5wnySScBf5FmEoBWIirXaH) | 2:39 | 2021-01-27 | 2021-04-22 |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-10-05 | 2024-07-06 |
+| [Electric Shock](https://open.spotify.com/track/1ARMCwjWcFqDRKnCsLhxzd) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [ACT](https://open.spotify.com/album/6RWRS5nL83GBM3VQkYuYHO) | 2:50 | 2024-09-23 |  |
 | [Elevator](https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Elevator](https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI) | 2:43 | 2023-08-31 | 2023-09-28 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-07 | 2022-03-03 |
 | [Empty](https://open.spotify.com/track/15sqqtN3pxdFqYnVxKPHt9) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOOR \- The 4th Mini Album](https://open.spotify.com/album/57tUagZl5Lg8x2fogKCzjA) | 4:04 | 2024-05-31 | 2024-07-19 |
@@ -356,7 +357,7 @@
 | [Flame](https://open.spotify.com/track/1n2oIAbEqbgX6eIxMcdj78) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: THE NEW DAY WE STEP INTO \- SEASON 2.](https://open.spotify.com/album/0XI2pmH6pUEjx0d9iOqx9x) | 3:14 | 2020-10-13\* | 2020-11-12 |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-09-01 | 2022-11-19 |
 | [Flash](https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4) | [SHINHWA WDJ](https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93) | [Come To Life](https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC) | 3:16 | 2022-12-13 | 2023-02-07 |
-| [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY) | 2:47 | 2024-07-18 |  |
+| [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY) | 2:47 | 2024-07-18 | 2024-09-24 |
 | [FLEX](https://open.spotify.com/track/3p0YrVoaMqcu2gn1lIgnWF) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 3](https://open.spotify.com/album/5EYvdnybFnDjM7HlOASNCZ) | 3:41 | 2021-08-27 | 2021-09-18 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-21 | 2022-08-13 |
 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 | 2023-03-06 | 2023-05-16 |

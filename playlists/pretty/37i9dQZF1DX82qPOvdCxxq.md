@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:3I9aGvBiB4q6eQh0ge4VKU">K\-Anthony</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,304 likes - 98 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,323 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

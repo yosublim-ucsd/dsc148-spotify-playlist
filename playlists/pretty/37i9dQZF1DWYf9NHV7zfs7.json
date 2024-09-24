@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Abel Pintos & Ha*Ash",
-  "num_followers": 54212,
+  "num_followers": 54263,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Octubre",
-        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "TULI",
-          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 144535,
-      "name": "Octubre",
-      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
+      "duration_ms": 226840,
+      "name": "Amor Loco",
+      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+        "name": "Octubre",
+        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
         }
       ],
-      "duration_ms": 226840,
-      "name": "Amor Loco",
-      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
+      "duration_ms": 144535,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
     },
     {
       "added_at": "2024-09-20 03:00:00",

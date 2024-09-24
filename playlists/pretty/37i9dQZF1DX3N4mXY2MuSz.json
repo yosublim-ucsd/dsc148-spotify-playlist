@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 62298,
+  "num_followers": 62297,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Holiday Records",
+        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Holiday Records",
+      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Shatner Claus",
         "url": "https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Holiday Records",
-        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
+        "name": "Santa Claus Is Coming to Town",
+        "url": "https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Holiday Records",
-      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+      "duration_ms": 114210,
+      "name": "Santa Claus Is Coming to Town - Single Version",
+      "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -931,22 +947,6 @@
       "duration_ms": 203640,
       "name": "Black Christmas",
       "url": "https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "Santa Claus Is Coming to Town",
-        "url": "https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        }
-      ],
-      "duration_ms": 114210,
-      "name": "Santa Claus Is Coming to Town - Single Version",
-      "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Chubby and the Gang presents: A Christmas Extravaganza",
-        "url": "https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6"
-      },
-      "artists": [
-        {
-          "name": "Chubby and the Gang",
-          "url": "https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Violent Night (A Christmas Tale)",
-      "url": "https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1 and 2",
         "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 164746,
       "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
       "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Chubby and the Gang presents: A Christmas Extravaganza",
+        "url": "https://open.spotify.com/album/2haNprGHaH0xhari2p1ri6"
+      },
+      "artists": [
+        {
+          "name": "Chubby and the Gang",
+          "url": "https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd"
+        }
+      ],
+      "duration_ms": 210480,
+      "name": "Violent Night (A Christmas Tale)",
+      "url": "https://open.spotify.com/track/1gaeICtm5jZet0IF8khcdP"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "It's Better to Give Than Receive",
-        "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
-      },
-      "artists": [
-        {
-          "name": "Lion In The Mane",
-          "url": "https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1"
-        }
-      ],
-      "duration_ms": 222355,
-      "name": "Wonderful Christmas Time",
-      "url": "https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "We Wish You a Merry Christmas / Jingle Bells (Short Edit)",
         "url": "https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Single All the Way",
-        "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
+        "name": "It's Better to Give Than Receive",
+        "url": "https://open.spotify.com/album/4cT4OTGawl9xdboA8qWOhq"
       },
       "artists": [
         {
-          "name": "Goodnight Sunrise",
-          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
+          "name": "Lion In The Mane",
+          "url": "https://open.spotify.com/artist/6E5wKYYhEgS3r3TRKZl9N1"
         }
       ],
-      "duration_ms": 195131,
-      "name": "Single All the Way",
-      "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
+      "duration_ms": 222355,
+      "name": "Wonderful Christmas Time",
+      "url": "https://open.spotify.com/track/4EKkT3rUAlTf0JVvXLTgKN"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Cool Tide Carrolls",
-        "url": "https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg"
+        "name": "Single All the Way",
+        "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
       },
       "artists": [
         {
-          "name": "Burning Nickels",
-          "url": "https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ"
+          "name": "Goodnight Sunrise",
+          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
         }
       ],
-      "duration_ms": 150136,
-      "name": "Rum Nogs",
-      "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
+      "duration_ms": 195131,
+      "name": "Single All the Way",
+      "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "The Myrrhderers Sleigh Christmas",
-        "url": "https://open.spotify.com/album/4X3JPkIzfXiukzcFfDUOxu"
+        "name": "Cool Tide Carrolls",
+        "url": "https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg"
       },
       "artists": [
         {
-          "name": "The Myrrhderers",
-          "url": "https://open.spotify.com/artist/03qAaFUzsAor9CiD56NFBr"
+          "name": "Burning Nickels",
+          "url": "https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ"
         }
       ],
-      "duration_ms": 190744,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V"
+      "duration_ms": 150136,
+      "name": "Rum Nogs",
+      "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "The Myrrhderers Sleigh Christmas",
+        "url": "https://open.spotify.com/album/4X3JPkIzfXiukzcFfDUOxu"
+      },
+      "artists": [
+        {
+          "name": "The Myrrhderers",
+          "url": "https://open.spotify.com/artist/03qAaFUzsAor9CiD56NFBr"
+        }
+      ],
+      "duration_ms": 190744,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christmas At My House",
         "url": "https://open.spotify.com/album/2B0f5yFrMJjxVHKZr9Hvhv"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 190137,
       "name": "Christmas At My House",
       "url": "https://open.spotify.com/track/3tNGeh2arYnVYQTsyQs51E"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1479,22 +1495,6 @@
       "duration_ms": 192226,
       "name": "Forget December",
       "url": "https://open.spotify.com/track/3uxpzGzJmLSprnHJw6PYnO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1"
     },
     {
       "added_at": "2023-11-18 13:41:26",

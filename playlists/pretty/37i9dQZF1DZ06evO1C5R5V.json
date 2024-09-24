@@ -1,12 +1,12 @@
 {
-  "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 32765,
+  "description": "This Is El Harag\u00e1n y Compa\u00f1\u00eda. Los temas esenciales, todos en una lista.",
+  "num_followers": 32772,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAA/5V28n8bHiLkSQ85Y9BY6",
+  "snapshot_id": "Zu9eAAAAAACbDJPY0XRkT4TlsiX3BWxc",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 210094,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
+      "duration_ms": 230016,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 230016,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
+      "duration_ms": 210094,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volviendo a Casa",
-        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 189453,
-      "name": "Puedes Decir",
-      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
+      "duration_ms": 223468,
+      "name": "Tu Te las Tomaste S\u00f3lo",
+      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 223468,
-      "name": "Tu Te las Tomaste S\u00f3lo",
-      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delincuentes Con Placa",
-        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 229426,
-      "name": "Polic\u00eda Chacal",
-      "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
+      "duration_ms": 228373,
+      "name": "La Noche y el Silencio",
+      "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

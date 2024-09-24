@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6421,
+  "num_followers": 6425,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Giscard d'Estaing",
-        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
-      },
-      "artists": [
-        {
-          "name": "Dombrance",
-          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Giscard d'Estaing",
-      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Giscard d'Estaing",
+        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
+      },
+      "artists": [
+        {
+          "name": "Dombrance",
+          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Giscard d'Estaing",
+      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Parce qu'on vient de loin.",
-        "url": "https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Parce qu'on vient de loin",
-      "url": "https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Le Volume Du Vent",
         "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186373,
       "name": "Oublie Pas",
       "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Parce qu'on vient de loin.",
+        "url": "https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Anyway, Mommy Love",
-        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 191603,
-      "name": "Anyway, Mommy Love",
-      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+        "name": "Anyway, Mommy Love",
+        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
       },
       "artists": [
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+      "duration_ms": 191603,
+      "name": "Anyway, Mommy Love",
+      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1283,6 +1267,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
-      },
-      "artists": [
-        {
-          "name": "Heskis",
-          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Quelqu'un quand-m\u00eame",
-      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "SAC \u00c0 SURPRISE",
         "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
       },
       "artists": [
         {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
         }
       ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
+      "duration_ms": 168888,
+      "name": "Quelqu'un quand-m\u00eame",
+      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1587,6 +1571,22 @@
       "duration_ms": 243236,
       "name": "En roulant vers Perc\u00e9",
       "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Salut Cowboy",
-        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
-      },
-      "artists": [
-        {
-          "name": "Guylaine Tanguay",
-          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
-        }
-      ],
-      "duration_ms": 216209,
-      "name": "Salut Cowboy",
-      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Il n'y a rien que je ne suis pas",
         "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Salut Cowboy",
+        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
+      },
+      "artists": [
+        {
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+        }
+      ],
+      "duration_ms": 216209,
+      "name": "Salut Cowboy",
+      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Don't Lose The Funk",
         "url": "https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 247687,
       "name": "Don't Lose The Funk",
       "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fleur de cactus (Face A)",
+        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
+      },
+      "artists": [
+        {
+          "name": "King Melrose",
+          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
+        }
+      ],
+      "duration_ms": 213961,
+      "name": "Western",
+      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1707,22 +1723,6 @@
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Fleur de cactus (Face A)",
-        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
-      },
-      "artists": [
-        {
-          "name": "King Melrose",
-          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
-        }
-      ],
-      "duration_ms": 213961,
-      "name": "Western",
-      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Kizavibe",
         "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 230570,
       "name": "Soso",
       "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Pour l'amour du geste II",
-        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
-      },
-      "artists": [
-        {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
-        }
-      ],
-      "duration_ms": 126179,
-      "name": "Pour l'amour du geste II",
-      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "J'ai brod\u00e9 mon c\u0153ur",
         "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 34000,
       "name": "Apr\u00e8s la nuit",
       "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "added_at": "2024-06-19 20:38:05",

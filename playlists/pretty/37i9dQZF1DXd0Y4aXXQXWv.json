@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : C\u00e9line Dion",
-  "num_followers": 480390,
+  "num_followers": 480408,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Brol",
-        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Balance ton quoi",
-      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Vianney",
         "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 198773,
       "name": "Je m'en vais",
       "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Balance ton quoi",
+      "url": "https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Debout les yeux ouverts",
         "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
       },
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
       "artists": [
         {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Sous le vent",
-      "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -511,18 +507,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
       "artists": [
         {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
+      "duration_ms": 211293,
+      "name": "Sous le vent",
+      "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
     },
     {
       "added_at": "2024-07-25 10:27:51",

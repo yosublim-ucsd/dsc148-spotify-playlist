@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: LIT Killah & Nicki Nicole",
-  "num_followers": 665509,
+  "num_followers": 665520,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
         "name": "Thal\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 230857,
       "name": "Thal\u00eda - Remix",
       "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Tengo Un Plan - Remix",
-        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Tengo Un Plan - Remix",
+        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
+      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
-      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1571,6 +1571,38 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Ohnana (feat. Farruko & Nicky Jam) [Remix]",
+        "url": "https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 317714,
+      "name": "Ohnana (feat. Farruko & Nicky Jam) - Remix",
+      "url": "https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -1719,38 +1751,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Ohnana (feat. Farruko & Nicky Jam) [Remix]",
-        "url": "https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 317714,
-      "name": "Ohnana (feat. Farruko & Nicky Jam) - Remix",
-      "url": "https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "AFRO",
         "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
       },
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "NO HAY LEY",
         "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2175,26 +2175,22 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Afro Vibes",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+        "name": "Amor & Paz",
+        "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
         },
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
+      "duration_ms": 195424,
+      "name": "Amor & Paz",
+      "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2215,22 +2211,26 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Amor & Paz",
-        "url": "https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7"
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
       "artists": [
         {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 195424,
-      "name": "Amor & Paz",
-      "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
+      "duration_ms": 187050,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
     },
     {
       "added_at": "2024-09-20 09:48:50",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-09-20 09:48:50",
       "album": {
-        "name": "Ganamos",
-        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 161111,
-      "name": "Ganamos",
-      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
-    },
-    {
-      "added_at": "2024-09-20 09:48:50",
-      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-09-20 09:48:50",
+      "album": {
+        "name": "Ganamos",
+        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 161111,
+      "name": "Ganamos",
+      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
     },
     {
       "added_at": "2024-09-20 09:48:50",

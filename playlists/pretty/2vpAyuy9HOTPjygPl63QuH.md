@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,347 likes - 42 songs - 2 hr 22 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,350 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 40 | [Move With Tha](https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Move With Tha](https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ) | 3:06 |
 | 41 | [Bah Bah](https://open.spotify.com/track/6UZW6sgFXSdr96sqrxhTHc) | [Johan S](https://open.spotify.com/artist/2An2rcMqBw43CIZbmeesnd) | [Bah Bah](https://open.spotify.com/album/0lfcwC5CwrTQzKswvXEeGN) | 2:23 |
 | 42 | [Wanna Rock](https://open.spotify.com/track/6XxP8YRrbRK5E5GCipnMJ6) | [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq), [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [Wanna Rock EP](https://open.spotify.com/album/7cMB4Jtufj9OEclvEguSPU) | 2:48 |
+| 43 | [Smooth Originator](https://open.spotify.com/track/6FY0QqwuKjGrKjZbmgnEMz) | [DAETOR](https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt) | [High Volume EP](https://open.spotify.com/album/4ZNoLdNJekJ0fv3fUdPmkW) | 6:16 |
 
-Snapshot ID: `AAAjrrp0eR5YJ8rD/rgIaRVqJhvN0T9M`
+Snapshot ID: `AAAjr8d7hu+Ppul4hjpGcFa6vi17rDVL`

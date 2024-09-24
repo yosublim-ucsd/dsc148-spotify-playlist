@@ -2,7 +2,7 @@
 
 ### [This Is Harrison](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0m6Px6)
 
-> This is Harrison\. Todos os maiores hits em uma só playlist.
+> This is Harrison\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 78 songs - 3 hr 41 min
 

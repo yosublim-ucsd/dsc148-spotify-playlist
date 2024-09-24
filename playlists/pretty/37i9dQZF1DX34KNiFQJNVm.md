@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc IG, Luísa Sonza com Simone Mendes, Zé Vaqueiro com João Gomes  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,455 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,515 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 51 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
 | 52 | [Adios](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adios](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
 
-Snapshot ID: `Zuzl5AAAAADt0gvohkvbqGu2Ce7u2gmU`
+Snapshot ID: `Zuzl5AAAAADtymvyRc3b0zt9AZjorwhz`

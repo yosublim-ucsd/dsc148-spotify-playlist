@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: DJ Koze
 
-883 songs - 2 day 12 hr 0 min
+884 songs - 2 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [I WOZ HOME](https://open.spotify.com/track/3CHUA6wInWJtRStWosd0am) | [BLVTH](https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [YIN YANG](https://open.spotify.com/album/4rki27oL9zztufmroF5imS) | 2:05 | 2024-05-16 | 2024-06-01 |
 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 | 2023-08-14 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-10 | 2023-08-18 |
-| [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 | 2024-09-12 |  |
+| [Ice Cream Dream Boy](https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Ice Cream Dream Boy](https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ) | 3:36 | 2024-09-12 | 2024-09-24 |
 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 | 2023-06-01 | 2023-07-01 |
 | [If I Begged You For Your Love](https://open.spotify.com/track/6JCK0shst0vWKxHp49jAoL) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [it’ll all be oki](https://open.spotify.com/album/6nuURRl7btR9pyVG7hEqvF) | 3:29 | 2023-04-20 | 2023-06-02 |
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-23 | 2023-05-12 |
@@ -555,6 +555,7 @@
 | [Next Life](https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:52 | 2024-02-08 | 2024-08-23 |
 | [Nice Town \- Original](https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Pan Amsterdam](https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE) | [Nice Town](https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e) | 2:47 | 2024-03-14 | 2024-06-01 |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-02 | 2023-02-24 |
+| [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 | 2024-09-23 |  |
 | [No Answer](https://open.spotify.com/track/1Mn00Kq0cBXgksYJ3ERnwc) | [Badger](https://open.spotify.com/artist/7jZEOpObouf2ZhYvf38dLW) | [No Answer](https://open.spotify.com/album/0kBKYtFUusBMfhHMF6tR6H) | 5:43 | 2022-12-15 | 2023-03-31 |
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-09-07 | 2023-09-29 |
 | [No Love](https://open.spotify.com/track/51u0i005MZ9G0e1Lxm3PqO) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [No Love](https://open.spotify.com/album/6mPiGd5dPUn5eIIDqjEKJU) | 2:22 | 2023-02-23 | 2023-08-25 |

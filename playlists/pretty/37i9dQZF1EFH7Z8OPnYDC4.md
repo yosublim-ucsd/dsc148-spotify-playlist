@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 329 songs - 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 329 songs - 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,12 +174,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 164 | [D\-Day \- 1992 Remastered](https://open.spotify.com/track/2kXZlLw4Epouxuo92RgWRq) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:54 |
 | 165 | [Hard Work and Horseplay \- 1992 Remastered](https://open.spotify.com/track/7zeZZvIuXqpmgushCpkxhA) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 3:45 |
 | 166 | [Someone Like You](https://open.spotify.com/track/5nVMC2NBCyVnW5OIjG7lpD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 3: 1942\-1949](https://open.spotify.com/album/5Ci7FT8FBuEgoQ38wbx575) | 3:04 |
-| 167 | [Quiet Night](https://open.spotify.com/track/5IvP20Y1S5lh3dIi3nnY6I) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [My Name Is Barbra, Two...](https://open.spotify.com/album/3d0a3RAyrLLdkOEpChw7uh) | 2:24 |
-| 168 | [Love Makes the World Go](https://open.spotify.com/track/1V8i6a57Zr5cvFRXAkXZSJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 1:48 |
+| 167 | [Love Makes the World Go](https://open.spotify.com/track/1V8i6a57Zr5cvFRXAkXZSJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 1:48 |
+| 168 | [Quiet Night](https://open.spotify.com/track/5IvP20Y1S5lh3dIi3nnY6I) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [My Name Is Barbra, Two...](https://open.spotify.com/album/3d0a3RAyrLLdkOEpChw7uh) | 2:24 |
 | 169 | [Too Good For The Average Man](https://open.spotify.com/track/45peDcqdx1GJ53g2mtJXbl) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie, Soubrette: Sings Broadway Hits Songs](https://open.spotify.com/album/4wZKDdG8LhLQTHSlaQcUHj) | 3:28 |
 | 170 | [Mare Nostrum \- 1992 Remastered](https://open.spotify.com/track/3f0WUx9MRR36mGnhyFcFOL) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 4:29 |
-| 171 | [Fire on the Waters \- 1992 Remastered](https://open.spotify.com/track/0jnAPmfu7nuKIi1xWilUFv) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:57 |
-| 172 | [Over And Over Again](https://open.spotify.com/track/0jotNIy7dVgKAeiBsBOWzD) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [My Favorite Things](https://open.spotify.com/album/0tHrECcuwdE34Mn8JkE4Mq) | 4:02 |
+| 171 | [Over And Over Again](https://open.spotify.com/track/0jotNIy7dVgKAeiBsBOWzD) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [My Favorite Things](https://open.spotify.com/album/0tHrECcuwdE34Mn8JkE4Mq) | 4:02 |
+| 172 | [Fire on the Waters \- 1992 Remastered](https://open.spotify.com/track/0jnAPmfu7nuKIi1xWilUFv) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:57 |
 | 173 | [That Terrific Rainbow](https://open.spotify.com/track/0IzvUGd3adOchJaGIkIVRL) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 2:18 |
 | 174 | [Danger Down Deep \- 1992 Remastered](https://open.spotify.com/track/34K9epYdHRzsWZVZIbVHIP) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 4:52 |
 | 175 | [Mediterranean Mosaic \- 1992 Remastered](https://open.spotify.com/track/1CHVJWMUsWMle7looJD55y) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:52 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 328 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 329 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Abc2ygAAAABlmzONsEgeSwLHJ6Ym5B2I`
+Snapshot ID: `Abc8YAAAAACE2jZoynwX0uinLBHmDRMj`

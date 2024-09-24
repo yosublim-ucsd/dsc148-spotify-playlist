@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-292 songs - 15 hr 14 min
+294 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Drive My Car \(Misaki\)](https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:27 | 2024-03-09 | 2024-05-16 |
 | [Duck](https://open.spotify.com/track/4PyujFUInGsWYX3t5XDjZM) | [Bill Wells](https://open.spotify.com/artist/1symcfB0KMf0vEg2nE1pHZ), [Maher Shalal Hash Baz](https://open.spotify.com/artist/0sc4qz42as3DlXXqQcU5Qk) | [Osaka Bridge](https://open.spotify.com/album/79mqjyfKRhFr08g30VAJzG) | 1:04 | 2024-04-27 | 2024-05-16 |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2024-01-05 | 2024-03-10 |
+| [Dust To Dust](https://open.spotify.com/track/3XSlfc6P1mXb1L8E8LnP1r) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:37 | 2024-09-23 |  |
 | [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 | 2024-09-08 |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
@@ -211,6 +212,7 @@
 | [Quit Your Job, Runaway!](https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Quit Your Job, Runaway!](https://open.spotify.com/album/6027fNILSRndfej1CldyP4) | 2:46 | 2024-05-16 | 2024-07-12 |
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
 | [Remina Two](https://open.spotify.com/track/12H02g9N8iAU61QZmduL6w) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Remina Two](https://open.spotify.com/album/0W1RyM2i9XVqALFR9QyEF9) | 2:55 | 2024-09-18 |  |
+| [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 | 2024-09-23 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
 | [Rude Girl on Rotation](https://open.spotify.com/track/4EhV8FoOtNW8QfUelPoDhF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Lady On The Cusp](https://open.spotify.com/album/018Fb0iL812xrL5tR6MOzX) | 2:40 | 2024-07-12 | 2024-09-08 |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2024-05-16 | 2024-07-12 |

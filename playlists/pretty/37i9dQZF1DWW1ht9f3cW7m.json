@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29308,
+  "num_followers": 29307,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Beach House",
         "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Weather's Better",
+        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "Weather's Better",
+      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Weather's Better",
-        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 172991,
-      "name": "Weather's Better",
-      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 217413,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -719,6 +703,22 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "If I Was Abducted By Aliens",
-        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
-      },
-      "artists": [
-        {
-          "name": "Dirty Nice",
-          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "If I Was Abducted By Aliens",
-      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Spells",
         "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 194910,
       "name": "Spells",
       "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+      },
+      "artists": [
+        {
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Palo Alto",
         "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "it's all good, kid",
-        "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
-      },
-      "artists": [
-        {
-          "name": "DellaXOZ",
-          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "it's all good, kid",
-      "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 160426,
       "name": "Basement",
       "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "it's all good, kid",
+        "url": "https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "it's all good, kid",
+      "url": "https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1239,22 +1255,6 @@
       "duration_ms": 196829,
       "name": "miss american dream",
       "url": "https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
     },
     {
       "added_at": "2024-09-20 11:39:59",

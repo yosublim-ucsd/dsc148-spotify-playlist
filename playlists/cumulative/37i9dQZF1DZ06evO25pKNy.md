@@ -2,7 +2,7 @@
 
 ### [This Is Los Hijos De Garcia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25pKNy)
 
-> This is Los Hijos De Garcia\. Tutti i brani in un'unica playlist.
+> This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
 58 songs - 2 hr 53 min
 

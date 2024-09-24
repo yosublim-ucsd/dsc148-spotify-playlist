@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Sofía Valdés & DannyLux.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,948 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,926 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 28 | [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 |
 | 29 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
 | 30 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
-| 31 | [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 |
-| 32 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
+| 31 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
+| 32 | [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 |
 | 33 | [Top](https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Top](https://open.spotify.com/album/3Vq3Ow6BcjMRq3lHSF36CN) | 3:22 |
 | 34 | [no sé de amor \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [LUNA 18](https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU) | 3:15 |
 | 35 | [TU FAN](https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:02 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 37 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
 | 38 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
 | 39 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 |
-| 40 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
-| 41 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
+| 40 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
+| 41 | [WASTED WEEKEND](https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [NEVERENDING ROADTRIP](https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc) | 2:33 |
 | 42 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
 | 43 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 44 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 58 | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/track/2uGJKDBA7HLQulZz4dqstX) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [KIKI](https://open.spotify.com/artist/3Oa4tuMAAQjZpQPHTcTEDp) | [Ciclorama Sesh Cap.3: TEQUIEROVER](https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz) | 2:21 |
 | 59 | [Caster y Roxy](https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Caster y Roxy](https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7) | 4:10 |
 | 60 | [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 |
-| 61 | [PRÍNCIPE](https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [PRÍNCIPE](https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW) | 2:51 |
+| 61 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 | 62 | [Opciones](https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Opciones](https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB) | 3:33 |
-| 63 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
-| 64 | [Se Fue](https://open.spotify.com/track/0CLaR87DOI2UG6Z1ZLPXfu) | [Malaka](https://open.spotify.com/artist/2IFT6Pp5gkM7cA6TO48VCD) | [Se Fue](https://open.spotify.com/album/2p0rrlWEeVlND8d4BE1oix) | 3:17 |
-| 65 | [Cuerpo](https://open.spotify.com/track/7GPQ2XNy7AAWgj96uqehtH) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Cuerpo](https://open.spotify.com/album/1oulG48581wpct7HOWNi2t) | 2:57 |
+| 63 | [PRÍNCIPE](https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [PRÍNCIPE](https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW) | 2:51 |
+| 64 | [Cuerpo](https://open.spotify.com/track/7GPQ2XNy7AAWgj96uqehtH) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Cuerpo](https://open.spotify.com/album/1oulG48581wpct7HOWNi2t) | 2:57 |
+| 65 | [Se Fue](https://open.spotify.com/track/0CLaR87DOI2UG6Z1ZLPXfu) | [Malaka](https://open.spotify.com/artist/2IFT6Pp5gkM7cA6TO48VCD) | [Se Fue](https://open.spotify.com/album/2p0rrlWEeVlND8d4BE1oix) | 3:17 |
 | 66 | [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 |
 | 67 | [Flecha](https://open.spotify.com/track/3pKqURqogvWFugRGpWy0pG) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Flecha](https://open.spotify.com/album/6sLIkokHAjU2QpAZyPs97a) | 3:15 |
 | 68 | [UN PORRITO](https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [UN PORRITO](https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v) | 3:24 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 71 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 | 72 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
 | 73 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
-| 74 | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/album/4SzytRlNQR4JBqTth6MD9j) | 2:57 |
-| 75 | [Frankies](https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Purista](https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM) | 4:01 |
+| 74 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 |
+| 75 | [something bout u](https://open.spotify.com/track/0QCmFkO9tlG3wyP3Ch6gID) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [something bout u](https://open.spotify.com/album/56nwUA9BfAIDI9EqqKrOd2) | 2:51 |
 
 Snapshot ID: `Zu205AAAAAC0fGbN1EEWa1DgQ0Nb3+wk`

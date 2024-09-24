@@ -1447,6 +1447,32 @@
     },
     {
       "album": {
+        "name": "Donizetti: Non v'\u00e8 nume, non v'\u00e8 fato",
+        "url": "https://open.spotify.com/album/6l8X99htQ3pf2whm2sz8Il"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Nicola Alaimo",
+          "url": "https://open.spotify.com/artist/03mQkaYWv6DBZ7U132fkyW"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326400,
+      "name": "Donizetti: Non v'\u00e8 nume, non v'\u00e8 fato",
+      "url": "https://open.spotify.com/track/2m87Xpj0U7J8RJcuWg2NxI"
+    },
+    {
+      "album": {
         "name": "Strauss, R.: Elektra",
         "url": "https://open.spotify.com/album/2ptrnSoQilUzhtozXCKC7X"
       },

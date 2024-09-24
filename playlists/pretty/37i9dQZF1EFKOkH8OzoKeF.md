@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4HufFwx26dfH0EUhqhcEVO">Ali Stone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 78 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 78 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 65 | [Alerta](https://open.spotify.com/track/2esf1g68O1tbZc9tcbqbpT) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 0:33 |
 | 66 | [Alquimia \- \(Vocal Mix\)](https://open.spotify.com/track/0OoDvKgkeNUIceGcWu9gtd) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [En Mis Manos](https://open.spotify.com/album/6Rp5gFJUjiic83ISWLGVse) | 3:12 |
 | 67 | [My Chicas](https://open.spotify.com/track/2gYO1HYLtfwnDXJ8e6NKdj) | [Gaby Lagarda](https://open.spotify.com/artist/3LY0g4TIbn4eV95b9qEaiU) | [My Chicas](https://open.spotify.com/album/6Kb8Eq7GrSnez8muVqsBRL) | 2:38 |
-| 68 | [Be My Guest](https://open.spotify.com/track/5w9IdD0vi2dIOH5cWMTc8a) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 2:36 |
-| 69 | [Papaya \- Carioca version](https://open.spotify.com/track/1eDYXZN7eLfqIGMXLgTtly) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Papaya \(Carioca version\)](https://open.spotify.com/album/4F9d8YvzDaGIbAUrnBCXNg) | 2:38 |
+| 68 | [Papaya \- Carioca version](https://open.spotify.com/track/1eDYXZN7eLfqIGMXLgTtly) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Papaya \(Carioca version\)](https://open.spotify.com/album/4F9d8YvzDaGIbAUrnBCXNg) | 2:38 |
+| 69 | [Be My Guest](https://open.spotify.com/track/5w9IdD0vi2dIOH5cWMTc8a) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 2:36 |
 | 70 | [Let's Play Hide & Seek](https://open.spotify.com/track/0SPFWw7NpZ5XZ4NWZ0QXjv) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 2:41 |
 | 71 | [Follow Me Down](https://open.spotify.com/track/1xjeL3gRuDyT5rktCID1ZK) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 1:10 |
 | 72 | [Let Me In](https://open.spotify.com/track/2h7X1ReKiM9bBP7gWxsbyr) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 2:06 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOkH8OzoKeF.md) - [plain]
 | 77 | [Sálvese Quien Pueda](https://open.spotify.com/track/63cyzAm47XoWmI80RapQ9B) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv), [Art House](https://open.spotify.com/artist/65SyY0PScxCW4QwaFjcz47) | [Sálvese Quien Pueda](https://open.spotify.com/album/0wGSBnHW3QjMmuJotJNXxV) | 2:42 |
 | 78 | [Metamorfosis](https://open.spotify.com/track/2cdcT3GVdDJoRNf4xZ1Kd5) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 0:15 |
 
-Snapshot ID: `Abc28gAAAACEC0/HI8oFIEBoEdowcsI5`
+Snapshot ID: `Abc8fgAAAADNK2FwMJK6ueGPCHbtrt+Y`

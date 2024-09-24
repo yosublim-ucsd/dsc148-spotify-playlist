@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new music from Bon iver 🍂❤️‍🩹 cover: Infinity Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,051 likes - 104 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,201 likes - 104 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

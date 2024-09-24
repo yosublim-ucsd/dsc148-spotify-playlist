@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Famoso
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,436 likes - 55 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,443 likes - 55 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

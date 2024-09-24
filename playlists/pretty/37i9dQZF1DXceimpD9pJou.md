@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:0gqbW7Uf6BAWiAh5C6jlPs">Tommy Royale</a> y <a href="spotify:artist:7uZO1ri6Y9Wlv7cDoOOUDI">CRYS</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,134 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,156 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

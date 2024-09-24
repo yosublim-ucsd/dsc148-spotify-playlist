@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1010,6 +1010,24 @@
       "duration_ms": 75433,
       "name": "A Casa Pete",
       "url": "https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX"
+    },
+    {
+      "album": {
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
     },
     {
       "album": {
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 212058,
       "name": "AM a PM",
       "url": "https://open.spotify.com/track/3M022Fu7EHuwG78jcXUxru"
@@ -4708,6 +4726,24 @@
       "duration_ms": 118646,
       "name": "BALADINHA SINISTRA",
       "url": "https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF"
+    },
+    {
+      "album": {
+        "name": "balearico",
+        "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "balearico",
+      "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
     },
     {
       "album": {
@@ -19770,7 +19806,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 119928,
       "name": "Himno al 15 de Setiembre",
       "url": "https://open.spotify.com/track/2yLyUPfZ8imKPbT4XLG8ht"
@@ -19806,7 +19842,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 96302,
       "name": "Himno Nacional de Costa Rica",
       "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
@@ -20848,7 +20884,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -23470,7 +23506,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 174026,
       "name": "La Patriotica Costarricense",
       "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
@@ -26158,7 +26194,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -28830,7 +28866,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 185972,
       "name": "miau",
       "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
@@ -30844,7 +30880,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -37659,6 +37695,32 @@
     },
     {
       "album": {
+        "name": "RD",
+        "url": "https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        },
+        {
+          "name": "Soyneel",
+          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "RD",
+      "url": "https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -38742,7 +38804,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 128809,
       "name": "Saludo a la Bandera",
       "url": "https://open.spotify.com/track/28oh511BxfHdYHXxJ5GSL1"
@@ -42060,7 +42122,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 187338,
       "name": "Soy Tico",
       "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
@@ -42078,7 +42140,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 181293,
       "name": "Soy Tico",
       "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
@@ -45464,7 +45526,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 188480,
       "name": "Tico de Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"

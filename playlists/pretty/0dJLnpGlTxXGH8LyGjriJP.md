@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 806 songs - 1 day 17 hr 12 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 802 songs - 1 day 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -810,9 +810,5 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 800 | [CR@SH \(feat\. Travis Scott\)](https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ALL TIME HIGH](https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2) | 2:16 |
 | 801 | [It Is What It Is \(feat\. Gunna\)](https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 3:23 |
 | 802 | [In The A \(feat\. 21 Savage\)](https://open.spotify.com/track/06vw9yQ5PEKpDTvi3Yqsbv) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Swerv](https://open.spotify.com/album/4edTR1SjuWVje3GlLb0pxN) | 3:53 |
-| 803 | [AYE SAY GANG](https://open.spotify.com/track/3SfqAvcloZcg65r9Si6ziJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:28 |
-| 804 | [LIL DEMON](https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:19 |
-| 805 | [PLUTOSKI](https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:59 |
-| 806 | [BRAZZIER](https://open.spotify.com/track/14P3Ep4KDanxUFzFLsmX5K) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 3:08 |
 
-Snapshot ID: `AAAD0y0gTdpt+ay3gmkV2F8EDox0/CHA`
+Snapshot ID: `AAAD1xi9CT8YfiBhVqCrgmma3Fw4zX78`

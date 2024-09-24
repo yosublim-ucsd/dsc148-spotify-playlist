@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT?si=4suWlfxuT8e4zQvXskY9Yg">Dee Gatti</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,771 likes - 250 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,802 likes - 250 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

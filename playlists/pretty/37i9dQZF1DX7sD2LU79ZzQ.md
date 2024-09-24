@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Naura Ayu
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,484 likes - 117 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,500 likes - 117 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

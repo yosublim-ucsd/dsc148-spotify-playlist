@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Fontaines D.C\. along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,145 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,875 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 73 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 |
 | 74 | [STRANGE FRIENDS](https://open.spotify.com/track/3FW4X3cgPYtL7yla6YyPfu) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [STRANGE FRIENDS](https://open.spotify.com/album/4t7gJ5vOuIDtQtULQcqKR5) | 2:34 |
 
-Snapshot ID: `ZuzzQAAAAABm2i8PiegU/e63DhluoHyf`
+Snapshot ID: `ZuzzQAAAAABnc041tKsONYLvJTVb3uTD`

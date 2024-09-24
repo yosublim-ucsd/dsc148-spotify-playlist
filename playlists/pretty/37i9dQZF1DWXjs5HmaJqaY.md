@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,586 likes - 70 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,678 likes - 70 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 | 70 | [Long Time](https://open.spotify.com/track/4sckpkCazhIIoZ883A5vF8) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Long Time](https://open.spotify.com/album/4YbNxKeo16NRhviluszpco) | 3:13 |
 
-Snapshot ID: `ZtrsIgAAAABfWI/qcWZi5iNGIjweS3iA`
+Snapshot ID: `ZtrsIgAAAAAAMSMmOfKYFDMdpSJ7O0ir`

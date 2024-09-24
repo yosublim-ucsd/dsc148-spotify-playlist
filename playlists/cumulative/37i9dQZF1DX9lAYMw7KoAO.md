@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=73lpcNPWRm6asUag9RWULQ">Israel Mbonyi</a>
 
-428 songs - 1 day 13 hr 9 min
+429 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ascend](https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Ascend](https://open.spotify.com/album/5FlHPCYzDDLhHsNTwmT3nm) | 9:59 | 2021-10-18 | 2023-04-01 |
 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-06-09 |  |
 | [Aseda 3 Music \- Live](https://open.spotify.com/track/0WlZUtnSjrhcxCxAM4ZWC6) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda 3 Music \(Live\)](https://open.spotify.com/album/4ooUFS9MpoDPmblApehAqw) | 4:17 | 2023-08-04 | 2023-08-25 |
+| [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-09-23 |  |
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-08-25 | 2023-09-01 |
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2023-08-25 | 2023-09-01 |
 | [Awesome God](https://open.spotify.com/track/2tiRGU9qYi04MjQVHUI4qq) | [Tembalami](https://open.spotify.com/artist/4xKkR6aTDm0Qc9m9iXjMoZ) | [Faith Aid Kit](https://open.spotify.com/album/0IpkJUzNR2N5uyKzn88PyH) | 4:38 | 2018-10-01 | 2023-04-01 |
@@ -249,7 +250,7 @@
 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 | 2023-04-14 | 2023-06-23 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-09-01 | 2024-03-23 |
 | [Munda](https://open.spotify.com/track/4Q3IbIoJbkwvAec7OC1bD2) | [Karungi](https://open.spotify.com/artist/6UZPRQOTP9ETNx2LHtuH90) | [Munda](https://open.spotify.com/album/663JU0e6eT8beFTeTzPqLe) | 3:18 | 2023-08-25 | 2023-09-01 |
-| [Mvelinqangi](https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR) | [Thak'so Ujey Choir](https://open.spotify.com/artist/6GAiCaNkiz2HNCPXbv8GPa) | [Mvelinqangi](https://open.spotify.com/album/0tH8n41iblT4sPuRDh9MSS) | 3:41 | 2024-07-26 |  |
+| [Mvelinqangi](https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR) | [Thak'so Ujey Choir](https://open.spotify.com/artist/6GAiCaNkiz2HNCPXbv8GPa) | [Mvelinqangi](https://open.spotify.com/album/0tH8n41iblT4sPuRDh9MSS) | 3:41 | 2024-07-26 | 2024-09-24 |
 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 | 2023-06-23 |
 | [My Daddy](https://open.spotify.com/track/069BLujYCF0AJcZcfECyCD) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [My Daddy](https://open.spotify.com/album/7uK1TjQ891Um6RjD6Wep0T) | 2:37 | 2023-05-12 | 2023-05-26 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-02-03 |  |

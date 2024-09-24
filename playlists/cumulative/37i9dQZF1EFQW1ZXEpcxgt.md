@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 14 min
+129 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/track/4dNZUNpTSaQWvOJ8U5zttp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/album/1hSNGgqMnZ5jksP3aLOxMp) | 4:09 | 2022-06-04 |  |
 | [Reverse](https://open.spotify.com/track/3S1D7s5xsuitIti64XQHg7) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Morse Code](https://open.spotify.com/album/6OnHUnhxRIZ4FB7ce9wF39) | 3:11 | 2022-06-04 |  |
 | [Ricky Ricardo](https://open.spotify.com/track/7rzzhTtFSzuvQQw5eWCdwZ) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Ricky Ricardo](https://open.spotify.com/album/2fGu6FNQCdXoIylmV08ain) | 3:33 | 2022-06-04 | 2023-12-14 |
-| [Ricky Ricardo](https://open.spotify.com/track/4dp9yUpE7Da8YZcDjhVtlp) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Jacuzzi Blues, the Interlude](https://open.spotify.com/album/7hXRNjpYx1iCrfzznnSec6) | 3:33 | 2023-12-13 |  |
+| [Ricky Ricardo](https://open.spotify.com/track/4dp9yUpE7Da8YZcDjhVtlp) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Jacuzzi Blues, the Interlude](https://open.spotify.com/album/7hXRNjpYx1iCrfzznnSec6) | 3:33 | 2023-12-13 | 2024-09-24 |
+| [Ricky Ricardo En Español](https://open.spotify.com/track/4fCMligaMtxzMdvtyZA4hF) | [KAPTN](https://open.spotify.com/artist/0uYtAzdxQVWpfAxQeNYCHN) | [Bon Voyage](https://open.spotify.com/album/6bCczvS4guIxYRIbDZ3ewv) | 3:32 | 2024-09-23 |  |
 | [Scared of the Dark \(feat\. XXXTENTACION\)](https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:53 | 2022-06-04 |  |
 | [Slave \(feat\. Eskeerdo\)](https://open.spotify.com/track/2sg4tl6k14jvHzEVHB9cfS) | [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [God, Money, War](https://open.spotify.com/album/6fZLItAImf0KyRzAI7F2NF) | 2:54 | 2022-06-04 |  |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2022-06-04 |  |

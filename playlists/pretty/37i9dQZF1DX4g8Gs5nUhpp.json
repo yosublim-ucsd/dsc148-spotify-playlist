@@ -1,12 +1,12 @@
 {
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: MONO",
-  "num_followers": 173222,
+  "num_followers": 173231,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvANlgAAAACviKDzyq9dQRzEy4bfPGIv",
+  "snapshot_id": "ZvFe6gAAAAB+6xdMAByp/9IlX9ogG+Lf",
   "tracks": [
     {
       "added_at": "2024-09-22 12:29:10",
@@ -23,26 +23,6 @@
       "duration_ms": 188108,
       "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"
-    },
-    {
-      "added_at": "2024-09-22 12:29:10",
-      "album": {
-        "name": "B\u00ecnh Y\u00ean",
-        "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
-      },
-      "artists": [
-        {
-          "name": "V\u0169.",
-          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
-        },
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        }
-      ],
-      "duration_ms": 201655,
-      "name": "B\u00ecnh Y\u00ean",
-      "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
     },
     {
       "added_at": "2024-09-22 12:29:10",
@@ -627,6 +607,26 @@
       "duration_ms": 200842,
       "name": "L\u1ec7 L\u01b0u Ly",
       "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
+    },
+    {
+      "added_at": "2024-09-22 12:29:10",
+      "album": {
+        "name": "B\u00ecnh Y\u00ean",
+        "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "duration_ms": 201655,
+      "name": "B\u00ecnh Y\u00ean",
+      "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
     },
     {
       "added_at": "2024-09-22 12:29:10",

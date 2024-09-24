@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 6923,
+  "num_followers": 6924,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAACURaKmD3cOaEw/a29HCxK1",
+  "snapshot_id": "Zu9eAAAAAACY2+m/7FnhdhlsolQM8ZxW",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "The way her hair falls",
-      "url": "https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 304460,
       "name": "Headache",
       "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "The way her hair falls",
+      "url": "https://open.spotify.com/track/0uwDgbSX1wIBVMSv4yHUKN"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Little Gray Cat",
-      "url": "https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 174370,
       "name": "I'm Clean Now",
       "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Little Gray Cat",
+      "url": "https://open.spotify.com/track/1Sllhw0OERRlTU9tjFpbW3"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Fallow",
-      "url": "https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 92786,
       "name": "Holofernes",
       "url": "https://open.spotify.com/track/4UL9DScE7SnHhcDlNVq4v0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Fallow",
+      "url": "https://open.spotify.com/track/6sgr20vGQkBEHg0fXhz4EJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,081 likes - 103 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,222 likes - 103 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 102 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 | 103 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 |
 
-Snapshot ID: `ZuAyjgAAAAA36g73xyrN9n2Cxz4SHsKH`
+Snapshot ID: `ZuAyjgAAAAA2oUrhArJdr8vEAkr9qEFi`

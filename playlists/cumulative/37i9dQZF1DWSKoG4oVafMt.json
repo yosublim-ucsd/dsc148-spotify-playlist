@@ -9758,7 +9758,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 208192,
       "name": "Maahi Maahi",
       "url": "https://open.spotify.com/track/0iaG10jcOPWAoEwo66y8IA"
@@ -13546,6 +13546,24 @@
       "duration_ms": 201420,
       "name": "Rabba Mainu - From \"Jind Mahi\"",
       "url": "https://open.spotify.com/track/76lfsGx43fls0iMp7x2Ix1"
+    },
+    {
+      "album": {
+        "name": "Raja Rani",
+        "url": "https://open.spotify.com/album/6nU0q2jRcAcwDR6wJiezEb"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Raja Rani",
+      "url": "https://open.spotify.com/track/7MddugzwprJeR1zy4jSlcD"
     },
     {
       "album": {

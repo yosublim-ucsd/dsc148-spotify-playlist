@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-597 songs - 1 day 6 hr 17 min
+599 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Light It Up](https://open.spotify.com/track/6ibayfvVOby1NSKJFohtZp) | [Robin Hustin](https://open.spotify.com/artist/6FPDULwgllPquFdqdzj5gi), [TobiMorrow](https://open.spotify.com/artist/7CSAJPH9eLCOvPc9jn1I6e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Light It Up](https://open.spotify.com/album/4GbTZ3H4jqJPAZGjKiu8xS) | 3:05 | 2023-08-08 | 2024-01-27 |
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 | 2023-04-28 |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 | 2023-04-28 |
+| [Like Rain](https://open.spotify.com/track/5CAhPF67F9jxoNsASa48Lq) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Like Rain](https://open.spotify.com/album/6NLgMBrfFOymoRQr560dmy) | 3:25 | 2024-09-23 |  |
 | [Like That](https://open.spotify.com/track/6L6i0zjctc5rS1JM0mmbpt) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Like That](https://open.spotify.com/album/2FGyG6fnPfnEzrqT0Ar6YG) | 2:40 | 2023-07-07 | 2023-08-10 |
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 | 2023-04-28 |
 | [Limitless](https://open.spotify.com/track/0rw2up89gUnQRD8mUXjrm1) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Limitless](https://open.spotify.com/album/1immYAVOJxgJnZh4iKuJtP) | 4:04 | 2023-08-08 | 2023-12-14 |
@@ -470,6 +471,7 @@
 | [Shine \- Always Mirin Remix](https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV), [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Shine \(Always Mirin Remix\)](https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN) | 2:20 | 2024-08-08 |  |
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 | 2023-04-28 |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-04-28 |
+| [Silence](https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw) | [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU), [N3b](https://open.spotify.com/artist/3txu4jfa4aSLBjikFcTcWm) | [Silence](https://open.spotify.com/album/2mEhoqFj0ZSANEpPwaYnBZ) | 3:26 | 2024-09-23 |  |
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-07-05 | 2023-08-28 |
 | [Sinking Ship](https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq) | [Sinking Ship](https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs) | 2:44 | 2022-11-01 | 2023-08-10 |
 | [Sinner](https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Sinner](https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW) | 3:53 | 2024-02-16 |  |

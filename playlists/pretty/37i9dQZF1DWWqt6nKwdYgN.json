@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14889,
+  "num_followers": 14891,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Disparo",
-        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
-      },
-      "artists": [
-        {
-          "name": "Flowker Slick",
-          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Eslok Diaz",
-          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Disparo",
-      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "No Pidas Tanto",
         "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 152441,
       "name": "No Pidas Tanto",
       "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Disparo",
+        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
+      },
+      "artists": [
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Eslok Diaz",
+          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Disparo",
+      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 202803,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        },
+        {
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+        }
+      ],
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Sicariato & Robo",
         "url": "https://open.spotify.com/album/4Pzxur3KYtbr5iXVmp9B3L"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 250105,
       "name": "Sicariato & Robo",
       "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Rap Garuya",
-        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        },
-        {
-          "name": "El sonido del javier",
-          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
-        }
-      ],
-      "duration_ms": 166119,
-      "name": "Para Salvar Vidas",
-      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-09-20 06:00:00",

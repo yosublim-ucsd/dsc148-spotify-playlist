@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,089 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,100 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 38 | [Somebody Else's](https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Somebody Else's](https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy) | 3:44 |
 | 39 | [Aldrig sluta tro](https://open.spotify.com/track/4NRt5YL8h9nqcaIOO5dMD0) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Aldrig sluta tro](https://open.spotify.com/album/2pZyc1EWuU8GyqVEbI3ODr) | 2:41 |
 | 40 | [Mercy](https://open.spotify.com/track/1JUVicktD1rcUzXlwmkYf4) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Mercy](https://open.spotify.com/album/5bJv5Iay9mu6rrRimESIJ4) | 2:58 |
-| 41 | [DON'T WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
+| 41 | [DONT WORRY \(feat\. Chip Tha Ripper\)](https://open.spotify.com/track/6bpFKtmybxjGaO7OSOQqOc) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Chip Tha Ripper](https://open.spotify.com/artist/0PA28tQBY65NmvLi0xvuX9) | [DONT WORRY](https://open.spotify.com/album/0TdFsBZ1XVLnA6eIzvhh9y) | 2:59 |
 | 42 | [Turn Up A Notch](https://open.spotify.com/track/72Eo19DM3Vkb7gskEe88gM) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/6r3b30eA6lUEDTkE6nPqNj) | 2:15 |
 | 43 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 |
 | 44 | [Stuff That I Like](https://open.spotify.com/track/7cBluqYWyEjJEMSWCw9DVI) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Feeling Mignon](https://open.spotify.com/album/3VyjmGBCmx7AGEmPook14n) | 2:44 |

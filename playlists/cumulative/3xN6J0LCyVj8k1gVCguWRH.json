@@ -8594,7 +8594,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 160737,
       "name": "Bound to Lose",
       "url": "https://open.spotify.com/track/3bclhqr8YD9VAgohwLcIC8"
@@ -16416,7 +16416,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 219386,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/7J5DD7cHzCC9eOAo1tx0br"
@@ -16736,7 +16736,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 228656,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/1mvrXlMpt1cAZiRAzBJLY1"
@@ -18665,6 +18665,24 @@
     },
     {
       "album": {
+        "name": "Drugged Out",
+        "url": "https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201528,
+      "name": "Drugged Out",
+      "url": "https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq"
+    },
+    {
+      "album": {
         "name": "Drum and Pulse",
         "url": "https://open.spotify.com/album/47PwjqHTgxD7jW7HQw3wgw"
       },
@@ -19130,7 +19148,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 195750,
       "name": "easy (like sunday morning)",
       "url": "https://open.spotify.com/track/5RP6QFcyZE3EraWmJDFJfL"
@@ -21140,7 +21158,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 198400,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3Tg8DFn1cBoVHyEh9oqekg"
@@ -25760,7 +25778,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 230564,
       "name": "God Alone",
       "url": "https://open.spotify.com/track/4xzHR0uLauc5VTpXCcqrg0"
@@ -32792,7 +32810,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 108964,
       "name": "In Love With You Boy",
       "url": "https://open.spotify.com/track/30EcNslpfeScgBlD58aiHu"
@@ -46170,7 +46188,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 166987,
       "name": "NO MORE CAMERAS",
       "url": "https://open.spotify.com/track/2FPWZhKih3iNdP3fGT7xLs"
@@ -49470,6 +49488,24 @@
       "duration_ms": 175829,
       "name": "Pack Up Your Bags",
       "url": "https://open.spotify.com/track/7AyGaCerYrkSWO2BqZwoe8"
+    },
+    {
+      "album": {
+        "name": "PAID TODAY",
+        "url": "https://open.spotify.com/album/4vZ3OVtQorIWK1tD7mGfjx"
+      },
+      "artists": [
+        {
+          "name": "KID RUCCO",
+          "url": "https://open.spotify.com/artist/2GFnqJKomTQcjvjAddKA6b"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142611,
+      "name": "PAID TODAY",
+      "url": "https://open.spotify.com/track/746dxU9cGfCj62ossBxHpl"
     },
     {
       "album": {
@@ -57364,7 +57400,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 160000,
       "name": "Si Mami Supiera",
       "url": "https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc"
@@ -59678,7 +59714,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
@@ -63368,7 +63404,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 185793,
       "name": "Tangled Up In Blue",
       "url": "https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ"
@@ -73616,7 +73652,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 210015,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/0e5677hRKf0w9vps44iNyf"

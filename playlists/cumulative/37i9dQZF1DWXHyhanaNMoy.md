@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Summer motion en good vibes\. Cover: GIMS
+> Elke dag een exclusieve track van Dopebwoy in La Vida Loca!
 
-1,116 songs - 2 day 2 hr 10 min
+1,117 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Body 2 Body](https://open.spotify.com/track/3nZUuSajBjZLSuE8T5wiBL) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Body 2 Body](https://open.spotify.com/album/4zrmUS51yIS2ttZtS3WPRo) | 3:07 | 2023-08-10 | 2023-10-13 |
 | [Body On Top](https://open.spotify.com/track/3XzXpiHPDi8SMObGM0GEE7) | [Oscar Bando](https://open.spotify.com/artist/7yI53Ja9QcOFyqj8ezWR2Q), [Ross Thomson](https://open.spotify.com/artist/6kaDtlAFQg4Iki1hnsVKta) | [Body On Top](https://open.spotify.com/album/7nTc0du5lUgC0f32t7cIPp) | 2:19 | 2022-12-29 | 2023-01-13 |
 | [Bombastic Side Eye](https://open.spotify.com/track/5uicPFhEGP3AyqPD5FVkTo) | [Dreyh](https://open.spotify.com/artist/2UsHIQht15KwZwz0UzxLuF), [Lino](https://open.spotify.com/artist/50XQMobXASNNGho6iHHpFH), [TEAM PEACH](https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC), [Ovano](https://open.spotify.com/artist/25H0faXHYciO3kWOCfdn03) | [Bombastic Side Eye](https://open.spotify.com/album/1Dn2loB5kPWXMgzKlMouwK) | 2:10 | 2023-06-15 | 2023-06-30 |
+| [BON \(feat\. L.A.X.\)](https://open.spotify.com/track/2YB4hxq9fXew90wcDkLiNi) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [BON \(feat\. L.A.X.\)](https://open.spotify.com/album/0u7qSfFcKM1zhr267YG7Bu) | 3:02 | 2024-09-23 |  |
 | [Bon de man](https://open.spotify.com/track/2EhjS2hrwSKUH8T4nQirEe) | [Atje](https://open.spotify.com/artist/0fIJF6TTabIOnx7aU7e95h), [Cloverkidd](https://open.spotify.com/artist/4jevDsPCsCpIznBS7IgjGi), [Dayvoo](https://open.spotify.com/artist/3Y7dSW6r0DdlIMpj8EnjAl), [Galie](https://open.spotify.com/artist/46PFMcBXxL82FQxfHw4dnr), [Jamatkd](https://open.spotify.com/artist/50ceaeyvwYt6apoe5csFNC) | [Bon de man](https://open.spotify.com/album/0vZJSBBTLTlrBCUyRHCjFT) | 2:37 | 2023-01-12 | 2023-03-03 |
 | [Bon Lekker](https://open.spotify.com/track/2JSKjNF1bpvAKHz2V1UbOz) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [Ogri Ai](https://open.spotify.com/artist/0NG22gndoRc1o8dBU3mCpX) | [Bon Lekker](https://open.spotify.com/album/6DXhWPJ1Svp2bA8lLDftQj) | 2:17 | 2024-07-11 | 2024-07-27 |
 | [Bon Mij](https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [DJ Wale](https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Bon Mij](https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a) | 2:31 | 2023-05-25 | 2023-07-28 |

@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 215946,
       "name": "About Time",
       "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Beside you (Better Days X Jang Hye-Jin)",
+        "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
+      },
+      "artists": [
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Beside you",
+      "url": "https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq"
+    },
+    {
+      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -3282,7 +3300,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 197400,
       "name": "Cherry Pink",
       "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
@@ -4752,6 +4770,28 @@
       "duration_ms": 204078,
       "name": "dryflower",
       "url": "https://open.spotify.com/track/7i4uzUhWACcz0t7JdUOkwk"
+    },
+    {
+      "album": {
+        "name": "Echo (feat .JUKJAE)",
+        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        },
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192586,
+      "name": "Echo (feat. JUKJAE)",
+      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
     },
     {
       "album": {
@@ -6426,7 +6466,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 220773,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/2ze6HMOtmqYEY7fp6eCYem"
@@ -7231,6 +7271,28 @@
     },
     {
       "album": {
+        "name": "Hold me Kiss me Love me (Piano ver.)",
+        "url": "https://open.spotify.com/album/7gomebCtyV8kMZOLrhjtJy"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "colin",
+          "url": "https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Hold me Kiss me Love me - Piano ver.",
+      "url": "https://open.spotify.com/track/6bMPbJLIb7t9A9XxZgXA14"
+    },
+    {
+      "album": {
         "name": "Dear City",
         "url": "https://open.spotify.com/album/7ibKvB4WLDqCZutb1s1Yeu"
       },
@@ -7639,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "Huddling Cuddling",
+        "url": "https://open.spotify.com/album/3pw0jbHFFp58KD40FmfVlm"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237428,
+      "name": "Huddling Cuddling",
+      "url": "https://open.spotify.com/track/73B7IYhMATCQaWvuKL7daH"
+    },
+    {
+      "album": {
         "name": "CLEANING UP (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/6JS3kyAoZEp4BFz4qCLfUz"
       },
@@ -7892,6 +7972,24 @@
       "duration_ms": 225546,
       "name": "I Don't Deserve to Be Loved",
       "url": "https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic"
+    },
+    {
+      "album": {
+        "name": "I don't want to try too hard",
+        "url": "https://open.spotify.com/album/2DAMtOoAtOxIb7hCdrzS2V"
+      },
+      "artists": [
+        {
+          "name": "Broccoli, you too?",
+          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "I don't want to try too hard",
+      "url": "https://open.spotify.com/track/5i4AG1SJzoaZA9BRIcLIkd"
     },
     {
       "album": {
@@ -9352,7 +9450,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 167750,
       "name": "If I were your summer",
       "url": "https://open.spotify.com/track/74ntiQ1mxRujlUMqSrQxRm"
@@ -11660,7 +11758,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 209826,
       "name": "Look at your picture",
       "url": "https://open.spotify.com/track/6uHuMQ3o59hCQ9e8WXtLvk"
@@ -12810,6 +12908,24 @@
       "duration_ms": 171720,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2DaUKdcssXgm8YkX998QBT"
+      },
+      "artists": [
+        {
+          "name": "Yang Jung Seung",
+          "url": "https://open.spotify.com/artist/0y9XSQQypiA42VucoJlVB0"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6JB6RVCI3MsZKOT2ptQxks"
     },
     {
       "album": {
@@ -15992,7 +16108,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 247945,
       "name": "RETURN",
       "url": "https://open.spotify.com/track/2LBE64f36ImF4tjAWM9dSD"
@@ -16515,6 +16631,24 @@
     },
     {
       "album": {
+        "name": "Shaving",
+        "url": "https://open.spotify.com/album/2ELplOBe2OqNNvVBwzNyGM"
+      },
+      "artists": [
+        {
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251706,
+      "name": "Shaving",
+      "url": "https://open.spotify.com/track/4YoUYbCNMcVLcL3cr5KLFt"
+    },
+    {
+      "album": {
         "name": "Poong, the Joseon Psychiatrist OST Part.3",
         "url": "https://open.spotify.com/album/3adcqwktUDEr9ApocKPQ6D"
       },
@@ -16790,7 +16924,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 228216,
       "name": "Smile Good Bye",
       "url": "https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP"
@@ -19958,7 +20092,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 221564,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/3ppS6pCWBP6Yh47ypI3zEo"
@@ -20604,7 +20738,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 233346,
       "name": "Unknown Number",
       "url": "https://open.spotify.com/track/6ELBv0LKWuq77hK5mUS1n0"
@@ -20845,6 +20979,24 @@
     },
     {
       "album": {
+        "name": "Love Next Door, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5xYrVfxCBFberOan8DWmDh"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/7wSb2eRkdEyRmyxFIduPPj"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -21008,6 +21160,24 @@
       "duration_ms": 236880,
       "name": "We Were (Feat. Hareem)",
       "url": "https://open.spotify.com/track/2qxc59898BaqfbJKhgI61k"
+    },
+    {
+      "album": {
+        "name": "We Were There",
+        "url": "https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv"
+      },
+      "artists": [
+        {
+          "name": "DAREDAA",
+          "url": "https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223227,
+      "name": "We Were There",
+      "url": "https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM"
     },
     {
       "album": {

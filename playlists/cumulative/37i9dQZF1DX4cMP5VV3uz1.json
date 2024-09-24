@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 200375,
       "name": "12 Gauge",
       "url": "https://open.spotify.com/track/4cgr1VYLPvQkcrLibsJpPJ"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 162400,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq"
@@ -4921,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "album": {
         "name": "Ride on Time",
         "url": "https://open.spotify.com/album/4PrOAKABcgjTzk4MWv9mK8"
       },
@@ -5310,6 +5328,28 @@
       "duration_ms": 257200,
       "name": "Sliding",
       "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
+    },
+    {
+      "album": {
+        "name": "SMASH",
+        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
+      },
+      "artists": [
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234731,
+      "name": "SMASH",
+      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
       "album": {

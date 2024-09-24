@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu4MgAAAAAAgsyzZt8vp7EnAhbBN08s2",
+  "snapshot_id": "Zu9eAAAAAAC8X+kpFxt5INM2lklVPAYZ",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 264133,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
+      "duration_ms": 254106,
+      "name": "Taste the Floor",
+      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Taste the Floor",
-      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
+      "duration_ms": 264133,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 161284,
-      "name": "Euclid",
-      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
+      "duration_ms": 175614,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 161284,
+      "name": "Euclid",
+      "url": "https://open.spotify.com/track/19l8TA5uRWQKdVbu7HY9lB"
     }
   ],
   "unique_name": "This Is Salt Creek",

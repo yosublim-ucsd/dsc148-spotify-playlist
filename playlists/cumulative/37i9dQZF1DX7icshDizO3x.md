@@ -4,7 +4,7 @@
 
 > Stray Kids LIVE Blu\-ray 『Stray Kids 5\-STAR Dome Tour 2023』発売記念。プレイリストで公演を振り返ろう。
 
-125 songs - 6 hr 3 min
+126 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Message from I.N](https://open.spotify.com/track/6qWXYnpNno4hUW4QLnOj3D) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:46 | 2024-06-04 | 2024-06-29 |
 | [Message from Lee Know](https://open.spotify.com/track/51pIYDWy7lFeBuQObhp6A3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:25 | 2024-06-04 | 2024-06-29 |
 | [Message from Seungmin](https://open.spotify.com/track/0LFSLUqTbny3x7jtkGoY9w) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids STAY’s SELECTION](https://open.spotify.com/album/0RbiNDThrXRGDbfi06tFlX) | 0:48 | 2024-06-04 | 2024-06-29 |
+| [Message from Stray Kids](https://open.spotify.com/track/1SpS4uDgjt4nhWwJPNceDU) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Message from Stray Kids](https://open.spotify.com/album/00jt3qbQdZuEKoRPDLgmDi) | 1:04 | 2024-09-23 |  |
 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 | 2023-02-28 |  |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2023-02-28 | 2023-06-06 |
 | [Mixtape : Time Out](https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 2:55 | 2023-02-28 | 2023-11-01 |

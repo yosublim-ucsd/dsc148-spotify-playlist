@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Daniel Godson",
-  "num_followers": 21013,
+  "num_followers": 21018,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Danse Macabre",
-        "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
-      },
-      "artists": [
-        {
-          "name": "nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 167581,
-      "name": "Danse Macabre",
-      "url": "https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Ona jest niebywa\u0142a",
         "url": "https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC"
       },
@@ -391,30 +375,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
-        "url": "https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0"
+        "name": "Danse Macabre",
+        "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
       },
       "artists": [
         {
-          "name": "PROJEKT WOW",
-          "url": "https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms"
-        },
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        },
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+          "name": "nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
         }
       ],
-      "duration_ms": 172361,
-      "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
-      "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
+      "duration_ms": 167581,
+      "name": "Danse Macabre",
+      "url": "https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -447,6 +419,34 @@
       "duration_ms": 151428,
       "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
       "url": "https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
+        "url": "https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0"
+      },
+      "artists": [
+        {
+          "name": "PROJEKT WOW",
+          "url": "https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
+      "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Tak widz\u0119 nas (za 20 lat)",
+        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Tak widz\u0119 nas (za 20 lat)",
+      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "BABYGIRL",
         "url": "https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 159717,
       "name": "SILVERMAN",
       "url": "https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tak widz\u0119 nas (za 20 lat)",
-        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Tak widz\u0119 nas (za 20 lat)",
-      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "milczysz",
-        "url": "https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI"
-      },
-      "artists": [
-        {
-          "name": "Magda Drejka",
-          "url": "https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo"
-        }
-      ],
-      "duration_ms": 137355,
-      "name": "milczysz",
-      "url": "https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "Deszczowy lipiec",
         "url": "https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 179328,
       "name": "Deszczowy lipiec",
       "url": "https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "milczysz",
+        "url": "https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI"
+      },
+      "artists": [
+        {
+          "name": "Magda Drejka",
+          "url": "https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo"
+        }
+      ],
+      "duration_ms": 137355,
+      "name": "milczysz",
+      "url": "https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "#omg",
+        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
+      },
+      "artists": [
+        {
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+        }
+      ],
+      "duration_ms": 126427,
+      "name": "#omg",
+      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "wrogowie",
         "url": "https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 206303,
       "name": "wrogowie",
       "url": "https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "#omg",
-        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
-      },
-      "artists": [
-        {
-          "name": "hubithekid",
-          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
-        }
-      ],
-      "duration_ms": 126427,
-      "name": "#omg",
-      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Ostatni raz",
-        "url": "https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF"
+        "name": "Filozof",
+        "url": "https://open.spotify.com/album/5suovL7M8Qg0HH5CH2OD0x"
       },
       "artists": [
         {
-          "name": "elis",
-          "url": "https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0"
+          "name": "Zofie",
+          "url": "https://open.spotify.com/artist/0OO46T770SxOKPhS7oVAze"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Ostatni raz",
-      "url": "https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z"
+      "duration_ms": 200843,
+      "name": "Filozof",
+      "url": "https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Filozof",
-        "url": "https://open.spotify.com/album/5suovL7M8Qg0HH5CH2OD0x"
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF"
       },
       "artists": [
         {
-          "name": "Zofie",
-          "url": "https://open.spotify.com/artist/0OO46T770SxOKPhS7oVAze"
+          "name": "elis",
+          "url": "https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0"
         }
       ],
-      "duration_ms": 200843,
-      "name": "Filozof",
-      "url": "https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD"
+      "duration_ms": 151875,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z"
     },
     {
       "added_at": "2024-09-19 22:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
-        "name": "Polec\u0119 do gwiazd",
-        "url": "https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D"
-      },
-      "artists": [
-        {
-          "name": "Michell Siwak",
-          "url": "https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Polec\u0119 do gwiazd",
-      "url": "https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
         "name": "szcz\u0119\u015bcie",
         "url": "https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 165600,
       "name": "szcz\u0119\u015bcie",
       "url": "https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
+        "name": "Polec\u0119 do gwiazd",
+        "url": "https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D"
+      },
+      "artists": [
+        {
+          "name": "Michell Siwak",
+          "url": "https://open.spotify.com/artist/2nKTrZd6c5xy8AgNyrSM0q"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Polec\u0119 do gwiazd",
+      "url": "https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2"
     }
   ],
   "unique_name": "gen z ",

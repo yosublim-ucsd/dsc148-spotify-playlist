@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,975 songs - 11 day 0 hr 26 min
+6,976 songs - 11 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3001,7 +3001,7 @@
 | [It's All Subjective](https://open.spotify.com/track/4ZEu6K8xFemBWjKXxthzt6) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [It's All Subjective](https://open.spotify.com/album/0QNx282qfBlTUAVhVmc5Ib) | 1:58 | 2020-08-30 | 2021-10-02 |
 | [it's been hard](https://open.spotify.com/track/6vW0MOQKhtSYjcQSaVWeJX) | [sadcake](https://open.spotify.com/artist/3sAildqE9A05H1oPYTbXw9) | [it's been hard](https://open.spotify.com/album/059ykWyDoz6guc4nXvsmwd) | 2:38 | 2023-01-06 | 2024-04-24 |
 | [It's Beginning to look a lot like Christmas](https://open.spotify.com/track/4zZ0lH4eRt8cvD2t3h9tcs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:48 | 2021-12-17 | 2021-12-27 |
-| [It's Good Now](https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [It's Good Now](https://open.spotify.com/album/0WCDH2mTAK3Wr7DHXBH6lo) | 1:30 | 2024-03-08 |  |
+| [It's Good Now](https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [It's Good Now](https://open.spotify.com/album/0WCDH2mTAK3Wr7DHXBH6lo) | 1:30 | 2024-03-08 | 2024-09-24 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-10-21 |
 | [It's Ok To Be Sad \- Instrumental](https://open.spotify.com/track/3QAvC7eJiR50jr2w9ltseq) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [It's Ok To Be Sad \(Instrumental\)](https://open.spotify.com/album/2GNVjCk4KMcWhYwqNpnPqX) | 2:01 | 2022-10-28 | 2023-09-16 |
 | [It's OK to Cry](https://open.spotify.com/track/5utrtANUaATItHm4Twgp6Z) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [It's OK to Cry](https://open.spotify.com/album/0U1nbx9Tk1b9LN9amhNYmL) | 1:42 | 2019-06-06 | 2020-02-08 |
@@ -3342,6 +3342,7 @@
 | [Lemonade](https://open.spotify.com/track/6Gwb5YQpylee9HnLqSx0is) | [FLVTEE](https://open.spotify.com/artist/7mXarEU6N3pgUiVdZreQfh), [Versions in Color](https://open.spotify.com/artist/3vflLLud2k4jwGwI6XiTV7) | [Lemonade](https://open.spotify.com/album/3zDGYukeXkKATTYYmyyTRf) | 2:42 | 2022-04-23 | 2022-09-09 |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2021-10-20 | 2022-04-15 |
 | [lemons](https://open.spotify.com/track/2WDqySqy4Q85CsYQUfVLE4) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [lemons](https://open.spotify.com/album/6RBClujOewROXRoFJPRHs4) | 1:48 | 2022-08-12 | 2022-11-25 |
+| [Lens Flare](https://open.spotify.com/track/2QAtrLtHWHIJks6Vx6Tp8L) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Lens Flare](https://open.spotify.com/album/4WHVkWrU4qvkTqZnRNzHLO) | 2:40 | 2024-09-20 |  |
 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 | 2022-08-26 | 2023-01-13 |
 | [Lesson on Counting](https://open.spotify.com/track/76fY0vhiDWoyZZ48JH3ulF) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Lesson on Counting](https://open.spotify.com/album/561BZ18a9mTjQj0BJLFtJp) | 2:17 | 2019-07-12 | 2020-10-21 |
 | [Let Her Go](https://open.spotify.com/track/7C136mZCsLXwH1rU6GTrBM) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Let Her Go](https://open.spotify.com/album/4ywpJ93hT4lh2pOjKCz4IP) | 2:04 | 2022-10-21 | 2022-12-16 |

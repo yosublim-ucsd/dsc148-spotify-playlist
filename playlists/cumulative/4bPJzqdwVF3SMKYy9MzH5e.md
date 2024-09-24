@@ -4,7 +4,7 @@
 
 > 
 
-1,975 songs - 4 day 10 hr 21 min
+1,976 songs - 4 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1837,6 +1837,7 @@
 | [Vacation Bible School](https://open.spotify.com/track/6KbkGUqEJBwghxPLUQpOXQ) | [Ayesha Erotica](https://open.spotify.com/artist/7gQJXKyZX1Wwqpd82lB9Xy) | [Vacation Bible School](https://open.spotify.com/album/306zEIOo0kFIfAFaCFAmlE) | 4:51 | 2021-11-14 |  |
 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 | 2024-06-10 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-07-10 |  |
+| [VAPO NO SETOR](https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1) | [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [VAPO NO SETOR](https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse) | 1:07 | 2024-09-23 |  |
 | [Variations on a Rococo Theme, Op\. 33, TH 57: Var: VI\. Andante](https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Jean\-Guihen Queyras](https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvořák: Silent Woods; Rondo](https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf) | 2:36 | 2022-11-10 |  |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2021-08-05 |  |
 | [Venom](https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KILL YOURSELF Part XIV: The Vulture Saga](https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s) | 2:03 | 2024-02-29 |  |

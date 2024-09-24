@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "CHIARA",
+        "url": "https://open.spotify.com/album/1reoBnQ4RB5hBB2EVFUIzm"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149473,
+      "name": "CHIARA",
+      "url": "https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj"
+    },
+    {
+      "album": {
         "name": "CHICCHI DI MAIS",
         "url": "https://open.spotify.com/album/1vO11VjSP50ATrDbTvYzPX"
       },
@@ -6716,7 +6734,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-24",
       "duration_ms": 161095,
       "name": "La Ca$$a (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5RNZaMaGSxrTkNVsMUqPOk"

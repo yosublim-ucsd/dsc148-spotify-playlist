@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-186 songs - 13 hr 55 min
+187 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 | 2022-05-06 |  |
 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 | 2022-08-29 |  |
 | [Cause We've Ended As Lovers](https://open.spotify.com/track/51VBEDfm60C2PyCtwLGIDG) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 5:01 | 2022-05-06 | 2023-03-25 |
+| [Celestial Summer](https://open.spotify.com/track/5uAqNqUJTb1xlqIyxObvWu) | [Jonathan Fritzén](https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM) | [Celestial Summer](https://open.spotify.com/album/4eD8YUENmkWXCJaRGbHPZ3) | 4:17 | 2024-09-09 |  |
 | [Changing Lanes](https://open.spotify.com/track/4JA3H5Yl2AaPlYJGHSExeb) | [Estelle](https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI) | [Changing Lanes](https://open.spotify.com/album/3okiGsB4Y7njNxRBp0vfLH) | 3:00 | 2024-08-26 |  |
 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2022-05-06 | 2023-12-25 |
 | [City Lights](https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM) | 5:33 | 2024-01-19 | 2024-04-19 |
@@ -149,7 +150,7 @@
 | [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 | 2024-07-19 |
 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 | 2022-08-16 |  |
 | [Sky Watcher](https://open.spotify.com/track/6M5Zlr1uSlLksVBVy5q6uq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:02 | 2022-05-06 | 2022-11-30 |
-| [Smooth Lines](https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R) | [Irvine](https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq) | [Smooth Lines](https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ) | 2:42 | 2024-07-22 |  |
+| [Smooth Lines](https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R) | [Irvine](https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq) | [Smooth Lines](https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ) | 2:42 | 2024-07-22 | 2024-09-24 |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 | 2023-02-08 |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2022-05-06 | 2022-08-11 |
 | [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 | 2022-06-28 | 2023-10-22 |

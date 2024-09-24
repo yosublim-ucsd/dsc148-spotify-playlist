@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 223130,
+  "num_followers": 223373,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
-      },
-      "artists": [
-        {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 153984,
       "name": "haunted - + slowed version",
       "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2024-08-29 11:43:18",

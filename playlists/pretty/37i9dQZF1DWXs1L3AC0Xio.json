@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 743890,
+  "num_followers": 744075,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Watch Over You",
+      "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Watch Over You",
-      "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Broken Heart of Gold",
         "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253487,
       "name": "Broken Heart of Gold",
       "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "28 Days In The Valley",
-        "url": "https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Flawless",
-      "url": "https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Hydrograd",
         "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 267400,
       "name": "St. Marie",
       "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "28 Days In The Valley",
+        "url": "https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd"
     },
     {
       "added_at": "2024-06-26 02:18:14",

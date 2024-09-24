@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Ellinoora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,887 likes - 117 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,892 likes - 117 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

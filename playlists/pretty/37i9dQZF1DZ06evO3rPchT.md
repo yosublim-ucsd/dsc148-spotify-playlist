@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,058 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,080 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:12 |
 | 50 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/09g0JkFYSb8OHPcxkxz65l) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Father’s Søn \- Acoustic](https://open.spotify.com/album/2pkrx1vcAX8jjnihMIbv7C) | 4:32 |
 
-Snapshot ID: `Zu4MgAAAAABoRte3g1Srja4r9TxSoALF`
+Snapshot ID: `Zu9eAAAAAAD6OQ6EGI9jIo7lXSogMhzz`
