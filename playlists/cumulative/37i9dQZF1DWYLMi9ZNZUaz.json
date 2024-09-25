@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
+  "description": "C\u00e1c anh Long c\u1ee7a l\u00e0ng hip-hop: Emcee L, WEAN, Rtee, Low G",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 220800,
       "name": "BUSINESS MODE",
       "url": "https://open.spotify.com/track/1nLkB5tZaxAIbJ7Mg5Wmfg"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 192631,
       "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
       "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 246000,
       "name": "Hoa h\u1ed3ng tr\u00ean b\u00ea t\u00f4ng",
       "url": "https://open.spotify.com/track/14l6EFrpUiSQ64qYJt4y0l"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 228630,
       "name": "Khi M\u00e0",
       "url": "https://open.spotify.com/track/0Lf0ydJp4nbcEkYgPtIUuD"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 201407,
       "name": "Kh\u00f4ng Ph\u1ea3i Gu",
       "url": "https://open.spotify.com/track/7h69br1nQFSSgdVQp6sPx6"
@@ -2651,6 +2651,28 @@
     },
     {
       "album": {
+        "name": "M\u01b0a C\u1ee9 R\u01a1i",
+        "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
+      },
+      "artists": [
+        {
+          "name": "Mr.A",
+          "url": "https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "M\u01b0a C\u1ee9 R\u01a1i",
+      "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
+    },
+    {
+      "album": {
         "name": "M\u01b0\u1ee3n R\u01b0\u1ee3u T\u1ecf T\u00ecnh",
         "url": "https://open.spotify.com/album/44gpk43ZzXo2grV47gOgTM"
       },
@@ -2972,7 +2994,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -3526,7 +3548,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 151480,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/2nU2QEwLRv5JABkPnt37aK"
@@ -4248,7 +4270,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 178823,
       "name": "TOKYO Cypher",
       "url": "https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda"
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 133784,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
@@ -4578,7 +4600,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 268387,
       "name": "WILD WOLF",
       "url": "https://open.spotify.com/track/6OJTF3kv59aPw7rdX4oqzl"
@@ -4674,7 +4696,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 187454,
       "name": "Xin \u0110\u1eebng Nh\u1ea5c M\u00e1y",
       "url": "https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR"

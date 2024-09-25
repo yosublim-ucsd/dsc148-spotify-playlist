@@ -4309,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "Hallstatt",
+        "url": "https://open.spotify.com/album/4lliWkRCrXuGWdT9qUi3b6"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184732,
+      "name": "Hallstatt",
+      "url": "https://open.spotify.com/track/03s95WJwNOg7elfFlfG9fF"
+    },
+    {
+      "album": {
         "name": "Halston",
         "url": "https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R"
       },
@@ -13632,7 +13650,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 147243,
       "name": "Wisteria Blue",
       "url": "https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9"

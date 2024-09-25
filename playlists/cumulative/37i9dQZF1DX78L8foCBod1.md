@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-170 songs - 11 hr 53 min
+171 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [TRACER](https://open.spotify.com/track/5pZNL0ZqBQ9Z8hKPGLtVrl) | [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:22 | 2022-06-21 | 2024-04-19 |
 | [Tranquility](https://open.spotify.com/track/4U5PadmkZvwnEixcCVTuGM) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:43 | 2022-06-07 |  |
 | [TuNGSTeN](https://open.spotify.com/track/0CWd0JTtjoDFHOfHb8pdUW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [TuNGSTeN](https://open.spotify.com/album/55erO9AeugXcNt7PIzcAsf) | 2:52 | 2024-06-04 |  |
+| [Twin Fates](https://open.spotify.com/track/6jR4l7mOKxiOOQ8c8RDfQV) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Twin Fates](https://open.spotify.com/album/3ZEzNh9z0j4bEesbpO5kr8) | 3:20 | 2024-09-24 |  |
 | [UNICORN](https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダムUC オリジナルサウンドトラック 1](https://open.spotify.com/album/356HeuMTwxtzeeIREkfJTo) | 4:46 | 2022-06-07 |  |
 | [Unicorn](https://open.spotify.com/track/7q1pK4BgyC0H2Y8t9rh6Qh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7ylxV9GzV7U6lhQLKnHGWU) | 4:46 | 2022-06-21 | 2024-04-19 |
 | [VANE](https://open.spotify.com/track/1o3cQIcJVmhtlTecl2bekc) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE](https://open.spotify.com/album/02deSQPU1TA1cmASLBUgWu) | 3:29 | 2022-11-15 |  |

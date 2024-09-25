@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 151664,
       "name": "8HT",
       "url": "https://open.spotify.com/track/047hH2x8agj3EEVSo74thP"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 159428,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH"
@@ -804,6 +804,24 @@
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
+    },
+    {
+      "album": {
+        "name": "Wenn es sich gut anf\u00fchlt",
+        "url": "https://open.spotify.com/album/3saWrjGMn6svJsgW4j4tXR"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "An alle da drau\u00dfen",
+      "url": "https://open.spotify.com/track/34DdFveJLvGljBwagZv3qd"
     },
     {
       "album": {
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 174004,
       "name": "Benzin",
       "url": "https://open.spotify.com/track/0QTGYi9HA0ZesLVpDdk6jq"
@@ -1936,6 +1954,28 @@
       "duration_ms": 126000,
       "name": "BIERBAUCH\ud83c\udf7a",
       "url": "https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo"
+    },
+    {
+      "album": {
+        "name": "Bierdurst",
+        "url": "https://open.spotify.com/album/5KGDDSnPa7L8rxd8t0J3Kx"
+      },
+      "artists": [
+        {
+          "name": "The Butcher Sisters",
+          "url": "https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM"
+        },
+        {
+          "name": "Mehnersmoos",
+          "url": "https://open.spotify.com/artist/4v1lRzkxvSsxo1JVUxXEOK"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200823,
+      "name": "Bierdurst",
+      "url": "https://open.spotify.com/track/1e1atDdbZ1Fl8stS9ZNHu5"
     },
     {
       "album": {
@@ -3778,7 +3818,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -3952,6 +3992,24 @@
       "duration_ms": 246758,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "album": {
+        "name": "DONAU",
+        "url": "https://open.spotify.com/album/2Rdn4sedgrzD6OqyhRhTXc"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "DONAU",
+      "url": "https://open.spotify.com/track/70w71qixrhKA4BBsm0uc70"
     },
     {
       "album": {
@@ -5332,7 +5390,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 127500,
       "name": "FUNK UNIVERSO",
       "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
@@ -5856,7 +5914,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
@@ -6524,6 +6582,28 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "album": {
+        "name": "Herzschlag",
+        "url": "https://open.spotify.com/album/2DpUOA6w7OYhQnnOWDjY8Y"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "Herzschlag",
+      "url": "https://open.spotify.com/track/5AT4QWxSfRSShw51ao7Zz5"
     },
     {
       "album": {
@@ -7362,7 +7442,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 150338,
       "name": "Ik Zweer Het Je",
       "url": "https://open.spotify.com/track/5tyKjCpbeWHXEfXH6bMz0C"
@@ -7460,7 +7540,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB"
@@ -10045,6 +10125,24 @@
     },
     {
       "album": {
+        "name": "Meer",
+        "url": "https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226151,
+      "name": "Meer",
+      "url": "https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn"
+    },
+    {
+      "album": {
         "name": "Mein Lieblingstier ist der Zapfhahn",
         "url": "https://open.spotify.com/album/5vxabqG8xetv9WlLIgd54l"
       },
@@ -10782,6 +10880,24 @@
       "duration_ms": 184371,
       "name": "My Type",
       "url": "https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3"
+    },
+    {
+      "album": {
+        "name": "nachts wach",
+        "url": "https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH"
+      },
+      "artists": [
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "nachts wach",
+      "url": "https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4"
     },
     {
       "album": {
@@ -12371,6 +12487,24 @@
     },
     {
       "album": {
+        "name": "Position gefunden (Blitzer App)",
+        "url": "https://open.spotify.com/album/1njATVAtxt9jDK82469ZHP"
+      },
+      "artists": [
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118909,
+      "name": "Position gefunden (Blitzer App)",
+      "url": "https://open.spotify.com/track/7b2nCgF2a5p5svGd0VcRB4"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -12622,6 +12756,28 @@
       "duration_ms": 143043,
       "name": "Randali",
       "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
+    },
+    {
+      "album": {
+        "name": "Rapstar",
+        "url": "https://open.spotify.com/album/0cFeIIO2YVok8hKk1HPjxd"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186255,
+      "name": "Rapstar",
+      "url": "https://open.spotify.com/track/57gjUsErLOYxTOqyiK6CVm"
     },
     {
       "album": {
@@ -13107,6 +13263,24 @@
     },
     {
       "album": {
+        "name": "sad girl summer",
+        "url": "https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "sad girl summer",
+      "url": "https://open.spotify.com/track/7pVdFkXNZRr4F12K0hiUPy"
+    },
+    {
+      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -13235,6 +13409,32 @@
     },
     {
       "album": {
+        "name": "Saphir",
+        "url": "https://open.spotify.com/album/12jeg9Iro0sfeIPi7hkl83"
+      },
+      "artists": [
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Saphir",
+      "url": "https://open.spotify.com/track/306T8vusV4CHXBkCHpme1f"
+    },
+    {
+      "album": {
         "name": "Savrsena",
         "url": "https://open.spotify.com/album/28IMnMCCllCzmdF9naMLK8"
       },
@@ -13338,7 +13538,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 176232,
       "name": "Scheiss Egal - District Red Remix",
       "url": "https://open.spotify.com/track/3LDWTfooMxOcQBP8WZzToC"
@@ -14372,7 +14572,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 136482,
       "name": "STILL",
       "url": "https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3"
@@ -14748,10 +14948,28 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 93642,
       "name": "Talahon & Talahina",
       "url": "https://open.spotify.com/track/2NC9orZQIU5Mu3ZhcIrPWJ"
+    },
+    {
+      "album": {
+        "name": "Talahon & Talahina",
+        "url": "https://open.spotify.com/album/5Ove6ryhriaYmZQGeNLKm0"
+      },
+      "artists": [
+        {
+          "name": "Inspecta",
+          "url": "https://open.spotify.com/artist/6l8wGBXtPIxmV7EYH0Yazd"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93642,
+      "name": "Talahon & Talahina",
+      "url": "https://open.spotify.com/track/7LVWmdwplad9A0GHiv0PHs"
     },
     {
       "album": {
@@ -14788,6 +15006,24 @@
       "duration_ms": 210000,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG"
+    },
+    {
+      "album": {
+        "name": "ICKE",
+        "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164950,
+      "name": "Tante Emma",
+      "url": "https://open.spotify.com/track/58UZDO17oZWDeDyJPGFaOo"
     },
     {
       "album": {
@@ -15096,6 +15332,24 @@
       "duration_ms": 198784,
       "name": "The Code - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/2RFO0W60VvlbJWtqzIOxXz"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -16644,6 +16898,24 @@
     {
       "album": {
         "name": "Wichsen Im Wald",
+        "url": "https://open.spotify.com/album/6csDVCpnkcJJzvcG1bkVyZ"
+      },
+      "artists": [
+        {
+          "name": "Junge Hits",
+          "url": "https://open.spotify.com/artist/4SbBUjHFoqHbDU4xgb9Qah"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194768,
+      "name": "Wichsen Im Wald",
+      "url": "https://open.spotify.com/track/4egxPEhgnzpgeeTRDR8Kzu"
+    },
+    {
+      "album": {
+        "name": "Wichsen Im Wald",
         "url": "https://open.spotify.com/album/2Bhk3Mpw7cxVClFGj5OxV7"
       },
       "artists": [
@@ -16654,7 +16926,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 194735,
       "name": "Wichsen Im Wald",
       "url": "https://open.spotify.com/track/5ODgruSsMzC0jUvHOCoYZV"
@@ -16804,7 +17076,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 256822,
       "name": "Woops - Original Remastered Mix",
       "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
@@ -16866,7 +17138,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 130054,
       "name": "Y-3 x Shababs Botten",
       "url": "https://open.spotify.com/track/7icJUZLZXNag4LVJBnHRux"

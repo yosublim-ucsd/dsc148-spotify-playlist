@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 210468,
       "name": "Caught Me On A Bad Day",
       "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
@@ -3068,6 +3068,24 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2f4Gpex8g1KWjGCfZ6jwAZ"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224001,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B"
     },
     {
       "album": {

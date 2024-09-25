@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5247,
+  "num_followers": 5252,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAADyC3OYuGVd+rZhtRstIoRt",
+  "snapshot_id": "ZvCvgAAAAABhTt/2utJHeNNmod3VTg2J",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Their Memories - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
+      "duration_ms": 194453,
+      "name": "The Pearl - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 194453,
-      "name": "The Pearl - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
+      "duration_ms": 177600,
+      "name": "Their Memories - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bella Vista",
+        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 120960,
+      "name": "Bell Tower",
+      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 85586,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bella Vista",
-        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Bell Tower",
-      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "A Change in the Weather",
-      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 222760,
       "name": "The Belles of Saint Andrew",
       "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "A Change in the Weather",
+      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
     },
     {
       "added_at": null,

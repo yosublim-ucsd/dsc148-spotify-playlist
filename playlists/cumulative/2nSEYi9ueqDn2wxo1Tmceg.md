@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ">Porches</a>
 
-1,066 songs - 3 day 1 hr 7 min
+1,067 songs - 3 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-21 | 2022-11-10 |
 | [Dangerous \- Remix](https://open.spotify.com/track/0GqNa1qpOZ2lyjcbAg8rJH) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Dangerous \(Remix\)](https://open.spotify.com/album/3aEBYSe6VzYRi6NQzhQJcB) | 4:12 | 2023-02-22 | 2023-04-06 |
 | [Dangerous \- Sunrise Hwy Nefarious Remix](https://open.spotify.com/track/5LIrGkAdcpD9WFmls8Rh5v) | [HARD FEELINGS](https://open.spotify.com/artist/62leN9NRMUgDfPzshm7K5L), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Sunrise HWY](https://open.spotify.com/artist/0AqA7mKVnVknv8YM5BdYOt) | [Dangerous \(Remix\)](https://open.spotify.com/album/3aEBYSe6VzYRi6NQzhQJcB) | 5:42 | 2023-02-22 | 2023-04-06 |
+| [Daniel](https://open.spotify.com/track/5kQFPEKaoZ6M1Ptnt2xlB8) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/5T3BU6YIJtgaxo3sfrEYyD) | 3:53 | 2024-09-24 |  |
 | [Dans Le Noir](https://open.spotify.com/track/06hyoSwYQnfEBdrJvCnSO9) | [Free Love](https://open.spotify.com/artist/0bec5c6VO67VhJrdZ5xPOs) | [Dans Le Noir](https://open.spotify.com/album/5fSth5j8Ei1daXZIca5ICF) | 4:45 | 2023-02-15 | 2023-03-23 |
 | [Date Night](https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo) | [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Date Night / Tomorrow](https://open.spotify.com/album/6cdTXq7XYRn3E8Mk68ep0G) | 2:54 | 2022-09-20 | 2022-10-21 |
 | [Davies and Wales](https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:15 | 2024-06-14 | 2024-09-05 |

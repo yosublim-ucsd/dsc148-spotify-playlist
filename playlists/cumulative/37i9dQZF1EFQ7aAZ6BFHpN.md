@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 11 hr 39 min
+153 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Clara, Clara \- Remastered](https://open.spotify.com/track/7H5GPqWOedNe1x4TCFLFAu) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Porgy & Bess \(Original Motion Picture Soundtrack\) \- Remastered](https://open.spotify.com/album/6l2ud8wBveGrBjDy1e18vA) | 2:16 | 2024-07-24 |  |
 | [Cockiness \(Love It\)](https://open.spotify.com/track/6ShPW20OkAfOxmkX06Okle) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 2:58 | 2024-07-24 |  |
 | [Comes The Revolution](https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Michael & George: Feinstein Sings Gershwin](https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH) | 0:57 | 2024-07-24 |  |
+| [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 | 2024-09-24 |  |
 | [Cuban Overture](https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd) | [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: An American In Paris / Porgy And Bess](https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ) | 10:42 | 2024-07-24 |  |
 | [Dawn of a new day](https://open.spotify.com/track/4YpFUa7c9naE00Dtb14ZMZ) | [Horace Heidt And His Orchestra](https://open.spotify.com/artist/1WeF9tMRvJCIcd9WDMyz40), [Horace Heidt](https://open.spotify.com/artist/4l7CLwtYLJMTlrBpoNJtMy) | [Horace Heidt & His Orchestra, Popular Songs](https://open.spotify.com/album/1tF2sOjVZtdUvWJbeRHLMv) | 2:30 | 2024-07-24 |  |
 | [Demon Rum](https://open.spotify.com/track/0vSMbse7WYzQQQjiAwdCod) | [Judy Kaye](https://open.spotify.com/artist/4VPf6TBwy3pnMvJaI191zO), [Stanley Wayne Mathis](https://open.spotify.com/artist/7IwQ8Cr68eQr3UxrLzcmlv), [Terry Beaver](https://open.spotify.com/artist/7wFGB7AluYMAptyYcXGvi7), [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:48 | 2024-07-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,393 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,421 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 12 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
 | 13 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 |
 | 14 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 |
-| 15 | [เจ้ากระต่ายน้อย](https://open.spotify.com/track/5kZzlvjtudtTHqymKdXONT) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Is there anything on the Moon?](https://open.spotify.com/album/1xYl1AYBf7ivH0z37MhhUg) | 3:41 |
+| 15 | [เจ้ากระต่ายน้อย \(Tale of the bunny\)](https://open.spotify.com/track/5kZzlvjtudtTHqymKdXONT) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Is there anything on the Moon?](https://open.spotify.com/album/1xYl1AYBf7ivH0z37MhhUg) | 3:41 |
 | 16 | [ย้ำคิดย้ำทำ \(OCD\)](https://open.spotify.com/track/0xVC4DZ1q7TSv1CBRgisRM) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ย้ำคิดย้ำทำ \(OCD\)](https://open.spotify.com/album/48Ws0J3uOkPaAfLQNOZP3M) | 3:54 |
 | 17 | [หายใจแล้วไปต่อ](https://open.spotify.com/track/6lmD1UQeOEGlvQiF8M9MKc) | [Labanoon](https://open.spotify.com/artist/63vwPO1QheUOil1fkQsv0u), [Num KALA](https://open.spotify.com/artist/1kUVa9zNj2ohZptBv4uK8c) | [หายใจแล้วไปต่อ \- Single](https://open.spotify.com/album/6zahzgcFyrdQ1k270aEvqu) | 4:18 |
 | 18 | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/album/3fGfAm9QQEuVE2QBdLk4DT) | 6:05 |

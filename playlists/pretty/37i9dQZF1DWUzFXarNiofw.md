@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: 4batz & Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,448 likes - 205 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,514 likes - 205 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 87 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 |
 | 88 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 |
 | 89 | [Bending My Rules](https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Bending My Rules](https://open.spotify.com/album/5g2IcWk7Deec3sOrtDiwk9) | 3:44 |
-| 90 | [MUTT \(feat\. Freddie Gibbs\) \[Remix\]](https://open.spotify.com/track/1mw23Ltn9rCSEmgzz8O2pC) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [MUTT \- REMIX](https://open.spotify.com/album/4um7HKmzdzkIvStKG6gc6h) | 4:17 |
+| 90 | [MUTT \(feat\. Freddie Gibbs\) \[Remix\]](https://open.spotify.com/track/1mw23Ltn9rCSEmgzz8O2pC) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [MUTT \(REMIX\)](https://open.spotify.com/album/4um7HKmzdzkIvStKG6gc6h) | 4:17 |
 | 91 | [La Perla \(Remix\)](https://open.spotify.com/track/1VHWhZqVwr6gIVVTvoTih5) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [The Rebirth 3: Remixes & More](https://open.spotify.com/album/08v5H0ZZKd7AhNpZNIBcRy) | 2:42 |
 | 92 | [ADDICT REMIX](https://open.spotify.com/track/32W1lhFMIBAkrpoHNoTIOQ) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [The Audibles](https://open.spotify.com/artist/36XnjfEuI5iOO7b5s97a1Y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B2F2](https://open.spotify.com/album/4NR4bOnK3y6yvvKy1atrja) | 3:00 |
 | 93 | [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 |

@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11735,
+  "num_followers": 11736,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Turkey: The Turkish Ney",
-        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
+        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
+        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
       },
       "artists": [
         {
-          "name": "Kudsi Erguner",
-          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
+          "name": "Erkan O\u011fur",
+          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
         }
       ],
-      "duration_ms": 445040,
-      "name": "Makam Ferahfeza: Pesrev",
-      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
+      "duration_ms": 112105,
+      "name": "Tekbir",
+      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
-        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+        "name": "Turkey: The Turkish Ney",
+        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
       "artists": [
         {
-          "name": "Erkan O\u011fur",
-          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+          "name": "Kudsi Erguner",
+          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
         }
       ],
-      "duration_ms": 112105,
-      "name": "Tekbir",
-      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
+      "duration_ms": 445040,
+      "name": "Makam Ferahfeza: Pesrev",
+      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Na\u011fmeler Evi (\u00c7ocuklar ve Gen\u00e7ler \u0130\u00e7in M\u00fczik K\u00fclt\u00fcr\u00fc)",
-        "url": "https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu"
-      },
-      "artists": [
-        {
-          "name": "Y\u00fcce G\u00fcm\u00fc\u015f",
-          "url": "https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba"
-        },
-        {
-          "name": "Murat Salim Tokac",
-          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
-        }
-      ],
-      "duration_ms": 415986,
-      "name": "Ney \u0130le B\u00fbselik Taksim",
-      "url": "https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Turkey: The Turkish Ney",
         "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 111853,
       "name": "Huzurun Yolu",
       "url": "https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Na\u011fmeler Evi (\u00c7ocuklar ve Gen\u00e7ler \u0130\u00e7in M\u00fczik K\u00fclt\u00fcr\u00fc)",
+        "url": "https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fcce G\u00fcm\u00fc\u015f",
+          "url": "https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba"
+        },
+        {
+          "name": "Murat Salim Tokac",
+          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
+        }
+      ],
+      "duration_ms": 415986,
+      "name": "Ney \u0130le B\u00fbselik Taksim",
+      "url": "https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0"
     },
     {
       "added_at": "2024-03-05 11:27:00",

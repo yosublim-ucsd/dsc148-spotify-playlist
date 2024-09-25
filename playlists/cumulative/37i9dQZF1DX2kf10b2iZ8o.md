@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-166 songs - 12 hr 8 min
+167 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,10 +65,11 @@
 | [Make New Legend](https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:38 | 2022-12-01 |  |
 | [Make up Magic](https://open.spotify.com/track/1J3l1IsCB7ZvEZksEdbl7X) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 4:00 | 2023-05-09 | 2024-03-05 |
 | [MEET THE WORLD! \- JAPAN Ver.](https://open.spotify.com/track/2beYFRpB8lHTaWTMefA7M1) | [Kyoji Takajo \(CV: Yuuichirou Umehara\)](https://open.spotify.com/artist/3hiqvKCC3dOHHXhuHDKwta), [Seiji Shingen \(CV: Takuya Masumoto\)](https://open.spotify.com/artist/3RZbeK7Hh5TckMgu175ftN), [Shiki Iseya \(CV: Sho Nogami\)](https://open.spotify.com/artist/5NEEXLsO1bnUEkOuyEQMtf), [Sora Kitamura \(CV: Fumiyoshi Shioya\)](https://open.spotify.com/artist/6O1CPJg7GuFx2XxkkhCpNI) | [THE IDOLM@STER SideM WORLD TRE@SURE 13](https://open.spotify.com/album/1bWkGmHrcBhNpKk6JLSJMY) | 4:53 | 2022-12-01 | 2022-12-03 |
-| [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 | 2022-12-01 |  |
+| [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 | 2022-12-01 | 2024-09-25 |
 | [MIRROR of TRUTH](https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM GROWING SIGN@L 17](https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY) | 3:44 | 2023-03-07 | 2024-09-14 |
 | [MOON NIGHTのせいにして](https://open.spotify.com/track/3cPu8MBdBZ6L12JCoNjN1t) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 5:03 | 2022-12-01 |  |
 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 | 2022-12-20 |  |
+| [Never end "Opus"](https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 5:05 | 2024-03-05 |  |
 | [Not Alone](https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 4:07 | 2022-12-01 |  |
 | [ONE to DREAM！](https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 4:12 | 2023-05-09 |  |
 | [OUR SONG \-それは世界でひとつだけ\-](https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 4:41 | 2022-12-01 | 2022-12-04 |

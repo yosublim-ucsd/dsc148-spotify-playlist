@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,550 songs - 3 day 13 hr 50 min
+1,552 songs - 3 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [AGUA](https://open.spotify.com/track/04eJJNfLPEC8bvTnJeyxGO) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUA](https://open.spotify.com/album/2daYTVco0NxVypNAiVnlbt) | 2:20 | 2024-05-31 | 2024-06-12 |
 | [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 | 2024-08-23 | 2024-08-31 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 | 2024-05-10 |
+| [Ahora O Nunca](https://open.spotify.com/track/1ST1Ch8NjO1mtjvGLWKqbb) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd), [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Ahora O Nunca](https://open.spotify.com/album/3Qa5X0yUuAt7kefjbbzRo6) | 3:21 | 2024-09-24 |  |
 | [Ahí Estás](https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Ahí Estás](https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h) | 3:16 | 2024-08-30 | 2024-09-07 |
 | [Ajala](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 | 2024-04-26 | 2024-05-10 |
 | [Akureyri](https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Akureyri](https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN) | 3:14 | 2024-04-26 | 2024-05-10 |
@@ -755,6 +756,7 @@
 | [La Culpa](https://open.spotify.com/track/4nrP8mknNQgj3IFuAvNv7t) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [La Culpa](https://open.spotify.com/album/0V3aEW6gYrFSPhhqU8L75j) | 2:35 | 2024-08-23 | 2024-08-31 |
 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 | 2024-07-19 |
 | [La Felicidad](https://open.spotify.com/track/0syzPVwxYBtjvHy7Z9kVGN) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Ultralágrima](https://open.spotify.com/album/7jSo4LGYuEubKDqndYZs7f) | 3:05 | 2024-04-25 | 2024-05-10 |
+| [La gran renuncia](https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [La gran renuncia](https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O) | 2:26 | 2024-09-24 |  |
 | [La hermandad](https://open.spotify.com/track/67Pr9voSdTnhsOcuS2QUhK) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [La hermandad](https://open.spotify.com/album/018VlQZiTBjAmSVSHNLWT0) | 3:37 | 2024-07-05 | 2024-07-13 |
 | [la invitada](https://open.spotify.com/track/6hiodmMJiZc2twLCc48vXX) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [la invitada](https://open.spotify.com/album/2ajkMSm531GHvEesKQwhvK) | 2:44 | 2024-06-28 | 2024-07-13 |
 | [La juventud](https://open.spotify.com/track/2VmSqtXeRofjntR228Q1TY) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [La juventud](https://open.spotify.com/album/5kUsMHz3tZOI8IvjMKMAaP) | 3:18 | 2024-05-17 | 2024-05-25 |

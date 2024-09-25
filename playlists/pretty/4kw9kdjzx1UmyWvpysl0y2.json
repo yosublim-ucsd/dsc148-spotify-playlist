@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125787,
+  "num_followers": 125783,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATB+Hgf7z1qzSz6NbxYJUTVj1i6lW4",
+  "snapshot_id": "AAATCefoXK7/q67j49lF3Hyib2GQHB0v",
   "tracks": [
+    {
+      "added_at": "2024-09-24 15:42:41",
+      "album": {
+        "name": "Sealine",
+        "url": "https://open.spotify.com/album/77Wa67n3DdWnSU7pQCzzcl"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        }
+      ],
+      "duration_ms": 183687,
+      "name": "Sealine",
+      "url": "https://open.spotify.com/track/0jCAeHT5CiaesKQDeqZwlJ"
+    },
     {
       "added_at": "2024-09-23 14:01:28",
       "album": {
@@ -1179,22 +1195,6 @@
       "duration_ms": 72863,
       "name": "KINGS OF THE BLOCK",
       "url": "https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3"
-    },
-    {
-      "added_at": "2024-07-02 09:37:16",
-      "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3OAoOHHNYG0hkSVT7h02d6"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/1KJKFTpQPWpwNxuk9XuXyG"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

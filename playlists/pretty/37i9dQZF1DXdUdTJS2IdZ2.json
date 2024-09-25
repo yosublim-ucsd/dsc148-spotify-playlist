@@ -367,17 +367,21 @@
     {
       "added_at": "2024-09-19 16:00:00",
       "album": {
-        "name": "Infatuated (with Patrickananda)",
+        "name": "Infatuated (With Patrickananda)",
         "url": "https://open.spotify.com/album/0nSy7vqw1Goe8xDml9ysjL"
       },
       "artists": [
         {
           "name": "Rangga Jones",
           "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
         }
       ],
       "duration_ms": 226714,
-      "name": "Infatuated (with Patrickananda)",
+      "name": "Infatuated (With Patrickananda)",
       "url": "https://open.spotify.com/track/33ZxVNJZcA02qpBu0XSJhG"
     },
     {

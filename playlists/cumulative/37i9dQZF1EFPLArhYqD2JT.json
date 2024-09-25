@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Paul Whiteman, The King of Jazz Vol 3",
+        "url": "https://open.spotify.com/album/2VJ1WRfq6zpzNhrZNpWz5Q"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman & His Orchestra",
+          "url": "https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u"
+        },
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178882,
+      "name": "Broadway",
+      "url": "https://open.spotify.com/track/3M7C6P8cN5xF0cD2bHm2s0"
+    },
+    {
+      "album": {
         "name": "Schlagerjuwelen - Ihre gro\u00dfen Erfolge",
         "url": "https://open.spotify.com/album/0hr34rS9bwdhYOnKkjzjMP"
       },

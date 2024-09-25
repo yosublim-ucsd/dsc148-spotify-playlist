@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc IG, Luísa Sonza com Simone Mendes, Zé Vaqueiro com João Gomes  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,515 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,604 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 9 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 |
 | 10 | [Bebê](https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Bebê](https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT) | 2:53 |
 | 11 | [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 |
-| 12 | [BBL](https://open.spotify.com/track/6DsIkJERJY1IOS7LfM7jDK) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [BBL](https://open.spotify.com/album/6kI80piW4PlfpcpPFQEedW) | 3:43 |
+| 12 | [BBL](https://open.spotify.com/track/6DsIkJERJY1IOS7LfM7jDK) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [BBL](https://open.spotify.com/album/6kI80piW4PlfpcpPFQEedW) | 3:43 |
 | 13 | [Seus Recados](https://open.spotify.com/track/68yGrDGiJh6T38dbiLQIzL) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Seus Recados](https://open.spotify.com/album/3lJQzGb25hAAZsxcmA5wAJ) | 3:35 |
 | 14 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 |
 | 15 | [Imã de Problema](https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Toca Que Eu Quero Ouvir](https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW) | 2:17 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 51 | [In Time](https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [His Three Daughters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO) | 3:30 |
 | 52 | [Adios](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adios](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
 
-Snapshot ID: `Zuzl5AAAAADtymvyRc3b0zt9AZjorwhz`
+Snapshot ID: `Zuzl5AAAAADt0gvohkvbqGu2Ce7u2gmU`

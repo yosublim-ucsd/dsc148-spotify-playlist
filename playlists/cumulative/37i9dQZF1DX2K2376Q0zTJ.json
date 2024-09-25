@@ -742,7 +742,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 183206,
       "name": "aura",
       "url": "https://open.spotify.com/track/65hMYWTeqV4ofCDSZOiZDn"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 134902,
       "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
       "url": "https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw"
@@ -3825,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "F(U)NTASY",
+        "url": "https://open.spotify.com/album/2l85ehw9edLu9cCowynHW0"
+      },
+      "artists": [
+        {
+          "name": "Kaela Kimura",
+          "url": "https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "F(U)NTASY",
+      "url": "https://open.spotify.com/track/4TyFSxkPs4qo1lC3FWgoYH"
+    },
+    {
+      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/6uUaseLiCflbU8h8dzJHuP"
       },
@@ -4762,7 +4780,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 186000,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/1aXKNVO7V1qF9HZVnrJVrY"
@@ -5478,6 +5496,24 @@
       "duration_ms": 188106,
       "name": "hatred feel",
       "url": "https://open.spotify.com/track/19PcleRjgt50LOpnxqpbny"
+    },
+    {
+      "album": {
+        "name": "heart drumn",
+        "url": "https://open.spotify.com/album/5VJRYX3AoJHsNRjAmfP6hH"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159483,
+      "name": "heart drumn",
+      "url": "https://open.spotify.com/track/71Dmm2c94SWE36kk6yRG1a"
     },
     {
       "album": {
@@ -6788,7 +6824,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 183788,
       "name": "It's a piece of cake",
       "url": "https://open.spotify.com/track/6HIIjoK4W36ZzJz3bdBSFB"
@@ -6980,6 +7016,24 @@
       "duration_ms": 220520,
       "name": "KAGOME, KAGOME",
       "url": "https://open.spotify.com/track/3p9nyLwY9jv1KFiP68fC3y"
+    },
+    {
+      "album": {
+        "name": "Kakumei Zenya",
+        "url": "https://open.spotify.com/album/0eYDALWDP59GFCypPr1VMJ"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188083,
+      "name": "Kakumei Zenya",
+      "url": "https://open.spotify.com/track/1rvR8AGfqhPdvhgb6ZCG4F"
     },
     {
       "album": {
@@ -10784,6 +10838,24 @@
       "duration_ms": 163902,
       "name": "PARISBROW",
       "url": "https://open.spotify.com/track/0mBghPdolF4c9BkrntJw5x"
+    },
+    {
+      "album": {
+        "name": "Particle",
+        "url": "https://open.spotify.com/album/5ZsegoJBhk97rhzEYWyelz"
+      },
+      "artists": [
+        {
+          "name": "accobin",
+          "url": "https://open.spotify.com/artist/6rGKtjbJfGY3atTJhJIoZx"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263520,
+      "name": "Particle",
+      "url": "https://open.spotify.com/track/4ihoXkHvnBZdyTIZzSgw3J"
     },
     {
       "album": {

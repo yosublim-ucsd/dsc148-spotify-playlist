@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 75810,
+  "num_followers": 75823,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
-      },
-      "artists": [
-        {
-          "name": "Alpha Lion",
-          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
-        },
-        {
-          "name": "Desolate One",
-          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+      },
+      "artists": [
+        {
+          "name": "Alpha Lion",
+          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+        },
+        {
+          "name": "Desolate One",
+          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
     },
     {
       "added_at": "2024-09-17 15:11:11",

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158414,
+  "num_followers": 158429,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,30 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "Manual Da Bandida",
+        "url": "https://open.spotify.com/album/0swcWOMq4T7XaYKomCCZQC"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "s1ckb0y",
+          "url": "https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3"
+        },
+        {
+          "name": "Dom'V\u00ed",
+          "url": "https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc"
+        }
+      ],
+      "duration_ms": 186067,
+      "name": "Manual Da Bandida",
+      "url": "https://open.spotify.com/track/1Lgdi8yfpK2RTMHuJxHcAA"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "Manual Da Bandida",
-        "url": "https://open.spotify.com/album/0swcWOMq4T7XaYKomCCZQC"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "s1ckb0y",
-          "url": "https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3"
-        },
-        {
-          "name": "Dom'V\u00ed",
-          "url": "https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc"
-        }
-      ],
-      "duration_ms": 186067,
-      "name": "Manual Da Bandida",
-      "url": "https://open.spotify.com/track/1Lgdi8yfpK2RTMHuJxHcAA"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
         }
       ],
-      "duration_ms": 136901,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1167,18 +1163,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
       },
       "artists": [
         {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+      "duration_ms": 136901,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "50 Tons De Um Sentimento",
         "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 162000,
       "name": "Boa Noite Mo\u00e7a",
       "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
       },
       "artists": [
         {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
         }
       ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     }
   ],
   "unique_name": "Resenha na Praia",

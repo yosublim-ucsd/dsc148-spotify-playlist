@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,040 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,093 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly Me to the Moon](https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Fly Me to the Moon](https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY) | 3:11 |
 | 2 | [Morning Song](https://open.spotify.com/track/2I7NgypzBFRj5tIa2Q4YTu) | [Benjamin Sanz](https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u) | [Morning Song](https://open.spotify.com/album/2b50IRXHjpNA23g74a7I3V) | 3:17 |
 | 3 | [Tattoo](https://open.spotify.com/track/7pYL98wrOlPg9rElkNTn5t) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lover + Tattoo](https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV) | 3:48 |
-| 4 | [Chop Chop](https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS) | [Peter Somuah](https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Chop Chop](https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za) | 4:46 |
+| 4 | [Chop Chop](https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS) | [Peter Somuah](https://open.spotify.com/artist/556nzhldvx3leEVjIBDMqU), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Chop Chop](https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za) | 4:30 |
 | 5 | [The Smile of Rita](https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [The Smile of Rita](https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ) | 5:01 |
 | 6 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 |
 | 7 | [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 |

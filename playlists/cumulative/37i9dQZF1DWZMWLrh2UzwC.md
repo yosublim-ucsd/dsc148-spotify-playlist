@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Katy Perry
 
-12,414 songs - 28 day 8 hr 2 min
+12,415 songs - 28 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2989,6 +2989,7 @@
 | [Elton](https://open.spotify.com/track/6Dwr4poNQsDck8RY8LLnUk) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [RYU](https://open.spotify.com/album/4J0brHJhKcpiKeNW7w58m8) | 3:21 | 2023-11-09 | 2023-11-17 |
 | [elusive dream](https://open.spotify.com/track/7kT4oHtvxcs7oJurU5Qzmd) | [Rae Nadya](https://open.spotify.com/artist/3zWXvj5aQGhcISnaBXeuli) | [elusive dream](https://open.spotify.com/album/6XCb16HB1SjUxRDcYvuR99) | 4:09 | 2024-01-25 | 2024-02-02 |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2022-11-10 | 2022-11-18 |
+| [Emergency Contact](https://open.spotify.com/track/5UyTyZcBs6kNQ7AcYURUY8) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Emergency Contact](https://open.spotify.com/album/02z7HmLRy4xhYbHyxGlprt) | 3:03 | 2024-09-19 |  |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-19 | 2023-01-27 |
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2021-12-23 | 2021-12-31 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-03 | 2022-02-11 |

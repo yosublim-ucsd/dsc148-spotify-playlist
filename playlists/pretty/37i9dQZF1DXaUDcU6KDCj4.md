@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,425 likes - 151 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,579 likes - 151 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

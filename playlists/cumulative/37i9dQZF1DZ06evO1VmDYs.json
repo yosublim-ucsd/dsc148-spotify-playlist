@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-11",
-  "description": "This is Weezer. The essential tracks, all in one playlist.",
+  "description": "This Is Weezer. Los temas esenciales, todos en una lista.",
   "name": "This Is Weezer",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 183672,
       "name": "Aloo Gobi",
       "url": "https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"

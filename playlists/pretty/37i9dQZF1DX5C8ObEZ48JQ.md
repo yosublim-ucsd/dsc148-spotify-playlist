@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf?si=m\-\_ShnKKQoa9qovTbWRkVg">Cznbaby</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,261 likes - 42 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,277 likes - 42 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 41 | [Eventually](https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Eventually](https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE) | 4:03 |
 | 42 | [far from grace](https://open.spotify.com/track/04Q8dveQ25eKHFcAmWtpDv) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [far from grace](https://open.spotify.com/album/4nz5vJQS5pGxyQZZBbnfYj) | 2:43 |
 
-Snapshot ID: `ZuqKGAAAAAD7WwJSI2A9o9Rq5zrWjX3t`
+Snapshot ID: `ZuqKGAAAAABxVP93G37pgEUQ03ijqK3N`

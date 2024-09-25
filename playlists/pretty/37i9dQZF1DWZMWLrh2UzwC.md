@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,708 likes - 114 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,709 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 109 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 |
 | 110 | [Ladies Room](https://open.spotify.com/track/26mmRnl76vFrsrao47dcHA) | [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Dreamcatcher](https://open.spotify.com/album/0kyKYvSopIgFWxyRISPoFk) | 2:39 |
 | 111 | [Anywhere but here](https://open.spotify.com/track/1TkIXFZn5W3M8PRZaZF2cY) | [Muri](https://open.spotify.com/artist/5fNxwgRItvzRAAzFZCCoNj) | [11ème](https://open.spotify.com/album/06TTjkQexrUMH7ulUn72hD) | 3:02 |
-| 112 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 |
-| 113 | [Look At Us](https://open.spotify.com/track/77jFe0aCmvGtBbszHfLZuY) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Can I Be Your Favorite?](https://open.spotify.com/album/3uUZgDCQSCGsxHTcZkcAMu) | 2:14 |
-| 114 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 |
+| 112 | [Emergency Contact](https://open.spotify.com/track/5UyTyZcBs6kNQ7AcYURUY8) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Emergency Contact](https://open.spotify.com/album/02z7HmLRy4xhYbHyxGlprt) | 3:03 |
+| 113 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 |
+| 114 | [Look At Us](https://open.spotify.com/track/77jFe0aCmvGtBbszHfLZuY) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Can I Be Your Favorite?](https://open.spotify.com/album/3uUZgDCQSCGsxHTcZkcAMu) | 2:14 |
+| 115 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 |
 
 Snapshot ID: `ZuxK2wAAAABFbVvJBLnZs7qcYGzjby6A`

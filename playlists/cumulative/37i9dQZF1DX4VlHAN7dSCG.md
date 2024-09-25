@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 芒果醬 \(Mango Jump\)
 
-176 songs - 11 hr 27 min
+177 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Goodbye](https://open.spotify.com/track/0v28VNzha19ITL8uHiE6zD) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Goodbye](https://open.spotify.com/album/2VqTSgYOH7QovF3cOllYk6) | 4:44 | 2024-08-15 | 2024-09-13 |
 | [HERO](https://open.spotify.com/track/4HA8zNYdlVYS76vc4paWns) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW), [賤葆](https://open.spotify.com/artist/31KPxfm4JE098pu7SBzmEz) | [HERO](https://open.spotify.com/album/7tnQx23pG7ojcDTE39Uye4) | 3:55 | 2024-06-28 | 2024-08-16 |
 | [I Wake Up to Love You \- Motion Graphics Remix](https://open.spotify.com/track/0vAAyMznMZI8W5YdU3AgqB) | [Mola Oddity](https://open.spotify.com/artist/7cw3Yw21RFUzZA744fIYH7), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [I Wake Up to Love You \(Motion Graphics Remix\)](https://open.spotify.com/album/5dgfdXLm3yPefXfTKL7r79) | 4:08 | 2024-08-08 | 2024-08-30 |
+| [Intro+羽球少年 \- Live Session](https://open.spotify.com/track/3faHeia7CQNoaLXKHogy87) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [BYE BYE LOVE \(Live Session\)](https://open.spotify.com/album/3WKi0r3ZVdD3vO7XR0zefK) | 7:03 | 2024-09-19 |  |
 | [London Bridge](https://open.spotify.com/track/4zXDJSceFRqb6OCZUJ7pcz) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [London Bridge](https://open.spotify.com/album/3GOYYeYEpdqzQyLkIzf3CE) | 3:47 | 2024-06-28 | 2024-07-05 |
 | [MAKE IT POP](https://open.spotify.com/track/02pJFeCKTyuzUTgR3mNGzV) | [CA$HME現金女孩](https://open.spotify.com/artist/3Ak9qLthc38giBLXFRqUri), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [恐龍的房間](https://open.spotify.com/album/4yW82lHhDtYBwOjUWg8Sai) | 2:21 | 2024-06-28 | 2024-07-05 |
 | [Mr\. Peanutbutter](https://open.spotify.com/track/40WA6xKiFL9uff4KXvapxj) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Mr\. Peanutbutter](https://open.spotify.com/album/41HM09Vmhun3ziBD7DbEXM) | 3:58 | 2024-08-22 | 2024-09-13 |

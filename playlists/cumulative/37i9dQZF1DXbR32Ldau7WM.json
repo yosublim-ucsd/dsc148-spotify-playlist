@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: HYDE",
+  "description": "The biggest rock artists in Japan right now!  Cover: BAND-MAID",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -3021,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Epic Narratives",
+        "url": "https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274878,
+      "name": "Forbidden tale",
+      "url": "https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/04D5rni6S285fGQnaNKo6b"
       },
@@ -5084,7 +5102,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 211413,
       "name": "LET IT OUT",
       "url": "https://open.spotify.com/track/3nhvXKbVOJOzuS7LbndnAV"

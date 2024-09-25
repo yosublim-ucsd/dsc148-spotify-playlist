@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Rafi Sudirman
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,194 likes - 107 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,191 likes - 107 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

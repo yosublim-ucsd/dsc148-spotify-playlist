@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with JON VINYL from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,407 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,443 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 71 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 |
 | 72 | [Can't Save You \(feat\. Roy Woods\)](https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Can't Save You \(feat\. Roy Woods\)](https://open.spotify.com/album/0cFBvQZXXthbjQb93WRumJ) | 3:15 |
 | 73 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
-| 74 | [WYL](https://open.spotify.com/track/4lGURJcofrRec4JpzIzxZX) | [ibxrhm](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ) | [WYL](https://open.spotify.com/album/6w4ARSVt9PXE7uhBbSDp0b) | 2:06 |
+| 74 | [WYL](https://open.spotify.com/track/4lGURJcofrRec4JpzIzxZX) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ) | [WYL](https://open.spotify.com/album/6w4ARSVt9PXE7uhBbSDp0b) | 2:06 |
 | 75 | [Me Against My Vices](https://open.spotify.com/track/4Uu9hWGagXuIM98FgmjXbr) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [Me Against My Vices](https://open.spotify.com/album/450vWf8eiM4JTaI1yGxdVG) | 2:49 |
 | 76 | [DIAMOND RING](https://open.spotify.com/track/69cFa6cbxklnS4IjevPR5P) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Dearly Loved](https://open.spotify.com/album/6Cb5dxz5j71SdkXKV2Jop7) | 3:11 |
 | 77 | [Four Leaf Clover](https://open.spotify.com/track/2W94QEfuuHs3LfriXQhFJ2) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Four Leaf Clover](https://open.spotify.com/album/5O5SAGHleyz9AQKLW3Bd8k) | 2:50 |

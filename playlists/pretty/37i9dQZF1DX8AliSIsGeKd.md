@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Klangphonics
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,303 likes - 90 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,463 likes - 90 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 20 | [Hymnesia \- Pretty Pink Remix](https://open.spotify.com/track/3OIQW6fLLAcj8BUKpG3lup) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [BEEAST](https://open.spotify.com/artist/5MUtPjZ8UJxONYzEGZeArf), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Hymnesia \(The Remixes\)](https://open.spotify.com/album/1B2EKfQL70QY9KUIIj6x0L) | 3:41 |
 | 21 | [We Got Rhythms for Sale](https://open.spotify.com/track/6RA9aUxM7UPkOW3zzyuYNQ) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [We Got Rhythms for Sale](https://open.spotify.com/album/1HsJmnP2uZDLTTO2ASLYJH) | 3:23 |
 | 22 | [Reality Check](https://open.spotify.com/track/254OBrGJIaTGMDvfBUHOPN) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [Daniel Weirdo](https://open.spotify.com/artist/54MlE2F6BeMxpCaaixYNDG) | [Reality Check](https://open.spotify.com/album/3ZhmLzVgY2LkmWLQPv2VVE) | 4:03 |
-| 23 | [why don't you do it right](https://open.spotify.com/track/1CAOO9QUuzyH1vFIdaRwrX) | [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M), [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc) | [Miami Speedboat](https://open.spotify.com/album/6q6jjAMWGYhFnG2Ojneo3G) | 3:45 |
+| 23 | [why don't you do right](https://open.spotify.com/track/1CAOO9QUuzyH1vFIdaRwrX) | [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M), [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc) | [Miami Speedboat](https://open.spotify.com/album/6q6jjAMWGYhFnG2Ojneo3G) | 3:45 |
 | 24 | [Fuerteventura Forever](https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Fuerteventura Forever](https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2) | 3:56 |
 | 25 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 |
 | 26 | [Two By Two](https://open.spotify.com/track/3rnGEQrZgmk1fd0DtF2iXy) | [Dave Seaman](https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73) | [Two By Two](https://open.spotify.com/album/1fONd27gFG1mt8l6hkZV7d) | 5:45 |

@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "3am snack ride",
+        "url": "https://open.spotify.com/album/2iIpyWfDdxrExSpTOwH5N8"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133086,
+      "name": "3am snack ride",
+      "url": "https://open.spotify.com/track/0MEskKKndHaRkIPKFAk9Lc"
+    },
+    {
+      "album": {
         "name": "3PM",
         "url": "https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG"
       },
@@ -14102,7 +14120,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 153258,
       "name": "Blue Stones",
       "url": "https://open.spotify.com/track/493J58M1agrTnXVMn5jCDI"
@@ -18344,6 +18362,10 @@
         {
           "name": "Kid Tar\u00f4",
           "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
         }
       ],
       "date_added": "2024-02-16",
@@ -20014,6 +20036,28 @@
       "duration_ms": 135697,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/2yhNUWknbCHdmsOITr67Ul"
+    },
+    {
+      "album": {
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/6SdpMqIF4kATFNQdS38h4X"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118441,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/6YpYb31pHRWBtBjvdKsbjg"
     },
     {
       "album": {
@@ -22140,6 +22184,28 @@
       "duration_ms": 139561,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/2vL8pK1by1bWBzsqEv5Tw6"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4VlXVDqrGSZTT5AHeCmQX7"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1so20SWwBndwKAJ5RLLrE5"
     },
     {
       "album": {
@@ -27862,7 +27928,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 127812,
       "name": "Daffy",
       "url": "https://open.spotify.com/track/180CmU4FVKS0f3zh72amRe"
@@ -51376,7 +51442,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 123562,
       "name": "High Vibes",
       "url": "https://open.spotify.com/track/1xtNvQGWy2dW2EpTXCrUzL"
@@ -81602,7 +81668,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 85624,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/0rLIV9jJ7n94xouiOCACbW"
@@ -126750,7 +126816,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 134400,
       "name": "Vibe I'm",
       "url": "https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw"

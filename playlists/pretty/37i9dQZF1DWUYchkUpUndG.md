@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=IsFwsk8TRPummkMhBslTUg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,955 likes - 88 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,972 likes - 88 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 4 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/033NkNjZZYViLZm4UOi9hT) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Lifted](https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe) | 4:27 |
 | 5 | [Umbrella](https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Membrane](https://open.spotify.com/artist/0tRGPaX1RkNsyDbz42Vtsg), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [Umbrella](https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z) | 3:08 |
 | 6 | [Yours](https://open.spotify.com/track/6392PrhNAYBKQXYR0SjLqg) | [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Yours](https://open.spotify.com/album/0Ara5ecZkt0Xog6gfCTAbI) | 2:52 |
-| 7 | [Volume Of The Book \- Live](https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Volume Of The Book \(Live\)](https://open.spotify.com/album/3Ka0L9HFEuH85d2X3CBQba) | 15:15 |
+| 7 | [Volume Of The Book \- Live](https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Volume Of The Book \(Live\)](https://open.spotify.com/album/3Ka0L9HFEuH85d2X3CBQba) | 15:15 |
 | 8 | [The Edge](https://open.spotify.com/track/4cChKOsyTd7YEzKMZd9ia2) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Shiv Musiq](https://open.spotify.com/artist/1qzw0kNp2vIeSD93nVQapH) | [The Edge](https://open.spotify.com/album/1ojpDRM33MLwyGSqBAjclK) | 3:56 |
 | 9 | [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 |
 | 10 | [The Armies of Heaven](https://open.spotify.com/track/4lHuFmdnZpG0GJTO20I7gs) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [The Armies of Heaven](https://open.spotify.com/album/0l70RF3jz0YBTinUHKMAkg) | 2:28 |

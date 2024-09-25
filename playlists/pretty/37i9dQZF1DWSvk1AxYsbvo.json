@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13976,
+  "num_followers": 13983,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,26 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "Echo (feat .JUKJAE)",
+        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        },
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Echo (feat. JUKJAE)",
+      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
@@ -107,22 +127,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
       },
@@ -139,22 +143,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "A Walk (The Last 10 Years X J_ust)",
         "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
       },
@@ -167,6 +155,22 @@
       "duration_ms": 203093,
       "name": "A Walk (The Last 10 Years X J_ust)",
       "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -203,6 +207,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
@@ -231,6 +251,22 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -307,18 +343,18 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -335,22 +371,6 @@
       "duration_ms": 171880,
       "name": "4Life",
       "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -403,6 +423,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "Beside you (Better Days X Jang Hye-Jin)",
+        "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
+      },
+      "artists": [
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Beside you",
+      "url": "https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -415,26 +451,6 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
-        "name": "Echo (feat .JUKJAE)",
-        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        },
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Echo (feat. JUKJAE)",
-      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -455,22 +471,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "Beside you (Better Days X Jang Hye-Jin)",
-        "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
-      },
-      "artists": [
-        {
-          "name": "Jang Hye Jin",
-          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Beside you",
-      "url": "https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Give me a title",
         "url": "https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 163786,
       "name": "Give me a title",
       "url": "https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
-        "name": "Ride out a storm",
-        "url": "https://open.spotify.com/album/0yedFecGqUyvUQrO1MsO4s"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Ride out a storm",
-      "url": "https://open.spotify.com/track/2sJvM5HVO1T2u2eq04dWgF"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -523,18 +507,18 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+        "name": "Ride out a storm",
+        "url": "https://open.spotify.com/album/0yedFecGqUyvUQrO1MsO4s"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
         }
       ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+      "duration_ms": 257200,
+      "name": "Ride out a storm",
+      "url": "https://open.spotify.com/track/2sJvM5HVO1T2u2eq04dWgF"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -551,6 +535,22 @@
       "duration_ms": 182186,
       "name": "Cat, work for me",
       "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "visitor",
-        "url": "https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jisun",
-          "url": "https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "visitor",
-      "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 265459,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "visitor",
+        "url": "https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jisun",
+          "url": "https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "visitor",
+      "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

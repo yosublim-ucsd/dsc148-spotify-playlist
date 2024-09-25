@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 165866,
+  "num_followers": 165911,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Aladdin - Original Motion Picture Soundtrack",
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },
       "artists": [
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        },
-        {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 119986,
       "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
       "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN"
     },
     {
       "added_at": "2024-06-14 07:09:21",

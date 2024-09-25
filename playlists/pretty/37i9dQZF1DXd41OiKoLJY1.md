@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Elisha Coral Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,655 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,675 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 85 | [BABY GIRL](https://open.spotify.com/track/4nsB2AaOFpOtNokHpzxRz4) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [BABY GIRL](https://open.spotify.com/album/6xL0rz1ZEDV8Jp5kT3R4KC) | 4:00 |
 | 86 | [MMA \(IN DA GHETTO\) \[feat\. Schumi\]](https://open.spotify.com/track/5dkpEZxqx5LKYnCakvtvEG) | [JumbogoatXXL](https://open.spotify.com/artist/1lwXUmLaz8Co9g5RxJzVwj), [Schumi](https://open.spotify.com/artist/0FbygDeAj1BryQmwC1bOJq) | [RAGE AGAINST THE DRUM MACHINES](https://open.spotify.com/album/71wmBBd3fz0GksCMV4pgLN) | 2:50 |
 | 87 | [MAKE THAT SHI B!](https://open.spotify.com/track/610FpoCW6j3tkNUxGV4OUo) | [kobe](https://open.spotify.com/artist/4pTuASmixC1srhJ58jfkF2) | [MAKE THAT SHI B!](https://open.spotify.com/album/75KN5cgoUnefBbjMOonosj) | 2:11 |
-| 88 | [2002](https://open.spotify.com/track/5cxhZujy96fZGZjVfflTov) | [vice\*](https://open.spotify.com/artist/0mSV1q11wDo6XCkIBbKFVL) | [2002](https://open.spotify.com/album/1gmhPneNEM8bQSfMLCGner) | 3:36 |
+| 88 | [2002](https://open.spotify.com/track/5cxhZujy96fZGZjVfflTov) | [vice\*](https://open.spotify.com/artist/0mSV1q11wDo6XCkIBbKFVL), [Fresh\-iLL Club](https://open.spotify.com/artist/3jamuarQXhtNxN2w6YjBEB) | [2002](https://open.spotify.com/album/1gmhPneNEM8bQSfMLCGner) | 3:36 |
 | 89 | [One Life](https://open.spotify.com/track/33wcKo6iuDjREEwdTzghh7) | [Mica Javier](https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa) | [One Life](https://open.spotify.com/album/77TA6N7h6qJRzfllTYuB8p) | 2:45 |
 | 90 | [Panggap](https://open.spotify.com/track/63W8bNxcQO2KYoGj6RbZ1J) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Panggap](https://open.spotify.com/album/1UnUXSL0rFNtuFXQIKvHXJ) | 3:34 |
 | 91 | [gusto](https://open.spotify.com/track/5JPAfph5snhYaitybEIXft) | [notmetro](https://open.spotify.com/artist/1z0DK5LhwUlPkJvkst4pFW), [YoungTray](https://open.spotify.com/artist/1a5TVQGuNmvrxulyC3bZt3) | [gusto](https://open.spotify.com/album/7qyYDOeRY4jentAx3Hekne) | 2:05 |

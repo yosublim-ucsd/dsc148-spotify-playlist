@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-279 songs - 12 hr 53 min
+280 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2024-09-03 |  |
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* |  |
 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2024-04-17 |  |
+| [Solo Stroll](https://open.spotify.com/track/5Gug122LEQi3zHI0fomUgi) | [Holgar Ingeldson](https://open.spotify.com/artist/1yJ4WtOgFB4k9NYCNvWCvL) | [Solo Stroll](https://open.spotify.com/album/1C4CBb9HOLqMyQUmWVMlhq) | 2:16 | 2024-09-24 |  |
 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 | 2020-10-20\* | 2023-09-09 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-09-18 |  |
 | [Sommernacht](https://open.spotify.com/track/1UOcTdl0c9FV6kRJtlDstp) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Zeitwende](https://open.spotify.com/album/5r6ZeOl1BWKav1ygarn1Gd) | 2:30 | 2023-09-08 | 2024-01-10 |

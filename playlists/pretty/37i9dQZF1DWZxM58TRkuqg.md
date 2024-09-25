@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,211 likes - 94 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,230 likes - 94 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

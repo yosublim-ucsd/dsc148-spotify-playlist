@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,801 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,809 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ТРЯСИ](https://open.spotify.com/track/0Ooumv9fPKubna7qQlK9Xq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV) | [ТРЯСИ](https://open.spotify.com/album/73lfmM86FSW8hGFJGL23Nd) | 2:58 |
 | 50 | [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 |
 
-Snapshot ID: `LoTXSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LoYoyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

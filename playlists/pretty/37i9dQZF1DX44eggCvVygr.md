@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,880 likes - 98 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,946 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 17 | [Que Me Coma el Tigre](https://open.spotify.com/track/7kHhEXPEIRgkZHvE0RLOqa) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 2:43 |
 | 18 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 |
 | 19 | [Misma Sangre](https://open.spotify.com/track/3jmUXb0VFgo4LvmjFADvMp) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Misma Sangre](https://open.spotify.com/album/4bVW8SE7FKXoEktQlLF35Z) | 2:33 |
-| 20 | [Can’t Take My Eyes Off You \- Music from The Netflix Series "La Casa de Papel"](https://open.spotify.com/track/04XIbwOCmaxjezWqaa2PnM) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/4sB44uFnPr0eOCGNbnuYzf) | 3:29 |
+| 20 | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/track/04XIbwOCmaxjezWqaa2PnM) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/4sB44uFnPr0eOCGNbnuYzf) | 3:29 |
 | 21 | [No Time](https://open.spotify.com/track/4EmkhxXEKkThUUzvtcFYrO) | [Pol 3.14](https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS) | [No Time](https://open.spotify.com/album/1xHNOh9MpgRgdc3hjRM5JF) | 4:12 |
 | 22 | [Vanderlyle Crybaby Geeks](https://open.spotify.com/track/1cpraaZvYqYIJMY9BbqRnc) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:12 |
 | 23 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |

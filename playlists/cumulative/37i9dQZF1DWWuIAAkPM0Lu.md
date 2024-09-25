@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> oversvømmer dk 🌊🌊 <a href="spotify:album:71TLoF8RqN7XCrHQbsLj6x">SkyLL</a> 🌊🌊
 
-2,154 songs - 4 day 15 hr 0 min
+2,155 songs - 4 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 | 2024-07-11 | 2024-07-27 |
 | [El Camino](https://open.spotify.com/track/091yJzU0xSEyOFFzDywxnp) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Hampenberg](https://open.spotify.com/artist/7ssfFZ8qtx1YbG1XxYoTzY) | [El Camino](https://open.spotify.com/album/2AAHpYOWIMQYS1c2K9jHjz) | 2:59 | 2024-09-19 |  |
 | [Elsker Dig Så Meget](https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Elsker Dig Så Meget](https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR) | 3:21 | 2024-05-16 | 2024-05-24 |
+| [Emergency Contact](https://open.spotify.com/track/5UyTyZcBs6kNQ7AcYURUY8) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Emergency Contact](https://open.spotify.com/album/02z7HmLRy4xhYbHyxGlprt) | 3:03 | 2024-09-20 |  |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-05-30 | 2024-06-07 |
 | [En Anden](https://open.spotify.com/track/7vuAPmqWp4tzZHSrkvhk9L) | [Fadi](https://open.spotify.com/artist/3Cc0LUWwBGx5wGX7xEhOhQ) | [En Anden](https://open.spotify.com/album/3gPGC5JaJo4PaMtSFvKhKQ) | 2:47 | 2024-09-05 | 2024-09-13 |
 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-20 | 2024-06-28 |

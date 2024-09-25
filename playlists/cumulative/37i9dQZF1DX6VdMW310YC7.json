@@ -4409,6 +4409,28 @@
     },
     {
       "album": {
+        "name": "24, summer",
+        "url": "https://open.spotify.com/album/3n4bScXJkjZLPeSAg4C1YU"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207665,
+      "name": "Carry Me Through",
+      "url": "https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u"
+    },
+    {
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5"
       },
@@ -16910,7 +16932,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 190476,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T"
@@ -18244,7 +18266,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 166028,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr"
@@ -23412,6 +23434,28 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1taAHUvfsRj7BYIkPO06zc"
+      },
+      "artists": [
+        {
+          "name": "BangLoud",
+          "url": "https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156515,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG"
     },
     {
       "album": {

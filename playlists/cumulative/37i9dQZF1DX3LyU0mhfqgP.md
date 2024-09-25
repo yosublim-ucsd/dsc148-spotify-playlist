@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Zamilska
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: SOPHIE
 
 1,312 songs - 2 day 22 hr 43 min
 

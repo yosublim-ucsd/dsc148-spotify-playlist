@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "BYE BYE LOVE (Live Session)",
+        "url": "https://open.spotify.com/album/3WKi0r3ZVdD3vO7XR0zefK"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30eb\u30ab\u30dd\u30ea\u30b9 \u6d77\u8c5a\u5211\u8b66",
+          "url": "https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423300,
+      "name": "Intro+\u7fbd\u7403\u5c11\u5e74 - Live Session",
+      "url": "https://open.spotify.com/track/3faHeia7CQNoaLXKHogy87"
+    },
+    {
+      "album": {
         "name": "IU",
         "url": "https://open.spotify.com/album/00G9zXV0CZ5z7cIU1bag5J"
       },

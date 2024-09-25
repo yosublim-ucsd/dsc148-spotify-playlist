@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IIQJM8tkyy.md) - [plain]
 
 > Toutes les chansons des Princesses Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,042 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,045 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IIQJM8tkyy.md) - [plain]
 | 6 | [L' air Du Vent \- De "Pocahontas, Une Légende Indienne"/Bande Originale Française du Film](https://open.spotify.com/track/2AavhCet5Hf98v7qRcCYdH) | [Laura Mayne](https://open.spotify.com/artist/6jhjbQ42Cp107uBCzr2Wfr) | [Pocahontas, Une Légende Indienne \- Bande Originale Française du Film](https://open.spotify.com/album/3HkPvUe2kaXsrh4guMIVBx) | 3:33 |
 | 7 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 8 | [Ce rêve bleu](https://open.spotify.com/track/0QgqXBfyGtn1u2RA1Kel2W) | [Karine Costa](https://open.spotify.com/artist/5SzlbR0fmZ8UBEwwDj5zNB), [Paolo Domingo](https://open.spotify.com/artist/6TMASL5IlSDPbBSJnhTPoH) | [Aladdin \- Bande Originale Française du Film](https://open.spotify.com/album/0aXJTAUDB8LCa6xx6yjerB) | 2:39 |
-| 9 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 |
+| 9 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 |
 | 10 | [Histoire éternelle \- De "La Belle et la Bête"/Bande Originale Française du Film](https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [La Belle et La Bête](https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK) | 2:44 |
 | 11 | [Comme une princesse](https://open.spotify.com/track/6Sa62dwSCgIFRoCMLWzsH0) | [Charlotte Berry Berger](https://open.spotify.com/artist/3oN3qecVB3b5M4qJ41CxHR) | [Comme une princesse](https://open.spotify.com/album/1vkhu9WujDPwNz3TmAVbYI) | 2:50 |
 | 12 | [Partir là\-bas](https://open.spotify.com/track/2d2jVKU3NTeGlgRipuck9w) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP) | [La Petite Sirène \(Bande Originale Française du Film\)](https://open.spotify.com/album/1vPCuZgANIeMLK5RZdxifT) | 3:34 |

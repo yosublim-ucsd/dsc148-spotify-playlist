@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Sílvia Pérez Cruz.
 
-301 songs - 19 hr 9 min
+302 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [La Llorona](https://open.spotify.com/track/4qFoj2WZreh2HS1ypR3R6F) | [Rebeca Jimenez](https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3) | [La Llorona](https://open.spotify.com/album/3LhpY9S4bCZ3F6bKX2VGhn) | 6:03 | 2022-06-09 | 2022-07-26 |
 | [La Madre](https://open.spotify.com/track/4eUhX5KmmQp537lxDJpmQK) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [La Vida en Canciones](https://open.spotify.com/album/4JmtA7DoG2XPhCwpgCMkI1) | 6:16 | 2022-11-24 | 2022-12-24 |
 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 | 2022-06-28 | 2022-08-12 |
+| [La Memoria Del Corazón](https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [La Memoria Del Corazón](https://open.spotify.com/album/7hzPKiTaSxBWnq4w8oizP9) | 3:27 | 2024-09-23 |  |
 | [La Paloma](https://open.spotify.com/track/5xAuNiEcaOIGQjoxujEMTE) | [Inma Serrano](https://open.spotify.com/artist/05Rq120pXSeKl8VjW8FBia) | [La Paloma](https://open.spotify.com/album/2Dwq5e6kudsdFAGEkSIRqd) | 3:11 | 2024-05-09 | 2024-05-22 |
 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 | 2022-06-09 |  |
 | [La Puerta Violeta \- ACOUSTIC HOME sessions](https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR) | [Los Acústicos](https://open.spotify.com/artist/5tAfcROTNt4bBxY2ARRQ7d), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ROZALÉN \(ACOUSTIC HOME sessions\)](https://open.spotify.com/album/3zvESYWLw2GyBIj2r0RBPI) | 3:26 | 2023-09-01 | 2023-10-10 |

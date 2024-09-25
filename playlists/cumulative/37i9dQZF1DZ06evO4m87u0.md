@@ -2,7 +2,7 @@
 
 ### [This Is The Black Keys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4m87u0)
 
-> This is The Black Keys\. Todos os maiores hits em uma só playlist.
+> This is The Black Keys\. The essential tracks, all in one playlist.
 
 106 songs - 6 hr 13 min
 

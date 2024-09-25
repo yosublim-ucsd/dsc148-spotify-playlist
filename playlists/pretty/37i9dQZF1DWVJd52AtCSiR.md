@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,415 likes - 77 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,623 likes - 77 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 37 | [Transformation](https://open.spotify.com/track/3twDjDttBE9tkFJclBlVp7) | [Bulgarian Women's Choir](https://open.spotify.com/artist/6POdwLUtKqP6qQ9bRBx7NZ) | [Brother Bear Original Soundtrack](https://open.spotify.com/album/4PWrcWvQjkvSxJQ3gZ4phP) | 2:29 |
 | 38 | [Suite From Mulan](https://open.spotify.com/track/1b6Spq4MiEzShOBQLtEhWe) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 7:06 |
 | 39 | [Ariel's Goodbye](https://open.spotify.com/track/270OUjwWypMvDPuMX0nTb8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 1:22 |
-| 40 | [Grandmother Willow](https://open.spotify.com/track/5IIa9sbsg29OcGXRhdAph0) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \- English Version](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 1:27 |
+| 40 | [Grandmother Willow](https://open.spotify.com/track/5IIa9sbsg29OcGXRhdAph0) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \(English Version\)](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 1:27 |
 | 41 | [Finding Nemo](https://open.spotify.com/track/2JpsSmsRTBeE2v4D55HVCT) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:19 |
 | 42 | [Prologue: Beauty and the Beast](https://open.spotify.com/track/3SUTburdrAafJMHbCHxl9q) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast \(Special Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4TJsH7fxFFcK1xUSIyl8Db) | 2:29 |
 | 43 | [Elemental](https://open.spotify.com/track/1iueGRdZSh7qdbOsdWe7tC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:43 |
 | 44 | [Surface Pressure](https://open.spotify.com/track/08ud84GRgyaXbfAW1WxuVD) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 3:20 |
 | 45 | [Define Dancing](https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Wall\-E](https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1) | 2:23 |
 | 46 | [Meet Luca](https://open.spotify.com/track/0Dpbz2JbQcECzhED9Mh5v1) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4) | [Luca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa) | 4:08 |
-| 47 | [Farewell](https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \- English Version](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 4:48 |
+| 47 | [Farewell](https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \(English Version\)](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 4:48 |
 | 48 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
 | 49 | [Honor to Us All](https://open.spotify.com/track/3F9HXdijdjghQ8rlnZ4fqR) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 1:54 |
 | 50 | [Carnival Of The Animals, Finale](https://open.spotify.com/track/1Jy8ux5jagFEKPSY42pLvB) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Fantasia 2000](https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp) | 1:57 |

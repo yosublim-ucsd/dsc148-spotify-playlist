@@ -5958,7 +5958,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 205360,
       "name": "High",
       "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
@@ -8451,6 +8451,28 @@
     },
     {
       "album": {
+        "name": "Man Like You",
+        "url": "https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jang",
+          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158469,
+      "name": "Man Like You",
+      "url": "https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40"
+    },
+    {
+      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -10024,7 +10046,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -10246,7 +10268,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 146253,
       "name": "Orange Clouds (feat. JUNNY)",
       "url": "https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp"
@@ -11799,6 +11821,24 @@
     },
     {
       "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/47VsM0eiGNH1g9yUQ545Tr"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137281,
+      "name": "silhouette",
+      "url": "https://open.spotify.com/track/6juIZLmOCW4ONUglzEDq00"
+    },
+    {
+      "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
       },
@@ -12964,6 +13004,24 @@
       "duration_ms": 173500,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
+    },
+    {
+      "album": {
+        "name": "CHO:RD",
+        "url": "https://open.spotify.com/album/5ruXBpuu335VFUynH3a1VU"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/6FprQS3RsJ0Y4JSzjzbhht"
     },
     {
       "album": {

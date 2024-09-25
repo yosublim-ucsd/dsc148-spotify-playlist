@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "AAAG4ni/m36fIFtnppe6J3+TQ4ywTXFm",
+  "snapshot_id": "AAAG5umGZYIDdHdNm7pQev+QPY/XxG4t",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -732,8 +732,8 @@
           "url": "https://open.spotify.com/artist/6qo6o2LugMpRMH3fBZW3G2"
         },
         {
-          "name": "Aitsuki Nakuru",
-          "url": "https://open.spotify.com/artist/29nY3biBns7dh08cYj5DBT"
+          "name": "Nakuru Aitsuki",
+          "url": "https://open.spotify.com/artist/6QIXML7VP7nxZazZED9LSn"
         }
       ],
       "duration_ms": 222800,
@@ -1868,8 +1868,8 @@
           "url": "https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx"
         },
         {
-          "name": "Aitsuki Nakuru",
-          "url": "https://open.spotify.com/artist/29nY3biBns7dh08cYj5DBT"
+          "name": "Nakuru Aitsuki",
+          "url": "https://open.spotify.com/artist/6QIXML7VP7nxZazZED9LSn"
         },
         {
           "name": "Yukacco",
@@ -32151,6 +32151,74 @@
       "duration_ms": 124503,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/2ZfTf31uJSenXGsqIma512"
+    },
+    {
+      "added_at": "2024-09-24 14:24:49",
+      "album": {
+        "name": "More & More (Remixes)",
+        "url": "https://open.spotify.com/album/1ZJ1cqeGYe2qA3EORikVrz"
+      },
+      "artists": [
+        {
+          "name": "Hixxy",
+          "url": "https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "More & More - Tatsunoshin Remix",
+      "url": "https://open.spotify.com/track/4toAPAUz3Z5QJNzFbCTzkj"
+    },
+    {
+      "added_at": "2024-09-24 14:49:44",
+      "album": {
+        "name": "Pictures Of U",
+        "url": "https://open.spotify.com/album/5yKLY1XP4XMIwoNvXLryxw"
+      },
+      "artists": [
+        {
+          "name": "Vengeance",
+          "url": "https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pictures Of U",
+      "url": "https://open.spotify.com/track/0bieEN6QC5n1GlzPTmum6O"
+    },
+    {
+      "added_at": "2024-09-24 17:09:30",
+      "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Into This",
+      "url": "https://open.spotify.com/track/40EQ3gUfn9jllVIg6aIqwl"
+    },
+    {
+      "added_at": "2024-09-24 18:23:39",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Kdd6H9kLzlpdh0aQWeP9X"
+      },
+      "artists": [
+        {
+          "name": "Inquisitive",
+          "url": "https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/7vh5125D0oF5SKmXtx0VXR"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",

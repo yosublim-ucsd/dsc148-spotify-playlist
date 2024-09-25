@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,830 songs - 6 day 6 hr 35 min
+2,831 songs - 6 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Appel](https://open.spotify.com/track/2X6IZMbyXdaOIt76fnDouA) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Appel](https://open.spotify.com/album/47XA0xqqt706pZSbdnMBZx) | 2:09 | 2024-08-16 | 2024-08-24 |
 | [Appels manqués](https://open.spotify.com/track/7rW4dUZDIWat7hGmW4JjNK) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Reine de papier](https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4) | 2:43 | 2022-04-22 | 2022-05-07 |
 | [Apprendre encore](https://open.spotify.com/track/726IohC36wEmCqnU3LPtQB) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:38 | 2022-02-11 | 2022-02-26 |
+| [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-20 |  |
 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 | 2022-12-02 | 2022-12-24 |
 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/6sRuRl9gBvEhCifRp8UWJG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [APRÈS\-VOUS MADAME](https://open.spotify.com/album/4O4djMvOLwNIANYoZ1LPl3) | 3:37 | 2022-11-25 | 2022-12-06 |
 | [AQUA](https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [AQUA](https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn) | 2:35 | 2022-07-08 | 2022-07-23 |
@@ -937,7 +938,7 @@
 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 | 2024-05-17 | 2024-05-25 |
 | [Gabriel](https://open.spotify.com/track/4kfbDkVE9R35VQyem72ypS) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Jillionaire](https://open.spotify.com/artist/6vW5qwWVSTErBV1HovumXm) | [Gabriel](https://open.spotify.com/album/0VBafPEujxjs7wbBIW47fu) | 2:40 | 2023-03-31 | 2023-04-29 |
 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 | 2024-05-03 | 2024-06-29 |
-| [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-09-06 |  |
+| [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-09-06 | 2024-09-25 |
 | [Ganga](https://open.spotify.com/track/1tWSVHmSZqi4SRFQ3uYIm2) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Ganga](https://open.spotify.com/album/4zF1Lkv4tPhsPO9oxI5hLP) | 2:56 | 2022-06-17 | 2022-06-25 |
 | [GANGSTA GANGSTA \(feat\. Ryze Hendricks\)](https://open.spotify.com/track/5m7e4fV3HKIWIvpuYZqTEz) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7), [Ryze Hendricks](https://open.spotify.com/artist/2efrKbVT48nuGWO0BuuvAO) | [GANGSTA GANGSTA \(feat\. Ryze Hendricks\)](https://open.spotify.com/album/6umVIBNXvqxHek61ElnmEJ) | 3:39 | 2022-10-14 | 2022-10-29 |
 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-02-10 | 2023-02-25 |

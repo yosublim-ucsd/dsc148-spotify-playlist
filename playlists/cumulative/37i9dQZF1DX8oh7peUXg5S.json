@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "La Memoria Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7hzPKiTaSxBWnq4w8oizP9"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "date_added": "2024-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207657,
+      "name": "La Memoria Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng"
+    },
+    {
+      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/2Dwq5e6kudsdFAGEkSIRqd"
       },

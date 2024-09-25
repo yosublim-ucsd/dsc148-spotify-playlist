@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Fariana
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,742 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,712 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [PISCOLABIS](https://open.spotify.com/track/1zAPusyY5HO7mp7oGb21to) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [PISCOLABIS](https://open.spotify.com/album/7MggG5hkb03rGQiAx46S5b) | 2:42 |
 | 8 | [No Me Llores](https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [No Me Llores](https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq) | 3:18 |
 | 9 | [MI AMIGA ES UNA P](https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [UNDERWATER](https://open.spotify.com/album/6Q6k7LvauK7jFZNe3hnRqB) | 2:42 |
-| 10 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 |
-| 11 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
+| 10 | [LA NOCHE ENTERA](https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [LA NOCHE ENTERA](https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse) | 2:30 |
+| 11 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 |
 | 12 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
-| 13 | [LA NOCHE ENTERA](https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [LA NOCHE ENTERA](https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse) | 2:30 |
-| 14 | [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 |
-| 15 | [Pasa Tips](https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pasa Tips](https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y) | 2:47 |
-| 16 | [La Vacante \- Remix](https://open.spotify.com/track/1A7f6I1IyRf6ymwoBbS9jx) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Ivana](https://open.spotify.com/artist/63GuPFQ8R9zS8XDGkqyZ0Y) | [La Vacante \(Remix\)](https://open.spotify.com/album/3A9URtx3DWPaGD4EoD2SPr) | 3:12 |
+| 13 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 |
+| 14 | [La Vacante \- Remix](https://open.spotify.com/track/1A7f6I1IyRf6ymwoBbS9jx) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Ivana](https://open.spotify.com/artist/63GuPFQ8R9zS8XDGkqyZ0Y) | [La Vacante \(Remix\)](https://open.spotify.com/album/3A9URtx3DWPaGD4EoD2SPr) | 3:12 |
+| 15 | [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 |
+| 16 | [Pasa Tips](https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pasa Tips](https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y) | 2:47 |
 | 17 | [Adios](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adios](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
 | 18 | [RIO](https://open.spotify.com/track/3FyLmihMU6uQ8DZ8haZWe0) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [RIO](https://open.spotify.com/album/1NT5O5w81WoYyOU233kn6i) | 2:47 |
 | 19 | [Griselda](https://open.spotify.com/track/6GAETnFh1J6NHrbk9TykBh) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Griselda](https://open.spotify.com/album/1ewuwHvsxl8aUPkzq3svek) | 3:35 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 53 | [Camina](https://open.spotify.com/track/4O42cWrJAboJnMm0YD8wfj) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Verbena](https://open.spotify.com/album/3wzARJ6piLxMcRNNi9b5ow) | 3:54 |
 | 54 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
 
-Snapshot ID: `Zu8hzAAAAABd0Y4oUEdL10LfShC5nJtT`
+Snapshot ID: `ZvLYmgAAAAA8LJ4CbNgau1CXAVkEaLQC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto:  Rincon Sapiência, Mc Luki
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,694 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,727 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [121](https://open.spotify.com/track/3cNgdCPJXPeFHmdsdM1PGe) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [121](https://open.spotify.com/album/7jVhJ7QWMikLJUdRVqYf2A) | 1:42 |
 | 75 | [Fundamento](https://open.spotify.com/track/1OGYEPVwl64P3KjJrMY9Fl) | [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW), [Matéria Prima](https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d), [Sala 70](https://open.spotify.com/artist/5L7hyWZD4nhECaWStSZSSu) | [Fundamento](https://open.spotify.com/album/4gzmfc2qtLacKgywXRMbvp) | 2:31 |
 
-Snapshot ID: `ZuzlbAAAAACW84aO4g6KWjMNEY5VGeUI`
+Snapshot ID: `ZuzlbAAAAACLfpHq3AEqoFWbAY8k80KP`

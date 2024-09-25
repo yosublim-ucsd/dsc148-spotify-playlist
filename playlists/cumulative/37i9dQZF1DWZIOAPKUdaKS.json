@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 172135,
       "name": "Caliesa",
       "url": "https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa"
@@ -11076,6 +11076,24 @@
       "duration_ms": 120603,
       "name": "Smukke Sm\u00e5Ting",
       "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
+    },
+    {
+      "album": {
+        "name": "Snowbound",
+        "url": "https://open.spotify.com/album/2WoOWPF3LpfoGLCXtGpXIf"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135349,
+      "name": "Snowbound",
+      "url": "https://open.spotify.com/track/1lXxNuOJFycQjvpxkXWhLR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 9011,
+  "num_followers": 9051,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAAA43lR+WxWSfZyEKI18DUTv",
+  "snapshot_id": "ZvCvgAAAAADco7nidj21ERP6pNxjEGNZ",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alla En Lynwood (En Vivo)",
-        "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Alla En Lynwood - En Vivo",
-      "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Siento Nada",
         "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 146812,
       "name": "Ya No Siento Nada",
       "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alla En Lynwood (En Vivo)",
+        "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Alla En Lynwood - En Vivo",
+      "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
     },
     {
       "added_at": null,

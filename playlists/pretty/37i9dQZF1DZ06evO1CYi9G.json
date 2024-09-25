@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mudvayne. Los temas esenciales, todos en una lista.",
-  "num_followers": 57010,
+  "description": "This is Mudvayne. The essential tracks, all in one playlist.",
+  "num_followers": 57025,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAABKOdvOZVOrzUKhAFI4qE8v",
+  "snapshot_id": "ZvCvgAAAAABZy0Bqg7vuTTKaQO305teR",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
+      "duration_ms": 196866,
+      "name": "Central Disposal",
+      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Central Disposal",
-      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
+      "duration_ms": 303600,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
     },
     {
       "added_at": null,

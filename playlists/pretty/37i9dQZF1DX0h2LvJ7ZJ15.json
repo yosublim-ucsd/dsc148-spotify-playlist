@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1402757,
+  "num_followers": 1403467,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "Heat Waves (Expansion Pack)",
+        "url": "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 262248,
+      "name": "Heat Waves - Slowed",
+      "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "LOVELY BASTARDS (Slowed)",
         "url": "https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 152674,
       "name": "LOVELY BASTARDS - Slowed",
       "url": "https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "Heat Waves (Expansion Pack)",
-        "url": "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 262248,
-      "name": "Heat Waves - Slowed",
-      "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
     },
     {
       "added_at": "2024-05-24 04:38:40",

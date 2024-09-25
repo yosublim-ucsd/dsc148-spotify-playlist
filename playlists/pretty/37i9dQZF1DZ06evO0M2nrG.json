@@ -1,12 +1,12 @@
 {
   "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66607,
+  "num_followers": 66615,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAABfAN6DUSbBxKPOwks2pl3S",
+  "snapshot_id": "ZvCvgAAAAACBIlV5RCOp6spDUIeNB/kG",
   "tracks": [
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Siente Bien",
-        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Se Siente Bien",
-      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Vos",
         "url": "https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 165276,
       "name": "Por Vos",
       "url": "https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Siente Bien",
+        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
     },
     {
       "added_at": null,

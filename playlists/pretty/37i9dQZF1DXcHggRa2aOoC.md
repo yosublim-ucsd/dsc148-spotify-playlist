@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain]
 
 > You know that all mornings call for Fairuz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,635 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,646 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHggRa2aOoC.md) - [plain]
 | 8 | [Konna Netlaka](https://open.spotify.com/track/1Xf9s0vxxGyiMHQDtxK9Cu) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Konna Netlaka](https://open.spotify.com/album/4vkuSbFlYdcZUItrukZeFi) | 3:22 |
 | 9 | [El Bosta](https://open.spotify.com/track/7oePZnAYT1ye22cw2FqFq4) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 2](https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y) | 8:57 |
 | 10 | [Badi Khaburkon](https://open.spotify.com/track/7uGopVNwbUC8h7BJYRyRFX) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Houmoumn Al Hob](https://open.spotify.com/album/0MWkYwmeF3YDQ08saSrX9Q) | 3:06 |
-| 11 | [Baadak Ala Baly](https://open.spotify.com/track/0zQwnvv9A41q7sQPSEPL4s) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Awdet El Askar \- Return of the Soldiers](https://open.spotify.com/album/1jeZ0K212EAkEHFIOcBWox) | 4:07 |
+| 11 | [Baadak Ala Baly](https://open.spotify.com/track/0zQwnvv9A41q7sQPSEPL4s) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Awdet El Askar \(Return of the Soldiers\)](https://open.spotify.com/album/1jeZ0K212EAkEHFIOcBWox) | 4:07 |
 | 12 | [Baatilak](https://open.spotify.com/track/7slMNfGtXUFHkE9yXh9DQ0) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Sings Ziad Rahbani](https://open.spotify.com/album/7larhzd5MhHbt7kEVhsGaQ) | 4:32 |
 | 13 | [Saaltak Habiby](https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 5:26 |
 | 14 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |

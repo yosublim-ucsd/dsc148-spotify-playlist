@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Ahly Ahly \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062a\u064a\u062a\u0629 \u0632\u0648\u0632\u0648",
+        "url": "https://open.spotify.com/album/1ff0Cnda1MLD73zEZMtHte"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Ahly Ahly \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062a\u064a\u062a\u0629 \u0632\u0648\u0632\u0648",
+      "url": "https://open.spotify.com/track/7zN3SVscTn5M1mp8iUhe3d"
+    },
+    {
+      "album": {
         "name": "Akeed Rag3een",
         "url": "https://open.spotify.com/album/1aGnFCLksB3cDWpkd6c6Wp"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 220000,
       "name": "Ama Atkalm",
       "url": "https://open.spotify.com/track/0K28bnnVZPcqA7MPfTueKU"
@@ -2152,6 +2170,24 @@
       "duration_ms": 112972,
       "name": "ATTA3 REX",
       "url": "https://open.spotify.com/track/1UGnI8kOtvVjWQWbnwBWMb"
+    },
+    {
+      "album": {
+        "name": "Attal",
+        "url": "https://open.spotify.com/album/0ARHKOQpmW63v4vM92hMQA"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182379,
+      "name": "Attal",
+      "url": "https://open.spotify.com/track/6fTDj1mDJRQLJFvHx5sah7"
     },
     {
       "album": {
@@ -5388,7 +5424,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 132348,
       "name": "Fe El Sahel",
       "url": "https://open.spotify.com/track/0rivqKhL3G40wArOEbqq3e"
@@ -14594,7 +14630,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 159600,
       "name": "Zaghareet",
       "url": "https://open.spotify.com/track/3xBntZbJHq4IXWxmpGPIGs"
@@ -20576,6 +20612,24 @@
       "duration_ms": 182769,
       "name": "\u0645\u0639 \u0627\u0644\u0633\u0644\u0627\u0645\u0629 \u064a\u0627 \u0645\u062f\u0631\u0633\u062a\u064a",
       "url": "https://open.spotify.com/track/2ghElagGhTA3hYj06JJujA"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0639\u0631\u0641\u0634 \u064a\u0646\u0633\u0627\u0646\u064a Ma3refsh yensany",
+        "url": "https://open.spotify.com/album/067UFFeScR8TSYslrA8TrF"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "\u0645\u0639\u0631\u0641\u0634 \u064a\u0646\u0633\u0627\u0646\u064a Ma3refsh yensany",
+      "url": "https://open.spotify.com/track/0rLWtukItSaXp0MuGh8aIL"
     },
     {
       "album": {

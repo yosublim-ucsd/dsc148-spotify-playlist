@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This Is Banda Carnaval\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Banda Carnaval\. Los temas esenciales, todos en una lista.
 
 100 songs - 5 hr 15 min
 

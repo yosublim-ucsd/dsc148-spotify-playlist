@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 283591,
       "name": "Amor Sin Fronteras",
       "url": "https://open.spotify.com/track/0K0oGuHLOEAAGcRJNK1Bhi"
@@ -830,6 +830,24 @@
       "duration_ms": 158727,
       "name": "Charanga Campesina",
       "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
+        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+      },
+      "artists": [
+        {
+          "name": "Anibal Velasquez",
+          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166382,
+      "name": "Cinco Pa las Doce",
+      "url": "https://open.spotify.com/track/2jm1D6860RRJXfbTv4tRvI"
     },
     {
       "album": {
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 178119,
       "name": "El Viejo Ba\u00fal",
       "url": "https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j"

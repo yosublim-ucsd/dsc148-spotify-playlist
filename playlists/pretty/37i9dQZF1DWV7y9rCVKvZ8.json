@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 141725,
+  "num_followers": 141791,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZujPSAAAAAC7m/kl2qdbW40kgGT4QkbW",
+  "snapshot_id": "ZvJ6kQAAAADeCprK45IAhuf2j88DOwDP",
   "tracks": [
     {
       "added_at": "2024-09-12 23:35:35",
@@ -243,6 +243,22 @@
       "duration_ms": 202824,
       "name": "Tampar",
       "url": "https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW"
+    },
+    {
+      "added_at": "2024-09-24 08:38:41",
+      "album": {
+        "name": "Senyumlah",
+        "url": "https://open.spotify.com/album/1FsA760iGFJLUkTNrXnU9E"
+      },
+      "artists": [
+        {
+          "name": "Sunny Club",
+          "url": "https://open.spotify.com/artist/2icsxbw3kwhkULIg1C4FC6"
+        }
+      ],
+      "duration_ms": 189229,
+      "name": "Senyumlah",
+      "url": "https://open.spotify.com/track/7d2hdwykcvCfFWQLUUAVl3"
     },
     {
       "added_at": "2024-09-13 06:54:43",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-09-12 23:35:35",
       "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
         "name": "Aduh",
         "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-12 23:35:35",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
         "name": "Breakthru",
         "url": "https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS"
       },
@@ -1223,22 +1207,6 @@
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
-        "name": "Khayalan Tingkat Tinggi",
-        "url": "https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 185495,
-      "name": "Khayalan Tingkat Tinggi",
-      "url": "https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg"
     },
     {
       "added_at": "2024-09-12 23:35:35",
@@ -1291,26 +1259,6 @@
       "duration_ms": 293453,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
-        "name": "Tiara Andini",
-        "url": "https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "VIDI",
-          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Buktikan",
-      "url": "https://open.spotify.com/track/4uI9FVt0YOFJjpfmznfA40"
     },
     {
       "added_at": "2024-09-12 23:35:35",
@@ -1403,42 +1351,6 @@
       "duration_ms": 212345,
       "name": "Tak Lagi Lagi",
       "url": "https://open.spotify.com/track/2ugwRdPXiyEgwFXopwPAJw"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
-      },
-      "artists": [
-        {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        }
-      ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
-    },
-    {
-      "added_at": "2024-09-12 23:35:35",
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "Not You",
-      "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
     },
     {
       "added_at": "2024-09-12 23:35:35",

@@ -5115,7 +5115,7 @@
     },
     {
       "album": {
-        "name": "Unmasked: The Platinum Collection - Deluxe",
+        "name": "Unmasked: The Platinum Collection (Deluxe)",
         "url": "https://open.spotify.com/album/6lfGhIVE8by4922uwuCxla"
       },
       "artists": [
@@ -12602,7 +12602,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 14706,
       "name": "The Queen's Boudoir In The Palace",
       "url": "https://open.spotify.com/track/5lbw6uWlOpATQjFjhSLZMq"

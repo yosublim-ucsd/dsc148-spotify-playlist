@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. Todos os maiores hits em uma só playlist.
+> This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,812 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,840 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [C.E.O'S \(BÔNUS TRACK\)](https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW \(DELUXE\)](https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6) | 2:46 |
 | 50 | [Eu](https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 5:10 |
 
-Snapshot ID: `Zu9eAAAAAACZT1F05vzoL0/pFi2ELxeC`
+Snapshot ID: `ZvCvgAAAAAAqElqLzCc2JTsXqmtFsXRm`

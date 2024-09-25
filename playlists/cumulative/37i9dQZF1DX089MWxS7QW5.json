@@ -802,7 +802,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 169653,
       "name": "Bake",
       "url": "https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 152138,
       "name": "beam",
       "url": "https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt"
@@ -1024,6 +1024,24 @@
       "duration_ms": 257142,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C"
+    },
+    {
+      "album": {
+        "name": "Blame The Summer",
+        "url": "https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y"
+      },
+      "artists": [
+        {
+          "name": "LENA",
+          "url": "https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Blame The Summer",
+      "url": "https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ"
     },
     {
       "album": {
@@ -3083,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "reincarnate",
+        "url": "https://open.spotify.com/album/6kQBiWd29xlJyGFijS3rKt"
+      },
+      "artists": [
+        {
+          "name": "Mirakudo",
+          "url": "https://open.spotify.com/artist/0QZtCU6rizFEjF8zkC0RpC"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "graduation",
+      "url": "https://open.spotify.com/track/7hQ3Y55NRol4MDX4bly33n"
+    },
+    {
+      "album": {
         "name": "Groove Missing",
         "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
       },
@@ -3116,7 +3152,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 183039,
       "name": "grow up",
       "url": "https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu"
@@ -3910,6 +3946,32 @@
       "duration_ms": 184821,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW"
+    },
+    {
+      "album": {
+        "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
+        "url": "https://open.spotify.com/album/43KTTj2BtUePbWeQbhGmbM"
+      },
+      "artists": [
+        {
+          "name": "yowoon",
+          "url": "https://open.spotify.com/artist/05Sc4rR9HIhRZrszKwynLk"
+        },
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        },
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Is It Fine? (Feat. Cha Woo Joo, Joob A)",
+      "url": "https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug"
     },
     {
       "album": {
@@ -6284,7 +6346,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 196853,
       "name": "SLOWDOWN",
       "url": "https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx"
@@ -8224,6 +8286,24 @@
       "duration_ms": 239142,
       "name": "\uaca8\uc6b8\uae38 (feat. \uc601\uc900)",
       "url": "https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9"
+    },
+    {
+      "album": {
+        "name": "\ud5e4\uc5b4\uc9c0\uace0 \ub098\uc11c \ub4e3\uace0 \uc2f6\uc740 \ub178\ub798 part.1",
+        "url": "https://open.spotify.com/album/3Ka3La2kkXHA3eKWYz404x"
+      },
+      "artists": [
+        {
+          "name": "gemtarot",
+          "url": "https://open.spotify.com/artist/2dKRiCpkG0U7n9nN94kDue"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129358,
+      "name": "\uafc8\uc5d0\uc11c\ub77c\ub3c4 \ub9cc\ub098",
+      "url": "https://open.spotify.com/track/4URmaE5l4iqz29hb4FD650"
     },
     {
       "album": {

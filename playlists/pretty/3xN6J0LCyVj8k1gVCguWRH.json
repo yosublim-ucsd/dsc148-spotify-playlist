@@ -1,13 +1,29 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 131029,
+  "num_followers": 131033,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAoOYwCi3dCNvjCHuJZoxpMkIRqNf1k",
+  "snapshot_id": "AAAoR1Lx92K0TnnJeKukBergzeDHF+3b",
   "tracks": [
+    {
+      "added_at": "2024-09-24 23:19:25",
+      "album": {
+        "name": "Ben a My Pari",
+        "url": "https://open.spotify.com/album/5ANNBFt19cqw5TYtQjExRr"
+      },
+      "artists": [
+        {
+          "name": "Hevito",
+          "url": "https://open.spotify.com/artist/0TbQ4yiYMSIDeDKvvMS3fw"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Ben a My Pari",
+      "url": "https://open.spotify.com/track/5Kwqy2kXlLQgGNPHuArzEy"
+    },
     {
       "added_at": "2024-08-12 20:19:27",
       "album": {
@@ -119,22 +135,6 @@
       "duration_ms": 221771,
       "name": "I Can\u2019t Even Cry",
       "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
-    },
-    {
-      "added_at": "2024-09-13 18:02:47",
-      "album": {
-        "name": "D\u00f3nde Est\u00e1s?",
-        "url": "https://open.spotify.com/album/4CNX8XHCfwNwYFo1qL509R"
-      },
-      "artists": [
-        {
-          "name": "Stefany",
-          "url": "https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU"
-        }
-      ],
-      "duration_ms": 142989,
-      "name": "D\u00f3nde Est\u00e1s?",
-      "url": "https://open.spotify.com/track/4XnOUP9FmtTXmIyiFMDlyP"
     },
     {
       "added_at": "2024-08-12 20:22:34",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF"
     },
     {
-      "added_at": "2024-09-21 18:01:24",
-      "album": {
-        "name": "Yellow & Blue",
-        "url": "https://open.spotify.com/album/7d3hfDjLwjgG8HK0Kira3F"
-      },
-      "artists": [
-        {
-          "name": "BEET",
-          "url": "https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH"
-        }
-      ],
-      "duration_ms": 255999,
-      "name": "Yellow & Blue",
-      "url": "https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu"
-    },
-    {
       "added_at": "2024-08-12 20:28:56",
       "album": {
         "name": "Greatest Hits",
@@ -409,22 +393,6 @@
       "url": "https://open.spotify.com/track/74EiaLmtaOlfKZYFkhHs6J"
     },
     {
-      "added_at": "2024-09-23 23:31:59",
-      "album": {
-        "name": "Drugged Out",
-        "url": "https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX"
-      },
-      "artists": [
-        {
-          "name": "ERLY",
-          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
-        }
-      ],
-      "duration_ms": 201528,
-      "name": "Drugged Out",
-      "url": "https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq"
-    },
-    {
       "added_at": "2024-08-12 20:31:44",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
@@ -439,22 +407,6 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2024-09-23 23:31:38",
-      "album": {
-        "name": "PAID TODAY",
-        "url": "https://open.spotify.com/album/4vZ3OVtQorIWK1tD7mGfjx"
-      },
-      "artists": [
-        {
-          "name": "KID RUCCO",
-          "url": "https://open.spotify.com/artist/2GFnqJKomTQcjvjAddKA6b"
-        }
-      ],
-      "duration_ms": 142611,
-      "name": "PAID TODAY",
-      "url": "https://open.spotify.com/track/746dxU9cGfCj62ossBxHpl"
     },
     {
       "added_at": "2024-08-12 20:32:08",
@@ -487,22 +439,6 @@
       "duration_ms": 146226,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
-    },
-    {
-      "added_at": "2024-09-21 18:00:45",
-      "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f"
-      },
-      "artists": [
-        {
-          "name": "Jillian Loux",
-          "url": "https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi"
     },
     {
       "added_at": "2024-08-12 20:32:55",
@@ -595,6 +531,22 @@
       "duration_ms": 189586,
       "name": "symptom of life",
       "url": "https://open.spotify.com/track/70nmpLYSyZ58QTUzUiB1VA"
+    },
+    {
+      "added_at": "2024-09-24 23:21:02",
+      "album": {
+        "name": "Aunque solo fuera un d\u00eda",
+        "url": "https://open.spotify.com/album/5luHArIhXr536BXgwbdIDY"
+      },
+      "artists": [
+        {
+          "name": "Giselle Torres",
+          "url": "https://open.spotify.com/artist/0namV0mmccFuzr6rhacALQ"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Aunque solo fuera un d\u00eda",
+      "url": "https://open.spotify.com/track/6iUPGIapVPMILydDCcDPm6"
     },
     {
       "added_at": "2024-08-12 20:34:41",
@@ -729,22 +681,6 @@
       "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
     },
     {
-      "added_at": "2024-09-21 18:01:45",
-      "album": {
-        "name": "Summer Girl (Redux)",
-        "url": "https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By"
-      },
-      "artists": [
-        {
-          "name": "The High Plains Drifters",
-          "url": "https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "Summer Girl (Redux)",
-      "url": "https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr"
-    },
-    {
       "added_at": "2024-08-12 20:36:54",
       "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
@@ -859,22 +795,6 @@
       "duration_ms": 242483,
       "name": "Someone To Watch Over Me (feat. Pasquale Grasso)",
       "url": "https://open.spotify.com/track/7MCGBbLKg9BS7lQS1S5SN5"
-    },
-    {
-      "added_at": "2024-09-20 13:47:33",
-      "album": {
-        "name": "Focus On Me",
-        "url": "https://open.spotify.com/album/1HcFAbGVd9cN9Lad8L2Fqx"
-      },
-      "artists": [
-        {
-          "name": "David Jin",
-          "url": "https://open.spotify.com/artist/7bVNqThWm4PVefYufednd9"
-        }
-      ],
-      "duration_ms": 169679,
-      "name": "Focus On Me",
-      "url": "https://open.spotify.com/track/0qWUl6Zy4TxDcqGhIbceuH"
     },
     {
       "added_at": "2023-07-20 21:11:20",
@@ -1581,6 +1501,22 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2024-09-20 13:47:33",
+      "album": {
+        "name": "Focus On Me",
+        "url": "https://open.spotify.com/album/1HcFAbGVd9cN9Lad8L2Fqx"
+      },
+      "artists": [
+        {
+          "name": "David Jin",
+          "url": "https://open.spotify.com/artist/7bVNqThWm4PVefYufednd9"
+        }
+      ],
+      "duration_ms": 169679,
+      "name": "Focus On Me",
+      "url": "https://open.spotify.com/track/0qWUl6Zy4TxDcqGhIbceuH"
+    },
+    {
       "added_at": "2024-09-23 14:07:41",
       "album": {
         "name": "Spells Me Under",
@@ -1595,6 +1531,22 @@
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
+    },
+    {
+      "added_at": "2024-09-14 16:48:58",
+      "album": {
+        "name": "Hey Gina",
+        "url": "https://open.spotify.com/album/35XOBCmxYbhdUEVsQKJ9vV"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "duration_ms": 175648,
+      "name": "Hey Gina",
+      "url": "https://open.spotify.com/track/2CZJXVtnwAz7KdOvZGqxCf"
     },
     {
       "added_at": "2024-09-20 13:55:54",
@@ -1661,30 +1613,6 @@
       "url": "https://open.spotify.com/track/18xQTce1gMkCnj2j59Zuvd"
     },
     {
-      "added_at": "2024-09-13 13:15:22",
-      "album": {
-        "name": "Close 2 U",
-        "url": "https://open.spotify.com/album/02tbmnM3vtp7j2xZtiTaeY"
-      },
-      "artists": [
-        {
-          "name": "Henry Aberson",
-          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
-        },
-        {
-          "name": "Derran Day",
-          "url": "https://open.spotify.com/artist/7dexR7KkrkLCzFIVpBnKzK"
-        },
-        {
-          "name": "Korey Keys",
-          "url": "https://open.spotify.com/artist/5Sw8OXURdKT26umYRH0LUP"
-        }
-      ],
-      "duration_ms": 250281,
-      "name": "Close 2 U",
-      "url": "https://open.spotify.com/track/6F7vyIV4q98vyyVuG0yv4U"
-    },
-    {
       "added_at": "2024-09-23 14:13:33",
       "album": {
         "name": "Tangled Up In Blue",
@@ -1717,6 +1645,38 @@
       "url": "https://open.spotify.com/track/4oGvFg5XEGVoyJ4vMyy1db"
     },
     {
+      "added_at": "2024-09-24 19:35:51",
+      "album": {
+        "name": "VIBEZ",
+        "url": "https://open.spotify.com/album/2Rm6kOAHuEwFtD1ADN6lf6"
+      },
+      "artists": [
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+        }
+      ],
+      "duration_ms": 139221,
+      "name": "VIBEZ",
+      "url": "https://open.spotify.com/track/1x1wzlqBumWtN8n4fxM6Ex"
+    },
+    {
+      "added_at": "2024-09-24 15:47:45",
+      "album": {
+        "name": "delusional confidence",
+        "url": "https://open.spotify.com/album/2vEwx2O6jtnojJnFxVLHAc"
+      },
+      "artists": [
+        {
+          "name": "Abby Helms",
+          "url": "https://open.spotify.com/artist/7eaYheH4xgpV2FJ7ABAmkF"
+        }
+      ],
+      "duration_ms": 219617,
+      "name": "delusional confidence",
+      "url": "https://open.spotify.com/track/6xKETHrIxYPqnzT5PsVwEH"
+    },
+    {
       "added_at": "2024-09-19 23:32:41",
       "album": {
         "name": "Tunnels",
@@ -1747,6 +1707,38 @@
       "duration_ms": 150000,
       "name": "Su\u00e9ltate",
       "url": "https://open.spotify.com/track/7uolRIeUqiQDK8nFNHqR4y"
+    },
+    {
+      "added_at": "2024-09-21 18:01:45",
+      "album": {
+        "name": "Summer Girl (Redux)",
+        "url": "https://open.spotify.com/album/1f4tJWF26niJzYGKsLI6By"
+      },
+      "artists": [
+        {
+          "name": "The High Plains Drifters",
+          "url": "https://open.spotify.com/artist/1aUot091kVwE4LFNvhZsXi"
+        }
+      ],
+      "duration_ms": 238168,
+      "name": "Summer Girl (Redux)",
+      "url": "https://open.spotify.com/track/3EFKRs1TqMBLTd6bEsWULr"
+    },
+    {
+      "added_at": "2024-09-24 15:22:51",
+      "album": {
+        "name": "Hard Time",
+        "url": "https://open.spotify.com/album/68sST66WB56NUS2N7bUZaQ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Trummer",
+          "url": "https://open.spotify.com/artist/7FJTFpFmoOkkSTNA6TleL6"
+        }
+      ],
+      "duration_ms": 224469,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/1HX5benlXEOlbSLXcOoigr"
     },
     {
       "added_at": "2024-09-20 06:01:08",
@@ -1801,6 +1793,54 @@
       "url": "https://open.spotify.com/track/2kx07N9NF7uV03uLhM0O66"
     },
     {
+      "added_at": "2024-09-23 23:31:59",
+      "album": {
+        "name": "Drugged Out",
+        "url": "https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Drugged Out",
+      "url": "https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq"
+    },
+    {
+      "added_at": "2024-09-23 23:31:38",
+      "album": {
+        "name": "PAID TODAY",
+        "url": "https://open.spotify.com/album/4vZ3OVtQorIWK1tD7mGfjx"
+      },
+      "artists": [
+        {
+          "name": "KID RUCCO",
+          "url": "https://open.spotify.com/artist/2GFnqJKomTQcjvjAddKA6b"
+        }
+      ],
+      "duration_ms": 142611,
+      "name": "PAID TODAY",
+      "url": "https://open.spotify.com/track/746dxU9cGfCj62ossBxHpl"
+    },
+    {
+      "added_at": "2024-09-21 18:00:45",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/7842ihxs5atKU4FXdPsL3f"
+      },
+      "artists": [
+        {
+          "name": "Jillian Loux",
+          "url": "https://open.spotify.com/artist/3OyRtqli8hDzJHaFXJPQcu"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4ORmyoQazpUhPyq6VLRWzi"
+    },
+    {
       "added_at": "2024-09-14 16:52:11",
       "album": {
         "name": "Eden",
@@ -1817,6 +1857,22 @@
       "url": "https://open.spotify.com/track/5pWwP9NAvaFd27rGT9djsG"
     },
     {
+      "added_at": "2024-09-21 18:01:24",
+      "album": {
+        "name": "Yellow & Blue",
+        "url": "https://open.spotify.com/album/7d3hfDjLwjgG8HK0Kira3F"
+      },
+      "artists": [
+        {
+          "name": "BEET",
+          "url": "https://open.spotify.com/artist/75TQsxR29b8i6CknRQbWMH"
+        }
+      ],
+      "duration_ms": 255999,
+      "name": "Yellow & Blue",
+      "url": "https://open.spotify.com/track/1aGtrNJgzPXGrtbIxkHhLu"
+    },
+    {
       "added_at": "2024-09-14 16:48:44",
       "album": {
         "name": "Lento",
@@ -1831,22 +1887,6 @@
       "duration_ms": 284344,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0sFqWyOpZ7MZoC5sAmF0Rg"
-    },
-    {
-      "added_at": "2024-09-14 16:48:58",
-      "album": {
-        "name": "Hey Gina",
-        "url": "https://open.spotify.com/album/35XOBCmxYbhdUEVsQKJ9vV"
-      },
-      "artists": [
-        {
-          "name": "Estella Dawn",
-          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "Hey Gina",
-      "url": "https://open.spotify.com/track/2CZJXVtnwAz7KdOvZGqxCf"
     },
     {
       "added_at": "2024-09-14 15:37:57",
@@ -2091,22 +2131,6 @@
       "duration_ms": 243146,
       "name": "Pressed Out Emotions",
       "url": "https://open.spotify.com/track/2FSpYSbXEhFNaNcs0TiXUF"
-    },
-    {
-      "added_at": "2024-09-13 12:00:49",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/6hFtAGVj6z4FZyAcdlzF14"
-      },
-      "artists": [
-        {
-          "name": "IMARI",
-          "url": "https://open.spotify.com/artist/11YEBxhtL1cp3Tqxpx9p9L"
-        }
-      ],
-      "duration_ms": 254879,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/7ybLhO296Nk9H6Bmhfwr25"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

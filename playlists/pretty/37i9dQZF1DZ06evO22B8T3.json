@@ -1,12 +1,12 @@
 {
-  "description": "This Is Paulo Londra. Los temas esenciales, todos en una lista.",
-  "num_followers": 3901,
+  "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
+  "num_followers": 3902,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAADnMFb8gG2p8DLFOWHLucBF",
+  "snapshot_id": "ZvCvgAAAAADmSVbA1/B/KosTcDifxQpd",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nublado (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Nublado (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party en el Barrio (feat. Duki)",
         "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nublado (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Nublado (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj"
     },
     {
       "added_at": null,

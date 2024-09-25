@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: A$HP
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,641 likes - 76 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,642 likes - 76 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 75 | [Ziper](https://open.spotify.com/track/6OYipB9GpskiJa7H8lzZRu) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Ziper](https://open.spotify.com/album/3W5WGbXWAmhEr84v5aeI3G) | 2:09 |
 | 76 | [Barney](https://open.spotify.com/track/4lvX3Bk1BNm9ZgfaUC71Vk) | [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Barney](https://open.spotify.com/album/2v3x2ZtrdRM1As0s76CovS) | 2:28 |
 
-Snapshot ID: `Zu1mkQAAAADYpTcQLJZSJEnWqf68kDjE`
+Snapshot ID: `Zu1mkQAAAABGIuOqsDJEDLXHfWDgzUJy`

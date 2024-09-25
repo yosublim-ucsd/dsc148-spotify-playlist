@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "dans ettim",
+        "url": "https://open.spotify.com/album/4FjUgnAAyaiU7wGLMCQDMH"
+      },
+      "artists": [
+        {
+          "name": "dilan filiz",
+          "url": "https://open.spotify.com/artist/6dXoGHRx8LtLORwftvlImh"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222854,
+      "name": "dans ettim",
+      "url": "https://open.spotify.com/track/0Z9kzPWEbQ7GsN20IDqTTt"
+    },
+    {
+      "album": {
         "name": "Darmada\u011f\u0131n",
         "url": "https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ"
       },
@@ -4122,7 +4140,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 104303,
       "name": "D\u00dcZ D\u00dcNYA",
       "url": "https://open.spotify.com/track/5Q4z4rnz4bqkDfUceoxm55"
@@ -4580,6 +4598,24 @@
       "duration_ms": 131999,
       "name": "fark\u0131 yok",
       "url": "https://open.spotify.com/track/0zs2GLEvoeIFPfkFNgid2n"
+    },
+    {
+      "album": {
+        "name": "Fark\u0131m\u0131z yok",
+        "url": "https://open.spotify.com/album/7CuLUwde5tyhN4MTe12Nih"
+      },
+      "artists": [
+        {
+          "name": "Beton",
+          "url": "https://open.spotify.com/artist/0IYQ07OxEGeYGlp5BAqCvi"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Fark\u0131m\u0131z yok",
+      "url": "https://open.spotify.com/track/3j9sr1L57UDMid7E7LcJC5"
     },
     {
       "album": {
@@ -6411,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "I\u015f\u0131\u011f\u0131ms\u0131",
+        "url": "https://open.spotify.com/album/6aNMJeyjkM6SutjSmvn0f8"
+      },
+      "artists": [
+        {
+          "name": "U\u011fur Sena",
+          "url": "https://open.spotify.com/artist/2T2wMduLZJdG9CvMHl4jQa"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308565,
+      "name": "I\u015f\u0131\u011f\u0131ms\u0131",
+      "url": "https://open.spotify.com/track/5FOOhi9CjAbunSRSGGZHCy"
+    },
+    {
+      "album": {
         "name": "\u0130hanetler",
         "url": "https://open.spotify.com/album/4MAYgs1iICfv1hptkxdqtE"
       },
@@ -6606,7 +6660,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 197226,
       "name": "\u0130stedi\u011fini Yap",
       "url": "https://open.spotify.com/track/6fikhvPbPEs2MQpoxH6JzS"
@@ -7011,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "Karanl\u0131k Kadar Geceyim",
+        "url": "https://open.spotify.com/album/1pSZL7xVGYhxo3C25rKLSZ"
+      },
+      "artists": [
+        {
+          "name": "D\u00fc\u015fes",
+          "url": "https://open.spotify.com/artist/49iVjdZXTchYsegp3MTlqc"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Karanl\u0131k Kadar Geceyim",
+      "url": "https://open.spotify.com/track/3yzQNbhHHIRhN5ZER08CwK"
+    },
+    {
+      "album": {
         "name": "karanl\u0131klar diyar\u0131",
         "url": "https://open.spotify.com/album/68wh3ZTLblD1tucMGQk9zO"
       },
@@ -7076,7 +7148,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 183995,
       "name": "Kaybeder Ruhuma",
       "url": "https://open.spotify.com/track/54uTaZOnqhFV123GWsgbMK"
@@ -9465,6 +9537,24 @@
     },
     {
       "album": {
+        "name": "Paranoya",
+        "url": "https://open.spotify.com/album/5LiomnHK42kIgwbJn7ZWv6"
+      },
+      "artists": [
+        {
+          "name": "Dos Do\u011fukan",
+          "url": "https://open.spotify.com/artist/0CqSKploUKjM52KGB2dalJ"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235900,
+      "name": "Paranoya",
+      "url": "https://open.spotify.com/track/4hLn2sxRBonlOZYWvW07NU"
+    },
+    {
+      "album": {
         "name": "Pembe",
         "url": "https://open.spotify.com/album/1Sd7cRCqnXwqF2DwocoSVw"
       },
@@ -11416,7 +11506,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 161525,
       "name": "Sosyopat G\u00fcl\u00fcmseme",
       "url": "https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS"
@@ -12479,6 +12569,24 @@
     },
     {
       "album": {
+        "name": "YALAN",
+        "url": "https://open.spotify.com/album/3ivpaUFieQaSQpcLyxIGSU"
+      },
+      "artists": [
+        {
+          "name": "ilhan",
+          "url": "https://open.spotify.com/artist/0BYgUqxpEieAv0tXdUbf27"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131485,
+      "name": "YALAN",
+      "url": "https://open.spotify.com/track/77mMnCwILkYAAb5EJxg99e"
+    },
+    {
+      "album": {
         "name": "Yalan Ol",
         "url": "https://open.spotify.com/album/4M3ViVisprxemNxsMsgX1b"
       },
@@ -12782,7 +12890,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 231272,
       "name": "Yand\u0131k Yan\u0131yoruz",
       "url": "https://open.spotify.com/track/2jFmBsOkNPYa3n34GYoCJ5"
@@ -13052,7 +13160,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 149889,
       "name": "Yaz Ak\u015fam\u0131",
       "url": "https://open.spotify.com/track/4IvvmcbfJQc5hiWJKQv1nk"

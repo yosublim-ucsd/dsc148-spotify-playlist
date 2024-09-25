@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: COIN",
-  "num_followers": 1126497,
+  "num_followers": 1126547,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAAjM03VjMMb1+KXA9h7+8ln",
+  "snapshot_id": "ZvMCWwAAAAC57tEFTv0AtQqeA4PxRsqX",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -45,10 +45,10 @@
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-09-24 18:18:03",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1403,7 +1403,7 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Watch the Fire",
+        "name": "Watch The Fire",
         "url": "https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ"
       },
       "artists": [
@@ -1417,7 +1417,7 @@
         }
       ],
       "duration_ms": 208640,
-      "name": "Watch the Fire",
+      "name": "Watch The Fire",
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
     },
     {

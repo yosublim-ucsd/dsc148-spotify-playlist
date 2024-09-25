@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 158546,
+  "num_followers": 158614,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Break It Down (feat. Emily Makis)",
-        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Break It Down (feat. Emily Makis)",
-      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
         "url": "https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 171372,
       "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
       "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Break It Down (feat. Emily Makis)",
+        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Break It Down (feat. Emily Makis)",
+      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Out & About",
+        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
+      },
+      "artists": [
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Out & About",
+      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Out & About",
-        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
-      },
-      "artists": [
-        {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Out & About",
-      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 137624,
       "name": "CONTEXT",
       "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Home In That Bass",
-        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
       "artists": [
         {
-          "name": "Andy C",
-          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 189310,
-      "name": "Home In That Bass",
-      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Bass & Treble",
         "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 228024,
       "name": "Bass & Treble",
       "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Rudeboy",
-        "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        }
-      ],
-      "duration_ms": 174171,
-      "name": "Rudeboy",
-      "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dreadnaught - Break Remix",
         "url": "https://open.spotify.com/album/3I2YnEjPUm8qczUtA0Gkfi"
       },
@@ -1339,18 +1319,46 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sabertooth",
-        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
+        "name": "Rudeboy",
+        "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 174171,
+      "name": "Rudeboy",
+      "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Ain't No Way 2024 (Badger Remix)",
+        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
       },
       "artists": [
         {
           "name": "Serum",
           "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "The Riddler",
+          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 266057,
-      "name": "Sabertooth",
-      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
+      "duration_ms": 210000,
+      "name": "Ain't No Way 2024 - Badger Remix",
+      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1475,6 +1483,38 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Sabertooth",
+        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Sabertooth",
+      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
         "url": "https://open.spotify.com/album/0dmolG8epxpF6Lt15lRahj"
       },
@@ -1507,26 +1547,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Ain't No Way 2024 (Badger Remix)",
-        "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
+        "name": "SMASH",
+        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
         },
         {
-          "name": "The Riddler",
-          "url": "https://open.spotify.com/artist/1A5uwl26aW4GE4MAwo9j8l"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ain't No Way 2024 - Badger Remix",
-      "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
+      "duration_ms": 234731,
+      "name": "SMASH",
+      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1547,42 +1583,6 @@
       "duration_ms": 146057,
       "name": "Tazer",
       "url": "https://open.spotify.com/track/4NoAfAf5k9AmQ64jSCRTlB"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "SMASH",
-        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
-      },
-      "artists": [
-        {
-          "name": "Nika D",
-          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
-        },
-        {
-          "name": "Savant",
-          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "SMASH",
-      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
       "added_at": "2024-09-19 23:00:00",

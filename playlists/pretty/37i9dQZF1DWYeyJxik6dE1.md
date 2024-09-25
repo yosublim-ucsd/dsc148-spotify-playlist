@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYeyJxik6dE1.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: Lov3less
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,091 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

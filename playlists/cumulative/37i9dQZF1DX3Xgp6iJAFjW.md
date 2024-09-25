@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-177 songs - 12 hr 4 min
+178 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 | 2022-11-25 | 2023-11-18 |
 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 | 2022-12-18 |  |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/1Lyrs8yitreWlFDxY20X9E) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Cantares de Navidad](https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF) | 4:59 | 2022-11-25 | 2022-12-19 |
+| [El envío navideño](https://open.spotify.com/track/5MDow7yE7yj5dA1wN48uU6) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Krisspy](https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7) | [Merengue On](https://open.spotify.com/album/63aZn7WBMRf51fq1OW9jtF) | 4:19 | 2023-12-19 |  |
 | [El Guayabo de la Ye](https://open.spotify.com/track/0rDw3cIlcXAzfs3rSttbp4) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Una Historia una Leyenda](https://open.spotify.com/album/0LRokwF90cBI9I16p5uldZ) | 3:39 | 2022-11-25 | 2023-08-17 |
 | [El Guayabo de la Ye](https://open.spotify.com/track/4ZZYF38rwSmsFR61G07953) | [Lisandro Meza Y Su Conjunto](https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb) | [El Inocente](https://open.spotify.com/album/7LPDVaGHgqr876Av8TUyyD) | 3:36 | 2023-08-16 | 2024-04-19 |
 | [El Hijo Ausente](https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B) | [Pastor Lopez Y Su Combo](https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde) | [16 Exitos, Vol\. 1](https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1) | 2:53 | 2022-11-25 |  |
@@ -149,7 +150,7 @@
 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2TubL59m7DAX9X70BniG2y) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:52 | 2022-11-25 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 3:50 | 2022-12-18 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/54HYvUQmEmPa9KWBxolxkM) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/5DP1DTvbB4ALeIvIsVL5qo) | 3:05 | 2022-11-25 | 2023-09-11 |
-| [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 | 2022-11-25 |  |
+| [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 | 2022-11-25 | 2024-09-25 |
 | [Navidad Sin Ti \- Radio Version](https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti \(Radio Version\)](https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [Navidad, Navidad](https://open.spotify.com/track/3kwPNEPLH3jtE5Ug0YTpCz) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Navidad, Navidad](https://open.spotify.com/album/1H7UXvXitpoxQreWgZVXv2) | 3:00 | 2022-11-25 | 2024-08-31 |
 | [No Hay](https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [De Trulla Con el Combo](https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq) | 4:19 | 2022-11-25 |  |

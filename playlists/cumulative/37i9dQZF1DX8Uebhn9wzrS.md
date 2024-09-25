@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,072 songs - 3 day 7 hr 0 min
+2,073 songs - 3 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [castle top](https://open.spotify.com/track/7MvfJKi7f053Hoqtmitdg9) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [castle top](https://open.spotify.com/album/1N5hpy04EHnv5n8FyhQVUT) | 2:35 | 2023-12-08 |  |
 | [Cat Whisperer](https://open.spotify.com/track/7nnoeXw1CQ9oLeZ5wgEiXx) | [BLVKEY](https://open.spotify.com/artist/4MzCPIbr4CgXgAbVidFpgB) | [Cat Whisperer](https://open.spotify.com/album/4bwfOZ4QtcVU2grYXcJAd6) | 2:50 | 2024-09-06 |  |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2023-10-27 |  |
+| [Catching A Vibe](https://open.spotify.com/track/72irLCVlW9MCrvlTeh1BNp) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Ivy](https://open.spotify.com/album/0rhM5S3YpPb6iA2kGNwnh4) | 1:52 | 2024-09-13 |  |
 | [Cave Canem](https://open.spotify.com/track/4F2UTof7NX6a3TddZ54HWf) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Cave Canem](https://open.spotify.com/album/1FNz4XIjm2VPQ1ELnIxNra) | 1:35 | 2024-08-30 |  |
 | [caverns](https://open.spotify.com/track/08egHY6Qs39w86pcbyiMAD) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [caverns](https://open.spotify.com/album/2WvNmEjP4AQBUQIl5Jl2Qb) | 2:38 | 2022-12-09 | 2023-09-16 |
 | [caviar](https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [laugh at the balance](https://open.spotify.com/album/6VrZDk65XkMRuk9IW4tudW) | 2:08 | 2022-04-15 | 2022-09-09 |
@@ -849,7 +850,7 @@
 | [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 |  |
 | [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 | 2024-04-23 |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2023-02-06 |  |
-| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 | 2024-09-20 |
+| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 |  |
 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 | 2022-07-08 | 2022-12-03 |
 | [I\-65](https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [I\-65](https://open.spotify.com/album/2z8x3yAvj3mnvngPn1xVII) | 2:00 | 2024-06-21 |  |
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-11-12 |
@@ -1080,7 +1081,7 @@
 | [mackintosh's](https://open.spotify.com/track/0KCYNbModuo8QE8MEVJd5k) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [mackintosh's](https://open.spotify.com/album/3VSfmuvkLk5mnzU3ba9sTU) | 2:47 | 2022-12-09 | 2023-03-09 |
 | [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-02-02 |  |
 | [Madness](https://open.spotify.com/track/50A9vaLZvirlEPWi7BXGni) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f) | [Madness](https://open.spotify.com/album/75Stpm1OoeOz9uBYorBBam) | 2:45 | 2022-05-27 | 2022-11-12 |
-| [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 |  |
+| [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 | 2024-09-25 |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-04-15 | 2022-08-19 |
 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-09-13 |  |
 | [Makes me smile](https://open.spotify.com/track/2zrVLM8J5exaoXrrKmRQWy) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:38 | 2022-04-15 | 2023-08-18 |
@@ -1708,7 +1709,7 @@
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2022-04-15 | 2022-09-09 |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2023-07-13 | 2024-09-07 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
-| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 |  |
+| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 | 2024-09-25 |
 | [Strawberry Blonde](https://open.spotify.com/track/4UcBw2iCihERGKHF9mcC3S) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Gaia](https://open.spotify.com/album/6DBGmUiDexYuVZTMA5D4pp) | 2:08 | 2022-04-15 | 2022-10-01 |
 | [Strawberry Mojito](https://open.spotify.com/track/4tv0OtMtBA5l12gmw20HpO) | [Baby Peppers](https://open.spotify.com/artist/6brahtsoEAq3syNfD48Ovx) | [Drizzle Weather](https://open.spotify.com/album/2i6h4wpnqljpXQwJMLQPSQ) | 1:46 | 2022-08-19 |  |
 | [Straylights](https://open.spotify.com/track/2vwVuPxqckJFtBMIHME8xu) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Straylights](https://open.spotify.com/album/0KwARguET2k5Ue0rovfMrG) | 2:00 | 2022-06-03 | 2023-01-13 |

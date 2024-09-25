@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3Bb9Kw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Bb9Kw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3Bb9Kw)
 
-### [This Is ミランダ・ランバート](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
+### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This is ミランダ・ランバート。アーティストの代表曲をひとつのプレイリストに。
+> This is Miranda Lambert\. The essential tracks, all in one playlist.
 
 99 songs - 5 hr 43 min
 

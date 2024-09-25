@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jamie xx \(pictured\), Tom Grennan, Jaz Karis and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,462 likes - 121 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,506 likes - 121 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

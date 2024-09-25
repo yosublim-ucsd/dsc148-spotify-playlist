@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Derrick Henry
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayden Daniels
 
 680 songs - 1 day 10 hr 25 min
 

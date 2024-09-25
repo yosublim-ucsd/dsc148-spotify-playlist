@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Grindin",
+        "url": "https://open.spotify.com/album/3OG6eMwSnvA0KcAzl8BjnQ"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298500,
+      "name": "Grindin",
+      "url": "https://open.spotify.com/track/1hyqXm4Zq9mPRlJAA4CpXa"
+    },
+    {
+      "album": {
         "name": "ATW007",
         "url": "https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 162290,
       "name": "ME & U",
       "url": "https://open.spotify.com/track/7H0lcblvj97g1SGFlKZ2d6"

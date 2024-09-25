@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,832 likes - 211 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,836 likes - 211 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MIA Down In MIA](https://open.spotify.com/track/05GQWrTY4ntMareQlgnGEB) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [MIA Down In MIA](https://open.spotify.com/album/47nvV9R8dSHmpX4oM9ILmC) | 3:29 |
 | 2 | [I Can't](https://open.spotify.com/track/5E9ykjhgRvTZ1H3ulu9XTJ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [I Can't](https://open.spotify.com/album/2ZP8X1egXm0xVGMPZQOpk9) | 3:59 |
-| 3 | [Sunday in the South](https://open.spotify.com/track/05ij6sLi5xRb2s2yOCSvPN) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Sunday in the South](https://open.spotify.com/album/0oOoMX85F7EnoLB0PM5Q2e) | 4:15 |
+| 3 | [Sunday in the South \(feat\. Jason Aldean & Luke Bryan\)](https://open.spotify.com/track/05ij6sLi5xRb2s2yOCSvPN) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Sunday in the South \(feat\. Jason Aldean & Luke Bryan\)](https://open.spotify.com/album/0oOoMX85F7EnoLB0PM5Q2e) | 4:15 |
 | 4 | [Last Leaf](https://open.spotify.com/track/3xZbfaTKjT7AxOEWKqOEMW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf](https://open.spotify.com/album/4BxExZd0956GZcl9HotNfj) | 3:14 |
 | 5 | [Hello Out There](https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songwriter](https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd) | 3:02 |
 | 6 | [Doin' Life with You](https://open.spotify.com/track/16aSIrIcOHdqLZcsHz3QxY) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Doin' Life with You](https://open.spotify.com/album/2nbbwy9Ja5K9vnOCd27uhS) | 4:01 |

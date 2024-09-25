@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Kang Jin Ah\(강진아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: JEONG HYO BIN\(정효빈\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,313 songs - 3 day 12 hr 57 min
+1,315 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 | 2022-08-18 | 2022-12-27 |
 | [I still love you a lot](https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [I still love you a lot](https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF) | 3:47 | 2021-12-20 | 2022-07-05 |
 | [I Still Miss You](https://open.spotify.com/track/7mSnpktbVTwtCAiJTlSJN9) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I Still Miss You](https://open.spotify.com/album/1uYtRlk8QH2pFmvTW8g2CA) | 3:00 | 2022-10-26 | 2023-01-21 |
+| [I Still Miss You](https://open.spotify.com/track/07SG3Ckwi580swia3AK1CS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [I Still Miss You](https://open.spotify.com/album/0dFkBmGAmfBu0rmwkoqBt4) | 4:14 | 2024-09-24 |  |
 | [I Still Miss You](https://open.spotify.com/track/5ZD5Ir6kdXkAuETilQy25q) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [I Still Miss You](https://open.spotify.com/album/49iM6Wz5qWPvaqQsB9czLg) | 3:37 | 2023-11-15 | 2024-05-01 |
 | [I Think I Did](https://open.spotify.com/track/4H0jGKPyORcxowWlXgSdth) | [Yoo Hwe Seung\(N.Flying\)](https://open.spotify.com/artist/7yL5ZmN82R59qHxOV0ejQw) | [Lovely Runner, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DilLRFZOdqdfPfOh2DRgz) | 4:20 | 2024-05-17 | 2024-09-14 |
 | [I want to be happy](https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [thing song of my life vol.2](https://open.spotify.com/album/5s2Muss9JgOD92T1g6C8MM) | 3:58 | 2021-12-20 | 2022-06-02 |
@@ -996,6 +997,7 @@
 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 | 2022-03-31 | 2022-04-19 |
 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 | 2024-05-18 |
 | [Supppperman's dream](https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58) | [Supppperman](https://open.spotify.com/artist/4MsSecxgHDVQGEx9SPQSDP) | [Supppperman's dream](https://open.spotify.com/album/2CCq19fvsTdzafRqISmF8K) | 3:36 | 2024-07-31 |  |
+| [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 |  |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |
 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 |  |

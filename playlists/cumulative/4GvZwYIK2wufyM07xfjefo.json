@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 62000,
       "name": "Element of the collection (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/4DY6RqybFSyH0uOmYCLluu"
@@ -404,6 +404,46 @@
       "duration_ms": 211063,
       "name": "fear (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2c4e06mUPHWTuaM16SbOTo"
+    },
+    {
+      "album": {
+        "name": "First Note",
+        "url": "https://open.spotify.com/album/3d5LCEPxz1E1BjaaOZgJDD"
+      },
+      "artists": [
+        {
+          "name": "blues",
+          "url": "https://open.spotify.com/artist/54PdgvWwOz1CRcFN9uYwz6"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268854,
+      "name": "First Note (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0BMLlDBYOA9TRoWHXh5sDx"
+    },
+    {
+      "album": {
+        "name": "Calm Time",
+        "url": "https://open.spotify.com/album/1XLby6wBYYbR1PIbIgfLBL"
+      },
+      "artists": [
+        {
+          "name": "Clean Tears",
+          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243913,
+      "name": "Flow (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3DcIZq6pb9bHNTgnfsmbD3"
     },
     {
       "album": {
@@ -788,7 +828,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 210238,
       "name": "showdown",
       "url": "https://open.spotify.com/track/0hxXGGuLs5d6uVVMmvHR6r"
@@ -890,7 +930,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 192187,
       "name": "The Marks (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/12bKdNpxglhHXaPNYcp9Z4"
@@ -1178,6 +1218,28 @@
       "duration_ms": 220666,
       "name": "\u306b\u305b\u3082\u306e (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3DCzwO53J8sT1KLZrPB3Gd"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a\u3088\u3072\u304b\u308a\u3088",
+        "url": "https://open.spotify.com/album/4UvosnqAKtidQau9TKRCEx"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
+          "url": "https://open.spotify.com/artist/6yq2Hzrg9vEBuebVFVMozB"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162368,
+      "name": "\u3072\u304b\u308a\u3088\u3072\u304b\u308a\u3088 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/15DCwKOI3ozVsKrABj6sML"
     },
     {
       "album": {
@@ -2057,6 +2119,28 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30fb\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/5TewvPckuryjM12XFKHzKx"
+      },
+      "artists": [
+        {
+          "name": "Kiichi",
+          "url": "https://open.spotify.com/artist/3GYaAQum94wppbd9M0LcVH"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30fb\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8 (feat. \u82b1\u9688\u5343\u51ac)",
+      "url": "https://open.spotify.com/track/17fE0OA4wO0ea3Nlb2jAR9"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30a2\u30ea\u30c6\u30a3",
         "url": "https://open.spotify.com/album/19HzRixze3olVPQhnR07Nb"
       },
@@ -2072,7 +2156,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 192203,
       "name": "\u30ea\u30a2\u30ea\u30c6\u30a3 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6KXPJtaJlC2cwsDkYaErB4"
@@ -2756,7 +2840,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 265383,
       "name": "\u6c88\u6fb1",
       "url": "https://open.spotify.com/track/1C8RbP1I6m72QdgB157Juz"
@@ -2988,6 +3072,28 @@
       "duration_ms": 219893,
       "name": "\u7a7a\u6d1e\u306e\u307e\u307e (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5XnGiUsDKEnddWupFmlEb8"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f",
+        "url": "https://open.spotify.com/album/1lL5lQQIGhFOvwdL9Bjmva"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "\u7d04\u675f feat. \u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/3IfK7SAlE21ZQuJxg3PgoG"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABg2hU24lfJJT4KawbvRnBXjkXjn6BJ",
+  "snapshot_id": "AABg3RdJKUiU/uRfYaxy31JwwwyEcy0b",
   "tracks": [
     {
       "added_at": "2024-09-20 12:09:27",
@@ -317,6 +317,26 @@
       "url": "https://open.spotify.com/track/0CSrYMvh3j8EvgXHqLC9eK"
     },
     {
+      "added_at": "2024-09-24 14:56:51",
+      "album": {
+        "name": "Fable (Happy ever after)",
+        "url": "https://open.spotify.com/album/3gIy6Oj1Rich5jiivKUESA"
+      },
+      "artists": [
+        {
+          "name": "BadVice DJ",
+          "url": "https://open.spotify.com/artist/1Cgg1h6FrnGYOXT6mFaPTs"
+        },
+        {
+          "name": "Aleinad",
+          "url": "https://open.spotify.com/artist/0CurOldX5JS7M8vQDhDL8l"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Fable (Happy ever after) - Radio Edit",
+      "url": "https://open.spotify.com/track/6nCWvsLO1GqipdGzi8OsOJ"
+    },
+    {
       "added_at": "2024-09-20 12:09:27",
       "album": {
         "name": "Hurts",
@@ -419,6 +439,22 @@
       "duration_ms": 152121,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/45EDlda9ern2PjvHTEgEsH"
+    },
+    {
+      "added_at": "2024-09-24 14:57:51",
+      "album": {
+        "name": "Act 1",
+        "url": "https://open.spotify.com/album/3s4WVJHqjDlqGXj68kWQew"
+      },
+      "artists": [
+        {
+          "name": "rom",
+          "url": "https://open.spotify.com/artist/6S8H5q8qw6YJwOygSvuihS"
+        }
+      ],
+      "duration_ms": 207882,
+      "name": "Mind Killer - birth",
+      "url": "https://open.spotify.com/track/6fM6b82XjV9ABtVuMoPh5Z"
     },
     {
       "added_at": "2024-09-20 12:09:27",
@@ -859,6 +895,22 @@
       "duration_ms": 227333,
       "name": "Sima Agua (feat. Mayra Andrade)",
       "url": "https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78"
+    },
+    {
+      "added_at": "2024-09-24 14:56:50",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/7we5DzyopyWRUVM0jHSnD5"
+      },
+      "artists": [
+        {
+          "name": "DJ Meetch",
+          "url": "https://open.spotify.com/artist/4eEVC9XUxzWlSmcinvklEI"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/7dr45aXsMtXQiPvmpc8BXv"
     },
     {
       "added_at": "2024-09-20 19:04:52",

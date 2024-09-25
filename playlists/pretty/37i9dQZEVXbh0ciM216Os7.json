@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABMKtUeGKLrlAbTIgWp4hS1",
+  "snapshot_id": "AAAAAAAAAABvY0xwQRSedX6hcbYDcEK5",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Mirage Tour '82 (Live)",
-        "url": "https://open.spotify.com/album/62BXtgi628S51UANvOPTxi"
+        "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
+        "url": "https://open.spotify.com/album/66ifWgXVUmxAaVaaOYqkYm"
       },
       "artists": [
         {
@@ -58,7 +58,7 @@
       ],
       "duration_ms": 272333,
       "name": "Oh Well (Live at The Forum, Inglewood, CA, 10/21/82)",
-      "url": "https://open.spotify.com/track/2Jr4yka1zUfsnQdeLuIxul"
+      "url": "https://open.spotify.com/track/1TLJVrZwI5nMmIhJvH6dXv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -75,30 +75,6 @@
       "duration_ms": 262186,
       "name": "Earth Blues - Alternate Mix",
       "url": "https://open.spotify.com/track/1IoxyyTW5BMW2g9G3XnJLd"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Big Body Bes",
-          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Minnesota Fats",
-      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -143,54 +119,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Love (the) Ominous World",
-        "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
       "artists": [
         {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
-          "name": "Blu & Exile",
-          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
         }
       ],
-      "duration_ms": 171241,
-      "name": "Intro - Hello LA",
-      "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Swingin' Swordz",
-        "url": "https://open.spotify.com/album/720B5inATpD4iJ4XkyU0N9"
-      },
-      "artists": [
-        {
-          "name": "Loco Mic",
-          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
-        },
-        {
-          "name": "Ghetto-T.",
-          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Swingin' Swordz",
-      "url": "https://open.spotify.com/track/1KoCqUBLF5VJQOW8PSGKXy"
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -223,26 +171,46 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/6brCUPL6IPmTwlesTAPDjj"
+        "name": "Dopeman",
+        "url": "https://open.spotify.com/album/4jI1TUd8pyDD1tka8MjlHR"
       },
       "artists": [
         {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+          "name": "Kinetic Kash",
+          "url": "https://open.spotify.com/artist/1XH0qiZdUtq4FlYWFYKH6B"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
         }
       ],
-      "duration_ms": 248098,
-      "name": "Lyte Ghost Lil Mama",
-      "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+      "duration_ms": 195474,
+      "name": "Dopeman",
+      "url": "https://open.spotify.com/track/6yzA0fI78IyGh69GF2n65e"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Swingin' Swordz",
+        "url": "https://open.spotify.com/album/720B5inATpD4iJ4XkyU0N9"
+      },
+      "artists": [
+        {
+          "name": "Loco Mic",
+          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
+        },
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Swingin' Swordz",
+      "url": "https://open.spotify.com/track/1KoCqUBLF5VJQOW8PSGKXy"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -259,6 +227,34 @@
       "duration_ms": 534130,
       "name": "Peggy-O - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/2tCb63qwibZi8EbkkNuv8g"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Love (the) Ominous World",
+        "url": "https://open.spotify.com/album/0oGNDif7WWcMsuVIPY2BNY"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        },
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 171241,
+      "name": "Intro - Hello LA",
+      "url": "https://open.spotify.com/track/5jobpdBC2SkWQKFtsf3bok"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -451,28 +447,8 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "always centered at night - quiet home: remixes dj mix",
-        "url": "https://open.spotify.com/album/15cCs1EBNCmXsIBFZubnfE"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "India Carney",
-          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
-        }
-      ],
-      "duration_ms": 298707,
-      "name": "precious mind (cassette remix)",
-      "url": "https://open.spotify.com/track/4w43gRbHf7HAi7PbFlTAUg"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/4GHQqu1CNfWN3wK0JxZz7j"
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
       },
       "artists": [
         {
@@ -482,7 +458,7 @@
       ],
       "duration_ms": 461880,
       "name": "The Mountain",
-      "url": "https://open.spotify.com/track/5jPo2CilQ3TotztQuekrmU"
+      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -507,6 +483,26 @@
       "duration_ms": 219186,
       "name": "Sicilienne, Op. 78",
       "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "precious mind",
+        "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "precious mind (cassette remix)",
+      "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -707,26 +703,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+        "name": "Quit Calling",
+        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+      "duration_ms": 183529,
+      "name": "Quit Calling",
+      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -751,18 +739,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Quit Calling",
-        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
       },
       "artists": [
         {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Quit Calling",
-      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
       "added_at": "2024-09-20 04:00:00",

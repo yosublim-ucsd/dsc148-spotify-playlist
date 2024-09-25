@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Amar Prem Ki Prem Kahani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1z4dGtMqYwEUHKXLoroiit"
+      },
+      "artists": [
+        {
+          "name": "Prasad S",
+          "url": "https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cha Chadheya",
+      "url": "https://open.spotify.com/track/1lzL1XZZpZhxhc7Wu9Fpxk"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -1908,7 +1930,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 213228,
       "name": "Nain Ta Heere - Lisa",
       "url": "https://open.spotify.com/track/6emAuBpvTZkGlZu7uQnkFe"

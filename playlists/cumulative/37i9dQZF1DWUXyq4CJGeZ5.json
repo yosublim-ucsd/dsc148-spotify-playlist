@@ -5669,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Primrose",
+        "url": "https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Primrose",
+      "url": "https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g"
+    },
+    {
+      "album": {
         "name": "Primrose Hill",
         "url": "https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa"
       },

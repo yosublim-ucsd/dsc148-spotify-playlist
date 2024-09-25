@@ -2,7 +2,7 @@
 
 ### [This Is Banda Zeta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45UHxY)
 
-> This is Banda Zeta。アーティストの代表曲をひとつのプレイリストに。
+> This Is Banda Zeta\. Los temas esenciales, todos en una lista.
 
 96 songs - 4 hr 50 min
 

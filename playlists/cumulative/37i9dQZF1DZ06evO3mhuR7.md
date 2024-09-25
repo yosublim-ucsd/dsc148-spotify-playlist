@@ -2,7 +2,7 @@
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This is The Orb\. The essential tracks, all in one playlist.
+> This is The Orb\. Track\-track unggulan, semuanya dalam satu playlist.
 
 146 songs - 17 hr 11 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Hits terpanas dari Meiska, Lady Gaga, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
-  "num_followers": 2349576,
+  "num_followers": 2349708,
   "original_name": "Hot Hits Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuy1/AAAAAAG+crHIbcE7moDehv3B+1D",
+  "snapshot_id": "ZvJ6kgAAAAD6+6xUPWQq0lpaZmQH0v4f",
   "tracks": [
     {
       "added_at": "2024-09-19 23:38:36",
@@ -647,6 +647,22 @@
       "duration_ms": 173720,
       "name": "Bunga Hati",
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "added_at": "2024-09-24 08:38:42",
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4"
+      },
+      "artists": [
+        {
+          "name": ".Feast",
+          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "duration_ms": 277944,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm"
     },
     {
       "added_at": "2024-09-19 23:38:36",

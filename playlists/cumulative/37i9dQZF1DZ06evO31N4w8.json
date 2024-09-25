@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
+  "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Rieleros Del Norte",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 214973,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Aunque Mal Paguen Ellas",
+      "url": "https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw"
     },
     {
       "album": {
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 209333,
       "name": "Tu y las Nubes",
       "url": "https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,498 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,530 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 96 | [Kelowna](https://open.spotify.com/track/4qQXyneWW84vaXPQwQ6ctt) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Kelowna](https://open.spotify.com/album/4j0rUtyuBfQUixdyPR29IB) | 2:17 |
 | 97 | [Front Door](https://open.spotify.com/track/1GQG9Hi4ZlXgJlFqZhZBYQ) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C), [Dr\. Bushman](https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7) | [Front Door](https://open.spotify.com/album/5jipzrYWSPekPWuA24BKEv) | 3:07 |
 | 98 | [NORTHSIDE](https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [Northside](https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW) | 2:50 |
-| 99 | [SHE LUV](https://open.spotify.com/track/6qhQ8NGCH0abKGt4EDkK4D) | [ibxrhm](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ) | [SHE LUV](https://open.spotify.com/album/4mYwxlxfsJVOPGQPaMvV2j) | 2:00 |
+| 99 | [SHE LUV](https://open.spotify.com/track/6qhQ8NGCH0abKGt4EDkK4D) | [iBXRHM](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ) | [SHE LUV](https://open.spotify.com/album/4mYwxlxfsJVOPGQPaMvV2j) | 2:00 |
 | 100 | [SKSB](https://open.spotify.com/track/1T5x3ZGEnKMkyfqDsJ08Hi) | [KA1 BANK$](https://open.spotify.com/artist/4aUOtMVN8BHI12rGLJI26m) | [SKSB](https://open.spotify.com/album/7BIfgx4RCUilGBOI2LbL00) | 2:33 |
 
 Snapshot ID: `ZuzzQAAAAACV0K7GUu5lNCcSpbY8z2zI`

@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-479 songs - 20 hr 54 min
+480 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Prenzlauer Berg](https://open.spotify.com/track/0e3y5hjse0J123DuRwJPbd) | [Patricia Aveline](https://open.spotify.com/artist/0yUDeJSQPp9jciPAg9yoFg) | [Prenzlauer Berg](https://open.spotify.com/album/31IU85yqqwUcmLtfXYx1jv) | 2:12 | 2023-03-10 | 2024-03-26 |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2023-03-10 | 2024-03-26 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2023-03-10 |  |
+| [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 | 2024-09-24 |  |
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2023-03-10 |  |
 | [Primrose Season](https://open.spotify.com/track/7J30n95D8gL4YLiuQKQZ9d) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Primrose Season](https://open.spotify.com/album/2MHhCclPZcBT0Sxv9ho322) | 2:38 | 2023-10-10 |  |
 | [Promenade](https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [Promenade](https://open.spotify.com/album/2Aamlg8UdJK3C1rAs4cuWq) | 2:10 | 2023-03-10 |  |

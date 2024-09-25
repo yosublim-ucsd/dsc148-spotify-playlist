@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Cold Summer",
+        "url": "https://open.spotify.com/album/1t5svLayuVhJFZ7KZKlLAK"
+      },
+      "artists": [
+        {
+          "name": "Certain Animals",
+          "url": "https://open.spotify.com/artist/63B62h8zh5sHiv6iCvHMhZ"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270747,
+      "name": "Cold Summer",
+      "url": "https://open.spotify.com/track/1pzU73UQLA3PhwwBQLQZPC"
+    },
+    {
+      "album": {
         "name": "Come Off The Phone",
         "url": "https://open.spotify.com/album/1uxkh67xEz7IMmfTx5RiGe"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 221754,
       "name": "Darkest of Days",
       "url": "https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM"
@@ -2804,6 +2822,28 @@
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "album": {
+        "name": "Great Mother",
+        "url": "https://open.spotify.com/album/1YAPjGmiG8biVJ3gG0VpG8"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        },
+        {
+          "name": "Neco Novellas",
+          "url": "https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197659,
+      "name": "Great Mother",
+      "url": "https://open.spotify.com/track/6asUfv4GXmItT5xVtFb4EZ"
     },
     {
       "album": {
@@ -5291,6 +5331,24 @@
     },
     {
       "album": {
+        "name": "Nowhere Land",
+        "url": "https://open.spotify.com/album/6tjCEVetoGY7QpT48AtF3W"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205715,
+      "name": "Nowhere Land",
+      "url": "https://open.spotify.com/track/2dGEIUrdFbP20hpdoa3U0j"
+    },
+    {
+      "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
       },
@@ -5392,7 +5450,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 294557,
       "name": "One Day",
       "url": "https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi"
@@ -5836,7 +5894,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 192278,
       "name": "Queen of my Castle",
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
@@ -5930,6 +5988,24 @@
       "duration_ms": 183668,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz"
+    },
+    {
+      "album": {
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Routines In The Night",
+      "url": "https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ"
     },
     {
       "album": {
@@ -6320,7 +6396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"

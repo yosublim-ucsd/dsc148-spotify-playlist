@@ -7343,6 +7343,28 @@
     },
     {
       "album": {
+        "name": "Ferrari (feat. Ashafar)",
+        "url": "https://open.spotify.com/album/4QjnkhKmlJANHbTeFQvIvX"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Ferrari (feat. Ashafar)",
+      "url": "https://open.spotify.com/track/62D9lGyB5lMlYp2xFKba6h"
+    },
+    {
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },

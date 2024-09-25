@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 鶴  \(The Crane\)
 
-676 songs - 1 day 15 hr 6 min
+677 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I've been thinking about you all day and all night](https://open.spotify.com/track/7k5b866cwiko3hAk5Jc9QN) | [Potato馬鈴薯小弟](https://open.spotify.com/artist/0riRJxCMWZWKHfFcLpkpGq), [Woosic](https://open.spotify.com/artist/2Fw2S8a321wjtk7uyAOVTL) | [I've been thinking about you all day and all night](https://open.spotify.com/album/55Z6dwW11mHxyQegektWRP) | 3:32 | 2024-09-12 |  |
 | [If I Tell Lies](https://open.spotify.com/track/6JUheBvRFEtkq2ENhCaaZB) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [If I Tell Lies](https://open.spotify.com/album/3MmjUVfe6eqYfncDIFC0vW) | 3:37 | 2024-09-05 | 2024-09-13 |
 | [im just burnt...](https://open.spotify.com/track/04TFFzN49UNIjEl7odaTvr) | [Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [im just burnt...](https://open.spotify.com/album/4P5VrFSd9fLeUdw49qnkfg) | 3:39 | 2024-08-22 | 2024-09-13 |
+| [Intro+羽球少年 \- Live Session](https://open.spotify.com/track/3faHeia7CQNoaLXKHogy87) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [BYE BYE LOVE \(Live Session\)](https://open.spotify.com/album/3WKi0r3ZVdD3vO7XR0zefK) | 7:03 | 2024-09-19 |  |
 | [IU](https://open.spotify.com/track/2Hq5ucFvhUeLOdsNiSagGc) | [Yaka](https://open.spotify.com/artist/4fODbCHhX4Q2ro3O5CyrSA), [Death Souljah](https://open.spotify.com/artist/7cR5NVExHuLAIqS8fU5RFo), [P\-Kid](https://open.spotify.com/artist/3J5rbSnj1rXIu8dlwnv3xd) | [IU](https://open.spotify.com/album/00G9zXV0CZ5z7cIU1bag5J) | 3:57 | 2024-07-18 | 2024-08-02 |
 | [Jalan（路）](https://open.spotify.com/track/78Ls01UIgYRGDc0WEoyRIN) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [南洋探險隊](https://open.spotify.com/album/5t8dA0pNIPnyBv1jeXuO9f) | 3:20 | 2024-07-18 | 2024-08-09 |
 | [Jealous](https://open.spotify.com/track/4lF2kssop0c1OGpmclJXg1) | [溫璽揚](https://open.spotify.com/artist/2Fijvd4HSZroOdzEapceP1) | [Jealous](https://open.spotify.com/album/0G056kh8ZmJr072MFx6DN9) | 3:04 | 2024-06-27 | 2024-07-05 |

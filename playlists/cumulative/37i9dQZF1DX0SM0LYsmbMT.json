@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 138000,
       "name": "Back into Time",
       "url": "https://open.spotify.com/track/20THb4yF039Sea9oWiSVtq"
@@ -11230,6 +11230,10 @@
         {
           "name": "Kid Tar\u00f4",
           "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
         }
       ],
       "date_added": "2024-02-15",
@@ -32035,6 +32039,32 @@
     },
     {
       "album": {
+        "name": "Casciana Terme",
+        "url": "https://open.spotify.com/album/3Ld1mNmDBIgHdNtEWUclIZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "DEOVI",
+          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Hot Spa",
+      "url": "https://open.spotify.com/track/4GE53NTapO0DqQ5dORqqKZ"
+    },
+    {
+      "album": {
         "name": "Hotel Dining in London",
         "url": "https://open.spotify.com/album/4qPCwNBOZGHhAVJp6DEIVJ"
       },
@@ -43814,6 +43844,28 @@
       "duration_ms": 135307,
       "name": "Makai",
       "url": "https://open.spotify.com/track/7fx7zEmhQwf8hm5lnXYP3V"
+    },
+    {
+      "album": {
+        "name": "Make Sense",
+        "url": "https://open.spotify.com/album/5Kivq4ZOaoqWTNK04q7sQS"
+      },
+      "artists": [
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Make Sense",
+      "url": "https://open.spotify.com/track/65Ww5deVlXovvVWkWig1J1"
     },
     {
       "album": {
@@ -60714,7 +60766,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 117216,
       "name": "River And Sea",
       "url": "https://open.spotify.com/track/58G5JNr9Q0qzXLGIq7wcaj"

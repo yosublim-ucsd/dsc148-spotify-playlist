@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34664,
+  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
+  "num_followers": 34663,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAAD+jY+HqICvOD1w/ZWSbSKw",
+  "snapshot_id": "ZvCvgAAAAADSABGvVrvRaBs6+E85uMQc",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se o Port\u00e3o Tiver Trancado",
         "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 103105,
       "name": "Se o Port\u00e3o Tiver Trancado",
       "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1427,22 +1427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foi Bate Bate",
-        "url": "https://open.spotify.com/album/2kmG2VoE2lf4YwKIT2bFG5"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 211633,
-      "name": "Foi Bate Bate",
-      "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9 S\u00f3 Pirocad\u00e3o (Brega Funk Remix)",
         "url": "https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 121600,
       "name": "\u00c9 S\u00f3 Pirocad\u00e3o - Brega Funk Remix",
       "url": "https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foi Bate Bate",
+        "url": "https://open.spotify.com/album/2kmG2VoE2lf4YwKIT2bFG5"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 211633,
+      "name": "Foi Bate Bate",
+      "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
     },
     {
       "added_at": null,
@@ -1555,38 +1555,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosso Flow",
-        "url": "https://open.spotify.com/album/23PQic09eUSgs6yrFmMmFc"
+        "name": "CORO COM CO\u00c7A",
+        "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 281904,
-      "name": "Nosso Flow",
-      "url": "https://open.spotify.com/track/6ZnuZCWtUOQQhO3iZRP6Ix"
+      "duration_ms": 177230,
+      "name": "J\u00c1 ERA TARDE",
+      "url": "https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X"
     }
   ],
   "unique_name": "This Is Mc Dricka",

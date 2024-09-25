@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Holy One Where Art Though",
+        "url": "https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht"
+      },
+      "artists": [
+        {
+          "name": "J Stepan",
+          "url": "https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123448,
+      "name": "Holy One Where Art Though",
+      "url": "https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q"
+    },
+    {
+      "album": {
         "name": "Hymns of the Lord",
         "url": "https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74"
       },

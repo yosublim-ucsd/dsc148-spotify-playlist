@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
+> Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:1FYE37rOHOrxO1lHAQUkCl">Antoine Bradford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,472 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,490 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 84 | [The Way You Act](https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [The Way You Act](https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9) | 2:10 |
 | 85 | [POP UP](https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 2](https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh) | 4:05 |
 
-Snapshot ID: `ZpqSXQAAAACEIag7dWKwufISKGeRMCfr`
+Snapshot ID: `ZvMqiAAAAABscQ7GtwGxdzLCcnExnjlJ`

@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Solo Stroll",
+        "url": "https://open.spotify.com/album/1C4CBb9HOLqMyQUmWVMlhq"
+      },
+      "artists": [
+        {
+          "name": "Holgar Ingeldson",
+          "url": "https://open.spotify.com/artist/1yJ4WtOgFB4k9NYCNvWCvL"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Solo Stroll",
+      "url": "https://open.spotify.com/track/5Gug122LEQi3zHI0fomUgi"
+    },
+    {
+      "album": {
         "name": "Someone Else's Memories",
         "url": "https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30"
       },

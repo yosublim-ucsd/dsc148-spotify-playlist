@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 102829,
+  "num_followers": 102892,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214000,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+      },
+      "artists": [
+        {
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
@@ -1151,8 +1135,24 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
+      "duration_ms": 181333,
+      "name": "Ineffable",
+      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/0jMoYHIN3bfKQ6CruDzTAt"
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Ineffable",
-      "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
+      "duration_ms": 234160,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Northwarder",
-        "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
-      },
-      "artists": [
-        {
-          "name": "Cursebitten",
-          "url": "https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38"
-        }
-      ],
-      "duration_ms": 211418,
-      "name": "The Biting Air, the Howling Wind",
-      "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+        "name": "Northwarder",
+        "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
       },
       "artists": [
         {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+          "name": "Cursebitten",
+          "url": "https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38"
         }
       ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+      "duration_ms": 211418,
+      "name": "The Biting Air, the Howling Wind",
+      "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1431,6 +1415,38 @@
       "duration_ms": 405400,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
         "name": "Sound Study Four",
         "url": "https://open.spotify.com/album/7k68DOmu9jG4RJvG0VveGu"
       },
@@ -1487,30 +1487,6 @@
       "duration_ms": 438539,
       "name": "Sound Study Four",
       "url": "https://open.spotify.com/track/0d3XErjZJDoJr7XgjncNXr"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
-        "name": "Zero Gravity",
-        "url": "https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox"
-      },
-      "artists": [
-        {
-          "name": "Rippling",
-          "url": "https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG"
-        },
-        {
-          "name": "CONNXCT",
-          "url": "https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B"
-        },
-        {
-          "name": "William Cas",
-          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
-        }
-      ],
-      "duration_ms": 159818,
-      "name": "Zero Gravity",
-      "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1543,6 +1519,30 @@
       "duration_ms": 270962,
       "name": "Skyline Drive",
       "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox"
+      },
+      "artists": [
+        {
+          "name": "Rippling",
+          "url": "https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG"
+        },
+        {
+          "name": "CONNXCT",
+          "url": "https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B"
+        },
+        {
+          "name": "William Cas",
+          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "Zero Gravity",
+      "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"
     },
     {
       "added_at": "2024-05-28 18:52:48",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-05-28 18:52:48",
       "album": {
+        "name": "Raising Your Voice... Trying to Stop an Echo",
+        "url": "https://open.spotify.com/album/5oixCadw77lgY0qTWMPm5r"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 253146,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/3LHINSuy4dL5Lgvg0q8M2k"
+    },
+    {
+      "added_at": "2024-05-28 18:52:48",
+      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK"
-    },
-    {
-      "added_at": "2024-05-28 18:52:48",
-      "album": {
-        "name": "Maybe They Will Sing for Us Tomorrow",
-        "url": "https://open.spotify.com/album/7gi9H6xQKjHG4KlPn9bYsS"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Maybe They Will Sing for Us Tomorrow",
-      "url": "https://open.spotify.com/track/7mYRgsciCSgPPPcRNSghuQ"
     },
     {
       "added_at": "2024-05-28 18:52:48",

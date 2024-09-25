@@ -1,6 +1,6 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Lara Somogyi.",
-  "num_followers": 112849,
+  "num_followers": 112886,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "Mists Inhabit This Place",
         "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
@@ -623,22 +643,6 @@
       "duration_ms": 230213,
       "name": "Mists Inhabit This Place",
       "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -659,22 +663,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
       },
       "artists": [
         {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        },
-        {
-          "name": "Ate's Calling",
-          "url": "https://open.spotify.com/artist/6Fk5Kc6ctSb1K5lBxqgCx3"
-        }
-      ],
-      "duration_ms": 153120,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Mirror Music",
         "url": "https://open.spotify.com/album/32Hr30Ahgal5QIXdpOcvNE"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 216917,
       "name": "Mirror 8",
       "url": "https://open.spotify.com/track/77AIHy7pkYwRKfa1nM6hlR"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        },
+        {
+          "name": "Ate's Calling",
+          "url": "https://open.spotify.com/artist/6Fk5Kc6ctSb1K5lBxqgCx3"
+        }
+      ],
+      "duration_ms": 153120,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -899,6 +899,22 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 290856,
+      "name": "River Oblivion",
+      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 290856,
-      "name": "River Oblivion",
-      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 218743,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "Canto Ostinato",
+        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
+      },
+      "artists": [
+        {
+          "name": "Simeon ten Holt",
+          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
+        },
+        {
+          "name": "Erik Hall",
+          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
+        }
+      ],
+      "duration_ms": 776394,
+      "name": "Sections 1-16",
+      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Retour",
-        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        },
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 425440,
-      "name": "Retour",
-      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 207315,
       "name": "Dancing leaves",
       "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "Retour",
+        "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        },
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 425440,
+      "name": "Retour",
+      "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1115,42 +1135,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Canto Ostinato",
-        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
-      },
-      "artists": [
-        {
-          "name": "Simeon ten Holt",
-          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
-        },
-        {
-          "name": "Erik Hall",
-          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
-        }
-      ],
-      "duration_ms": 776394,
-      "name": "Sections 1-16",
-      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "We All Have Places That We Miss",
         "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 310000,
       "name": "Remembered Words",
       "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "LYS",
         "url": "https://open.spotify.com/album/3LHe1BsZZVZ5m7Mw4FxxPy"
       },
@@ -1231,42 +1247,6 @@
       "duration_ms": 229817,
       "name": "Sol Levante",
       "url": "https://open.spotify.com/track/6MyFal8h8ZENjR8fXlViPT"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "In All This Heavy Blue",
-        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        }
-      ],
-      "duration_ms": 276610,
-      "name": "In All This Heavy Blue",
-      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1331,6 +1311,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "A Light Without Flame",
         "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
@@ -1347,18 +1343,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+        "name": "In All This Heavy Blue",
+        "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
       },
       "artists": [
         {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
         }
       ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
+      "duration_ms": 276610,
+      "name": "In All This Heavy Blue",
+      "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Gleam (Stilhed Rework)",
+        "url": "https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        },
+        {
+          "name": "Stilhed",
+          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "Gleam - Stilhed Rework",
+      "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Gleam (Stilhed Rework)",
-        "url": "https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB"
-      },
-      "artists": [
-        {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
-        },
-        {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "Gleam - Stilhed Rework",
-      "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 244531,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
-      },
-      "artists": [
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
-        }
-      ],
-      "duration_ms": 244531,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "Star of the County Down (Matt Robertson Ambient Mix)",
         "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
       },
@@ -1991,18 +2007,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
       },
       "artists": [
         {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+          "name": "Nick Box",
+          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+      "duration_ms": 214153,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2031,18 +2047,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
+        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
+        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
       },
       "artists": [
         {
-          "name": "Nick Box",
-          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
+      "duration_ms": 151695,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
-        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 151695,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 249813,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2259,6 +2275,22 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "knowledge",
+        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco Castro",
+          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
+        }
+      ],
+      "duration_ms": 299428,
+      "name": "knowledge",
+      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "Piano Day At the Rails (Live)",
         "url": "https://open.spotify.com/album/0ChXtnHr9x5MGZMDQAgOTH"
       },
@@ -2283,18 +2315,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "knowledge",
-        "url": "https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ"
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
       "artists": [
         {
-          "name": "Gian Marco Castro",
-          "url": "https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6"
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
         }
       ],
-      "duration_ms": 299428,
-      "name": "knowledge",
-      "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
+      "duration_ms": 318280,
+      "name": "Super Hexacordum - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2315,22 +2347,6 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "Super Hexacordum - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2423,6 +2439,26 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Grafskrift",
+        "url": "https://open.spotify.com/album/7HP2tqN6U7lpSmQHaldwZI"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "duration_ms": 151853,
+      "name": "Grafskrift",
+      "url": "https://open.spotify.com/track/1nx2J8SyOuz3ITycgMFRsV"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "The Art of Dreaming",
         "url": "https://open.spotify.com/album/0DE1sgt9NZZUQE0XkG2uv6"
       },
@@ -2443,26 +2479,6 @@
       "duration_ms": 237706,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/01U5Cbupt4k0pbef8kDi7H"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Grafskrift",
-        "url": "https://open.spotify.com/album/7HP2tqN6U7lpSmQHaldwZI"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        },
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        }
-      ],
-      "duration_ms": 151853,
-      "name": "Grafskrift",
-      "url": "https://open.spotify.com/track/1nx2J8SyOuz3ITycgMFRsV"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2535,22 +2551,6 @@
       "duration_ms": 341013,
       "name": "P\u00e1th\u0113",
       "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Back to Loneliness",
-        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
-      },
-      "artists": [
-        {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
-        }
-      ],
-      "duration_ms": 257152,
-      "name": "Back to Loneliness",
-      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2723,18 +2723,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Diane",
-        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
+        "name": "Epilogue, Pt. 1",
+        "url": "https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p"
       },
       "artists": [
         {
-          "name": "Daniel Pioro",
-          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
+          "name": "Todd & Klein",
+          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
         }
       ],
-      "duration_ms": 237563,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
+      "duration_ms": 180062,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2791,34 +2791,34 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Epilogue, Pt. 1",
-        "url": "https://open.spotify.com/album/56A14A6JdE5Cxxw4YKqL8p"
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
       },
       "artists": [
         {
-          "name": "Todd & Klein",
-          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
         }
       ],
-      "duration_ms": 180062,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
+      "duration_ms": 237563,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
     },
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "to be found",
-        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
+        "name": "Redivider",
+        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
       },
       "artists": [
         {
-          "name": "Marius Nitzbon",
-          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
         }
       ],
-      "duration_ms": 169750,
-      "name": "to be found",
-      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
+      "duration_ms": 246666,
+      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
+      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2843,38 +2843,18 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "The Misanthropes",
-        "url": "https://open.spotify.com/album/77OEx1HTPgOzj8ikx9RZB0"
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
       },
       "artists": [
         {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Abul Mogard",
-          "url": "https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7"
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
         }
       ],
-      "duration_ms": 251800,
-      "name": "The Misanthropes",
-      "url": "https://open.spotify.com/track/67bRAhNkNMfMwekNTtX1VV"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
-      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
+      "duration_ms": 169750,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2891,6 +2871,26 @@
       "duration_ms": 208000,
       "name": "The National Trust Range Of Paints Colour Card - Instrumental Version",
       "url": "https://open.spotify.com/track/54KwGqYe4xAaLA8RIqWsFY"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
+        "name": "The Misanthropes",
+        "url": "https://open.spotify.com/album/77OEx1HTPgOzj8ikx9RZB0"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        },
+        {
+          "name": "Abul Mogard",
+          "url": "https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "The Misanthropes",
+      "url": "https://open.spotify.com/track/67bRAhNkNMfMwekNTtX1VV"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Oath",
-        "url": "https://open.spotify.com/album/1vPCZ1h5SyB5DicmVcM7x3"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogerson",
-          "url": "https://open.spotify.com/artist/0iONcDu4zVlsw1LwIq4rrN"
-        }
-      ],
-      "duration_ms": 276033,
-      "name": "Oath",
-      "url": "https://open.spotify.com/track/5GHx3rKnPSrZLgHREGTW49"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Critical Spirit - Live",
         "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
       },
@@ -2959,8 +2943,24 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Oath",
+        "url": "https://open.spotify.com/album/1vPCZ1h5SyB5DicmVcM7x3"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogerson",
+          "url": "https://open.spotify.com/artist/0iONcDu4zVlsw1LwIq4rrN"
+        }
+      ],
+      "duration_ms": 276033,
+      "name": "Oath",
+      "url": "https://open.spotify.com/track/5GHx3rKnPSrZLgHREGTW49"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "Grains of Gold",
-        "url": "https://open.spotify.com/album/0Vecaj0BC8QYqMGhQLnDGF"
+        "url": "https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW"
       },
       "artists": [
         {
@@ -2968,9 +2968,9 @@
           "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 197360,
-      "name": "Grains of Gold",
-      "url": "https://open.spotify.com/track/5v7pQPsysLm14B8S8FjkZL"
+      "duration_ms": 282760,
+      "name": "Fastelavn",
+      "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
     },
     {
       "added_at": "2024-09-13 12:53:04",
@@ -3059,6 +3059,34 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
+        "name": "Rose In Abstract",
+        "url": "https://open.spotify.com/album/6Hc12NeN4AfqHtdXhUvV6O"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Morris Kliphuis",
+          "url": "https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "duration_ms": 298145,
+      "name": "Rose in Abstract",
+      "url": "https://open.spotify.com/track/2cbVl45bfPrJ5LkffGXEgd"
+    },
+    {
+      "added_at": "2024-09-13 12:53:04",
+      "album": {
         "name": "\u00e6vi",
         "url": "https://open.spotify.com/album/1fNG8AKXTWhdcc8OWVMzFs"
       },
@@ -3099,36 +3127,8 @@
     {
       "added_at": "2024-09-13 12:53:04",
       "album": {
-        "name": "Rose In Abstract",
-        "url": "https://open.spotify.com/album/6Hc12NeN4AfqHtdXhUvV6O"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Morris Kliphuis",
-          "url": "https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl"
-        },
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        }
-      ],
-      "duration_ms": 298145,
-      "name": "Rose in Abstract",
-      "url": "https://open.spotify.com/track/2cbVl45bfPrJ5LkffGXEgd"
-    },
-    {
-      "added_at": "2024-09-13 12:53:04",
-      "album": {
         "name": "Grains of Gold",
-        "url": "https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW"
+        "url": "https://open.spotify.com/album/0Vecaj0BC8QYqMGhQLnDGF"
       },
       "artists": [
         {
@@ -3136,9 +3136,9 @@
           "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Fastelavn",
-      "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
+      "duration_ms": 197360,
+      "name": "Grains of Gold",
+      "url": "https://open.spotify.com/track/5v7pQPsysLm14B8S8FjkZL"
     },
     {
       "added_at": "2024-09-13 12:53:04",

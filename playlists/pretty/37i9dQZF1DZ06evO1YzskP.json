@@ -1,12 +1,12 @@
 {
   "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 38304,
+  "num_followers": 38430,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAADf1o0mYJbvkCGbnnzrwqqg",
+  "snapshot_id": "ZvCvgAAAAABlWXCVdsVFcdywduEQ4b5h",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isidro El Chapo",
         "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 168720,
       "name": "Isidro El Chapo",
       "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,

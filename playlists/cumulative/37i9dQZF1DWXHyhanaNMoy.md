@@ -4,7 +4,7 @@
 
 > Elke dag een exclusieve track van Dopebwoy in La Vida Loca!
 
-1,117 songs - 2 day 2 hr 13 min
+1,118 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Feelings](https://open.spotify.com/track/32PnKK56VRTreShYsT8nkZ) | [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo) | [Feelings](https://open.spotify.com/album/1e0GV3MYOXmVi49TdZIxaI) | 3:04 | 2023-02-16 | 2023-02-21 |
 | [FEELINGS](https://open.spotify.com/track/1btcjhW4ee8dzr6m827KYH) | [Syllaa](https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52), [MELL](https://open.spotify.com/artist/0oU4JPyGHFpmq8oNyfkrk7) | [FEELINGS](https://open.spotify.com/album/4QuGt1tm0WIP5qKWa1SNSw) | 2:32 | 2024-09-05 | 2024-09-20 |
 | [Ferrari](https://open.spotify.com/track/262y8IGwj4Iez6HspjzBV7) | [Tres Navy](https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o) | [Ferrari](https://open.spotify.com/album/7zofIfcAejL89Vu2ITkxHf) | 2:26 | 2023-09-21 | 2023-09-29 |
+| [Ferrari \(feat\. Ashafar\)](https://open.spotify.com/track/62D9lGyB5lMlYp2xFKba6h) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Ferrari \(feat\. Ashafar\)](https://open.spotify.com/album/4QjnkhKmlJANHbTeFQvIvX) | 3:03 | 2024-09-24 |  |
 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 | 2024-04-25 | 2024-08-02 |
 | [FICHAJE DEL AÑO](https://open.spotify.com/track/4zOvp2BysciDInodYHUtOJ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [FICHAJE DEL AÑO](https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q) | 3:13 | 2024-07-26 | 2024-09-13 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-01-26 | 2023-04-14 |

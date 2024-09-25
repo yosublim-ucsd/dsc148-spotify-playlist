@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg?si=Qx3KtNzhRbmTS3S3en4wlw">Lee McKrazy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,556 likes - 55 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,116 likes - 55 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

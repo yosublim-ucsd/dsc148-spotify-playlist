@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Mart Hoogkamer",
-  "num_followers": 147941,
+  "num_followers": 147998,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvHk4AAAAAAqtzE84+MvKeG+Gaky/l6i",
+  "snapshot_id": "ZvJ2cgAAAAAxxfoM5sHW5qIYHEPfphQq",
   "tracks": [
     {
       "added_at": "2024-09-19 22:00:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-09-19 22:00:00",
       "album": {
+        "name": "Dit Gaat over jou",
+        "url": "https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz"
+      },
+      "artists": [
+        {
+          "name": "Marvin de Geest",
+          "url": "https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES"
+        }
+      ],
+      "duration_ms": 172969,
+      "name": "Dit Gaat Over jou",
+      "url": "https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW"
+    },
+    {
+      "added_at": "2024-09-19 22:00:00",
+      "album": {
         "name": "Space Piloot",
         "url": "https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 157358,
       "name": "Geld Maakt Niet Gelukkig",
       "url": "https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Dit Gaat over jou",
-        "url": "https://open.spotify.com/album/4Nx2zRWsXRNjNhlk49yLcz"
-      },
-      "artists": [
-        {
-          "name": "Marvin de Geest",
-          "url": "https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES"
-        }
-      ],
-      "duration_ms": 172969,
-      "name": "Dit Gaat Over jou",
-      "url": "https://open.spotify.com/track/1JhL0QSTrUzaN9JObjxPLW"
     },
     {
       "added_at": "2024-09-19 22:00:00",

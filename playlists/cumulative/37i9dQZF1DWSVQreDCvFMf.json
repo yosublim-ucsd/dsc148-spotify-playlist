@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 236444,
       "name": "Alitaptap",
       "url": "https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 203883,
       "name": "Atin Ang Walang Hanggan",
       "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
@@ -218,6 +218,24 @@
       "duration_ms": 297066,
       "name": "Awitin Mo, Isasayaw Ko",
       "url": "https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc"
+    },
+    {
+      "album": {
+        "name": "Aya",
+        "url": "https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230058,
+      "name": "Aya",
+      "url": "https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON"
     },
     {
       "album": {
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 173877,
       "name": "Biglaan",
       "url": "https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 194459,
       "name": "I'll Be Somebody You Want",
       "url": "https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 292007,
       "name": "Kumusta",
       "url": "https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 258048,
       "name": "Langit",
       "url": "https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi"
@@ -1607,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "morenita",
+        "url": "https://open.spotify.com/album/3gFgsuVf4OXdH2CBRsggsO"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "morenita",
+      "url": "https://open.spotify.com/track/33uxA28bUvEG6LkA5DtbkT"
+    },
+    {
+      "album": {
         "name": "Mula sa Malayo",
         "url": "https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z"
       },
@@ -1622,6 +1658,24 @@
       "duration_ms": 164093,
       "name": "Mula sa Malayo",
       "url": "https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW"
+    },
+    {
+      "album": {
+        "name": "Multo",
+        "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
     },
     {
       "album": {
@@ -1766,7 +1820,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
@@ -2091,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "L8ching",
+          "url": "https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188558,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7"
+    },
+    {
+      "album": {
         "name": "Puntirya",
         "url": "https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug"
       },
@@ -2102,7 +2178,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 223636,
       "name": "Puntirya",
       "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
@@ -2164,6 +2240,24 @@
       "duration_ms": 180000,
       "name": "Sabado Night",
       "url": "https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y"
+    },
+    {
+      "album": {
+        "name": "Safe Ka Sa\u2019kin",
+        "url": "https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Safe Ka Sa\u2019kin",
+      "url": "https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4"
     },
     {
       "album": {
@@ -2236,7 +2330,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 196666,
       "name": "sana hindi na lang",
       "url": "https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN"
@@ -2294,6 +2388,24 @@
       "duration_ms": 192099,
       "name": "Sariling Mundo",
       "url": "https://open.spotify.com/track/3QWCnRuQW5P602ZzHXLv7Z"
+    },
+    {
+      "album": {
+        "name": "Segundo",
+        "url": "https://open.spotify.com/album/1OhAOWaVJCuItMgClMJSGD"
+      },
+      "artists": [
+        {
+          "name": "7th",
+          "url": "https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306083,
+      "name": "Segundo",
+      "url": "https://open.spotify.com/track/5AzpxgMNopyCH4JU9FxOIE"
     },
     {
       "album": {
@@ -2464,7 +2576,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 286500,
       "name": "Sori",
       "url": "https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq"
@@ -2544,6 +2656,28 @@
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "album": {
+        "name": "Suyo",
+        "url": "https://open.spotify.com/album/62fwSalB8q4WHm7lgOLLco"
+      },
+      "artists": [
+        {
+          "name": "Dreycruz",
+          "url": "https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf"
+        },
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Suyo",
+      "url": "https://open.spotify.com/track/1luVrWeeMFsZIfAln55hg8"
     },
     {
       "album": {
@@ -2634,7 +2768,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 234866,
       "name": "Things You Said (feat. Moira Dela Torre)",
       "url": "https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB"
@@ -2880,7 +3014,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 225453,
       "name": "Your Universe - GG Official Soundtrack",
       "url": "https://open.spotify.com/track/2jfU598QxlKwKwTaiPZhzp"

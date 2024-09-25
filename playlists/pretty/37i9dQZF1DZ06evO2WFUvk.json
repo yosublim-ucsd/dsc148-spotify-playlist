@@ -1,12 +1,12 @@
 {
-  "description": "This is Rodrigo Gonzalez. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 3499,
+  "description": "This Is Rodrigo Gonzalez. Los temas esenciales, todos en una lista.",
+  "num_followers": 3500,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAAAegsIOHNoB71UFc6X1Mmph",
+  "snapshot_id": "ZvCvgAAAAAC4ZG0irKVi6ooaglwWrEs9",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Las Aventuras En El Defe",
-      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Diva Francesa",
-      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+      "duration_ms": 206960,
+      "name": "Las Aventuras En El Defe",
+      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
     },
     {
       "added_at": null,

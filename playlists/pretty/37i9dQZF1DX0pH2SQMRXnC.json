@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1337047,
+  "num_followers": 1337289,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Symphony Of Life",
-        "url": "https://open.spotify.com/album/2Vi8eFOtslnTXVNs5VsgSD"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 226583,
-      "name": "Symphony Of Life",
-      "url": "https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Symphony Of Life",
+        "url": "https://open.spotify.com/album/2Vi8eFOtslnTXVNs5VsgSD"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 226583,
+      "name": "Symphony Of Life",
+      "url": "https://open.spotify.com/track/1v5FsB6y2kNrLVjtQuuKE8"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "LASER",
-        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 188885,
-      "name": "LASER",
-      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "LASER",
+        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 188885,
+      "name": "LASER",
+      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
         "name": "Till I Collapse",
         "url": "https://open.spotify.com/album/38wErlxsJZ55IxGjT3Zq0c"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 158007,
       "name": "Till I Collapse",
       "url": "https://open.spotify.com/track/2G5pp5lBvvOZobxOhimIh6"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 325494,
-      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
-      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Crunch",
         "url": "https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+        "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0oObHHYsI5qalv9UMSOz6n"
       },
       "artists": [
         {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
+      "duration_ms": 325494,
+      "name": "Power of the Tribe (Defqon.1 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0Bwq1DvIe3YSN2nVQ1n5Am"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1519,22 +1499,22 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Warrior Cry",
-        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
         },
         {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
         }
       ],
-      "duration_ms": 207483,
-      "name": "Warrior Cry",
-      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1555,6 +1535,26 @@
       "duration_ms": 248484,
       "name": "INTO THE WILD - Official Intents Festival 2024 Anthem",
       "url": "https://open.spotify.com/track/0uB4Gw3Qggi9dxHnH3FNp5"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Warrior Cry",
+        "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 207483,
+      "name": "Warrior Cry",
+      "url": "https://open.spotify.com/track/3MKGucsbvdG7RgfoFOqDaj"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Cambodia",
-        "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
-      },
-      "artists": [
-        {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
-        },
-        {
-          "name": "Regi",
-          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
-        }
-      ],
-      "duration_ms": 158940,
-      "name": "Cambodia",
-      "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Project X",
         "url": "https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 158000,
       "name": "Project X",
       "url": "https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        },
+        {
+          "name": "Regi",
+          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
+        }
+      ],
+      "duration_ms": 158940,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Bring Me To Life",
-        "url": "https://open.spotify.com/album/6zz4nAkQb00Vld0rQpaflZ"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        },
-        {
-          "name": "TCM",
-          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
-        }
-      ],
-      "duration_ms": 275670,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0ybeBySpjF210NlRszIzZM"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1911,6 +1887,30 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/6zz4nAkQb00Vld0rQpaflZ"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        },
+        {
+          "name": "TCM",
+          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+        }
+      ],
+      "duration_ms": 275670,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0ybeBySpjF210NlRszIzZM"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -1947,26 +1947,6 @@
       "duration_ms": 141000,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/0mYZauuxk7kIH8erPBTJE3"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
-        "name": "ONE IN A MILLION",
-        "url": "https://open.spotify.com/album/7MDHanMahglxsPCi2GYasg"
-      },
-      "artists": [
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Sanctuary",
-          "url": "https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ"
-        }
-      ],
-      "duration_ms": 142503,
-      "name": "ONE IN A MILLION",
-      "url": "https://open.spotify.com/track/0fVcAL0U9lQhhEYdBJ8kO4"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2011,6 +1991,26 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
+        "name": "Everything is a Lie",
+        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Everything is a Lie",
+      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/7oEm0ankzz0Is25YkrhUNu"
       },
@@ -2039,46 +2039,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Died In Your Arms (Reloaded)",
-        "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 238455,
-      "name": "Died In Your Arms (Reloaded)",
-      "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
-        "name": "Everything is a Lie",
-        "url": "https://open.spotify.com/album/3m1kM1GIcyoOFXDmHCrAa0"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Everything is a Lie",
-      "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Oh Fortuna",
         "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
@@ -2103,18 +2063,42 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+        "name": "ONE IN A MILLION",
+        "url": "https://open.spotify.com/album/7MDHanMahglxsPCi2GYasg"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Sanctuary",
+          "url": "https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ"
         }
       ],
-      "duration_ms": 234165,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+      "duration_ms": 142503,
+      "name": "ONE IN A MILLION",
+      "url": "https://open.spotify.com/track/0fVcAL0U9lQhhEYdBJ8kO4"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Died In Your Arms (Reloaded)",
+        "url": "https://open.spotify.com/album/3LPz0XaYhxXM3NoqwFQEko"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 238455,
+      "name": "Died In Your Arms (Reloaded)",
+      "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2155,6 +2139,22 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 234165,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
         "name": "Dia De Los Muertos",
         "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
       },
@@ -2191,6 +2191,26 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/1SruYWLrRC5VdxOD23HJsr"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "MC Activate",
+          "url": "https://open.spotify.com/artist/2T6Y1C0xpZYgY2vBKNyr3n"
+        }
+      ],
+      "duration_ms": 204300,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/5NOklCq1LWSmY87eon2Rvp"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
         "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
         "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
       },
@@ -2215,26 +2235,6 @@
       "duration_ms": 238875,
       "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
       "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/1SruYWLrRC5VdxOD23HJsr"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        },
-        {
-          "name": "MC Activate",
-          "url": "https://open.spotify.com/artist/2T6Y1C0xpZYgY2vBKNyr3n"
-        }
-      ],
-      "duration_ms": 204300,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/5NOklCq1LWSmY87eon2Rvp"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2583,6 +2583,26 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
       },
@@ -2623,26 +2643,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Turn The Tide Revisited",
-        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
-      },
-      "artists": [
-        {
-          "name": "Lowriderz",
-          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Turn The Tide Revisited",
-      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Cambodia (Denox Remix)",
         "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
       },
@@ -2679,6 +2679,22 @@
       "duration_ms": 183945,
       "name": "Music Of The Mind",
       "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2743,22 +2759,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Sky Fall",
         "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
       },
@@ -2771,26 +2771,6 @@
       "duration_ms": 215225,
       "name": "Sky Fall",
       "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
-        "name": "We Will Be Legends (I AM HARDSTYLE Anthem 2024)",
-        "url": "https://open.spotify.com/album/6RimnWmvrsCL0QFxGk6B7z"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Thyron",
-          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
-        }
-      ],
-      "duration_ms": 266709,
-      "name": "We Will Be Legends (I AM HARDSTYLE Anthem 2024)",
-      "url": "https://open.spotify.com/track/6SmpFGvDUHHTrrIbZBd4Yf"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2815,6 +2795,26 @@
       "duration_ms": 253159,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6CJBD0mLksTVKd9eJxsX01"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "We Will Be Legends (I AM HARDSTYLE Anthem 2024)",
+        "url": "https://open.spotify.com/album/6RimnWmvrsCL0QFxGk6B7z"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "duration_ms": 266709,
+      "name": "We Will Be Legends (I AM HARDSTYLE Anthem 2024)",
+      "url": "https://open.spotify.com/track/6SmpFGvDUHHTrrIbZBd4Yf"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "UNDRGRND (2024 Rave Edit)",
-        "url": "https://open.spotify.com/album/1uxvyyFdlqXdU3JVbDwTA5"
-      },
-      "artists": [
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        }
-      ],
-      "duration_ms": 193420,
-      "name": "UNDRGRND - 2024 Rave Edit",
-      "url": "https://open.spotify.com/track/6uExvVsJ8G7ZbVfLvhRj4z"
-    },
-    {
-      "added_at": "2024-09-20 07:50:31",
-      "album": {
         "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
         "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 235348,
       "name": "Reflected Reality - Official Shockerz 2023 Anthem",
       "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
+    },
+    {
+      "added_at": "2024-09-20 07:50:31",
+      "album": {
+        "name": "UNDRGRND (2024 Rave Edit)",
+        "url": "https://open.spotify.com/album/1uxvyyFdlqXdU3JVbDwTA5"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "duration_ms": 193420,
+      "name": "UNDRGRND - 2024 Rave Edit",
+      "url": "https://open.spotify.com/track/6uExvVsJ8G7ZbVfLvhRj4z"
     },
     {
       "added_at": "2024-09-20 07:50:31",
@@ -3035,26 +3035,26 @@
     {
       "added_at": "2024-09-20 07:50:31",
       "album": {
-        "name": "360 Blue",
-        "url": "https://open.spotify.com/album/2IUxfPuDJcugI2bwbt6fLv"
+        "name": "Run For Cover (feat. Maikki)",
+        "url": "https://open.spotify.com/album/0o4HJX5cqF12QlPQsuyqXn"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         },
         {
-          "name": "Zany",
-          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "DV8",
-          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 177994,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/0B2ZbGyryoEAmSmRbHndPp"
+      "duration_ms": 274901,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/0sH9yijfwa77I4EwUFueFK"
     }
   ],
   "unique_name": "Hardstyle Bangers",

@@ -573,7 +573,7 @@
         },
         {
           "name": "ZAM",
-          "url": "https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm"
+          "url": "https://open.spotify.com/artist/7k8AX7vkTQ3qRxkJL1EanQ"
         }
       ],
       "date_added": "2024-09-17",
@@ -1198,6 +1198,24 @@
       "duration_ms": 208941,
       "name": "Bloodpressure",
       "url": "https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB"
+    },
+    {
+      "album": {
+        "name": "blu",
+        "url": "https://open.spotify.com/album/4yczkllNRAfDQKofIveoZD"
+      },
+      "artists": [
+        {
+          "name": "Zachz Winner",
+          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75963,
+      "name": "blu",
+      "url": "https://open.spotify.com/track/0UmTv1JVIm9vNhadCw4NrR"
     },
     {
       "album": {

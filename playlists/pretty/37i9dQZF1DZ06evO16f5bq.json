@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 145828,
+  "num_followers": 145915,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu9eAAAAAACC8SMK5dOazc5ZXizDssJP",
+  "snapshot_id": "ZvCvgAAAAACh6fgOaLCP4YhNsewt7Gl+",
   "tracks": [
     {
       "added_at": null,
@@ -1367,6 +1367,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Menino Virou Little Hair",
+        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
+      },
+      "artists": [
+        {
+          "name": "DJ Meek",
+          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
+        },
+        {
+          "name": "MC HULK",
+          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
+        },
+        {
+          "name": "DINDO OG",
+          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
+        },
+        {
+          "name": "DJDAVIDOB13",
+          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
+        },
+        {
+          "name": "DJ Geh da LGD",
+          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "De Menino Virou Little Hair",
+      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
       },
@@ -1423,42 +1459,6 @@
       "duration_ms": 176633,
       "name": "Nosso Momento",
       "url": "https://open.spotify.com/track/0JW7E8cOVpddY5pik4Wtil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Menino Virou Little Hair",
-        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
-      },
-      "artists": [
-        {
-          "name": "DJ Meek",
-          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
-        },
-        {
-          "name": "MC HULK",
-          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
-        },
-        {
-          "name": "DINDO OG",
-          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
-        },
-        {
-          "name": "DJDAVIDOB13",
-          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
-        },
-        {
-          "name": "DJ Geh da LGD",
-          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "De Menino Virou Little Hair",
-      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
     },
     {
       "added_at": null,

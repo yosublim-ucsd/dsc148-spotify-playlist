@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 172195,
+  "num_followers": 172287,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
+        "name": "Srita Martinez Punk",
+        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Srita Martinez Punk",
+      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
         "name": "Cupido en la Barra",
         "url": "https://open.spotify.com/album/6FhwlDXjiy4ooMV4Iqc9JA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 191500,
       "name": "Cupido en la Barra",
       "url": "https://open.spotify.com/track/5X0oKnPbUq1WQyGoas6UAX"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
-        "name": "Srita Martinez Punk",
-        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Srita Martinez Punk",
-      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
     },
     {
       "added_at": "2024-07-12 18:10:47",

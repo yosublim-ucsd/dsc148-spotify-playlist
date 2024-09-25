@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 179083,
+  "num_followers": 179222,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 146090,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "babyface",
-        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 152297,
-      "name": "Seafood",
-      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Bazooka Smooth!",
         "url": "https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 98466,
       "name": "Pillow Case Kisser",
       "url": "https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 152297,
+      "name": "Seafood",
+      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
     },
     {
       "added_at": "2024-07-22 20:24:37",

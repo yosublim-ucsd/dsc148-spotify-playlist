@@ -1,15 +1,63 @@
 {
-  "description": "Celebrating Ethiopian artistry with Samra Origins. Crafted for your coffee moments by The Weeknd & Melaku Belay",
-  "num_followers": 214761,
+  "description": "A pastoral, uplifting pan-African caf\u00e9 sound",
+  "num_followers": 214762,
   "original_name": "Caf\u00e9 Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjnmtwAAAADw7wqScO9OB73qDgNrNB3i",
+  "snapshot_id": "ZvLmLgAAAADdVwgh3+NNM9PZkTeY+jl8",
   "tracks": [
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+        "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "Y\u00e8gell\u00e9 Tezeta",
+      "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiopiques, Vol. 8: Swinging Addis 1969-1974",
+        "url": "https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr"
+      },
+      "artists": [
+        {
+          "name": "Alemayehu Eshete",
+          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Tchero adari negn",
+      "url": "https://open.spotify.com/track/3TTeWmFOLXRrJQmyHYtwkx"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiocolor",
+        "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
+      },
+      "artists": [
+        {
+          "name": "Ethiocolor",
+          "url": "https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe"
+        }
+      ],
+      "duration_ms": 380133,
+      "name": "Otai Ma na",
+      "url": "https://open.spotify.com/track/3GWLm2CwrchB6npaEGbcvX"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiopiques, Vol. 23: Orchestra Ethiopia 1963-1975",
         "url": "https://open.spotify.com/album/0DSKt06HRsqqtHe9zmx5Cp"
@@ -25,7 +73,91 @@
       "url": "https://open.spotify.com/track/1NS4XusV8Zz8FgJNcr5fe7"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Best of Getachew Kassa (Ethiopian Contemporary Oldies Music)",
+        "url": "https://open.spotify.com/album/4BnubGo9y1INZbvAsfpXkc"
+      },
+      "artists": [
+        {
+          "name": "Getachew Kassa",
+          "url": "https://open.spotify.com/artist/5y5AF4ynQmNYvyw3pfcIbj"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Hagerien Atinquat",
+      "url": "https://open.spotify.com/track/7DVUgXzrVb0rXl1tZRRdd9"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Fano (Ethiopian Contemporary Oldies Music",
+        "url": "https://open.spotify.com/album/3rqGBKNqNQa1gdopRePQE3"
+      },
+      "artists": [
+        {
+          "name": "Kassa Tessema",
+          "url": "https://open.spotify.com/artist/0ps1DdcjpQi13usAqP8wnb"
+        }
+      ],
+      "duration_ms": 328186,
+      "name": "Fano",
+      "url": "https://open.spotify.com/track/5BfWxKQ5EWxFcxfwwYvb7V"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/4Sm6fUyEAJ9ZkRUEencEsM"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 347960,
+      "name": "Seydou",
+      "url": "https://open.spotify.com/track/6sBdxZ5BBI8DWMF5uTAlW5"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiopiques, Vol. 7: Er\u00e8 m\u00e8la m\u00e8la 1975-1978",
+        "url": "https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Ahmed",
+          "url": "https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha"
+        }
+      ],
+      "duration_ms": 345386,
+      "name": "Tezeta",
+      "url": "https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiopiques, Vol. 24: Golden years of Modern Ethiopian Music (1969-1975)",
         "url": "https://open.spotify.com/album/4PIVIEBOwwkT5PNhGkrN3o"
@@ -45,103 +177,95 @@
       "url": "https://open.spotify.com/track/5wgAKC4awJYizs0IbOsU2o"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Best of Getachew Kassa (Ethiopian Contemporary Oldies Music)",
-        "url": "https://open.spotify.com/album/4BnubGo9y1INZbvAsfpXkc"
+        "name": "The Tel Aviv Session",
+        "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
       },
       "artists": [
         {
-          "name": "Getachew Kassa",
-          "url": "https://open.spotify.com/artist/5y5AF4ynQmNYvyw3pfcIbj"
+          "name": "The Tour\u00e9-Raichel Collective",
+          "url": "https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh"
+        },
+        {
+          "name": "Idan Raichel",
+          "url": "https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1"
+        },
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
         }
       ],
-      "duration_ms": 289973,
-      "name": "Hagerien Atinquat",
-      "url": "https://open.spotify.com/track/7DVUgXzrVb0rXl1tZRRdd9"
+      "duration_ms": 492320,
+      "name": "Azawade",
+      "url": "https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Ethiopiques, Vol. 7: Er\u00e8 m\u00e8la m\u00e8la 1975-1978",
-        "url": "https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn"
+        "name": "Oumou",
+        "url": "https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI"
       },
       "artists": [
         {
-          "name": "Mahmoud Ahmed",
-          "url": "https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha"
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 345386,
-      "name": "Tezeta",
-      "url": "https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO"
+      "duration_ms": 402266,
+      "name": "Djorolen - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Fano (Ethiopian Contemporary Oldies Music",
-        "url": "https://open.spotify.com/album/3rqGBKNqNQa1gdopRePQE3"
+        "name": "Fatou",
+        "url": "https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT"
       },
       "artists": [
         {
-          "name": "Kassa Tessema",
-          "url": "https://open.spotify.com/artist/0ps1DdcjpQi13usAqP8wnb"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 328186,
-      "name": "Fano",
-      "url": "https://open.spotify.com/track/5BfWxKQ5EWxFcxfwwYvb7V"
+      "duration_ms": 210666,
+      "name": "Sonkolon",
+      "url": "https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Ethiocolor",
-        "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/5RwXYwmHb8FwRdnDyc80gm"
       },
       "artists": [
         {
-          "name": "Ethiocolor",
-          "url": "https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe"
+          "name": "Liboi",
+          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
         }
       ],
-      "duration_ms": 380133,
-      "name": "Otai Ma na",
-      "url": "https://open.spotify.com/track/3GWLm2CwrchB6npaEGbcvX"
+      "duration_ms": 365684,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5ZFMfKOY90FnQYZDMnUguz"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Ernesto Chahoud Presents Taitu \u2013 Soul-Fuelled Stompers from 1960s \u2013 1970s Ethiopia",
-        "url": "https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y"
+        "name": "Rough Guide To Acoustic Africa",
+        "url": "https://open.spotify.com/album/1YKF3I3jOYvJA4CTLJYlhd"
       },
       "artists": [
         {
-          "name": "Seifu Yohannes",
-          "url": "https://open.spotify.com/artist/7CU6ugbVgK5vYSaPFyd0fz"
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 249506,
-      "name": "Mela Mela",
-      "url": "https://open.spotify.com/track/1YC5m4Wm66ieytGeCA72or"
+      "duration_ms": 309840,
+      "name": "Masikini",
+      "url": "https://open.spotify.com/track/0H3hpHngyxYvrDATBxsSJO"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiopiques, Vol. 8: Swinging Addis 1969-1974",
-        "url": "https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr"
-      },
-      "artists": [
-        {
-          "name": "Alemayehu Eshete",
-          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Tchero adari negn",
-      "url": "https://open.spotify.com/track/3TTeWmFOLXRrJQmyHYtwkx"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "The Legends",
         "url": "https://open.spotify.com/album/3jg4j9jhMFNku2OUiJsQRa"
@@ -157,39 +281,7 @@
       "url": "https://open.spotify.com/track/5Un3BBPuilc97RBLDsyht3"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Hasabe",
-        "url": "https://open.spotify.com/album/5pYrJ7IC38fEHudYN7AQ1R"
-      },
-      "artists": [
-        {
-          "name": "Ayalew Mesfin",
-          "url": "https://open.spotify.com/artist/66DQqgrnN1Tfr3e8ChRCw3"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Hasabe (My Worries)",
-      "url": "https://open.spotify.com/track/2SrZDFkUx0bna8oPlR7spy"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
-        "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Y\u00e8gell\u00e9 Tezeta",
-      "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiopiques, Vol. 1: Golden Years of Modern Ethiopian Music 1969-1975",
         "url": "https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ"
@@ -205,7 +297,55 @@
       "url": "https://open.spotify.com/track/6JH7xEakUl6eqOpPzsEUGS"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Discover Music from Africa",
+        "url": "https://open.spotify.com/album/5rAkaAKNJrMurtbjC8FjIt"
+      },
+      "artists": [
+        {
+          "name": "Jackson Ingosi",
+          "url": "https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Imbukula",
+      "url": "https://open.spotify.com/track/0HgitDRLs36qmZ3ljDiQCc"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Putumayo Presents African Caf\u00e9",
+        "url": "https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD"
+      },
+      "artists": [
+        {
+          "name": "Jaja Bashengezi",
+          "url": "https://open.spotify.com/artist/17JrE5cw1UXZbRylwys1Tb"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Ndule",
+      "url": "https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Beautiful Africa",
+        "url": "https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 301640,
+      "name": "Sarama",
+      "url": "https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethio Jazz Vol. 1",
         "url": "https://open.spotify.com/album/06bLVjadObuULEyo6NaZ4z"
@@ -221,7 +361,7 @@
       "url": "https://open.spotify.com/track/3Wy9iddWQ7InfOHISln7JQ"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Nefs Nat",
         "url": "https://open.spotify.com/album/33Ufi5tLbilivnOzWDS24o"
@@ -237,7 +377,7 @@
       "url": "https://open.spotify.com/track/3Z4iTnS8ghRrWBgKUQzsSy"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Hasab\u00e9 and Others (Ethiopiques)",
         "url": "https://open.spotify.com/album/0TxMOWAvkXphdjykS4mDAq"
@@ -253,10 +393,122 @@
       "url": "https://open.spotify.com/track/7I8UGMoawvaY2cHKAQtV5Z"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Ethiopiques, Vol. 14: Negus of Ethiopian Sax",
-        "url": "https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl"
+        "name": "Celebrating Emperor Tewodros II",
+        "url": "https://open.spotify.com/album/46Hr5sW6J9Ro02AqOmo53Z"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Ghermandi",
+          "url": "https://open.spotify.com/artist/65kOUo79VAnY3KLSlkA620"
+        },
+        {
+          "name": "Yohannes Afework",
+          "url": "https://open.spotify.com/artist/4sg8WHFt697sqaEvEmsySU"
+        },
+        {
+          "name": "Endris Hassan",
+          "url": "https://open.spotify.com/artist/3S22bs2bLpIpscRmxjYSEe"
+        },
+        {
+          "name": "Michele Giuliani",
+          "url": "https://open.spotify.com/artist/7MwNSA8qsLd0kBBtfbxAts"
+        },
+        {
+          "name": "Marcello Piarulli",
+          "url": "https://open.spotify.com/artist/43JPaMurizq1fa9KKdnbKa"
+        },
+        {
+          "name": "Fasika Hailu",
+          "url": "https://open.spotify.com/artist/20E2ikHhvy0jFgbcV9pqPf"
+        },
+        {
+          "name": "Cesare Pastanella",
+          "url": "https://open.spotify.com/artist/5QqlZTWbIONXML0zihecw5"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Atse Tewodros",
+      "url": "https://open.spotify.com/track/4CiSj0xjtEZLZghDDETddr"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Mogre",
+        "url": "https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Mogre",
+      "url": "https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Sunlight to My Soul",
+        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Tighten The Skirt",
+        "url": "https://open.spotify.com/album/1uWBhe5ThiiNPC0Il2Ij0i"
+      },
+      "artists": [
+        {
+          "name": "Wiyaala",
+          "url": "https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7"
+        }
+      ],
+      "duration_ms": 197785,
+      "name": "Tighten The Skirt",
+      "url": "https://open.spotify.com/track/68epgNyW7qJd0E9fVBZiSZ"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Fasiya",
+        "url": "https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6"
+      },
+      "artists": [
+        {
+          "name": "Sona Jobarteh",
+          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Saya",
+      "url": "https://open.spotify.com/track/51QzpyWfcrpPAqBLUIDsex"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "G\u00e9tatch\u00e8w M\u00e9kuria and His Saxophone",
+        "url": "https://open.spotify.com/album/5G4iEzL5EnRsHsExyfeHpi"
       },
       "artists": [
         {
@@ -264,28 +516,60 @@
           "url": "https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO"
         }
       ],
-      "duration_ms": 312600,
-      "name": "Shellela",
-      "url": "https://open.spotify.com/track/69xPvlP5i5Rado4veDUQUc"
+      "duration_ms": 344080,
+      "name": "Ambass\u00e8l",
+      "url": "https://open.spotify.com/track/0x70fYeng2HdGI0wDUnJdh"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Bezunesh Bekele Greatest Hits (Ethiopian Contemporary Oldies Music",
-        "url": "https://open.spotify.com/album/6CrYo7kkjCAm8tWgaNGQvv"
+        "name": "Exile (Real World Gold)",
+        "url": "https://open.spotify.com/album/11AxOh3IlyZxtsNcfxg2pU"
       },
       "artists": [
         {
-          "name": "Bezunesh Bekele",
-          "url": "https://open.spotify.com/artist/5Av7uSBx3EBtpejsnascvx"
+          "name": "Geoffrey Oryema",
+          "url": "https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Aha Gedawo",
-      "url": "https://open.spotify.com/track/51sy8cHmKhO4NOqiCqsyvn"
+      "duration_ms": 300306,
+      "name": "Makambo",
+      "url": "https://open.spotify.com/track/7KT7nrVaTMigaeBQnjbOyf"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiopiques, Vol. 9: Al\u00e8may\u00e8hu Esh\u00e8t\u00e9 1969-1974",
+        "url": "https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD"
+      },
+      "artists": [
+        {
+          "name": "Alemayehu Eshete",
+          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "Ya tara",
+      "url": "https://open.spotify.com/track/6qbRPn1f9ZdVlIsH7VmIIf"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiopiques, Vol. 9: Al\u00e8may\u00e8hu Esh\u00e8t\u00e9 1969-1974",
+        "url": "https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD"
+      },
+      "artists": [
+        {
+          "name": "Alemayehu Eshete",
+          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
+        }
+      ],
+      "duration_ms": 105466,
+      "name": "Mekeyershin salawq",
+      "url": "https://open.spotify.com/track/29uj7EVu8pYGLOw3Lce3iT"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
         "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
@@ -305,39 +589,7 @@
       "url": "https://open.spotify.com/track/3Gke0mvHkPNss58oxmeOI6"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiopiques, Vol. 9: Al\u00e8may\u00e8hu Esh\u00e8t\u00e9 1969-1974",
-        "url": "https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD"
-      },
-      "artists": [
-        {
-          "name": "Alemayehu Eshete",
-          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
-        }
-      ],
-      "duration_ms": 105466,
-      "name": "Mekeyershin salawq",
-      "url": "https://open.spotify.com/track/29uj7EVu8pYGLOw3Lce3iT"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiopiques, Vol. 8: Swinging Addis 1969-1974",
-        "url": "https://open.spotify.com/album/5tNmMZUAqk6YI6z84PXWAr"
-      },
-      "artists": [
-        {
-          "name": "Girma B\u00e8y\u00e8n\u00e8",
-          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Yebeqagnal",
-      "url": "https://open.spotify.com/track/1191c3MFmsESihKbaoWUkC"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
         "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
@@ -353,55 +605,7 @@
       "url": "https://open.spotify.com/track/0q0b9pvUgnwlNFsxnIt3D5"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "G\u00e9tatch\u00e8w M\u00e9kuria and His Saxophone",
-        "url": "https://open.spotify.com/album/5G4iEzL5EnRsHsExyfeHpi"
-      },
-      "artists": [
-        {
-          "name": "Getatchew Mekurya",
-          "url": "https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO"
-        }
-      ],
-      "duration_ms": 344080,
-      "name": "Ambass\u00e8l",
-      "url": "https://open.spotify.com/track/0x70fYeng2HdGI0wDUnJdh"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiopiques, Vol. 9: Al\u00e8may\u00e8hu Esh\u00e8t\u00e9 1969-1974",
-        "url": "https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD"
-      },
-      "artists": [
-        {
-          "name": "Alemayehu Eshete",
-          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
-        }
-      ],
-      "duration_ms": 143973,
-      "name": "Ya tara",
-      "url": "https://open.spotify.com/track/6qbRPn1f9ZdVlIsH7VmIIf"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Best of Baheru Kegne",
-        "url": "https://open.spotify.com/album/5uqt4fnNS9R7HNSrYzcZca"
-      },
-      "artists": [
-        {
-          "name": "Bahiru Kegne",
-          "url": "https://open.spotify.com/artist/5MWO4tYXfx2szzq8i9Jtn1"
-        }
-      ],
-      "duration_ms": 359720,
-      "name": "Ambasel",
-      "url": "https://open.spotify.com/track/0lBQx9FFtx6O7EG4CGp9Wc"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/3ax6wAvAW7QluZt7sQfjZB"
@@ -417,23 +621,147 @@
       "url": "https://open.spotify.com/track/3x4xn0YATLCOzB81BbNcbU"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "The Best Compilation",
-        "url": "https://open.spotify.com/album/0yqA38etNZeFcj9LzjVVQh"
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/2aOrubpmIFRaoYtkjKRwk3"
       },
       "artists": [
         {
-          "name": "Manalemosh Dibo",
-          "url": "https://open.spotify.com/artist/5S0YqcmFUolc4px7v1iiHo"
+          "name": "Liboi",
+          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
+        },
+        {
+          "name": "Jam Session Band",
+          "url": "https://open.spotify.com/artist/58GicmmfATVxSWBWoK497J"
         }
       ],
-      "duration_ms": 428643,
-      "name": "Awdamet",
-      "url": "https://open.spotify.com/track/7pd7jbEhoDBof86mnFoCww"
+      "duration_ms": 273038,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/2376s7G0bYFg86hnW42xE7"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ernesto Chahoud Presents Taitu \u2013 Soul-Fuelled Stompers from 1960s \u2013 1970s Ethiopia",
+        "url": "https://open.spotify.com/album/4v94zw6nkbjRpRzGMb0X7y"
+      },
+      "artists": [
+        {
+          "name": "Seifu Yohannes",
+          "url": "https://open.spotify.com/artist/7CU6ugbVgK5vYSaPFyd0fz"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "Mela Mela",
+      "url": "https://open.spotify.com/track/1YC5m4Wm66ieytGeCA72or"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Kora Fo",
+        "url": "https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh"
+      },
+      "artists": [
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Kora by Night",
+      "url": "https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Work Hard",
+        "url": "https://open.spotify.com/album/0SYEzD4cVKiPEXK5gfsK4N"
+      },
+      "artists": [
+        {
+          "name": "King Ayisoba",
+          "url": "https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen"
+        }
+      ],
+      "duration_ms": 304981,
+      "name": "Good Things God Knows",
+      "url": "https://open.spotify.com/track/5JJzSGrCDdPpyZAhBxVeNO"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Ethiopiques, Vol. 14: Negus of Ethiopian Sax",
+        "url": "https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl"
+      },
+      "artists": [
+        {
+          "name": "Getatchew Mekurya",
+          "url": "https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO"
+        }
+      ],
+      "duration_ms": 312600,
+      "name": "Shellela",
+      "url": "https://open.spotify.com/track/69xPvlP5i5Rado4veDUQUc"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Bezunesh Bekele Greatest Hits (Ethiopian Contemporary Oldies Music",
+        "url": "https://open.spotify.com/album/6CrYo7kkjCAm8tWgaNGQvv"
+      },
+      "artists": [
+        {
+          "name": "Bezunesh Bekele",
+          "url": "https://open.spotify.com/artist/5Av7uSBx3EBtpejsnascvx"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Aha Gedawo",
+      "url": "https://open.spotify.com/track/51sy8cHmKhO4NOqiCqsyvn"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Best of Baheru Kegne",
+        "url": "https://open.spotify.com/album/5uqt4fnNS9R7HNSrYzcZca"
+      },
+      "artists": [
+        {
+          "name": "Bahiru Kegne",
+          "url": "https://open.spotify.com/artist/5MWO4tYXfx2szzq8i9Jtn1"
+        }
+      ],
+      "duration_ms": 359720,
+      "name": "Ambasel",
+      "url": "https://open.spotify.com/track/0lBQx9FFtx6O7EG4CGp9Wc"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Bondeko",
+        "url": "https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z"
+      },
+      "artists": [
+        {
+          "name": "Gerald Toto",
+          "url": "https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "M'aa Kiana",
+      "url": "https://open.spotify.com/track/4QDbcjFOBHunn5P6vlSeuE"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiocolor",
         "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
@@ -449,7 +777,7 @@
       "url": "https://open.spotify.com/track/3OgMkV8ZcwyNQ7xFuhqcsa"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiopiques 28 - Great Oromo Music",
         "url": "https://open.spotify.com/album/5IuThMnaayjZACJ1QhVDf0"
@@ -465,7 +793,7 @@
       "url": "https://open.spotify.com/track/2eUUSMhQajBogKnpu3WPKx"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiopiques, Vol. 13: The Golden Seventies (Ethiopian Groove)",
         "url": "https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82"
@@ -481,23 +809,7 @@
       "url": "https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiocolor",
-        "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
-      },
-      "artists": [
-        {
-          "name": "Ethiocolor",
-          "url": "https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe"
-        }
-      ],
-      "duration_ms": 371546,
-      "name": "Ayana Woga",
-      "url": "https://open.spotify.com/track/3wZhTxB8zzkOO3ZAke7C4l"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "ZETEGN | NOR",
         "url": "https://open.spotify.com/album/5TiaBIND5BaCCPyVUllODr"
@@ -513,7 +825,7 @@
       "url": "https://open.spotify.com/track/2vsBVE4B1RABY7uJPgj2yK"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Nahom Favorite. Vol. 25",
         "url": "https://open.spotify.com/album/2IRyCD0yAildzXxfOlOnsI"
@@ -533,7 +845,7 @@
       "url": "https://open.spotify.com/track/0AcpLdtcndor8VffGDlaQ8"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiocolor",
         "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
@@ -549,7 +861,7 @@
       "url": "https://open.spotify.com/track/43fUkKR4gUeF2eckTp2nSA"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Yene Zema",
         "url": "https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf"
@@ -565,7 +877,7 @@
       "url": "https://open.spotify.com/track/1C8MtTy5tH8yk2J3gaHJXY"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ende Kal",
         "url": "https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo"
@@ -581,23 +893,7 @@
       "url": "https://open.spotify.com/track/7DLaJOJ4fi9QpHzoWaLcE8"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Ethiocolor",
-        "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
-      },
-      "artists": [
-        {
-          "name": "Ethiocolor",
-          "url": "https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe"
-        }
-      ],
-      "duration_ms": 450840,
-      "name": "Shimunmun",
-      "url": "https://open.spotify.com/track/2tEYoQ64ePP6zzfI1XuudH"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/3ax6wAvAW7QluZt7sQfjZB"
@@ -613,39 +909,7 @@
       "url": "https://open.spotify.com/track/04Db0jALfgMHtUkiHWGKIa"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Nekchalehu",
-        "url": "https://open.spotify.com/album/3SMUpqsRjXCZJvXozE8QlE"
-      },
-      "artists": [
-        {
-          "name": "Eyob Mekonnen",
-          "url": "https://open.spotify.com/artist/66RpTn1WvTKAz0I4PG7Nv4"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Nekchalehu",
-      "url": "https://open.spotify.com/track/5CrrqNggbqU7lm5BAzc7ne"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
-      "album": {
-        "name": "Abugida",
-        "url": "https://open.spotify.com/album/6IoW5F5ykLAwOch1OwscNz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Afro",
-          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Ende Birabiro",
-      "url": "https://open.spotify.com/track/0lLDcKNAYE3GOuGYiozukS"
-    },
-    {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Ethiocolor",
         "url": "https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS"
@@ -661,7 +925,531 @@
       "url": "https://open.spotify.com/track/2frOvbqhTBLcbYpuAS9U1z"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "What Are You Waiting For?",
+        "url": "https://open.spotify.com/album/1M0LbXXxdpHIhLtFJl2abQ"
+      },
+      "artists": [
+        {
+          "name": "Nenor",
+          "url": "https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V"
+        },
+        {
+          "name": "Eyal Rob",
+          "url": "https://open.spotify.com/artist/0bRtE2c9aw4IRXncNPSZba"
+        },
+        {
+          "name": "ELi A Free",
+          "url": "https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE"
+        }
+      ],
+      "duration_ms": 305752,
+      "name": "What Are You Waiting For?",
+      "url": "https://open.spotify.com/track/6q5HmCTHTW0F54SqqJFuBi"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "iNtwenhle",
+        "url": "https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn"
+      },
+      "artists": [
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        },
+        {
+          "name": "Kaelan DiJulio",
+          "url": "https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "iNtwenhle",
+      "url": "https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Cissoko Heritage",
+        "url": "https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w"
+      },
+      "artists": [
+        {
+          "name": "Maher Cissoko",
+          "url": "https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/5r3xXhGutqkW1uw9bewyFW"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 272883,
+      "name": "A Seminar In Tokyo",
+      "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        }
+      ],
+      "duration_ms": 130024,
+      "name": "Who Do You Call",
+      "url": "https://open.spotify.com/track/0GkuN9Zy932IzxFC6rolo8"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Taffetas",
+        "url": "https://open.spotify.com/album/14gr7Jn4cOd1x5jcFvjcIX"
+      },
+      "artists": [
+        {
+          "name": "Taffetas",
+          "url": "https://open.spotify.com/artist/1LUYQvuT5WFvl043rAuy1Z"
+        }
+      ],
+      "duration_ms": 305295,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/5PO5AyFVJy4r2rtyGRD5n8"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "N\u00e9 So",
+        "url": "https://open.spotify.com/album/4cC1RPqmRyQTTFaV5bHRhd"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Kolokani",
+      "url": "https://open.spotify.com/track/2Sg0ITLH5edMAsklGSpAvP"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Tana",
+        "url": "https://open.spotify.com/album/19gZ7DkaEvTw5jWPRo3peP"
+      },
+      "artists": [
+        {
+          "name": "The Nile Project",
+          "url": "https://open.spotify.com/artist/1LwX3TYza2Yek1QdH3OLoX"
+        }
+      ],
+      "duration_ms": 509986,
+      "name": "Fulani",
+      "url": "https://open.spotify.com/track/3HS62i8kDcfuq2MkcB6OCM"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Bondeko",
+        "url": "https://open.spotify.com/album/4xziyNMbYjuBVVe2rH43lK"
+      },
+      "artists": [
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
+        },
+        {
+          "name": "Gerald Toto",
+          "url": "https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Ma Mama",
+      "url": "https://open.spotify.com/track/4l6tXZ5jcfYHWE17m1o4X0"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Kekete bue",
+        "url": "https://open.spotify.com/album/0bWyy4kW167YrikgdCM26A"
+      },
+      "artists": [
+        {
+          "name": "Kanda Bongo Man",
+          "url": "https://open.spotify.com/artist/4vW2jrWYJT4wDkjbhpubca"
+        }
+      ],
+      "duration_ms": 200031,
+      "name": "Kumisa ye",
+      "url": "https://open.spotify.com/track/5Lm2TuHuLPsde8vlOBP8ke"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Aum Akua",
+        "url": "https://open.spotify.com/album/4PiA2thaZ9HOw2XoE3scTU"
+      },
+      "artists": [
+        {
+          "name": "Joss Jaffe",
+          "url": "https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx"
+        },
+        {
+          "name": "Jim \"Kimo\" West",
+          "url": "https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k"
+        }
+      ],
+      "duration_ms": 322156,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/56FQB1uAsuBVrURqDRw24v"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "thula",
+      "url": "https://open.spotify.com/track/0MfonO7Ip7SypONglF78pO"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Soni Lene",
+        "url": "https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu"
+      },
+      "artists": [
+        {
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        }
+      ],
+      "duration_ms": 307100,
+      "name": "Soni Lene",
+      "url": "https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Bondeko",
+        "url": "https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z"
+      },
+      "artists": [
+        {
+          "name": "Gerald Toto",
+          "url": "https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Ngum Nya Ko",
+      "url": "https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Strange Circles",
+        "url": "https://open.spotify.com/album/4jy0qfVL2jNJOXFHsVf7WF"
+      },
+      "artists": [
+        {
+          "name": "Bokant\u00e9",
+          "url": "https://open.spotify.com/artist/14nSwnnRivPDPNGGOZjwk6"
+        }
+      ],
+      "duration_ms": 345340,
+      "name": "Apathie Mortelle",
+      "url": "https://open.spotify.com/track/5Qc72dNfJme4XfEfhddkMP"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Sounds of Africa: Mozambique",
+        "url": "https://open.spotify.com/album/2SgflF3QamXk85eKGOx3Ti"
+      },
+      "artists": [
+        {
+          "name": "Yinguica",
+          "url": "https://open.spotify.com/artist/1m4eSsCu1zZiNqFqp0Se9S"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Xingwavilani",
+      "url": "https://open.spotify.com/track/0JWxns37xscvI8vVa6XX09"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Rough Guide To Acoustic Africa",
+        "url": "https://open.spotify.com/album/1YKF3I3jOYvJA4CTLJYlhd"
+      },
+      "artists": [
+        {
+          "name": "Samba Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "White Crocodile Blues (A Song For M) (Instrumental)",
+      "url": "https://open.spotify.com/track/37KhO4BoEl4ygSs2lgFACx"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Tamala",
+        "url": "https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV"
+      },
+      "artists": [
+        {
+          "name": "Bao Sissoko",
+          "url": "https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E"
+        },
+        {
+          "name": "Mola Sylla",
+          "url": "https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK"
+        },
+        {
+          "name": "Wouter Vandenabeele",
+          "url": "https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8"
+        }
+      ],
+      "duration_ms": 347750,
+      "name": "Mansour",
+      "url": "https://open.spotify.com/track/7AVq2voUHwI3iWjYcUGXBv"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Cyro Baptista",
+          "url": "https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz"
+        },
+        {
+          "name": "Dramane Demb\u00e9l\u00e9",
+          "url": "https://open.spotify.com/artist/4ocTJVYKPWlU6NmQO0Ybuj"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Christi Joza Orisha",
+          "url": "https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2"
+        },
+        {
+          "name": "Robert Sadin",
+          "url": "https://open.spotify.com/artist/5JWMejpVKhv7pYahgWSXSr"
+        }
+      ],
+      "duration_ms": 276751,
+      "name": "K\u00e1ba",
+      "url": "https://open.spotify.com/track/6pzyjHjE0HlaK9fYrMAuIH"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Wanita",
+        "url": "https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg"
+      },
+      "artists": [
+        {
+          "name": "Rokia Traor\u00e9",
+          "url": "https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV"
+        }
+      ],
+      "duration_ms": 339200,
+      "name": "Wanita",
+      "url": "https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Lumba",
+        "url": "https://open.spotify.com/album/3Pg3IQ6LrccO6Cr3WfFYqh"
+      },
+      "artists": [
+        {
+          "name": "Tamala",
+          "url": "https://open.spotify.com/artist/5V8tx5yPSD9rIb8ynhyWD7"
+        }
+      ],
+      "duration_ms": 271706,
+      "name": "Diarra",
+      "url": "https://open.spotify.com/track/0KAqd0zMI2WUgIyc2O8TKT"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Soaring Wild Lands (The Instrumentals)",
+        "url": "https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR"
+      },
+      "artists": [
+        {
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        },
+        {
+          "name": "Admeta String Quartet",
+          "url": "https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "Tutu Jara",
+      "url": "https://open.spotify.com/track/2chWRRkUFWSowfNmWyjtaV"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Djaliya",
+        "url": "https://open.spotify.com/album/05tfcODau1bIZEJ7j2srBm"
+      },
+      "artists": [
+        {
+          "name": "Ablaye Cissoko",
+          "url": "https://open.spotify.com/artist/7F6474dJ7eusD2MkXm2Lwx"
+        }
+      ],
+      "duration_ms": 220176,
+      "name": "Djaliya",
+      "url": "https://open.spotify.com/track/4FrUmjKqx5lJFmpskAWdiJ"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Sally Nyolo and the Original Bands of Yaound\u00e9: Studio Cameroon",
+        "url": "https://open.spotify.com/album/1nDY38P9JyssvMgf7L0PmF"
+      },
+      "artists": [
+        {
+          "name": "Sally Nyolo",
+          "url": "https://open.spotify.com/artist/63YppDRNOmAKeYjBSITPTV"
+        },
+        {
+          "name": "Mr Eddy",
+          "url": "https://open.spotify.com/artist/4L5Ad5WpvuUQCKAnOF0Pni"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Obili \u00c9ba",
+      "url": "https://open.spotify.com/track/5B4XJ1Az96p31RR55QKcyS"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Toumani & Sidiki",
+        "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        }
+      ],
+      "duration_ms": 167964,
+      "name": "Bansang",
+      "url": "https://open.spotify.com/track/4yIpAl5friYNemdRdwpRs2"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Africa: Finding Graceland",
+        "url": "https://open.spotify.com/album/79ZDZrcYdFjb19vnacPD6V"
+      },
+      "artists": [
+        {
+          "name": "Vusa Mkhaya",
+          "url": "https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Sohlangana Khona",
+      "url": "https://open.spotify.com/track/3Et506glSw4IsWezo1M95d"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Folly Cagni",
+      "url": "https://open.spotify.com/track/490jbuzW3XPHTXg3nhqbJ8"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Swedlat, Vol. 3",
         "url": "https://open.spotify.com/album/20aw2dhtgCfRTy8Y2qqVAG"
@@ -681,91 +1469,139 @@
       "url": "https://open.spotify.com/track/2cJWp6bK6d6Wx9ISxZUDbd"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Abebayewosh Single Collections, Vol. 2",
-        "url": "https://open.spotify.com/album/3W9C5ISA5wKeNUDtcYa6nQ"
+        "name": "En Mana Kuoyo",
+        "url": "https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53"
       },
       "artists": [
         {
-          "name": "Teddy Afro",
-          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
+          "name": "Ayub Ogada",
+          "url": "https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk"
         }
       ],
-      "duration_ms": 158640,
-      "name": "Dagmawi Menelik",
-      "url": "https://open.spotify.com/track/2QzWvFrnF94qq1GewmfCPl"
+      "duration_ms": 340200,
+      "name": "Obiero",
+      "url": "https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Yebati Nigist",
-        "url": "https://open.spotify.com/album/5OdzT8OEqtSaQjXmHU3pTc"
+        "name": "Pieteron",
+        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
       },
       "artists": [
         {
-          "name": "Maritu Legesse",
-          "url": "https://open.spotify.com/artist/2oomwwkrc9ySelyGd5v19f"
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
         }
       ],
-      "duration_ms": 313040,
-      "name": "Bati",
-      "url": "https://open.spotify.com/track/2VlaBYmgLk82NJnUsnG68F"
+      "duration_ms": 202000,
+      "name": "Pieteron",
+      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Kabu",
-        "url": "https://open.spotify.com/album/7tuldqwClaYYekemGFBDRU"
+        "name": "Les Filles de Illighadad",
+        "url": "https://open.spotify.com/album/1GQ2yQmzsG0dl9dDeuQZoH"
       },
       "artists": [
         {
-          "name": "Aster Aweke",
-          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
+          "name": "Les Filles de Illighadad",
+          "url": "https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv"
         }
       ],
-      "duration_ms": 350840,
-      "name": "Kabu",
-      "url": "https://open.spotify.com/track/2e9PnNBQeIC1O9l6SLGGvH"
+      "duration_ms": 196835,
+      "name": "Inigradan",
+      "url": "https://open.spotify.com/track/6mBAzHCBJKSSRdqfHzqLyd"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Leul Aswededegn (Ethiopian Contemporary Music)",
-        "url": "https://open.spotify.com/album/2noWFr8sMFADoWed9oDqCY"
+        "name": "Kirik\u00e9",
+        "url": "https://open.spotify.com/album/1dTfhMFEmU143D9ayS65Qc"
       },
       "artists": [
         {
-          "name": "Fekereaddis Nekatebeb",
-          "url": "https://open.spotify.com/artist/4xtga7H5KyhHeL75Si6yfD"
+          "name": "Kass\u00e9-Mady Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC"
         }
       ],
-      "duration_ms": 341706,
-      "name": "Leul Aswededegn",
-      "url": "https://open.spotify.com/track/7bS0A09pkBQdXgOki4tnMn"
+      "duration_ms": 337320,
+      "name": "Kirik\u00e9",
+      "url": "https://open.spotify.com/track/4unrkCU4r4c65yFsENbEEv"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Beauties",
-        "url": "https://open.spotify.com/album/4Fd37zjRhS7nE0q5QvcVCp"
+        "name": "Transitional Times",
+        "url": "https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie"
       },
       "artists": [
         {
-          "name": "Aselefech Ashine",
-          "url": "https://open.spotify.com/artist/6rua9gVfjCERXEAod04Pqa"
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Presenting the King",
+      "url": "https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Umhlaba Wonke",
+        "url": "https://open.spotify.com/album/2Mj7SHIVIuNWZcBDzefbuO"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
         },
         {
-          "name": "Getenesh Kebret",
-          "url": "https://open.spotify.com/artist/7HrEsEWpTIdOzpVEcIBPz1"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         }
       ],
-      "duration_ms": 215094,
-      "name": "Meche Neow",
-      "url": "https://open.spotify.com/track/1o9R63ipeu59RMHq9nvaqY"
+      "duration_ms": 220680,
+      "name": "Umhlaba Wonke",
+      "url": "https://open.spotify.com/track/7IgPv2WtRzonmCFtAFJEt1"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Agrim Agadez - Musique Guitare de la Republique du Niger",
+        "url": "https://open.spotify.com/album/2VqrQg7pWmXSt19Kym8elf"
+      },
+      "artists": [
+        {
+          "name": "Amaria Hamadalher",
+          "url": "https://open.spotify.com/artist/7tEjTXOcxGi1LSgDagCZsy"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Bahouche",
+      "url": "https://open.spotify.com/track/6XW5F3Pl2kej7UfE4EibIX"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+        "url": "https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6"
+      },
+      "artists": [
+        {
+          "name": "Etuk Ubong",
+          "url": "https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7"
+        }
+      ],
+      "duration_ms": 351900,
+      "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+      "url": "https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
       "album": {
         "name": "Tche Belew",
         "url": "https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0"
@@ -785,52 +1621,188 @@
       "url": "https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Gin Yet Hager",
-        "url": "https://open.spotify.com/album/3T4Py6N5MwnZFzY7VD5A5e"
+        "name": "Kabu",
+        "url": "https://open.spotify.com/album/7tuldqwClaYYekemGFBDRU"
       },
       "artists": [
         {
-          "name": "Girma Tefera Kassa",
-          "url": "https://open.spotify.com/artist/7lMmlIVrTGj8XiebNzimkD"
+          "name": "Aster Aweke",
+          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
         }
       ],
-      "duration_ms": 259443,
-      "name": "Enderase",
-      "url": "https://open.spotify.com/track/0jnxvUYE26UKRiVtQwnP6M"
+      "duration_ms": 350840,
+      "name": "Kabu",
+      "url": "https://open.spotify.com/track/2e9PnNBQeIC1O9l6SLGGvH"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Ethiopiques, Vol. 3: Golden Years 1969-1975",
-        "url": "https://open.spotify.com/album/64BIQfXdqgzg6mh1UJxzEY"
+        "name": "Mbalimaou",
+        "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
       },
       "artists": [
         {
-          "name": "Tadele Beqele",
-          "url": "https://open.spotify.com/artist/25tOjdOIoDhwAgFOzQPiL8"
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Enafqeshalehu",
-      "url": "https://open.spotify.com/track/24wcXHsMTeqKp7tjOSlISh"
+      "duration_ms": 386480,
+      "name": "Bougoudani",
+      "url": "https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7"
     },
     {
-      "added_at": "2024-05-07 08:30:47",
+      "added_at": "2024-09-24 16:17:50",
       "album": {
-        "name": "Addis Ababa",
-        "url": "https://open.spotify.com/album/2HYUlH4HujrunSVeYdIxJi"
+        "name": "Djourou",
+        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
       "artists": [
         {
-          "name": "Alemayehu Eshete",
-          "url": "https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9"
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
         }
       ],
-      "duration_ms": 353686,
-      "name": "Addis Ababa Bete",
-      "url": "https://open.spotify.com/track/4LTOFpTB7rPYImfmNHBk5H"
+      "duration_ms": 254971,
+      "name": "Kadidja",
+      "url": "https://open.spotify.com/track/1Pompu74i2TET5IUXQObTG"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/3WPGTvO0ryY6LRMhrR6pZE"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Mogoya - Acoustic",
+      "url": "https://open.spotify.com/track/4Bpxj43W9tnmjVrOzLn8ln"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Transparent Water",
+        "url": "https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O"
+      },
+      "artists": [
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        }
+      ],
+      "duration_ms": 233208,
+      "name": "Oni Yalorde",
+      "url": "https://open.spotify.com/track/5iz4vxakmdHfmZIyYdhp6P"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "My Africa",
+        "url": "https://open.spotify.com/album/0smFP1o6q7725uN5uN7n7S"
+      },
+      "artists": [
+        {
+          "name": "Elemotho",
+          "url": "https://open.spotify.com/artist/5cbeD8yRFDT2rkmX2x1diB"
+        },
+        {
+          "name": "Emmanuel Karumazondo",
+          "url": "https://open.spotify.com/artist/0SIZ7bBPfEP1UdRwBEHoui"
+        },
+        {
+          "name": "Jackson Jr. Kaujeua",
+          "url": "https://open.spotify.com/artist/6zsZzIaWZOXzVae17wc8KY"
+        },
+        {
+          "name": "Ermelinda Thataone",
+          "url": "https://open.spotify.com/artist/4Nw5eQl9eIQ8jDW44e3rj1"
+        },
+        {
+          "name": "Polina Loubnina",
+          "url": "https://open.spotify.com/artist/256czgZzckInCYYbYAZTzl"
+        },
+        {
+          "name": "Jackson Wahengo",
+          "url": "https://open.spotify.com/artist/4cR93Kh0uITQFQ9C36RYSI"
+        },
+        {
+          "name": "Tulonga Wahengo",
+          "url": "https://open.spotify.com/artist/5EOYNuEjtcOm1BDBouX9J1"
+        },
+        {
+          "name": "Erick Hamuntenya",
+          "url": "https://open.spotify.com/artist/5vV6V9FeMwNlKCb9Pm9WHo"
+        },
+        {
+          "name": "Ralph Geiseb",
+          "url": "https://open.spotify.com/artist/1qxxbFOeqNtrCPUbDUOmgw"
+        }
+      ],
+      "duration_ms": 402133,
+      "name": "Kagala namib",
+      "url": "https://open.spotify.com/track/4IXceMAV2wjMe1gD9P8hPt"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Mariama",
+        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Pierrette",
+      "url": "https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Djourou",
+        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 332361,
+      "name": "Guelen",
+      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
+    },
+    {
+      "added_at": "2024-09-24 16:17:50",
+      "album": {
+        "name": "Leul Aswededegn (Ethiopian Contemporary Music)",
+        "url": "https://open.spotify.com/album/2noWFr8sMFADoWed9oDqCY"
+      },
+      "artists": [
+        {
+          "name": "Fekereaddis Nekatebeb",
+          "url": "https://open.spotify.com/artist/4xtga7H5KyhHeL75Si6yfD"
+        }
+      ],
+      "duration_ms": 341706,
+      "name": "Leul Aswededegn",
+      "url": "https://open.spotify.com/track/7bS0A09pkBQdXgOki4tnMn"
     }
   ],
   "unique_name": "Caf\u00e9 Africa",

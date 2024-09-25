@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "DiVER",
+        "url": "https://open.spotify.com/album/4B6jqK55skmuCB9fji4KYu"
+      },
+      "artists": [
+        {
+          "name": "Nornis",
+          "url": "https://open.spotify.com/artist/4A1SkseOGbsBI0Q71vdTGx"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250390,
+      "name": "DiVER",
+      "url": "https://open.spotify.com/track/1y5Z6yXsbCgFlQI18PZZou"
+    },
+    {
+      "album": {
         "name": "Doh Doh",
         "url": "https://open.spotify.com/album/29DpaA22tCad0UXn10jE4i"
       },
@@ -1916,6 +1934,24 @@
       "duration_ms": 198133,
       "name": "Dohdatte.",
       "url": "https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3"
+    },
+    {
+      "album": {
+        "name": "Nasu Planet",
+        "url": "https://open.spotify.com/album/3rs6ZfN6ny97Bmsq22w0lM"
+      },
+      "artists": [
+        {
+          "name": "nasuo",
+          "url": "https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Dokkyun Paradise Koisuru Kuchisake Onna",
+      "url": "https://open.spotify.com/track/6xqZmdW9hLBAORTQhXvK66"
     },
     {
       "album": {
@@ -4420,7 +4456,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 163500,
       "name": "Loopback",
       "url": "https://open.spotify.com/track/1GKR6UkFMzD6PrHkA8HXCl"
@@ -5192,7 +5228,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 289329,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/5GYk0X8ZrvHApL6tgrMFAS"
@@ -5550,7 +5586,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 186157,
       "name": "Pao Ying Chub! drinkin\u2019 (with Mori Calliope)",
       "url": "https://open.spotify.com/track/1Vj5Xq0t8QhGtU5hsAwrAy"
@@ -7522,7 +7558,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 179351,
       "name": "ULTRA C",
       "url": "https://open.spotify.com/track/16TNNC68tTEIGc8vqvoWg6"
@@ -13480,7 +13516,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 291111,
       "name": "\u30d1\u30a4\u30d1\u30a4\u4eee\u9762\u3067\u3069\u3046\u304b\u3057\u3089\u3093\uff1f",
       "url": "https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls"
@@ -14602,6 +14638,46 @@
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30b8\u30ca",
+        "url": "https://open.spotify.com/album/7bUrYKEqodcRSD0Bkqhlw8"
+      },
+      "artists": [
+        {
+          "name": "4na",
+          "url": "https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196704,
+      "name": "\u30e0\u30b8\u30ca",
+      "url": "https://open.spotify.com/track/3JAQsJDpBf5Aqad2YPo1Q9"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "\u306a\u3068\u308a",
+          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200511,
+      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
     },
     {
       "album": {
@@ -17123,6 +17199,28 @@
     },
     {
       "album": {
+        "name": "\u590f\u3092\u304b\u3048\u3057\u3066",
+        "url": "https://open.spotify.com/album/1UIUFh6tWULOtLigaZhWfU"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204647,
+      "name": "\u590f\u3092\u304b\u3048\u3057\u3066",
+      "url": "https://open.spotify.com/track/7ev8sHSvx2AvFukSKUTWRP"
+    },
+    {
+      "album": {
         "name": "\u590f\u5b9f",
         "url": "https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4"
       },
@@ -19164,7 +19262,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 188300,
       "name": "\u6b21\u56de\u4e88\u544a",
       "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
@@ -20728,6 +20826,24 @@
       "duration_ms": 242100,
       "name": "\u7ce0\u661f\u306e\u5099\u5fd8\u9332",
       "url": "https://open.spotify.com/track/4XtmsHf3K9xSuoV4qJcRau"
+    },
+    {
+      "album": {
+        "name": "\u7cf8\u96fb\u8a71",
+        "url": "https://open.spotify.com/album/7BJiq1ZVbcSpRzfZH6B2qH"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223300,
+      "name": "\u7cf8\u96fb\u8a71",
+      "url": "https://open.spotify.com/track/6BPJod6d4ymhRcziURKoaM"
     },
     {
       "album": {

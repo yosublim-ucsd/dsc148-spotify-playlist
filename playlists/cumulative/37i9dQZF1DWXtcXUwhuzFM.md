@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Ellinoora.
 
-2,420 songs - 5 day 6 hr 39 min
+2,421 songs - 5 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Elämänlahjat](https://open.spotify.com/track/0DrLilfAFBOl2s6opJw8AQ) | [Auringon Lapset](https://open.spotify.com/artist/66N4MNz5ykTT5O2h6xR4Qd), [Indra](https://open.spotify.com/artist/4oIasPPXzKmtJnSSNVIXMH) | [Elämänlahjat](https://open.spotify.com/album/1iYsVipiPF2yL4cjqZgBNZ) | 3:09 | 2024-09-12 | 2024-09-20 |
 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 | 2024-05-09 | 2024-05-17 |
 | [Embawe](https://open.spotify.com/track/7Intk4aQEztM8OQ14anpyg) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP) | [Embawe](https://open.spotify.com/album/2qPAdfsMZFRD4xTx9AsoX2) | 3:01 | 2024-06-13 | 2024-06-21 |
+| [Emergency Contact](https://open.spotify.com/track/5UyTyZcBs6kNQ7AcYURUY8) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Emergency Contact](https://open.spotify.com/album/02z7HmLRy4xhYbHyxGlprt) | 3:03 | 2024-09-19 |  |
 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 | 2024-09-12 | 2024-09-20 |
 | [Empty Eyes](https://open.spotify.com/track/3yEJ4xNPoJD8ENxAPU0FhT) | [LASTOUT](https://open.spotify.com/artist/7vQfNVb9azE2sgkWDOCUd2) | [Empty Eyes](https://open.spotify.com/album/4ebSCddib0wP3OQ5RXipOw) | 5:30 | 2024-07-04 | 2024-07-12 |
 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-20 | 2024-06-28 |

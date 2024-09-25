@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 239000,
       "name": "Buktikan",
       "url": "https://open.spotify.com/track/4uI9FVt0YOFJjpfmznfA40"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 185495,
       "name": "Khayalan Tingkat Tinggi",
       "url": "https://open.spotify.com/track/2hh76rbGThjiPE1vUVa9Lg"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 153718,
       "name": "Not You",
       "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 214573,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 238410,
       "name": "Right Person, Wrong Time",
       "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
@@ -3274,6 +3274,24 @@
       "duration_ms": 278500,
       "name": "Semata Karenamu",
       "url": "https://open.spotify.com/track/58ilhPCZ45OnBSRndRlDBr"
+    },
+    {
+      "album": {
+        "name": "Senyumlah",
+        "url": "https://open.spotify.com/album/1FsA760iGFJLUkTNrXnU9E"
+      },
+      "artists": [
+        {
+          "name": "Sunny Club",
+          "url": "https://open.spotify.com/artist/2icsxbw3kwhkULIg1C4FC6"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189229,
+      "name": "Senyumlah",
+      "url": "https://open.spotify.com/track/7d2hdwykcvCfFWQLUUAVl3"
     },
     {
       "album": {

@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Merengue On",
+        "url": "https://open.spotify.com/album/63aZn7WBMRf51fq1OW9jtF"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        },
+        {
+          "name": "Krisspy",
+          "url": "https://open.spotify.com/artist/5EG8kX3NJR8Az7XKu4Czu7"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259082,
+      "name": "El env\u00edo navide\u00f1o",
+      "url": "https://open.spotify.com/track/5MDow7yE7yj5dA1wN48uU6"
+    },
+    {
+      "album": {
         "name": "Una Historia una Leyenda",
         "url": "https://open.spotify.com/album/0LRokwF90cBI9I16p5uldZ"
       },
@@ -2786,7 +2808,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 209739,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7"

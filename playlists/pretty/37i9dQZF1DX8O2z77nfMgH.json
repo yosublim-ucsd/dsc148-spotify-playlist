@@ -1,12 +1,12 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Fariana",
-  "num_followers": 883742,
+  "num_followers": 883712,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu8hzAAAAABd0Y4oUEdL10LfShC5nJtT",
+  "snapshot_id": "ZvLYmgAAAAA8LJ4CbNgau1CXAVkEaLQC",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "LA NOCHE ENTERA",
+        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "LA NOCHE ENTERA",
+      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -203,22 +223,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "buen d\u00eda portaci\u00f3n de rostro",
-        "url": "https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "buen d\u00eda portaci\u00f3n de rostro",
-      "url": "https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "20 LABIOS",
         "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
       },
@@ -235,22 +239,38 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "LA NOCHE ENTERA",
-        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+        "name": "buen d\u00eda portaci\u00f3n de rostro",
+        "url": "https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz"
       },
       "artists": [
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "COSMIC KID",
-          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 150480,
-      "name": "LA NOCHE ENTERA",
-      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
+      "duration_ms": 204133,
+      "name": "buen d\u00eda portaci\u00f3n de rostro",
+      "url": "https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "La Vacante (Remix)",
+        "url": "https://open.spotify.com/album/3A9URtx3DWPaGD4EoD2SPr"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/63GuPFQ8R9zS8XDGkqyZ0Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "La Vacante - Remix",
+      "url": "https://open.spotify.com/track/1A7f6I1IyRf6ymwoBbS9jx"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -287,26 +307,6 @@
       "duration_ms": 167250,
       "name": "Pasa Tips",
       "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "La Vacante (Remix)",
-        "url": "https://open.spotify.com/album/3A9URtx3DWPaGD4EoD2SPr"
-      },
-      "artists": [
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/63GuPFQ8R9zS8XDGkqyZ0Y"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "La Vacante - Remix",
-      "url": "https://open.spotify.com/track/1A7f6I1IyRf6ymwoBbS9jx"
     },
     {
       "added_at": "2024-09-20 04:00:00",

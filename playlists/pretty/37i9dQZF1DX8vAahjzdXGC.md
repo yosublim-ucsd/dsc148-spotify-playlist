@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,192 likes - 107 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,236 likes - 108 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,9 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 101 | [All My Life](https://open.spotify.com/track/5CPWV0SfZaQ3YCYAyTvhHr) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [All My Life](https://open.spotify.com/album/2hNOmcWgklXOLW7jLM0Aid) | 3:11 |
 | 102 | [Anywhere but here](https://open.spotify.com/track/1TkIXFZn5W3M8PRZaZF2cY) | [Muri](https://open.spotify.com/artist/5fNxwgRItvzRAAzFZCCoNj) | [11ème](https://open.spotify.com/album/06TTjkQexrUMH7ulUn72hD) | 3:02 |
 | 103 | [Slide](https://open.spotify.com/track/1Rs2FAkc0Qyr95ZQJEeBID) | [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [Slide](https://open.spotify.com/album/5n5Qh3ReLcxG4dcegvCm4i) | 2:43 |
-| 104 | [Made Up Your Mind](https://open.spotify.com/track/56wusiS0BFtTPpsqtXINwS) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [sarah su](https://open.spotify.com/artist/7o75L7nxbMGT9OZ0UQODOm) | [Made Up Your Mind](https://open.spotify.com/album/4tLvpS6rqdf5VAgBCUAsZO) | 3:22 |
-| 105 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 |
-| 106 | [Look At Us](https://open.spotify.com/track/77jFe0aCmvGtBbszHfLZuY) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Can I Be Your Favorite?](https://open.spotify.com/album/3uUZgDCQSCGsxHTcZkcAMu) | 2:14 |
-| 107 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 |
+| 104 | [Emergency Contact](https://open.spotify.com/track/5UyTyZcBs6kNQ7AcYURUY8) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Emergency Contact](https://open.spotify.com/album/02z7HmLRy4xhYbHyxGlprt) | 3:03 |
+| 105 | [Made Up Your Mind](https://open.spotify.com/track/56wusiS0BFtTPpsqtXINwS) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [sarah su](https://open.spotify.com/artist/7o75L7nxbMGT9OZ0UQODOm) | [Made Up Your Mind](https://open.spotify.com/album/4tLvpS6rqdf5VAgBCUAsZO) | 3:22 |
+| 106 | [Feel The Vibe](https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [Feel The Vibe](https://open.spotify.com/album/5DyTDevqES8ElrjE5FxJCM) | 3:02 |
+| 107 | [Look At Us](https://open.spotify.com/track/77jFe0aCmvGtBbszHfLZuY) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Can I Be Your Favorite?](https://open.spotify.com/album/3uUZgDCQSCGsxHTcZkcAMu) | 2:14 |
+| 108 | [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 |
 
 Snapshot ID: `ZuxcBgAAAAA1TSIlz7M3Y9KvnNAuYu38`

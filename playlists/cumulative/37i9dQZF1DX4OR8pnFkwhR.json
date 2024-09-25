@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u6d66\u4e0a\u60f3\u8d77",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Leina",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 162933,
       "name": "3\u5206\u30a2\u30e9\u30fc\u30e0",
       "url": "https://open.spotify.com/track/40QKY5KHFEnt0Z0ScxqMCK"
@@ -774,6 +774,24 @@
       "duration_ms": 196017,
       "name": "Aiaru Sekai",
       "url": "https://open.spotify.com/track/7FzuvU29KpohVxXr4DFcEN"
+    },
+    {
+      "album": {
+        "name": "Aimai",
+        "url": "https://open.spotify.com/album/1J9CYPF5Nx7ULZlVvSuUp0"
+      },
+      "artists": [
+        {
+          "name": "UNFAIR RULE",
+          "url": "https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "Aimai",
+      "url": "https://open.spotify.com/track/7tK8wV1MSRLqUwuJKgcq97"
     },
     {
       "album": {
@@ -2962,6 +2980,24 @@
       "duration_ms": 215808,
       "name": "Clair de Lune",
       "url": "https://open.spotify.com/track/5DuRmIUdmxCckOUScfD2aw"
+    },
+    {
+      "album": {
+        "name": "WiND",
+        "url": "https://open.spotify.com/album/5IrgyaalaogMONs3YRbiGs"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239819,
+      "name": "Clock Hands",
+      "url": "https://open.spotify.com/track/3Ub3oRQAqLZnbhmgKlSpsu"
     },
     {
       "album": {
@@ -6050,7 +6086,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 259456,
       "name": "Good day",
       "url": "https://open.spotify.com/track/1glWb1FkQ8VmnZDkOQm87n"
@@ -6300,6 +6336,24 @@
       "duration_ms": 300478,
       "name": "happy. (feat. \u91c8\u8fe6\u574a\u4e3b)",
       "url": "https://open.spotify.com/track/5PGzaMTTlI9gaIbrculk9i"
+    },
+    {
+      "album": {
+        "name": "Ai no Ubugoe, Ai no Nakigoe",
+        "url": "https://open.spotify.com/album/5xfP0RaptOkznxJ2gcpyKz"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183784,
+      "name": "Hard work",
+      "url": "https://open.spotify.com/track/21LClr5fRDBJSEnArdK18P"
     },
     {
       "album": {
@@ -11214,7 +11268,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 225110,
       "name": "Once Upon a Night",
       "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
@@ -11890,7 +11944,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 184000,
       "name": "piece of cake",
       "url": "https://open.spotify.com/track/3BNLrX2MnDDzbdmHYDiNIf"
@@ -13694,6 +13748,24 @@
       "duration_ms": 223109,
       "name": "SHOZEN",
       "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
+    },
+    {
+      "album": {
+        "name": "Sick!!!",
+        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244416,
+      "name": "Sick!!!",
+      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
     },
     {
       "album": {
@@ -16705,6 +16777,24 @@
     },
     {
       "album": {
+        "name": "WABISABI",
+        "url": "https://open.spotify.com/album/1jng714YIumOqx0qLMyZEG"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112992,
+      "name": "WABISABI",
+      "url": "https://open.spotify.com/track/4AOARiilKISqSJb7R9IzHy"
+    },
+    {
+      "album": {
         "name": "Wandering Spirit",
         "url": "https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI"
       },
@@ -18294,6 +18384,24 @@
       "duration_ms": 225000,
       "name": "\u3046\u3089\u3089\u304b",
       "url": "https://open.spotify.com/track/25O6vSzE2eM5JjL8Ey5vws"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3069\u3051\u604b",
+        "url": "https://open.spotify.com/album/67afYYyGaRuywzsAZ3QzPk"
+      },
+      "artists": [
+        {
+          "name": "baboon",
+          "url": "https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294892,
+      "name": "\u304a\u3069\u3051\u604b",
+      "url": "https://open.spotify.com/track/3L1q33SSj2V4VaComjWytX"
     },
     {
       "album": {
@@ -21132,7 +21240,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 199310,
       "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0x1dFxy2nwRVYxynKyJx4A"
@@ -24438,7 +24546,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 213006,
       "name": "\u541b\u306e\u524d\u3060\u3068\u6eb6\u3051\u3061\u3083\u3046\u306e",
       "url": "https://open.spotify.com/track/0B3Y3d9IaF5oPq1qIwxxZj"

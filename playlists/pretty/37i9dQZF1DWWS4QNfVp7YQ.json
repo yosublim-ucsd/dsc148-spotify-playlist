@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 80374,
+  "num_followers": 80414,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
       },
       "artists": [
         {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
         }
       ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -839,34 +839,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
       },
       "artists": [
         {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
         }
       ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Terror, Ep. 2",
-        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        }
-      ],
-      "duration_ms": 145145,
-      "name": "Vibora",
-      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Teneloa Kuikayotl",
-        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
+        "name": "Terror, Ep. 2",
+        "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
       },
       "artists": [
         {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        },
-        {
-          "name": "Klpuyi",
-          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
         }
       ],
-      "duration_ms": 174423,
-      "name": "Teneloa Kuikayotl",
-      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
+      "duration_ms": 145145,
+      "name": "Vibora",
+      "url": "https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -939,6 +919,26 @@
       "duration_ms": 212097,
       "name": "Rey de Reyes",
       "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Teneloa Kuikayotl",
+        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        },
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
+        }
+      ],
+      "duration_ms": 174423,
+      "name": "Teneloa Kuikayotl",
+      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
     }
   ],
   "unique_name": "Fiesta Tribal",

@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/5T3BU6YIJtgaxo3sfrEYyD"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233133,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/5kQFPEKaoZ6M1Ptnt2xlB8"
+    },
+    {
+      "album": {
         "name": "Dans Le Noir",
         "url": "https://open.spotify.com/album/5fSth5j8Ei1daXZIca5ICF"
       },

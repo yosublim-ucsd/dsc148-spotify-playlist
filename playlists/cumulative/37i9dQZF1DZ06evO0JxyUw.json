@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
   "name": "This Is Christina Aguilera",
   "tracks": [
     {
@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Obvious - Live - Spotify Anniversaries Version",
+      "url": "https://open.spotify.com/track/4lOvTZD9ZgFL5TAgJUQqyu"
+    },
+    {
+      "album": {
         "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-25",
       "duration_ms": 193160,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"

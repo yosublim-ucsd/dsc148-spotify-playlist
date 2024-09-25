@@ -1,13 +1,49 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6578,
+  "num_followers": 6580,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACfYs6wYe2vmHs9mjXv/RgLkD3QNxUH",
+  "snapshot_id": "AACfZPbhGpodQIRUm9NaKlk2u1J7MA03",
   "tracks": [
+    {
+      "added_at": "2024-09-24 09:19:37",
+      "album": {
+        "name": "Ahora O Nunca",
+        "url": "https://open.spotify.com/album/3Qa5X0yUuAt7kefjbbzRo6"
+      },
+      "artists": [
+        {
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+        },
+        {
+          "name": "Sole\u00e1 Morente",
+          "url": "https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu"
+        }
+      ],
+      "duration_ms": 201032,
+      "name": "Ahora O Nunca",
+      "url": "https://open.spotify.com/track/1ST1Ch8NjO1mtjvGLWKqbb"
+    },
+    {
+      "added_at": "2024-09-24 07:34:22",
+      "album": {
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
     {
       "added_at": "2024-09-20 08:40:25",
       "album": {

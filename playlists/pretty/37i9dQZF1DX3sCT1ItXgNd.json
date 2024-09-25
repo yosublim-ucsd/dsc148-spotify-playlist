@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Dani Fern\u00e1ndez",
-  "num_followers": 965274,
+  "num_followers": 965254,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "4TO 23",
-        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "4TO 23",
-      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
         "name": "Los Domingos",
         "url": "https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "4TO 23",
+        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "4TO 23",
+      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "A Las 12",
-        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
+        "name": "ni regalao",
+        "url": "https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         }
       ],
-      "duration_ms": 188693,
-      "name": "A Las 12",
-      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
+      "duration_ms": 138986,
+      "name": "ni regalao",
+      "url": "https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -623,34 +619,38 @@
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "ni regalao",
-        "url": "https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln"
+        "name": "A Las 12",
+        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 138986,
-      "name": "ni regalao",
-      "url": "https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM"
+      "duration_ms": 188693,
+      "name": "A Las 12",
+      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
     },
     {
       "added_at": "2024-09-23 16:30:05",
       "album": {
-        "name": "TODAV\u00cdA",
-        "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
+        "name": "zarcillos de plata",
+        "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 170106,
-      "name": "TODAV\u00cdA",
-      "url": "https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ"
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -671,6 +671,22 @@
       "duration_ms": 189781,
       "name": "no te deseo lo peor :)",
       "url": "https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0"
+    },
+    {
+      "added_at": "2024-09-23 16:30:05",
+      "album": {
+        "name": "TODAV\u00cdA",
+        "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "TODAV\u00cdA",
+      "url": "https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ"
     },
     {
       "added_at": "2024-09-23 16:30:05",
@@ -723,22 +739,6 @@
       "duration_ms": 156103,
       "name": "Puede K Nos Liemos",
       "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
-    },
-    {
-      "added_at": "2024-09-23 16:30:05",
-      "album": {
-        "name": "zarcillos de plata",
-        "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "zarcillos de plata",
-      "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
     },
     {
       "added_at": "2024-09-23 16:30:05",

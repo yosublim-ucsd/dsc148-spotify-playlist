@@ -1,13 +1,33 @@
 {
   "description": "Elke dag een exclusieve track van Dopebwoy in La Vida Loca!",
-  "num_followers": 327048,
+  "num_followers": 327074,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvHk4AAAAAB7mzIqy0ifcvyApCwL4tc3",
+  "snapshot_id": "ZvM2YAAAAADVKxV3691Vb9U9cT1Z2V2i",
   "tracks": [
+    {
+      "added_at": "2024-09-24 22:00:00",
+      "album": {
+        "name": "Ferrari (feat. Ashafar)",
+        "url": "https://open.spotify.com/album/4QjnkhKmlJANHbTeFQvIvX"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Ferrari (feat. Ashafar)",
+      "url": "https://open.spotify.com/track/62D9lGyB5lMlYp2xFKba6h"
+    },
     {
       "added_at": "2024-09-23 22:00:00",
       "album": {

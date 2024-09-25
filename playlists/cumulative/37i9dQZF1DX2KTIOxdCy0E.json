@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD"
+    },
+    {
+      "album": {
         "name": "for the girls",
         "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
       },

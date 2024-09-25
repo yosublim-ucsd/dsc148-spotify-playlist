@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Bisz, KOSA",
-  "num_followers": 17699,
+  "num_followers": 17695,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Kino",
-        "url": "https://open.spotify.com/album/0Nyyv91nUo2ZEVbiDcgdYc"
-      },
-      "artists": [
-        {
-          "name": "Blaga",
-          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
-        }
-      ],
-      "duration_ms": 171244,
-      "name": "Kino",
-      "url": "https://open.spotify.com/track/6Uydxm95vvDTpcAAOGSiOK"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "#omg",
         "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 126427,
       "name": "#omg",
       "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "Kino",
+        "url": "https://open.spotify.com/album/0Nyyv91nUo2ZEVbiDcgdYc"
+      },
+      "artists": [
+        {
+          "name": "Blaga",
+          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
+        }
+      ],
+      "duration_ms": 171244,
+      "name": "Kino",
+      "url": "https://open.spotify.com/track/6Uydxm95vvDTpcAAOGSiOK"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
-      },
-      "artists": [
-        {
-          "name": "Gverilla",
-          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
-        },
-        {
-          "name": "Symer",
-          "url": "https://open.spotify.com/artist/6G5nxzFqdqx0Rb3g7dK4Yf"
-        }
-      ],
-      "duration_ms": 235793,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "MANDALA SPLASH",
         "url": "https://open.spotify.com/album/3rFvEVScxXPRpaAfsA3U8Y"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 164400,
       "name": "RZADKO PISZ\u0118 O MI\u0141O\u015aCI",
       "url": "https://open.spotify.com/track/2A5rFvN3YMCbaLikWTMFB8"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        },
+        {
+          "name": "Symer",
+          "url": "https://open.spotify.com/artist/6G5nxzFqdqx0Rb3g7dK4Yf"
+        }
+      ],
+      "duration_ms": 235793,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/38U8N2rwuwYJ5uImS6ZrvW"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 196260,
       "name": "365",
       "url": "https://open.spotify.com/track/0fdujokZXDAGjjRZahZalz"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
+        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
+      },
+      "artists": [
+        {
+          "name": "Blue Vegas",
+          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
         "name": "Jakby\u015b chcia\u0142 pogada\u0107",
         "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
       },
@@ -1703,18 +1719,26 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
+        "name": "LE MANS",
+        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
       },
       "artists": [
         {
-          "name": "Blue Vegas",
-          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+          "name": "Barto Katt",
+          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
+        },
+        {
+          "name": "Soulpete",
+          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
+        },
+        {
+          "name": "HVNCWOTY",
+          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
-      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
+      "duration_ms": 138620,
+      "name": "LE MANS",
+      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1739,26 +1763,18 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "LE MANS",
-        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
+        "name": "\u015blepa kuchnia.",
+        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
       },
       "artists": [
         {
-          "name": "Barto Katt",
-          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
-        },
-        {
-          "name": "Soulpete",
-          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
-        },
-        {
-          "name": "HVNCWOTY",
-          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
+          "name": "\u2022 ukeboy \u2022",
+          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
         }
       ],
-      "duration_ms": 138620,
-      "name": "LE MANS",
-      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
+      "duration_ms": 271445,
+      "name": "KLARA",
+      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1795,22 +1811,6 @@
       "duration_ms": 147368,
       "name": "Serato",
       "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
-        "name": "\u015blepa kuchnia.",
-        "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
-      },
-      "artists": [
-        {
-          "name": "\u2022 ukeboy \u2022",
-          "url": "https://open.spotify.com/artist/7wlmeZF1s7TOkDZVsLUYdR"
-        }
-      ],
-      "duration_ms": 271445,
-      "name": "KLARA",
-      "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
     },
     {
       "added_at": "2024-09-13 10:08:45",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-09-13 10:08:45",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
-      },
-      "artists": [
-        {
-          "name": "PAL SECAM",
-          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
-    },
-    {
-      "added_at": "2024-09-13 10:08:45",
-      "album": {
         "name": "Cia\u0142a niebieskie",
         "url": "https://open.spotify.com/album/4SqVlIGo8lyNpJwoPzKxpg"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 159071,
       "name": "Cia\u0142a niebieskie",
       "url": "https://open.spotify.com/track/2N4MXokpXjE1UsOvveVrcy"
+    },
+    {
+      "added_at": "2024-09-13 10:08:45",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/2bcHJw3kLGmZRxllP47y5A"
+      },
+      "artists": [
+        {
+          "name": "PAL SECAM",
+          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/5drwzhz18fvBgQlWmK7ndw"
     },
     {
       "added_at": "2024-09-13 10:08:45",

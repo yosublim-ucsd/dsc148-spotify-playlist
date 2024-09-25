@@ -2,7 +2,7 @@
 
 ### [This Is Krewella](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iw5UY)
 
-> This Is Krewella\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Krewella\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 63 songs - 3 hr 44 min
 

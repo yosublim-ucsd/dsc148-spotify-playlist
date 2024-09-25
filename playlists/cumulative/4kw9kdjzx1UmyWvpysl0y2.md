@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-822 songs - 1 day 22 hr 54 min
+823 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 | 2024-07-18 |
 | [Out of Frame](https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Out of Frame](https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa) | 4:32 | 2024-05-06 | 2024-07-25 |
 | [Out of the Dark](https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Out of the Dark](https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1) | 3:58 | 2022-10-04 | 2022-12-04 |
-| [Outer Space](https://open.spotify.com/track/1KJKFTpQPWpwNxuk9XuXyG) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Outer Space](https://open.spotify.com/album/3OAoOHHNYG0hkSVT7h02d6) | 3:10 | 2024-07-02 |  |
+| [Outer Space](https://open.spotify.com/track/1KJKFTpQPWpwNxuk9XuXyG) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Outer Space](https://open.spotify.com/album/3OAoOHHNYG0hkSVT7h02d6) | 3:10 | 2024-07-02 | 2024-09-25 |
 | [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 | 2022-07-15 |
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 | 2022-06-22 |
 | [Over The Water](https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Over The Water](https://open.spotify.com/album/2HcOB7CmgTbZu3fPAvTHeL) | 3:30 | 2022-07-22 | 2022-10-06 |
@@ -621,6 +621,7 @@
 | [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 | 2023-08-04 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |
 | [Sea Turtles](https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Sea Turtles](https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV) | 3:57 | 2023-07-24 | 2023-12-14 |
+| [Sealine](https://open.spotify.com/track/0jCAeHT5CiaesKQDeqZwlJ) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Sealine](https://open.spotify.com/album/77Wa67n3DdWnSU7pQCzzcl) | 3:03 | 2024-09-24 |  |
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Second Chance](https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Second Chance](https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW) | 3:10 | 2024-07-30 |  |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |

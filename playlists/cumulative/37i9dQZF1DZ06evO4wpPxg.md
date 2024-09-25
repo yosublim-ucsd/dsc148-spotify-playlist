@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
+> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
 312 songs - 19 hr 37 min
 
@@ -106,7 +106,7 @@
 | [I Cannot Bear My Burden by Myself](https://open.spotify.com/track/41uqdDpoLlFbmFzburpbcq) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 2:50 | 2024-03-01 | 2024-03-03 |
 | [I Cannot Bear My Burden By Myself](https://open.spotify.com/track/1WUMo4QuMIglvm7k8nhVna) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 2:50 | 2022-06-07 | 2024-04-21 |
 | [I Decided To Go Down](https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:23 | 2022-05-25 |  |
-| [I Didn't Want to Join the Band](https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:09 | 2022-08-03 |  |
+| [I Didn't Want to Join the Band](https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:09 | 2022-08-03 | 2024-09-25 |
 | [I Feel Like My Time Ain't Long \- Live in Portland, OR](https://open.spotify.com/track/3Vq2Gl13yBzI1HgVxp9duv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 8:48 | 2023-12-30 | 2024-08-12 |
 | [I Feel Like My Time Ain't Long \- Live in Portland, OR](https://open.spotify.com/track/6nVccmTg0TCxoGqukm11I6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 8:48 | 2022-05-25 | 2022-09-16 |
 | [I Got a Little Woman Sweet As She Can Be](https://open.spotify.com/track/1kMRVhkONnGt9zgH7ZsHFs) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Manchester Free Trade Hall 1964](https://open.spotify.com/album/7M5RsF7I52IEt2caXi4WAA) | 4:53 | 2022-11-12 | 2023-07-23 |
@@ -185,7 +185,7 @@
 | [Moon Goes Down](https://open.spotify.com/track/1YztbRfyrwv1o07T4dnCwp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 4:46 | 2022-08-08 | 2022-12-19 |
 | [Moon is Going Down](https://open.spotify.com/track/3jjV3Ifz4zlqzm13cJCVov) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:39 | 2023-03-17 | 2024-09-20 |
 | [Motherless Children](https://open.spotify.com/track/1cJdV7ifoxkB5jca6rkkYk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 4:12 | 2022-06-18 | 2022-08-30 |
-| [Mountain Jack](https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:32 | 2022-05-25 | 2024-09-24 |
+| [Mountain Jack](https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:32 | 2022-05-25 |  |
 | [My Heart is Fixed](https://open.spotify.com/track/5wi4Jf8NkHH77X1Wla5UiT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:08 | 2022-07-10 | 2023-07-24 |
 | [No One Can Do Me Like Jesus](https://open.spotify.com/track/1xpURbfnpOACV0IT7Ydgqy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 3:38 | 2022-05-25 | 2023-02-01 |
 | [Nobody Cares For Me](https://open.spotify.com/track/5nXcwhtPc3EHtSjn9zCHL8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 2:26 | 2024-06-26 | 2024-08-15 |

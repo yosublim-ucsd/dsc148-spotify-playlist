@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 130454,
+  "num_followers": 130453,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 175338,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Christmas Party",
         "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 191378,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
+      "duration_ms": 175338,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -911,6 +895,22 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Ultimate Pop Christmas",
-        "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
-      "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "What I Want For Xmas",
         "url": "https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174035,
       "name": "What I Want For Xmas",
       "url": "https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Ultimate Pop Christmas",
+        "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
+      "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "Christmastide",
+        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Christmastide",
+      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "The One (Christmas Version)",
         "url": "https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 208853,
       "name": "The One - Christmas Version",
       "url": "https://open.spotify.com/track/1yrybKSmjixau95vLljPyP"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Christmastide",
-        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Christmastide",
-      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
     },
     {
       "added_at": "2023-11-28 17:00:03",
