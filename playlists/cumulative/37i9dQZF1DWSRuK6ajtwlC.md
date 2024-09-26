@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-179 songs - 9 hr 12 min
+180 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Ojos Marrones](https://open.spotify.com/track/24BFgkBI2qTSNlsKi5WnJp) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Ojos Marrones](https://open.spotify.com/album/3VRbg9jMgwCR606Nm21X2F) | 2:43 | 2024-04-19 |  |
 | [Olvidémoslo Los Dos](https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 3:02 | 2024-01-12 | 2024-03-30 |
 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 | 2023-05-05 | 2023-09-30 |
+| [PERLA](https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i) | 2:22 | 2024-09-25 |  |
 | [Piquetitos](https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Un Sueño](https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs) | 3:08 | 2023-03-06 | 2023-11-09 |
 | [Plan B](https://open.spotify.com/track/3nIvk6YkJzCXERKTAuJwkP) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Only Zenda](https://open.spotify.com/album/27tycDhwYsqcglrQflbd0V) | 3:00 | 2024-06-28 | 2024-08-03 |
 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-14 |  |

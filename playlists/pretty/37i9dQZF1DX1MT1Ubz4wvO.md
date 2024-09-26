@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con RYAN en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,796 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,805 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
 | 2 | [Mi mejor momento](https://open.spotify.com/track/5uL8xCBHneH0lB9RlmRfqY) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Mi mejor momento](https://open.spotify.com/album/5aIqBI7Qr46sGnPNuPNMJ3) | 3:02 |
-| 3 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \- Con David Summers](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
+| 3 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
 | 4 | [Hombre Roto](https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hombre Roto](https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x) | 3:21 |
 | 5 | [Al Vacío \- En Vivo En Bogotá](https://open.spotify.com/track/6vLxcJIvd5LETN18RHs4IE) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Al Vacío \- En Vivo En Bogotá](https://open.spotify.com/album/0oOLrawzmAOx5ZFtIrv53A) | 4:06 |
 | 6 | [Por Qué](https://open.spotify.com/track/25HTcptVTrswNsbHKpxDvI) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Por Qué](https://open.spotify.com/album/546elWtt9bA4IvIhV8qUdP) | 3:12 |

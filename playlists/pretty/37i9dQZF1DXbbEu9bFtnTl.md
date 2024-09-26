@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 Monde en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,519 likes - 102 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,535 likes - 102 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 4 | [LokO d amOor](https://open.spotify.com/track/4brP3sMu279Ym4gwSgilWn) | [Jota Ce](https://open.spotify.com/artist/2pCTP41trGs1HpF3HdyKxW), [Miko.666](https://open.spotify.com/artist/7wun6kOabfdY0WjXVm6aZY) | [LokO d amOor](https://open.spotify.com/album/1Nmrwk4EMuvBw2vPGGNQEv) | 2:36 |
 | 5 | [CIELO](https://open.spotify.com/track/0OKlLkNL565cpOdogA0ZuM) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [CIELO](https://open.spotify.com/album/6LI2QWSO7ZhHgCcL655vDX) | 2:54 |
 | 6 | [DRAMATIKA!](https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [DRAMATIKA!](https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg) | 1:47 |
-| 7 | [Antisocial](https://open.spotify.com/track/7maZnc0kfq8FcsvQgK6YBE) | [Pokito Paranoiko](https://open.spotify.com/artist/0fXaqZxVTW22QGeusm0v7o), [Tresfou](https://open.spotify.com/artist/4FQiEAr8PnFz3pYg5YTG1Y) | [Antisocial](https://open.spotify.com/album/0ffBeyikivwlryVXY33Afv) | 2:48 |
+| 7 | [Antisocial](https://open.spotify.com/track/7maZnc0kfq8FcsvQgK6YBE) | [Pokito Paranoiko](https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag), [Tresfou](https://open.spotify.com/artist/4FQiEAr8PnFz3pYg5YTG1Y) | [Antisocial](https://open.spotify.com/album/0ffBeyikivwlryVXY33Afv) | 2:48 |
 | 8 | [Funeral](https://open.spotify.com/track/7DuHhFDPkuEDYEtYaRC2Or) | [Young Aleexx](https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [VAMPIRITO](https://open.spotify.com/album/78QMaAzOYW0KIOlVIIHUpI) | 2:12 |
 | 9 | [aunque digas que lo sientes \(og\)](https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Yakashi X](https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ) | [aunque digas que lo sientes \(og\)](https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML) | 1:55 |
 | 10 | [PunPun](https://open.spotify.com/track/0s3kiFRHoYtJ8N8QQdH4Ph) | [bbonsai!!!](https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj) | [AIKO](https://open.spotify.com/album/4rjgNwDW3bWDDRw5xct4Cp) | 2:20 |

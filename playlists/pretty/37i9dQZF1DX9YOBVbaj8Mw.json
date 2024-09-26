@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14507,
+  "num_followers": 14511,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -11,30 +11,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
+        "name": "PROXL3M",
+        "url": "https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
-        },
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        },
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
         }
       ],
-      "duration_ms": 195701,
-      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
-      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
+      "duration_ms": 217706,
+      "name": "Nicea",
+      "url": "https://open.spotify.com/track/4GoDN5dPdSQbAOwTt1y9F3"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -107,18 +95,30 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "PROXL3M",
-        "url": "https://open.spotify.com/album/5RXFK1MabLZM3SEGlidoqs"
+        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
       },
       "artists": [
         {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 217706,
-      "name": "Nicea",
-      "url": "https://open.spotify.com/track/4GoDN5dPdSQbAOwTt1y9F3"
+      "duration_ms": 195701,
+      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "przestrze\u0144",
-        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 217245,
-      "name": "lekka jak powietrze",
-      "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "DEGRENGOLADA",
         "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 247249,
       "name": "Pi\u0119kna degrengolada",
       "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "przestrze\u0144",
+        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 217245,
+      "name": "lekka jak powietrze",
+      "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Matecki",
-        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
-      },
-      "artists": [
-        {
-          "name": "Matecki",
-          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
-        }
-      ],
-      "duration_ms": 181548,
-      "name": "Summerland",
-      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Matecki",
+        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
+      },
+      "artists": [
+        {
+          "name": "Matecki",
+          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
+        }
+      ],
+      "duration_ms": 181548,
+      "name": "Summerland",
+      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Wicher",
         "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 216840,
       "name": "Wicher",
       "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "AFR AI D",
+        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
+      },
+      "artists": [
+        {
+          "name": "Mariusz Duda",
+          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "I Love To Chat With You",
+      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1343,22 +1359,6 @@
       "duration_ms": 210854,
       "name": "Kruszysz (Szatt Remix)",
       "url": "https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "AFR AI D",
-        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
-      },
-      "artists": [
-        {
-          "name": "Mariusz Duda",
-          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "I Love To Chat With You",
-      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Frukstrakt",
-        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Aftyka Quintet",
-          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
-        }
-      ],
-      "duration_ms": 211047,
-      "name": "Serce Otwarte Na P\u00f3\u0142",
-      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "De Joe",
         "url": "https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 481986,
       "name": "De Joe",
       "url": "https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Frukstrakt",
+        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Aftyka Quintet",
+          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
+        }
+      ],
+      "duration_ms": 211047,
+      "name": "Serce Otwarte Na P\u00f3\u0142",
+      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
     },
     {
       "added_at": "2024-03-25 08:52:09",

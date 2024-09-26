@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-861 songs - 2 day 8 hr 44 min
+863 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Circularity](https://open.spotify.com/track/5MXnwkHAitmmXBR0pBKtoP) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Circularity](https://open.spotify.com/album/73jgPZgJBUlZV91SADu1Nk) | 4:03 | 2024-02-20 | 2024-04-01 |
 | [CITY BOY](https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE) | 4:03 | 2022-07-05 | 2022-07-29 |
 | [CITY BOY](https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/3GUO72r5DExiZzVytINvxM) | 4:03 | 2022-07-27 | 2022-08-03 |
-| [City Drive](https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf) | 3:18 | 2024-04-16 |  |
+| [City Drive](https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf) | 3:18 | 2024-04-16 | 2024-09-26 |
 | [City Drive](https://open.spotify.com/track/5JxfIHoC7GO0aczQPFqMkA) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Vacation](https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD) | 3:18 | 2023-12-12 | 2024-04-19 |
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-23 |
@@ -238,6 +238,7 @@
 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-11-10 | 2023-11-23 |
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-06-07 | 2022-06-09 |
 | [Just be Blue](https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Just be Blue](https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV) | 4:01 | 2022-06-02 | 2022-11-01 |
+| [KEEP ON](https://open.spotify.com/track/580Xf1iNx9ueEgv0mLq5Et) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [KEEP ON](https://open.spotify.com/album/3Pm03MjH3iy4qdIV5AF5YK) | 4:14 | 2024-09-25 |  |
 | [KEYS](https://open.spotify.com/track/13ikkbVTj6pD4Zx9fP1lyX) | [FENNEC FENNEC](https://open.spotify.com/artist/3ipgnVhxY6lwazNcnBvh6G) | [KEYS](https://open.spotify.com/album/6sM65JFAxabnwr7APsi9gD) | 2:34 | 2023-04-04 | 2023-04-26 |
 | [KISS](https://open.spotify.com/track/3tVxy9ELaFCugIRJZuTZZA) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [KISS](https://open.spotify.com/album/2P0s62siakpuWNAAgkO4Sa) | 4:58 | 2022-06-07 | 2022-06-09 |
 | [Kiss Me, Winter](https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Kiss Me, Winter](https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU) | 3:41 | 2023-11-14 | 2024-02-27 |
@@ -371,11 +372,12 @@
 | [Period](https://open.spotify.com/track/23uYUawwd3eL8JCrjyYaUj) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Period](https://open.spotify.com/album/33411oyhikhkz8k2AOHchF) | 3:55 | 2022-06-16 | 2022-06-19 |
 | [PINK](https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE) | [桐生ちあり](https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J) | [日常](https://open.spotify.com/album/3MLtWoulPfU1BCmjwFGuow) | 3:15 | 2022-06-16 | 2022-06-22 |
 | [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 | 2022-12-07 |
-| [Play The Game](https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Play The Game](https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c) | 3:26 | 2024-02-13 |  |
+| [Play The Game](https://open.spotify.com/track/4seNDGr7HS97xSdUZHZkUg) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Play The Game](https://open.spotify.com/album/13X5IoOEs4FWvZVzx7WC6c) | 3:26 | 2024-02-13 | 2024-09-26 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-24 | 2023-09-06 |
 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 | 2024-04-16 | 2024-07-22 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-04-28 |
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-29 |
+| [Purple Dream](https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4) | [Emi Aramaki](https://open.spotify.com/artist/1pqWTWc4xYNC2vH0hxTwmk) | [Purple Dream](https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q) | 4:16 | 2024-09-25 |  |
 | [Purple Sunset](https://open.spotify.com/track/03AkajGxPe98c5o5whQoja) | [Fixional Cities](https://open.spotify.com/artist/2jxEE7jYzc8xgXGTYNARTj), [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F), [Masaya Wada](https://open.spotify.com/artist/3fHO9CmcvdkDk6KwIaBMlV), [Sho Kamijo](https://open.spotify.com/artist/0BIsQY0ptusqjW5IMyNqpe) | [Purple Sunset](https://open.spotify.com/album/0IFs1LexzGsEOlaRflGTQ3) | 3:29 | 2023-06-06 | 2023-07-07 |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-28 |
 | [puzzle \(feat\. ひかり\) \- Bronze Remix](https://open.spotify.com/track/764XngElbODYLSCkoax40N) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\) \[Bronze Remix\]](https://open.spotify.com/album/6W8mP3MYVabiOAsyS2qKxj) | 3:46 | 2023-11-10 | 2023-11-18 |

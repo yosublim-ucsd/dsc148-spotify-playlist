@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 198577,
       "name": "Geri D\u00f6n\u00fc\u015f Olsa",
       "url": "https://open.spotify.com/track/1KtqOkEN42OUqs9ombxk1E"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 170613,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Na\u00e7ar",
+        "url": "https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200423,
+      "name": "Na\u00e7ar",
+      "url": "https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph"
+    },
+    {
+      "album": {
         "name": "#1",
         "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
       },
@@ -1158,6 +1176,24 @@
       "duration_ms": 181019,
       "name": "Sessizim",
       "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"
+    },
+    {
+      "album": {
+        "name": "OBSESIF",
+        "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172900,
+      "name": "SEVMEY\u0130 DENEMED\u0130N",
+      "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
       "album": {

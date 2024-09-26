@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,831 songs - 6 day 6 hr 39 min
+2,832 songs - 6 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1244,7 +1244,7 @@
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-11 | 2022-03-26 |
 | [Kid Sentiment](https://open.spotify.com/track/7eotaZbb99gmoxVFqZwKhu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Gazoline III \(Deluxe\)](https://open.spotify.com/album/4uTqrqLcH4OABXRQGappdF) | 2:47 | 2023-11-17 | 2023-11-25 |
 | [Kilimanjaro](https://open.spotify.com/track/6uAjco2VicGZDJqdNLYywt) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Kilimanjaro](https://open.spotify.com/album/3ApkOCkyKRXJ1tNFnbWbv6) | 2:45 | 2022-03-25 | 2022-04-09 |
-| [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 | 2024-07-26 |  |
+| [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 | 2024-07-26 | 2024-09-26 |
 | [KILLA \- From The "Falcon Lake" Soundtrack](https://open.spotify.com/track/0e3l1WD8ir3uHDnvgD8nwu) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [KILLA \(From The "Falcon Lake" Soundtrack\)](https://open.spotify.com/album/2JjZCqrpGOE07sajCd9OWV) | 3:14 | 2022-11-11 | 2022-12-03 |
 | [KING](https://open.spotify.com/track/2fovnpipNfOTsEpi210iWm) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [KING](https://open.spotify.com/album/6b6vsgLeLJTGCLBwOtLPsB) | 3:49 | 2022-02-18 | 2022-03-05 |
 | [King\-V](https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [King\-V](https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY) | 2:23 | 2022-04-22 | 2022-05-07 |
@@ -1985,6 +1985,7 @@
 | [Personne](https://open.spotify.com/track/16zJVyvGHRG3qYnQ9cgHbT) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Personne](https://open.spotify.com/album/78RK4VGCAOquGDBFCcAn0e) | 3:22 | 2022-08-12 | 2022-08-27 |
 | [Personne pour écouter](https://open.spotify.com/track/5x7unXijaVCzrVhdcPFjuJ) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Personne pour écouter](https://open.spotify.com/album/46IG5QSRdDVkVdYxoBaOG1) | 3:37 | 2024-08-30 | 2024-09-07 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2024-05-03 | 2024-05-11 |
+| [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-20 |  |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |

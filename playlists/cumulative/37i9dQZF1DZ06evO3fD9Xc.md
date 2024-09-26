@@ -2,7 +2,7 @@
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This is Carolina Ross\. Tutti i brani in un'unica playlist.
+> This is Carolina Ross\. The essential tracks, all in one playlist.
 
 73 songs - 4 hr 1 min
 

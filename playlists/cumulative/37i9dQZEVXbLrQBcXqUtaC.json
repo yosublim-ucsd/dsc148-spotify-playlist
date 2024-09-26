@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 219307,
       "name": "Anta Malek.",
       "url": "https://open.spotify.com/track/3mYaoPqSczv15QcyVoQTSd"
@@ -6246,7 +6246,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 210651,
       "name": "Enta Malek Takht Sharqy",
       "url": "https://open.spotify.com/track/7iI9wUWKXydI5Q0M2qmxxp"
@@ -7456,7 +7456,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -8140,7 +8140,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -10156,7 +10156,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/7F25roCtYi55JouckaayPC"
@@ -14134,7 +14134,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -17073,6 +17073,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
         "name": "Saka Saka Saka",
         "url": "https://open.spotify.com/album/0jEW1hqJH9y9GzZlGzPC8q"
       },
@@ -17446,7 +17464,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
@@ -17980,7 +17998,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 286480,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
@@ -18618,7 +18636,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -18850,7 +18868,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -19626,7 +19644,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -19644,7 +19662,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -22728,7 +22746,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 256756,
       "name": "Ya Daar",
       "url": "https://open.spotify.com/track/273AViU7CJfV66xb2nk6DT"
@@ -23780,7 +23798,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 363312,
       "name": "\u0627\u0644\u0644\u0647 \u064a\u0639\u0632 \u0627\u0644\u062f\u0627\u0631",
       "url": "https://open.spotify.com/track/2XeOVusoIQZIzJVWsGvnXV"
@@ -24560,7 +24578,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 285693,
       "name": "\u062d\u0646\u0627 \u062c\u0646\u0648\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
       "url": "https://open.spotify.com/track/2DrBGxB4SHENJOB8UDvB7K"
@@ -24596,7 +24614,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 246946,
       "name": "\u062d\u064a\u0648 \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
       "url": "https://open.spotify.com/track/5muynzN7ghpU7UmS0fPelB"
@@ -25198,7 +25216,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 256987,
       "name": "\u0639\u0627\u0634 \u0633\u0644\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/1m0Wr5lzJDs801vsUFvZvH"
@@ -26070,7 +26088,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 224653,
       "name": "\u0647\u0630\u0627 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0641\u0648\u0642",
       "url": "https://open.spotify.com/track/2CfvtEuDUlkr0UI1js0uv6"
@@ -26492,7 +26510,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 179860,
       "name": "\u064a\u0627 \u0645\u062d\u0645\u062f",
       "url": "https://open.spotify.com/track/1qb8TX2V7CLe5RZ2AD3EpU"

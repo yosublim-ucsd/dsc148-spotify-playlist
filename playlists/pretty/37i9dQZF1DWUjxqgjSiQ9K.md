@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,438 likes - 99 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,517 likes - 99 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Mallorca",
+        "url": "https://open.spotify.com/album/0gDUMfzBQoZbNYv79WLDBA"
+      },
+      "artists": [
+        {
+          "name": "Paul Connor",
+          "url": "https://open.spotify.com/artist/0FIFA44uZ9dxGnGnNJTUEl"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/7aYyPUyrRTyAlZZzviXqy9"
+    },
+    {
+      "album": {
         "name": "Swatches",
         "url": "https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX"
       },
@@ -2136,6 +2154,24 @@
       "duration_ms": 140874,
       "name": "Para Cuando Regreses",
       "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
+    },
+    {
+      "album": {
+        "name": "Peacemaker",
+        "url": "https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV"
+      },
+      "artists": [
+        {
+          "name": "Mike Hense",
+          "url": "https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177476,
+      "name": "Peacemaker",
+      "url": "https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX"
     },
     {
       "album": {

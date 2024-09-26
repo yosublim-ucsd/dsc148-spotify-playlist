@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbnrdlr0pB7Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbnrdlr0pB7Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbnrdlr0pB7Y)
 
-### [Instrumentales para Trabajar a Gusto](https://open.spotify.com/playlist/37i9dQZF1DXbnrdlr0pB7Y)
+### [Instrumentales para la Chamba](https://open.spotify.com/playlist/37i9dQZF1DXbnrdlr0pB7Y)
 
 > Piezas acústicas que te ayudarán a enfocarte.
 

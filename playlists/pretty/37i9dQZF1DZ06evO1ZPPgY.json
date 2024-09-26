@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 220583,
+  "num_followers": 220604,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAADMrmRqtFgpsLme2eTpVHL2",
+  "snapshot_id": "ZvIBAAAAAACOdZsX2UfilWDDUTdwzyHu",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 237426,
-      "name": "It's Only Love Doing Its Thing",
-      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 340826,
-      "name": "Lady, Sweet Lady",
-      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
+      "duration_ms": 237426,
+      "name": "It's Only Love Doing Its Thing",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
     },
     {
       "added_at": null,

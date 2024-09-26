@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Jay Park\(박재범\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Kim Ximya\(김심야\)\)
 
-1,317 songs - 2 day 23 hr 25 min
+1,318 songs - 2 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,6 +1225,7 @@
 | [Waterfall](https://open.spotify.com/track/6cmxj9s0SBi9V4aw5HVYa8) | [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [some hearts are for two](https://open.spotify.com/album/2CbFjix62Fkbttw4aBNFoY) | 2:54 | 2022-11-01 | 2023-01-11 |
 | [Wave \(feat\. Kid Milli & Lil Cherry\)](https://open.spotify.com/track/5bb6l1FMTgRYisorNulxC6) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:50 | 2023-06-01 | 2023-07-19 |
 | [Way \(Feat\. CHOILB, GIRIBOY, BIG Naughty, Kvsh, Kim Seungmin, OLNL, Kid Milli, THAMA\)](https://open.spotify.com/track/0WHUg5Z0NZkeuPt5l4uMB9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [DEMOTAPE](https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ) | 4:21 | 2022-02-25 | 2022-07-08 |
+| [WAY 2A HEAD](https://open.spotify.com/track/4vEI1sDxqzjteNYL9JYkUi) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Simo Cell](https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk) | [WAY 2A HEAD](https://open.spotify.com/album/3x8aXahCFZYQHASo5vhe42) | 3:05 | 2024-09-25 |  |
 | [Way up \(Feat\. CAMO, JUSTHIS\) \(Prod\. R.Tee\)](https://open.spotify.com/track/75hcx0Zao2wGlveS7kLIZo) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 4:15 | 2023-01-02 | 2023-06-14 |
 | [We & We](https://open.spotify.com/track/2dHKutLUGCDY9ACjF4pkln) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Choice37](https://open.spotify.com/artist/0IwDW6uMq50jttqUE9pwW4), [HAE](https://open.spotify.com/artist/4lIMoq4GVnSbRs7Y5hBptb) | [We & We](https://open.spotify.com/album/1RSOq9buotKPFuLCrj2EqM) | 2:55 | 2021-12-29 | 2022-05-31 |
 | [WE \(Feat\. Jay Park\) \(Prod\. by Slom\)](https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 4:25 | 2022-12-03 | 2023-03-28 |

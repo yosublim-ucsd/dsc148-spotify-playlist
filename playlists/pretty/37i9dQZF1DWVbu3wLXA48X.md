@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,589 likes - 92 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,596 likes - 92 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 77 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 |
 | 78 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 |
 | 79 | [THE FAKE ESCAPE](https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [THE FAKE ESCAPE](https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1) | 3:40 |
-| 80 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:30 |
+| 80 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 |
 | 81 | [Lonely](https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lonely / Sweet Devil](https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV) | 3:46 |
 | 82 | [Deep Dark Waters \- Edit](https://open.spotify.com/track/1xd2CibZy7SNzcUoKmMQxF) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Deep Dark Waters](https://open.spotify.com/album/6x1Uu1bl7VTxmrFWBIk9xU) | 3:32 |
 | 83 | [No One's Gonna Love You Like I Can](https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [No One’s Gonna Love You Like I Can](https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu) | 2:02 |

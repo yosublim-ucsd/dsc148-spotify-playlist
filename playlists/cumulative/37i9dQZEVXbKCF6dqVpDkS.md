@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,620 songs - 3 day 12 hr 27 min
+1,622 songs - 3 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,7 +808,7 @@
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2022-09-03 | 2023-01-16 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-17 |
 | [LA FAMILIA](https://open.spotify.com/track/6CDJIMz1ipkcUgvnuhEnxX) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 2:08 | 2022-02-26 | 2022-02-28 |
-| [La Liga](https://open.spotify.com/track/1Upwe7Lfx2CMvDboaPUop7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [La Liga](https://open.spotify.com/album/35MeV0DvxVskyGLORtd8bP) | 2:57 | 2024-09-21 |  |
+| [La Liga](https://open.spotify.com/track/1Upwe7Lfx2CMvDboaPUop7) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [La Liga](https://open.spotify.com/album/35MeV0DvxVskyGLORtd8bP) | 2:57 | 2024-09-21 | 2024-09-26 |
 | [La solassitude](https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:02 | 2022-03-05 | 2022-03-10 |
 | [Laat Het Niet Lijken](https://open.spotify.com/track/2wLrobfSKZs2xFzkm6OOwS) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Laat Het Niet Lijken](https://open.spotify.com/album/3UjWdfXEjdU2FsLEl5PBD4) | 3:09 | 2021-10-17 | 2021-10-31 |
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2022-07-09 | 2022-07-11 |
@@ -1203,7 +1203,8 @@
 | [Rustplaats](https://open.spotify.com/track/6WAPg1MXFag4j0Fnd3W0XI) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC) | [Rustplaats](https://open.spotify.com/album/1NVNO4BPJSpUYoiulyiAR9) | 3:08 | 2024-03-16 | 2024-03-18 |
 | [Sabr](https://open.spotify.com/track/1qb1O5NZErBCccHoUTLfop) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Sabr](https://open.spotify.com/album/0zv0Zqgr17GO8SnYSUvW5G) | 3:01 | 2023-07-15 | 2023-07-27 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-03-06 |
-| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-13 |  |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-13 | 2024-09-26 |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-25 |  |
 | [Samen](https://open.spotify.com/track/275765DrtmWP29V5kVzU9g) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Grote Versnelling](https://open.spotify.com/album/1cJOcjPpaDbGxe7qDfA5Cd) | 3:25 | 2021-10-16 | 2021-12-06 |
 | [Samen](https://open.spotify.com/track/3scjUSDA8V4XdvSv0PSQvA) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 3:25 | 2021-09-19 | 2021-10-16 |
 | [Samen](https://open.spotify.com/track/7725InXp7RtmU6RwMnVOwW) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Samen](https://open.spotify.com/album/4xZiuM9QZAqYi8FJPULcym) | 3:25 | 2021-09-12 | 2021-09-19 |
@@ -1477,6 +1478,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-10 | 2023-05-14 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-15 | 2024-04-21 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2024-09-07 |  |
+| [Vaag](https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Vaag](https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp) | 2:13 | 2024-09-25 |  |
 | [Vallen En Opstaan](https://open.spotify.com/track/1veBfg0rmnrBjhfHMBnMP3) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Vallen En Opstaan](https://open.spotify.com/album/1vbRUJ3yPn710gmYjxku5q) | 2:30 | 2022-07-09 | 2022-07-11 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2023-10-29 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-10 |

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-510 songs - 21 hr 36 min
+512 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 | 2022-06-17 | 2022-11-05 |
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 | 2024-05-10 |
 | [Across the Pavement](https://open.spotify.com/track/51Tnos6jL6P1FvJtXzxBk1) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Across the Pavement](https://open.spotify.com/album/69PoP6QUOXVPVyvJJdS2hp) | 2:14 | 2023-12-15 |  |
-| [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 |  |
+| [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 | 2024-09-26 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 | 2023-06-23 |
 | [Adjacent](https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [Adjacent](https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ) | 3:51 | 2022-10-07 | 2024-06-28 |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 | 2023-03-10 |
@@ -131,7 +131,7 @@
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 |  |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 | 2023-08-25 |
-| [Echoes](https://open.spotify.com/track/6dJHq6Of3BzXVN7MxAtvYr) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Echoes](https://open.spotify.com/album/78elkAOV6CL5jGBeHau0rF) | 2:43 | 2024-02-23 |  |
+| [Echoes](https://open.spotify.com/track/6dJHq6Of3BzXVN7MxAtvYr) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Echoes](https://open.spotify.com/album/78elkAOV6CL5jGBeHau0rF) | 2:43 | 2024-02-23 | 2024-09-26 |
 | [El Columpio](https://open.spotify.com/track/2zDmDCedzfQLKRkxqZiMdf) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: el Columpio](https://open.spotify.com/album/4SnKI0t6cBRHuVhtmxJ66v) | 3:00 | 2022-11-18 | 2023-09-01 |
 | [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 | 2024-07-18 |  |
 | [El Sueño De La Muñeca](https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [El Sueño De La Muñeca](https://open.spotify.com/album/6tfNJGuPKy2jTQFpPhiYZL) | 2:41 | 2022-10-28 | 2023-08-25 |
@@ -359,6 +359,7 @@
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 | 2024-05-10 |
 | [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 |  |
 | [Pula](https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Pula](https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi) | 3:01 | 2024-05-10 |  |
+| [Punta del Este](https://open.spotify.com/track/2H4s5RiBoxyqMucFsbiheq) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Punta del Este](https://open.spotify.com/album/0I4tflykLajbFVzzALnSgp) | 2:51 | 2024-09-25 |  |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-28 | 2023-06-23 |
 | [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 | 2023-08-25 |
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |
@@ -393,6 +394,7 @@
 | [Satélite](https://open.spotify.com/track/4bACm2m5ym6bX4QaPbUwYX) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Satélite](https://open.spotify.com/album/5Y6HlNBOqKWJEdEohqgcN2) | 2:28 | 2022-10-07 | 2023-05-20 |
 | [Searching](https://open.spotify.com/track/2Th9eX05sSxseR88r9fQnE) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Searching](https://open.spotify.com/album/3uRBe6voWCE80tm3tC65TY) | 1:37 | 2023-03-24 | 2023-06-23 |
 | [Seasons Change](https://open.spotify.com/track/4bFcRseaUHL04lIvGQy9Ss) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Seasons Change](https://open.spotify.com/album/3MXVce2S5FrDoKTIZ7UoWD) | 2:45 | 2024-02-23 | 2024-07-18 |
+| [Secret Garden](https://open.spotify.com/track/0jCKKQh5wf7FfNTuZQ4MuY) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Secret Garden](https://open.spotify.com/album/3QXA5KdpGzsNNS04MGscfA) | 2:24 | 2024-09-25 |  |
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-28 | 2023-06-23 |
 | [Secreto a gritos](https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Secreto a gritos](https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt) | 3:05 | 2022-10-07 | 2024-01-12 |
 | [See me clearly](https://open.spotify.com/track/74B9UwoACQuEgPVtoQ51Qf) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [See me clearly](https://open.spotify.com/album/5DvQoBQHNBLaJZxVDf2aNY) | 1:52 | 2024-09-10 |  |
@@ -456,7 +458,7 @@
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |
-| [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 |  |
+| [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 | 2024-09-26 |
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-05-19 |  |
 | [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-09 | 2024-05-10 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-23 |

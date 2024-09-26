@@ -1647,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/3x8klMCZWyPBSxMTsqaBSB"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124900,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/1hK82ERSZ37oWQWuiDv90J"
+    },
+    {
+      "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
       },
@@ -4140,7 +4162,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 190070,
       "name": "Feel Your Love (Rapture)",
       "url": "https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV"
@@ -4745,6 +4767,28 @@
     },
     {
       "album": {
+        "name": "Freestyler (Rock The Microphone)",
+        "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Freestyler (Rock The Microphone)",
+      "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
+    },
+    {
+      "album": {
         "name": "front_row.wav",
         "url": "https://open.spotify.com/album/0pIGWWKQM2TFUH5dBYoDdg"
       },
@@ -4984,7 +5028,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 187655,
       "name": "Gonna Dance with Somebody",
       "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
@@ -5362,7 +5406,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 150000,
       "name": "Heal My Heart",
       "url": "https://open.spotify.com/track/5RaIR7tKEdO3tf4gpSgQ7P"
@@ -5958,6 +6002,28 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+    },
+    {
+      "album": {
+        "name": "I Can Hear the Drums",
+        "url": "https://open.spotify.com/album/78rfrXOO1Xj81K2fYp3sBC"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "I Can Hear the Drums",
+      "url": "https://open.spotify.com/track/5ewTRBroYlB7tOrO2TqsnC"
     },
     {
       "album": {
@@ -9360,6 +9426,24 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/2rtsEadI0kqUZnoEs7Wh1L"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127935,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/5nUjaFCUuSloBL2IGUyccV"
     },
     {
       "album": {
@@ -13606,7 +13690,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 140867,
       "name": "Viento",
       "url": "https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ"

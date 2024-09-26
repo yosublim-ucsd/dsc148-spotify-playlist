@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 202424,
       "name": "Alt\u00fcst Olmu\u015fum",
       "url": "https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ"
@@ -6058,7 +6058,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 124000,
       "name": "ELLER\u0130M BO\u015e",
       "url": "https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm"
@@ -15344,7 +15344,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -15610,6 +15610,24 @@
       "duration_ms": 210201,
       "name": "Say Goodbye 2.0",
       "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
+    },
+    {
+      "album": {
+        "name": "\u0130kinci Hal",
+        "url": "https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271210,
+      "name": "Sayg\u0131mdan",
+      "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
     },
     {
       "album": {

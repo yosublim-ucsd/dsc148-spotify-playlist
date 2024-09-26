@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20672,
+  "num_followers": 20671,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqKsePyy11asud9kfV1M5BdI51CuN7",
+  "snapshot_id": "AAAqLH+b5UBRwrSyYPHdQ062tnhJuVFY",
   "tracks": [
     {
       "added_at": "2024-08-06 19:32:19",
@@ -2087,6 +2087,42 @@
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
+    },
+    {
+      "added_at": "2024-09-25 14:46:07",
+      "album": {
+        "name": "Spiritual Psychosis",
+        "url": "https://open.spotify.com/album/0n1zjBxdidnEEM4z04Axm6"
+      },
+      "artists": [
+        {
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "Spiritual Psychosis",
+      "url": "https://open.spotify.com/track/2DSI1VpSW9WL5GrsZQpM8L"
+    },
+    {
+      "added_at": "2024-09-25 14:46:24",
+      "album": {
+        "name": "How To Run Away - 10 Year Bonus Disk",
+        "url": "https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Angela Kr\u00fcsi",
+          "url": "https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy"
     }
   ],
   "unique_name": "Moving Castle Monthly",

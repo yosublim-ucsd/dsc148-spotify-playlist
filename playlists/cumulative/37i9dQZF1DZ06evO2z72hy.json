@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Gondwana. The essential tracks, all in one playlist.",
+  "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
   "name": "This Is Gondwana",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 248506,
       "name": "Fuego bendito",
       "url": "https://open.spotify.com/track/5n5oi19eI8icBWVrHHECKw"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 219561,
       "name": "No Es el Fin",
       "url": "https://open.spotify.com/track/0O5IS3ScZsV9A3Z84eBHzy"

@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Floating Points
 
-910 songs - 2 day 19 hr 21 min
+911 songs - 2 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,10 +620,11 @@
 | [Poppin \- VIP](https://open.spotify.com/track/12A3lE9FtnOaUPWuIH9QGk) | [That Fancy I](https://open.spotify.com/artist/15fSvdx1tBXP6uwf0vfNIj) | [SPRAYFEST VIP Pack](https://open.spotify.com/album/4JeJOJwuUJMNdBjDCBMb19) | 4:47 | 2024-02-01 | 2024-04-19 |
 | [Poppin \- VIP](https://open.spotify.com/track/4nUKWxUmfRJgacAkkw4Gay) | [That Fancy I](https://open.spotify.com/artist/15fSvdx1tBXP6uwf0vfNIj) | [SPRAYFEST VIP Pack](https://open.spotify.com/album/3By8BKPjcMDnlDXRmLyUBa) | 4:47 | 2024-04-18 | 2024-04-26 |
 | [porchless](https://open.spotify.com/track/1qMcxHTTYMaMxZ8gbIAZQD) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [porchless](https://open.spotify.com/album/2iYFrs9Qg4A7KiWopSOJyO) | 2:58 | 2023-10-05 | 2023-11-02 |
+| [Possession](https://open.spotify.com/track/3m6PnvFF9gid4aNsNau7TX) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 2:44 | 2024-09-25 |  |
 | [Possibly Impossible \- Crackazat Dub](https://open.spotify.com/track/3k5kxMx9RK7QD7s3AikyH9) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Possibly Impossible \(Crackazat Dub\)](https://open.spotify.com/album/1ZDeFy4AD01pj0daI9fwsB) | 5:08 | 2023-03-16 | 2023-04-09 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-25 | 2023-09-22 |
 | [Powerplay](https://open.spotify.com/track/49FbqpTX4UGjCRVaiDeEy8) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Kamara](https://open.spotify.com/artist/3Gs5k4INMHMYArfvSUEJO5) | [Powerplay](https://open.spotify.com/album/1h6CZhoS1de4l160ii5YH4) | 6:29 | 2023-04-27 | 2023-07-28 |
-| [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-06-27 |  |
+| [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-06-27 | 2024-09-26 |
 | [Prisma](https://open.spotify.com/track/7nw780TmnTZIRblMZEb6B0) | [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Prisma](https://open.spotify.com/album/56NlR27TfnwdnZMJ7BNcqd) | 3:12 | 2024-06-06 | 2024-07-27 |
 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-08-01 |  |
 | [Proto Spoon](https://open.spotify.com/track/4x0lRbV2ahj4mDD1shqKRk) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Sampler 01: Floor To Floor 10 Years of 17 Steps](https://open.spotify.com/album/01x04Tq5n5EEjrsdDbxGZu) | 3:00 | 2024-02-09 | 2024-04-26 |

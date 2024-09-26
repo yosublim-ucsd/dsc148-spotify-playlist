@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 80000,
       "name": "Not A Teaser (Theme)",
       "url": "https://open.spotify.com/track/2vac8W1WKva3H6AJ3V8VtT"
@@ -2656,6 +2656,24 @@
       "duration_ms": 164777,
       "name": "Stranger in Black - Theme Song",
       "url": "https://open.spotify.com/track/0PIRM1sf42d0BvnMIQuaKx"
+    },
+    {
+      "album": {
+        "name": "Saripodhaa Sanivaaram (Original Background Score)",
+        "url": "https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82036,
+      "name": "Surya's Saturday",
+      "url": "https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18"
     },
     {
       "album": {

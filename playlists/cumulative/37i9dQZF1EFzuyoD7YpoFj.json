@@ -7194,6 +7194,24 @@
     {
       "album": {
         "name": "WildCard! (The Jokers' Edition)",
+        "url": "https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D"
+      },
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "What Shall I Do?",
+      "url": "https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW"
+    },
+    {
+      "album": {
+        "name": "WildCard! (The Jokers' Edition)",
         "url": "https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k"
       },
       "artists": [
@@ -7204,7 +7222,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 311733,
       "name": "What Shall I Do?",
       "url": "https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV"

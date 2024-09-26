@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5bTy34vq5jUt0WR38Vppnt.md) - [plain]
 
 > WEHMUT! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,605 likes - 11 songs - 47 min 30 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 3,604 likes - 11 songs - 47 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,6 +18,6 @@ pretty - [cumulative](/playlists/cumulative/5bTy34vq5jUt0WR38Vppnt.md) - [plain]
 | 8 | [Weit weg](https://open.spotify.com/track/0sMmtnF7by7WPNeRXCam9H) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:20 |
 | 9 | [Amour](https://open.spotify.com/track/1pOkWIJCshtoREcAcXmYSk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:50 |
 | 10 | [Mein Herz brennt \- Piano Version](https://open.spotify.com/track/4tfIMhIhRWWDEMFuK13HQx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [Sven Helbig](https://open.spotify.com/artist/6pgNHasTdNAVFwaMTkg7Uw) | [Raritäten \(1994 \- 2012\)](https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a) | 4:30 |
-| 11 | [Donaukinder](https://open.spotify.com/track/5R5mJezbWNqlVvRip6oEfd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:17 |
+| 11 | [Donaukinder](https://open.spotify.com/track/5R5mJezbWNqlVvRip6oEfd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:17 |
 
 Snapshot ID: `AAAAD/x4s5D2dMKraLisQAHfF97Q1dbq`

@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 180209,
       "name": "Akturu",
       "url": "https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 164931,
       "name": "Blue Bird",
       "url": "https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka"
@@ -4291,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Flutuar",
+        "url": "https://open.spotify.com/album/38GesdrKsOotrRglt30vK5"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184412,
+      "name": "Flutuar",
+      "url": "https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0"
+    },
+    {
+      "album": {
         "name": "Fontana Di Trevi",
         "url": "https://open.spotify.com/album/3twbRNFI3PS5vjrnmno8g1"
       },
@@ -6604,7 +6622,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 127183,
       "name": "Livandi",
       "url": "https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4"
@@ -9509,6 +9527,24 @@
     },
     {
       "album": {
+        "name": "San Sebastian",
+        "url": "https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145567,
+      "name": "San Sebastian",
+      "url": "https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO"
+    },
+    {
+      "album": {
         "name": "San Tropez",
         "url": "https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts"
       },
@@ -9704,7 +9740,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 164062,
       "name": "Secret Soul",
       "url": "https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp"

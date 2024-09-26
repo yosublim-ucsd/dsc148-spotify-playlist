@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-254 songs - 13 hr 2 min
+255 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
 | [Cruize](https://open.spotify.com/track/10Ijt9xLWRgYFdaTVRXSxR) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/3bLAV4r4Gye5irDLho7p5y) | 2:40 | 2024-03-20 | 2024-08-25 |
+| [Crystal Tears](https://open.spotify.com/track/2ZW39GOe6sVnDJhsuJfE5V) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Crystal Tears](https://open.spotify.com/album/1OdVKI8bK4ffgnoSswNmpz) | 2:19 | 2024-09-20 |  |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
 | [Cycles](https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Cycles](https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ) | 4:19 | 2024-08-23 |  |
 | [DARKER THAN DISCO](https://open.spotify.com/track/1rYX45ZNl3PKxHedn4PaTR) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Still Blunted](https://open.spotify.com/album/7roR8DoB7C96sd5ahoiCZJ) | 4:49 | 2024-09-06 |  |
@@ -218,7 +219,7 @@
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 |  |
 | [Surf](https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Waves](https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc) | 1:57 | 2024-08-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 | 2024-09-07 |
-| [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 |  |
+| [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 | 2024-09-26 |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-08-22 |  |
 | [Tea Ceremony](https://open.spotify.com/track/23cLHNTqtU9BjKoLUgD1c0) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Tea Ceremony](https://open.spotify.com/album/3UtYd1smJnxZX5jGRuHRo3) | 2:36 | 2024-09-20 |  |

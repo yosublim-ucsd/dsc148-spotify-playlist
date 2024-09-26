@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 597222,
+  "num_followers": 597533,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 162748,
       "name": "On My Mind - Enzo is Burning Remix",
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "How Do You Love? (feat. Mougleta)",
-      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
       },
@@ -979,18 +959,22 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
-        "name": "Es Vedr\u00e0",
-        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
         }
       ],
-      "duration_ms": 197593,
-      "name": "Es Vedr\u00e0",
-      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -1007,6 +991,22 @@
       "duration_ms": 201230,
       "name": "Danielle (smile on my face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
+        "name": "Es Vedr\u00e0",
+        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "Es Vedr\u00e0",
+      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 191802,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
         "name": "Set Me Free (feat. Robert Courtois)",
         "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
       },
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 191802,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
         "name": "If You Want My Loving",
         "url": "https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 208814,
       "name": "Motions",
       "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -1431,22 +1447,6 @@
       "duration_ms": 399360,
       "name": "Locomotiva Ibiza 2099 feat. VTSS",
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-09-18 10:01:03",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-09-18 10:01:03",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 170955,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
-    },
-    {
-      "added_at": "2024-09-18 10:01:03",
-      "album": {
         "name": "Changes (feat. Hayze)",
         "url": "https://open.spotify.com/album/0HfuHJSkr3RGmUpiBcuvfo"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 271476,
       "name": "Changes (feat. Hayze)",
       "url": "https://open.spotify.com/track/5TCRUxemPlPxOVWIIk5Dsk"
+    },
+    {
+      "added_at": "2024-09-18 10:01:03",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 170955,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
     }
   ],
   "unique_name": "Ibiza 2024",

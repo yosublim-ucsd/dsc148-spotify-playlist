@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,605 songs - 3 day 11 hr 24 min
+1,607 songs - 3 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -920,7 +920,7 @@
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 |  |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 |  |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
-| [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 |  |
+| [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |
 | [MIN MARIE](https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN MARIE](https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0) | 2:33 | 2024-02-22 | 2024-04-12 |
 | [Min Vän](https://open.spotify.com/track/7tpQYavfKzFq1RkEmOarw1) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Min Vän](https://open.spotify.com/album/38EYyBabFipzV9LPr1nmcD) | 2:32 | 2024-05-02 | 2024-06-01 |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
@@ -941,6 +941,7 @@
 | [Mitt hjärtas fröjd](https://open.spotify.com/track/5IQYJQxCiOXo4G0TW7hlzn) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22) | [Mitt hjärtas fröjd](https://open.spotify.com/album/4DfhA9iA0jQjbvg0PGYj74) | 2:52 | 2024-04-04 | 2024-04-26 |
 | [Mitt inre barn](https://open.spotify.com/track/2R3lU207Hp9gg9oGF9h8fX) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mitt inre barn](https://open.spotify.com/album/3CkzxQQdxTUmLLWbBkH7oq) | 4:00 | 2024-02-24 | 2024-04-12 |
 | [Mjuka Lakan](https://open.spotify.com/track/2pvb8B0VBgHlObZipNnLFu) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Mjuka Lakan](https://open.spotify.com/album/5LV6RkFjWOZ5buzyck2NiY) | 2:56 | 2024-05-02 | 2024-06-01 |
+| [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 |  |
 | [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 | 2024-03-18 |
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
 | [Moon Eyes](https://open.spotify.com/track/408rMnVFcIlyrme7bc1Ma0) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Moon Eyes](https://open.spotify.com/album/5E9eUYrMYgFRdN8IVcRvex) | 3:34 | 2023-10-06 | 2024-01-26 |
@@ -1068,7 +1069,7 @@
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-06-21 |
 | [Palmer](https://open.spotify.com/track/0aMzUj7X6jjBQupSdub2sK) | [Jim Castro](https://open.spotify.com/artist/7cjiIC3JhIHpmJ7ruYvyNx) | [Palmer](https://open.spotify.com/album/3Y6ATUkor5VVya9RsHUb4w) | 2:33 | 2024-06-20 | 2024-08-23 |
 | [Pannkaksfrukost](https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Pannkaksfrukost](https://open.spotify.com/album/24BGAjPh4QNr4brfBFgeM0) | 2:14 | 2024-02-02 | 2024-03-22 |
-| [Pappa](https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Pappa](https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM) | 3:09 | 2024-06-27 |  |
+| [Pappa](https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Pappa](https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM) | 3:09 | 2024-06-27 | 2024-09-26 |
 | [Pappa](https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Pappa](https://open.spotify.com/album/2JaHN74aTfEUdQblNKK6Ek) | 3:01 | 2024-03-02 | 2024-04-19 |
 | [Parasit](https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [Parasit](https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O) | 2:31 | 2024-08-29 | 2024-09-20 |
 | [Parking Lot Sunset](https://open.spotify.com/track/51OO9YEFbU9RqxM6xKjxSX) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Travelling Forever](https://open.spotify.com/album/6O6FjErdZMrFL6bvd0Gfun) | 3:33 | 2024-04-11 | 2024-05-10 |
@@ -1154,6 +1155,7 @@
 | [Safety Lines](https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg) | [Dead People](https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9) | [Safety Lines](https://open.spotify.com/album/4beGjjFosk130hWy8tOgVv) | 3:45 | 2021-12-16 | 2022-03-05 |
 | [Sagor](https://open.spotify.com/track/0o0CPrW2DAKQ8C85ErOu1d) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Sagor](https://open.spotify.com/album/36ZqWtQK4ReRCcXXrWWD5F) | 2:02 | 2024-05-30 | 2024-06-28 |
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
+| [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 |  |
 | [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 | 2023-03-12 |
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
 | [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 | 2023-09-22 |

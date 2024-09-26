@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311641,
+  "num_followers": 311636,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
-        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        },
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
-      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Baume",
         "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
+        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
+      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Cloudline (Parra for Cuva Reimagination)",
         "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 296981,
       "name": "Cloudline (Parra for Cuva Reimagination)",
       "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

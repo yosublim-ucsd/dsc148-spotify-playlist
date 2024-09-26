@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 442613,
+  "num_followers": 442816,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "It Was Gone",
         "url": "https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 307069,
       "name": "It Was Gone",
       "url": "https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Knee Deep",
-        "url": "https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg"
-      },
-      "artists": [
-        {
-          "name": "BONES UK",
-          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
-        }
-      ],
-      "duration_ms": 317421,
-      "name": "Knee Deep",
-      "url": "https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1031,6 +1015,22 @@
       "duration_ms": 194252,
       "name": "Guttural Sounds",
       "url": "https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Knee Deep",
+        "url": "https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg"
+      },
+      "artists": [
+        {
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
+        }
+      ],
+      "duration_ms": 317421,
+      "name": "Knee Deep",
+      "url": "https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Eye On The Bat",
-        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 144404,
-      "name": "My Evil",
-      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "The Waves Pt. 1",
         "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+      },
+      "artists": [
+        {
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+        }
+      ],
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1195,22 +1211,6 @@
       "duration_ms": 299400,
       "name": "Dancing with Ghosts",
       "url": "https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
-        "name": "Wife Once",
-        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
-      },
-      "artists": [
-        {
-          "name": "Memory of Speke",
-          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
-        }
-      ],
-      "duration_ms": 225036,
-      "name": "Wife Once",
-      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "You are the Problem Here",
-        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         }
       ],
-      "duration_ms": 218373,
-      "name": "You are the Problem Here",
-      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+      "duration_ms": 161462,
+      "name": "i was all over her",
+      "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Ecstasy Homosexuality",
-        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+        "name": "You are the Problem Here",
+        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
       "artists": [
         {
-          "name": "The Irrepressibles",
-          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 240335,
-      "name": "Ecstasy Homosexuality - Radio Edit",
-      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
+      "duration_ms": 218373,
+      "name": "You are the Problem Here",
+      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1423,6 +1407,22 @@
       "duration_ms": 279000,
       "name": "Nightmares on Repeat",
       "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Ecstasy Homosexuality",
+        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "duration_ms": 240335,
+      "name": "Ecstasy Homosexuality - Radio Edit",
+      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Brkn",
         "url": "https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 179805,
       "name": "Brkn",
       "url": "https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
+      },
+      "artists": [
+        {
+          "name": "Lolahol",
+          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
     },
     {
       "added_at": "2024-09-13 13:43:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-13 13:43:33",
       "album": {
-        "name": "When I say, we're alone.",
-        "url": "https://open.spotify.com/album/0tlTmd4tEEhv4A2RCOZbem"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 273288,
-      "name": "When I say, we're alone.",
-      "url": "https://open.spotify.com/track/72nCZUytj1FKy7Gf6G8SfK"
-    },
-    {
-      "added_at": "2024-09-13 13:43:33",
-      "album": {
         "name": "Tape V",
         "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177801,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+    },
+    {
+      "added_at": "2024-09-13 13:43:33",
+      "album": {
+        "name": "When I say, we're alone.",
+        "url": "https://open.spotify.com/album/0tlTmd4tEEhv4A2RCOZbem"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 273288,
+      "name": "When I say, we're alone.",
+      "url": "https://open.spotify.com/track/72nCZUytj1FKy7Gf6G8SfK"
     },
     {
       "added_at": "2024-09-13 13:43:33",

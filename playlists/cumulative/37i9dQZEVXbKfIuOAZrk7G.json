@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 206360,
       "name": "Beer For Breakfast",
       "url": "https://open.spotify.com/track/2HbNfSh9KzbXUHAchtu0VO"
@@ -9362,7 +9362,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 156097,
       "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
       "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
@@ -11210,7 +11210,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "crooked the road.",
       "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
@@ -13002,7 +13002,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -43498,10 +43498,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -52057,6 +52075,24 @@
     },
     {
       "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133893,
+      "name": "the way i see things",
+      "url": "https://open.spotify.com/track/2Ku34RwdypCEfVJyxQIfyI"
+    },
+    {
+      "album": {
         "name": "Anasheeds, Vol. 3",
         "url": "https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD"
       },
@@ -55064,7 +55100,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -56458,6 +56494,24 @@
       "duration_ms": 303400,
       "name": "WATERBOYZ (with JID & J. Cole)",
       "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
+    },
+    {
+      "album": {
+        "name": "Dinner in America Soundtrack",
+        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
+      },
+      "artists": [
+        {
+          "name": "John + Jane Q. Public",
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110110,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
     },
     {
       "album": {
@@ -60002,6 +60056,36 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "Wipo",
+          "url": "https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "\u0413\u041b\u0410\u041c\u0423\u0420",
+      "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
       "album": {

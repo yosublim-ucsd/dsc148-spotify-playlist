@@ -31147,6 +31147,24 @@
     },
     {
       "album": {
+        "name": "Skinny Loser",
+        "url": "https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208658,
+      "name": "Skinny Loser",
+      "url": "https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh"
+    },
+    {
+      "album": {
         "name": "Sky Turns Red",
         "url": "https://open.spotify.com/album/1exiaBfWEXPHrxaRRbLKUq"
       },

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-921 songs - 2 day 1 hr 51 min
+922 songs - 2 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Half Love](https://open.spotify.com/track/2QnxW3fdMpm9I9sJr5LmOw) | [Harman Sohi](https://open.spotify.com/artist/122Lfw8OKRD099oLm11Xds) | [Half Love](https://open.spotify.com/album/6nl3hlsx1ezU6iA7Zt2tga) | 3:44 | 2022-09-05 | 2022-12-16 |
 | [Hanju](https://open.spotify.com/track/2aJUxU4mqja75w650L6Ehi) | [Tarz Veer](https://open.spotify.com/artist/1LxN23cB8CKomJGdKPPSB5), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Hizar](https://open.spotify.com/album/30kPXKh9CAkJ3OEQFVOHgN) | 3:11 | 2022-08-31 | 2022-12-16 |
 | [Happiness](https://open.spotify.com/track/2oF26rDiQG5tQy0ZSjyiEd) | [Gavvy Sidhu](https://open.spotify.com/artist/7kTTYdWPURJPh2B3MtUN1x) | [Happiness](https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u) | 2:47 | 2022-02-04 | 2022-02-12 |
+| [Hasse](https://open.spotify.com/track/3IIYoXpH47gR0nqJxJyxQr) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [MAJESTIC](https://open.spotify.com/album/4lZ9HpPoT0IvoMRkVH76FQ) | 2:11 | 2024-09-25 |  |
 | [Hassna](https://open.spotify.com/track/1giF83Kz38yffC6gJoPesz) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Hassna](https://open.spotify.com/album/2wMQtCkhjjWyHCNchnWdta) | 2:32 | 2022-07-19 | 2022-08-18 |
 | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/track/1MznXUfKywMbhpRYziwU8j) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/album/09xIiHka6nQG9NjEqMdoWn) | 3:35 | 2024-09-18 |  |
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
@@ -539,7 +540,7 @@
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-09 | 2023-07-01 |
 | [Mug Shots](https://open.spotify.com/track/2pSLDrKB0bc7QF09WBKwmi) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [Mug Shots](https://open.spotify.com/album/7dVfseIDNJ4uqVKpvTz3eU) | 2:29 | 2024-07-30 | 2024-08-21 |
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
-| [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 |  |
+| [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 | 2024-09-26 |
 | [Mundraan](https://open.spotify.com/track/047BsbiQMaej8JBT1KjBUe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Mundraan](https://open.spotify.com/album/1PRLIr0sT8RcvTMN92Vcr1) | 3:21 | 2022-03-18 | 2022-04-06 |
 | [Mundri](https://open.spotify.com/track/2voQrPy1f2ewL7xe9N0Gvp) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Mundri](https://open.spotify.com/album/5DqF0dFjr3DMngneY9sel1) | 2:47 | 2024-04-01 | 2024-04-24 |
 | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/6NjBQvSxCCWaZcSuTJOF5v) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Gulrez Akhter](https://open.spotify.com/artist/0pRrQLjQnlQcMfWGk9Mu1g), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/59WBPxlOSvG7xdS6J6hwwR) | 3:48 | 2022-08-31 | 2022-09-03 |

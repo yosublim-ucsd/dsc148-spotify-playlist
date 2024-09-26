@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
   "name": "This Is MC Cabelinho",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 166829,
       "name": "At\u00e9 o c\u00e9u",
       "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
+    },
+    {
+      "album": {
+        "name": "Bala e Fogo",
+        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227552,
+      "name": "Bala e Fogo",
+      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
     },
     {
       "album": {

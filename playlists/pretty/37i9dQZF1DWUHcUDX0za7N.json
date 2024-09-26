@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 55013,
+  "num_followers": 55071,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "LAST WEEK",
-        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "LAST WEEK",
-      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 167142,
       "name": "Showcase (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "LAST WEEK",
+        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "LAST WEEK",
+      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "AREA BOYZ (DELUXE)",
+        "url": "https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "SPIN DA BLOCK",
+      "url": "https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 203615,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "AREA BOYZ (DELUXE)",
-        "url": "https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "SPIN DA BLOCK",
-      "url": "https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "UPDATE",
         "url": "https://open.spotify.com/album/1aWhxaiuigcJSg4OAPlSb7"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 145794,
       "name": "UPDATE",
       "url": "https://open.spotify.com/track/3MOIM8ODmal0b7N4m4VaBY"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Accidentally (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "AMERICA",
-      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
-      },
-      "artists": [
-        {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 172933,
       "name": "I Don't Care (feat. Bella Shmurda & Vector)",
       "url": "https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Will Be",
+        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
+      },
+      "artists": [
+        {
+          "name": "Michealz",
+          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Will Be",
+      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "AMERICA",
+      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
-      },
-      "artists": [
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 167052,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "BOYAHNAH",
         "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 167052,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p"
-      },
-      "artists": [
-        {
-          "name": "CDQ",
-          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
-        },
-        {
-          "name": "Serenit\u00e0",
-          "url": "https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Some Kind Things (feat. PsychoYP & Minz)",
         "url": "https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 166857,
       "name": "Some Kind Things (feat. PsychoYP & Minz)",
       "url": "https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "Serenit\u00e0",
+          "url": "https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
     },
     {
       "added_at": "2024-09-20 00:01:00",

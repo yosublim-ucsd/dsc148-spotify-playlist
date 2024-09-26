@@ -629,6 +629,28 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u5e83\u672b\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/7FqoF2JA7MLgUBWyBIacxk"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Deep Breath (feat. Ryoko Hirosue)",
+      "url": "https://open.spotify.com/track/2TUKM10uN43OysfBV2MbRT"
+    },
+    {
+      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/4zLLgKrOpa9jBLHisjLfsy"
       },
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 159711,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/7pQ241OlUabMsT9qwiyWtV"
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 111627,
       "name": "Take a Look",
       "url": "https://open.spotify.com/track/0hMj6nrtLTyRAMTKLjgpV8"
@@ -3393,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "What a Mess",
+        "url": "https://open.spotify.com/album/0gjd460o2XJ8r7epdSDLmM"
+      },
+      "artists": [
+        {
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "What a Mess",
+      "url": "https://open.spotify.com/track/4uUJ3t1qKdHVsPB6b5cYBW"
+    },
+    {
+      "album": {
         "name": "where everything flows",
         "url": "https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP"
       },
@@ -3636,7 +3676,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 176504,
       "name": "yokan",
       "url": "https://open.spotify.com/track/0ncp0LnvQKzwweTq7HIjn4"
@@ -3828,6 +3868,24 @@
       "duration_ms": 211123,
       "name": "\u304a\u3081\u304b\u3057",
       "url": "https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3051\u8db3\u65cf",
+        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224767,
+      "name": "\u304b\u3051\u8db3\u65cf",
+      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
     },
     {
       "album": {
@@ -5126,7 +5184,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 214708,
       "name": "\u591c\u660e\u3051\u306e\u30b3\u30ed\u30cb\u30fc",
       "url": "https://open.spotify.com/track/1eZ2uxlVSfkmHrSCdboXcu"
@@ -6120,7 +6178,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"

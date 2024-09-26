@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-429 songs - 20 hr 23 min
+430 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amor De Confusão \- Ao Vivo Em São José Do Rio Preto / 2019](https://open.spotify.com/track/5tkX6BlWWqFLexRW0UTJHD) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Pra Todo Mundo Ver \(Ao Vivo Em São José Do Rio Preto / 2019 / Vol\. 1\)](https://open.spotify.com/album/49HS8jv1Hi8sOPwlfjJ5ok) | 2:50 | 2024-01-29 |  |
 | [Amor Descarado \- Ao Vivo](https://open.spotify.com/track/7nI6cZY5Y6eAFc01cX9QjM) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Playlist \(Ao Vivo\)](https://open.spotify.com/album/2RFrKt3YIeDuHMKtpTf9en) | 3:03 | 2024-01-29 |  |
 | [Amor Perfeito Não Existe \- Acústico](https://open.spotify.com/track/1ART2CVdmUy5BWSNzopOWV) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe \(Acústico\)](https://open.spotify.com/album/00nRVr1mExO6cR3Ropafe2) | 3:06 | 2024-01-29 |  |
+| [Apaga Apaga Apaga](https://open.spotify.com/track/0dg6dHxOMrzcCHzPFQDAem) | [Maxwell Silva](https://open.spotify.com/artist/3WrwWddj5TB3Nt94EVnA20) | [Pra Tomar Cachaça](https://open.spotify.com/album/5oNHOJOscRnW1GXibylCYb) | 3:40 | 2024-09-25 |  |
 | [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/4iFnJh5s44MI142fOwXEfh) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Apaixonadinho \(Ao Vivo\)](https://open.spotify.com/album/64gTBjrAdiHpoeVODPy6v6) | 2:48 | 2024-08-08 |  |
 | [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/59lVI2XNBPIOvfT8xOxltq) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Meio Acústico \- Ao Vivo](https://open.spotify.com/album/3IBNCnIdZ9YgpjRWqc0VrQ) | 2:48 | 2024-01-29 | 2024-08-09 |
 | [Aperta o Play](https://open.spotify.com/track/3P2wbK5Ny9AQsQYLDk1w5Y) | [Andresson Costa](https://open.spotify.com/artist/4QX7GiW6GVynn3EaqEF4gg) | [Ao Vivo Em Entre Rios](https://open.spotify.com/album/44EcMGlbupi9n6zZUpzqQI) | 4:00 | 2024-01-29 |  |

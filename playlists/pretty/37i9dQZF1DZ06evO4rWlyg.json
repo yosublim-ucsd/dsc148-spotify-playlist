@@ -1,12 +1,12 @@
 {
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 137383,
+  "description": "This Is Bj\u00f6rk. Los temas esenciales, todos en una lista.",
+  "num_followers": 137422,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAAsxwqQLHPPzcIEKHBawN97",
+  "snapshot_id": "ZvIBAAAAAAAigucqz+1Ca0PMDQonOetp",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+        "name": "Venus As A Boy",
+        "url": "https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00cd Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS"
+      "duration_ms": 253533,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venus As A Boy",
-        "url": "https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m"
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 253533,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU"
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00cd Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS"
     },
     {
       "added_at": null,

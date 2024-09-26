@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36724,
+  "num_followers": 36723,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Another Heart",
         "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 142786,
       "name": "Another Heart",
       "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 177317,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163143,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 152644,
       "name": "Champions",
       "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163143,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
     },
     {
       "added_at": "2024-09-13 07:22:08",

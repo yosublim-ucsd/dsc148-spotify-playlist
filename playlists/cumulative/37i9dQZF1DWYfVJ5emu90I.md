@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-180 songs - 8 hr 48 min
+181 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [LEGACY](https://open.spotify.com/track/7ejrd0wNFUKuIC9Jr7KvSA) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [DJ Hazime](https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP) | [LEGACY](https://open.spotify.com/album/1EM4qEhEHmBIKWFhLFWY6a) | 4:26 | 2022-11-19 | 2022-12-07 |
 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 | 2022-11-19 | 2024-01-10 |
 | [Light side](https://open.spotify.com/track/6oZ8YOBJvKP5eOaSBkKz5J) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/04fvtIhBoegiVLWvm5UadN) | 1:46 | 2023-08-21 | 2023-09-28 |
+| [Live in Tokyo](https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Live in Tokyo](https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607) | 2:07 | 2024-09-25 |  |
 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 | 2023-03-02 | 2023-11-27 |
 | [Living Legend](https://open.spotify.com/track/5yOHBns65serQ82tQNPEoh) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [DIRT](https://open.spotify.com/album/4J0Mb6nTc1JyJOvR5eVv5S) | 2:18 | 2022-11-19 | 2023-03-25 |
 | [MAKE IT BOUNCE](https://open.spotify.com/track/0vaE8jaKlZW0Gpr6l6wXfV) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/3vQryqEhn8uetR4zsgCjMk) | 3:33 | 2024-02-27 | 2024-06-12 |
@@ -140,7 +141,7 @@
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-02-13 | 2024-08-22 |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2022-11-19 | 2024-04-19 |
 | [Selfish](https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc) | 3:44 | 2024-02-27 |  |
-| [SLATT](https://open.spotify.com/track/4MsvEHbuedIb4W2xhOVF0L) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 2:04 | 2024-06-12 |  |
+| [SLATT](https://open.spotify.com/track/4MsvEHbuedIb4W2xhOVF0L) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 2:04 | 2024-06-12 | 2024-09-26 |
 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 | 2022-11-19 | 2024-04-19 |
 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 | 2022-11-19 | 2023-09-27 |
 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 | 2023-06-21 | 2023-08-25 |

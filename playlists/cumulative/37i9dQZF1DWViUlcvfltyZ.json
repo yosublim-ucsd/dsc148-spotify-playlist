@@ -19023,6 +19023,24 @@
     },
     {
       "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L"
+      },
+      "artists": [
+        {
+          "name": "Guinevere",
+          "url": "https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242602,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO"
+    },
+    {
+      "album": {
         "name": "UOMINI NUDI",
         "url": "https://open.spotify.com/album/2oJchkhLxJBVkfeW0wrp7u"
       },

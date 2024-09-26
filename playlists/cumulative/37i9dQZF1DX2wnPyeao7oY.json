@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "(Re)-Extract",
+        "url": "https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "(Re)-Extract",
+      "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
+    },
+    {
+      "album": {
         "name": "Abyssal Host",
         "url": "https://open.spotify.com/album/6BbB8W8nHIohh4Qk2uDu3e"
       },
@@ -142,7 +164,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 59392,
       "name": "Blind",
       "url": "https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb"
@@ -254,6 +276,24 @@
       "duration_ms": 142138,
       "name": "Can't Stand No One",
       "url": "https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq"
+    },
+    {
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh"
+      },
+      "artists": [
+        {
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183757,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP"
     },
     {
       "album": {
@@ -438,7 +478,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 210154,
       "name": "dub driving",
       "url": "https://open.spotify.com/track/0KQDSpucaDhVKHxQGfdHgQ"
@@ -496,6 +536,24 @@
       "duration_ms": 316534,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1UFxhZOC18CAvWmOOB7OaB"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/4P1v9rqKPHcXm6M2meMugW"
+      },
+      "artists": [
+        {
+          "name": "Swollen Teeth",
+          "url": "https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205964,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1"
     },
     {
       "album": {
@@ -728,7 +786,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 201444,
       "name": "Home",
       "url": "https://open.spotify.com/track/2vwet79qkBXw1uUcCMaLhS"
@@ -865,6 +923,24 @@
     },
     {
       "album": {
+        "name": "It's All Been Done Before",
+        "url": "https://open.spotify.com/album/573XbUtpLlMcUyoVBuNSTm"
+      },
+      "artists": [
+        {
+          "name": "Flat Party",
+          "url": "https://open.spotify.com/artist/0LEQNISkhGE62KwVeheQ4p"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "It's All Been Done Before",
+      "url": "https://open.spotify.com/track/5dsHIhDV51xJOUCx6dFrLZ"
+    },
+    {
+      "album": {
         "name": "Jawbreaker",
         "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
       },
@@ -952,7 +1028,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 213043,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ"
@@ -1143,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "PROCESS",
+        "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
+      },
+      "artists": [
+        {
+          "name": "Cody Frost",
+          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "PROCESS",
+      "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
+    },
+    {
+      "album": {
         "name": "Second Sun",
         "url": "https://open.spotify.com/album/1OQwuRnYVMlHwZQVDomb8f"
       },
@@ -1190,7 +1284,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 177473,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7hjb9qCZTDhlQKz1Z4pvar"
@@ -1212,6 +1306,28 @@
       "duration_ms": 212364,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0H07jl1I7hV10nt6aso2sk"
+    },
+    {
+      "album": {
+        "name": "Severance",
+        "url": "https://open.spotify.com/album/35bpyqX7elYobRNS3o3wH4"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        },
+        {
+          "name": "Nick Chance",
+          "url": "https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212205,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/2LXQR9gVto8p0z9rrxsDLO"
     },
     {
       "album": {
@@ -1388,7 +1504,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 64489,
       "name": "TAKE A STEP AWAY",
       "url": "https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT"
@@ -1586,7 +1702,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 299154,
       "name": "Upon Burdened Hands",
       "url": "https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg"
@@ -1626,6 +1742,24 @@
       "duration_ms": 343405,
       "name": "Waging War Against God",
       "url": "https://open.spotify.com/track/1DgjkRkiSozHVBvMfb6VGt"
+    },
+    {
+      "album": {
+        "name": "Walk With Tha Talk",
+        "url": "https://open.spotify.com/album/63rbPAnhrg4M0SXIhOLh8C"
+      },
+      "artists": [
+        {
+          "name": "Street Soldier",
+          "url": "https://open.spotify.com/artist/2JTevQpqNi8NB3mPdKwaYa"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270847,
+      "name": "Walk With Tha Talk",
+      "url": "https://open.spotify.com/track/0zVIYGQs3WxBN2xxS1iVRC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80233,
+  "num_followers": 80254,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -583,30 +583,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "MELLOW CALM & CHILL",
-        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
-      },
-      "artists": [
-        {
-          "name": "MELODOWNZ",
-          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
-        },
-        {
-          "name": "Hyan",
-          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
-        },
-        {
-          "name": "rede.",
-          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MELLOW CALM & CHILL",
-      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Body Moving (Riordan Remix)",
         "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 186250,
       "name": "Body Moving - Riordan Remix",
       "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "MELLOW CALM & CHILL",
+        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "rede.",
+          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MELLOW CALM & CHILL",
+      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "KEEP IT ROLLING",
-        "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
-      },
-      "artists": [
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "KEEP IT ROLLING",
-      "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 169000,
       "name": "Without U - Radio Edit",
       "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "KEEP IT ROLLING",
+        "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
+      },
+      "artists": [
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "KEEP IT ROLLING",
+      "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1127,18 +1127,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Grindin",
-        "url": "https://open.spotify.com/album/3OG6eMwSnvA0KcAzl8BjnQ"
+        "name": "The Way Things Were (Joe Hertz Remix)",
+        "url": "https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf"
       },
       "artists": [
         {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
         }
       ],
-      "duration_ms": 298500,
-      "name": "Grindin",
-      "url": "https://open.spotify.com/track/1hyqXm4Zq9mPRlJAA4CpXa"
+      "duration_ms": 200106,
+      "name": "The Way Things Were - Joe Hertz Remix",
+      "url": "https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8"
     }
   ],
   "unique_name": "New UK Garage",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 123532,
+  "num_followers": 123566,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAACbqhWExFXYPWKQPleROPoU",
+  "snapshot_id": "ZvIBAAAAAABn74egS4gzMJ0zSPatXOAV",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Brick House 2003",
-      "url": "https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR"
+      "duration_ms": 174466,
+      "name": "The Life And Times Of A Teenage Rock God",
+      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
     },
     {
       "added_at": null,
@@ -507,18 +499,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
         }
       ],
-      "duration_ms": 174466,
-      "name": "The Life And Times Of A Teenage Rock God",
-      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
+      "duration_ms": 228693,
+      "name": "Brick House 2003",
+      "url": "https://open.spotify.com/track/45s7brWN56HC9xzQz8hHuR"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hellbilly Deluxe 2 (Standard Explicit)",
         "url": "https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 167813,
       "name": "What?",
       "url": "https://open.spotify.com/track/7LfCxBT8PCrWc62KweFhX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
-      "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
     },
     {
       "added_at": null,
@@ -614,15 +582,27 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Howard Stern",
-          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 234106,
-      "name": "The Great American Nightmare",
-      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+      "duration_ms": 163333,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
+      "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Howard Stern",
+          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "The Great American Nightmare",
+      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Medication For The Melancholy",
-      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 198613,
       "name": "Lucifer Rising",
       "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Medication For The Melancholy",
+      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 252693,
       "name": "Hands Of Death (Burn Baby Burn)",
       "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Satanic Cyanide ! The Killer Rocks On !",
+      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
     },
     {
       "added_at": null,

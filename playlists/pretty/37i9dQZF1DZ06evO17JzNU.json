@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 23921,
+  "num_followers": 23936,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAAbiJYvGGwIYqIKryQXsIHt",
+  "snapshot_id": "ZvIBAAAAAAALzbjR0Fx6xnSVEaRk+3yt",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bikini Dior",
-        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Bikini Dior",
-      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Andaban",
         "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bikini Dior",
+        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "Bikini Dior",
+      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Chakalosos",
-        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "La Vida Recia",
-      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Steps",
         "url": "https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 195250,
       "name": "Bloody Steps",
       "url": "https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Chakalosos",
+        "url": "https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "La Vida Recia",
+      "url": "https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os"
     },
     {
       "added_at": null,

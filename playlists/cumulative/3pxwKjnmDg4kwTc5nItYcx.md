@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-802 songs - 1 day 19 hr 2 min
+803 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/track/6Vi7Fvc9ahL8IhjCmnYG2P) | [Josh Pineda](https://open.spotify.com/artist/62H6ZR7aXjipbCFoTFBLwE), [Kensington Moore](https://open.spotify.com/artist/2uxqs8ftwTdK4N5BBUvVyf) | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/album/52u6IwkAZjBb4EudGFXNBl) | 3:17 | 2021-08-14 |  |
 | [Life Goes On](https://open.spotify.com/track/7HbKIvZWeJPD6JmxQymOZ8) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Life Goes On](https://open.spotify.com/album/5XCwUCcCM9fw79tU9Ga1BV) | 3:21 | 2020-07-31 | 2021-05-12 |
 | [Life Lessons in the Parking Lot](https://open.spotify.com/track/3Pzwe21HinvcRIE9Cdw9hN) | [Julia Kahn](https://open.spotify.com/artist/2QwOKaXwgYtPBG99jbwc3L) | [Life Lessons in the Parking Lot](https://open.spotify.com/album/1WhkhRCL0vcmI02grjAaTa) | 3:32 | 2021-01-23 |  |
+| [Life's An Awful Mess](https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Life's An Awful Mess](https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW) | 3:08 | 2024-09-26 |  |
 | [Lifestyle](https://open.spotify.com/track/32z22TqvJ9YaFo2FAG78Sx) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [For Now…](https://open.spotify.com/album/72Zhf96qOiglgGKf8Q8Drv) | 2:19 | 2022-09-15 |  |
 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 | 2024-01-18 |  |
 | [Limelight](https://open.spotify.com/track/3UCw3XXCyvCCr7eN9unWkS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Should We Go Dance?](https://open.spotify.com/album/0E4h4WNuQeqlXk0JTqvSVN) | 3:00 | 2023-07-14 |  |

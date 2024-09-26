@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
 
-161 songs - 10 hr 15 min
+163 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Believing in Magic \- Yakap Mo](https://open.spotify.com/track/5eJxqoLNNLaw4ZFcswEjAR) | [Alexa Ilacad](https://open.spotify.com/artist/623Vaj6cZgsHTyni1r3FTd) | [Believing in Magic \(Yakap Mo\)](https://open.spotify.com/album/1Pz3Matosr3B72myICukGB) | 4:40 | 2024-07-02 | 2024-07-09 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-08 | 2024-09-25 |
 | [Bittersweet](https://open.spotify.com/track/2shSyMcN6RhgJsPxhrWE0i) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV) | [Bittersweet](https://open.spotify.com/album/5Ybza4wV7jnIfWw3zNHjnI) | 2:57 | 2024-08-21 |  |
+| [Bituin](https://open.spotify.com/track/5hvqC3Xiz3Ll2yZtaBPnvi) | [Letters From June](https://open.spotify.com/artist/0S19WmQWKCpBiKIbDJOmeC) | [Bituin](https://open.spotify.com/album/5L9nPMD38a9DkRzyfIFOtT) | 4:47 | 2024-09-25 |  |
 | [Bulaklak Sa Buwan](https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Bulaklak Sa Buwan](https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9) | 4:55 | 2024-08-16 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-12 |  |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-07-02 | 2024-07-19 |
@@ -71,6 +72,7 @@
 | [Kumusta](https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD) | [Winrich Adarlo](https://open.spotify.com/artist/5qqDnSwcDVRKgyV0UhbfJz) | [Kumusta](https://open.spotify.com/album/1AvywRk8Rwbbcz4Q3t5zVK) | 4:52 | 2024-07-08 | 2024-09-25 |
 | [Kusapiling](https://open.spotify.com/track/52gnVgaEDDNtq2g0wubuYg) | [Anthony Meneses](https://open.spotify.com/artist/5hWdDTngERKdHiuLgb3IEj) | [Kusapiling](https://open.spotify.com/album/2wCj8SFPA6PJFREeDai5SV) | 4:36 | 2024-08-30 |  |
 | [KYGM](https://open.spotify.com/track/02XR8kfVg6AYjfeEEz3g2B) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [KYGM](https://open.spotify.com/album/4fIW5VdhoOr968dtTtvHT6) | 5:37 | 2024-07-02 | 2024-07-09 |
+| [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 |  |
 | [lanamantayo](https://open.spotify.com/track/2W7YhtNKlOluSN4rFjCs3L) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [lanamantayo](https://open.spotify.com/album/2RoMwtu2ESdIt1HYYAStGs) | 3:25 | 2024-07-02 | 2024-07-09 |
 | [Langit](https://open.spotify.com/track/0mwJVnMPx7dUODRpBfFLzi) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Langit](https://open.spotify.com/album/0TXzVqUogh7QWTFdg8NtIS) | 4:18 | 2024-07-02 | 2024-09-25 |
 | [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 |  |

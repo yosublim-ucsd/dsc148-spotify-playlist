@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Imanbek, DJ SODA
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,829 likes - 78 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,868 likes - 78 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 68 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 |
 | 69 | [GESPENSTER](https://open.spotify.com/track/0IFHokanzfRH4Jlxq127fO) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [GESPENSTER](https://open.spotify.com/album/3DHMTc37qNDdA1KEtP5YWM) | 2:48 |
 | 70 | [Talk About Us](https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Talk About Us](https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU) | 2:17 |
-| 71 | [I Forgive You \- Chromeo Remix \(radio edit\)](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \- Chromeo Remix \(radio edit\)](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
+| 71 | [I Forgive You \- \(Chromeo Remix\) \[radio edit\]](https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [I Forgive You \- Chromeo Remix \(radio edit\)](https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7) | 3:21 |
 | 72 | [Im Wagen vor mir](https://open.spotify.com/track/3jtPyUCBRCFPWT4AyLZJJc) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [MYT](https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j), [Olly Gi](https://open.spotify.com/artist/50tNBcti4Z08fnZ2pA5n66) | [Im Wagen vor mir](https://open.spotify.com/album/69nZprkiB2jJ1opzSAd6SQ) | 2:19 |
 | 73 | [watch your tone](https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [watch your tone](https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv) | 1:56 |
 | 74 | [Terra Titanic](https://open.spotify.com/track/5rQNItwYL4miXapRrY5fO4) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Terra Titanic](https://open.spotify.com/album/3pRxhX5cxuOPVEq5DRt25x) | 2:16 |

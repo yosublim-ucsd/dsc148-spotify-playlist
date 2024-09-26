@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166567,
+      "name": "Crown (Feat. Blxckie)",
+      "url": "https://open.spotify.com/track/5vUatgbXxBQpDm1UIB6pKo"
+    },
+    {
+      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp"
       },
@@ -2060,6 +2082,40 @@
       "duration_ms": 307593,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/0xl1w2q4VLojeXp4JfazPL"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Williane 108",
+          "url": "https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR"
+        },
+        {
+          "name": "Charmie",
+          "url": "https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1"
+        },
+        {
+          "name": "Taborah Johnson",
+          "url": "https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm"
+        },
+        {
+          "name": "Tynomi Banks",
+          "url": "https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179792,
+      "name": "Save Your Breath (Feat. Williane 108, Charmie, Taborah Johnson and Tynomi Banks)",
+      "url": "https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9"
     },
     {
       "album": {

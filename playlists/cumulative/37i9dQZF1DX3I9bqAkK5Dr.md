@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
-284 songs - 17 hr 12 min
+285 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Naa Kallalona](https://open.spotify.com/track/2vPgqs4VLTcdQnbkNC4IOP) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/4C6JnvQbuHnDXrwbYs2TpM) | 3:46 | 2023-05-23 | 2024-02-22 |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 | 2024-02-18 |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
+| [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 | 2024-09-25 |  |
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |
 | [Namma Raa Nesthama](https://open.spotify.com/track/3sAzCBUjCfW5b3sPvFY6Uw) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv) | [Namma Raa Nesthama](https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n) | 4:55 | 2024-07-29 |  |
 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 | 2024-03-26 | 2024-07-31 |

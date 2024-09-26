@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Jujhar
+> Discover new Punjabi artists! Cover: Naina Layal
 
-96 songs - 4 hr 35 min
+98 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bach Bach](https://open.spotify.com/track/7tvyTWcypYJw71UltNKJBE) | [Preet Salh](https://open.spotify.com/artist/7pucEDOXDf1k5JCH9bHfyx), [JOLLY BOI](https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM), [Dark Soul Studioz](https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg) | [Bach Bach](https://open.spotify.com/album/3s3Zy5hD6HUiH4Cx9qIYlP) | 3:15 | 2024-09-11 |  |
 | [Backhome](https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Backhome](https://open.spotify.com/album/7LwdMsMPLn3RgCQpyBQKPY) | 2:42 | 2024-07-10 | 2024-07-17 |
 | [Bandana](https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo) | [Jujhar](https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6) | [Bandana](https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV) | 2:26 | 2024-09-04 |  |
-| [BARREL](https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG) | [JATINDER SANDHU](https://open.spotify.com/artist/4cOSuBnGP1eqfqwk8eAnsq) | [BARREL](https://open.spotify.com/album/1g2MXouj62HSUnW3wsLDIO) | 2:12 | 2024-07-03 |  |
+| [BARREL](https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG) | [JATINDER SANDHU](https://open.spotify.com/artist/4cOSuBnGP1eqfqwk8eAnsq) | [BARREL](https://open.spotify.com/album/1g2MXouj62HSUnW3wsLDIO) | 2:12 | 2024-07-03 | 2024-09-26 |
+| [Behind Me](https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB) | [Aftab](https://open.spotify.com/artist/0DIdN3GjBs85uHaBzamAeL) | [Behind Me](https://open.spotify.com/album/1prdHbdr4ESh9zVc8Epwb3) | 3:09 | 2024-09-25 |  |
 | [Breed](https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu) | [Breed](https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp) | 2:18 | 2024-07-03 | 2024-09-12 |
 | [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 | 2024-07-24 |
 | [Catalyst](https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6) | [Catalyst](https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB) | 3:01 | 2024-07-31 | 2024-09-12 |
@@ -36,6 +37,7 @@
 | [Everyday](https://open.spotify.com/track/14vkIURua4zQpM11RG43A1) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Everyday](https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK) | 1:54 | 2024-07-31 |  |
 | [Ex Calling](https://open.spotify.com/track/2haaMSm6yleceFFnyyGhff) | [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [Me vs\. Me](https://open.spotify.com/album/1qDWw7G9QfhEBXBiFaQKr5) | 2:49 | 2024-07-03 | 2024-09-12 |
 | [Far Away](https://open.spotify.com/track/6qk9nXMAD2Sa6ibsYpOBZy) | [Jasjot Singh](https://open.spotify.com/artist/72gY45nwRuRgxyDFNsNFHd), [chmpionx](https://open.spotify.com/artist/17Qv0FuPN6pV7ho7IIdPCu) | [Far Away](https://open.spotify.com/album/2WfEO6z1bLDhhKUeiDLp9V) | 3:24 | 2024-07-03 | 2024-09-19 |
+| [Feature](https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG) | [Arav Sidhu](https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Feature](https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq) | 2:03 | 2024-09-25 |  |
 | [Feels](https://open.spotify.com/track/1qlpg9yjuSPL5TG9oVC0FN) | [INSAAN](https://open.spotify.com/artist/5Lq5t22etD9OPflf7IJbXs), [Crmxl](https://open.spotify.com/artist/3smYVKoONOJM0YoUF2Q0M9) | [Feels](https://open.spotify.com/album/5E07IDVhdIaLd3h68nJ11x) | 2:28 | 2024-07-03 | 2024-08-01 |
 | [Gaddiyan](https://open.spotify.com/track/1hB6kLVnDXqL2XJEsSj2b8) | [Preet Sukh](https://open.spotify.com/artist/17gMznd5zN6OhjvnnX0CLa) | [Gaddiyan](https://open.spotify.com/album/37Plp46cfXasRIGta76cGn) | 2:42 | 2024-07-03 | 2024-09-05 |
 | [Gal Sun](https://open.spotify.com/track/1O9S8NLFyzvWMwZmaNnafd) | [Aakanksha Sharma](https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw), [Krishna Patel](https://open.spotify.com/artist/4uHCrfkZ7hRDkQujuVpQx3) | [Gal Sun](https://open.spotify.com/album/3Co9vTPO7X7MM2bcV0ETZJ) | 3:40 | 2024-07-03 | 2024-08-01 |
@@ -56,7 +58,7 @@
 | [Kurte Pajame](https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Kurte Pajame](https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc) | 3:10 | 2024-08-20 |  |
 | [L.VE](https://open.spotify.com/track/2WtRHMfiXygJrP5rzQknXv) | [Sukhpall Channi](https://open.spotify.com/artist/1o2oKjgjDjZwAjaLnKB2LX), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [L.VE](https://open.spotify.com/album/2bRe4Ma7rmiMSbcJHb3oas) | 2:13 | 2024-07-03 | 2024-08-01 |
 | [Let It Be](https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Let It Be](https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U) | 3:34 | 2024-07-03 | 2024-09-05 |
-| [Let's Ride Together](https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn) | [Let's Ride Together](https://open.spotify.com/album/5VNzg7iZv171Y5TqB16Lm0) | 3:04 | 2024-07-03 |  |
+| [Let's Ride Together](https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn) | [Let's Ride Together](https://open.spotify.com/album/5VNzg7iZv171Y5TqB16Lm0) | 3:04 | 2024-07-03 | 2024-09-26 |
 | [Long Distance](https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL) | [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL) | [Long Distance](https://open.spotify.com/album/32aTwYbiLXm2Gna2RAkm3h) | 2:19 | 2024-07-03 | 2024-09-05 |
 | [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 | 2024-07-24 |
 | [Main Teriyan](https://open.spotify.com/track/596eXAmuLYKtUXVBgImgr2) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD) | [Main Teriyan](https://open.spotify.com/album/50eQJlIfGhAa17U636kEei) | 3:35 | 2024-07-23 | 2024-08-03 |

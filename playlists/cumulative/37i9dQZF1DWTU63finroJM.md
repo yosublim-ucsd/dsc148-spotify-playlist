@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Joaquina.
 
-1,654 songs - 3 day 18 hr 10 min
+1,655 songs - 3 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,7 +1156,7 @@
 | [Sad Girl Era](https://open.spotify.com/track/1xgBezvfQi39j9KWhg9lya) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Sad Girl Era](https://open.spotify.com/album/2FHLOAMBVJ1AuHZYWERM6K) | 2:58 | 2024-09-23 |  |
 | [Safe](https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Safe](https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF) | 3:30 | 2023-02-10 | 2023-10-06 |
 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 | 2024-09-13 |  |
-| [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-05-10 |  |
+| [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-05-10 | 2024-09-26 |
 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-09 |  |
 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 | 2024-04-12 | 2024-05-26 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-08 | 2024-03-30 |
@@ -1255,6 +1255,7 @@
 | [Strangers Again](https://open.spotify.com/track/3pGUnWmt9D5edB46cQ30MO) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Strangers Again](https://open.spotify.com/album/3NRWnIuanobC7JBHyyOaKN) | 2:37 | 2022-06-29 | 2022-08-02 |
 | [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2024-03-15 | 2024-03-18 |
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-28 | 2024-09-07 |
+| [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 | 2024-09-23 |  |
 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 | 2022-02-25 | 2022-08-02 |
 | [Subway Surfer](https://open.spotify.com/track/0EAauvPlde2oX2OPTnGipG) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Subway Surfer](https://open.spotify.com/album/0xwFbphRfBz1sy3SOKsbax) | 2:43 | 2023-05-22 | 2023-12-02 |
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-07-26 |  |

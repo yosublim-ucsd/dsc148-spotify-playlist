@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75023,
+  "num_followers": 75017,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Call Me Home",
-        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
+        "name": "Love Is an Open Road",
+        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
       },
       "artists": [
         {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+          "name": "Israel Cannan",
+          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
         }
       ],
-      "duration_ms": 201999,
-      "name": "Call Me Home",
-      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
+      "duration_ms": 166000,
+      "name": "Love Is an Open Road",
+      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Is an Open Road",
-        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2TKje4b92lHi8G5lIZogbN"
       },
       "artists": [
         {
-          "name": "Israel Cannan",
-          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Love Is an Open Road",
-      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
+      "duration_ms": 201999,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/3muMlQEQ4NyqABXTMMR6h0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Gypsy Tapes",
-        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 212585,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Where the Light Is",
         "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 215147,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Gypsy Tapes",
+        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 212585,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Furniture",
-      "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Smile At The Party",
         "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Furniture",
+      "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 232639,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Still Care (feat. NASAYA)",
-        "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        },
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Still Care (feat. NASAYA)",
-      "url": "https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -799,18 +779,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
+        "name": "Still Care (feat. NASAYA)",
+        "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
       "artists": [
         {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        },
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
         }
       ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
+      "duration_ms": 198000,
+      "name": "Still Care (feat. NASAYA)",
+      "url": "https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
       },
       "artists": [
         {
-          "name": "Make The Moon",
-          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
         }
       ],
-      "duration_ms": 205999,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
       },
       "artists": [
         {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+          "name": "Make The Moon",
+          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
+      "duration_ms": 205999,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "The Sweetest Days",
         "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 214088,
       "name": "The Sweetest Days",
       "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -939,22 +955,6 @@
       "duration_ms": 199207,
       "name": "Go, Try, Fall",
       "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-11-30 13:00:00",

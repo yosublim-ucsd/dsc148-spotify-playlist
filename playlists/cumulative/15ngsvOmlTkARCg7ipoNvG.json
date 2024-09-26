@@ -21085,6 +21085,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Mornings",
+        "url": "https://open.spotify.com/album/48XzFcadiPFFd8Ee8JKCGY"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60243,
+      "name": "Peaceful Mornings",
+      "url": "https://open.spotify.com/track/2j2imriHNXTsKCUurbMTBj"
+    },
+    {
+      "album": {
         "name": "Peaceful Night",
         "url": "https://open.spotify.com/album/3BqkmmzExBxbnc8FyheNaZ"
       },

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
-  "num_followers": 4609,
+  "num_followers": 4608,
   "original_name": "Viral 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LoYoyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lod6SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
       },
       "artists": [
         {
@@ -38,26 +38,10 @@
       ],
       "duration_ms": 211978,
       "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Why's this dealer?",
         "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Doner Kebab Nacho Alejandro Garnacho",
         "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Danika House",
-        "url": "https://open.spotify.com/album/7v347ZmPDYY1amuRDgYK7b"
-      },
-      "artists": [
-        {
-          "name": "seviclue",
-          "url": "https://open.spotify.com/artist/1rmvGARDHPozp8onUoDGhO"
-        }
-      ],
-      "duration_ms": 433407,
-      "name": "Danika House",
-      "url": "https://open.spotify.com/track/3V38HEzEhzy70zMJPCAAPc"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "rdy?!",
         "url": "https://open.spotify.com/album/7leAalwgA5rX3xZBznSb9H"
@@ -121,7 +105,39 @@
       "url": "https://open.spotify.com/track/07wEVlGJYF1G4CtZQegQbd"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Danika House",
+        "url": "https://open.spotify.com/album/7v347ZmPDYY1amuRDgYK7b"
+      },
+      "artists": [
+        {
+          "name": "seviclue",
+          "url": "https://open.spotify.com/artist/1rmvGARDHPozp8onUoDGhO"
+        }
+      ],
+      "duration_ms": 433407,
+      "name": "Danika House",
+      "url": "https://open.spotify.com/track/3V38HEzEhzy70zMJPCAAPc"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Gyere Kisl\u00e1ny",
         "url": "https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX"
@@ -141,23 +157,7 @@
       "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
@@ -173,23 +173,23 @@
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "Moja pi\u010da nie je skromn\u00e1",
-        "url": "https://open.spotify.com/album/1aWBky8wDZifMbAM7OS61p"
+        "name": "Subway McFrappe Skibidi Mbappe",
+        "url": "https://open.spotify.com/album/4Seiv2Iip1v5NQO0DjOa0L"
       },
       "artists": [
         {
-          "name": "Lifted Sounds",
-          "url": "https://open.spotify.com/artist/7aEHurEUOCLcYTwTfyBc7b"
+          "name": "Y2K SPORTS",
+          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
         }
       ],
-      "duration_ms": 60400,
-      "name": "Moja pi\u010da nie je skromn\u00e1",
-      "url": "https://open.spotify.com/track/4KYG6y626yZwPzi6Smgpog"
+      "duration_ms": 84807,
+      "name": "Subway McFrappe Skibidi Mbappe",
+      "url": "https://open.spotify.com/track/6BNiG9VldRD7rzT8IdErSZ"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "GLAMOUR",
         "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Subway McFrappe Skibidi Mbappe",
-        "url": "https://open.spotify.com/album/4Seiv2Iip1v5NQO0DjOa0L"
-      },
-      "artists": [
-        {
-          "name": "Y2K SPORTS",
-          "url": "https://open.spotify.com/artist/71MdrPBfwf0b63NyZ634Iv"
-        }
-      ],
-      "duration_ms": 84807,
-      "name": "Subway McFrappe Skibidi Mbappe",
-      "url": "https://open.spotify.com/track/6BNiG9VldRD7rzT8IdErSZ"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -249,27 +233,23 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "HOODBA",
-        "url": "https://open.spotify.com/album/3ihjLF5uOYnvhZaSKdBYtU"
+        "name": "Moja pi\u010da nie je skromn\u00e1",
+        "url": "https://open.spotify.com/album/1aWBky8wDZifMbAM7OS61p"
       },
       "artists": [
         {
-          "name": "Frayer Flexking",
-          "url": "https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ"
-        },
-        {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+          "name": "Lifted Sounds",
+          "url": "https://open.spotify.com/artist/7aEHurEUOCLcYTwTfyBc7b"
         }
       ],
-      "duration_ms": 214000,
-      "name": "HOLA",
-      "url": "https://open.spotify.com/track/57J8K2tsZE698St8RtJAq5"
+      "duration_ms": 60400,
+      "name": "Moja pi\u010da nie je skromn\u00e1",
+      "url": "https://open.spotify.com/track/4KYG6y626yZwPzi6Smgpog"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -289,7 +269,27 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "HOODBA",
+        "url": "https://open.spotify.com/album/3ihjLF5uOYnvhZaSKdBYtU"
+      },
+      "artists": [
+        {
+          "name": "Frayer Flexking",
+          "url": "https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "HOLA",
+      "url": "https://open.spotify.com/track/57J8K2tsZE698St8RtJAq5"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "BENIHANA",
         "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
@@ -313,7 +313,55 @@
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "void",
+        "url": "https://open.spotify.com/album/7wMbhXcy5aBZhpv6HYTIlx"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 101420,
+      "name": "void - super slowed",
+      "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Ostrava",
+        "url": "https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5"
+      },
+      "artists": [
+        {
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Ostrava",
+      "url": "https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "never was much of a poet 2",
         "url": "https://open.spotify.com/album/4jKEGJ9gqDrposcQeuIcoC"
@@ -333,55 +381,7 @@
       "url": "https://open.spotify.com/track/5hbNSy4BhbyFSDaRX1tv8Y"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Ostrava",
-        "url": "https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5"
-      },
-      "artists": [
-        {
-          "name": "Sergei Barracuda",
-          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Ostrava",
-      "url": "https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/6z16Su3ZCz4bC9jlfC9Kv8"
-      },
-      "artists": [
-        {
-          "name": "Smack",
-          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
-        }
-      ],
-      "duration_ms": 246649,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/1n7LledpbvZdvnkcipm72s"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "VOJNA",
         "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
@@ -405,31 +405,7 @@
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "N\u00e1mestie Slobody",
-        "url": "https://open.spotify.com/album/0e4rbsic7fkOqjYOBKhaSQ"
-      },
-      "artists": [
-        {
-          "name": "Supa",
-          "url": "https://open.spotify.com/artist/0Z5XI348kfT9peea65gluC"
-        },
-        {
-          "name": "Vec",
-          "url": "https://open.spotify.com/artist/2EXuVM16OVBrlvkB3xrhaL"
-        },
-        {
-          "name": "Jana Kirschner",
-          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
-        }
-      ],
-      "duration_ms": 267818,
-      "name": "Chlapec nem\u00e1 pl\u00e1n",
-      "url": "https://open.spotify.com/track/6GsWHxMeoF9ZLr7ez81Fk9"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
@@ -445,7 +421,7 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "GO AGAIN (feat. Superheaven)",
         "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
@@ -469,23 +445,79 @@
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "void",
-        "url": "https://open.spotify.com/album/7wMbhXcy5aBZhpv6HYTIlx"
+        "name": "Domov",
+        "url": "https://open.spotify.com/album/29Lcet7khiY4oG8v6royqA"
       },
       "artists": [
         {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
         }
       ],
-      "duration_ms": 101420,
-      "name": "void - super slowed",
-      "url": "https://open.spotify.com/track/0ujPplwuZcH5skG5R2E9Hz"
+      "duration_ms": 240000,
+      "name": "Domov",
+      "url": "https://open.spotify.com/track/5YGUlA6ApoJZwE024IGBrg"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU"
+      },
+      "artists": [
+        {
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+        }
+      ],
+      "duration_ms": 256822,
+      "name": "Woops - Original Remastered Mix",
+      "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/6z16Su3ZCz4bC9jlfC9Kv8"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "duration_ms": 246649,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/1n7LledpbvZdvnkcipm72s"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "N\u00e1mestie Slobody",
+        "url": "https://open.spotify.com/album/0e4rbsic7fkOqjYOBKhaSQ"
+      },
+      "artists": [
+        {
+          "name": "Supa",
+          "url": "https://open.spotify.com/artist/0Z5XI348kfT9peea65gluC"
+        },
+        {
+          "name": "Vec",
+          "url": "https://open.spotify.com/artist/2EXuVM16OVBrlvkB3xrhaL"
+        },
+        {
+          "name": "Jana Kirschner",
+          "url": "https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB"
+        }
+      ],
+      "duration_ms": 267818,
+      "name": "Chlapec nem\u00e1 pl\u00e1n",
+      "url": "https://open.spotify.com/track/6GsWHxMeoF9ZLr7ez81Fk9"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Hotel 471",
         "url": "https://open.spotify.com/album/4Cd8zptNeFUtLOlt4SJxzh"
@@ -501,27 +533,7 @@
       "url": "https://open.spotify.com/track/3BWYDLziiMQIRmgAhIC2XM"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Vitaj na vychodi (T challabeatz Remix)",
-        "url": "https://open.spotify.com/album/6en1T1MB6arpmcelyYMAhC"
-      },
-      "artists": [
-        {
-          "name": "HEKTOR",
-          "url": "https://open.spotify.com/artist/4vbGz0HvZZPPaoxywvFUcg"
-        },
-        {
-          "name": "T challabeatz",
-          "url": "https://open.spotify.com/artist/3NEvNhqKJA2vLEjGNEbIYV"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "Vitaj na vychodi - T challabeatz Remix",
-      "url": "https://open.spotify.com/track/0HuX2rmllO2YzEtRyVDZhw"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "never was much of a poet 2",
         "url": "https://open.spotify.com/album/4jKEGJ9gqDrposcQeuIcoC"
@@ -537,27 +549,23 @@
       "url": "https://open.spotify.com/track/7rQB3A66Brj0Xc5EXzUdgF"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "Neva Play (feat. RM of BTS)",
-        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+        "name": "never was much of a poet",
+        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
         }
       ],
-      "duration_ms": 157173,
-      "name": "Neva Play (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+      "duration_ms": 183093,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/3tT1RSLCBcsaPOXOiC3Tft"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
         "url": "https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG"
@@ -585,7 +593,27 @@
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "CRAZY (Party Remixes 1)",
         "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
@@ -601,39 +629,27 @@
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "Koka Kola",
-        "url": "https://open.spotify.com/album/7yzahvuzt2mhBNP6iriCZk"
+        "name": "PYTHON FUNK",
+        "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 137830,
-      "name": "Koka Kola",
-      "url": "https://open.spotify.com/track/5rEel71Io6fbuaNtwTf5Dm"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Woops",
-        "url": "https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU"
-      },
-      "artists": [
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
         {
-          "name": "Bountyhunter",
-          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
         }
       ],
-      "duration_ms": 256822,
-      "name": "Woops - Original Remastered Mix",
-      "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
+      "duration_ms": 74285,
+      "name": "PYTHON FUNK",
+      "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
@@ -649,155 +665,7 @@
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "THE FORCE",
-        "url": "https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 185456,
-      "name": "Murdergram Deux (feat. Eminem)",
-      "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "never was much of a poet",
-        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
-      },
-      "artists": [
-        {
-          "name": "marek",
-          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/3tT1RSLCBcsaPOXOiC3Tft"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Domov",
-        "url": "https://open.spotify.com/album/29Lcet7khiY4oG8v6royqA"
-      },
-      "artists": [
-        {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Domov",
-      "url": "https://open.spotify.com/track/5YGUlA6ApoJZwE024IGBrg"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "LIL PEEP; PART ONE",
-        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 239386,
-      "name": "praying to the sky",
-      "url": "https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "I'll Take You There Choir",
-          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
-      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "wutuwant",
-        "url": "https://open.spotify.com/album/5RHag2eLXmiwg1nuUSvXll"
-      },
-      "artists": [
-        {
-          "name": "saraunh0ly",
-          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
-        }
-      ],
-      "duration_ms": 106173,
-      "name": "wutiwant - SLOWD",
-      "url": "https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "DU\u0160A UNDERGROUNDU",
-        "url": "https://open.spotify.com/album/7LqHV0S8eBATAlaAiQjXUD"
-      },
-      "artists": [
-        {
-          "name": "Dusan Vlk",
-          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "du\u0161a undergroundu",
-      "url": "https://open.spotify.com/track/00zZUmUxA6Uk5KSQ8EqXuZ"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "never was much of a poet 2",
-        "url": "https://open.spotify.com/album/4jKEGJ9gqDrposcQeuIcoC"
-      },
-      "artists": [
-        {
-          "name": "marek",
-          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
-        }
-      ],
-      "duration_ms": 138356,
-      "name": "UBLI\u017dUJE\u0160!",
-      "url": "https://open.spotify.com/track/1KNO2sVzmwN56H0OapOFTx"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
@@ -817,7 +685,179 @@
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "THE FORCE",
+        "url": "https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 185456,
+      "name": "Murdergram Deux (feat. Eminem)",
+      "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Koka Kola",
+        "url": "https://open.spotify.com/album/7yzahvuzt2mhBNP6iriCZk"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 137830,
+      "name": "Koka Kola",
+      "url": "https://open.spotify.com/track/5rEel71Io6fbuaNtwTf5Dm"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 239386,
+      "name": "praying to the sky",
+      "url": "https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "never was much of a poet 2",
+        "url": "https://open.spotify.com/album/4jKEGJ9gqDrposcQeuIcoC"
+      },
+      "artists": [
+        {
+          "name": "marek",
+          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
+        }
+      ],
+      "duration_ms": 138356,
+      "name": "UBLI\u017dUJE\u0160!",
+      "url": "https://open.spotify.com/track/1KNO2sVzmwN56H0OapOFTx"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/0wxwo4fbUvt3kC1FFZviU5"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "elMefti",
+          "url": "https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy"
+        }
+      ],
+      "duration_ms": 149906,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/41vFFRcma9KvXHyO0yFl2C"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "DU\u0160A UNDERGROUNDU",
+        "url": "https://open.spotify.com/album/7LqHV0S8eBATAlaAiQjXUD"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "du\u0161a undergroundu",
+      "url": "https://open.spotify.com/track/00zZUmUxA6Uk5KSQ8EqXuZ"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "Vitaj na vychodi (T challabeatz Remix)",
+        "url": "https://open.spotify.com/album/6en1T1MB6arpmcelyYMAhC"
+      },
+      "artists": [
+        {
+          "name": "HEKTOR",
+          "url": "https://open.spotify.com/artist/4vbGz0HvZZPPaoxywvFUcg"
+        },
+        {
+          "name": "T challabeatz",
+          "url": "https://open.spotify.com/artist/3NEvNhqKJA2vLEjGNEbIYV"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "Vitaj na vychodi - T challabeatz Remix",
+      "url": "https://open.spotify.com/track/0HuX2rmllO2YzEtRyVDZhw"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "do i ever cross your mind",
+        "url": "https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 168856,
+      "name": "do i ever cross your mind",
+      "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
+      "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "the way i see things",
+      "url": "https://open.spotify.com/track/2Ku34RwdypCEfVJyxQIfyI"
+    },
+    {
+      "added_at": "2024-09-25 14:47:12",
       "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7"
@@ -837,76 +877,44 @@
       "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "\u043d\u0430 \u0432\u043e\u0441\u044c\u043c\u043e\u043c \u0436\u0434\u0443 \u0441 \u043d\u0435\u0442\u0435\u0440\u043f\u0435\u043d\u0438\u0435\u043c",
-        "url": "https://open.spotify.com/album/6JIttMnhnBk92GmIFeHsLw"
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
       },
       "artists": [
         {
-          "name": "\u0434\u0432\u0435 \u0442\u044b\u0441\u044f\u0447\u0438 \u044f\u0440\u0434\u043e\u0432",
-          "url": "https://open.spotify.com/artist/2yz3t5sG6GwNwqtX9cop4W"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 131666,
-      "name": "\u0432\u0435\u0440\u043d\u0438\u0442\u0435 \u0432 \u043c\u043e\u0434\u0443 \u043b\u044e\u0431\u043e\u0432\u044c",
-      "url": "https://open.spotify.com/track/1JYJJ9p0vxuirKveVEbDBt"
+      "duration_ms": 168200,
+      "name": "high school",
+      "url": "https://open.spotify.com/track/24f9sUr9sVrY2aJKVURXOJ"
     },
     {
-      "added_at": "2024-09-24 14:33:55",
+      "added_at": "2024-09-25 14:47:12",
       "album": {
-        "name": "never was much of a poet",
-        "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
+        "name": "BAKPAKK",
+        "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
       },
       "artists": [
         {
-          "name": "marek",
-          "url": "https://open.spotify.com/artist/64ZDr2Bv08SKkLMkImHNIu"
-        }
-      ],
-      "duration_ms": 153833,
-      "name": "vietor",
-      "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "Pohoda",
-        "url": "https://open.spotify.com/album/72zoPQsUW0tMmCRKRmpcUr"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1m Sebou",
-          "url": "https://open.spotify.com/artist/0kgzsELkTqlBM4FAnOwra5"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         },
         {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Pohoda",
-      "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
-    },
-    {
-      "added_at": "2024-09-24 14:33:55",
-      "album": {
-        "name": "PYTHON FUNK",
-        "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
-      },
-      "artists": [
-        {
-          "name": "RD12",
-          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
         },
         {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 74285,
-      "name": "PYTHON FUNK",
-      "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
+      "duration_ms": 147120,
+      "name": "PANNONIA",
+      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

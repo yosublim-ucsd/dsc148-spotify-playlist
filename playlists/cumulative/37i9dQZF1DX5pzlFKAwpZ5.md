@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-270 songs - 20 hr 2 min
+272 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 |  |
+| [New Age](https://open.spotify.com/track/6Ibgsk6qCE5rUn0jMA4KxA) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:58 | 2024-09-25 |  |
 | [New Van Dyke Parks](https://open.spotify.com/track/1qWjVkwBVhZzWEovby6QZa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 2:04 | 2023-03-03 | 2023-08-19 |
 | [Night](https://open.spotify.com/track/45Dxx50STJXoWCaDQkr6kx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/59qt7thlZ8bYAd4B22QeZ1) | 3:36 | 2023-09-08 | 2024-04-19 |
 | [Night](https://open.spotify.com/track/6JDfoJ0rsSDLioxEHMedDI) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/0DqfekqRy3GaOSgmgWhOR8) | 3:36 | 2024-03-07 |  |
@@ -206,6 +207,7 @@
 | [Snug](https://open.spotify.com/track/3k7dUjyDJPNbt18PMA4Ruc) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Snug](https://open.spotify.com/album/2svo0LVqj0V3nNABrxK2Uc) | 2:36 | 2022-12-30 | 2023-04-22 |
 | [sour cloud](https://open.spotify.com/track/1U719Rddu9fOErpdmtfLBV) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL) | 2:36 | 2022-10-15 | 2024-04-19 |
 | [sour cloud](https://open.spotify.com/track/4UlHvguF9t6KpdCXq24qEP) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Yolo](https://open.spotify.com/album/1Vuv5R0WLEsksBxRZW7kyb) | 2:36 | 2022-01-07 |  |
+| [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 | 2024-09-25 |  |
 | [splashes of ink](https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [splashes of ink / yours to give](https://open.spotify.com/album/5CnrS3T44HOFOF98wfncUj) | 1:51 | 2023-01-27 |  |
 | [Still Park \- Ensemble](https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 12:07 | 2022-12-30 | 2024-08-09 |
 | [Still Sky](https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Still Way \(Wave Notation 2\)](https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg) | 8:35 | 2022-12-30 |  |

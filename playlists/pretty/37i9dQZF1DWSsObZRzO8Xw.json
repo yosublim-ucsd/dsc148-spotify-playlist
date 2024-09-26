@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 183816,
+  "num_followers": 183936,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
-      },
-      "artists": [
-        {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
-        }
-      ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205293,
       "name": "Jap'n Cazz",
       "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Yum !!",
-        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
+        "name": "Trees Before Fall",
+        "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
       },
       "artists": [
         {
-          "name": "standards",
-          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
+          "name": "Trees Before Fall",
+          "url": "https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8"
         }
       ],
-      "duration_ms": 188129,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+      "duration_ms": 299484,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Trees Before Fall",
-        "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
+        "name": "Yum !!",
+        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
       "artists": [
         {
-          "name": "Trees Before Fall",
-          "url": "https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8"
+          "name": "standards",
+          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
         }
       ],
-      "duration_ms": 299484,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
+      "duration_ms": 188129,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -871,22 +871,6 @@
       "duration_ms": 126789,
       "name": "Not To Follow",
       "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Naufragio",
-        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
-      },
-      "artists": [
-        {
-          "name": "Wanderlust",
-          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Baile Amargo",
-      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 302869,
       "name": "Jazztas",
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Naufragio",
+        "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
+      },
+      "artists": [
+        {
+          "name": "Wanderlust",
+          "url": "https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Baile Amargo",
+      "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Migraciones",
-        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
-        }
-      ],
-      "duration_ms": 249991,
-      "name": "El Exilio de Godomar",
-      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Limerencia: Split",
         "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 262666,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Migraciones",
+        "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9"
+        }
+      ],
+      "duration_ms": 249991,
+      "name": "El Exilio de Godomar",
+      "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Horizons / Rapture",
         "url": "https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt"
       },
@@ -1499,26 +1515,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Fraction",
-        "url": "https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl"
-      },
-      "artists": [
-        {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
-        },
-        {
-          "name": "Tomotaka Tsuji",
-          "url": "https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2"
-        }
-      ],
-      "duration_ms": 283228,
-      "name": "D - feat. Tomotaka Tsuji",
-      "url": "https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Caballeros del Albedr\u00edo",
         "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
       },
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR"
+        "name": "Fraction",
+        "url": "https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl"
       },
       "artists": [
         {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+        },
+        {
+          "name": "Tomotaka Tsuji",
+          "url": "https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2"
         }
       ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C"
+      "duration_ms": 283228,
+      "name": "D - feat. Tomotaka Tsuji",
+      "url": "https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq"
     },
     {
       "added_at": "2024-09-20 00:01:00",

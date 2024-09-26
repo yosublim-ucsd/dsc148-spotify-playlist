@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Mientras Septiembre no se acabe, nosotros seguimos la fiesta con Grupo Marca Registrada y Deorro! 🇲🇽🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,757 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,940 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 33 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 34 | [Un Amor Bonito](https://open.spotify.com/track/1JQfkZedTZnrudWt104FEt) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Un Amor Bonito](https://open.spotify.com/album/6dzoLkJvnmpTfjaElAPrEG) | 2:33 |
 | 35 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |
-| 36 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \- Con David Summers](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
+| 36 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
 | 37 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 |
 | 38 | [Hombre Roto](https://open.spotify.com/track/11skx4w5NOnkrUk2CYTYiM) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hombre Roto](https://open.spotify.com/album/3nPFVNL38CvmoGCWw5fi8x) | 3:21 |
 | 39 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 |

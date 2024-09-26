@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9839,
+  "num_followers": 9846,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "5.4 [My Ultimate First Love]",
-        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "My Ultimate First Love",
-      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
         "name": "Love.zip",
         "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188013,
       "name": "FRIEND THE END",
       "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
+        "name": "5.4 [My Ultimate First Love]",
+        "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "My Ultimate First Love",
+      "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -443,26 +443,6 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -539,6 +519,26 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 191625,
       "name": "Secret",
       "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 170556,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
         "name": "Attitude #4",
         "url": "https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 212840,
       "name": "On You (feat. 1ho & Mabinc)",
       "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
-        "name": "about you",
-        "url": "https://open.spotify.com/album/5Eflg5U824F0iwobH0Llri"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 170556,
-      "name": "about you",
-      "url": "https://open.spotify.com/track/12bwLAjNqLOXlYd09LEXXQ"
     },
     {
       "added_at": "2024-09-13 09:14:48",

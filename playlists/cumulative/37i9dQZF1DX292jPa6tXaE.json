@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Jujhar",
+  "description": "Discover new Punjabi artists! Cover: Naina Layal",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -254,10 +254,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 132272,
       "name": "BARREL",
       "url": "https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG"
+    },
+    {
+      "album": {
+        "name": "Behind Me",
+        "url": "https://open.spotify.com/album/1prdHbdr4ESh9zVc8Epwb3"
+      },
+      "artists": [
+        {
+          "name": "Aftab",
+          "url": "https://open.spotify.com/artist/0DIdN3GjBs85uHaBzamAeL"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB"
     },
     {
       "album": {
@@ -598,6 +616,28 @@
       "duration_ms": 204980,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6qk9nXMAD2Sa6ibsYpOBZy"
+    },
+    {
+      "album": {
+        "name": "Feature",
+        "url": "https://open.spotify.com/album/5h9Gzx928Hnm7BA4DbCsVq"
+      },
+      "artists": [
+        {
+          "name": "Arav Sidhu",
+          "url": "https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123488,
+      "name": "Feature",
+      "url": "https://open.spotify.com/track/6sgAtjjWIOhbqVUjnfKzkG"
     },
     {
       "album": {
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 184273,
       "name": "Let's Ride Together",
       "url": "https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi"

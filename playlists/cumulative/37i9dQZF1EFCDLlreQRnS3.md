@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 36 min
+128 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 | 2024-01-29 |  |
 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 | 2024-01-29 |  |
 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 | 2024-01-29 |  |
+| [Heaven Won't Cry](https://open.spotify.com/track/2yo6Ss3Ach5WN8AxgGf35L) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:21 | 2024-09-25 |  |
 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 | 2024-01-29 |  |
 | [Hungover You](https://open.spotify.com/track/5oS8taN73zLkFvdvkXjSHS) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/1T2yR2jcjLyvcZBtr8k1AE) | 3:04 | 2024-01-29 |  |
 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-15 |  |
@@ -75,6 +76,7 @@
 | [Love To Go](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Love To Go](https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv) | 2:49 | 2024-01-29 |  |
 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 | 2024-01-29 |  |
 | [Lover](https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [Lover](https://open.spotify.com/album/5IFOgVSkDJ1Umd6Fej7Ab1) | 3:41 | 2024-01-29 |  |
+| [Medicine](https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 2:50 | 2024-09-25 |  |
 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 | 2024-03-15 |  |
 | [Modern Melancholia](https://open.spotify.com/track/3brEzLUzMaCtfcSKrKqyIg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:12 | 2024-09-22 |  |
 | [Modern Melancholia](https://open.spotify.com/track/2pt2yUMaj7mggKCSJ3Ttei) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6vkr8DGARtN8y3nsKRBu4E) | 4:13 | 2024-01-29 | 2024-09-23 |

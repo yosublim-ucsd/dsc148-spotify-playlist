@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Future, Bad Bunny, Bon Iver, Katy Perry, GloRilla, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,222,069 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,222,224 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 50 | [Die For The Party](https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Die For The Party](https://open.spotify.com/album/7hEV7T7NjXra4EtsUGuVKZ) | 2:33 |
 | 51 | [All Threes](https://open.spotify.com/track/35sd4MUuPOsHGZfUPLqf5z) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Five Dice, All Threes](https://open.spotify.com/album/7fA59NGyyUumdoTH3HmWav) | 5:24 |
 | 52 | [Sophie’s House](https://open.spotify.com/track/3vTRzi233LUKYvhfU8g78P) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Sophie’s House](https://open.spotify.com/album/64irtMyKuv1ySt0qqPHPFo) | 4:15 |
-| 53 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
+| 53 | [All My Life](https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy) | 3:22 |
 | 54 | [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 |
 | 55 | [that's it](https://open.spotify.com/track/30UYANbzh1shIq8BjrnSlf) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [that's it](https://open.spotify.com/album/7D82Vh8pRfSVIyvHGIxoro) | 2:21 |
 | 56 | [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 91 | [7 Horses](https://open.spotify.com/track/6Y6zRzq4Vu01TiEvp0cIcI) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [7 Horses](https://open.spotify.com/album/4wPS9o2EKkC3fX1q1Zhynd) | 4:22 |
 | 92 | [Moshpit](https://open.spotify.com/track/5plrd9A87xVkXGtkg9Kh9L) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Moshpit](https://open.spotify.com/album/0luXOFX2F18UaLbG9lcldL) | 2:14 |
 | 93 | [Scientology](https://open.spotify.com/track/7Jy5gbCWvPHYWbFWaBNY0L) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Havoc](https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:18 |
-| 94 | [Please Me \(feat\. The Linda Lindas\)](https://open.spotify.com/track/6HXPYn5p3zhGSW3mNyLNOk) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [I Love You Too](https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF) | 1:35 |
+| 94 | [Please Me](https://open.spotify.com/track/6ecgLf8SKoOC8ViMbbSlMY) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Please Me](https://open.spotify.com/album/6z7Z94e9sJqvbwOh64sDK1) | 1:35 |
 | 95 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 |
 | 96 | [Adult Swim](https://open.spotify.com/track/0aVG3mmGxMBKpOXG86kfyK) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Adult Swim](https://open.spotify.com/album/3rgczmiiifVtUfq7vTtqyA) | 1:48 |
 | 97 | [Estrelas](https://open.spotify.com/track/4Fx2kqAeOMDXPaZ9HRAtiB) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 3:15 |

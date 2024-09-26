@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom
 
-136 songs - 5 hr 33 min
+137 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Get Along](https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 3:43 | 2022-10-12 | 2024-04-19 |
 | [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 | 2022-04-08 |  |
 | [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-08-17 | 2024-04-19 |
+| [Goin’ Bananas Banana Dance](https://open.spotify.com/track/3mYDzV5qUUZJwEycRJyj3N) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Goin’ Bananas Banana Dance](https://open.spotify.com/album/0AQtN2ZMnpu51lOxkq9Qo5) | 0:49 | 2024-09-25 |  |
 | [Gonna Be My Day](https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f) | 2:38 | 2023-08-17 | 2024-04-19 |
 | [Gonna Be My Day](https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:38 | 2022-04-08 | 2024-08-17 |
 | [Good Good Day](https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:37 | 2022-04-08 | 2024-08-17 |

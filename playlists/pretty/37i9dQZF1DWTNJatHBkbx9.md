@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Baaba J, Juls and Oladapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 49 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
 | 50 | [SOTEY](https://open.spotify.com/track/5IDpAYNMGX4z6VBspb6Rvk) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [SOTEY](https://open.spotify.com/album/2XEkQE2Ig42tW6TwMXXQcL) | 2:40 |
 | 51 | [Tides](https://open.spotify.com/track/4y4rdAhUNDCTA69A7ssyiV) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 4:32 |
-| 52 | [UNO \(feat\. BenjiFlow\)](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 |
+| 52 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 |
 | 53 | [Your Place](https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa) | [Stella Sena](https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6) | [Your Place](https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7) | 2:28 |
 | 54 | [Children With Adult Problems](https://open.spotify.com/track/3rWSgIDcqcNEicqOc5WSNu) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Children Of The Sun \(Deluxe\)](https://open.spotify.com/album/5JOXrkfzFRN0y2sKoj3nPt) | 3:31 |
 | 55 | [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 |

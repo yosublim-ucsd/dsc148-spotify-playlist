@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,803 songs - 1 day 13 hr 8 min
+1,804 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,6 +1176,7 @@
 | [Peaceful Moments](https://open.spotify.com/track/2wSVdxETIakJGpMx8co7PP) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Peaceful Moments](https://open.spotify.com/album/68UoGqyFrVntLGBozUGBlf) | 1:00 | 2024-04-04 |  |
 | [Peaceful Morning \- Ambient Version](https://open.spotify.com/track/2LO3qrKtIjSfoGOsHBwIyQ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Peaceful Morning \(Ambient Version\)](https://open.spotify.com/album/5bGRwuCS30i29AdgYjTZ3b) | 1:01 | 2022-12-30 |  |
 | [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/track/1cwa6951efu9e3ycXgTy6G) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/album/0gOZlaugyiY5eJSFbw5WPF) | 1:01 | 2022-12-29 |  |
+| [Peaceful Mornings](https://open.spotify.com/track/2j2imriHNXTsKCUurbMTBj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Peaceful Mornings](https://open.spotify.com/album/48XzFcadiPFFd8Ee8JKCGY) | 1:00 | 2024-09-25 |  |
 | [Peaceful Night](https://open.spotify.com/track/7EsXtGQcOlqsFYvamEgDWb) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Peaceful Night](https://open.spotify.com/album/3BqkmmzExBxbnc8FyheNaZ) | 1:00 | 2024-07-10 |  |
 | [Peaceful Reflections](https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Peaceful Reflections](https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw) | 1:01 | 2022-11-01 |  |
 | [Peaceful Silence](https://open.spotify.com/track/4vZrqIZc16vNAhhh4uADPu) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:05 | 2022-06-01 |  |

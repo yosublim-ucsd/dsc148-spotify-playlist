@@ -4,7 +4,7 @@
 
 > ‧₊˚ 🎐✩ 🫧 tumblr golden era covers from role model, tkay maidza, & good neighbours\. dust off ur docs!!!!₊˚⊹♡
 
-2,993 songs - 6 day 17 hr 56 min
+2,997 songs - 6 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-08-02 | 2020-01-10 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-02-06 | 2021-03-19 |
 | [Candy](https://open.spotify.com/track/1G6LCMsx0HPSrWXgSVzHKB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Candy](https://open.spotify.com/album/5NaAAxoTOC3eTwmVMHrxtK) | 3:51 | 2019-07-30\* | 2020-02-05 |
-| [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 | 2024-04-26 | 2024-06-26 |
+| [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 | 2024-04-26 |  |
 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 | 2023-10-11 |
 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 | 2023-11-17 | 2023-12-14 |
 | [Cannonball](https://open.spotify.com/track/0tpGWERtzxdy1mE7SrjApk) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Jcksn Ave.](https://open.spotify.com/artist/37GcQTOtCy5LuitT57a8mu) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:16 | 2021-01-13 | 2021-02-09 |
@@ -549,6 +549,7 @@
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 | 2022-01-08 |
 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 | 2024-04-26 |  |
 | [Colors](https://open.spotify.com/track/4FqMPJlvfY5Nfo3gRKcNxl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 4:09 | 2024-04-19 | 2024-04-27 |
+| [Colour Me In \[Demo\]](https://open.spotify.com/track/0go3SbytWd8wRhZVeZ6Pby) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Colour Me In \[Demo\]](https://open.spotify.com/album/33LQ8Qhq1XzLDrHp6BQEqm) | 2:20 | 2024-09-25 |  |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-04-29 | 2022-06-16 |
 | [Come Back Baby \- Slowed](https://open.spotify.com/track/5RGwpAcEZDLDCNXYCMv6ao) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella \(Slowed\)](https://open.spotify.com/album/2jUR6Rr0MPOzoA428VVNtm) | 3:28 | 2021-12-16 | 2022-02-26 |
 | [Come On Let's Go](https://open.spotify.com/track/2omiaJwimfJMlcM6yw2YmA) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:17 | 2024-06-14 | 2024-07-27 |
@@ -1183,6 +1184,7 @@
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-18 | 2024-05-21 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-01-18 | 2024-04-19 |
 | [homebody](https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [homebody](https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f) | 3:09 | 2020-03-06 | 2021-04-02 |
+| [Homecoming](https://open.spotify.com/track/1B516F0EkWq9uBuGzlEbZs) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Reality Check \(North American Edition\)](https://open.spotify.com/album/6XCpg3EQwXZaDVQu0c9M7t) | 3:04 | 2024-09-25 |  |
 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 | 2024-09-06 |  |
 | [Honestly](https://open.spotify.com/track/2XCcjOmTFZcbOxZLETa5Hw) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Honestly](https://open.spotify.com/album/0qXfjAuzOgFGiEQcRGlG2A) | 3:37 | 2019-07-30\* | 2019-09-14 |
 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 | 2020-07-18 | 2020-09-25 |
@@ -2174,6 +2176,7 @@
 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-10 | 2023-04-25 |
 | [Sandals](https://open.spotify.com/track/08mbmCSc6wEUNlMvi0Ukzu) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2019-10-11 | 2020-02-05 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 | 2023-02-11 |
+| [Sandy Kim](https://open.spotify.com/track/70JkATjg7LzZ9HA22SmmcK) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [Vacation II](https://open.spotify.com/album/4zpGwJAUaZLX4psJ5XEFM7) | 1:55 | 2024-09-25 |  |
 | [Sarah](https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah](https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi) | 2:42 | 2023-06-30 | 2023-07-29 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-20 | 2022-10-13 |
 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 | 2021-12-03 | 2022-02-26 |
@@ -2712,6 +2715,7 @@
 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/3AQrryq4mc956K3RtLZAFo) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 4:07 | 2020-05-22 | 2020-08-20 |
 | [Took My Time \(feat\. rei brown & sam.sts\)](https://open.spotify.com/track/2wvoPGQYWIHzoORg8OnmTe) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Took My Time](https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp) | 3:45 | 2022-08-18 | 2022-08-27 |
 | [Toothache](https://open.spotify.com/track/5Fh66E0Z0rCOc5aERgY8I6) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Toothache](https://open.spotify.com/album/05hcgffjnTMd4hQXYTOGqK) | 4:54 | 2019-08-02 | 2019-10-03 |
+| [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-25 |  |
 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 | 2023-04-14 | 2024-03-30 |
 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2024-02-15 | 2024-04-06 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-09-07 |

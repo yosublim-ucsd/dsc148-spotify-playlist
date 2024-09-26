@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1764,
+  "num_followers": 1766,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Chica Chica",
-        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
-      },
-      "artists": [
-        {
-          "name": "Chica Chica",
-          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Chica Chica",
-      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Leave It",
         "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 248344,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Chica Chica",
+        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
+      },
+      "artists": [
+        {
+          "name": "Chica Chica",
+          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Chica Chica",
+      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
-      },
-      "artists": [
-        {
-          "name": "Will Knox",
-          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
-        }
-      ],
-      "duration_ms": 173278,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Partiyi Durdurun!",
         "url": "https://open.spotify.com/album/1HK4nensGYLHAAbUVUSX5k"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 186268,
       "name": "blijven wachten",
       "url": "https://open.spotify.com/track/3OBKQCcY4Tc19GMdD6Ker2"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        }
+      ],
+      "duration_ms": 173278,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Finding Myself Alone",
-        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
-      },
-      "artists": [
-        {
-          "name": "Henk Johannes",
-          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Finding Myself Alone",
-      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/5PbraKeNPvluvXiiqdsZuz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 200193,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7o8bOQ9c4DMP8xsLNmTi5U"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Finding Myself Alone",
+        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
+      },
+      "artists": [
+        {
+          "name": "Henk Johannes",
+          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Finding Myself Alone",
+      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
+      },
+      "artists": [
+        {
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
+        }
+      ],
+      "duration_ms": 202445,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "High Wire",
         "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
-      },
-      "artists": [
-        {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
-        }
-      ],
-      "duration_ms": 202445,
-      "name": "Visitor",
-      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "My disguise",
         "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 222462,
       "name": "My disguise",
       "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
-      },
-      "artists": [
-        {
-          "name": "Sonic Whip",
-          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -723,18 +707,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs"
       },
       "artists": [
         {
-          "name": "MADOUX",
-          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
+          "name": "Sonic Whip",
+          "url": "https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan"
         }
       ],
-      "duration_ms": 207440,
-      "name": "In Our Blood",
-      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
+      "duration_ms": 209002,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -751,6 +735,22 @@
       "duration_ms": 237926,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
+      },
+      "artists": [
+        {
+          "name": "MADOUX",
+          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "In Our Blood",
+      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "All Is Me",
+        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
+        }
+      ],
+      "duration_ms": 194370,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Melanotan - Detonate",
         "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Isaak's Marble",
-        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
-      },
-      "artists": [
-        {
-          "name": "Heath",
-          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
-        }
-      ],
-      "duration_ms": 601682,
-      "name": "Isaak's Marble",
-      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "jij praat. (blah blah blah)",
         "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 155494,
       "name": "jij praat. (blah blah blah)",
       "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "Isaak's Marble",
+        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
+      },
+      "artists": [
+        {
+          "name": "Heath",
+          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
+        }
+      ],
+      "duration_ms": 601682,
+      "name": "Isaak's Marble",
+      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "All Is Me",
-        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 194370,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Flat Caps And Rain Macs",
         "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "iK",
-        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
-      },
-      "artists": [
-        {
-          "name": "BUG",
-          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
-        }
-      ],
-      "duration_ms": 130869,
-      "name": "iK",
-      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 246000,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0oadjfzZvkbgP7ob0T9ul1"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "iK",
+        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
+      },
+      "artists": [
+        {
+          "name": "BUG",
+          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
+        }
+      ],
+      "duration_ms": 130869,
+      "name": "iK",
+      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 301764,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
-      },
-      "artists": [
-        {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "I Can't Lie",
         "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 164750,
       "name": "I Can't Lie",
       "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
+      },
+      "artists": [
+        {
+          "name": "PXRPLE JAZZ",
+          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
+        }
+      ],
+      "duration_ms": 145570,
+      "name": "PONCHO",
+      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
+        "name": "Order Of Operations",
+        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
       "artists": [
         {
-          "name": "PXRPLE JAZZ",
-          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
+          "name": "Scherry",
+          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
         }
       ],
-      "duration_ms": 145570,
-      "name": "PONCHO",
-      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
+      "duration_ms": 431600,
+      "name": "Order Of Operations",
+      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "Order Of Operations",
-        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
-      },
-      "artists": [
-        {
-          "name": "Scherry",
-          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
-        }
-      ],
-      "duration_ms": 431600,
-      "name": "Order Of Operations",
-      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "met de beste intenties",
         "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "YOYO",
-        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
-      },
-      "artists": [
-        {
-          "name": "ENJAKU YOYO",
-          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
-        }
-      ],
-      "duration_ms": 283124,
-      "name": "YOYO",
-      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
         "name": "Black Beach",
         "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 371520,
       "name": "8888",
       "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
+        "name": "YOYO",
+        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
+      },
+      "artists": [
+        {
+          "name": "ENJAKU YOYO",
+          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
+        }
+      ],
+      "duration_ms": 283124,
+      "name": "YOYO",
+      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
+        "name": "In Een Droom",
+        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+      },
+      "artists": [
+        {
+          "name": "Waakhond",
+          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "In Een Droom",
+      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+    },
+    {
+      "added_at": "2024-09-16 07:25:57",
+      "album": {
         "name": "Happy Child",
         "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
       },
@@ -1367,18 +1383,22 @@
     {
       "added_at": "2024-09-16 07:25:57",
       "album": {
-        "name": "In Een Droom",
-        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+        "name": "Chasing The Wind (Live At Wisseloord Studios)",
+        "url": "https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI"
       },
       "artists": [
         {
-          "name": "Waakhond",
-          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        },
+        {
+          "name": "3SOME",
+          "url": "https://open.spotify.com/artist/6ajT2bXlQ2HFzBbIh9Lvad"
         }
       ],
-      "duration_ms": 207520,
-      "name": "In Een Droom",
-      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+      "duration_ms": 175750,
+      "name": "Chasing The Wind - Live At Wisseloord Studios",
+      "url": "https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a"
     },
     {
       "added_at": "2024-09-16 07:25:57",
@@ -1411,26 +1431,6 @@
       "duration_ms": 133894,
       "name": "Lastig",
       "url": "https://open.spotify.com/track/0sKlW9AFXlHAaxGSX2sfrc"
-    },
-    {
-      "added_at": "2024-09-16 07:25:57",
-      "album": {
-        "name": "Chasing The Wind (Live At Wisseloord Studios)",
-        "url": "https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        },
-        {
-          "name": "3SOME",
-          "url": "https://open.spotify.com/artist/6ajT2bXlQ2HFzBbIh9Lvad"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Chasing The Wind - Live At Wisseloord Studios",
-      "url": "https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a"
     },
     {
       "added_at": "2024-09-16 07:25:57",

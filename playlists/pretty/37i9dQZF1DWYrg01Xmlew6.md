@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Cover: Frezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,974 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,010 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 34 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
 | 35 | [FILLER](https://open.spotify.com/track/3DMSz9IhDVwCl0UEyAFnVP) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [FILLER](https://open.spotify.com/album/4f6ZrCXaC1yxTo6QT1bHvT) | 2:51 |
 | 36 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 |
-| 37 | [Jacquemus Blu](https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH) | [Jacquemus Blu](https://open.spotify.com/album/3c2pAKv5vVzHoQaNN5I9jK) | 2:44 |
+| 37 | [Jacquemus Blu](https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [giuzzybeatz](https://open.spotify.com/artist/1YIUIPS32PJNx62ymMfrDz) | [Jacquemus Blu](https://open.spotify.com/album/3c2pAKv5vVzHoQaNN5I9jK) | 2:44 |
 | 38 | [PUSH!](https://open.spotify.com/track/3M1shvccYsWzWk0HW5uGTU) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [PUSH!](https://open.spotify.com/album/1VhFfUci89uff0TDbyo5Yv) | 2:32 |
 | 39 | [PACTO](https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [PACTO](https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm) | 2:01 |
 | 40 | [HERMES](https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:56 |

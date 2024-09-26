@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1111158,
+  "num_followers": 1111265,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mentos and Coke",
-        "url": "https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf"
+        "name": "Midnight Snack",
+        "url": "https://open.spotify.com/album/6c4dktaL7CdIeDZnTzBMBB"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
         }
       ],
-      "duration_ms": 169950,
-      "name": "Mentos and Coke",
-      "url": "https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma"
+      "duration_ms": 188971,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/02sPuecm24k5cekMMH5JCW"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -987,34 +987,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Midnight Snack",
-        "url": "https://open.spotify.com/album/6c4dktaL7CdIeDZnTzBMBB"
+        "name": "Mentos and Coke",
+        "url": "https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf"
       },
       "artists": [
         {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 188971,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/02sPuecm24k5cekMMH5JCW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Little One",
-        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "Little One",
-      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+      "duration_ms": 169950,
+      "name": "Mentos and Coke",
+      "url": "https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Little One",
+        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "You Tear Me Apart",
         "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Your Day Will Come",
         "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 120800,
       "name": "Embarrassed Dog",
       "url": "https://open.spotify.com/track/5dBCI9rpjUHrBtQkgGlQ7A"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 119666,
-      "name": "Unifying Thought",
-      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 190147,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "People Need People",
-        "url": "https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6"
-      },
-      "artists": [
-        {
-          "name": "JOBA",
-          "url": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "People Need People",
-      "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+        "name": "People Need People",
+        "url": "https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6"
       },
       "artists": [
         {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+          "name": "JOBA",
+          "url": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
         }
       ],
-      "duration_ms": 184506,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+      "duration_ms": 151706,
+      "name": "People Need People",
+      "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 239604,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL"
+      },
+      "artists": [
+        {
+          "name": "dyl dion",
+          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "amphetamine",
+        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 120241,
+      "name": "amphetamine",
+      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "amphetamine",
-        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 120241,
-      "name": "amphetamine",
-      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "another day",
         "url": "https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Workin' On It",
-        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 215823,
-      "name": "Workin\u2019 On It",
-      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Off and On",
         "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 250909,
       "name": "Off and On",
       "url": "https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Workin' On It",
+        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 215823,
+      "name": "Workin\u2019 On It",
+      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
     },
     {
       "added_at": "2024-09-13 04:00:00",

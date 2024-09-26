@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Casting Shadows",
+        "url": "https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192416,
+      "name": "Casting Shadows",
+      "url": "https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW"
+    },
+    {
+      "album": {
         "name": "Cerulean Coast",
         "url": "https://open.spotify.com/album/0TdiawvezxLE0aWFhNW6z8"
       },

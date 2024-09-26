@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 
 > Ya no vuelvas, a menos que sea cuarteteando\. Foto: Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,876 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,944 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 | 43 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 |
 | 44 | [Casi Que Me Pierdo](https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Casi Que Me Pierdo](https://open.spotify.com/album/5IQ4cyCs8yk8NSQfZ9VYao) | 2:25 |
 | 45 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 |
-| 46 | [Carne y Hueso](https://open.spotify.com/track/7bUhlsgbmyOXhUxiE1g381) | [Diego Giannini](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Así Nomás](https://open.spotify.com/album/5L2L50FpHH4Ap0EDby2A7I) | 3:20 |
+| 46 | [Carne y Hueso](https://open.spotify.com/track/7bUhlsgbmyOXhUxiE1g381) | [Gianni](https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU) | [Así Nomás](https://open.spotify.com/album/5L2L50FpHH4Ap0EDby2A7I) | 3:20 |
 | 47 | [Por Mil Noches](https://open.spotify.com/track/6pb0BcGj3j5J8jE4qw0Vkq) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Por Mil Noches](https://open.spotify.com/album/3XCYiTerlIp8BcwJKteFbJ) | 3:54 |
 | 48 | [Dime Que Pasó](https://open.spotify.com/track/3aflQMCMmqhs9S8JjGNIUG) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Dime Que Pasó](https://open.spotify.com/album/5gGUOdk6ryPztvUtN6VVZx) | 3:09 |
 | 49 | [Latidos](https://open.spotify.com/track/4Dky5d2domAbinmF4gjjiF) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Latidos](https://open.spotify.com/album/6qAaJdy2UM3q2ZGvm0v3jy) | 2:53 |

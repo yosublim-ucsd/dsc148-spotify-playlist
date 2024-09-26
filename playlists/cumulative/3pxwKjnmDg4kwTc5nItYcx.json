@@ -7779,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "Life's An Awful Mess",
+        "url": "https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW"
+      },
+      "artists": [
+        {
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188865,
+      "name": "Life's An Awful Mess",
+      "url": "https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn"
+    },
+    {
+      "album": {
         "name": "For Now\u2026",
         "url": "https://open.spotify.com/album/72Zhf96qOiglgGKf8Q8Drv"
       },

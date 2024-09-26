@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
@@ -5306,6 +5306,24 @@
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/6C8v7CKuLRbgRNa9YUWWk8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269049,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/1AiHWeg5sKdI4ZguyJn4dN"
     },
     {
       "album": {

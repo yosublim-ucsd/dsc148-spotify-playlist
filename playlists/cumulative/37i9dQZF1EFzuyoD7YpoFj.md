@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-411 songs - 21 hr 56 min
+412 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [What A Fair Thing Is A Woman](https://open.spotify.com/track/4vODJZxWzUoiNVFqW1fsww) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 4:12 | 2024-07-24 |  |
 | [What Do You Think About \- Radio Edit](https://open.spotify.com/track/11izjBmZj9dP8Z2QgbiGjW) | [2 Black](https://open.spotify.com/artist/7xdKYR7N2gDELPnlvUmOZ7) | [The Album](https://open.spotify.com/album/38ZcB4gvAcbmE7LHoB1NuM) | 3:00 | 2024-07-24 |  |
 | [What Shall I Do?](https://open.spotify.com/track/7urY6ZZG2eES79I0cVj12r) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [The London Sessions \- 1934](https://open.spotify.com/album/55Eg5wwt6GM94gsklJw7td) | 2:43 | 2024-07-24 |  |
-| [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 | 2024-07-24 |  |
+| [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 | 2024-09-25 |  |
+| [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 | 2024-07-24 | 2024-09-26 |
 | [When I Found You](https://open.spotify.com/track/2wjSUhL0W8kmoGZerQTgzL) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [All Time Greatest Hits](https://open.spotify.com/album/68P0fMo1NnXQ0ur2iNXRI1) | 2:29 | 2024-07-24 |  |
 | [When I Was A Little Cuckoo](https://open.spotify.com/track/3hucaRW0QgCTAaih6PtU23) | [Charlotte Rae](https://open.spotify.com/artist/1RRFegdj7q3BQRHqjlxPgC) | [Songs I Taught My Mother](https://open.spotify.com/album/4ppiu14KbWmJ0bICpNQyRP) | 2:27 | 2024-07-24 |  |
 | [When Love Beckoned](https://open.spotify.com/track/0HWc6ey66jIHdOhIiRAm2A) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad), [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Sweet & Simple \(Vol\. 2\)](https://open.spotify.com/album/59nEZFLagAvkQvLfVDAlb5) | 3:14 | 2024-07-24 |  |

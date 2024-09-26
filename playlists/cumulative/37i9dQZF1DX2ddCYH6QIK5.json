@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Quicche, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Czeslo, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -684,6 +684,24 @@
       "duration_ms": 214548,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0mOOCAjXTjg3rNhqcSQWjA"
+    },
+    {
+      "album": {
+        "name": "All That Remains",
+        "url": "https://open.spotify.com/album/02mnuneNux8jPLqo13oFZO"
+      },
+      "artists": [
+        {
+          "name": "Nico Bleak",
+          "url": "https://open.spotify.com/artist/3EfroYSCAxCXXS0vzbOwBM"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240575,
+      "name": "All That Remains",
+      "url": "https://open.spotify.com/track/4Cg0JS5nBe8Xc6OJAEj4L6"
     },
     {
       "album": {
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 198500,
       "name": "Big Smiles",
       "url": "https://open.spotify.com/track/0oYHjBnblrVITXHndUsG22"
@@ -4331,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Das Beste",
+        "url": "https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh"
+    },
+    {
+      "album": {
         "name": "Das Buch",
         "url": "https://open.spotify.com/album/1HpRwIN5VDI50zMemM9E8A"
       },
@@ -5432,7 +5468,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 147293,
       "name": "du bleibst",
       "url": "https://open.spotify.com/track/7riZdelgc5zAYScR0s8Aq7"
@@ -5544,7 +5580,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 263415,
       "name": "Dusty Eyes",
       "url": "https://open.spotify.com/track/7FaaQD6dBXQIHxCbByXIFa"
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 152812,
       "name": "Emotional Chaos",
       "url": "https://open.spotify.com/track/1ljnscwQoU6UUxNxFcJFkD"
@@ -6144,6 +6180,24 @@
       "duration_ms": 218517,
       "name": "Entflog",
       "url": "https://open.spotify.com/track/6GvuaiccoN4ANlFQABCsRL"
+    },
+    {
+      "album": {
+        "name": "Entweder oder",
+        "url": "https://open.spotify.com/album/2ea8Xv8owIL4C9GFmUf5Ei"
+      },
+      "artists": [
+        {
+          "name": "Edwin",
+          "url": "https://open.spotify.com/artist/2Ix8IsJqnA9NgGVSDhi8sa"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Entweder oder",
+      "url": "https://open.spotify.com/track/4echOeuilueThzzmrTl9kY"
     },
     {
       "album": {
@@ -7119,6 +7173,28 @@
     },
     {
       "album": {
+        "name": "kaffee, sonne, sonnenschein",
+        "url": "https://open.spotify.com/album/07upx3FsjcW6vCF3PYfs51"
+      },
+      "artists": [
+        {
+          "name": "Grossstadtkind",
+          "url": "https://open.spotify.com/artist/3waoDSwZSvTimA89wM3I3Y"
+        },
+        {
+          "name": "Frisch",
+          "url": "https://open.spotify.com/artist/1W0yDLUTQ7kcFoDYc9Ihgf"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192442,
+      "name": "frau am fenster",
+      "url": "https://open.spotify.com/track/5MPa6KAALJ3tLinAiadUQD"
+    },
+    {
+      "album": {
         "name": "Frei",
         "url": "https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW"
       },
@@ -7650,7 +7726,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 227369,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2cc6F3TU8SImr4qfazYDmo"
@@ -8528,7 +8604,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 190445,
       "name": "heat",
       "url": "https://open.spotify.com/track/4OHyPU40HNe3qHMqk2S169"
@@ -9726,6 +9802,24 @@
       "duration_ms": 196703,
       "name": "Ich brauche Zeit",
       "url": "https://open.spotify.com/track/1Pk5gcTpJ31lA3Y5zy4Gq7"
+    },
+    {
+      "album": {
+        "name": "Ich hasse, wenn",
+        "url": "https://open.spotify.com/album/772vujjiQ5Ka0MIbaUKzja"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154441,
+      "name": "Ich hasse, wenn",
+      "url": "https://open.spotify.com/track/1ZN0a7X6ob3OtqeZG9pJ1c"
     },
     {
       "album": {
@@ -11680,6 +11774,24 @@
       "duration_ms": 254842,
       "name": "Lonely Garden",
       "url": "https://open.spotify.com/track/0IJpqvv7ItoJynsR7lcnxp"
+    },
+    {
+      "album": {
+        "name": "Lonely Men",
+        "url": "https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6"
+      },
+      "artists": [
+        {
+          "name": "MOREA",
+          "url": "https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225202,
+      "name": "Lonely Men",
+      "url": "https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677"
     },
     {
       "album": {
@@ -13803,6 +13915,24 @@
     },
     {
       "album": {
+        "name": "Nummer 1",
+        "url": "https://open.spotify.com/album/4ELelI3cXGwU62GlpuW0uC"
+      },
+      "artists": [
+        {
+          "name": "CHALET BELGIQUE",
+          "url": "https://open.spotify.com/artist/5r0tRVdrhieGASYSSLEEEy"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Nummer 1",
+      "url": "https://open.spotify.com/track/6oztivlYb89p4U0inBAh1D"
+    },
+    {
+      "album": {
         "name": "Nunc",
         "url": "https://open.spotify.com/album/4pSe5hlkdmJvaDCeJdMWCv"
       },
@@ -13832,7 +13962,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 194770,
       "name": "Nur mein Herz",
       "url": "https://open.spotify.com/track/7aePXYBDPT6uwnlFLnw2TU"
@@ -14930,7 +15060,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 202569,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/7it783ViRNNkYsgYrWR1g2"
@@ -15302,6 +15432,42 @@
       "duration_ms": 152380,
       "name": "Quiet Smile",
       "url": "https://open.spotify.com/track/3ePAcsEO3jJxyHpiJSo9OA"
+    },
+    {
+      "album": {
+        "name": "RACECAR",
+        "url": "https://open.spotify.com/album/0eCVHJQx1ToX4HTP8SGyZ2"
+      },
+      "artists": [
+        {
+          "name": "Czeslo",
+          "url": "https://open.spotify.com/artist/7hOnDFDNl1Saad5Lt31Vk7"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "RACECAR",
+      "url": "https://open.spotify.com/track/1bB2eQR50yAHLzUGU33tSS"
+    },
+    {
+      "album": {
+        "name": "Ist es die Euphorie?",
+        "url": "https://open.spotify.com/album/0TAyTBje6dpoVn7Ta5t78M"
+      },
+      "artists": [
+        {
+          "name": "Raketenumschau",
+          "url": "https://open.spotify.com/artist/3VnCbKLAQKPsHBOzx3QF5G"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/7Hq3xnWJo3373ERWG4V2kI"
     },
     {
       "album": {
@@ -16622,7 +16788,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 155433,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0CJVcIjU3xKOgRufhiE99j"

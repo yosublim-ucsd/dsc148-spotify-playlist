@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 36415,
+  "num_followers": 36425,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 298105,
       "name": "King Of My Castle - Roy Malone's King Mix",
       "url": "https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2022-03-03 13:59:16",

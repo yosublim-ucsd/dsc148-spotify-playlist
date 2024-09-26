@@ -720,10 +720,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 193839,
       "name": "Baby (T.U.M.H.)",
       "url": "https://open.spotify.com/track/0PCIKfnfumPKmWKHUgB0QX"
+    },
+    {
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/4GNyOPxAoQf0Y12fmkygOf"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193839,
+      "name": "Baby (T.U.M.H.)",
+      "url": "https://open.spotify.com/track/6Gng3257ZAGLbswdbCJ6xm"
     },
     {
       "album": {

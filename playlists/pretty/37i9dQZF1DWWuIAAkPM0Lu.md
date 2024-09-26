@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> oversvømmer dk 🌊🌊 <a href="spotify:album:71TLoF8RqN7XCrHQbsLj6x">SkyLL</a> 🌊🌊
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,496 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,485 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 45813,
+  "description": "This is Little Simz. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 45843,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAABI2B6KUXZV0NTWD3EzmOR7",
+  "snapshot_id": "ZvIBAAAAAAAhPfN6QHY0oFGCY34vrUHY",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Location (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
+        "name": "Pink Youth",
+        "url": "https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 245045,
-      "name": "Location (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+      "duration_ms": 240880,
+      "name": "Pink Youth",
+      "url": "https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Youth",
-        "url": "https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9"
+        "name": "Location (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Pink Youth",
-      "url": "https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V"
+      "duration_ms": 245045,
+      "name": "Location (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
     },
     {
       "added_at": null,

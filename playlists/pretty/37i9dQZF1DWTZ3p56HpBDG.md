@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Raf Saperra
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,382 likes - 72 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,392 likes - 72 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

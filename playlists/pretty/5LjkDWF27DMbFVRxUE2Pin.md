@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 407 songs - 1 day 2 hr 24 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 413 songs - 1 day 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 94 | [You Are My Energy \(Bonus Track\)](https://open.spotify.com/track/68AGQOwtzyGFXRpnHiOqCn) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:01 |
 | 95 | [You're My Star \(Acoustic 2015\) \(Bonus Track\)](https://open.spotify.com/track/7AiafRXdwAloRiOKY18vcO) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 5:23 |
 | 96 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
-| 97 | [Not Up To You](https://open.spotify.com/track/4J96X5mPSteBObuCYsc8cV) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around \- Deluxe Edition](https://open.spotify.com/album/4yCOVbf9hytHyhIJzwqQV6) | 4:37 |
-| 98 | [TIE ME UP TIE ME DOWN](https://open.spotify.com/track/4sCwxQHcNtXompT7UBIjJz) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around \- Deluxe Edition](https://open.spotify.com/album/4yCOVbf9hytHyhIJzwqQV6) | 2:16 |
+| 97 | [Not Up To You](https://open.spotify.com/track/4J96X5mPSteBObuCYsc8cV) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around \(Deluxe Edition\)](https://open.spotify.com/album/4yCOVbf9hytHyhIJzwqQV6) | 4:37 |
+| 98 | [TIE ME UP TIE ME DOWN](https://open.spotify.com/track/4sCwxQHcNtXompT7UBIjJz) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Word Gets Around \(Deluxe Edition\)](https://open.spotify.com/album/4yCOVbf9hytHyhIJzwqQV6) | 2:16 |
 | 99 | [Is Yesterday, Tomorrow, Today?](https://open.spotify.com/track/5fkoCiO92Gno1SaOA6Hc7x) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails Deluxe Set](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 4:02 |
 | 100 | [A Minute Longer](https://open.spotify.com/track/15Eg02kHbaDNj33p8ey4K4) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails Deluxe Set](https://open.spotify.com/album/0QA22Bo9p1xhEOJ8rFol6o) | 3:46 |
 | 101 | [She's Alright](https://open.spotify.com/track/4xcLywLwV95UPBBlTE7eNC) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep Calm And Carry On \(International Bonus Track Version\)](https://open.spotify.com/album/3WbzxUmqixSDwoEPW6LTex) | 3:27 |
@@ -415,5 +415,11 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 405 | [Comics](https://open.spotify.com/track/40OuGHvwKGA9FKo1lECOZV) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/1BMsvIq5sueuo1b0ySLQZO) | 3:32 |
 | 406 | [Miracle](https://open.spotify.com/track/5uKKPK1HAdPL3y4CEQDL7q) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/36AWYqwFvbAbxxCFgbRfJo) | 3:36 |
 | 407 | [The Wolf](https://open.spotify.com/track/3TB2IK1QVfNH04puo4KQXE) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:46 |
+| 408 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
+| 409 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
+| 410 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
+| 411 | [Brave New World](https://open.spotify.com/track/4KLTJBsPLOFsNsnGHivuX2) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 3:59 |
+| 412 | [Wonderland](https://open.spotify.com/track/2osUTKU84Wz5dcQkTg5MUJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 5:08 |
+| 413 | [The Waiting Game](https://open.spotify.com/track/2SZko1VlhvcECPO6mY8LPS) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 4:06 |
 
-Snapshot ID: `AAAB6aKcSi8zEGFyG5EKFX7FopCrHdUC`
+Snapshot ID: `AAAB75K/82xgmJOaA3vXBmOu1jtKHqy1`

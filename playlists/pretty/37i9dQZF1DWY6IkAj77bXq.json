@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 75134,
+  "num_followers": 75168,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
-      },
-      "artists": [
-        {
-          "name": "Lugar",
-          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Bortgjemt",
         "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147750,
       "name": "Bortgjemt",
       "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Defining Rest",
-        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
-      },
-      "artists": [
-        {
-          "name": "Soundtopia",
-          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Defining Rest",
-      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 144043,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Defining Rest",
+        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
+      },
+      "artists": [
+        {
+          "name": "Soundtopia",
+          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Defining Rest",
+      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Orphic",
-        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
-      },
-      "artists": [
-        {
-          "name": "The Nowhows",
-          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
-        }
-      ],
-      "duration_ms": 180909,
-      "name": "Orphic",
-      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 137349,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Orphic",
+        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
+      },
+      "artists": [
+        {
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
+        }
+      ],
+      "duration_ms": 180909,
+      "name": "Orphic",
+      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+        "name": "Wondrous",
+        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
       },
       "artists": [
         {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+      "duration_ms": 140029,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Wondrous",
-        "url": "https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
       "artists": [
         {
-          "name": "Theodore Brim",
-          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
         }
       ],
-      "duration_ms": 140029,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu"
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 238192,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 189272,
       "name": "Niobe",
       "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Bare dreams",
-        "url": "https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS"
-      },
-      "artists": [
-        {
-          "name": "Sayulita",
-          "url": "https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM"
-        }
-      ],
-      "duration_ms": 159950,
-      "name": "Bare dreams",
-      "url": "https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

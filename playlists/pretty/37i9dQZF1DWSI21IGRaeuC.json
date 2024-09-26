@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 40026,
+  "num_followers": 40067,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
       "artists": [
         {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
         }
       ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+      },
+      "artists": [
+        {
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+        }
+      ],
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 189689,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 200307,
       "name": "Teki Teki",
       "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Don't Stahp (Edit)",
         "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 228750,
       "name": "Don't Stahp - Edit",
       "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Elements Pt1",
-        "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 363915,
-      "name": "Rinser",
-      "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Elements Pt1",
+        "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 363915,
+      "name": "Rinser",
+      "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Break Down EP",
         "url": "https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK"
       },
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "On The Ground - EP",
-        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
-      },
-      "artists": [
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Seeder",
-        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+        "name": "On The Ground - EP",
+        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Seeder",
-      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
+      "duration_ms": 384000,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
     },
     {
       "added_at": "2024-09-20 04:00:00",

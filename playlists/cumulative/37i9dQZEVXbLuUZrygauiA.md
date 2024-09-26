@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,250 songs - 5 day 0 hr 53 min
+2,251 songs - 5 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,7 +947,7 @@
 | [JGL](https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR) | [La Adictiva](https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [JGL](https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW) | 2:38 | 2022-05-22 | 2022-10-02 |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-06-07 | 2022-06-23 |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2022-03-01 | 2022-03-06 |
-| [Joe](https://open.spotify.com/track/5SHwS0L6Q1MDZluxsDsx3r) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 2:48 | 2024-09-24 |  |
+| [Joe](https://open.spotify.com/track/5SHwS0L6Q1MDZluxsDsx3r) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 2:48 | 2024-09-24 | 2024-09-26 |
 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-02-23 | 2022-04-20 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-24 | 2024-07-31 |
 | [Jueves 10](https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 4:47 | 2022-02-11 | 2023-08-20 |
@@ -1245,7 +1245,7 @@
 | [Mi Primera Chamba](https://open.spotify.com/track/5VdMiJiobLaK7zZkN7Virq) | [Eladio chambion](https://open.spotify.com/artist/0pu2rZxTGqnfz1GB6xKKyT) | [Mi Primera Chamba](https://open.spotify.com/album/00hHsVMPA8DuPZBYiLjjqb) | 3:51 | 2023-11-03 | 2023-11-05 |
 | [Mi Primera Chamba](https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu) | [La Pirris](https://open.spotify.com/artist/0IZ3bdKJOLbrpEfREKGRM6), [Eladio chambion](https://open.spotify.com/artist/7wYBQX4u3CLKuvrUOWrNhl) | [Tears In The Ofi](https://open.spotify.com/album/3sBeQDRGs15hWUslFQguHL) | 3:51 | 2023-11-04 | 2023-11-10 |
 | [Mi Trokita Es Linda Como un Lambo](https://open.spotify.com/track/76hLepAlNHDTv7V0rASk70) | [D Garcia Music](https://open.spotify.com/artist/7rIbb6NUHwHIM6m15oFFxJ) | [Mi Trokita Es Linda Como un Lambo](https://open.spotify.com/album/4wyi26hWi49MxWIKsnAPYM) | 2:05 | 2024-01-17 | 2024-02-01 |
-| [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:00 | 2024-09-03 | 2024-09-25 |
+| [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:00 | 2024-09-03 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-10 | 2022-03-23 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-29 | 2022-06-23 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-08 | 2022-06-01 |
@@ -1712,7 +1712,8 @@
 | [Rápido Soy](https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Rápido Soy](https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr) | 1:54 | 2023-11-15 | 2023-12-13 |
 | [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-17 | 2023-08-20 |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-07-18 | 2023-08-09 |
-| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-11 |  |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-11 | 2024-09-26 |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-25 |  |
 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 | 2024-04-30 | 2024-05-15 |
 | [Sal rosa](https://open.spotify.com/track/3hHb8Mw9HvlcFUBlSELElq) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Sal rosa](https://open.spotify.com/album/6Id39CXT1VuZfq3W1kP6I3) | 4:23 | 2023-03-04 | 2023-07-08 |
 | [Sale Para Ser Feliz](https://open.spotify.com/track/0reBZSEtwbvqkXoWGtmV0k) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:12 | 2024-08-06 | 2024-08-23 |

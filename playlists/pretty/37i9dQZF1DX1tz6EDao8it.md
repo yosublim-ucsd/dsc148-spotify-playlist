@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,481 likes - 129 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,715 likes - 129 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 37 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 |
 | 38 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 39 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
-| 40 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
+| 40 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
 | 41 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \- Original Motion Picture Soundtrack](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:06 |
 | 42 | [Pink Panther Theme](https://open.spotify.com/track/1QPRmX2e3EZWskuOe5QqxM) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Pink Panther \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4d1o8H5QwEsE6vdxOlC5e3) | 2:41 |
 | 43 | [Tara's Theme \(From "Gone with the Wind" 1939\)](https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB) | [Max Steiner](https://open.spotify.com/artist/3llWEEOW2xNfiKsXXWjrwl), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Cinema Serenade II \- "The Golden Age"](https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy) | 3:32 |

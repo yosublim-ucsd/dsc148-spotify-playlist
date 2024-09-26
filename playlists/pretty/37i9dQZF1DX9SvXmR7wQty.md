@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,910 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,918 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 32 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 |
 | 33 | [Police et bandit](https://open.spotify.com/track/2VO0OFchas05SV8eMUrQD1) | [Wizaard](https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK) | [Police et bandit](https://open.spotify.com/album/158hLSSHXjbTIQ0DLO7uD6) | 3:02 |
 | 34 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 |
-| 35 | [Quitter](https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Quitter](https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf) | 2:15 |
-| 36 | ['Ndrangheta](https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | ['Ndrangheta](https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF) | 2:41 |
-| 37 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 |
-| 38 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 |
-| 39 | [Vroum Vroum](https://open.spotify.com/track/01WDr6maI3v16UgrFsR9y5) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Vroum Vroum](https://open.spotify.com/album/1UBdCuKWPC60U1WTp64Loh) | 2:52 |
-| 40 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 |
-| 41 | [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 |
-| 42 | [La 17](https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 17](https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9) | 2:43 |
-| 43 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |
-| 44 | [Darement](https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L) | 3:12 |
-| 45 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
+| 35 | ['Ndrangheta](https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | ['Ndrangheta](https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF) | 2:41 |
+| 36 | [Quitter](https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Quitter](https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf) | 2:15 |
+| 37 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 |
+| 38 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 |
+| 39 | [La 17](https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 17](https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9) | 2:43 |
+| 40 | [Vroum Vroum](https://open.spotify.com/track/01WDr6maI3v16UgrFsR9y5) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Vroum Vroum](https://open.spotify.com/album/1UBdCuKWPC60U1WTp64Loh) | 2:52 |
+| 41 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 |
+| 42 | [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 |
+| 43 | [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 |
+| 44 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
+| 45 | [Darement](https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L) | 3:12 |
 | 46 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 |
-| 47 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
-| 48 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
-| 49 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
-| 50 | [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 |
+| 47 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
+| 48 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 |
+| 49 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
+| 50 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
 
 Snapshot ID: `Zuz9XwAAAAAuXm+v0iOsERbsPePWYYC9`

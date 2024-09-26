@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,166 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,192 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 16 | [Cara da Midia](https://open.spotify.com/track/68qzO9uhrv6zwONksdHYuj) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Dj Luan MPC](https://open.spotify.com/artist/6Xjde3MJ6198WTe9Chv4Ii), [DJ PEPI](https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:23 |
 | 17 | [4Tal](https://open.spotify.com/track/6OcZP4rUfuxms2r8Mwx5BQ) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 3:24 |
 | 18 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 |
-| 19 | [Morar Nesse Motel](https://open.spotify.com/track/6NJzycLHOAh940pcqcUVp6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:07 |
+| 19 | [Morar Nesse Motel](https://open.spotify.com/track/6NJzycLHOAh940pcqcUVp6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \(Ao Vivo\)](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:07 |
 | 20 | [Me Caiu Tão Bem \- Ao Vivo](https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Fortaleza, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak) | 2:36 |
 | 21 | [De Graça ou Pagando](https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:16 |
 | 22 | [Maria](https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 3:24 |
-| 23 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:21 |
+| 23 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \(Ao Vivo\)](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:21 |
 | 24 | [DEPOIS DO RODEIO](https://open.spotify.com/track/1G09TYdafWOnFnSQvJzePM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DEPOIS DO RODEIO](https://open.spotify.com/album/0o3gebQY0gP7RxzFIsWkSI) | 2:45 |
 | 25 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
 | 26 | [333](https://open.spotify.com/track/0qsKefQyXCzaxjHbOcd8IU) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Chorosa \- Ao Vivo](https://open.spotify.com/track/6nHOS9bPDkMzzjxWS6PBtt) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa \- Ao Vivo](https://open.spotify.com/album/6HRnBP63zoxLHmmfeovVMX) | 2:35 |
 | 50 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
 
-Snapshot ID: `LoYoyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lod6SAAAAAAAAAAAAAAAAAAAAAAAAGVu`

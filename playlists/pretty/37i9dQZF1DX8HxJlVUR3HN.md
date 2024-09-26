@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Indochine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,031 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,038 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 43 | [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 |
 | 44 | [Lust](https://open.spotify.com/track/38zSIQWnXU6dvJhaJShWoL) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 3:01 |
 | 45 | [Shadow](https://open.spotify.com/track/5orwwYcf7dNnRe3l0D5xJc) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Shadow](https://open.spotify.com/album/7LNWP5nj2Tto1dfJxSwfwz) | 4:09 |
-| 46 | [All These Boys](https://open.spotify.com/track/5X3tiRohIHEtioK3pSqdSj) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI), [Alexis Pouclet](https://open.spotify.com/artist/4CmcncQTG83tgztPv0RNdr), [Kamil Firganek](https://open.spotify.com/artist/5tfUdStcicKPK2yZ2Ds3AG), [Blanche Leblond](https://open.spotify.com/artist/5IFxqlvnIA4p4j7attcnPa), [Marius Vicet](https://open.spotify.com/artist/4IqRlSs1BWrVUd3PXkrHJn) | [All These Boys](https://open.spotify.com/album/5JgZaRUjCYv5Rsizv5wYuS) | 5:01 |
+| 46 | [All These Boys](https://open.spotify.com/track/5X3tiRohIHEtioK3pSqdSj) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [All These Boys](https://open.spotify.com/album/5JgZaRUjCYv5Rsizv5wYuS) | 5:01 |
 | 47 | [Je m'avance](https://open.spotify.com/track/6tGyyYDL2rzsHMQLY1yvlB) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:38 |
 | 48 | [Strangers](https://open.spotify.com/track/00zG5PWTMXXPpohdhVO3n3) | [Malt Liquor](https://open.spotify.com/artist/4yxTw9fXSsNJfxSOmYaTY1) | [Strangers](https://open.spotify.com/album/3m5K6PrDtKQq9h4pxntBGn) | 2:53 |
 | 49 | [Isabella Bird's Last Journey](https://open.spotify.com/track/2QGBWtn7Bt0EsicCZlguhd) | [Apart](https://open.spotify.com/artist/1VGohhkVWe2cCk6Ks9TChB) | [Through the Cracks](https://open.spotify.com/album/5wmh8ClUdmaK3ST24NHRn9) | 3:35 |

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Seung Joo(\uae40\uc2b9\uc8fc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238517,
+  "num_followers": 238500,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -16,7 +16,7 @@
       },
       "artists": [
         {
-          "name": "Kim Seung Joo",
+          "name": "kimseungjoo",
           "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
         }
       ],
@@ -351,6 +351,26 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
+        "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        },
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -363,22 +383,6 @@
       "duration_ms": 158733,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.2",
-        "url": "https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m"
-      },
-      "artists": [
-        {
-          "name": "Seungmin",
-          "url": "https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Phobia",
-      "url": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -399,22 +403,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
-        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m"
       },
       "artists": [
         {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        },
-        {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+          "name": "Seungmin",
+          "url": "https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
-      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+      "duration_ms": 173480,
+      "name": "Phobia",
+      "url": "https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
         "name": "I \u2260 DOLL",
         "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -807,18 +807,22 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+        "name": "Open \u266deta v6.4",
+        "url": "https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+      "duration_ms": 177250,
+      "name": "iNSTEAD!",
+      "url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Open \u266deta v6.4",
-        "url": "https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk"
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        },
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 177250,
-      "name": "iNSTEAD!",
-      "url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc"
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205213,
       "name": "Episode",
       "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 235175,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 235175,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Self-Portrait - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Let\u2019s Love",
-      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
         "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
         "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 171946,
       "name": "Regret of the Times - 2024 aespa Remake Version",
       "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Let\u2019s Love",
+      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
+        "name": "Goddess of Despair",
+        "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Goddess of Despair",
+      "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "added_at": "2024-09-19 09:09:28",
+      "album": {
         "name": "FROM.",
         "url": "https://open.spotify.com/album/1lKM9Jx2NchU15TTLqTbMt"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Goddess of Despair",
-        "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
+        "name": "Once in a BLUE MOON",
+        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
       },
       "artists": [
         {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Goddess of Despair",
-      "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+      "duration_ms": 215093,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
     },
     {
       "added_at": "2024-09-19 09:09:28",
@@ -1623,38 +1639,18 @@
     {
       "added_at": "2024-09-19 09:09:28",
       "album": {
-        "name": "Once in a BLUE MOON",
-        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 215093,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
-    },
-    {
-      "added_at": "2024-09-19 09:09:28",
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 165700,
-      "name": "Goodbye (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+      "duration_ms": 197605,
+      "name": "Guard You",
+      "url": "https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

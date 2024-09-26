@@ -2,7 +2,7 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: TAEYEON, Sam Smith\(태연, 샘 스미스\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Choi Yu Ree x Juckjae\(최유리 x 적재\)\)
 
 241 songs - 14 hr 24 min
 

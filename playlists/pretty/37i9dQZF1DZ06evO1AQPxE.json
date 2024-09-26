@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 184925,
+  "num_followers": 184953,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAABlyKTPLZAHhS5HjCSWiJ5O",
+  "snapshot_id": "ZvIBAAAAAAA3HR3V+uINhNcPU+w0l1w5",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 144443,
+      "name": "SMELLS LIKE INCENSE",
+      "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 190962,
       "name": "ROTTEN (feat. EST Gee)",
       "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 144443,
-      "name": "SMELLS LIKE INCENSE",
-      "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "2forwOyNE",
-          "url": "https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "WARSAW (feat. 2forwOyNE)",
-      "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won",
         "url": "https://open.spotify.com/album/3N1PEaBrpL1B3TIbUa69lB"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/3cyiLfw6V0Vz5WxUOMEex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "2forwOyNE",
+          "url": "https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "WARSAW (feat. 2forwOyNE)",
+      "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 152991,
-      "name": "WALK IN THE PARK",
-      "url": "https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 142945,
       "name": "2STYLISH",
       "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 152991,
+      "name": "WALK IN THE PARK",
+      "url": "https://open.spotify.com/track/0XOKietGW4PXK4hs4jyfpO"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 140996,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 121708,
       "name": "HEY BIG HEAD",
       "url": "https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 140996,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 147260,
-      "name": "HEAVY HITTER",
-      "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 178968,
       "name": "OUT FRONT",
       "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 147260,
+      "name": "HEAVY HITTER",
+      "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
     },
     {
       "added_at": null,

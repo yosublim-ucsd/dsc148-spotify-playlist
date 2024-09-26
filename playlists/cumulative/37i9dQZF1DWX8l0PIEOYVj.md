@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: William Black & Said The Sky
 
-665 songs - 1 day 15 hr 48 min
+666 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Before You Leave](https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Before You Leave](https://open.spotify.com/album/2Kl375ovgfhqoKTEzbb7es) | 4:47 | 2023-08-11 | 2023-12-16 |
 | [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 | 2023-08-15 |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2022-07-08 | 2022-08-06 |
+| [Bloodsucker](https://open.spotify.com/track/3jI15dUbd7QdjffANtYetx) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Bloodsucker](https://open.spotify.com/album/44pb7yDe2yfXP4G89ZBmz3) | 3:34 | 2024-09-20 |  |
 | [Bloom](https://open.spotify.com/track/23hjPKU8eYI9YT1GHzYygc) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [Bloom](https://open.spotify.com/album/7GHSZ1Vxs6XC3Lo3bJfxXd) | 3:00 | 2024-02-09 | 2024-07-27 |
 | [Bloom](https://open.spotify.com/track/53nRvoOp71cFHGqtx3osGQ) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g) | [Bloom](https://open.spotify.com/album/1qWaMkuLpE4G3ZtdLqyNFz) | 3:07 | 2023-06-02 | 2024-01-28 |
 | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz) | 3:17 | 2023-09-08 |  |
@@ -504,7 +505,7 @@
 | [Salvage](https://open.spotify.com/track/6Oe2fIOBBnGqZSZbbw7Xb9) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [HYLIA](https://open.spotify.com/artist/6zRFKufuh8CGgePzQeIzw8) | [Salvage](https://open.spotify.com/album/76O98yEsB6i0hzdp1upNvP) | 4:36 | 2024-08-23 |  |
 | [Salvation](https://open.spotify.com/track/5T4iqvsqEdJS4WFMmo0CZX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm), [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [Salvation](https://open.spotify.com/album/0n8SbBczPb02Qn18iNCgvt) | 4:09 | 2022-07-08 | 2024-07-13 |
 | [Sanctuary](https://open.spotify.com/track/4MjqIuxDsPhxvB9O0xLO8d) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O) | [Sanctuary EP](https://open.spotify.com/album/7yhNF49MvaFf3kRaByVrkF) | 4:00 | 2022-07-08 | 2022-07-24 |
-| [Sanctum Eternal \- Au5 Remix](https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Sanctum Eternal \(Au5 Remix\)](https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q) | 4:37 | 2024-05-17 |  |
+| [Sanctum Eternal \- Au5 Remix](https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Sanctum Eternal \(Au5 Remix\)](https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q) | 4:37 | 2024-05-17 | 2024-09-26 |
 | [sandcastle](https://open.spotify.com/track/402D9PJcrWZGKn0rIatvuW) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [sandcastle](https://open.spotify.com/album/0Ga7Vd2nH7bqQlfrXhPRP8) | 3:13 | 2023-06-16 | 2023-10-14 |
 | [Satellite \- Seven Lions Remix](https://open.spotify.com/track/18tc2oKVEyauXF1DRmskD9) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Satellite \(Seven Lions Remix\)](https://open.spotify.com/album/5ZsU2k83YqqcTIyyoWitw8) | 5:12 | 2023-12-15 | 2024-03-18 |
 | [Satellites](https://open.spotify.com/track/5kqKKun6uZweNkim4zuQwQ) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Satellites](https://open.spotify.com/album/5qEOQx66MDExxqg92Cv9Tf) | 3:57 | 2023-02-03 | 2023-03-06 |

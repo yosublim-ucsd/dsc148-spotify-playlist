@@ -840,7 +840,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 120014,
       "name": "Bike Ride in Osaka",
       "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
@@ -2660,6 +2660,24 @@
       "duration_ms": 145114,
       "name": "Empty Pools",
       "url": "https://open.spotify.com/track/6k3nmL40Ms1cn482kvR87g"
+    },
+    {
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "End Point",
+      "url": "https://open.spotify.com/track/7zjn7MTXtmlBmwFrOiMnDx"
     },
     {
       "album": {
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 148124,
       "name": "Whatsreal",
       "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"

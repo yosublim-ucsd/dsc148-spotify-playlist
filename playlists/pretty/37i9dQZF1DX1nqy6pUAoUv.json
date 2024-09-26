@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 180391,
+  "num_followers": 180415,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Perfect Plan",
         "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 289161,
       "name": "Too Late Babe",
       "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Fall (Deluxe)",
         "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 167333,
       "name": "High and Low (Acoustic)",
       "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Not Dark Yet",
-        "url": "https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        },
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 259917,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Far Away the Hills Are Green",
         "url": "https://open.spotify.com/album/1EBr9TXIaSHXICZEOzYMbp"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 240733,
       "name": "Far Away the Hills Are Green",
       "url": "https://open.spotify.com/track/2FnuWrjoAnmYGCHooXhLjV"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Not Dark Yet",
+        "url": "https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        },
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 259917,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Breakin' Ground",
-        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breakin' Ground",
-      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Walk Into a Storm",
         "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 306213,
       "name": "Walk Into a Storm",
       "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Breakin' Ground",
+        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breakin' Ground",
+      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
     },
     {
       "added_at": "2024-07-05 21:02:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Luan Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,728,155 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,728,172 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 18 | [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 |
 | 19 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |
 | 20 | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o) | 2:17 |
-| 21 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2lhTndwmmoMqMq8SSDfwbU) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/029GTh65lJarTNkssUybLW) | 3:21 |
+| 21 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2lhTndwmmoMqMq8SSDfwbU) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \(Ao Vivo\)](https://open.spotify.com/album/029GTh65lJarTNkssUybLW) | 3:21 |
 | 22 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 23 | [Sexta Feira \- Ao Vivo](https://open.spotify.com/track/0ikHh6vrN2RcCANXwRnMHx) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 3, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/4dYgljUQXpVWfyQEiP5ML4) | 3:01 |
 | 24 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Cabelo Loiro \(F&J 10 Anos\) \- Ao Vivo](https://open.spotify.com/track/2Qx8g3zoHsi0GvtYCCAFAT) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Cabelo Loiro \(F&J 10 Anos\) \[Ao Vivo\]](https://open.spotify.com/album/3pOoU8C3ThxBi1mdnNiazx) | 2:56 |
 | 50 | [Amor Não Dá Em Copo \- Ao Vivo](https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Amor Não Dá Em Copo \(Ao Vivo\)](https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl) | 2:49 |
 
-Snapshot ID: `Zuzl5AAAAADqptsuVRiVpMzx0xKZS3z2`
+Snapshot ID: `Zuzl5AAAAABq4khD8kMBYTLiWlsGyIIJ`

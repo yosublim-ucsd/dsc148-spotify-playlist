@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: XPOSE, Dina Nadzir",
-  "num_followers": 57031,
+  "num_followers": 57052,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Aku Bukan Untukmu",
-      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
     },
     {
       "added_at": "2024-08-23 09:14:07",
@@ -815,18 +815,22 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Percubaan Pertama",
-        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
+        "name": "Love, Life & Music",
+        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },
       "artists": [
         {
-          "name": "Aizat Amdan",
-          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Lagu Kita",
-      "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
+      "duration_ms": 254013,
+      "name": "Kamu Yang Kutunggu",
+      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     }
   ],
   "unique_name": "Berjiran",

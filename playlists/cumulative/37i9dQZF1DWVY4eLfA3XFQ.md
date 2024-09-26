@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SOSA 👽👽 50% techno, 50% house
 
-1,764 songs - 4 day 2 hr 27 min
+1,765 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 | 2023-05-20 |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2023-02-04 |
 | [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 | 2024-06-05 |  |
-| [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 | 2024-08-30 |  |
+| [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 | 2024-08-30 | 2024-09-26 |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-07-21 | 2023-11-24 |
 | [Baseline Happiness](https://open.spotify.com/track/0FF9trm5pWMyUeyfP70ga6) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Baseline Happiness](https://open.spotify.com/album/26d46EFUTm8Yo4Z9pU5l6D) | 3:06 | 2023-03-10 | 2023-04-23 |
 | [Basement](https://open.spotify.com/track/7vHxzcZnozXPfGL38WSTnD) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Basement](https://open.spotify.com/album/5CgVD2Zrx4dzAMU5Sqh35Z) | 3:44 | 2022-03-04 | 2022-05-07 |
@@ -1667,6 +1667,7 @@
 | [Virus](https://open.spotify.com/track/0jMyDN8P41tn4trFqdWXel) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Virus](https://open.spotify.com/album/3FS3baaVmYrTCRITC5uMMf) | 3:18 | 2023-02-17 | 2023-03-05 |
 | [Vogue](https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 3:12 | 2023-09-08 | 2024-08-10 |
 | [Voicemail](https://open.spotify.com/track/05aj6znylffDdZiwnTgCRj) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Voicemail](https://open.spotify.com/album/4M3KYXtqTM9RH9iuFXSGO5) | 2:53 | 2023-06-09 | 2023-07-02 |
+| [Voodoo](https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Voodoo](https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7) | 3:05 | 2024-09-20 |  |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-03-10 | 2023-08-12 |
 | [Vowlume](https://open.spotify.com/track/6wMVISAUvgKhGLDKn93S5m) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Vowlume EP](https://open.spotify.com/album/0cNvSUxNhcoKTwWIn8V9uz) | 3:17 | 2022-09-23 | 2022-10-29 |
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-11-11 | 2023-04-09 |

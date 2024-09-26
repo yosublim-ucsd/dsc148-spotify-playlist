@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:26T4yOaOoFJvUvxR87Y9HO">Bethel Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,586 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,618 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 76 | [A Great Awakening](https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG) | 4:01 |
 | 77 | [Preference \- Live](https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Preference \(Live\)](https://open.spotify.com/album/0i9tmWUNDNKQpazOlTy8Tw) | 7:47 |
 | 78 | [Good Plans \(Studio Version\) \(feat\. Cody Carnes\)](https://open.spotify.com/track/2fcXG9pwt3K5P9mSLPTO3D) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ascend \(Deluxe\)](https://open.spotify.com/album/2uzpMCAwldIt3vahHgJac4) | 5:06 |
-| 79 | [Nothing Left to Prove \(Spontaneous\) \- Live](https://open.spotify.com/track/0afWUoudlKsRf5olahIYV2) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Nothing Left to Prove \(Spontaneous\) \[Live\]](https://open.spotify.com/album/3jCkwuXt510gcreoCKKjOV) | 8:39 |
+| 79 | [Nothing Left to Prove \(Spontaneous\) \- Live](https://open.spotify.com/track/0afWUoudlKsRf5olahIYV2) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Nothing Left to Prove \(Spontaneous\)](https://open.spotify.com/album/3jCkwuXt510gcreoCKKjOV) | 8:39 |
 | 80 | [Amen Of Heaven \(Live\)](https://open.spotify.com/track/0uJxtoa3LsDnOdxGvWr8Z5) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Songs For Sunday \(Live\)](https://open.spotify.com/album/6J4AVNtdMpn50w1u3j1HHe) | 6:16 |
 | 81 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
 | 82 | [Testament](https://open.spotify.com/track/64VGyBMqnwD7kbLZf8oJvv) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59) | 4:55 |

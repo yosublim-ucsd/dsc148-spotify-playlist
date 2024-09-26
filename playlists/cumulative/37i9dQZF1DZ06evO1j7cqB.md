@@ -2,7 +2,7 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
+> This is Bear McCreary\. The essential tracks, all in one playlist.
 
 105 songs - 6 hr 19 min
 
@@ -36,7 +36,7 @@
 | [Escape from the Machines](https://open.spotify.com/track/2xyZON494V7biqOcJ4gwWX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Singularity](https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w) | 4:03 | 2024-05-10 | 2024-07-11 |
 | [Estrid](https://open.spotify.com/track/1K5uDrSYaj7T2s57DB3qT3) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:12 | 2024-08-30 | 2024-09-22 |
 | [Face the Past, Face the Future](https://open.spotify.com/track/55fVlftNAUPFlavuPk4NIY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 4:22 | 2023-12-20 | 2024-03-18 |
-| [Faith](https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 3:29 | 2022-12-14 | 2024-09-22 |
+| [Faith](https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 3:29 | 2022-12-14 |  |
 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 | 2022-12-01 |  |
 | [Foundation Main Title](https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Foundation: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG) | 1:26 | 2023-07-17 | 2024-06-14 |
 | [Gaal Leaves Synnax](https://open.spotify.com/track/0OiySMrhQf7XH0et96hyDT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Foundation: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG) | 4:04 | 2023-08-27 | 2023-09-10 |

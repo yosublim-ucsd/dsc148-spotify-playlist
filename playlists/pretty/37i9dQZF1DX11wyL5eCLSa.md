@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Margaritas Podridas en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,541 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,577 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pólvora](https://open.spotify.com/track/0fXWDkTid9Glc2TFQ0Icfp) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Pólvora](https://open.spotify.com/album/3JqGrzsy5ogAHAshKRv7Ef) | 3:13 |
 | 2 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
 | 3 | [Charlie contra los monjes](https://open.spotify.com/track/1mxItVgbin5uLud2rrIdqm) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Charlie contra los monjes](https://open.spotify.com/album/7ADCsFiuDLjyhEwUiAsL0g) | 3:12 |
-| 4 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \- Con David Summers](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
+| 4 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
 | 5 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 |
 | 6 | [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 |
 | 7 | [Tragos de Amargo Licor](https://open.spotify.com/track/4DANpl1NXr6YJIlP37vm7W) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Los Amigos Reales](https://open.spotify.com/album/1Pm0bM390rMtjBWpvBqFg2) | 2:56 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-823 songs - 1 day 22 hr 57 min
+824 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Accelerate](https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Accelerate](https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF) | 4:10 | 2023-06-08 | 2023-09-26 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
+| [AF1](https://open.spotify.com/track/3uMe9Jrzjn006oHTAvgvYj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AF1](https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F) | 1:51 | 2024-09-25 |  |
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
@@ -381,7 +382,7 @@
 | [Kibo](https://open.spotify.com/track/0yUs4kfYFLWI72EOhhtNyI) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Kibo](https://open.spotify.com/album/6hCpTjqGmd9qrBo5mNp3S3) | 2:25 | 2023-08-08 | 2023-12-14 |
 | [Kill The Lights](https://open.spotify.com/track/4FYXh0MJf1aCu7RNadVuhK) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Kill The Lights](https://open.spotify.com/album/37NA8ATUVqpIxgLWv3LlGP) | 3:20 | 2024-01-18 | 2024-04-10 |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-12 | 2023-08-10 |
-| [KINGS OF THE BLOCK](https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AFTER HOURS MIXTAPE](https://open.spotify.com/album/2ONCilDSqQYTYjD2b1sRtG) | 1:12 | 2024-07-03 |  |
+| [KINGS OF THE BLOCK](https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AFTER HOURS MIXTAPE](https://open.spotify.com/album/2ONCilDSqQYTYjD2b1sRtG) | 1:12 | 2024-07-03 | 2024-09-26 |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 | 2023-06-13 |
 | [Know Me Better](https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Know Me Better](https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u) | 2:56 | 2024-04-25 | 2024-07-16 |
 | [KRUSH TO KILL](https://open.spotify.com/track/2i7AEOTjDNil7h3WD3e6ss) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH TO KILL](https://open.spotify.com/album/0vmoYVO4xC6kIqLanSE1SK) | 2:15 | 2024-09-04 |  |

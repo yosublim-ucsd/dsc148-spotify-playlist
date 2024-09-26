@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,942 likes - 55 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,965 likes - 55 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 |
 | 55 | [Holy Harmony](https://open.spotify.com/track/67iPIPYUDCW30vZ83lBR8J) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Sarah Benson](https://open.spotify.com/artist/3cJDJfF5k4i9OmE9QWPMSM) | [Holy Harmony](https://open.spotify.com/album/7yglOQYi1MFs7bBAY2OWXZ) | 1:12:00 |
 
-Snapshot ID: `ZuffTwAAAAAa4fCNGo1pEa4NRMtEaelJ`
+Snapshot ID: `ZuffTwAAAAAnP4HIbVoiAGIcc77BumIi`

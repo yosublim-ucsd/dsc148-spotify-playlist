@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 372359,
+  "num_followers": 372427,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAADRLnUhC/IZXhUrAWmOvUhL",
+  "snapshot_id": "ZvIBAAAAAADcOUfc/dUx2nUo5GbOZk0o",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115400,
-      "name": "MAKING TIME",
-      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 301773,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 115400,
+      "name": "MAKING TIME",
+      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
     },
     {
       "added_at": null,

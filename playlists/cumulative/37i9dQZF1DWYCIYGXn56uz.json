@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Estate Punk",
+        "url": "https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210357,
+      "name": "Estate Punk",
+      "url": "https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP"
+    },
+    {
+      "album": {
         "name": "Estraneo",
         "url": "https://open.spotify.com/album/4hL9eA22EURbXWfHXGdqvD"
       },

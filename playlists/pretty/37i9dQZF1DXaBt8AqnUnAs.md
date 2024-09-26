@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,754 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,753 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Dejavu](https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Dejavu](https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz) | 3:02 |
 | 75 | [Acesso](https://open.spotify.com/track/50DJ7gzjb5ZoNfZyh6JQB7) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Acesso](https://open.spotify.com/album/5wDZ8w72zU0MKc5bgodoYx) | 3:08 |
 
-Snapshot ID: `ZuzlbAAAAAB+kYjpiVZC1tz8ncxNYSZ3`
+Snapshot ID: `ZuzlbAAAAABCLj+4ZGnyvidQ37jQIvrS`

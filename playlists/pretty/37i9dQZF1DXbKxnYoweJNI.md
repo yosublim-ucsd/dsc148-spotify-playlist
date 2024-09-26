@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 鶴  \(The Crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,731 likes - 118 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,741 likes - 118 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

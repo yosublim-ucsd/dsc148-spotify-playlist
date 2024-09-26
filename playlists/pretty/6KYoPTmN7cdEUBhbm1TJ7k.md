@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6KYoPTmN7cdEUBhbm1TJ7k.md) - [plain]
 | 7 | [Radio](https://open.spotify.com/track/5vZ4IeUenK2cHub2d7yfWk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:37 |
 | 8 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \- XXV Anniversary Edition – Remastered](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
 | 9 | [Küss mich \(Fellfrosch\)](https://open.spotify.com/track/7ublZG5PXnJo5haa7lrhfL) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:30 |
-| 10 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
+| 10 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
 | 11 | [Los](https://open.spotify.com/track/6IUhPMJf4iJQ3Go1CkHDsa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:23 |
 
 Snapshot ID: `AAAAEYeC1yrn4Q+k5k41Uzo3ayeLV/vi`

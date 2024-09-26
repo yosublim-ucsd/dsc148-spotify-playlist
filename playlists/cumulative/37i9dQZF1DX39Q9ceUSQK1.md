@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
 
-141 songs - 7 hr 59 min
+142 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fun Fact](https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Fun Fact](https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO) | 2:31 | 2024-06-24 | 2024-07-27 |
 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 |  |
 | [Goldy](https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [GOLDY](https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe) | 4:08 | 2024-06-24 | 2024-08-28 |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-25 |  |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-06-24 | 2024-09-25 |
 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-27 |  |
 | [I Want It All](https://open.spotify.com/track/0xOqlgHD7UKRGB2TM6Tthw) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [I Want It All](https://open.spotify.com/album/3WDpCrcxGaat5ExupeTV1c) | 2:19 | 2024-09-05 |  |

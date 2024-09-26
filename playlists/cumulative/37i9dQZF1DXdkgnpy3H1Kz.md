@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-653 songs - 2 day 8 hr 0 min
+654 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [We Trip And Roll \- New Frames Remix](https://open.spotify.com/track/32W2m162XR7IVeunGySetb) | [Lucinee](https://open.spotify.com/artist/0qdZ6Q6kRPDhouf3Qdjo9M), [New Frames](https://open.spotify.com/artist/2L2Sj9PHQbSf2O9zhFwkRM) | [We Trip And Roll \(Remixed\)](https://open.spotify.com/album/4dc9ea2H5PUGTjiBivR6iM) | 7:17 | 2024-03-13 | 2024-04-13 |
 | [We Trip And Roll \- Original Mix](https://open.spotify.com/track/2LoHMYeksQZOVHiMHIsFVE) | [Lucinee](https://open.spotify.com/artist/0qdZ6Q6kRPDhouf3Qdjo9M) | [We Trip And Roll](https://open.spotify.com/album/70SwkHUQE3UOOqhtSk4lSc) | 5:27 | 2023-11-30 | 2024-07-16 |
 | [Weaponize Your Dreams](https://open.spotify.com/track/0Rxm1vQT1CqjHaciHsD3aK) | [General Dynamics](https://open.spotify.com/artist/5ObrYjl5bLyubyyumReU4C) | [Weaponize Your Dreams](https://open.spotify.com/album/4H8Dp9msXj9fA0l3JPrpnQ) | 2:24 | 2024-03-13 | 2024-04-13 |
+| [What Is What](https://open.spotify.com/track/7r4NTF1qfJ8EwHA6T3qUeB) | [DJ Europarking](https://open.spotify.com/artist/6v2HisLcnWEbfHNUu89Aox) | [The Legend Of The Princess](https://open.spotify.com/album/3rZWPwpMPvUOfOsLRBRQvM) | 4:53 | 2024-09-25 |  |
 | [Where Should We Go](https://open.spotify.com/track/1qZnRUeh0NSjwvn1cu8oqH) | [Tazo Meipariani](https://open.spotify.com/artist/2KvHjIQQKPX4feop1w5typ) | [Cold Outside](https://open.spotify.com/album/2o4fN4lMzqtBB2GZxnvtDQ) | 5:16 | 2024-01-19 | 2024-03-14 |
 | [Where's My Cat? \- Surgeons Girl Remix](https://open.spotify.com/track/4Nu5bOBPQrku7miOcsfYKl) | [Julia Govor](https://open.spotify.com/artist/0RcdW3XQOVNr6OxF7X2QrW), [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [The Bastet Mission Remixes](https://open.spotify.com/album/4ESCM9uOnjhKxOxr7yOatB) | 6:57 | 2024-07-15 |  |
 | [Whispers of Tomorrow](https://open.spotify.com/track/3XlvrUcbCiCF3vEWo3ToBM) | [Developer](https://open.spotify.com/artist/0f4ne0cd4tbiZCLzpb1QoX) | [Parallel Thoughts: Three](https://open.spotify.com/album/0t3Tf14Gb0Q9cdlR3tA5ao) | 7:21 | 2024-03-13 | 2024-04-13 |

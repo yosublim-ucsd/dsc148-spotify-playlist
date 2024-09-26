@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 38 min
+149 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-22 | 2024-09-23 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 | 2024-09-22 |  |
 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 | 2024-06-19 |  |
+| [Crown \(Feat\. Blxckie\)](https://open.spotify.com/track/5vUatgbXxBQpDm1UIB6pKo) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:46 | 2024-09-25 |  |
 | [Damaged](https://open.spotify.com/track/6S1tjR6PtQRXnC3a4lCjDE) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [STAY](https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp) | 2:36 | 2023-12-13 |  |
 | [Decades](https://open.spotify.com/track/6yiCFprNLeKraW5RsYUxiE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:28 | 2023-12-13 |  |
 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 | 2023-12-13 |  |
@@ -111,6 +112,7 @@
 | [Rollin' \(Me & You\)](https://open.spotify.com/track/35ByQ3uLTbLVt8i92NDJHp) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 2:44 | 2023-12-13 |  |
 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 | 2023-12-13 |  |
 | [Sacrifices](https://open.spotify.com/track/0xl1w2q4VLojeXp4JfazPL) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 5:07 | 2023-12-13 |  |
+| [Save Your Breath \(Feat\. Williane 108, Charmie, Taborah Johnson and Tynomi Banks\)](https://open.spotify.com/track/4hyQUq1CtTNrwTYVr36wY9) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Williane 108](https://open.spotify.com/artist/1LDeXah9n8oWU5MvMDzdnR), [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1), [Taborah Johnson](https://open.spotify.com/artist/7HlOFGl74ctvgk2MT36xvm), [Tynomi Banks](https://open.spotify.com/artist/1Hol85cTCEXf5iZBQxe4dh) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:59 | 2024-09-25 |  |
 | [She Will](https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Tha Carter IV \(Explicit Version\)](https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT) | 5:05 | 2023-12-13 |  |
 | [Shoot My Shot](https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r) | 2:52 | 2023-12-13 |  |
 | [Shy Ronnie 2: Ronnie & Clyde](https://open.spotify.com/track/1JT55KoXuhtYy5BeKNAeC0) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:26 | 2023-12-13 |  |

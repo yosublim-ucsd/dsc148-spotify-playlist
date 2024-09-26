@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 720932,
+  "num_followers": 720967,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
         "name": "Sensa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 269306,
       "name": "Linda Voz (Ol\u00e1)",
       "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Pulei na Piscina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Pulei na Piscina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
         "name": "\u00c9 Divino - Ao Vivo Em Campo Grande",
         "url": "https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 174066,
       "name": "Toca um Jo\u00e3o Mineiro e Marciano - Ao Vivo",
       "url": "https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
     },
     {
       "added_at": "2024-07-09 15:59:51",

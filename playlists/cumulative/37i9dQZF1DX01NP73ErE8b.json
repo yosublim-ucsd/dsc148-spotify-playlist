@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 183461,
       "name": "Musica Italiana",
       "url": "https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS"
@@ -1196,6 +1196,24 @@
       "duration_ms": 155044,
       "name": "NOTTE CATTIVA",
       "url": "https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl"
+    },
+    {
+      "album": {
+        "name": "Ora che non ho pi\u00f9 te",
+        "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303032,
+      "name": "Ora che non ho pi\u00f9 te",
+      "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
     },
     {
       "album": {

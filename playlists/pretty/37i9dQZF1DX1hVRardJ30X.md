@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Darell, Bad Bunny, Xavi and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,742 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,842 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 19 | [Rough](https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 1:42 |
 | 20 | [PISCOLABIS](https://open.spotify.com/track/1zAPusyY5HO7mp7oGb21to) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [PISCOLABIS](https://open.spotify.com/album/7MggG5hkb03rGQiAx46S5b) | 2:42 |
 | 21 | [MI AMIGA ES UNA P](https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [UNDERWATER](https://open.spotify.com/album/6Q6k7LvauK7jFZNe3hnRqB) | 2:42 |
-| 22 | [Se Puso Pa Ella](https://open.spotify.com/track/3pRzINlpcJIp0YyvVXYrCR) | [MEK](https://open.spotify.com/artist/7uPcLgwYO65Elps0KQiiZu), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2), [Markz](https://open.spotify.com/artist/4igL50oMjvC7hOdEWf3tkO) | [Se Puso Pa Ella](https://open.spotify.com/album/3GFyCJTx8BGdeAZqZCn0v9) | 4:30 |
+| 22 | [Se Puso Pa Ella](https://open.spotify.com/track/3pRzINlpcJIp0YyvVXYrCR) | [MEK](https://open.spotify.com/artist/7uPcLgwYO65Elps0KQiiZu), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2), [Markz](https://open.spotify.com/artist/4igL50oMjvC7hOdEWf3tkO) | [Se Puso Pa Ella](https://open.spotify.com/album/3GFyCJTx8BGdeAZqZCn0v9) | 4:30 |
 | 23 | [Step Up](https://open.spotify.com/track/5adAAB0zz4rxFawwMgSEk8) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Step Up](https://open.spotify.com/album/3ca7ypBjEx4bV3hOUNjSCK) | 2:28 |
 | 24 | [Hallandale](https://open.spotify.com/track/50CYOTrV18phIZPiCjYW9z) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Hallandale](https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5) | 4:04 |
 | 25 | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [KRZ](https://open.spotify.com/artist/4zXYopQxFWB8DCsjm6nOM8), [Diana Landa](https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s) | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG) | 3:33 |

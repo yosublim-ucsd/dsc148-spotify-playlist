@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,762 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,808 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 3 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
 | 4 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 5 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/0tQzTbOpoBKj3Y35csIzkf) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |
+| 5 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |
 | 6 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 |
 | 7 | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/album/1lx08G8uQTWeX1hYy3rgWb) | 3:16 |
 | 8 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |

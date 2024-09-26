@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Pinguini Tattici Nucleari
 
-87 songs - 4 hr 21 min
+88 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,12 +61,13 @@
 | [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 |  |
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-07-01 | 2024-07-12 |
 | [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-07-01 | 2024-09-24 |
-| [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-07-01 |  |
+| [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-07-01 | 2024-09-26 |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-12 |  |
 | [No Me Llames](https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [No Me Llames](https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06) | 2:24 | 2024-07-25 | 2024-08-09 |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-07-01 | 2024-07-19 |
 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 | 2024-07-01 | 2024-09-24 |
 | [NOTTE CATTIVA](https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOTTE CATTIVA](https://open.spotify.com/album/0PE0OfDz2k5Q0t1fP35vPq) | 2:35 | 2024-07-01 | 2024-09-13 |
+| [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 |  |
 | [Overdose D'Amore 2024](https://open.spotify.com/track/3tQRLmfOWBlB00i2mGLN3M) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Overdose D'Amore 2024](https://open.spotify.com/album/2P5Y4A7xagej84PYcJZEUl) | 2:56 | 2024-07-01 | 2024-09-24 |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-07-01 |  |
 | [PASSIONE](https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [PASSIONE](https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K) | 2:43 | 2024-07-18 |  |

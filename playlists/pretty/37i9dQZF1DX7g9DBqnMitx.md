@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,216 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,224 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 21 | [Quand te reverrai\-je, pays merveilleux ?](https://open.spotify.com/track/3ayoJTOXuq9HKlWStM8KVV) | [Michel Blanc](https://open.spotify.com/artist/27MjLiRbNSQRsj5HeVqnOh) | [Les bronzés & les bronzés font du ski \(Bande originale du film\)](https://open.spotify.com/album/0SbjpPx9uYBTAkNTozG8OT) | 0:47 |
 | 22 | [Unchained Melody \- Orchestral](https://open.spotify.com/track/7FKsfPuxRLpar9enQ7LmtA) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT) | [Ghost](https://open.spotify.com/album/1yETyUdM0HxBFy8MHdSsYW) | 3:59 |
 | 23 | [City Of Stars \- From "La La Land" Soundtrack](https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Emma Stone](https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5p0H50uFCdWTpLY640HoPc) | 2:29 |
-| 24 | [No Time To Die](https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 4:04 |
+| 24 | [No Time To Die](https://open.spotify.com/track/527BVezmvYjbc4JlVJW4Xj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 4:04 |
 | 25 | [Streets of Philadelphia](https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Philadelphia \- Music From The Motion Picture](https://open.spotify.com/album/5HL1JjJ2aiKNfsZ29YWyiM) | 4:12 |
 | 26 | [Main Title Theme](https://open.spotify.com/track/6PzHOn4LPd44RUCUShf4rl) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Mission Impossible \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L8rFdurVz1JdbkK2gFLUN) | 1:02 |
 | 27 | [L'histoire de la vie/Nants' Ingonyama](https://open.spotify.com/track/3nDpT4CRyVhnkGcJ0LdbqA) | [China Moses](https://open.spotify.com/artist/2KqBple0Yu8pssNGNvWNmV), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [Le Roi Lion \(Bande Originale Française du Film\)](https://open.spotify.com/album/40YiN3kE9hCzPh86FAMVVg) | 4:01 |

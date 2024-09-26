@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Blossoms
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,610 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,618 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 34 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 |
 | 35 | [Does Only God Know That We're Lonely?](https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq) | 3:02 |
 | 36 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 |
-| 37 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
-| 38 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
+| 37 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
+| 38 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
 | 39 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 40 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
 | 41 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 68 | [Lovely Day](https://open.spotify.com/track/3OptQsKWA43St7z56bhN1M) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Dylan John Thomas](https://open.spotify.com/album/4o77eiunHdBLE7KguFZA9E) | 3:08 |
 | 69 | [Afternoon](https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:05 |
 | 70 | [wishful thinking](https://open.spotify.com/track/0cNib65PxjGTcCY1rWyeCU) | [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [wishful thinking](https://open.spotify.com/album/4SHLpze4dbjfYiLJIYypiW) | 2:33 |
-| 71 | [Save Yourself](https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Fear Life For A Lifetime](https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy) | 3:24 |
-| 72 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 |
+| 71 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 |
+| 72 | [Save Yourself](https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Fear Life For A Lifetime](https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy) | 3:24 |
 | 73 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
 | 74 | [Fever Dream](https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ) | [Fever Dream](https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM) | 3:24 |
 | 75 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 80 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
 | 81 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 |
 | 82 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
-| 83 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 |
-| 84 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 |
+| 83 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 |
+| 84 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 |
 | 85 | [JIMSHARK](https://open.spotify.com/track/5shnA8KeSeNlHs3RS1NUBi) | [The Mercians](https://open.spotify.com/artist/0kz8fYoOzRWWWBVjyI98mE) | [JIMSHARK](https://open.spotify.com/album/1eJYAwwzu3vRKBL9HtsRg9) | 2:44 |
 | 86 | [We Can Do It](https://open.spotify.com/track/2ElyvrbR7dV5OtBdBx347r) | [Tom Meighan](https://open.spotify.com/artist/3EgsCrH1gSJmJqfWAcvZRn) | [We Can Do It](https://open.spotify.com/album/1BGhNx9jTkIjYcyrnPnMZB) | 3:14 |
 | 87 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
-| 88 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 |
-| 89 | [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 |
+| 88 | [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 |
+| 89 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 |
 | 90 | [Alright](https://open.spotify.com/track/1YtDiUfVAR54jdvCD9UfRe) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Alright](https://open.spotify.com/album/1G87Kj047fGnnuyy9TSgIZ) | 3:28 |
 | 91 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
 | 92 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 96 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
 | 97 | [Oh Emily](https://open.spotify.com/track/5zb1wjPWBN0l8336yYjD9d) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Oh Emily](https://open.spotify.com/album/6XiF1c1A2HjpQ6Lx0qvCIJ) | 3:56 |
 | 98 | [Baby Blue](https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Baby Blue](https://open.spotify.com/album/2oq55O8NF6o5FJoi1AWx6U) | 4:10 |
-| 99 | [A Bit Like James Bond](https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [A Bit Like James Bond](https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0) | 2:38 |
-| 100 | [Two Times Over](https://open.spotify.com/track/7jHAUcPHqpVL3lQoRGN5sP) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [Two Times Over](https://open.spotify.com/album/37SVjv8XeK8M8tkL8tUAP3) | 4:01 |
+| 99 | [Two Times Over](https://open.spotify.com/track/7jHAUcPHqpVL3lQoRGN5sP) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [Two Times Over](https://open.spotify.com/album/37SVjv8XeK8M8tkL8tUAP3) | 4:01 |
+| 100 | [A Bit Like James Bond](https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [A Bit Like James Bond](https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0) | 2:38 |
 
 Snapshot ID: `ZtD+hwAAAAA8UjoVwN1Bw5vmNNULsZmI`

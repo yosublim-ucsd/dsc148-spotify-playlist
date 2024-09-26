@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-517 songs - 1 day 4 hr 17 min
+519 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Ain't Together](https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:22 | 2024-02-27 |  |
 | [Alice](https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:57 | 2024-02-27 |  |
 | [All In \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/4ixeKdeupQ4pafOD1e56jP) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:41 | 2024-03-26 |  |
-| [All The Way \(VIP Mix\)](https://open.spotify.com/track/15RRhpvTHUYH710VAJY7e8) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/2d6TneB4l29f3yQXznbcQv) | 3:18 | 2024-02-27 |  |
+| [All The Way \(VIP Mix\)](https://open.spotify.com/track/15RRhpvTHUYH710VAJY7e8) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/2d6TneB4l29f3yQXznbcQv) | 3:18 | 2024-02-27 | 2024-09-26 |
+| [All The Way \(VIP Mix\)](https://open.spotify.com/track/16fcMEPfqvcf9WkMavFsgw) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/1l2Ey15P8OQ0D7WEaYEcOk) | 3:18 | 2024-09-25 |  |
 | [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-23 |  |
 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 | 2024-02-27 |  |
 | [Asking](https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Asking](https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM) | 3:53 | 2024-05-31 |  |
@@ -64,6 +65,7 @@
 | [Call it Love](https://open.spotify.com/track/5rVv4Ej6k60zh5VPRpjln0) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [LOVE](https://open.spotify.com/album/477cCvnSXhVwHlUJ4j70zj) | 3:03 | 2024-02-27 |  |
 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 | 2024-02-27 |  |
 | [Can't Keep Up](https://open.spotify.com/track/4RUyjM8S9ap1LScrRii8T9) | [Eliot Ness](https://open.spotify.com/artist/2UP9pN18GnCfuFNMFOmu9u), [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Mr\. 3\-2](https://open.spotify.com/artist/5xu3KF4ZTFjNncNRIVaJnt), [Mike D](https://open.spotify.com/artist/0e6si4eBTPWosfLhmEyo4L) | [I'm Me, Pt\. 2](https://open.spotify.com/album/0EjmKtrJ48kj3XirDHKrz6) | 3:32 | 2024-03-26 |  |
+| [CANDLES](https://open.spotify.com/track/6RjjXvQyvgiPX3t8cm0gck) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 3:32 | 2024-09-25 |  |
 | [Candy Cigarette](https://open.spotify.com/track/1u38aj9LVAjbO84irVCfwP) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:22 | 2024-02-27 |  |
 | [Carelessly \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/4QiQrau2oPt2fmpp8jLLZG) | [Marisa Davila](https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy), [Johnathan Nieves](https://open.spotify.com/artist/0ycCR1MDf5h3Q6dnlUbDgW), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:56 | 2024-02-27 |  |
 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 | 2024-02-27 |  |

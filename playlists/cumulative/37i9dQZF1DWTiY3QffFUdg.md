@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-221 songs - 12 hr 0 min
+222 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-26 | 2024-02-01 |
 | [Drugs From Amsterdam \- Reinier Zonneveld Remix](https://open.spotify.com/track/3lBsiMe2z1zIrXz3xcUxhs) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/4hdHSpgwZ89L8c4q2oaoco) | 3:53 | 2023-08-11 | 2023-10-27 |
 | [Dudadu \- Remix](https://open.spotify.com/track/1v7IYDSkzrw3dHm89nS54V) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu \(Remix\)](https://open.spotify.com/album/59MJX4jPYt1zzNWvOc4J7m) | 3:02 | 2024-07-26 | 2024-09-18 |
+| [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-13 |  |
 | [Elevate \- Original Mix](https://open.spotify.com/track/4WxCuOB9TmEVLqmlRgd19D) | [SRVD](https://open.spotify.com/artist/2nhdOVEJpiDFkwcaBxpWCP), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Patrick Mason](https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0) | [Elevate](https://open.spotify.com/album/2qGIRzjAMjubg9552YZTOI) | 8:13 | 2023-08-11 | 2023-08-15 |
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-11 | 2023-09-04 |
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
@@ -204,7 +205,7 @@
 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 | 2023-08-11 | 2023-09-06 |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-20 | 2023-11-18 |
 | [The Chosen](https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [The Chosen](https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo) | 4:13 | 2024-05-17 | 2024-09-09 |
-| [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7) | 2:25 | 2024-05-24 |  |
+| [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7) | 2:25 | 2024-05-24 | 2024-09-26 |
 | [The Parade \(Techno Remix\)](https://open.spotify.com/track/3j9RucX8VImndwic630g9w) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D) | [The Parade \(Techno Remix\)](https://open.spotify.com/album/7phtUgPQObPbFNrWOMyyiK) | 1:55 | 2023-09-01 | 2023-09-28 |
 | [The Procedure \- Original Mix](https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure EP](https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ) | 3:13 | 2023-08-25 | 2023-10-08 |
 | [The Procedure \- Radio Edit](https://open.spotify.com/track/3dqRuioP7B3hXwKdcUEPrg) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure](https://open.spotify.com/album/5tnVe6nQE4skLdV919H5qQ) | 3:13 | 2023-11-03 | 2024-02-17 |

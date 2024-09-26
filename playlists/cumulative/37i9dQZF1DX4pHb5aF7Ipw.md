@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-167 songs - 8 hr 2 min
+168 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 | 2023-03-18 | 2023-10-12 |
 | [My Way](https://open.spotify.com/track/0IU3udts4NQ1C4KHRfv6sv) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:30 | 2024-09-05 |  |
 | [N.F.N.C](https://open.spotify.com/track/6tAw5yxfamm8EpOHzNOdlx) | [Shaan Akash](https://open.spotify.com/artist/3kDnVxyMfvWBv32likJ0fh) | [N.F.N.C](https://open.spotify.com/album/7H5oPkPjTBdZr3NoxQXgSY) | 2:30 | 2024-09-20 |  |
+| [Naa Bolda](https://open.spotify.com/track/5JGhthcLobI6e5G3xWoVwb) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [MAJESTIC](https://open.spotify.com/album/4lZ9HpPoT0IvoMRkVH76FQ) | 2:19 | 2024-09-25 |  |
 | [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 | 2024-05-23 |  |
 | [Need You In My Life](https://open.spotify.com/track/0fjxS9cHzznHdYziuessOo) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Archit Sharma](https://open.spotify.com/artist/513TlG57SicMeaKHUqADnA) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 2:50 | 2024-09-03 | 2024-09-21 |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-03-18 | 2024-09-10 |
@@ -164,8 +165,8 @@
 | [Untouchable](https://open.spotify.com/track/4I9wK83Gy9uxiHGZ7gvOhI) | [Arsh Sandhu](https://open.spotify.com/artist/5hMRZnYzYhkXvdcEdJMfD2), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Untouchable](https://open.spotify.com/album/7DZlyrBQdJeuR3hEDBm1mb) | 2:21 | 2023-03-18 | 2024-09-04 |
 | [Untouchable](https://open.spotify.com/track/6iaZ3W10Oy9s8GgXq2TN28) | [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [Untouchable](https://open.spotify.com/album/6timgyCLIHf64gsUxxfcxp) | 2:25 | 2024-09-02 | 2024-09-21 |
 | [Ustaadi \(feat\. Faris Shafi\)](https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:50 | 2024-09-09 |  |
-| [Vair](https://open.spotify.com/track/2O0JPaSa1g9yKuid511Pb4) | [AKKASH AD](https://open.spotify.com/artist/59xsDgxFDAtdkOwMODQvgi), [Dev Wrld](https://open.spotify.com/artist/04itPkYn7MwDWFm7eICvIz), [King Grewal](https://open.spotify.com/artist/0VPupUoLhXwaKKoboImSig), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Vair](https://open.spotify.com/album/4xrWgrHyUleB3xQxFOrLif) | 2:44 | 2024-09-13 |  |
-| [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 | 2024-09-02 |  |
+| [Vair](https://open.spotify.com/track/2O0JPaSa1g9yKuid511Pb4) | [AKKASH AD](https://open.spotify.com/artist/59xsDgxFDAtdkOwMODQvgi), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Vair](https://open.spotify.com/album/4xrWgrHyUleB3xQxFOrLif) | 2:44 | 2024-09-13 |  |
+| [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 | 2024-09-02 | 2024-09-26 |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [WE COMIN](https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [WE COMIN](https://open.spotify.com/album/5VWb9LIu3gpoCHxEFxpMJY) | 3:08 | 2024-08-13 | 2024-09-21 |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-12 | 2024-09-10 |

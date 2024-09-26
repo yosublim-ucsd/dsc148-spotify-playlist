@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,548 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,508 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 26 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 |
 | 27 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 |
 | 28 | [Take Me Home](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Take Me Home](https://open.spotify.com/album/0XDch3owENNks3bapuFjAs) | 3:31 |
-| 29 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 |
-| 30 | [BADO](https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [BADO](https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM) | 3:14 |
+| 29 | [BADO](https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [BADO](https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM) | 3:14 |
+| 30 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 |
 | 31 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 |
 | 32 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 |
 | 33 | [All We Ever Do](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [All We Ever Do](https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV) | 3:15 |

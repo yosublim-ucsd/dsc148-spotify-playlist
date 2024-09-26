@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jueun(\uc8fc\uc740))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jacquees, Paul Blanco)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 183920,
       "name": "1,2,3,4 (Feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z"
@@ -350,6 +350,28 @@
       "duration_ms": 171628,
       "name": "30minutes in Seoul (Feat. naar.)",
       "url": "https://open.spotify.com/track/3S3EKWkeElzfGgXVgFGnL0"
+    },
+    {
+      "album": {
+        "name": "In too deep",
+        "url": "https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "365 (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
     },
     {
       "album": {
@@ -11134,7 +11156,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -11240,6 +11262,28 @@
       "duration_ms": 174560,
       "name": "Ringwanderung",
       "url": "https://open.spotify.com/track/2cLJhvm09iuwVHSAfaCaus"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/0zxAIBeIBvmk0qjsujNwXY"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Risk (Prod. By Devine Channel)",
+      "url": "https://open.spotify.com/track/2Kwy9dFXHc5t1u7bdRlLgd"
     },
     {
       "album": {

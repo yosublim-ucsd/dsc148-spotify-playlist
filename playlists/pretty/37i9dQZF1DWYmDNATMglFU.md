@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,261 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,224 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [One Of The Pack](https://open.spotify.com/track/6yluvonzmFUjHMpcbTzBej) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of The Pack](https://open.spotify.com/album/5brmo3bAoy48mBJhm3JiKE) | 3:17 |
 | 80 | [AMERICAN SCUMBAG](https://open.spotify.com/track/5Ccd3PCgN0Qv3g5v92NoCI) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [AMERICAN SCUMBAG](https://open.spotify.com/album/3Y943OXrJcUwOnjd0tLygn) | 3:05 |
 
-Snapshot ID: `ZshmkAAAAAB1C3XkBxdp8NihUqETo6K8`
+Snapshot ID: `ZshmkAAAAABG6/e8i85sMH9moLGCfuAS`

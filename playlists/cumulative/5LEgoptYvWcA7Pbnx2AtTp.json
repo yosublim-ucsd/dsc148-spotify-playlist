@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "he's a cannibal!",
+        "url": "https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe"
+      },
+      "artists": [
+        {
+          "name": "elliotly",
+          "url": "https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138552,
+      "name": "he's a cannibal!",
+      "url": "https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd"
+    },
+    {
+      "album": {
         "name": "Big Dumb Idiot",
         "url": "https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp"
       },

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-04-03",
-  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Lizzy McAlpine",
+  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Megan Moroney",
   "name": "OUTSIDE",
   "tracks": [
+    {
+      "album": {
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+    },
     {
       "album": {
         "name": "Baby Please",
@@ -620,6 +638,24 @@
       "duration_ms": 219834,
       "name": "Substance",
       "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
     },
     {
       "album": {

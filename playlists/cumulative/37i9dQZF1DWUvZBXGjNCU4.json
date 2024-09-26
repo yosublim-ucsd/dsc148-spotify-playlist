@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1ujaieP4ZXfc4RXTHEANic"
+      },
+      "artists": [
+        {
+          "name": "Sam With Friends",
+          "url": "https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212322,
+      "name": "Blue Hours",
+      "url": "https://open.spotify.com/track/0Ol6ir6oEZocV7eterdScm"
+    },
+    {
+      "album": {
         "name": "Blue River",
         "url": "https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8"
       },
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/05fPHnXgdmvtMf1nDn1wck"
+      },
+      "artists": [
+        {
+          "name": "Ivan Nevau",
+          "url": "https://open.spotify.com/artist/4Y1du6z4ekLOKho3kj1pLD"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "End of Summer",
+      "url": "https://open.spotify.com/track/0OwNmUxckzrNFjHGEf90Od"
+    },
+    {
+      "album": {
         "name": "Etude",
         "url": "https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf"
       },
@@ -1680,6 +1716,24 @@
       "duration_ms": 169600,
       "name": "Fake a smile",
       "url": "https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C"
+    },
+    {
+      "album": {
+        "name": "Fall Afresh",
+        "url": "https://open.spotify.com/album/6Kaj5MHZXfSH7kGRrGhBpq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oakfield",
+          "url": "https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239868,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/0ZEHv8Yv3IHdicQojugv7V"
     },
     {
       "album": {

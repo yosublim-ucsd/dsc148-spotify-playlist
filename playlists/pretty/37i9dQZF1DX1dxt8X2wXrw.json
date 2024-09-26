@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67001,
+  "num_followers": 67005,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
       "added_at": "2024-09-05 23:23:00",
       "album": {
         "name": "Goodbyes (Myrrh)",
@@ -347,6 +331,22 @@
       "duration_ms": 210124,
       "name": "Goodbyes (Myrrh)",
       "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "added_at": "2024-09-05 23:23:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
     },
     {
+      "added_at": "2024-09-05 23:23:00",
+      "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210957,
+      "name": "Spend More Time With Your Friends",
+      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
+    },
+    {
       "added_at": "2024-09-02 06:16:10",
       "album": {
         "name": "Capable of love",
@@ -671,22 +687,6 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2024-09-05 23:23:00",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210957,
-      "name": "Spend More Time With Your Friends",
-      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Phone Down",
+      "url": "https://open.spotify.com/track/3aapF0aOexc3GMvVuu2Wdw"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
         "name": "The Glade",
         "url": "https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 222456,
       "name": "The Glade",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 208719,
-      "name": "Phone Down",
-      "url": "https://open.spotify.com/track/3aapF0aOexc3GMvVuu2Wdw"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
-        "name": "NEGLIGENT",
-        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 204144,
-      "name": "NEGLIGENT",
-      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "NEGLIGENT",
+        "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 204144,
+      "name": "NEGLIGENT",
+      "url": "https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
         "name": "MUSTARD (WITH 6LACK)",
         "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 201464,
       "name": "MUSTARD (WITH 6LACK)",
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "BUTTERFLIES",
-        "url": "https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW"
-      },
-      "artists": [
-        {
-          "name": "VITA",
-          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD"
     }
   ],
   "unique_name": "crush",

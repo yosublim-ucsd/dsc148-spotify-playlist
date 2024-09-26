@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-142 songs - 7 hr 59 min
+143 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 | 2021-06-24 | 2024-08-24 |
 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 | 2024-08-23 |  |
 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 | 2021-06-24 | 2024-08-24 |
-| [Not A Teaser \(Theme\)](https://open.spotify.com/track/2vac8W1WKva3H6AJ3V8VtT) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 1:20 | 2024-08-28 |  |
+| [Not A Teaser \(Theme\)](https://open.spotify.com/track/2vac8W1WKva3H6AJ3V8VtT) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 1:20 | 2024-08-28 | 2024-09-26 |
 | [Pakka Local](https://open.spotify.com/track/3oLSlzMt3SD5PYSMf1Aqo0) | [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 4:19 | 2021-06-24 | 2024-08-24 |
 | [Pareshanayya \- Remix](https://open.spotify.com/track/2zF9IP6ELZAOQqRjchVYhB) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 3:23 | 2021-06-24 | 2024-08-24 |
 | [Pedda Puli](https://open.spotify.com/track/4PYJiAIsR6JlgGZbhXPPK1) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chal Mohan Ranga](https://open.spotify.com/album/3c1DvyiyWk9a7v4or97bWW) | 3:51 | 2021-06-24 | 2024-08-24 |
@@ -129,6 +129,7 @@
 | [Skanda Teaser Theme](https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Skanda Teaser Theme](https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1) | 0:54 | 2024-08-23 |  |
 | [Soul Of Kshanam](https://open.spotify.com/track/5RqKlrB2F5uLRtOchVPJRS) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Kshanam](https://open.spotify.com/album/4WvpxyKl3UVyoCU7BOFxSn) | 1:50 | 2024-08-23 |  |
 | [Stranger in Black \- Theme Song](https://open.spotify.com/track/0PIRM1sf42d0BvnMIQuaKx) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Chennai Chorale](https://open.spotify.com/artist/35oks2waDWUhJqH4Lodvcu) | [Aparichitudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LscBzYzac0rt3i2FMmgtw) | 2:44 | 2024-08-23 |  |
+| [Surya's Saturday](https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 1:22 | 2024-09-25 |  |
 | [Swing Zara](https://open.spotify.com/track/1SJOGijQV7cRrfLstfZHzE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Swing Zara \(From "Jai Lava Kusa"\)](https://open.spotify.com/album/6GEMkqLNtpGvCicpkWRQv5) | 4:21 | 2021-06-24 | 2024-08-24 |
 | [Tauba Tauba](https://open.spotify.com/track/6jeTxPEe1RBt3SVKnpZXvo) | [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Sardaar Gabbar Singh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eDneMCb0bc5xa2lYgxNUU) | 4:25 | 2021-06-24 | 2024-08-24 |
 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 | 2024-08-23 |  |

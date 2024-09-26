@@ -2,7 +2,7 @@
 
 ### [This Is Brenda Fassie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00eJOV)
 
-> This is Brenda Fassie\. Todos os maiores hits em uma só playlist.
+> This is Brenda Fassie\. The essential tracks, all in one playlist.
 
 81 songs - 6 hr 11 min
 

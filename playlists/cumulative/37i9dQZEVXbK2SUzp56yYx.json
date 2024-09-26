@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 133320,
       "name": "GOTTASADAE",
       "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 137247,
       "name": "Hamster Criminal",
       "url": "https://open.spotify.com/track/3DqUZa6G4Ai4oT15hwJqQf"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 93264,
       "name": "hearteater",
       "url": "https://open.spotify.com/track/0NlJ3iqKlHL2nVekLE6Y42"
@@ -6482,10 +6482,28 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -12816,7 +12834,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 199275,
       "name": "\u041e\u0441\u0435\u043d\u044c \u0431\u044c\u0451\u0442\u0441\u044f",
       "url": "https://open.spotify.com/track/5CLjaUYtUerM5dXx6IuJR6"
@@ -13180,7 +13198,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 179540,
       "name": "\u041f\u043e\u0435\u0437\u0434\u0430",
       "url": "https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS"

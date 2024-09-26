@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya\_bjVTuWRoQ">Jeremy Loops</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,107 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,109 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

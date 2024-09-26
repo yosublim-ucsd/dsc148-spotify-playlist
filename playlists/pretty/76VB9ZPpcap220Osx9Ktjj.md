@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/76VB9ZPpcap220Osx9Ktjj.md) - [plain]
 
 > <a href="https://www.rammstein.de/en/tickets/">Rammstein Tour Dates</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 92,948 likes - 22 songs - 1 hr 36 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 92,933 likes - 22 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rammlied](https://open.spotify.com/track/1jBL8PB3CqDYjR0luCpX00) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:18 |
+| 1 | [Rammlied](https://open.spotify.com/track/1jBL8PB3CqDYjR0luCpX00) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:18 |
 | 2 | [Links 2 3 4](https://open.spotify.com/track/52XYwQKlXp7scE7KrBBCID) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:36 |
 | 3 | [Bestrafe mich](https://open.spotify.com/track/5QueZSIpWUbH4nLZlkjjkP) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:36 |
 | 4 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 |

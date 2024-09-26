@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Papina de Palma. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Paul Higgs. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -82,6 +82,32 @@
       "duration_ms": 176686,
       "name": "1 AM: NE\u00d3N",
       "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
+    },
+    {
+      "album": {
+        "name": "1 GALLO EN LA TOYOTA",
+        "url": "https://open.spotify.com/album/5hSeu9Vf5KhgtcHBQidgnV"
+      },
+      "artists": [
+        {
+          "name": "Masta Roi",
+          "url": "https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS"
+        },
+        {
+          "name": "Gio Kutia",
+          "url": "https://open.spotify.com/artist/28vZIQfyaApCPe9qCxW15z"
+        },
+        {
+          "name": "BOB LUPE",
+          "url": "https://open.spotify.com/artist/0mepwfAPVb3aGqVvfAHxoX"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177850,
+      "name": "1 GALLO EN LA TOYOTA",
+      "url": "https://open.spotify.com/track/4PrzyvV7cS0G1ibBdZ9ShS"
     },
     {
       "album": {
@@ -1276,6 +1302,24 @@
     {
       "album": {
         "name": "Ac\u00e9rcate",
+        "url": "https://open.spotify.com/album/2Z7yV50aIX5Le0GkIIgG1p"
+      },
+      "artists": [
+        {
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164513,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/4ZiVOGjyELTx3DaUl4wvb2"
+    },
+    {
+      "album": {
+        "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s"
       },
       "artists": [
@@ -1892,7 +1936,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 211785,
       "name": "AHORA RECUERDO",
       "url": "https://open.spotify.com/track/0Z3ES6AxoE9oAku5gTRUv0"
@@ -4850,7 +4894,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 114424,
       "name": "Banco!",
       "url": "https://open.spotify.com/track/668iFCjA961mtEN1tROY45"
@@ -5586,7 +5630,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 189500,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa"
@@ -5640,7 +5684,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 263000,
       "name": "Boca de Dama",
       "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
@@ -5752,7 +5796,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 186666,
       "name": "BORRACHO",
       "url": "https://open.spotify.com/track/7tb9pr1EZTwnZIadf3iiK6"
@@ -6682,6 +6726,24 @@
       "duration_ms": 144947,
       "name": "Candela",
       "url": "https://open.spotify.com/track/683OupaDPQs73s58zY2Aup"
+    },
+    {
+      "album": {
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
     },
     {
       "album": {
@@ -8772,7 +8834,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 177196,
       "name": "Cosas Imposibles (No Me Sirven)",
       "url": "https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y"
@@ -11896,7 +11958,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 187625,
       "name": "Donde",
       "url": "https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM"
@@ -12170,7 +12232,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 195823,
       "name": "Dulce de leche",
       "url": "https://open.spotify.com/track/71haY7cHFKJuZPd9WbsiZD"
@@ -14679,6 +14741,32 @@
     },
     {
       "album": {
+        "name": "Esa Morena",
+        "url": "https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1"
+      },
+      "artists": [
+        {
+          "name": "SOLUNA",
+          "url": "https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW"
+        },
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        },
+        {
+          "name": "risko",
+          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Esa Morena",
+      "url": "https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp"
+    },
+    {
+      "album": {
         "name": "Escaparnos",
         "url": "https://open.spotify.com/album/2vLW1oE1LgQnyVFwRI0fo7"
       },
@@ -15835,6 +15923,24 @@
     },
     {
       "album": {
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/1DzJ8Md2trz0mN8KQh5tZ9"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/0znwYCQWSS5Bupi6ZI4JhM"
+    },
+    {
+      "album": {
         "name": "Traici\u00f3n",
         "url": "https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k"
       },
@@ -16224,6 +16330,28 @@
       "duration_ms": 214173,
       "name": "Freno",
       "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+    },
+    {
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/3mVMYocHzvOhcpN6rGj2PJ"
+      },
+      "artists": [
+        {
+          "name": "GATITAS VEGANAS",
+          "url": "https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28"
+        },
+        {
+          "name": "Gordo Larvo",
+          "url": "https://open.spotify.com/artist/0xXkM0BNmY1NZeruflUzng"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/44goxeEbeHVBMVyX5GKWIa"
     },
     {
       "album": {
@@ -19252,6 +19380,32 @@
       "duration_ms": 137532,
       "name": "KR1MIN4L",
       "url": "https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre"
+    },
+    {
+      "album": {
+        "name": "Kuromi.wav",
+        "url": "https://open.spotify.com/album/2u1S3fRcc6io2gYe9FhUcN"
+      },
+      "artists": [
+        {
+          "name": "LIL YISS",
+          "url": "https://open.spotify.com/artist/2kQujorf117J2fWdfxAYjh"
+        },
+        {
+          "name": "DimeDrako",
+          "url": "https://open.spotify.com/artist/7jLGGPXywBzgW1dpaEVVOO"
+        },
+        {
+          "name": "Kasei B",
+          "url": "https://open.spotify.com/artist/7CdbtS3WhDSTFMCVsZiddC"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Kuromi.wav",
+      "url": "https://open.spotify.com/track/3RAeW0xsz4EYx7IVatk3Eu"
     },
     {
       "album": {
@@ -23119,6 +23273,24 @@
     },
     {
       "album": {
+        "name": "Marcelita",
+        "url": "https://open.spotify.com/album/43Lr85C8ylCOYT5MJSC2Qp"
+      },
+      "artists": [
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243285,
+      "name": "Marcelita",
+      "url": "https://open.spotify.com/track/5oknivBxfs9JM7CbgT0llD"
+    },
+    {
+      "album": {
         "name": "Mares\u00eda",
         "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
@@ -25228,7 +25400,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 254386,
       "name": "Misbehaving",
       "url": "https://open.spotify.com/track/5u96cfvEyu5NdwtOHkEYgj"
@@ -26291,6 +26463,24 @@
     },
     {
       "album": {
+        "name": "Nada Que Decir",
+        "url": "https://open.spotify.com/album/0QMciV8uK7PpIVr5Uy3eEX"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Nada Que Decir",
+      "url": "https://open.spotify.com/track/7n6Judorbmi3LyykG9AcYP"
+    },
+    {
+      "album": {
         "name": "Nada Que Extra\u00f1ar",
         "url": "https://open.spotify.com/album/26VRbNvZy0xLUdvmBYcBMb"
       },
@@ -26960,7 +27150,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 140410,
       "name": "no es lo mismo",
       "url": "https://open.spotify.com/track/21luwIfhSuDwqCoHaJSLB9"
@@ -27290,6 +27480,24 @@
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
+    },
+    {
+      "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
     },
     {
       "album": {
@@ -27746,7 +27954,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 174545,
       "name": "NO SE LO K TENES",
       "url": "https://open.spotify.com/track/4OAHUIoloKdik5KGTLJYqX"
@@ -27974,6 +28182,24 @@
       "duration_ms": 204000,
       "name": "No Te Me Canses",
       "url": "https://open.spotify.com/track/79qFsNEhLmsRBP9JsQvrme"
+    },
+    {
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT"
+      },
+      "artists": [
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144341,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b"
     },
     {
       "album": {
@@ -29646,7 +29872,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 506000,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH"
@@ -30467,6 +30693,28 @@
     },
     {
       "album": {
+        "name": "Perfectos",
+        "url": "https://open.spotify.com/album/194IbUwEkOI5pcrj7jwDGS"
+      },
+      "artists": [
+        {
+          "name": "Javier Fuentes",
+          "url": "https://open.spotify.com/artist/0QVkU71rM30TETLEHyUX5X"
+        },
+        {
+          "name": "Amels",
+          "url": "https://open.spotify.com/artist/2YAmqqDDi0bqXPS0D0lJWo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "Perfectos",
+      "url": "https://open.spotify.com/track/0KutxIqi1m6ss5YN13y1fJ"
+    },
+    {
+      "album": {
         "name": "Perico",
         "url": "https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca"
       },
@@ -31001,6 +31249,24 @@
     },
     {
       "album": {
+        "name": "Plomo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2rs5AtxTZcaSJAqAamHxJY"
+      },
+      "artists": [
+        {
+          "name": "Medinna",
+          "url": "https://open.spotify.com/artist/5VDgpckTgIKmrrvbv05aKl"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Plomo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2c4EzONUbjFYzMkGIPRK5b"
+    },
+    {
+      "album": {
         "name": "Pobre Diabla",
         "url": "https://open.spotify.com/album/4NKxmZKe5QJC8ktxNuQYnC"
       },
@@ -31304,10 +31570,28 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 187636,
       "name": "PREGUNTAI (Gaman)",
       "url": "https://open.spotify.com/track/6z2PKP8W8NGt1ZuDncVoe0"
+    },
+    {
+      "album": {
+        "name": "presagio",
+        "url": "https://open.spotify.com/album/0JeglchKOLQPudH6a5fzat"
+      },
+      "artists": [
+        {
+          "name": "Espejos Rotos",
+          "url": "https://open.spotify.com/artist/35FUex2L1BXcdl9RlalI9m"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186971,
+      "name": "presagio",
+      "url": "https://open.spotify.com/track/5AbaNUWEn6KR6oVYyu9TrV"
     },
     {
       "album": {
@@ -32986,7 +33270,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 177074,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/0sC6ho1eyJnxsWZCsTMTqn"
@@ -34657,6 +34941,24 @@
     },
     {
       "album": {
+        "name": "Sera Inutil",
+        "url": "https://open.spotify.com/album/3EXkBQmzOv4AVPCmXumBom"
+      },
+      "artists": [
+        {
+          "name": "De'Migo",
+          "url": "https://open.spotify.com/artist/2i4uinERLGWHenAHR0AQUD"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104411,
+      "name": "Sera Inutil",
+      "url": "https://open.spotify.com/track/3rfa1waFuNsnayIws1swq3"
+    },
+    {
+      "album": {
         "name": "Seres",
         "url": "https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf"
       },
@@ -35378,6 +35680,28 @@
       "duration_ms": 106899,
       "name": "Simulaci\u00f3n",
       "url": "https://open.spotify.com/track/2EeYkRqO2jARahPY4GytqF"
+    },
+    {
+      "album": {
+        "name": "Sin Conocerte",
+        "url": "https://open.spotify.com/album/7kNrtm0LZdfH8hq3Qybvry"
+      },
+      "artists": [
+        {
+          "name": "Uma German",
+          "url": "https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY"
+        },
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189308,
+      "name": "Sin Conocerte",
+      "url": "https://open.spotify.com/track/1y3seLsC1w19Ru04jY07Vd"
     },
     {
       "album": {
@@ -37476,7 +37800,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 135562,
       "name": "Te duele",
       "url": "https://open.spotify.com/track/2OxIExKKwLvVBlmT9zPyoz"
@@ -39892,7 +40216,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 227203,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK"
@@ -42797,6 +43121,24 @@
     },
     {
       "album": {
+        "name": "ya fue",
+        "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "ya fue",
+      "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
+    },
+    {
+      "album": {
         "name": "Ya Lo S\u00e9, Pero Igual",
         "url": "https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0"
       },
@@ -42830,7 +43172,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 189141,
       "name": "Ya me fui",
       "url": "https://open.spotify.com/track/6mMSv0UE5AEvHD9DadkI26"

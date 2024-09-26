@@ -1,12 +1,12 @@
 {
-  "description": "This Is A Boogie Wit da Hoodie. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 199946,
+  "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
+  "num_followers": 199963,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAA8+Hv0tkfuwAcvaUkUARBt",
+  "snapshot_id": "ZvIBAAAAAACXYrkBa7AxPa9JlSIPiuDN",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Dark King",
-      "url": "https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
       },
       "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 254999,
-      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
+      "duration_ms": 199653,
+      "name": "Dark King",
+      "url": "https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F"
     },
     {
       "added_at": null,
@@ -863,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Need You Around (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev"
+      "duration_ms": 254999,
+      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 154250,
       "name": "February",
       "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Need You Around (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/6fPEC2rEv7GIrDLJ4xL2ev"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist 2.0",
         "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 156960,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 141960,
       "name": "Let's Go Away (feat. Young Thug)",
       "url": "https://open.spotify.com/track/7LrWraeGYpRBoNp2OeroW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 196618,
-      "name": "Blood On My Denim",
-      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

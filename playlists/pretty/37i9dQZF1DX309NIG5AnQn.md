@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 DOJO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,550 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 51 | [Liberación](https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Liberación](https://open.spotify.com/album/3rWW0AXe5G6JNOOsdcJ2nN) | 3:58 |
 | 52 | [Desconsuelo](https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Desconsuelo](https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T) | 4:03 |
 | 53 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 |
-| 54 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
+| 54 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 |
 | 55 | [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 |
 | 56 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 |
 | 57 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 80 | [Promesas](https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Promesas](https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB) | 4:31 |
 | 81 | [Ciclos](https://open.spotify.com/track/4UMt3b7pmMC6cVmvePzhXA) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Ciclos](https://open.spotify.com/album/39cJ89qNaFHypKcucHwMfc) | 3:48 |
 | 82 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 |
-| 83 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
+| 83 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams](https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 |
 | 84 | [Tráfico](https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Entrada Triunfal](https://open.spotify.com/album/4wP2yhVbsjzTNqn0g1YpT4) | 3:44 |
 | 85 | [Bitcha](https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Bitcha](https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK) | 3:34 |
 | 86 | [Será](https://open.spotify.com/track/6jpXkK8IWxoqMIegRTNTCY) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Será](https://open.spotify.com/album/0OE8zZZAUTiYpEnGZkAwkV) | 3:06 |

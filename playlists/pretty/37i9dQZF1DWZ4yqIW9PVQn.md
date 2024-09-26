@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,836 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,838 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 27 | [Fade Away](https://open.spotify.com/track/3Othmm3gdYuWeTeJunCCN4) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Fade Away](https://open.spotify.com/album/6QKMkubaMBZsiSGaxYd1k1) | 2:51 |
 | 28 | [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 |
 | 29 | [Water](https://open.spotify.com/track/2l26SisqsxD0MCZoarxlL3) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [22522](https://open.spotify.com/album/52uiwubDec4Tmm5B2sQu1w) | 3:41 |
-| 30 | [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 |
+| 30 | [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Haku](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 |
 | 31 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
 | 32 | [Globe](https://open.spotify.com/track/6l7jth8VMA9Wo52NeNwwwm) | [LIZRO](https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF), [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/3yCc0PMldpvQXlmM7rgdZn) | 2:41 |
 | 33 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
-  "num_followers": 40852,
+  "num_followers": 40883,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAACjBm55iFy2638s+gJXkC34",
+  "snapshot_id": "ZvIBAAAAAAAu/odaYyyOhvXgC+SFkjoP",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So\u00f1ar",
         "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 209000,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
     },
     {
       "added_at": null,

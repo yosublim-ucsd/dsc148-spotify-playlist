@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf?si=m\-\_ShnKKQoa9qovTbWRkVg">Cznbaby</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74?si=u69HwuJqSnCL3\-LOdO\-HBA">Fido</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,277 likes - 42 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 42 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Night](https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [One Night](https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp) | 2:50 |
-| 2 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 |
-| 3 | [VIBE](https://open.spotify.com/track/2V2X9CZ99YVf2oWjyg1DVn) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [VIBE](https://open.spotify.com/album/6GsHPxV3QdKnTfKbynPP9W) | 2:09 |
-| 4 | [Blest](https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ) | [Yamiko](https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx) | [Rear View Mirror](https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu) | 3:07 |
+| 1 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 |
+| 2 | [VIBE](https://open.spotify.com/track/2V2X9CZ99YVf2oWjyg1DVn) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [VIBE](https://open.spotify.com/album/6GsHPxV3QdKnTfKbynPP9W) | 2:09 |
+| 3 | [Blest](https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ) | [Yamiko](https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx) | [Rear View Mirror](https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu) | 3:07 |
+| 4 | [One Night](https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [One Night](https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp) | 2:50 |
 | 5 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 |
 | 6 | [Misscomplicationship \- Yolophonik Remix](https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ) | [Retro Vibe](https://open.spotify.com/artist/6YwTq9An1a91MBtsBMVC4d), [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf) | [Misscomplicationship \(Yolophonik Remix\)](https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq) | 3:34 |
 | 7 | [ebi from Waterside](https://open.spotify.com/track/2py8kc44JBLG6FDecO4eC3) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Kevo Realsound](https://open.spotify.com/artist/23kU8wzX05FI78OwrySKOw) | [ebi from Waterside](https://open.spotify.com/album/2gvDwd9j7ESgS3xJTFtgyG) | 3:55 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 41 | [Eventually](https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Eventually](https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE) | 4:03 |
 | 42 | [far from grace](https://open.spotify.com/track/04Q8dveQ25eKHFcAmWtpDv) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD) | [far from grace](https://open.spotify.com/album/4nz5vJQS5pGxyQZZBbnfYj) | 2:43 |
 
-Snapshot ID: `ZuqKGAAAAABxVP93G37pgEUQ03ijqK3N`
+Snapshot ID: `ZvPt0QAAAACFqbQ+br4Zv/Y7tvQGZJpv`

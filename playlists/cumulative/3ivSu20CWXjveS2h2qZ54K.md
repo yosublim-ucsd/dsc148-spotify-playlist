@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,552 songs - 3 day 13 hr 56 min
+1,554 songs - 3 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Micro](https://open.spotify.com/track/0IJv2c4MsV3RQDBTFrnKtD) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Micro](https://open.spotify.com/album/18jWrGTwzqtp1Bs9oJZtSL) | 3:15 | 2024-05-09 | 2024-05-18 |
 | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 | 2024-08-24 | 2024-08-31 |
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-06-28 | 2024-07-13 |
+| [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-25 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-06 | 2024-06-15 |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-12 | 2024-09-21 |
 | [Migajas](https://open.spotify.com/track/0Ly54wn57jolHJ7ah5IyBE) | [Martin de Marte](https://open.spotify.com/artist/5InovuszFKuI2KfzeIkUre) | [Migajas](https://open.spotify.com/album/7BpsO2YPuJtTU3q8qmGJRT) | 3:26 | 2024-06-11 | 2024-06-15 |
@@ -999,6 +1000,7 @@
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 | 2024-05-10 |
 | [Old Scratch Blues](https://open.spotify.com/track/5Vi4wnQLLs4zZSpnngTbEE) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:31 | 2024-08-02 | 2024-08-10 |
 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 | 2024-08-20 | 2024-08-31 |
+| [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-25 |  |
 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-05-31 | 2024-06-12 |
 | [On It and Around It](https://open.spotify.com/track/3fwqNfXf0FofurFJCsGkKX) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | [I Am Toward You](https://open.spotify.com/album/37fpcQ3pP1dAqMVIpowwUX) | 4:43 | 2024-05-10 | 2024-05-18 |
 | [On My Mind](https://open.spotify.com/track/3WT23T1KljmBjdQgUvPddr) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl), [Omarsi](https://open.spotify.com/artist/5SoyhrthxplxVXSyNsTUjG), [Gyota](https://open.spotify.com/artist/6oQu3pEB0yihjhG31lOhJu), [B Lion](https://open.spotify.com/artist/1i6pijsRCCuuw3XYztLt8D) | [On My Mind](https://open.spotify.com/album/15rdEORbGYFcWgWPh1kzOw) | 2:59 | 2024-05-24 | 2024-06-12 |

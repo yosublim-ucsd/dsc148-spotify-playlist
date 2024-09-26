@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,852 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,855 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 41 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep) | 3:45 |
 | 42 | [The Intruders Medley Introduction \- Live](https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:29 |
 | 43 | [All Night Love](https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 5:56 |
-| 44 | [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 |
-| 45 | [Hey Doc](https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:24 |
+| 44 | [Hey Doc](https://open.spotify.com/track/1SmaTS6pNebJa3Tf6e3gM9) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:24 |
+| 45 | [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 |
 | 46 | [A House Is Not A Home \- Live](https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 8:18 |
 | 47 | [If You're Looking For Somebody To Love](https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Philadelphia Soul](https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av) | 4:46 |
 | 48 | [Pray Before You Start Your Day \- Inspirational Mix 1](https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Izaiah James](https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG) | [Pray Before You Start Your Day \(Inspirational Mixes\)](https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m) | 2:27 |
-| 49 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
+| 49 | [Hope We Can Be Together Soon / All Night Long \- Live Medley](https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 10:04 |
 | 50 | [Harold Melvin's Blue Notes Band Introduction With MC \- Live](https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:56 |
 
-Snapshot ID: `ZvCvgAAAAACWMxv8oHbC6269oWlNH/zJ`
+Snapshot ID: `ZvIBAAAAAAD7CHDHzwrkKKtDIm1v2oqy`

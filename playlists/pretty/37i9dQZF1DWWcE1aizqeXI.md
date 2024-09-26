@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,678 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,683 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 14 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
 | 15 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 |
 | 16 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
-| 17 | [I Ain't Jack](https://open.spotify.com/track/3N7qYEQWT3V9VogygtUyYe) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [I Ain't Jack](https://open.spotify.com/album/0LXqvdMmle39BzOiwlk8ix) | 3:46 |
+| 17 | [I Ain't Jack](https://open.spotify.com/track/3N7qYEQWT3V9VogygtUyYe) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw) | [I Ain't Jack](https://open.spotify.com/album/0LXqvdMmle39BzOiwlk8ix) | 3:46 |
 | 18 | [Indigo Orb](https://open.spotify.com/track/1aWZdvzQAagYOehFRX0LLg) | [Maude Vôs](https://open.spotify.com/artist/7hY76JTO7TQqiUscfUGFbf) | [Unearthed EP](https://open.spotify.com/album/6lBYKkhpR7DlGLpDQ9l7OJ) | 4:09 |
 | 19 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 |
 | 20 | [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Paulina Singer](https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 |

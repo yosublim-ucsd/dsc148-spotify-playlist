@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39670,
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "num_followers": 39673,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAABM8twwZxv/YvqJK130d8/b",
+  "snapshot_id": "ZvIBAAAAAACgbIF+kc6dQTb83nxIkuAr",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Sal",
-        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 266253,
-      "name": "Por la Eternidad",
-      "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
+      "duration_ms": 278946,
+      "name": "\u00c9l Viene Otra Vez",
+      "url": "https://open.spotify.com/track/0dpkcyEMBoxObM6ZdZVmov"
     },
     {
       "added_at": null,
@@ -523,22 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
       "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 278946,
-      "name": "\u00c9l Viene Otra Vez",
-      "url": "https://open.spotify.com/track/0dpkcyEMBoxObM6ZdZVmov"
+      "duration_ms": 266253,
+      "name": "Por la Eternidad",
+      "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
       "duration_ms": 271426,
       "name": "Solo En Jes\u00fas",
       "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 467012,
+      "name": "Para M\u00ed Es Solo Cristo",
+      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,
@@ -603,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
       "artists": [
         {
@@ -612,19 +632,19 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 467012,
-      "name": "Para M\u00ed Es Solo Cristo",
-      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
+      "duration_ms": 344549,
+      "name": "Me Amaste a M\u00ed",
+      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
@@ -632,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 326974,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+      "duration_ms": 270404,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb"
     },
     {
       "added_at": null,
@@ -675,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 326974,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -682,31 +718,15 @@
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270404,
-      "name": "Hermoso",
-      "url": "https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 344549,
-      "name": "Me Amaste a M\u00ed",
-      "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
+      "duration_ms": 267326,
+      "name": "Ruge",
+      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 267326,
-      "name": "Ruge",
-      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 269645,
       "name": "El Gran Nombre del Se\u00f1or",
       "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 285810,
+      "name": "A Ti Correr\u00e9",
+      "url": "https://open.spotify.com/track/4ZW6hHdJAafygRPRMvm4mf"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 285810,
-      "name": "A Ti Correr\u00e9",
-      "url": "https://open.spotify.com/track/4ZW6hHdJAafygRPRMvm4mf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adoraci\u00f3n Vol. 1",
         "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-398 songs - 1 day 2 hr 52 min
+399 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Million Miles](https://open.spotify.com/track/4ThY41ctjINKJ1YLGzH7Ro) | [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [A Million Miles](https://open.spotify.com/album/59w0ctNJAz22BooUc0kK2l) | 3:30 | 2024-05-19 | 2024-06-03 |
 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 | 2023-08-11 | 2024-04-14 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-05-14 | 2023-05-30 |
+| [Acid Latino \(Sonido Real\)](https://open.spotify.com/track/0Rbs8SwS2ei1B2kSorPoUH) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Acid Latino \(Sonido Real\)](https://open.spotify.com/album/7tQe00fnEbW82f3OnQlwWz) | 3:45 | 2024-09-25 |  |
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-30 |  |
 | [Affection](https://open.spotify.com/track/4WMYrQdLCPNYHa4vEZWHxt) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Affection](https://open.spotify.com/album/0v9ZyMMizXT9KV6vbaRg2H) | 5:24 | 2021-08-05 | 2022-07-29 |
 | [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-07-13 |  |
@@ -132,7 +133,7 @@
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-06-09 |  |
 | [FUNKY LADY](https://open.spotify.com/track/0Q9E8mLUdeLRyYdpWun2iY) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Bobby Soul](https://open.spotify.com/artist/6GEKhpwxiRESLIxGkpXGPw) | [THE NEW ALBUM](https://open.spotify.com/album/6gpCbZAzg4dsaFRvYXxj4M) | 4:11 | 2024-05-19 | 2024-06-03 |
 | [Funkytown](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Mouth To Mouth](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) | 7:50 | 2024-05-19 | 2024-06-03 |
-| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-22 |  |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-22 | 2024-09-26 |
 | [Get Down On It](https://open.spotify.com/track/4Cv6ongCvJy9JfSkWVnb5D) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1kNUVRC3LbnhjrBruBwvUN) | 4:53 | 2024-05-19 | 2024-06-03 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2024-05-19 | 2024-06-03 |
 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2021-08-05 | 2023-05-31 |

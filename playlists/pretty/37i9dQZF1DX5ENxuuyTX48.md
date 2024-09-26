@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Ippo Hafiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,152 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,162 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 3 | [Samudera](https://open.spotify.com/track/4twikU46zctUWS4TqpS5aK) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Samudera](https://open.spotify.com/album/5T4Vdi3V20UEGrZSSXVhOe) | 3:30 |
 | 4 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 | 5 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 |
-| 6 | [Infatuated](https://open.spotify.com/track/33ZxVNJZcA02qpBu0XSJhG) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Infatuated](https://open.spotify.com/album/0nSy7vqw1Goe8xDml9ysjL) | 3:46 |
+| 6 | [Infatuated \(With Patrickananda\)](https://open.spotify.com/track/33ZxVNJZcA02qpBu0XSJhG) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Infatuated \(With Patrickananda\)](https://open.spotify.com/album/0nSy7vqw1Goe8xDml9ysjL) | 3:46 |
 | 7 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 |
 | 8 | [REGRETS](https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [REGRETS](https://open.spotify.com/album/3tEGJIfvTdBI3VkherQsCm) | 2:56 |
 | 9 | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Itu Aku \(feat\. The Adams\)](https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v) | 4:47 |

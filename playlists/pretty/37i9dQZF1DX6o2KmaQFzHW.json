@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 190619,
+  "num_followers": 190621,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Cancion del Adios",
+      "url": "https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Cancion del Adios",
-      "url": "https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1203,6 +1203,58 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "50 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
+      },
+      "artists": [
+        {
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        },
+        {
+          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
+          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
+        }
+      ],
+      "duration_ms": 188028,
+      "name": "Chacarera del Cardenal - En Vivo",
+      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Mama Vieja",
+      "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "En Vivo en Argentina, Vol. 2",
         "url": "https://open.spotify.com/album/7CRO8hkgX3b6s07QWkSR61"
       },
@@ -1243,54 +1295,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "50 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
+        "name": "Tinto",
+        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
       },
       "artists": [
         {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        },
-        {
-          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
-          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 188028,
-      "name": "Chacarera del Cardenal - En Vivo",
-      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Mama Vieja",
-      "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
+      "duration_ms": 203053,
+      "name": "La Refranera",
+      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 211533,
       "name": "La Pastorcita Perdida",
       "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Tinto",
-        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
-      },
-      "artists": [
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "La Refranera",
-      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Para Que Vuelvas",
         "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 188400,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Verdaderas Canciones de Amor",
         "url": "https://open.spotify.com/album/55aTDgHkAjZleFL09SlvsQ"
       },
@@ -1499,26 +1515,6 @@
       "duration_ms": 258306,
       "name": "Maestras De Jujuy",
       "url": "https://open.spotify.com/track/6PVgr4W0ykPhb5w7MZl3Ez"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "El Sue\u00f1o de Mi Guitarra",
-        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Fal\u00fa",
-          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Canci\u00f3n del Amor En Zapatillas",
-      "url": "https://open.spotify.com/track/6qM3zhKdj7VA8y4xuO27OR"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1543,34 +1539,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Reencuentro en el CCK",
-        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
+        "name": "El Sue\u00f1o de Mi Guitarra",
+        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
       "artists": [
         {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        }
-      ],
-      "duration_ms": 115147,
-      "name": "Repiqueteadita",
-      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
-      },
-      "artists": [
+          "name": "Eduardo Fal\u00fa",
+          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+        },
         {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
-      "duration_ms": 151600,
-      "name": "Recuerdo Salte\u00f1o",
-      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
+      "duration_ms": 252226,
+      "name": "Canci\u00f3n del Amor En Zapatillas",
+      "url": "https://open.spotify.com/track/6qM3zhKdj7VA8y4xuO27OR"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 243880,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Reencuentro en el CCK",
+        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
+      },
+      "artists": [
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 115147,
+      "name": "Repiqueteadita",
+      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1947,8 +1947,8 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+        "name": "Canci\u00f3n en Nuestra Casa",
+        "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
       },
       "artists": [
         {
@@ -1956,9 +1956,9 @@
           "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
         }
       ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
+      "duration_ms": 201440,
+      "name": "Canci\u00f3n en Nuestra Casa",
+      "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2111,8 +2111,8 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Canci\u00f3n en Nuestra Casa",
-        "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
       },
       "artists": [
         {
@@ -2120,9 +2120,9 @@
           "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Canci\u00f3n en Nuestra Casa",
-      "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
     },
     {
       "added_at": "2024-07-12 03:00:00",

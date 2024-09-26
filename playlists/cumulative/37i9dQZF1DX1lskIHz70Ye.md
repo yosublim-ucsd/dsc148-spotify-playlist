@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-174 songs - 8 hr 43 min
+176 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 | 2024-09-03 |  |
 | [Madrigale](https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Madrigale](https://open.spotify.com/album/74i60tfoF7VnXZgTjGJj5o) | 3:10 | 2024-05-24 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |
+| [Mallorca](https://open.spotify.com/track/7aYyPUyrRTyAlZZzviXqy9) | [Paul Connor](https://open.spotify.com/artist/0FIFA44uZ9dxGnGnNJTUEl) | [Mallorca](https://open.spotify.com/album/0gDUMfzBQoZbNYv79WLDBA) | 2:08 | 2024-09-25 |  |
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2024-05-24 |  |
 | [Maria Elena](https://open.spotify.com/track/6hBhCWOJRbY8lB9Es8iajN) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:44 | 2022-03-03 | 2022-07-22 |
 | [María Elena](https://open.spotify.com/track/10uj4OUMAm6uSylGheBhfp) | [Las Guitarras Románticas](https://open.spotify.com/artist/1ujwlcR6oyT856VONw14pD) | [Guitarras Mágicas \(En El Sonido De Los Indios Cabajaras\)](https://open.spotify.com/album/0ryTLVrwIMFxpUjNl3eDNG) | 2:40 | 2022-03-03 | 2022-07-15 |
@@ -121,6 +122,7 @@
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2022-03-03 |  |
 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 | 2024-08-20 |  |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2022-03-03 |  |
+| [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 | 2024-09-25 |  |
 | [Pensando en Ti](https://open.spotify.com/track/5cmiQJjwspcjKyk8m2eY2I) | [David Albornoz](https://open.spotify.com/artist/3yviAynIi2sAA9u4q1v3Y1) | [Pensando en Ti](https://open.spotify.com/album/2hFryn75O4ssRsYT1Q3Hxw) | 3:05 | 2024-07-18 |  |
 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 | 2022-03-03 | 2022-07-09 |
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2022-03-03 |  |

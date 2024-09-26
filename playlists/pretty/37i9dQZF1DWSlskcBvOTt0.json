@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 500833,
+  "num_followers": 501066,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Perreo",
+        "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
+      },
+      "artists": [
+        {
+          "name": "Quentro",
+          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
+        },
+        {
+          "name": "Kuntay Cevizci",
+          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Perreo",
+      "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Tides (feat. Bajka)",
         "url": "https://open.spotify.com/album/6fWpGEYJ8KEJh4yGuEBhPh"
       },
@@ -1111,26 +1135,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Perreo",
-        "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
       "artists": [
         {
-          "name": "Quentro",
-          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
         },
         {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
-        },
-        {
-          "name": "Kuntay Cevizci",
-          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Perreo",
-      "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1171,22 +1191,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
         }
       ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1211,42 +1227,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
-      },
-      "artists": [
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Where Do We Come From",
         "url": "https://open.spotify.com/album/7wyenMAZQomHOdzLEwFgNA"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 186570,
       "name": "Where Do We Come From",
       "url": "https://open.spotify.com/track/5FeuE8PulRdvlI3uSIyXKW"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Nothing Ever Changes",
-        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "Nothing Ever Changes",
-      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 228496,
       "name": "Where's The Music Gone",
       "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Nothing Ever Changes",
+        "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "Nothing Ever Changes",
+      "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 193280,
       "name": "Move On",
       "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        }
+      ],
+      "duration_ms": 293793,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Osama (Claptone Remix)",
         "url": "https://open.spotify.com/album/7c9uVaoqvliWaTRFRPwMYN"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 189973,
       "name": "Osama - Claptone Remix",
       "url": "https://open.spotify.com/track/1XcpR3x6MzWP4soqbXU7Qu"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
-      },
-      "artists": [
-        {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
-        }
-      ],
-      "duration_ms": 293793,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Lose Your Love",
         "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 192018,
       "name": "Lose Your Love",
       "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 279344,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2459,6 +2459,54 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "soso (JOSEPH Remix)",
+        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "soso - JOSEPH Remix",
+      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Silence of Love (Reznik Remix)",
+        "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 425409,
+      "name": "Silence of Love - Reznik Remix",
+      "url": "https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Human Rights",
         "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
       },
@@ -2519,50 +2567,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "soso (JOSEPH Remix)",
-        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
         },
         {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+          "name": "Redd",
+          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
         }
       ],
-      "duration_ms": 291500,
-      "name": "soso - JOSEPH Remix",
-      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Silence of Love (Reznik Remix)",
-        "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Reznik",
-          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
-        },
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 425409,
-      "name": "Silence of Love - Reznik Remix",
-      "url": "https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx"
+      "duration_ms": 199954,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2591,22 +2611,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Magic Circus",
-        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Magic Circus",
-      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Lean Into The Sunshine",
         "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
       },
@@ -2627,6 +2631,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Magic Circus",
+        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Magic Circus",
+      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/03PlGHrwDyR7tqCln65Kqq"
       },
@@ -2643,26 +2663,6 @@
       "duration_ms": 222080,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/0LUiiUW7NqDnTOYoedbtJg"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "name": "Redd",
-          "url": "https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0"
-        }
-      ],
-      "duration_ms": 199954,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
     },
     {
       "added_at": "2024-09-20 04:00:00",

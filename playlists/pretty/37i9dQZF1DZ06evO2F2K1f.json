@@ -1,12 +1,12 @@
 {
-  "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
+  "description": "This is Alan Hawkshaw. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "num_followers": 1021,
   "original_name": "This Is Alan Hawkshaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAC7IIY5HsSBHMtCLD0p8YzL",
+  "snapshot_id": "ZvIBAAAAAACtEgbR1QtsapfFErbouK4G",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: Happy Rainbows",
-        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 152493,
-      "name": "Happy Rainbow",
-      "url": "https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kpm 1000 Series: Hot Wax",
         "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 266531,
       "name": "Name of the Game",
       "url": "https://open.spotify.com/track/7jsactTYPuOWrVfLRL40lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "Happy Rainbow",
+      "url": "https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luke Vibert's Nuggets 3",
+        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 179863,
+      "name": "Soft Throttle",
+      "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kpm 1000 Series: Music for a Young Generation",
         "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
       },
@@ -471,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kpm 1000 Series: Hot Wax",
-        "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
-      },
-      "artists": [
-        {
-          "name": "Brian Bennett",
-          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
-        },
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 161612,
-      "name": "Dossier",
-      "url": "https://open.spotify.com/track/56dgpEZPKvNet9934593ub"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kpm 1000 Series: Friendly Faces",
         "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
       },
@@ -503,38 +499,6 @@
       "duration_ms": 161239,
       "name": "Scooter Girl",
       "url": "https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luke Vibert's Nuggets 3",
-        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 179863,
-      "name": "Soft Throttle",
-      "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: The Road Forward",
-        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 266279,
-      "name": "Cruising",
-      "url": "https://open.spotify.com/track/6fFRzJrLWUTTBiCzyMRTnG"
     },
     {
       "added_at": null,
@@ -555,6 +519,58 @@
       "duration_ms": 118506,
       "name": "Clear Waters",
       "url": "https://open.spotify.com/track/6zFgiV9dR2fIxDvTQBSP2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luke Vibert's Nuggets 3",
+        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 187740,
+      "name": "Beach Journey",
+      "url": "https://open.spotify.com/track/5AEvACPyECiglaH0aNA2JF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: The Road Forward",
+        "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 266279,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/6fFRzJrLWUTTBiCzyMRTnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: Hot Wax",
+        "url": "https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr"
+      },
+      "artists": [
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/56dgpEZPKvNet9934593ub"
     },
     {
       "added_at": null,
@@ -584,29 +600,9 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 187740,
-      "name": "Beach Journey",
-      "url": "https://open.spotify.com/track/5AEvACPyECiglaH0aNA2JF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Synthesis",
-        "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        },
-        {
-          "name": "Brian Bennett",
-          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "The Executive",
-      "url": "https://open.spotify.com/track/776mbKjVAft84zLUPqoluf"
+      "duration_ms": 170873,
+      "name": "Fuel Injection",
+      "url": "https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM"
     },
     {
       "added_at": null,
@@ -647,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luke Vibert's Nuggets 3",
-        "url": "https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 170873,
-      "name": "Fuel Injection",
-      "url": "https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kpm 1000 Series: Synthesis",
         "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
       },
@@ -676,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Getting It Together",
-      "url": "https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z"
+      "duration_ms": 212666,
+      "name": "The Executive",
+      "url": "https://open.spotify.com/track/776mbKjVAft84zLUPqoluf"
     },
     {
       "added_at": null,
@@ -695,26 +675,6 @@
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Music for a Young Generation",
-        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
-      },
-      "artists": [
-        {
-          "name": "Alan Parker",
-          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
-        },
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 77533,
-      "name": "Speed Speed Speed",
-      "url": "https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0"
     },
     {
       "added_at": null,
@@ -739,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contemporary Contrasts",
-        "url": "https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv"
+        "name": "Kpm 1000 Series: Music for a Young Generation",
+        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
       },
       "artists": [
         {
@@ -752,9 +712,29 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 181977,
-      "name": "Cool Cruiser",
-      "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
+      "duration_ms": 77533,
+      "name": "Speed Speed Speed",
+      "url": "https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kpm 1000 Series: Synthesis",
+        "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Getting It Together",
+      "url": "https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z"
     },
     {
       "added_at": null,
@@ -771,26 +751,6 @@
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: Music for a Young Generation",
-        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
-      },
-      "artists": [
-        {
-          "name": "Alan Parker",
-          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
-        },
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "Lazy Evening Blues",
-      "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
     },
     {
       "added_at": null,
@@ -831,6 +791,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kpm 1000 Series: Music for a Young Generation",
+        "url": "https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "Lazy Evening Blues",
+      "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contemporary Contrasts",
+        "url": "https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "duration_ms": 181977,
+      "name": "Cool Cruiser",
+      "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kpm 1000 Series: Synthesis",
         "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 138453,
       "name": "Big Black Cadillac",
       "url": "https://open.spotify.com/track/3NVhdWRA0VKc8C9CqHdWsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kpm 1000 Series: The Big Beat",
-        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
-      },
-      "artists": [
-        {
-          "name": "Alan Hawkshaw",
-          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
-        }
-      ],
-      "duration_ms": 100666,
-      "name": "Roving Reporter",
-      "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
     },
     {
       "added_at": null,
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1980's Synth Dark Drama",
-        "url": "https://open.spotify.com/album/1OvLPPH43KA37S0UnBZRk9"
+        "name": "Kpm 1000 Series: The Big Beat",
+        "url": "https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD"
       },
       "artists": [
         {
@@ -896,9 +880,29 @@
           "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
         }
       ],
-      "duration_ms": 187404,
-      "name": "Dark Vision",
-      "url": "https://open.spotify.com/track/5WuOblWMG2QcshyAU0eKxN"
+      "duration_ms": 100666,
+      "name": "Roving Reporter",
+      "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "duration_ms": 242125,
+      "name": "Serengeti",
+      "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
     }
   ],
   "unique_name": "This Is Alan Hawkshaw",

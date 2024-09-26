@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Bituin",
+        "url": "https://open.spotify.com/album/5L9nPMD38a9DkRzyfIFOtT"
+      },
+      "artists": [
+        {
+          "name": "Letters From June",
+          "url": "https://open.spotify.com/artist/0S19WmQWKCpBiKIbDJOmeC"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287507,
+      "name": "Bituin",
+      "url": "https://open.spotify.com/track/5hvqC3Xiz3Ll2yZtaBPnvi"
+    },
+    {
+      "album": {
         "name": "Bulaklak Sa Buwan",
         "url": "https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9"
       },
@@ -1188,6 +1206,24 @@
       "duration_ms": 337758,
       "name": "KYGM",
       "url": "https://open.spotify.com/track/02XR8kfVg6AYjfeEEz3g2B"
+    },
+    {
+      "album": {
+        "name": "Lalim",
+        "url": "https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP"
+      },
+      "artists": [
+        {
+          "name": "MAT\u00c9O",
+          "url": "https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199903,
+      "name": "Lalim",
+      "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Descendents](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VULZP)
 
-> This is Descendents\. The essential tracks, all in one playlist.
+> This is: Descendents\. Alle wichtigen Tracks in einer Playlist.
 
 90 songs - 3 hr 6 min
 

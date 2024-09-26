@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: 4batz & Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,514 likes - 205 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,605 likes - 205 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

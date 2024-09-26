@@ -1,13 +1,33 @@
 {
   "description": "Elke dag een exclusieve track van Dopebwoy in La Vida Loca!",
-  "num_followers": 327074,
+  "num_followers": 327151,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvM2YAAAAADVKxV3691Vb9U9cT1Z2V2i",
+  "snapshot_id": "ZvSH4AAAAAAWGJmNqCQYu4Dele33o/ve",
   "tracks": [
+    {
+      "added_at": "2024-09-25 22:00:00",
+      "album": {
+        "name": "No Chaser (feat. Henkie T)",
+        "url": "https://open.spotify.com/album/0htOcN7cPH8bGg1jwdACHZ"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "No Chaser (feat. Henkie T)",
+      "url": "https://open.spotify.com/track/3c1LVh439Ady7bgLFuMWn3"
+    },
     {
       "added_at": "2024-09-24 22:00:00",
       "album": {

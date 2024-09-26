@@ -2,7 +2,7 @@
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
+> This is Charlie Monttana\. The essential tracks, all in one playlist.
 
 66 songs - 4 hr 28 min
 
@@ -29,7 +29,7 @@
 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 | 2023-01-14 |  |
 | [Hotel](https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:54 | 2023-01-14 |  |
 | [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 | 2024-01-29 |
-| [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 | 2024-09-25 |
+| [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 |  |
 | [La Niña del Acordeón](https://open.spotify.com/track/5RUjpiH4aVDzpCJ5GQfE4p) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:40 | 2024-01-28 | 2024-01-30 |
 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 | 2023-01-14 |  |
 | [La Última Carta](https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 5:13 | 2023-09-15 | 2024-06-10 |
@@ -70,7 +70,7 @@
 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 | 2023-01-14 |  |
 | [Y Sufrirás](https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:42 | 2023-01-14 |  |
 | [Ya No Te Quiero](https://open.spotify.com/track/2lNmpgbYahhoq600OzGbhA) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 5:08 | 2023-01-14 |  |
-| [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 | 2023-01-14 |  |
+| [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 | 2023-01-14 | 2024-09-26 |
 | [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 | 2023-01-14 |  |
 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 | 2023-01-14 |  |
 | [Ójala Fuera un Cuento](https://open.spotify.com/track/1WHoZMGtJoaOq6AKvhp6az) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:47 | 2023-01-14 |  |

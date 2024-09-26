@@ -24918,7 +24918,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 155440,
       "name": "get a grip!",
       "url": "https://open.spotify.com/track/5dV9TILx01TDifCoCPYISS"
@@ -36876,7 +36876,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 284344,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0sFqWyOpZ7MZoC5sAmF0Rg"
@@ -51229,6 +51229,24 @@
     },
     {
       "album": {
+        "name": "PLEASE",
+        "url": "https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz"
+      },
+      "artists": [
+        {
+          "name": "Red Rosamond",
+          "url": "https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265861,
+      "name": "PLEASE",
+      "url": "https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2"
+    },
+    {
+      "album": {
         "name": "Please Stay",
         "url": "https://open.spotify.com/album/6Y5P1YsrxmowlIX3hOKZQf"
       },
@@ -51748,6 +51766,24 @@
       "duration_ms": 149333,
       "name": "Pretty Words",
       "url": "https://open.spotify.com/track/1OSgEqykNwJaywE9vuldh5"
+    },
+    {
+      "album": {
+        "name": "Price of Love",
+        "url": "https://open.spotify.com/album/20bJOEakDUCm79rhsImATR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "Price of Love",
+      "url": "https://open.spotify.com/track/6oaq5nf9bMqGkByNDiGTnD"
     },
     {
       "album": {
@@ -62527,6 +62563,24 @@
     },
     {
       "album": {
+        "name": "Sweet Something",
+        "url": "https://open.spotify.com/album/6fUq5diIFtsg597Fu5axUi"
+      },
+      "artists": [
+        {
+          "name": "Jae Palm",
+          "url": "https://open.spotify.com/artist/5dkIWGVb2JDhkoF0iQVLEL"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206058,
+      "name": "Sweet Something",
+      "url": "https://open.spotify.com/track/5HhKCzxPouylANER6Laeyp"
+    },
+    {
+      "album": {
         "name": "J.X.B. presents...",
         "url": "https://open.spotify.com/album/5hNvSPdQm5x1Y6Zci8gqxo"
       },
@@ -64450,7 +64504,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 272500,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/5pWwP9NAvaFd27rGT9djsG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odunsi \(the Engine\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,660 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,685 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 75 | [Silver Lining](https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Silver Lining](https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm) | 2:53 |
 | 76 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 77 | [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 |
-| 78 | [UNO \(feat\. BenjiFlow\)](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 |
+| 78 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 |
 | 79 | [Fishy Pumpi](https://open.spotify.com/track/0JEPqOezFzZuFJdpHyYw9C) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Fishy Pumpi](https://open.spotify.com/album/1hgAKLv0gMTvI0qwmXS9Ro) | 2:19 |
 | 80 | [Lele](https://open.spotify.com/track/5KEySaLmNVT2DjB7qgKsHX) | [Clayrocksu](https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y) | [Hate It Here](https://open.spotify.com/album/29MTZbaYdLzR29gL1pKjst) | 2:55 |
 

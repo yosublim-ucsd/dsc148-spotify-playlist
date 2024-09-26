@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,032 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,053 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Gummistiefeltango](https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq) | [Tom der Trommler](https://open.spotify.com/artist/6pyjBaoOmmBG41Zbj2emTK) | [02/Tom der Trommler entdeckt Klangschätze zu Hause](https://open.spotify.com/album/33heYhkG3yNTUFQWnxD2SQ) | 2:09 |
 | 45 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
 | 46 | [Laternen leuchten überall](https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 3:53 |
-| 47 | [Der Herbst ist da](https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 1:49 |
-| 48 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 |
+| 47 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 |
+| 48 | [Der Herbst ist da](https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Herbst \- EP](https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo) | 1:49 |
 | 49 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 

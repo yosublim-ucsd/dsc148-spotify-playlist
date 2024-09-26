@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 1554,
+  "num_followers": 1574,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -336,8 +336,8 @@
       },
       "artists": [
         {
-          "name": "Masayuki Yamamoto",
-          "url": "https://open.spotify.com/artist/6CSaDHu82HcQGB5ZOFqqJQ"
+          "name": "\u5c71\u672c\u307e\u3055\u3086\u304d",
+          "url": "https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD"
         },
         {
           "name": "\u5c11\u5e74\u5c11\u5973\u5408\u5531\u56e3\u307f\u305a\u3046\u307f",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
-        "name": "\u300c\u6620\u753b \u8d85\u6642\u7a7a\u8981\u585e\u30de\u30af\u30ed\u30b9\u300d \u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b \uff1c\u97f3\u697d\u7bc7\uff1e",
-        "url": "https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP"
-      },
-      "artists": [
-        {
-          "name": "Mari Iijima",
-          "url": "https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij"
-        }
-      ],
-      "duration_ms": 309114,
-      "name": "\u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b",
-      "url": "https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W"
-    },
-    {
-      "added_at": "2024-08-28 15:33:15",
-      "album": {
         "name": "\u30bf\u30c3\u30c1",
         "url": "https://open.spotify.com/album/6gSfmXLxjFCLtYqMtMWZrp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237813,
       "name": "\u611b\u304c\u3072\u3068\u308a\u307c\u3063\u3061",
       "url": "https://open.spotify.com/track/5xAKNKw4sa77VlVDdF1dtP"
+    },
+    {
+      "added_at": "2024-08-28 15:33:15",
+      "album": {
+        "name": "\u300c\u6620\u753b \u8d85\u6642\u7a7a\u8981\u585e\u30de\u30af\u30ed\u30b9\u300d \u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b \uff1c\u97f3\u697d\u7bc7\uff1e",
+        "url": "https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP"
+      },
+      "artists": [
+        {
+          "name": "Mari Iijima",
+          "url": "https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij"
+        }
+      ],
+      "duration_ms": 309114,
+      "name": "\u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b",
+      "url": "https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W"
     },
     {
       "added_at": "2024-08-28 15:33:15",

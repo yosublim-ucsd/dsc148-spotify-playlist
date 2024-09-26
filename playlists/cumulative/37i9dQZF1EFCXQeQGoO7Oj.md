@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-542 songs - 1 day 8 hr 26 min
+543 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Around The World](https://open.spotify.com/track/5IxXl4qLDoh16PJ5E7lnql) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Around The World](https://open.spotify.com/album/3gHfWLXRghI7FMAKIlZHQ8) | 3:36 | 2024-01-29 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2024-01-29 |  |
 | [As Long As You Love Me](https://open.spotify.com/track/3ktbGmYDh1vrdzsWVOesOm) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [As Long As You Love Me \(Official HD Video\)](https://open.spotify.com/album/4SMvY2ngtCPKlojrDKZU6E) | 3:37 | 2024-01-31 | 2024-02-02 |
-| [Baby \(T.U.M.H.\)](https://open.spotify.com/track/0PCIKfnfumPKmWKHUgB0QX) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Crystals](https://open.spotify.com/album/2jqNXlaGROfgQrD9owrwlm) | 3:13 | 2024-01-29 |  |
+| [Baby \(T.U.M.H.\)](https://open.spotify.com/track/0PCIKfnfumPKmWKHUgB0QX) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Crystals](https://open.spotify.com/album/2jqNXlaGROfgQrD9owrwlm) | 3:13 | 2024-01-29 | 2024-09-26 |
+| [Baby \(T.U.M.H.\)](https://open.spotify.com/track/6Gng3257ZAGLbswdbCJ6xm) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Crystals](https://open.spotify.com/album/4GNyOPxAoQf0Y12fmkygOf) | 3:13 | 2024-09-25 |  |
 | [Baby \(T.U.M.H.\)](https://open.spotify.com/track/2FaWxuJAWwzLBYTiOdpVHJ) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Crystals](https://open.spotify.com/album/14ihkvJM5X58Nb8vAWjrtA) | 3:14 | 2024-06-21 | 2024-06-23 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2024-01-29 |  |
 | [Back Together](https://open.spotify.com/track/16e3Ly7ddGqqnFDiWWWwnc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Back Together](https://open.spotify.com/album/1xC5ZY2CNi8t1GbYSRwoUm) | 3:44 | 2024-01-29 |  |

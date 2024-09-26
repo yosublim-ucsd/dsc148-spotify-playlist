@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,803 likes - 57 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,800 likes - 57 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 56 | [悪女のオキテ](https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:01 |
 | 57 | [dawn](https://open.spotify.com/track/2JhZFAnx6fJMuQhbdfmQAC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:05 |
 
-Snapshot ID: `ZsSvcAAAAABh7p9bRthBlM7oP5tx+oJg`
+Snapshot ID: `ZvPY/QAAAAD/avpOSw+H/ptuP+aAyW5y`

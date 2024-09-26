@@ -2615,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "New Age",
+      "url": "https://open.spotify.com/track/6Ibgsk6qCE5rUn0jMA4KxA"
+    },
+    {
+      "album": {
         "name": "World Standard II (2021 Remastered)",
         "url": "https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D"
       },
@@ -3630,6 +3648,24 @@
       "duration_ms": 156084,
       "name": "sour cloud",
       "url": "https://open.spotify.com/track/4UlHvguF9t6KpdCXq24qEP"
+    },
+    {
+      "album": {
+        "name": "spiral energy",
+        "url": "https://open.spotify.com/album/727np887ncP1RuxuHNtLK8"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "spiral energy",
+      "url": "https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI"
     },
     {
       "album": {

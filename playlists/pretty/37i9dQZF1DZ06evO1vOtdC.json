@@ -1,12 +1,12 @@
 {
   "description": "This Is Jennifer Lopez. Los temas esenciales, todos en una lista.",
-  "num_followers": 467269,
+  "num_followers": 467278,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAABrq0XU2FfMtiqGb54t9rPd",
+  "snapshot_id": "ZvIBAAAAAAAA2Dci8hDbpFoLd0r2BGTm",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "On The Floor (Ven a Bailar) - Bonus Track",
-      "url": "https://open.spotify.com/track/4htjXtjySdVDU6QRPOGgg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live It Up",
         "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
       },
@@ -811,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
       "artists": [
         {
@@ -820,17 +800,13 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+      "duration_ms": 292186,
+      "name": "On The Floor (Ven a Bailar) - Bonus Track",
+      "url": "https://open.spotify.com/track/4htjXtjySdVDU6QRPOGgg9"
     },
     {
       "added_at": null,
@@ -851,6 +827,30 @@
       "duration_ms": 211054,
       "name": "Olv\u00eddame y Pega la Vuelta",
       "url": "https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
     },
     {
       "added_at": null,

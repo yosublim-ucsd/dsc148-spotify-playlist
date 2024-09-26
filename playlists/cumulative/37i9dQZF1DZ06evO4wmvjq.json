@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 293573,
       "name": "Barabas",
       "url": "https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 255760,
       "name": "Black Woman",
       "url": "https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Hymns from a Great Temple: Hymn No. 2",
       "url": "https://open.spotify.com/track/0BabrdezSUxE95TTjLhAxY"
@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 327200,
       "name": "The Magic Knot Waltz",
       "url": "https://open.spotify.com/track/3G3Q3zWECE6DUjIN0iAhb2"

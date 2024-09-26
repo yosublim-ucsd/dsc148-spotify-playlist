@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,011 songs - 2 day 2 hr 17 min
+1,012 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-06-26 | 2023-09-06 |
 | [Allah’ından Bul](https://open.spotify.com/track/350aUOZhGtTOK1dQbQFKNc) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Allah’ından Bul](https://open.spotify.com/album/7kvSA869nORwy8uzrHxUko) | 3:01 | 2021-03-27\* | 2021-09-05 |
 | [Altüst Olmuşum](https://open.spotify.com/track/2VnefbnGEWUiCLXHKOtE6x) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/5Zthwi7wMKTFPRUyJpJXqF) | 3:19 | 2021-10-12 | 2022-03-18 |
-| [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 | 2024-09-25 |
+| [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 |  |
 | [Altıpatlar](https://open.spotify.com/track/4MDgfXmCtrUUT7PWv1thgG) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Keişan](https://open.spotify.com/artist/5Pd3tsRa9fj2Q3JPQ0tYEv) | [Altıpatlar](https://open.spotify.com/album/4uSKGQxzWavuOJMRY5HBLc) | 2:47 | 2022-03-05 | 2022-03-18 |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP) | 2:29 | 2023-06-25 | 2024-02-16 |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/4prkrtPoc702AKjtC7fLZx) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/0Sqh3MjGZAPBLLheEYxxq4) | 2:29 | 2024-02-26 | 2024-06-22 |
@@ -321,7 +321,7 @@
 | [Elimde Fotoğrafın](https://open.spotify.com/track/4VC8fmwVLEqppUhyTx7pJa) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Sevgimin Bedeli](https://open.spotify.com/album/5CL86tQ9NiYSd6Bkzrp4Fv) | 6:55 | 2022-03-08 | 2022-03-16 |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-05-19 | 2024-08-21 |
 | [Ellerin Hani?](https://open.spotify.com/track/6Mv4D3yBHN5lN7jowqJmm9) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [Ellerin Hani?](https://open.spotify.com/album/0PK542P19KxsrC0erdCNHy) | 3:05 | 2023-01-15 | 2023-01-22 |
-| [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2023-10-02 |  |
+| [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2023-10-02 | 2024-09-26 |
 | [ELMAS](https://open.spotify.com/track/37yAd2kwEI9axbB6UznrOQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ELMAS](https://open.spotify.com/album/3I9p3UhZEHa6jmZyHhveco) | 3:04 | 2021-05-09 | 2021-06-12 |
 | [ELON MUSK](https://open.spotify.com/track/6w9w2tEw3EiZmy8f7BRUzL) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [ELON MUSK](https://open.spotify.com/album/4hOdvd5JCpWSZiqWB7WFOD) | 2:59 | 2022-02-12 | 2022-02-14 |
 | [End Of Time](https://open.spotify.com/track/4ZfVkX9C4WCIOkS9oyGmbN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [End Of Time](https://open.spotify.com/album/5DXmqr0nXw2Gle8A6GYC8c) | 2:55 | 2021-08-15 | 2021-08-16 |
@@ -792,7 +792,7 @@
 | [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-10 |  |
 | [Sakatat](https://open.spotify.com/track/1r56JjG9mRobTXWfb7UGvO) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Sakatat](https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66) | 2:36 | 2021-04-04 | 2021-07-05 |
 | [SAKIN OLA](https://open.spotify.com/track/1pDtgy08kaciI0c9z52Udt) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [SAKIN OLA](https://open.spotify.com/album/2CHcRXtH2WK6TcPHpoaP1G) | 2:47 | 2021-10-24 | 2021-11-14 |
-| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 |  |
+| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 | 2024-09-26 |
 | [SALAH](https://open.spotify.com/track/1hoI5KrTn5aEyBZJnVwdr0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SALAH](https://open.spotify.com/album/69JpxQN95CyG5gX6zdN2PE) | 2:01 | 2021-10-03 | 2021-10-04 |
 | [Salam Alaykum](https://open.spotify.com/track/69YWQXUtlAlir0zRcFrPyr) | [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25), [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q) | [Salam Alaykum](https://open.spotify.com/album/2cp6COEaiPoaNQzDmQNzLO) | 2:36 | 2021-04-26 | 2021-06-14 |
 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-11-25 | 2024-08-11 |
@@ -806,6 +806,7 @@
 | [SAVANA](https://open.spotify.com/track/4zamjWcxvLNIkiAmBEQhda) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 3:23 | 2022-01-22 | 2022-01-30 |
 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 | 2022-09-03 | 2023-01-09 |
 | [Say Goodbye 2.0](https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [Say Goodbye 2.0](https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5) | 3:30 | 2024-04-13 | 2024-04-21 |
+| [Saygımdan](https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 4:31 | 2024-09-25 |  |
 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 | 2023-08-15 | 2024-01-27 |
 | [Sağlam Kalça](https://open.spotify.com/track/1l9xKokVvCLP6QfzyTcThP) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0tu958sOlwTrxtoqFS8sof) | 2:14 | 2023-08-06 | 2023-08-16 |
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-06 | 2022-04-10 |

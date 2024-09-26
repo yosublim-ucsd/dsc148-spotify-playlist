@@ -1,6 +1,6 @@
 {
   "description": "The classics, the modern hits, belt them all out. ",
-  "num_followers": 1029368,
+  "num_followers": 1029352,
   "original_name": "Sing-Along Indie Hits",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 355866,
-      "name": "Stand By Me - Remastered",
-      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 355866,
+      "name": "Stand By Me - Remastered",
+      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 206393,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 144013,
+      "name": "Lightning Bolt",
+      "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 266775,
       "name": "Canter",
       "url": "https://open.spotify.com/track/4rrXxmaUQVCO0mqDpY5fZf"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 144013,
-      "name": "Lightning Bolt",
-      "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK"
-      },
-      "artists": [
-        {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Golden Touch - Full Length",
-      "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
-    },
-    {
-      "added_at": "2024-07-12 21:05:49",
-      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation",
         "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 210560,
       "name": "Moving to New York",
       "url": "https://open.spotify.com/track/7GvkOFkNsM6Exnkyqeajqm"
+    },
+    {
+      "added_at": "2024-07-12 21:05:49",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Golden Touch - Full Length",
+      "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
     },
     {
       "added_at": "2024-07-12 21:05:49",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-07-12 21:05:49",
       "album": {
-        "name": "Up From Below",
-        "url": "https://open.spotify.com/album/7wsYh6yS6jeVu4kDfIVD6U"
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 306320,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0cBPuDA3xUjR4Vh9o7CKy8"
+      "duration_ms": 187040,
+      "name": "Parklife",
+      "url": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
     }
   ],
   "unique_name": "Sing-Along Indie Hits",

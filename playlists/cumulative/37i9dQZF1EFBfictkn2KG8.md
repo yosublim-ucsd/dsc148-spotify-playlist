@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-38 songs - 1 hr 48 min
+39 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Northern Lights](https://open.spotify.com/track/5RfewpRbpiihMwWPQxTnB3) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Northern Lights](https://open.spotify.com/album/3jcyaJQYwvcVKyyK5eNNCe) | 2:35 | 2024-06-13 |  |
 | [Reality \(feat\. Janieck Devy\) \- Radio Edit](https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:39 | 2024-06-13 |  |
 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 | 2024-06-13 |  |
-| [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/track/5ovg81kJ8fyRjxpqgUZlzL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/album/4BdQeYDvVrDJ6PowcNqRRH) | 2:46 | 2024-06-13 |  |
+| [Rocket Ride](https://open.spotify.com/track/6rbT6gJufhm9a5xEmMlyc1) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride](https://open.spotify.com/album/3728GQSE87KrGe2IYBGX9U) | 2:46 | 2024-09-25 |  |
+| [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/track/5ovg81kJ8fyRjxpqgUZlzL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/album/4BdQeYDvVrDJ6PowcNqRRH) | 2:46 | 2024-06-13 | 2024-09-26 |
 | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 | 2024-06-13 |  |
 | [Sing Along](https://open.spotify.com/track/2zcESQlp8lYDd9pAMPTBcT) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/4IAqNDZyM1ioAKBaThDHrt) | 3:04 | 2024-08-23 | 2024-08-25 |
 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 | 2024-06-13 |  |

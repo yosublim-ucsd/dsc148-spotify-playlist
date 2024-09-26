@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 204117,
+  "num_followers": 204139,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -311,26 +327,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Amarte Mas No Pude",
-      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Ponte a la Moda",
         "url": "https://open.spotify.com/album/5EArLgK3ztJCjEdBb71nGn"
       },
@@ -347,6 +343,26 @@
       "duration_ms": 251546,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1MGlNhK0XHWaeh5CfXmU2Y"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Amarte Mas No Pude",
+      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -379,22 +395,6 @@
       "duration_ms": 182666,
       "name": "La Creciente",
       "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "El Cocha Molina",
-          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "Sin Medir Distancias",
-      "url": "https://open.spotify.com/track/01hWPDDBph6Lndib76j8mn"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -503,6 +483,22 @@
       "duration_ms": 305826,
       "name": "Buscar\u00e9 Otro Amor",
       "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
         }
       ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+      "duration_ms": 300333,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/01hWPDDBph6Lndib76j8mn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Colacho Mendoza",
-          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
-        }
-      ],
-      "duration_ms": 316733,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7yWoPMvPWAbW5dJ6mqdjzB"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 297240,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/78Bem5yP49K6uybhAMAFdy"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        }
+      ],
+      "duration_ms": 316733,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7yWoPMvPWAbW5dJ6mqdjzB"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Tu Eres La Reina",
-      "url": "https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
         "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
       },
@@ -791,6 +771,22 @@
       "duration_ms": 266949,
       "name": "El Santo Cach\u00f3n",
       "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Versi\u00f3n Original",
+        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Me Tiraste Al Mar",
+      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
+      "duration_ms": 252800,
+      "name": "Tu Eres La Reina",
+      "url": "https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 307720,
       "name": "Las Razones Del Amor",
       "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
     },
     {
       "added_at": "2024-07-12 22:13:52",

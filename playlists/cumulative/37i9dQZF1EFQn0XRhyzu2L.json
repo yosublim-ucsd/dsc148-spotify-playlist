@@ -226,10 +226,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 198905,
       "name": "All The Way (VIP Mix)",
       "url": "https://open.spotify.com/track/15RRhpvTHUYH710VAJY7e8"
+    },
+    {
+      "album": {
+        "name": "All The Way (VIP Mix)",
+        "url": "https://open.spotify.com/album/1l2Ey15P8OQ0D7WEaYEcOk"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198905,
+      "name": "All The Way (VIP Mix)",
+      "url": "https://open.spotify.com/track/16fcMEPfqvcf9WkMavFsgw"
     },
     {
       "album": {
@@ -1086,6 +1104,24 @@
       "duration_ms": 212920,
       "name": "Can't Keep Up",
       "url": "https://open.spotify.com/track/4RUyjM8S9ap1LScrRii8T9"
+    },
+    {
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212887,
+      "name": "CANDLES",
+      "url": "https://open.spotify.com/track/6RjjXvQyvgiPX3t8cm0gck"
     },
     {
       "album": {

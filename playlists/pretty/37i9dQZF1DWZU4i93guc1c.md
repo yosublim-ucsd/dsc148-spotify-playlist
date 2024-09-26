@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Vivienne Mort
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,452 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,460 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,23 +70,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 60 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 |
 | 61 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 |
 | 62 | [Іскра](https://open.spotify.com/track/56BbaMW2BhfmDO1XuLlXaB) | [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD) | [Іскра](https://open.spotify.com/album/4A26hszQR4hOxQm9JHnLjJ) | 2:44 |
-| 63 | [Плавить](https://open.spotify.com/track/5kHIwn2e40ZIIS4aAd7rVd) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD), [Один День Потому](https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk) | [Плавить](https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX) | 2:45 |
-| 64 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 |
-| 65 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
-| 66 | [Поділ](https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Поділ](https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa) | 2:12 |
+| 63 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
+| 64 | [Плавить](https://open.spotify.com/track/5kHIwn2e40ZIIS4aAd7rVd) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD), [Один День Потому](https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk) | [Плавить](https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX) | 2:45 |
+| 65 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 |
+| 66 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
 | 67 | [плавить](https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [плавить](https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB) | 2:20 |
-| 68 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
+| 68 | [Поділ](https://open.spotify.com/track/4J0bupIIezXeEt2Jcj02NN) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Поділ](https://open.spotify.com/album/2xeQKfvewh0YAXIjti6fsa) | 2:12 |
 | 69 | [непотріб](https://open.spotify.com/track/4rAPA46mWYkFUIVEXYn8ta) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH), [HALEPA](https://open.spotify.com/artist/2Sf8gcvrZW1SrKWIjBQlcp) | [непотріб](https://open.spotify.com/album/1GOXM7UiojvvOAEK8dUr04) | 3:18 |
-| 70 | [більше ніж здається](https://open.spotify.com/track/2HllpojdmP0If39UA6BACR) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [більше ніж здається](https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH) | 2:40 |
-| 71 | [Обійми](https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Обійми](https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE) | 3:27 |
-| 72 | [Киця злиже](https://open.spotify.com/track/2PrwY0j7aRvbpdTLDtRkzt) | [Stereopalto](https://open.spotify.com/artist/5fxahF5Bcx1DRkCRlU3B5Y) | [Киця злиже](https://open.spotify.com/album/5A2YHpnLFpl7y9GDGYLa5F) | 2:10 |
+| 70 | [Обійми](https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Обійми](https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE) | 3:27 |
+| 71 | [Киця злиже](https://open.spotify.com/track/2PrwY0j7aRvbpdTLDtRkzt) | [Stereopalto](https://open.spotify.com/artist/5fxahF5Bcx1DRkCRlU3B5Y) | [Киця злиже](https://open.spotify.com/album/5A2YHpnLFpl7y9GDGYLa5F) | 2:10 |
+| 72 | [більше ніж здається](https://open.spotify.com/track/2HllpojdmP0If39UA6BACR) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [більше ніж здається](https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH) | 2:40 |
 | 73 | [НА КРАЮ СВІТІВ](https://open.spotify.com/track/0687oKBKJXiuRphI6Pq1Sv) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [НА КРАЮ СВІТІВ](https://open.spotify.com/album/0wlfYJUXvBsEZ9B2jyl42S) | 2:17 |
 | 74 | [Чого у сні](https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Чого у сні](https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe) | 3:21 |
 | 75 | [ти її любиш.](https://open.spotify.com/track/3aTrk4mCpbOLLhb6i1XAVZ) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [ти її любиш.](https://open.spotify.com/album/1N0bHz1I5O4QhG5xyliCUQ) | 3:06 |
 | 76 | [все мине \(ніч\)](https://open.spotify.com/track/6gZG5zTfBCnicV0zvcv9Eo) | [Berliner Doner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [все мине \(ніч\)](https://open.spotify.com/album/3ORqC8eQOR9SJJg4MfPYVf) | 2:37 |
 | 77 | [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 |
 | 78 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 |
-| 79 | [Телепат](https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Телепат](https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ) | 2:52 |
-| 80 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 79 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
+| 80 | [Телепат](https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Телепат](https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ) | 2:52 |
 
 Snapshot ID: `ZuRGCAAAAACL66Kktps5MLnJZ5OzpEdN`

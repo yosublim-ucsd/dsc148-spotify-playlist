@@ -1,12 +1,12 @@
 {
   "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66615,
+  "num_followers": 66626,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAACBIlV5RCOp6spDUIeNB/kG",
+  "snapshot_id": "ZvIBAAAAAAAx6eahXAkcMusCYCZ/rRW1",
   "tracks": [
     {
       "added_at": null,
@@ -724,17 +724,17 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         },
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
         }
       ],
-      "duration_ms": 221444,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
+      "duration_ms": 192207,
+      "name": "A D\u00f3nde Te Me Fuiste",
+      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
     },
     {
       "added_at": null,
@@ -812,17 +812,17 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         },
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 192207,
-      "name": "A D\u00f3nde Te Me Fuiste",
-      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+      "duration_ms": 221444,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Siente Bien",
         "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 237880,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
     },
     {
       "added_at": null,

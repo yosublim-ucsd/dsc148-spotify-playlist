@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 35340,
+  "num_followers": 35384,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,30 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Like (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Like (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 152565,
       "name": "Dis Kain Luv",
       "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Like (feat. Kizz Daniel)",
-        "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Like (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Son of Chike",
         "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 173705,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5HRx964pvIFS5rYcfjJhTT"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2024-09-20 00:01:00",

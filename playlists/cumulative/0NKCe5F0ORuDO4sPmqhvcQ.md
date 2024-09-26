@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-637 songs - 1 day 11 hr 48 min
+638 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Sound of Alarms](https://open.spotify.com/track/3XLoTi3vJLH8ynBhFzOVUt) | [SEBASTIAN MARKUS](https://open.spotify.com/artist/1tsbyuUTh7L63K0lyMi05a) | [Sound of Alarms](https://open.spotify.com/album/3htmYVkmlo7j17NNmUWNCH) | 2:56 | 2022-10-05 | 2023-01-30 |
 | [Spaz Out](https://open.spotify.com/track/0EpnVwrbiZY3drT7C3CwHo) | [Pacific Patterns](https://open.spotify.com/artist/4UnRCGcuWbqRnk6MN3T76a) | [Spaz Out](https://open.spotify.com/album/6HkBbZCjDPs1pXDoYCPcI1) | 3:35 | 2022-06-30 | 2022-07-23 |
 | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2) | 3:13 | 2022-10-19 | 2023-01-30 |
+| [Spiritual Psychosis](https://open.spotify.com/track/2DSI1VpSW9WL5GrsZQpM8L) | [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Spiritual Psychosis](https://open.spotify.com/album/0n1zjBxdidnEEM4z04Axm6) | 3:54 | 2024-09-25 |  |
 | [Starting From Scratch](https://open.spotify.com/track/2vlD3bx2nQqWBcV1SBj44U) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Past Life EP](https://open.spotify.com/album/41SwL1Hbhj4HcRt8vDR8d1) | 3:48 | 2023-11-10 | 2024-03-23 |
 | [State of Mind \- TELYKast Remix](https://open.spotify.com/track/6JyL6uaXr3aDVKKfzCfZPn) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [State Of Mind \(TELYKast Remix\)](https://open.spotify.com/album/4eh3AMHgsVerPpeDg0d7cV) | 3:18 | 2023-01-20 | 2023-01-30 |
 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [PILLARS ///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 | 2022-02-28 | 2022-03-31 |

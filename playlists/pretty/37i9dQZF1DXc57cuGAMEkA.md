@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Katy Perry, Jamie xx, Perfume, なとり,  and more! cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,230 likes - 88 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,231 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

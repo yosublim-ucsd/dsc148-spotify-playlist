@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14899,
+  "num_followers": 14903,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "DELE ALLI",
-        "url": "https://open.spotify.com/album/7qz7zoDI2v2Q2slFwUByCp"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        },
-        {
-          "name": "Chans",
-          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
-        }
-      ],
-      "duration_ms": 139961,
-      "name": "DELE ALLI",
-      "url": "https://open.spotify.com/track/66ZI58YP9tz7CJZdmAP934"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Mi Psique",
         "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 197761,
       "name": "Mi Psique",
       "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "DELE ALLI",
+        "url": "https://open.spotify.com/album/7qz7zoDI2v2Q2slFwUByCp"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Chans",
+          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
+        }
+      ],
+      "duration_ms": 139961,
+      "name": "DELE ALLI",
+      "url": "https://open.spotify.com/track/66ZI58YP9tz7CJZdmAP934"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Triste Y Linda: Linda",
         "url": "https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 185081,
       "name": "Culito",
       "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Mis Demonios",
-        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Mis Demonios",
-      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 213940,
       "name": "T\u00e9 Con Miel",
       "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+        "name": "V",
+        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
       },
       "artists": [
         {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+          "name": "Valeria Canavati",
+          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
         }
       ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+      "duration_ms": 157037,
+      "name": "V",
+      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
       },
       "artists": [
         {
-          "name": "Valeria Canavati",
-          "url": "https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb"
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         }
       ],
-      "duration_ms": 157037,
-      "name": "V",
-      "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "ICONIC PERRA",
+        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "ICONIC PERRA",
+      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "FAMOSA",
         "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 200000,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "ICONIC PERRA",
-        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Viangogh",
-          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "ICONIC PERRA",
-      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
-      },
-      "artists": [
-        {
-          "name": "Anyone/Cualkiera",
-          "url": "https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1"
-        },
-        {
-          "name": "Vic Deal",
-          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
-        },
-        {
-          "name": "Ignorancia Sofisticada",
-          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
-        }
-      ],
-      "duration_ms": 167127,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Bushido: Kenjutsu",
         "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 228837,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
+      },
+      "artists": [
+        {
+          "name": "Anyone/Cualkiera",
+          "url": "https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1"
+        },
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "duration_ms": 167127,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Mientras Dorm\u00edas",
         "url": "https://open.spotify.com/album/42sYXoqlNujD5ohc53zBbw"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180000,
       "name": "Mientras Dorm\u00edas",
       "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Gabanna",
-          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
-        },
-        {
-          "name": "Lupita's Friends",
-          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Tasmania",
-      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 202803,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Droga",
+        "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
+        }
+      ],
+      "duration_ms": 147594,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Millo",
         "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Droga",
-        "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        },
-        {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
-        }
-      ],
-      "duration_ms": 147594,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
     },
     {
       "added_at": "2024-09-20 06:00:00",

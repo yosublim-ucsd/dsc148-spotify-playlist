@@ -1227,6 +1227,36 @@
     },
     {
       "album": {
+        "name": "Only Can Get Better (feat. Daniel Merriweather)",
+        "url": "https://open.spotify.com/album/3zn03EVv98hZvRpIrFvZmZ"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Only Can Get Better (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/7l2dHlKH07RO0BK0Lh6obt"
+    },
+    {
+      "album": {
         "name": "Paper Gods",
         "url": "https://open.spotify.com/album/2Pvbc55bvFduWqHUUWR0oP"
       },

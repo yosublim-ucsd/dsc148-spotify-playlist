@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Michael Kiwanuka",
-  "num_followers": 90260,
+  "num_followers": 90281,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 248333,
       "name": "Now And Then",
       "url": "https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Long Dark Night",
-        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Long Dark Night",
-      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Untangling",
         "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Long Dark Night",
+        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Long Dark Night",
+      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Rainbow Overpass",
         "url": "https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 317467,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -787,26 +807,6 @@
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
-      },
-      "artists": [
-        {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
-        }
-      ],
-      "duration_ms": 208935,
-      "name": "The Best Tears of Your Life",
-      "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 208935,
+      "name": "The Best Tears of Your Life",
+      "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Bus",
-        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 203992,
-      "name": "Bus",
-      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "ghost",
         "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
+        "name": "Bus",
+        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 219400,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
+      "duration_ms": 203992,
+      "name": "Bus",
+      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1095,6 +1079,22 @@
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "I Wanna Live With You",
         "url": "https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 174943,
       "name": "I Wanna Live With You",
       "url": "https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Nostalgia Death Act 1",
-        "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 229338,
-      "name": "Poems",
-      "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Rumble Strip",
         "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180240,
       "name": "Rumble Strip",
       "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Nostalgia Death Act 1",
+        "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 229338,
+      "name": "Poems",
+      "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Miles Kane & The Evils",
-        "url": "https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 97215,
-      "name": "Mr Midnight",
-      "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Friend Of A Friend",
         "url": "https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 275200,
       "name": "Friend Of A Friend",
       "url": "https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Miles Kane & The Evils",
+        "url": "https://open.spotify.com/album/5wBjDGheSVDEB9OKVtP5ee"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 97215,
+      "name": "Mr Midnight",
+      "url": "https://open.spotify.com/track/0FnYKWgJSf220kZ3XEM26Z"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
-        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
-      },
-      "artists": [
-        {
-          "name": "Milo Korbenski",
-          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Feral Guest",
-      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Gears",
         "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
+        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
+      },
+      "artists": [
+        {
+          "name": "Milo Korbenski",
+          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "Feral Guest",
+      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
     },
     {
       "added_at": "2024-08-14 10:25:18",

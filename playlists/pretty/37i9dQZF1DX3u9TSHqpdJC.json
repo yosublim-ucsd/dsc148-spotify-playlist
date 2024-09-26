@@ -1,13 +1,173 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Maxwell Luke.  Artwork by Paola Saliby",
-  "num_followers": 217180,
+  "description": "The best new pop music by independent artists and labels. Cover: AD\u00c9LA.  Artwork by Paola Saliby",
+  "num_followers": 217252,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZurhMgAAAAAE+CI4JVSqbXU+gmIecja2",
+  "snapshot_id": "ZvQJ8QAAAADzZRADkZeVD8+a2DdGOaO0",
   "tracks": [
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "HOMEWRECKED",
+        "url": "https://open.spotify.com/album/4kEDr96ERhbxbkJfDDzU92"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 174590,
+      "name": "HOMEWRECKED",
+      "url": "https://open.spotify.com/track/7904wbV03rb4S0gGliqBk4"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/1g6SaEImTe7md9V9flRHVY"
+      },
+      "artists": [
+        {
+          "name": "Warm Human",
+          "url": "https://open.spotify.com/artist/55B50xjgkbaSWD0MZXhhX4"
+        }
+      ],
+      "duration_ms": 199379,
+      "name": "Mercy Me",
+      "url": "https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "double dog",
+        "url": "https://open.spotify.com/album/4dutYaQIOV1REBmFxbdH3r"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "double dog",
+      "url": "https://open.spotify.com/track/3vlAqZvq7IYKOoOKwHGAxd"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/63oF54ERjqCEMGFWr9fv2m"
+      },
+      "artists": [
+        {
+          "name": "Amira Jazeera",
+          "url": "https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6"
+        }
+      ],
+      "duration_ms": 158263,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4FWb7XU2ON1sUQkm1yyXzg"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/4jLBH2DFA1NAJAoFO4eOk3"
+      },
+      "artists": [
+        {
+          "name": "Camryn Quinlan",
+          "url": "https://open.spotify.com/artist/4LTuD2pcC8Q9Daye8xqvtW"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/322ecozop2HBWnnopzeWdH"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "Corpse Bride",
+        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "Corpse Bride",
+      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "selfdestructive",
+        "url": "https://open.spotify.com/album/1NAYk24kS3biTl86Nl0jj6"
+      },
+      "artists": [
+        {
+          "name": "Pia Baris",
+          "url": "https://open.spotify.com/artist/2VVGojicJB7CS2lAfphtOc"
+        }
+      ],
+      "duration_ms": 153940,
+      "name": "selfdestructive",
+      "url": "https://open.spotify.com/track/0R2HURXAR6ZWtdPosQkxMG"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "Pacifist",
+        "url": "https://open.spotify.com/album/1mNnhgEogBi5yJTGBGv54d"
+      },
+      "artists": [
+        {
+          "name": "Nanna Bottos",
+          "url": "https://open.spotify.com/artist/0xoGDgIUsZaAwfSnIzA0V2"
+        }
+      ],
+      "duration_ms": 183117,
+      "name": "Pacifist",
+      "url": "https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "She's Finally Lost It!",
+        "url": "https://open.spotify.com/album/0cqsgUUxva8BojD8PYVztP"
+      },
+      "artists": [
+        {
+          "name": "Beth McKenzie",
+          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "She's Finally Lost It!",
+      "url": "https://open.spotify.com/track/01hPx5p1jizzsrCYbXlx4W"
+    },
+    {
+      "added_at": "2024-09-25 13:02:41",
+      "album": {
+        "name": "days i've cried this year",
+        "url": "https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj"
+      },
+      "artists": [
+        {
+          "name": "priyana",
+          "url": "https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "days i've cried this year",
+      "url": "https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ"
+    },
     {
       "added_at": "2024-09-18 14:18:26",
       "album": {
@@ -1107,22 +1267,6 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "covent garden",
-        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "covent garden",
-      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/6nXYRmtCw2OgR0ZgVo7G0y"
       },
@@ -1167,22 +1311,6 @@
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/1SMbbkmy371096e60XcstR"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -1313,70 +1441,6 @@
       "url": "https://open.spotify.com/track/2NFSMU8wDY54hAKGM6ERUv"
     },
     {
-      "added_at": "2024-07-31 04:00:00",
-      "album": {
-        "name": "young wild & free",
-        "url": "https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "young wild & free",
-      "url": "https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST"
-    },
-    {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "Underground \u2022 \u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/6qnk2D0xy1jzmfnyDd8pBe"
-      },
-      "artists": [
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        }
-      ],
-      "duration_ms": 141782,
-      "name": "Underground \u2022 \u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/2QzOxrOZeP95cy5fEKzfwQ"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/7C6xyp6Mzs9mqPVCNzZkwE"
-      },
-      "artists": [
-        {
-          "name": "Flo Gallop",
-          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
-        }
-      ],
-      "duration_ms": 166141,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/4buJMGjqbqO75pH4AfeKtR"
-    },
-    {
-      "added_at": "2024-07-24 04:27:30",
-      "album": {
-        "name": "Die a Man",
-        "url": "https://open.spotify.com/album/0boSdjPdJntbE4AqwSHfJo"
-      },
-      "artists": [
-        {
-          "name": "Sid Dorey",
-          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Die a Man",
-      "url": "https://open.spotify.com/track/3MfAzpgp4fiv7URRhH3MQQ"
-    },
-    {
       "added_at": "2024-07-24 04:00:00",
       "album": {
         "name": "DIVA",
@@ -1489,38 +1553,6 @@
       "url": "https://open.spotify.com/track/6sutXgl64bKZW3Rba7IfNE"
     },
     {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "My Girls",
-        "url": "https://open.spotify.com/album/3dx0k0VeZzGH8N2wz5sPSL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/0s14gXQV5NfxcqGqwrXQ9u"
-    },
-    {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "Child of the City",
-        "url": "https://open.spotify.com/album/34bN53KpSsbPFjnGL8vppH"
-      },
-      "artists": [
-        {
-          "name": "Asbj\u00f8rn",
-          "url": "https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Child of the City",
-      "url": "https://open.spotify.com/track/72lqf7BtvGFadFPWkvoz9C"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Found Somebody",
@@ -1569,54 +1601,6 @@
       "url": "https://open.spotify.com/track/4AjyC7O7Bgu5v8Php1LLQp"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "See U In 3",
-        "url": "https://open.spotify.com/album/3maHSchNeIONEUwgnOYBnp"
-      },
-      "artists": [
-        {
-          "name": "Salty",
-          "url": "https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "See U In 3",
-      "url": "https://open.spotify.com/track/6sZvLhRDxHPxpMxMxPRwVG"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "every night in vegas",
-        "url": "https://open.spotify.com/album/3XdT3Ljq6frf3YkQCcCrmf"
-      },
-      "artists": [
-        {
-          "name": "everything we do",
-          "url": "https://open.spotify.com/artist/710XGNeKNBxnUjDhRyzIgL"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "every night in vegas",
-      "url": "https://open.spotify.com/track/1TY8nG4byEVSeHV2spIA7W"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "CBA",
-        "url": "https://open.spotify.com/album/61gvPnaFVPZOBOxdVykX2s"
-      },
-      "artists": [
-        {
-          "name": "Nova May",
-          "url": "https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "CBA",
-      "url": "https://open.spotify.com/track/1S6e18JIM3yX43F7cnKuWb"
-    },
-    {
       "added_at": "2024-07-10 04:00:00",
       "album": {
         "name": "red white & me",
@@ -1631,22 +1615,6 @@
       "duration_ms": 189223,
       "name": "red white & me",
       "url": "https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Bankrupt",
-        "url": "https://open.spotify.com/album/5Fw06A3fTUoyVGQk70hRd2"
-      },
-      "artists": [
-        {
-          "name": "Maryon King",
-          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
-        }
-      ],
-      "duration_ms": 168588,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/3r6gtBHcftDdPhHYWbqjiF"
     },
     {
       "added_at": "2024-07-10 04:00:00",

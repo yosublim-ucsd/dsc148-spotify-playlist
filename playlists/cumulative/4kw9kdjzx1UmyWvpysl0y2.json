@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "AF1",
+        "url": "https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111200,
+      "name": "AF1",
+      "url": "https://open.spotify.com/track/3uMe9Jrzjn006oHTAvgvYj"
+    },
+    {
+      "album": {
         "name": "Afraid of the Dark (hayve Remix)",
         "url": "https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct"
       },
@@ -7674,7 +7692,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 72863,
       "name": "KINGS OF THE BLOCK",
       "url": "https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3"

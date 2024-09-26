@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,382 likes - 67 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,406 likes - 67 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
 | 2 | [Por Una Cabeza](https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Flamenco Music\- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation](https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i) | 3:02 |
 | 3 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 |
-| 4 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
-| 5 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 |
-| 6 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 |
+| 4 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 |
+| 5 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
+| 6 | [Aranjuez](https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Utopia](https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51) | 4:30 |
 | 7 | [Añoranza de Amor](https://open.spotify.com/track/3aUYPiewWIKreBLbXqbb61) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Thomas Koch](https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8), [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Rafa El Tachliela: Flamenco Romantico](https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB) | 5:00 |
-| 8 | [Aranjuez](https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Utopia](https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51) | 4:30 |
-| 9 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
+| 8 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
+| 9 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 |
 | 10 | [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 |
 | 11 | [Sephardic Elegy](https://open.spotify.com/track/2wwZttx5a77AmbasxYPbfG) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Jewish Travels: A Historical Voyage in Music & Song](https://open.spotify.com/album/1HJq0jdhPZDiuCptT2dh08) | 2:27 |
 | 12 | [D'arie II](https://open.spotify.com/track/3qpMDHurZmTZXz6cioYqdX) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/40RV3GOzwZCOqVgQ8Fz8QY) | 2:51 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 66 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 |
 | 67 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `ZuAy/gAAAACJpLh6m0LBpetUjM/f32j6`
+Snapshot ID: `ZvPg9AAAAAC5H4A7uysYG+KkdzzrMwBl`

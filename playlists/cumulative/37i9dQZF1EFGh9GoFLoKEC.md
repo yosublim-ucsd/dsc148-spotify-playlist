@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 5 hr 0 min
+85 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Nothing Breaks Like a Heart](https://open.spotify.com/track/6fFNWmZwCNXigVJtdO8h5u) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(Official Video\)](https://open.spotify.com/album/2eQY7eUh358pCgtqyZtNDC) | 3:59 | 2024-01-29 | 2024-02-01 |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 | 2024-01-31 |  |
 | [One Life \(feat\. Diana Gordon & Jónsi\)](https://open.spotify.com/track/56bSBPLnuuaCWsznyoSdSU) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 3:33 | 2024-01-29 |  |
+| [Only Can Get Better \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/7l2dHlKH07RO0BK0Lh6obt) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Only Can Get Better \(feat\. Daniel Merriweather\)](https://open.spotify.com/album/3zn03EVv98hZvRpIrFvZmZ) | 3:29 | 2024-09-25 |  |
 | [Only in Dreams](https://open.spotify.com/track/6njZoQz1itZlkLBvOECNMp) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Paper Gods](https://open.spotify.com/album/2Pvbc55bvFduWqHUUWR0oP) | 6:05 | 2024-01-29 |  |
 | [Pain Is Inevitable](https://open.spotify.com/track/2d0dCpzPN76EhB4yv3S6ng) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:55 | 2024-01-29 |  |
 | [Parking Lot \- Dialogue](https://open.spotify.com/track/3i4jlS5TlVjRovgq1ENgaJ) | [Cast](https://open.spotify.com/artist/1ZfTuv9XlWT2CaIsIZPm52) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 0:31 | 2024-01-29 |  |

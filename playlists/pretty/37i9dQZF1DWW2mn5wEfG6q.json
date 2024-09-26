@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 81573,
+  "num_followers": 81613,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "One Way Trigger",
-      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 251626,
       "name": "Step",
       "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "One Way Trigger",
+      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "In A Tidal Wave Of Mystery - Deluxe Edition",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Kangaroo Court",
-      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 285533,
       "name": "Don't Swallow the Cap",
       "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery - Deluxe Edition",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Kangaroo Court",
+      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 228293,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y"
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "A Bad Girl In Harlem",
         "url": "https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 163626,
       "name": "Harlem",
       "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Wakin On A Pretty Daze",
-        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 570733,
-      "name": "Wakin on a Pretty Day",
-      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 237973,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Wakin On A Pretty Daze",
+        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 570733,
+      "name": "Wakin on a Pretty Day",
+      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 227253,
       "name": "Atomic Man",
       "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Junip",
-        "url": "https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 339293,
-      "name": "Line of Fire",
-      "url": "https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Junip",
+        "url": "https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 339293,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q"
     },
     {
       "added_at": "2021-09-02 08:24:19",

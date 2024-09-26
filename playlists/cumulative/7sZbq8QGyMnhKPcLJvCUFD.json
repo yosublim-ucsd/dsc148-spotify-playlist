@@ -607,6 +607,58 @@
     },
     {
       "album": {
+        "name": "Ark (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/6E5anDower5sEhV3zUNIWw"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191858,
+      "name": "Ark - Slowed",
+      "url": "https://open.spotify.com/track/47f9flyNQXDoae7MT1BMhk"
+    },
+    {
+      "album": {
+        "name": "Ark (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/6E5anDower5sEhV3zUNIWw"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "Sped Up Sounds",
+          "url": "https://open.spotify.com/artist/3UjvEdmZztE7KXqx8cmKHe"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167876,
+      "name": "Ark - Sped Up",
+      "url": "https://open.spotify.com/track/6dzptuQx9TNkou0X0qUs3o"
+    },
+    {
+      "album": {
         "name": "Army",
         "url": "https://open.spotify.com/album/6DVaBrn0D40NiJCcL4faVZ"
       },
@@ -2369,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/6a8tVFDO5PYtLhnrEC5FaB"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235099,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/4DJSjJkCIwAaMuvQKp6KJV"
+    },
+    {
+      "album": {
         "name": "Devil",
         "url": "https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG"
       },
@@ -2402,6 +2476,50 @@
       "duration_ms": 241714,
       "name": "Devil",
       "url": "https://open.spotify.com/track/5mn6mZIHIQF6sl3KCkMtIY"
+    },
+    {
+      "album": {
+        "name": "Devil (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/19GYAxxkTNPebb67P8RtMk"
+      },
+      "artists": [
+        {
+          "name": "Barren Gates",
+          "url": "https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F"
+        },
+        {
+          "name": "Slowed Sounds",
+          "url": "https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185168,
+      "name": "Devil - Slowed",
+      "url": "https://open.spotify.com/track/4meFgYtUxSwZBqBHhItNfN"
+    },
+    {
+      "album": {
+        "name": "Devil (Sped Up/Slowed)",
+        "url": "https://open.spotify.com/album/19GYAxxkTNPebb67P8RtMk"
+      },
+      "artists": [
+        {
+          "name": "Barren Gates",
+          "url": "https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F"
+        },
+        {
+          "name": "Sped Up Sounds",
+          "url": "https://open.spotify.com/artist/3UjvEdmZztE7KXqx8cmKHe"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160022,
+      "name": "Devil - Sped Up",
+      "url": "https://open.spotify.com/track/1cvxdPlVS4gLh5Iuma52cn"
     },
     {
       "album": {

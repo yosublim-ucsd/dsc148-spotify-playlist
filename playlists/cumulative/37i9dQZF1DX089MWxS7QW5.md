@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-426 songs - 23 hr 15 min
+427 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1993](https://open.spotify.com/track/5OFXhFNNw608Y64izmaNcj) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/1ivOqUQNxIf2HD7oBFCv3K) | 4:41 | 2024-06-04 | 2024-08-22 |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-05-27 | 2024-08-22 |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-06 | 2024-06-06 |
+| [365 \(Feat\. JUNNY\)](https://open.spotify.com/track/1g44dTzKW337AAReshbgUm) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [In too deep](https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq) | 3:24 | 2024-09-25 |  |
 | [4EVeR](https://open.spotify.com/track/4Tiqs5kuuUIh8iJ1cvxwJQ) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 4:02 | 2022-05-28 | 2022-06-10 |
 | [55 \(Feat\. Yerin Baek, WENDY\)](https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:07 | 2023-03-08 | 2023-09-19 |
 | [A Heartbreaking Story \(Feat\. Joon Park\)](https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [박준형](https://open.spotify.com/artist/2xtMZ4zOq4eErGffG8utNG) | [A Heartbreaking Story](https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0) | 4:21 | 2023-07-07 | 2023-10-17 |
@@ -353,7 +354,7 @@
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
 | [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 | 2024-08-10 |  |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-11-07 |
-| [Superpower \(Feat\. J.O.Y\)](https://open.spotify.com/track/0EwVpYFx8wxy3ccd6vCkjY) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Superpower](https://open.spotify.com/album/1qXyCHvL6mgPm5lbDXVKRG) | 2:25 | 2024-09-02 |  |
+| [Superpower \(Feat\. J.O.Y\)](https://open.spotify.com/track/0EwVpYFx8wxy3ccd6vCkjY) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Superpower](https://open.spotify.com/album/1qXyCHvL6mgPm5lbDXVKRG) | 2:25 | 2024-09-02 |  |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-08-22 |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |
 | [Swoosh \(feat\. DUT2\)](https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [NEWRNBERA](https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi) | 3:05 | 2023-08-17 | 2023-11-29 |

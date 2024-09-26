@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-971 songs - 2 day 9 hr 0 min
+972 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Supernova](https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK) | 2:58 | 2024-08-09 | 2024-09-22 |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-14 | 2024-05-16 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-15 | 2024-06-01 |
-| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 |  |
+| [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-09-26 |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-20 | 2024-03-10 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |
 | [Sweet Sweet Christmas](https://open.spotify.com/track/2Uzjd7yEjikMPc0kYC4gaJ) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Sweet Sweet Christmas](https://open.spotify.com/album/2VdMBRSw6iOnkT6qDfZapu) | 4:37 | 2021-12-19 | 2021-12-29 |
@@ -814,6 +814,7 @@
 | [最愛是誰 My Dearest](https://open.spotify.com/track/0B7Q3WgZFRi4okNruZxk41) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REMEMBRANCE Leslie](https://open.spotify.com/album/2Kek1O4ABvg1t7bSFz6jHm) | 3:52 | 2023-04-02 | 2023-04-04 |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2021-10-16 | 2021-12-30 |
 | [最難行的路](https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:41 | 2021-12-29 | 2022-02-16 |
+| [會再見的](https://open.spotify.com/track/2HMgfqnkZEynYfW1B9viVe) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [會再見的](https://open.spotify.com/album/3mnfFbK8y2PNOViEqUwF4G) | 4:30 | 2024-09-25 |  |
 | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/track/1Z4NLRQQJ5eaEEJe2e9lTS) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/album/6kGyB5fn87yk0Gk9OOR1cM) | 3:26 | 2024-06-22 | 2024-06-24 |
 | [月球上碰面](https://open.spotify.com/track/35KzQtjAlRJiV85veCiX6z) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa), [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [月球上碰面](https://open.spotify.com/album/2cyIEWMK250xGJ1eGmmRfB) | 4:26 | 2022-01-30 | 2022-02-12 |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-12 | 2024-09-14 |

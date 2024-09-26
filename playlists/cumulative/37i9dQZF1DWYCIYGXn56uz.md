@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Tananai
 
-500 songs - 23 hr 9 min
+501 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-06-13 |  |
 | [Estate disperata](https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Estate disperata](https://open.spotify.com/album/2dwmDKJXMbcTzMx8CQTs5o) | 2:35 | 2024-05-09 | 2024-05-24 |
 | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm), [SPINABELLA](https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Skrabbabby](https://open.spotify.com/artist/4X6OA7xuCuovpUbPpMn62n), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [ESTATE HORROR \(feat\. SPINABELLA\)](https://open.spotify.com/album/662xxRe46oqgN0quFhaWSf) | 3:03 | 2024-08-06 | 2024-08-23 |
+| [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-25 |  |
 | [Estraneo](https://open.spotify.com/track/13Wmt3VHXrShqgB4uMlEjO) | [GrenBaud](https://open.spotify.com/artist/1WPIzvlZTvCY0A1LmN0LvS) | [Estraneo](https://open.spotify.com/album/4hL9eA22EURbXWfHXGdqvD) | 2:43 | 2023-03-30 | 2023-05-05 |
 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 | 2023-10-12 | 2024-06-14 |
 | [Fammi capire](https://open.spotify.com/track/2vGTPYu3T8lrkcA2pCBRQ6) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Fammi capire](https://open.spotify.com/album/4kRNlOJ8ZDQv43ec2QPFwm) | 2:18 | 2023-04-20 | 2023-06-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 132796,
+  "num_followers": 132795,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Terrorista del Amor",
+      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
       "url": "https://open.spotify.com/track/3t7dahQw060tKGj9PsXvH6"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Terrorista del Amor",
-      "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Bossa No S\u00e9 (feat. Jean Carter)",
         "url": "https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 283506,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/2mlJQCfSneZtt1cByNysY2"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 262281,
-      "name": "Caf\u00e9 Com Leite",
-      "url": "https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD"
     },
     {
       "added_at": "2023-06-23 03:00:00",

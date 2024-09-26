@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467697,
+  "num_followers": 467690,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/5QMdVduYnE9gisDo5Gnnrb"
     },
     {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "HEAVY JELLY",
-        "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Isaac Is Typing\u2026",
-      "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Beg For More",
@@ -363,6 +347,22 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "HEAVY JELLY",
+        "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 164773,
+      "name": "Isaac Is Typing\u2026",
+      "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Everything and Nothing",
-        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
       },
       "artists": [
         {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 237878,
-      "name": "Everything and Nothing",
-      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -499,34 +499,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
         }
       ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
-    },
-    {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "Demolition Man",
-        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "Demolition Man",
-      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
+      "duration_ms": 237878,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/7j0ERJhSb6kFFeAiDl1QBf"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 172687,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
     },
     {
-      "added_at": "2024-07-19 10:43:52",
-      "album": {
-        "name": "bad habit",
-        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "bad habit",
-      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
-    },
-    {
       "added_at": "2024-07-12 11:48:19",
       "album": {
         "name": "5168 Days",
@@ -751,6 +735,22 @@
       "duration_ms": 195553,
       "name": "5168 Days",
       "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
+    },
+    {
+      "added_at": "2024-07-19 10:43:52",
+      "album": {
+        "name": "bad habit",
+        "url": "https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "bad habit",
+      "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -783,6 +783,22 @@
       "duration_ms": 146578,
       "name": "Git Some Balls",
       "url": "https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 211853,
       "name": "Earthling",
       "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "aftermath/afterthought",
-        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "aftermath/afterthought",
+        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
     },
     {
       "added_at": "2024-07-19 10:43:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 224899,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Half Album",
+        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 370939,
+      "name": "The Last Drag",
+      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1123,18 +1139,34 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Half Album",
-        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 370939,
-      "name": "The Last Drag",
-      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1159,54 +1191,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Approachable",
-        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Approachable",
-      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "You're My Medicine",
         "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Approachable",
+        "url": "https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Approachable",
+      "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
     },
     {
       "added_at": "2024-07-05 04:00:00",

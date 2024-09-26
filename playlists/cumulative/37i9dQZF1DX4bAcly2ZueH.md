@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-174 songs - 9 hr 9 min
+175 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 | 2022-10-11 |  |
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
+| [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 | 2024-09-25 |  |
 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 | 2022-10-11 |  |
 | [City Light](https://open.spotify.com/track/0iyTHcQ6DHU59aJd7z0lru) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3XB4Ss6DwQVCoybkKE2RDW) | 3:03 | 2024-03-05 |  |
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 | 2024-04-19 |
@@ -128,7 +129,7 @@
 | [Ripple](https://open.spotify.com/track/2Y9z1M1RWd0p790z5ej3dW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Seaglow](https://open.spotify.com/album/7hFfXVVEnqpxOhxkSAMpdT) | 2:12 | 2024-03-05 | 2024-04-19 |
 | [room with nobody](https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J) | 2:52 | 2024-03-05 |  |
 | [room with nobody](https://open.spotify.com/track/4g8qBxEJbmGOn47fPYX2tK) | [Anoice](https://open.spotify.com/artist/1Harx8w7e050c1YwYJMPcb), [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI), [Yuki Murata](https://open.spotify.com/artist/0gLzKDyIHWHtmyduV4AkkK) | [Ghost in the Clocks](https://open.spotify.com/album/3xn9ffYOcqK08Fua0glyZi) | 2:52 | 2022-10-11 | 2024-04-19 |
-| [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-10-11 |  |
+| [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 | 2022-10-11 | 2024-09-26 |
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2022-10-11 | 2024-04-19 |
 | [Sad Romance \- Girl Ultra Version](https://open.spotify.com/track/1oFGcQTXmgQ2Ljba65KodC) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Sad Romance \(Girl Ultra Version\)](https://open.spotify.com/album/59350isIxyqo9cwCRk5Pbe) | 2:44 | 2024-03-05 |  |
 | [Sad Romance \- Girl Ultra Version](https://open.spotify.com/track/37ovauJ2Tscs4yFPQTuToL) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Sad Romance](https://open.spotify.com/album/47ntw5tkGoz2LILi7VSdKX) | 2:44 | 2022-10-11 | 2024-04-19 |

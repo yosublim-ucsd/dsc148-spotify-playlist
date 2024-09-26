@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 818340,
+  "num_followers": 818744,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Teignmouth",
-        "url": "https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc"
-      },
-      "artists": [
-        {
-          "name": "Love Is Colder Than Death",
-          "url": "https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "At the End of the Sea",
         "url": "https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 235080,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Teignmouth",
+        "url": "https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc"
+      },
+      "artists": [
+        {
+          "name": "Love Is Colder Than Death",
+          "url": "https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL"
     },
     {
       "added_at": "2021-10-15 04:04:50",

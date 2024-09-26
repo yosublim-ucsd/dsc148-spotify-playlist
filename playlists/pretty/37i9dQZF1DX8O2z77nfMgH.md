@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Fariana
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,712 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,679 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 32 | [En Lencería](https://open.spotify.com/track/5KE7brk1E9DlogloZtidBt) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Corazón](https://open.spotify.com/album/2smdZMJqkXCE47pSxTk6bd) | 2:42 |
 | 33 | [contacto visual](https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [contacto visual](https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e) | 1:56 |
 | 34 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
-| 35 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \- Con David Summers](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
+| 35 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 |
 | 36 | [San Fernando](https://open.spotify.com/track/1p3ZKldjJcSBnfqn5FXb0d) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [San Fernando](https://open.spotify.com/album/3PRaDf24ZXq2ZVvnf6PfXg) | 3:38 |
 | 37 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 38 | [Apartamento](https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Apartamento](https://open.spotify.com/album/0ime5jbko8tGB7Ca1khdQY) | 2:51 |

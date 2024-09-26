@@ -1,12 +1,12 @@
 {
-  "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 8774,
+  "description": "This Is Tex Tex. Los temas esenciales, todos en una lista.",
+  "num_followers": 8782,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAA92bT3MXA44NUb99xxwAP/",
+  "snapshot_id": "ZvIBAAAAAAAvmWvm8rOgNT2W7sbd2IUs",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 120163,
-      "name": "Lobo de Mar",
-      "url": "https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf"
+      "duration_ms": 169221,
+      "name": "Ahora Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 169221,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/6XkOwRqgaa2sitZUEAc28d"
+      "duration_ms": 120163,
+      "name": "Lobo de Mar",
+      "url": "https://open.spotify.com/track/21r4YSbAOuJhzfmUBtPqTf"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vas a Acordar de Mi",
-        "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Vestido Blanco",
-      "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
+      "duration_ms": 188786,
+      "name": "Blues del Borracho",
+      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+        "name": "Te Vas a Acordar de Mi",
+        "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 188786,
-      "name": "Blues del Borracho",
-      "url": "https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS"
+      "duration_ms": 239026,
+      "name": "Vestido Blanco",
+      "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Deja en Paz Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 196186,
       "name": "Se Fue Con Otro",
       "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Deja en Paz Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
     },
     {
       "added_at": null,

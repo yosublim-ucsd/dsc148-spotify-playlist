@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-560 songs - 1 day 3 hr 15 min
+562 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Beija Ninguém Não \- Ao Vivo](https://open.spotify.com/track/2PEZJ8rAsitCPpfAD5OhrI) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:52 | 2023-12-30 |  |
 | [Beijo De Superação \- Ao Vivo](https://open.spotify.com/track/4x971HdBJSbc1opgywfGaG) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH) | [Diamantes \(Ao Vivo\)](https://open.spotify.com/album/51RrIkdDUNegjFJLquViqX) | 2:38 | 2024-03-26 |  |
 | [Beijo e Tchau](https://open.spotify.com/track/6rlI7vvonttOIONVzbyfSG) | [Tayna Agazzi](https://open.spotify.com/artist/397tUN3oFCSHa80xpj0b6B), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beijo e Tchau](https://open.spotify.com/album/1E9PvdLe7NfImBCrOMv7nU) | 3:07 | 2023-12-30 |  |
+| [Beijo Misturado](https://open.spotify.com/track/1vffSXM7Ofv8YkATg130fs) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/4GeqgapIZZLqzH8Ow5RPiG) | 2:28 | 2024-09-25 |  |
 | [Bem Dada](https://open.spotify.com/track/66j9Z2UTR9shv041n42UX2) | [Diego Franco & Rafael](https://open.spotify.com/artist/6ZIm24FzNXL4HN5O8Dv4aq) | [Bem Dada](https://open.spotify.com/album/5TJB5lLhHlkpRIdBojFkWL) | 2:39 | 2023-12-30 |  |
 | [Bem Longe de Você](https://open.spotify.com/track/2pv3kN9taPduP7MKlTzk9Q) | [Althaír & Alexandre](https://open.spotify.com/artist/6UtAd1rrgAMSdH8uF8AvqL) | [Composições](https://open.spotify.com/album/4WKb9ZZMwxzjIm64sM9kxs) | 3:19 | 2023-12-30 |  |
 | [Bloqueia Desbloqueia](https://open.spotify.com/track/79VvHTQvov4VxxLlferepm) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Naturalmente](https://open.spotify.com/album/7bDfs6Kve80q3rNgBJ0vff) | 2:46 | 2023-12-30 |  |
@@ -231,6 +232,7 @@
 | [Eu Disfarço Mal Demais](https://open.spotify.com/track/5EUW6uY32OpXFLdLK65BWT) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Eu & Vocês](https://open.spotify.com/album/1f8YCAl0luu06wsqgr9cns) | 3:13 | 2023-12-30 |  |
 | [Eu Duvido \- Ao Vivo em Uberlândia](https://open.spotify.com/track/3G9bSmFAePJS9yveZYclWZ) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Ao Vivo em Uberlândia, Vol\. 2](https://open.spotify.com/album/54qHOtoErxSiW0DTEzqBj8) | 3:14 | 2023-12-30 |  |
 | [Eu Gosto Assim](https://open.spotify.com/track/4IRa5jZVljJ39Xt9McdWaL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Na Batida do PPA](https://open.spotify.com/album/7faQ69cIPvlWgYKuEpNdaA) | 2:42 | 2023-12-30 |  |
+| [Eu Hein](https://open.spotify.com/track/7qbHkxuKbCvlcj4uCCWwqR) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Pra Guardar No Coração](https://open.spotify.com/album/296ZW7AZ2UizalJHQixX6V) | 2:52 | 2024-09-25 |  |
 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-12-30 |  |
 | [Eu Pirei \(Ao Vivo\)](https://open.spotify.com/track/289LaMYVjTTbkY6ZCRFRfI) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [\#Nabebidaenasofrência, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/43VostSbPyVlPMEGNy6zSX) | 2:33 | 2023-12-30 |  |
 | [Eu Queria Ser Você \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2KXANgy6gWLRvN8nYybHjC) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:23 | 2023-12-30 |  |

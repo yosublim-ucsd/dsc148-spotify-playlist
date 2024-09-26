@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: MAVI",
-  "num_followers": 1591500,
+  "num_followers": 1591465,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-09-23 18:38:16",
       "album": {
-        "name": "Set The Tone (Guns & Roses)",
-        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
-    },
-    {
-      "added_at": "2024-09-23 18:38:16",
-      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 157880,
       "name": "Diego Maradona",
       "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
+    },
+    {
+      "added_at": "2024-09-23 18:38:16",
+      "album": {
+        "name": "Set The Tone (Guns & Roses)",
+        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
     },
     {
       "added_at": "2024-09-23 18:38:16",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-09-23 18:38:16",
       "album": {
+        "name": "Dope Sellers",
+        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Dope Sellers",
+      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
+    },
+    {
+      "added_at": "2024-09-23 18:38:16",
+      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2024-09-23 18:38:16",
       "album": {
-        "name": "Dope Sellers",
-        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Dope Sellers",
-      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
-    },
-    {
-      "added_at": "2024-09-23 18:38:16",
-      "album": {
         "name": "The Confidence Of Knowing",
         "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
       },
@@ -959,22 +959,18 @@
     {
       "added_at": "2024-09-23 18:38:16",
       "album": {
-        "name": "Summer '24",
-        "url": "https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM"
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
         }
       ],
-      "duration_ms": 118700,
-      "name": "Summer '24",
-      "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
     },
     {
       "added_at": "2024-09-23 18:38:16",

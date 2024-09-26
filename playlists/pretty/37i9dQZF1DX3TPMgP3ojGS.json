@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 429571,
+  "num_followers": 429701,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "land in sight",
-        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "land in sight",
-      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Fall a hundred times",
         "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 136658,
       "name": "Fall a hundred times",
       "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "When It\u00b4s Love",
-        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
-      },
-      "artists": [
-        {
-          "name": "Junie Oakes",
-          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "When It\u00b4s Love",
-      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Dancing Dreams",
         "url": "https://open.spotify.com/album/0VnGhDUxH6vOzmwooFkokO"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 138181,
       "name": "Dancing Dreams",
       "url": "https://open.spotify.com/track/4fv0GOcz0wbPcPR0CjILUg"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Window Seat",
         "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 145120,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Ellie",
-        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Evening Star",
         "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Ellie",
+        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+        "name": "Liminal ride",
+        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
       "artists": [
         {
-          "name": "Nate LaFleur",
-          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
         }
       ],
-      "duration_ms": 154874,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+      "duration_ms": 156705,
+      "name": "Liminal ride",
+      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
     }
   ],
   "unique_name": "Coffee and Piano",

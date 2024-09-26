@@ -24180,7 +24180,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 141897,
       "name": "killa",
       "url": "https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV"
@@ -38516,6 +38516,24 @@
       "duration_ms": 164735,
       "name": "Petit canari",
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
+    },
+    {
+      "album": {
+        "name": "Petit chaton",
+        "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "Petit chaton",
+      "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
     },
     {
       "album": {

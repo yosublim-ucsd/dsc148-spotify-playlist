@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Emma, Baby Gang
 
-369 songs - 18 hr 55 min
+371 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-19 |  |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2024-09-06 |
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-06-27 | 2024-07-12 |
-| [Can't Even Hate You](https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Can’t Even Hate You](https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf) | 3:57 | 2024-08-29 |  |
+| [Can't Even Hate You](https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Can’t Even Hate You](https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf) | 3:57 | 2024-08-29 | 2024-09-26 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-08-30 |  |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 |  |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-25 | 2024-09-06 |
@@ -119,6 +119,7 @@
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-08-01 | 2024-09-13 |
 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 | 2024-07-11 | 2024-08-16 |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-06-27 | 2024-07-12 |
+| [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-25 |  |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 |  |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-08-02 |
 | [Everything's Here And Nothing's Lost](https://open.spotify.com/track/73Dz3M1a3bWmwosBBB08xD) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path](https://open.spotify.com/album/7cbi6YeBaCjEdyzMdtwG45) | 4:06 | 2024-09-12 |  |
@@ -251,6 +252,7 @@
 | [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:50 | 2024-09-12 |  |
 | [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/0mo6L5y8olr6HtK8kTGfBh) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3bBBR0YDmIcXnZlwfk9qSd) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-27 | 2024-07-05 |
+| [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 |  |
 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 | 2024-06-27 | 2024-08-02 |
 | [Overdose D'Amore 2024](https://open.spotify.com/track/3tQRLmfOWBlB00i2mGLN3M) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Overdose D'Amore 2024](https://open.spotify.com/album/2P5Y4A7xagej84PYcJZEUl) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/track/0nNplNrSFfg3aHBpKxTtnb) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/album/6aZusQBvOEJVForkNE7ZHX) | 2:46 | 2024-06-27 | 2024-07-19 |
@@ -346,7 +348,7 @@
 | [TRISTE](https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh) | 1:42 | 2024-06-27 | 2024-07-19 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-09 | 2024-08-23 |
 | [TU ROPA](https://open.spotify.com/track/4ZgNkauy7LD2e4Fl1k26lb) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PERMANENTE](https://open.spotify.com/album/3iA6lFPydNrgFd6s1Hojii) | 2:09 | 2024-08-02 | 2024-09-06 |
-| [Tu Te Vas](https://open.spotify.com/track/369f9Gi3CcBouwL49C8HZx) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Tu Te Vas](https://open.spotify.com/album/6Wl9NMhu7szXfbjJSB9YO0) | 3:25 | 2024-08-29 |  |
+| [Tu Te Vas](https://open.spotify.com/track/369f9Gi3CcBouwL49C8HZx) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Laeti](https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf) | [Tu Te Vas](https://open.spotify.com/album/6Wl9NMhu7szXfbjJSB9YO0) | 3:25 | 2024-08-29 | 2024-09-26 |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-06-27 | 2024-07-12 |
 | [Ultimo addio](https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [Ultimo addio](https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb) | 2:35 | 2024-07-11 | 2024-07-27 |
 | [Un altro nome](https://open.spotify.com/track/49xYUwsDn6oh6dOPoLl5y5) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Un altro nome](https://open.spotify.com/album/0T0qw7XpWoJCxa2XY5U4oT) | 3:16 | 2024-07-18 | 2024-08-23 |

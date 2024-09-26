@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 111000,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
@@ -5505,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Hyper Experience",
+      "url": "https://open.spotify.com/track/1MDLn0W2bjv4GWdR9tJEC5"
+    },
+    {
+      "album": {
         "name": "I did them Pianos",
         "url": "https://open.spotify.com/album/4v8qdQpFWvFNzIA8GG4zkn"
       },
@@ -10376,7 +10394,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 127058,
       "name": "re: Nobody Else",
       "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
@@ -12786,6 +12804,24 @@
       "duration_ms": 142325,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/1TzTFDuSoePewojzuxejAh"
+    },
+    {
+      "album": {
+        "name": "Time Goes by",
+        "url": "https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113386,
+      "name": "Time Goes by",
+      "url": "https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,794 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,802 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 35 | [The Village: Morning](https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Night After Night \(Music from the Movies of M\. Night Shyamalan\)](https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui) | 4:38 |
 | 36 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
 | 37 | [He's Listening to You Tina](https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:05 |
-| 38 | [Primrose \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 3:16 |
-| 39 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
+| 38 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
+| 39 | [Primrose \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 3:16 |
 | 40 | [Lasiurus](https://open.spotify.com/track/3fWlG9rDTtn1kxRJN4PYN3) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 7:27 |
 | 41 | [Tina Takes Newt In / Macusa Headquarters](https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:56 |
 | 42 | [A Watchful Guardian](https://open.spotify.com/track/3r3fWKSW1Vh71iXtDNpNbc) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Collectors Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3vARhx9vwOve3Xdu06vM8S) | 6:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Leta's Flashback](https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 4:40 |
 | 50 | [Noah Visits \- Score](https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 2:35 |
 
-Snapshot ID: `ZvCvgAAAAABRNYUejGuM7zB4NqGoo5C9`
+Snapshot ID: `ZvIBAAAAAADX0tPbdbHQwvdZXwF8DvZd`

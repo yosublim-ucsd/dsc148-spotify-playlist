@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:0t9dGS12PMZmiJiZa9vpyk\">DJ Sliink</a>'s favorite tracks. Updated regularly. Curated by DJ Sliink. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 26678,
+  "num_followers": 26683,
   "original_name": "DJ Sliink's track IDs",
   "owner": {
     "name": "Spotify",
@@ -330,6 +330,10 @@
         {
           "name": "Dave + Sam",
           "url": "https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf"
+        },
+        {
+          "name": "Dave Giles II",
+          "url": "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
         }
       ],
       "duration_ms": 226875,

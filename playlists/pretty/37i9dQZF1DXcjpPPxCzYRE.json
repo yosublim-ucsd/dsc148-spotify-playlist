@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 406640,
+  "num_followers": 406678,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 210000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Interior (Noche)",
-        "url": "https://open.spotify.com/album/52c9Qs5b8Sb6OSEH5ADwrQ"
-      },
-      "artists": [
-        {
-          "name": "Dear Leo",
-          "url": "https://open.spotify.com/artist/3lfVH6hkFMxtzwUXdlyb60"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "Interior (Noche)",
-      "url": "https://open.spotify.com/track/3sRr3Eyd3h3p5yustY7bME"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Sin Miedo a Vivir",
         "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171000,
       "name": "Sin Miedo a Vivir",
       "url": "https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Interior (Noche)",
+        "url": "https://open.spotify.com/album/52c9Qs5b8Sb6OSEH5ADwrQ"
+      },
+      "artists": [
+        {
+          "name": "Dear Leo",
+          "url": "https://open.spotify.com/artist/3lfVH6hkFMxtzwUXdlyb60"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "Interior (Noche)",
+      "url": "https://open.spotify.com/track/3sRr3Eyd3h3p5yustY7bME"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Ca\u00edmos las dos",
-      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205577,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Ca\u00edmos las dos",
+      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 176160,
       "name": "Time (For You)",
       "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1495,46 +1495,6 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
-        "name": "Ad\u00e9lia",
-        "url": "https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "HA\u0112MA",
-          "url": "https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw"
-        }
-      ],
-      "duration_ms": 258066,
-      "name": "Ad\u00e9lia",
-      "url": "https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
         "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1571,6 +1531,46 @@
     {
       "added_at": "2024-09-24 13:23:41",
       "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Ad\u00e9lia",
+        "url": "https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "HA\u0112MA",
+          "url": "https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Ad\u00e9lia",
+      "url": "https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
         "name": "Aunque no quiera te amar\u00e9",
         "url": "https://open.spotify.com/album/3NEwvrKd0nfGRbyelNUscz"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2024-09-24 13:23:41",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
     },
     {
       "added_at": "2024-09-24 13:23:41",
@@ -1683,6 +1667,22 @@
       "duration_ms": 197328,
       "name": "sol",
       "url": "https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW"
+    },
+    {
+      "added_at": "2024-09-24 13:23:41",
+      "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 203013,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA"
     }
   ],
   "unique_name": "Relax en casa",

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 252436,
+  "num_followers": 252611,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -193,7 +193,7 @@
       "artists": [
         {
           "name": "Clio",
-          "url": "https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf"
+          "url": "https://open.spotify.com/artist/5zVomDjjH4zuSIzSjZ4Byh"
         },
         {
           "name": "Roberto Ferrante",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
-      },
-      "artists": [
-        {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
-        }
-      ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+      },
+      "artists": [
+        {
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+        }
+      ],
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Gary Low: The Best of",
-        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
-      },
-      "artists": [
-        {
-          "name": "Gary Low",
-          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
-        }
-      ],
-      "duration_ms": 509240,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 472361,
       "name": "Take A Chance - Original Mix",
       "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+      },
+      "artists": [
+        {
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+        }
+      ],
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "Caf\u00e8",
         "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 393773,
       "name": "Caf\u00e8 - Original 1979 Version",
       "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        }
+      ],
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
       },
       "artists": [
         {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
         }
       ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
       "artists": [
         {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
+        "name": "From Here to Eternity (Remastered)",
+        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
       },
       "artists": [
         {
-          "name": "Bruno Belissimo",
-          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
         }
       ],
-      "duration_ms": 265663,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
+      "duration_ms": 233080,
+      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
+      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "From Here to Eternity (Remastered)",
-        "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
       },
       "artists": [
         {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
         }
       ],
-      "duration_ms": 233080,
-      "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
-      "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
+      "duration_ms": 265663,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
     }
   ],
   "unique_name": "Italo Disco",

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-202 songs - 15 hr 13 min
+203 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 | 2022-07-20 | 2023-11-17 |
 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 | 2024-03-27 | 2024-08-18 |
 | [Be Free](https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8) | 3:51 | 2021-10-15 | 2022-07-21 |
-| [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 | 2021-10-15 |  |
+| [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 | 2021-10-15 | 2024-09-26 |
 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 | 2022-07-20 | 2023-11-17 |
 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 | 2024-05-24 |  |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2023-11-17 |  |
@@ -115,6 +115,7 @@
 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 | 2023-09-01 |  |
 | [Memoria](https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln) | [Spring In A Small Town](https://open.spotify.com/artist/6VpUobaDr3krJGaceN1unG) | [Spring in a Small Town](https://open.spotify.com/album/66yTz70ZvQSi0aWQLJnGvF) | 4:37 | 2021-10-15 | 2022-07-21 |
 | [Milky Way](https://open.spotify.com/track/4E3A7qJWoSZWBGqTKw6iFC) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Milky Way](https://open.spotify.com/album/3u201ZucjhDqDE4ZxDo1BR) | 7:52 | 2021-10-15 | 2022-07-29 |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-09-12 |  |
 | [Momentum](https://open.spotify.com/track/4sSYEvtIDlWsFv7og6gWce) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Momentum](https://open.spotify.com/album/0z6AGDemMBYhvKzkgw7c9J) | 8:43 | 2021-10-15 | 2021-12-31 |
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2024-06-28 |  |
 | [Moon \- Edit](https://open.spotify.com/track/0qC6CVPzhHF8SvLzsJAC4c) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Moon](https://open.spotify.com/album/2uwQGLZKdEHJMfEYgPTlZ3) | 4:04 | 2021-10-15 | 2022-07-19 |

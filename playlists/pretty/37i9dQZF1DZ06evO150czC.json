@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20291,
+  "num_followers": 20293,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAC1W49/4d05Nf7zBjcw7q1S",
+  "snapshot_id": "ZvIBAAAAAACsdfUU62QWiiWgm1jodxoU",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 250636,
       "name": "A B\u00ean\u00e7\u00e3o do Senhor",
       "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quando o Vento Soprar (Legado)",
-        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
-      },
-      "artists": [
-        {
-          "name": "Beno C\u00e9sar",
-          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 262002,
-      "name": "Quando o Vento Soprar (Legado)",
-      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima Live Session",
         "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
@@ -779,42 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperta",
-        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+        "name": "Quando o Vento Soprar (Legado)",
+        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
       },
       "artists": [
         {
-          "name": "Cleyde Jane",
-          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+          "name": "Beno C\u00e9sar",
+          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 228530,
-      "name": "Desperta",
-      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "500 Graus - Drive In",
-        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 429708,
-      "name": "500 Graus - Drive In",
-      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
+      "duration_ms": 262002,
+      "name": "Quando o Vento Soprar (Legado)",
+      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
     },
     {
       "added_at": null,
@@ -875,6 +835,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "500 Graus - Drive In",
+        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 429708,
+      "name": "500 Graus - Drive In",
+      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencer ou Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Para o Templo",
         "url": "https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u"
       },
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencer ou Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 314026,
       "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
       "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
+      },
+      "artists": [
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 228530,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
     }
   ],
   "unique_name": "This Is Midian Lima",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf?si=m\-\_ShnKKQoa9qovTbWRkVg">Cznbaby</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74?si=u69HwuJqSnCL3\-LOdO\-HBA">Fido</a>\. Artwork: Isu Kim.
 
 1,036 songs - 2 day 4 hr 2 min
 

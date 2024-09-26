@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3tgAuY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3tgAuY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3tgAuY)
 
-### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
+### [This is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This is Alex Favela\. The essential tracks, all in one playlist.
+> This is Alex Favela\. De essentiële nummers, allemaal in één playlist.
 
 58 songs - 2 hr 40 min
 

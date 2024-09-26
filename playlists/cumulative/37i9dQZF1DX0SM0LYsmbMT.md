@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,243 songs - 6 day 17 hr 54 min
+4,244 songs - 6 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Blush Noisette](https://open.spotify.com/track/0H4ItesdG3rjQvzplgixh4) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Blush Noisette](https://open.spotify.com/album/3aHWO5Pk4z5SsG7gargOR1) | 2:31 | 2024-02-15 | 2024-03-08 |
 | [Blvd](https://open.spotify.com/track/0ekLmITcw6TWXHm8MZq0g9) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Blvd](https://open.spotify.com/album/2ZaCPz6STgVNmn19GNtC6u) | 1:39 | 2021-09-18 | 2021-11-19 |
 | [Boarding Time](https://open.spotify.com/track/5a0fBxMwpccIblSmE1D8vl) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Sandals](https://open.spotify.com/album/69juwyv3PEIg2QqBqyOz9A) | 2:45 | 2019-06-22 | 2019-11-08 |
+| [Boat Ride](https://open.spotify.com/track/5MHkkN5cYhg6QjUxzt4EbE) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Boat Ride](https://open.spotify.com/album/0iJTxCpvMwyGPh31Lt7hPJ) | 2:21 | 2024-09-16 |  |
 | [Bob's Law](https://open.spotify.com/track/4he3FjvSZ2owAuGGtb5Jt5) | [Pawcut](https://open.spotify.com/artist/0el9N0gW4ROadV7V1IPaI5) | [Bob's Law](https://open.spotify.com/album/2wjoKjK6TQHepEfBy4Cc7h) | 1:57 | 2021-06-09 | 2021-12-17 |
 | [Bobba](https://open.spotify.com/track/6IWajUqxetsaZo5kqqDPrJ) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Bobba](https://open.spotify.com/album/1rHbYpiN0IbyBGgtlBToBv) | 1:59 | 2024-02-15 |  |
 | [Bog](https://open.spotify.com/track/0xxLUfogZJ2BvK9gUbxqxo) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Bog](https://open.spotify.com/album/3l2fjQqy1zfJwodD9LsnH3) | 1:30 | 2020-05-12 | 2020-07-18 |
@@ -1748,7 +1749,7 @@
 | [It's All Good](https://open.spotify.com/track/6I96KSEuwVp6yTjMdXBotU) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [It's All Good](https://open.spotify.com/album/2ZErPPfRX7IMkcrj3hB6mN) | 2:20 | 2021-10-29 | 2022-07-01 |
 | [It's All Good Man](https://open.spotify.com/track/0JTvUlDFNgbrHoouTyHVQx) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [It's All Good Man](https://open.spotify.com/album/7KqSFWWbQKiTM9xZDxsS2W) | 2:11 | 2023-10-19 | 2023-11-14 |
 | [It's All Gravy](https://open.spotify.com/track/5quY9LzNMcCgKiahHsb7dU) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [It's All Gravy](https://open.spotify.com/album/3m5glKld4sPHBWauySAGHI) | 2:40 | 2020-12-11 | 2021-06-18 |
-| [It's Just](https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [It's Just](https://open.spotify.com/album/5VEhJ3xJooJS47GfC9PE3m) | 1:34 | 2024-04-25 |  |
+| [It's Just](https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [It's Just](https://open.spotify.com/album/5VEhJ3xJooJS47GfC9PE3m) | 1:34 | 2024-04-25 | 2024-09-26 |
 | [It's Like](https://open.spotify.com/track/5KxeUIVoQj2OGG0j1WRQoV) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [It's Like](https://open.spotify.com/album/3oBrEMQRMiF1nNlrmDBSxo) | 2:19 | 2021-02-26 | 2021-04-23 |
 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 | 2022-11-17 | 2023-11-24 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-03-13 |

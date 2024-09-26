@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "In too deep",
+        "url": "https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "365 (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
+    },
+    {
+      "album": {
         "name": "XYZ",
         "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
       },
@@ -6852,8 +6874,8 @@
           "url": "https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF"
         },
         {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
         }
       ],
       "date_added": "2024-09-02",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 291131,
+  "description": "This Is Deep Purple. Los temas esenciales, todos en una lista.",
+  "num_followers": 291156,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAABB9aoyLonHuldz4Kiwn1g4",
+  "snapshot_id": "ZvIBAAAAAACxCB7MIOjx5w6r1zcelZpH",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deepest Purple: The Very Best of Deep Purple",
-        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Strange Kind Of Woman",
-      "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 448333,
       "name": "Mistreated - Remastered 2004",
       "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deepest Purple: The Very Best of Deep Purple",
+        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Strange Kind Of Woman",
+      "url": "https://open.spotify.com/track/0Q56LPrOBBRbh0XfyqbhXR"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turning to Crime",
-        "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
+        "name": "Extras: The Infinite B-Sides and Bonus Songs",
+        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 195093,
-      "name": "Rockin' Pneumonia and the Boogie Woogie Flu",
-      "url": "https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI"
+      "duration_ms": 75706,
+      "name": "Simple Folk",
+      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras: The Infinite B-Sides and Bonus Songs",
-        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
+        "name": "Turning to Crime",
+        "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 75706,
-      "name": "Simple Folk",
-      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
+      "duration_ms": 195093,
+      "name": "Rockin' Pneumonia and the Boogie Woogie Flu",
+      "url": "https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI"
     }
   ],
   "unique_name": "This Is Deep Purple",

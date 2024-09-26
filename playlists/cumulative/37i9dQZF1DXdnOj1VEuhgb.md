@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Critical x UZI x Heijan x Muti
 
-434 songs - 19 hr 8 min
+436 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 | 2024-02-08 | 2024-05-10 |
 | [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:48 | 2024-02-01 | 2024-03-04 |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 |  |
-| [HAKO ARTIK BUSINESS](https://open.spotify.com/track/0G9SQNvU2s3g2o4jatFx8X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 1:35 | 2024-09-12 |  |
+| [HAKO ARTIK BUSINESS](https://open.spotify.com/track/0G9SQNvU2s3g2o4jatFx8X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 1:35 | 2024-09-12 | 2024-09-26 |
 | [HAM](https://open.spotify.com/track/7duMMtfNk8IgHDLBh1eMhG) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [HAM](https://open.spotify.com/album/3POP3LZl3qug1RG0mcBHKF) | 2:12 | 2023-10-12 | 2023-11-11 |
 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 | 2023-06-15 |  |
 | [HANÇER](https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HANÇER](https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq) | 2:23 | 2023-03-23 | 2023-04-07 |
@@ -225,6 +225,7 @@
 | [King of Rap](https://open.spotify.com/track/3wbVrnev0g71xcrpQhzfRw) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [King of Rap](https://open.spotify.com/album/6b60t1x47eZhkbb2KEF44q) | 3:41 | 2024-05-30 | 2024-06-19 |
 | [Kirpi](https://open.spotify.com/track/3HCN7VsNgc4JBtdl9qwQGF) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Kirpi](https://open.spotify.com/album/0iY8ijcXQXknNULmy098z5) | 2:01 | 2024-06-20 | 2024-07-05 |
 | [KİME GÖRE NEYE GÖRE](https://open.spotify.com/track/0dpaBS5BpCmGx1T6ECMCLX) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [KİME GÖRE NEYE GÖRE](https://open.spotify.com/album/1Cr0yUXEmd035B6HaJyu9w) | 1:34 | 2024-08-22 | 2024-09-06 |
+| [Klişe Masallar](https://open.spotify.com/track/1AebpV6yEV2kD7KPv70Pro) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Klişe Masallar](https://open.spotify.com/album/1tZ0jzNknHwfwAL82Lgzpf) | 2:46 | 2024-09-25 |  |
 | [KOCAMAN](https://open.spotify.com/track/0JB7QQ3EOyKXLnwkD1kS7l) | [Tepki](https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KOCAMAN](https://open.spotify.com/album/2qx4y7tqoZSbgKwMFnkC4o) | 2:12 | 2024-01-18 | 2024-01-26 |
 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-06-01 | 2023-11-11 |
 | [KONTROL](https://open.spotify.com/track/6aWMgtj4rlhKjMqxYzxexi) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [KONTROL](https://open.spotify.com/album/7j5qktQGYK2f6cAQNsqB7e) | 3:06 | 2023-01-10 | 2023-03-31 |
@@ -359,6 +360,7 @@
 | [SENIN UGRUNA](https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:02 | 2023-01-10 | 2023-12-14 |
 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 | 2024-05-30 | 2024-07-05 |
 | [SEVGİ](https://open.spotify.com/track/71WZZITUdeaSrO64IEvTpB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SEVGİ](https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou) | 2:10 | 2024-07-25 | 2024-08-23 |
+| [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 | 2024-09-25 |  |
 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 | 2023-01-10 | 2023-06-30 |
 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 | 2024-04-11 | 2024-09-20 |
 | [SHIMMY YA](https://open.spotify.com/track/2YjtDcEgOEgZzWeWgbVZam) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [SHIMMY YA](https://open.spotify.com/album/5JACIQ2M8onBBeoSjSEkUk) | 2:36 | 2023-04-27 | 2023-05-26 |
@@ -418,7 +420,7 @@
 | [YALAN DÜNYA](https://open.spotify.com/track/3OZnr6bBuVXuTb0wdYrO7l) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [YALAN DÜNYA](https://open.spotify.com/album/0PriynWZ6AefjNoEAYplMw) | 3:17 | 2024-04-25 | 2024-05-10 |
 | [YAN YANA](https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [YAN YANA](https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8) | 3:34 | 2023-05-25 | 2023-08-18 |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2023-01-10 | 2023-07-07 |
-| [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-27 |  |
+| [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-27 | 2024-09-26 |
 | [Yara Bere](https://open.spotify.com/track/7JmB51xzzI6EsUaJTw90ob) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Yara Bere](https://open.spotify.com/album/2SLRC1kajw6CJifyScRn4R) | 2:18 | 2023-11-09 | 2024-01-12 |
 | [Yemin Olsun](https://open.spotify.com/track/3YWc6CWUIv1awok2u6Mek3) | [ice](https://open.spotify.com/artist/1R0O5gQtbGxtlwBdVvp5aS), [Tepki](https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r) | [Yemin Olsun](https://open.spotify.com/album/6c7bzpsj6dFJvDA1fRDzL1) | 2:37 | 2023-10-12 | 2023-11-11 |
 | [Yerli Plaka](https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw) | [Yerli Plaka](https://open.spotify.com/album/2CNgbUAIwEufx0nM0P6wxk) | 2:48 | 2024-09-05 |  |

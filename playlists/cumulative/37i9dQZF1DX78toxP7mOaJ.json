@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "(Dis)Connected",
+        "url": "https://open.spotify.com/album/1ua6xwxUxdGGcqQBajpv1h"
+      },
+      "artists": [
+        {
+          "name": "Hey, Ily",
+          "url": "https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168252,
+      "name": "(Dis)Connected",
+      "url": "https://open.spotify.com/track/5EBbZEcTY3CgpxdpN8eO3F"
+    },
+    {
+      "album": {
         "name": "(Full Free) Radical",
         "url": "https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6"
       },
@@ -5495,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Company Culture",
+        "url": "https://open.spotify.com/album/3IzcWVzJtbzMwovf3M3k0B"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Company Culture",
+      "url": "https://open.spotify.com/track/4fVNq2mSVupgHjcrVySEEx"
+    },
+    {
+      "album": {
         "name": "Compete",
         "url": "https://open.spotify.com/album/7amsgxtqnmOBIBCMmNnqLz"
       },
@@ -5744,7 +5780,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 141781,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f"
@@ -7106,6 +7142,24 @@
       "duration_ms": 208500,
       "name": "departure party",
       "url": "https://open.spotify.com/track/4XsqOgNB3FXuOvquLFsKGr"
+    },
+    {
+      "album": {
+        "name": "Desert Diamonds",
+        "url": "https://open.spotify.com/album/0s5IbOTw2VrP2SKZUszeOZ"
+      },
+      "artists": [
+        {
+          "name": "The Wholesome Boys",
+          "url": "https://open.spotify.com/artist/4ThDKoYYw37S6JyoWbZQSO"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Desert Diamonds",
+      "url": "https://open.spotify.com/track/30t4tjlh78iWwgYzc8vzTK"
     },
     {
       "album": {
@@ -10170,7 +10224,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 227821,
       "name": "Gaslighter",
       "url": "https://open.spotify.com/track/2GOYu6vxqQVOi9sCc9pMBI"
@@ -11940,7 +11994,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 157286,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/4JhubhPFtaPXj2lW4RdPQn"
@@ -17262,7 +17316,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 195666,
       "name": "Mother Buzzer",
       "url": "https://open.spotify.com/track/1FepF4Kejgqg0guonvY3cn"
@@ -18636,6 +18690,24 @@
       "duration_ms": 134588,
       "name": "Number One Priority",
       "url": "https://open.spotify.com/track/3oz24Qjaq304RpvDBqOPy8"
+    },
+    {
+      "album": {
+        "name": "Pavlova's Dog",
+        "url": "https://open.spotify.com/album/6PercWROWUN3j8vMbn0Nc6"
+      },
+      "artists": [
+        {
+          "name": "The Meringues",
+          "url": "https://open.spotify.com/artist/6vPSxVLbEaRxT85jaKGr0M"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176725,
+      "name": "Nvr Rlly Hnst",
+      "url": "https://open.spotify.com/track/6oV7SNTekPwmIyho3AUuTO"
     },
     {
       "album": {
@@ -21604,7 +21676,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 197973,
       "name": "Running The Madness",
       "url": "https://open.spotify.com/track/1RYxVFfhqEF7z4ZEwovlTH"
@@ -25383,6 +25455,24 @@
     },
     {
       "album": {
+        "name": "Teething",
+        "url": "https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl"
+      },
+      "artists": [
+        {
+          "name": "Ain't",
+          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220528,
+      "name": "Teething",
+      "url": "https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf"
+    },
+    {
+      "album": {
         "name": "Television Tell Me What To Do",
         "url": "https://open.spotify.com/album/4vDNkSQBIaxZbHTF0IhXbU"
       },
@@ -25574,7 +25664,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 179979,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/7mzZ5w8MPsdfUlsYZrWTEC"

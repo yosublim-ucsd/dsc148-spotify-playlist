@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 76574,
+  "num_followers": 76606,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
         "name": "A New Sound - A New Star, Vol. 2",
         "url": "https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
       },
       "artists": [
         {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 367826,
-      "name": "The Rake",
-      "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 367826,
+      "name": "The Rake",
+      "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 741106,
       "name": "Society Red - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
       "url": "https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Down Home",
-      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
         "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 488000,
       "name": "Blues For Skeeter - Remastered 2000",
       "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Down Home",
+      "url": "https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy"
     },
     {
       "added_at": "2024-09-03 09:38:03",

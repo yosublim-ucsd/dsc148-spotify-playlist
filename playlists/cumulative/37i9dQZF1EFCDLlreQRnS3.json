@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Modern Melancholia",
+        "url": "https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261086,
+      "name": "Heaven Won't Cry",
+      "url": "https://open.spotify.com/track/2yo6Ss3Ach5WN8AxgGf35L"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9face",
         "url": "https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv"
       },
@@ -1344,6 +1362,28 @@
       "duration_ms": 221718,
       "name": "Lover",
       "url": "https://open.spotify.com/track/6DU6oV3F6MvDL8mU3yoG1B"
+    },
+    {
+      "album": {
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: ONEFOUR & Headie One
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,573 likes - 95 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,601 likes - 95 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

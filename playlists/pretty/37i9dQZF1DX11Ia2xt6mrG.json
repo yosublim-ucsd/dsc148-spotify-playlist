@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 59009,
+  "num_followers": 59023,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
-        "name": "Florida BB",
-        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
-      },
-      "artists": [
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        },
-        {
-          "name": "Kadum",
-          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
-        },
-        {
-          "name": "Macedo (BR)",
-          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
-        }
-      ],
-      "duration_ms": 371000,
-      "name": "Florida BB",
-      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
-    },
-    {
-      "added_at": "2024-09-20 17:36:21",
-      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2024-09-20 17:36:21",
+      "album": {
+        "name": "barbiechaka (funnynoiseclub003)",
+        "url": "https://open.spotify.com/album/2IICI2HCTynM1FY374BzWM"
+      },
+      "artists": [
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        },
+        {
+          "name": "Morenito De Fuego",
+          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "barbiechaka (funnynoiseclub003)",
+      "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
     },
     {
       "added_at": "2024-09-20 17:36:21",
@@ -1199,26 +1199,26 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
-        "name": "barbiechaka (funnynoiseclub003)",
-        "url": "https://open.spotify.com/album/2IICI2HCTynM1FY374BzWM"
+        "name": "Florida BB",
+        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
       },
       "artists": [
         {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
         },
         {
-          "name": "Morenito De Fuego",
-          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+          "name": "Kadum",
+          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
         },
         {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+          "name": "Macedo (BR)",
+          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
         }
       ],
-      "duration_ms": 153882,
-      "name": "barbiechaka (funnynoiseclub003)",
-      "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
+      "duration_ms": 371000,
+      "name": "Florida BB",
+      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
     },
     {
       "added_at": "2024-09-20 17:36:21",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
+    },
+    {
+      "added_at": "2024-09-20 17:36:21",
+      "album": {
         "name": "BOOM SHAKALAKA",
         "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 155600,
       "name": "BOOM SHAKALAKA",
       "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
-    },
-    {
-      "added_at": "2024-09-20 17:36:21",
-      "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2024-09-20 17:36:21",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
-        "name": "Body Movin",
-        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin",
-      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
-    },
-    {
-      "added_at": "2024-09-20 17:36:21",
-      "album": {
         "name": "El Trip",
         "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
+    },
+    {
+      "added_at": "2024-09-20 17:36:21",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
       },
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
-        "name": "Everybody Salsa (Andruss Remix)",
-        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/3gkriJKgViJS1WKhz70WE1"
       },
       "artists": [
         {
-          "name": "Dj Drew",
-          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Brenda Bezares",
+          "url": "https://open.spotify.com/artist/37EPXsU2coRfOwmJSO2Ryu"
         }
       ],
-      "duration_ms": 166620,
-      "name": "Everybody Salsa - Andruss Remix",
-      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+      "duration_ms": 266250,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6vRyTuRWMH9X8hmJOCQrGR"
     },
     {
       "added_at": "2024-09-20 17:36:21",
@@ -1731,18 +1727,22 @@
     {
       "added_at": "2024-09-20 17:36:21",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/3gkriJKgViJS1WKhz70WE1"
+        "name": "Everybody Salsa (Andruss Remix)",
+        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
       },
       "artists": [
         {
-          "name": "Brenda Bezares",
-          "url": "https://open.spotify.com/artist/37EPXsU2coRfOwmJSO2Ryu"
+          "name": "Dj Drew",
+          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 266250,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/6vRyTuRWMH9X8hmJOCQrGR"
+      "duration_ms": 166620,
+      "name": "Everybody Salsa - Andruss Remix",
+      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
     },
     {
       "added_at": "2024-09-20 17:36:21",

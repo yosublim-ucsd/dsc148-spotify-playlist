@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Billyrrom",
-  "num_followers": 59138,
+  "num_followers": 59152,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
         "url": "https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 215221,
       "name": "Unlucky!!",
       "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "THE FAKE ESCAPE",
         "url": "https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 220547,
       "name": "THE FAKE ESCAPE",
       "url": "https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Oyasumi na Sayang (feat. Zee Avi)",
-        "url": "https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr"
+        "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
+        "url": "https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0"
       },
       "artists": [
         {
-          "name": "MuchaMuchaM",
-          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
-        },
-        {
-          "name": "Zee Avi",
-          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
+          "name": "ROMANKAKUMEI",
+          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
         }
       ],
-      "duration_ms": 203389,
-      "name": "Oyasumi Nasayang (feat. Zee Avi)",
-      "url": "https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP"
+      "duration_ms": 247023,
+      "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
+      "url": "https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -771,18 +767,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
-        "url": "https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0"
+        "name": "Oyasumi na Sayang (feat. Zee Avi)",
+        "url": "https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr"
       },
       "artists": [
         {
-          "name": "ROMANKAKUMEI",
-          "url": "https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN"
+          "name": "MuchaMuchaM",
+          "url": "https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w"
+        },
+        {
+          "name": "Zee Avi",
+          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
         }
       ],
-      "duration_ms": 247023,
-      "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
-      "url": "https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6"
+      "duration_ms": 203389,
+      "name": "Oyasumi Nasayang (feat. Zee Avi)",
+      "url": "https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "GO!!!",
-        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+        "name": "Sick!!!",
+        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 204240,
-      "name": "GO!!!",
-      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+      "duration_ms": 244416,
+      "name": "Sick!!!",
+      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "GO!!!",
+        "url": "https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/31rNJ42JTBF3amlVwwbLDx"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Sick!!!",
-        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 244416,
-      "name": "Sick!!!",
-      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "lifedrop!",
         "url": "https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 165333,
       "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
       "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Saladbowl",
+        "url": "https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt"
+      },
+      "artists": [
+        {
+          "name": "Geloomy",
+          "url": "https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK"
+        }
+      ],
+      "duration_ms": 209256,
+      "name": "Shock!!\u4e2d\u6bd2",
+      "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof"
+        "name": "40\u2103",
+        "url": "https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B"
       },
       "artists": [
         {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
         }
       ],
-      "duration_ms": 234726,
-      "name": "777",
-      "url": "https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO"
+      "duration_ms": 174444,
+      "name": "40\u2103",
+      "url": "https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -1007,34 +1023,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "40\u2103",
-        "url": "https://open.spotify.com/album/32wvlGBE9wPEu4szsd2a9B"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vxg4elTq7Z6jeJ8EZ3Jof"
       },
       "artists": [
         {
-          "name": "Wez Atlas",
-          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
         }
       ],
-      "duration_ms": 174444,
-      "name": "40\u2103",
-      "url": "https://open.spotify.com/track/2F00y50YN73NIaUBVkwJsn"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV"
-      },
-      "artists": [
-        {
-          "name": "luvis",
-          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
-        }
-      ],
-      "duration_ms": 221943,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
+      "duration_ms": 234726,
+      "name": "777",
+      "url": "https://open.spotify.com/track/5l6xICeSEsFKASUtPVnhZO"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "duration_ms": 221943,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "\u681e",
         "url": "https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR"
       },
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/6Vxap6Jr3WVOQFzgsJXX78"
-      },
-      "artists": [
-        {
-          "name": "Deep Sea Diving Club",
-          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
-        }
-      ],
-      "duration_ms": 236336,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/3EG8mickfTehy0Gmeao2Qc"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "Saladbowl",
-        "url": "https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt"
-      },
-      "artists": [
-        {
-          "name": "Geloomy",
-          "url": "https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK"
-        }
-      ],
-      "duration_ms": 209256,
-      "name": "Shock!!\u4e2d\u6bd2",
-      "url": "https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "\u3053\u308f\u308c\u3082\u306e",
         "url": "https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1"
       },
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "To get there",
-        "url": "https://open.spotify.com/album/7JZnJue0sEUFwTgY6Qt35r"
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/6Vxap6Jr3WVOQFzgsJXX78"
       },
       "artists": [
         {
-          "name": "Ryu Matsuyama",
-          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
         }
       ],
-      "duration_ms": 270810,
-      "name": "To get there",
-      "url": "https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP"
+      "duration_ms": 236336,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/3EG8mickfTehy0Gmeao2Qc"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u3053\u306e\u66f2",
+        "url": "https://open.spotify.com/album/1JW0zutPSdL3J1MY6OjUZw"
+      },
+      "artists": [
+        {
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+        }
+      ],
+      "duration_ms": 283246,
+      "name": "\u3053\u306e\u66f2",
+      "url": "https://open.spotify.com/track/3ugXyFuD01jT9egwNSdqYH"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u3053\u306e\u66f2",
-        "url": "https://open.spotify.com/album/1JW0zutPSdL3J1MY6OjUZw"
+        "name": "To get there",
+        "url": "https://open.spotify.com/album/7JZnJue0sEUFwTgY6Qt35r"
       },
       "artists": [
         {
-          "name": "ODD Foot Works",
-          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
         }
       ],
-      "duration_ms": 283246,
-      "name": "\u3053\u306e\u66f2",
-      "url": "https://open.spotify.com/track/3ugXyFuD01jT9egwNSdqYH"
+      "duration_ms": 270810,
+      "name": "To get there",
+      "url": "https://open.spotify.com/track/1yLOu11hpZT1vSOK1rBWHP"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -1223,6 +1223,22 @@
       "duration_ms": 191413,
       "name": "\u611b\u306e\u308f\u308a\u65b9",
       "url": "https://open.spotify.com/track/61crEcQODjNTRy6KSr828s"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u3044\u3051\u306a\u3044",
+        "url": "https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW"
+      },
+      "artists": [
+        {
+          "name": "Kaede",
+          "url": "https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "\u3044\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 159947,
       "name": "\u56db\u7573\u534a\u30ed\u30b1\u30c3\u30c8",
       "url": "https://open.spotify.com/track/3lIxaonKuovrw8Q8yW0n95"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
-        "name": "\u3044\u3051\u306a\u3044",
-        "url": "https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW"
-      },
-      "artists": [
-        {
-          "name": "Kaede",
-          "url": "https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr"
-        }
-      ],
-      "duration_ms": 243500,
-      "name": "\u3044\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW"
     }
   ],
   "unique_name": "Edge!",

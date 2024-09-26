@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: COIN
 
-2,195 songs - 4 day 22 hr 31 min
+2,196 songs - 4 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1681,6 +1681,7 @@
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 | 2024-03-02 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-10 | 2022-07-16 |
 | [Skin On Skin](https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Skin On Skin](https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4) | 3:20 | 2024-07-19 | 2024-08-17 |
+| [Skinny Loser](https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Skinny Loser](https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV) | 3:28 | 2024-09-25 |  |
 | [Sky Turns Red](https://open.spotify.com/track/7cf40EoSSoY0ZPeywYds3o) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Sky Turns Red](https://open.spotify.com/album/1exiaBfWEXPHrxaRRbLKUq) | 3:51 | 2024-03-22 | 2024-05-18 |
 | [Skydiver](https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Skydiver](https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE) | 3:59 | 2024-05-17 | 2024-07-06 |
 | [Slack](https://open.spotify.com/track/2bcKBXhEvtpluFyU5bQNh7) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Slack](https://open.spotify.com/album/399DCOIpeXaQOvUOSRY8yS) | 2:49 | 2024-08-09 | 2024-09-14 |

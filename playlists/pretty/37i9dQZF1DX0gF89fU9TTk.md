@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,042 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,078 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 48 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 49 | [King of My Heart](https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [King of My Heart](https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb) | 4:03 |
 | 50 | [Found in You](https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Found in You](https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S) | 3:14 |
-| 51 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 |
-| 52 | [Heaven Calling \- Live](https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Paradigms \(Live\)](https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi) | 3:20 |
+| 51 | [Heaven Calling \- Live](https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Paradigms \(Live\)](https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi) | 3:20 |
+| 52 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 |
 | 53 | [After Party](https://open.spotify.com/track/3Y1DoxV2IIPeiOkAB2YHp0) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Eyes Up \- EP](https://open.spotify.com/album/6IQ0BcQsPrHltvsgP1Mbpv) | 2:36 |
 | 54 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 |
 | 55 | [More Than Enough](https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Desert River](https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4) | 3:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 60 | [Holding on to Me](https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Holding on to Me](https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI) | 3:51 |
 | 61 | [So Close \- Studio](https://open.spotify.com/track/5qEDNdBR6WTI8PccUZVGZT) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Yahweh](https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ) | 4:40 |
 | 62 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 |
-| 63 | [Joy](https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Joy](https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10) | 3:33 |
-| 64 | [WE’RE GOING PUBLIC \(Acoustic\)](https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Quarantine Sessions](https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ) | 3:54 |
+| 63 | [WE’RE GOING PUBLIC \(Acoustic\)](https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Quarantine Sessions](https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ) | 3:54 |
+| 64 | [Joy](https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Joy](https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10) | 3:33 |
 | 65 | [You Give Me Joy](https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [You Give Me Joy](https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP) | 4:02 |
 | 66 | [No One Else](https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [No One Else](https://open.spotify.com/album/4aOJdzjOMjBQiTOCBVWLUV) | 3:50 |
 | 67 | [Brighter \- Live](https://open.spotify.com/track/2rED5Vu3HINA7kc3paWxJt) | [ARISE Worship](https://open.spotify.com/artist/4Yqk5es0U4Q1A92FpullUi) | [Brighter \(Live\)](https://open.spotify.com/album/5xplj2rt2dXTDWrvXCCPN5) | 3:28 |

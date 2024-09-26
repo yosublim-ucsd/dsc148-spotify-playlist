@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1438407,
+  "num_followers": 1438422,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Dancing For The Answers - EP",
         "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Caesar Knows",
-        "url": "https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Caesar Knows",
-      "url": "https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+        "name": "Caesar Knows",
+        "url": "https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
         }
       ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+      "duration_ms": 156080,
+      "name": "Caesar Knows",
+      "url": "https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1043,6 +1027,22 @@
       "duration_ms": 224713,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Summertime Mama",
+      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Black Irish",
-        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 241203,
-      "name": "Banshee Moan",
-      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Black Irish",
+        "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 241203,
+      "name": "Banshee Moan",
+      "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Getting It Right",
-        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Rose",
-          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
-        },
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 170280,
-      "name": "Getting It Right",
-      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Getting It Right",
+        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        },
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 170280,
+      "name": "Getting It Right",
+      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 229662,
-      "name": "Star to Star",
-      "url": "https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Gimme the Beat Back",
         "url": "https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Peach Fuzz",
-        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Peach Fuzz",
-      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
+      "duration_ms": 229662,
+      "name": "Star to Star",
+      "url": "https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1563,6 +1547,22 @@
       "duration_ms": 175357,
       "name": "Not Like It Was",
       "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Peach Fuzz",
+        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R"
+        "name": "What Will We Do",
+        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
       },
       "artists": [
         {
-          "name": "Lauren Jones",
-          "url": "https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va"
+          "name": "Lula Wiles",
+          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey"
+      "duration_ms": 236733,
+      "name": "Love Gone Wrong",
+      "url": "https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ"
     }
   ],
   "unique_name": "Wild & Free",

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-345 songs - 15 hr 35 min
+348 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Belonging to the Woods](https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Belonging to the Woods](https://open.spotify.com/album/5MXiLVQY1I0dRkCK0wCGv2) | 3:24 | 2022-05-13 | 2022-10-07 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
 | [Blessing](https://open.spotify.com/track/2l3DOrrIbufk8EZpXDVbJF) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Blessing](https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE) | 2:42 | 2022-05-13 | 2024-07-30 |
+| [Blue Hours](https://open.spotify.com/track/0Ol6ir6oEZocV7eterdScm) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [Blue Hours](https://open.spotify.com/album/1ujaieP4ZXfc4RXTHEANic) | 3:32 | 2024-09-25 |  |
 | [Blue River](https://open.spotify.com/track/4H37WSMDCFhcThyII8qadN) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Blue River](https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8) | 3:32 | 2022-05-13 | 2024-04-06 |
 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 | 2024-03-08 |  |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-28 |  |
@@ -94,6 +95,7 @@
 | [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 | 2023-04-28 |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
+| [End of Summer](https://open.spotify.com/track/0OwNmUxckzrNFjHGEf90Od) | [Ivan Nevau](https://open.spotify.com/artist/4Y1du6z4ekLOKho3kj1pLD) | [End of Summer](https://open.spotify.com/album/05fPHnXgdmvtMf1nDn1wck) | 2:15 | 2024-09-25 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
 | [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 | 2022-07-22 |
 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 | 2022-05-13 | 2023-03-31 |
@@ -101,6 +103,7 @@
 | [Fading Daylight](https://open.spotify.com/track/2wgl16cBADyWzzRVpwd919) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Fading Daylight](https://open.spotify.com/album/1PF8aTQ7u5DiOywsUFUJSB) | 2:55 | 2023-03-31 | 2024-06-08 |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-05-13 | 2023-04-28 |
 | [Fake a smile](https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Fake a smile](https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7) | 2:49 | 2022-05-13 | 2023-03-31 |
+| [Fall Afresh](https://open.spotify.com/track/0ZEHv8Yv3IHdicQojugv7V) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [Fall Afresh](https://open.spotify.com/album/6Kaj5MHZXfSH7kGRrGhBpq) | 3:59 | 2024-09-25 |  |
 | [Fall in Lisbon](https://open.spotify.com/track/400mUf0vQjFyKoOa5kfsHg) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Fall in Lisbon](https://open.spotify.com/album/5U5Wxwu8bhvZLEyni6nxIT) | 2:26 | 2022-10-28 |  |
 | [Fall into Comfort](https://open.spotify.com/track/1qxD4Jw9pprF9hLTA01Pp7) | [Michael Mucklow](https://open.spotify.com/artist/7mobALd60kwSNrm2cFfzXI) | [Fall into Comfort](https://open.spotify.com/album/3z9zqed83nqwy6mk80i1u2) | 3:31 | 2022-05-13 | 2022-06-10 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |

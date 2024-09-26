@@ -10531,6 +10531,24 @@
     },
     {
       "album": {
+        "name": "do i ever cross your mind",
+        "url": "https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "do i ever cross your mind",
+      "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
+    },
+    {
+      "album": {
         "name": "Do It Again (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -15334,7 +15352,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
@@ -17488,6 +17506,24 @@
       "duration_ms": 127433,
       "name": "high",
       "url": "https://open.spotify.com/track/4m7dt9RNmwNhDc9rrPlMMf"
+    },
+    {
+      "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "high school",
+      "url": "https://open.spotify.com/track/24f9sUr9sVrY2aJKVURXOJ"
     },
     {
       "album": {
@@ -32260,7 +32296,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
@@ -33806,7 +33842,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -36852,10 +36888,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -42921,6 +42975,24 @@
     },
     {
       "album": {
+        "name": "LIL PEEP; PART ONE",
+        "url": "https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133893,
+      "name": "the way i see things",
+      "url": "https://open.spotify.com/track/2Ku34RwdypCEfVJyxQIfyI"
+    },
+    {
+      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -44366,7 +44438,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 149906,
       "name": "Under The Lights",
       "url": "https://open.spotify.com/track/41vFFRcma9KvXHyO0yFl2C"
@@ -45284,7 +45356,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 153833,
       "name": "vietor",
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
@@ -47672,7 +47744,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 106173,
       "name": "wutiwant - SLOWD",
       "url": "https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW"
@@ -49200,7 +49272,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 131666,
       "name": "\u0432\u0435\u0440\u043d\u0438\u0442\u0435 \u0432 \u043c\u043e\u0434\u0443 \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/1JYJJ9p0vxuirKveVEbDBt"

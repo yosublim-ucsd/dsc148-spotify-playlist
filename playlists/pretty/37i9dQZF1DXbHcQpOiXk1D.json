@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Nala Sinephro",
-  "num_followers": 316390,
+  "num_followers": 316429,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Greatest Gift (Reimagined)",
-        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Greatest Gift - Reimagined",
-      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Talk to me.",
         "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 103333,
       "name": "Talk to me.",
       "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Greatest Gift (Reimagined)",
+        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Greatest Gift - Reimagined",
+      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "Keep me close.",
+        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
       },
       "artists": [
         {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 144358,
+      "name": "Keep me close.",
+      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -387,22 +403,6 @@
       "duration_ms": 156279,
       "name": "Lag\u00f4",
       "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Keep me close.",
-        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        }
-      ],
-      "duration_ms": 144358,
-      "name": "Keep me close.",
-      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dumplings For Dinner",
         "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 404162,
       "name": "Dumplings For Dinner",
       "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 375291,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
+      "duration_ms": 375291,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 257811,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -923,8 +923,8 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Working It Out",
-        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 235173,
-      "name": "Working It Out",
-      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -951,6 +951,22 @@
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Interdimensional",
+        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "I Stitched My Mind Back To My Body",
+      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Interdimensional",
-        "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "I Stitched My Mind Back To My Body",
-      "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Unchained Melodies Vol. 1",
         "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
       },
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "BEG",
-        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 160578,
-      "name": "BEG",
-      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "The Liminality of Her",
         "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "BEG",
+        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 160578,
+      "name": "BEG",
+      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
         }
       ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
       },
@@ -1315,6 +1299,42 @@
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1347,22 +1367,6 @@
       "duration_ms": 234346,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/1aeyjlatOvbmoyr9EuWOLH"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "We Have Each Other",
-        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
-      },
-      "artists": [
-        {
-          "name": "TC & the Groove Family",
-          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
-        }
-      ],
-      "duration_ms": 236015,
-      "name": "We Have Each Other",
-      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
     }
   ],
   "unique_name": "Jazz UK",

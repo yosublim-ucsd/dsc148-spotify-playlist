@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,864 likes - 175 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,936 likes - 175 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 101 | [Feed My Release](https://open.spotify.com/track/442h55BG9peZwkpdBb5tEM) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Feed My Release](https://open.spotify.com/album/0dtcWAoSVVGeHJvCdD056G) | 5:16 |
 | 102 | [Glimpse](https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Glimpse](https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm) | 3:16 |
 | 103 | [That Girl \(Instrumental\)](https://open.spotify.com/track/4DGy4XB2agt29GJFjUyIJC) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Glorious Game \(Instrumentals\)](https://open.spotify.com/album/4OE7QoEirOJEdDbhQftNpw) | 2:09 |
-| 104 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:30 |
+| 104 | [kisses \- Daniel Avery Remix](https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [kisses \(Daniel Avery Remix\) b/w kisses \- sky ii](https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD) | 3:31 |
 | 105 | [flux](https://open.spotify.com/track/7Ls5alNvrm46CrJ2gETL53) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [FLUX](https://open.spotify.com/album/1jXKXZjH3ESFcs3VBvoQSN) | 4:40 |
 | 106 | [Autoluminescent](https://open.spotify.com/track/3Sl2z4TkK0lYJiMB7kXnz6) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [No Depression In Heaven](https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn) | 4:41 |
 | 107 | [Four Leaf Clover](https://open.spotify.com/track/2pspqiK4PgC7xezcRg79Me) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:53 |

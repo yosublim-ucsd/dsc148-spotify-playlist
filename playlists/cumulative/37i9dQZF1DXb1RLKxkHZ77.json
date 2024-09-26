@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Abadi",
+        "url": "https://open.spotify.com/album/3kxlPmmRHWpYYH2xZRoRuX"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232212,
+      "name": "Abadi",
+      "url": "https://open.spotify.com/track/6iXTMSSD6diBMzSS8JnVbm"
+    },
+    {
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 220753,
       "name": "affa iyah (feat. Basboi)",
       "url": "https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB"
@@ -252,6 +270,24 @@
       "duration_ms": 241139,
       "name": "Aku Hati Dan Perasaan",
       "url": "https://open.spotify.com/track/5ykBidUrVd66YcgAlssUrm"
+    },
+    {
+      "album": {
+        "name": "Aku Ingin",
+        "url": "https://open.spotify.com/album/2iJMMLoVmVgyP71pVMtBrS"
+      },
+      "artists": [
+        {
+          "name": "Tuju",
+          "url": "https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Aku Ingin",
+      "url": "https://open.spotify.com/track/5oazhBYMeRgGFB7XHwrgkN"
     },
     {
       "album": {
@@ -950,6 +986,24 @@
       "duration_ms": 222176,
       "name": "Bawa Hatiku Bersama Kamu",
       "url": "https://open.spotify.com/track/6TeY4w3Ew5mjXZzBD2XMyv"
+    },
+    {
+      "album": {
+        "name": "BBF",
+        "url": "https://open.spotify.com/album/6PTGxQGz6Mh1l6yuFITWL5"
+      },
+      "artists": [
+        {
+          "name": "MUAH!",
+          "url": "https://open.spotify.com/artist/12GCsvtwSZNTg2r0L0cEsK"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "BBF",
+      "url": "https://open.spotify.com/track/2PJmYqIkWa75NSgfeBYoeJ"
     },
     {
       "album": {
@@ -1808,7 +1862,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 207887,
       "name": "Bunga Kemboja",
       "url": "https://open.spotify.com/track/7sRARB34FC0QVOCojwW1UZ"
@@ -2717,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Dusta",
+        "url": "https://open.spotify.com/album/0L2BSiF3Zq82ayk5Yt08pE"
+      },
+      "artists": [
+        {
+          "name": "Ukays",
+          "url": "https://open.spotify.com/artist/7y3tizrdDAAfh7BWCYLXcI"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255638,
+      "name": "Dusta",
+      "url": "https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt"
+    },
+    {
+      "album": {
         "name": "Eh Mari, Tengok Tu",
         "url": "https://open.spotify.com/album/20lB1donlSTdqQY7FDAwCM"
       },
@@ -2910,7 +2982,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 231995,
       "name": "Gemercik Asmara",
       "url": "https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ"
@@ -6971,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "Penjenayah",
+        "url": "https://open.spotify.com/album/056axZKJqgBUyY417snj8I"
+      },
+      "artists": [
+        {
+          "name": "Kidd Santhe",
+          "url": "https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177897,
+      "name": "Penjenayah",
+      "url": "https://open.spotify.com/track/6kzPERocoSCCvzBvJTCqTT"
+    },
+    {
+      "album": {
         "name": "Pentas Sandiwara",
         "url": "https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR"
       },
@@ -7416,6 +7506,24 @@
       "duration_ms": 216439,
       "name": "Rasa Sayang Sayang",
       "url": "https://open.spotify.com/track/6QlxjFqx0ntOi7KEmVb757"
+    },
+    {
+      "album": {
+        "name": "Rawan",
+        "url": "https://open.spotify.com/album/4U1FImW4oJe9njptCD3wJw"
+      },
+      "artists": [
+        {
+          "name": "Hazrul Nizam",
+          "url": "https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235523,
+      "name": "Rawan",
+      "url": "https://open.spotify.com/track/2H6X5Vqfm6Dbn0ALy326De"
     },
     {
       "album": {
@@ -8040,7 +8148,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 198829,
       "name": "Sambut - Imran Ajmain Remix",
       "url": "https://open.spotify.com/track/6icIwZ2yydCmnxOfz5hdpi"
@@ -9636,7 +9744,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 185865,
       "name": "Terbang",
       "url": "https://open.spotify.com/track/4wJ22xEjV2XeHUcrPafZUz"
@@ -10376,7 +10484,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 228240,
       "name": "\u2060Sayang/Cinta",
       "url": "https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo"

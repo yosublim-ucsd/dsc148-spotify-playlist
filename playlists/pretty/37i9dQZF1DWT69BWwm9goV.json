@@ -1,13 +1,29 @@
 {
-  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Lizzy McAlpine",
-  "num_followers": 1396,
+  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Megan Moroney",
+  "num_followers": 1403,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtiEaQAAAAAtLKVHAGrh2Y5VP/f7b2ak",
+  "snapshot_id": "ZvSDLwAAAAD2iJOJbeB+FnrwHyfqGzGW",
   "tracks": [
+    {
+      "added_at": "2024-09-25 20:49:29",
+      "album": {
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+    },
     {
       "added_at": "2024-09-04 16:01:45",
       "album": {
@@ -399,6 +415,22 @@
       "duration_ms": 219834,
       "name": "Substance",
       "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
+    },
+    {
+      "added_at": "2024-09-25 20:49:29",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
     },
     {
       "added_at": "2024-04-02 17:11:22",

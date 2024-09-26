@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5736,
+  "num_followers": 5735,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHHua/ngV3rfj/adIQvViO/yhKEzc3",
+  "snapshot_id": "AAAHH6RAEnku8oB5IgrkF5ZXZUJkV6vb",
   "tracks": [
     {
       "added_at": "2024-08-30 05:37:39",
@@ -39,6 +39,22 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-09-26 03:45:59",
+      "album": {
+        "name": "Life's An Awful Mess",
+        "url": "https://open.spotify.com/album/5sZYNeONj8owtbzfvoOyIW"
+      },
+      "artists": [
+        {
+          "name": "Carla Wehbe",
+          "url": "https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w"
+        }
+      ],
+      "duration_ms": 188865,
+      "name": "Life's An Awful Mess",
+      "url": "https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn"
     },
     {
       "added_at": "2024-08-30 05:37:39",

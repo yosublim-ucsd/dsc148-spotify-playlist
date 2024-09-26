@@ -2,12 +2,13 @@
 
 ### [OUTSIDE](https://open.spotify.com/playlist/37i9dQZF1DWT69BWwm9goV)
 
-> A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Lizzy McAlpine
+> A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Megan Moroney
 
-34 songs - 1 hr 40 min
+36 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7) | 3:57 | 2024-09-25 |  |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-04-02 |  |
 | [Bands \(feat\. OhGeesy, Fenix Flexin & Master Kato\)](https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Master Kato](https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF) | [Shoreline Mafia Presents Rob Vicious: Traplantic](https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose) | 2:54 | 2024-04-02 |  |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-14 |  |
@@ -41,6 +42,7 @@
 | [Still Got It \- Live from Spotify Green Screen](https://open.spotify.com/track/0Lo1FAFOyXXX1ptjez0Odn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Still Got It \(Live from Spotify Green Screen\)](https://open.spotify.com/album/3xPu6oQFNfcC3e3Bcj2viF) | 2:47 | 2024-04-02 |  |
 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 | 2024-04-02 |  |
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2024-04-02 |  |
+| [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2024-09-25 |  |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-04-02 |  |
 
 \*This playlist was first scraped on 2024-04-03. Prior content cannot be recovered.

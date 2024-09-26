@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-358 songs - 15 hr 25 min
+361 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-03-04 | 2022-07-08 |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 | 2022-07-22 |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |
+| [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
 | [Evening Rhyme](https://open.spotify.com/track/2SKiHfZj0kYvrEVl8nm6Rq) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Evening Rhyme](https://open.spotify.com/album/4QWODS6k0zUNUkcf0hfRGe) | 2:13 | 2023-01-20 | 2024-05-24 |
@@ -118,6 +119,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-14 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-03-04 | 2024-04-06 |
 | [Fino a Novembre](https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Fino a Novembre](https://open.spotify.com/album/2Xuon7cc0MYNmWM9awtMJl) | 2:05 | 2022-03-04 | 2022-04-06 |
+| [First Love](https://open.spotify.com/track/4REsGOqIOvzi9PygRFVEru) | [Sly Hickman](https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ) | [First Love](https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh) | 2:12 | 2024-09-25 |  |
 | [First Summer](https://open.spotify.com/track/4vtxTtXKzCX07aYik2gBjA) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [First Summer](https://open.spotify.com/album/3k9CdFJXdfgQhsbbzw6SK7) | 2:58 | 2024-06-28 |  |
 | [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 | 2022-07-29 | 2022-10-07 |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-10 |  |
@@ -308,6 +310,7 @@
 | [The Golden Hour](https://open.spotify.com/track/7gz1YABH7YyQdfizV66Te3) | [Karlijn Langendijk](https://open.spotify.com/artist/5f2W3O5gSmbpShR6upVzJb) | [The Golden Hour](https://open.spotify.com/album/02jWyD3cYpzVPCVCEBYRb4) | 4:23 | 2024-02-02 | 2024-06-08 |
 | [The Green isle](https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Green isle](https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH) | 2:06 | 2024-02-23 |  |
 | [The Harvest's Hand](https://open.spotify.com/track/3Jty4TPeUMF2WJLJ8SzpSx) | [Precious Find](https://open.spotify.com/artist/17eY4Ztp9ZRvgPFF2js9e8) | [The Harvest's Hand](https://open.spotify.com/album/1PwCFJVwcFBXCoYch69X5V) | 2:35 | 2022-12-09 | 2023-08-10 |
+| [The hill](https://open.spotify.com/track/0vDsuuCVQv84kG0TNOf2w3) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [The hill](https://open.spotify.com/album/6TdwuzAt2hHhI7x7HBHdwb) | 2:00 | 2024-09-25 |  |
 | [The Journey With You](https://open.spotify.com/track/0ZEsPuSsslffsQiTB9UoTA) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [The Journey With You](https://open.spotify.com/album/1N9XguMS6vl9LbbRkeLnBZ) | 2:22 | 2022-11-18 | 2023-03-25 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-21 | 2023-08-26 |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 | 2024-06-08 |

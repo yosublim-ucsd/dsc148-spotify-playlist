@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Pra Tomar Cacha\u00e7a",
+        "url": "https://open.spotify.com/album/5oNHOJOscRnW1GXibylCYb"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Silva",
+          "url": "https://open.spotify.com/artist/3WrwWddj5TB3Nt94EVnA20"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220227,
+      "name": "Apaga Apaga Apaga",
+      "url": "https://open.spotify.com/track/0dg6dHxOMrzcCHzPFQDAem"
+    },
+    {
+      "album": {
         "name": "Apaixonadinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/64gTBjrAdiHpoeVODPy6v6"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 564027,
+  "num_followers": 564223,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-20 12:57:57",
       "album": {
+        "name": "Gal Estratosf\u00e9rica",
+        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Quando Voc\u00ea Olha Pra Ela",
+      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
+    },
+    {
+      "added_at": "2024-09-20 12:57:57",
+      "album": {
         "name": "ME LIGA",
         "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
-    },
-    {
-      "added_at": "2024-09-20 12:57:57",
-      "album": {
-        "name": "Gal Estratosf\u00e9rica",
-        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Quando Voc\u00ea Olha Pra Ela",
-      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
     },
     {
       "added_at": "2024-09-20 12:57:57",

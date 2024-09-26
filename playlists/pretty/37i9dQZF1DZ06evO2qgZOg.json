@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 285912,
+  "num_followers": 286022,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAADWhL7Gb6ibvbbHAJxaHGBl",
+  "snapshot_id": "ZvIBAAAAAAA/FvnFbu24sk0PcgDTs8+j",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 206060,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 244538,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+      "duration_ms": 206060,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake - Deluxe Edition",
-        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 197992,
       "name": "You Ain't Ready",
       "url": "https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake - Deluxe Edition",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 48706,
+  "num_followers": 48725,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAAfnrFvgqTmwKFoPqz68xY0",
+  "snapshot_id": "ZvIBAAAAAAAtRs5z/BXnVwxB+PcdK091",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 260605,
-      "name": "HOMETOWN",
-      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 260605,
+      "name": "HOMETOWN",
+      "url": "https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 464398,
       "name": "Divine / Sailing / Time / Hymn - Acoustic",
       "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope (The House Sessions)",
-        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 394626,
-      "name": "How Great Is Your Love",
-      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Response",
         "url": "https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206280,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope (The House Sessions)",
+        "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 394626,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/1bXgMtdwYuFAPApWxGbS17"
     },
     {
       "added_at": null,

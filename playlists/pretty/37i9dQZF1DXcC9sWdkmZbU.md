@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,251 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,297 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 74 | [Won't Let Go \(feat\. Cole Novak\)](https://open.spotify.com/track/468Cpwss1N8UhVqAJBx11O) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Cole Novak](https://open.spotify.com/artist/5hiGXWccuE62i5B7ipA9VT) | [Heartbeat](https://open.spotify.com/album/4PAcQ4sdsoDIoVnraVfERi) | 3:29 |
 | 75 | [My God Is Number One](https://open.spotify.com/track/7a6ZDg21s7zuuL14q1Q4ir) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Taste and See](https://open.spotify.com/album/0cBPRPvYFRbXEBaiS6HhFY) | 2:54 |
 
-Snapshot ID: `ZpdPTQAAAAB0P3NOhlDLlBDjyDCMbJLY`
+Snapshot ID: `ZpdPTQAAAAAQbX2dv/R0tlOe02CtaLF8`

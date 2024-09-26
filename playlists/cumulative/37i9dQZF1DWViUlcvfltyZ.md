@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Pop Véronique in cover
 
-1,078 songs - 2 day 11 hr 26 min
+1,079 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [UNDÈ](https://open.spotify.com/track/1K3TlLlGWfXPG3xqYROx5w) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [OASI](https://open.spotify.com/album/7LGNkqrSHcZWBH8cKAMzq3) | 4:37 | 2024-04-04 | 2024-04-19 |
 | [Universo](https://open.spotify.com/track/0IGiIKg6BCTlTBK2Y3OzAu) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Realtà Aumentata](https://open.spotify.com/album/3OZ8bUM61fzR33BnLT5vZ1) | 4:40 | 2024-01-11 | 2024-04-26 |
 | [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 | 2022-08-05 |
+| [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 | 2024-09-25 |  |
 | [UOMINI NUDI](https://open.spotify.com/track/6EPHqNqrvlwrzjq0jHS85G) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [UOMINI NUDI](https://open.spotify.com/album/2oJchkhLxJBVkfeW0wrp7u) | 4:12 | 2024-05-23 | 2024-06-28 |
 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 | 2023-02-02 | 2023-05-10 |
 | [Valanga](https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Valanga](https://open.spotify.com/album/0Uzr5FEyRVTN2WuilSQZ0Q) | 3:31 | 2022-06-09 | 2022-11-11 |

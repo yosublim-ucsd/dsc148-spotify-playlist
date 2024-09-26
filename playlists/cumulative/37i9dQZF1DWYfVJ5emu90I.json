@@ -1879,6 +1879,28 @@
     },
     {
       "album": {
+        "name": "Live in Tokyo",
+        "url": "https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607"
+      },
+      "artists": [
+        {
+          "name": "Choppa Capone",
+          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127440,
+      "name": "Live in Tokyo",
+      "url": "https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC"
+    },
+    {
+      "album": {
         "name": "Living Legend",
         "url": "https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF"
       },
@@ -2980,7 +3002,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 124832,
       "name": "SLATT",
       "url": "https://open.spotify.com/track/4MsvEHbuedIb4W2xhOVF0L"

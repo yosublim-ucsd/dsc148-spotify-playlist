@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 104,357 likes - 143 songs - 6 hr 11 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 104,632 likes - 143 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 46 | [Chemicals](https://open.spotify.com/track/6uflD5CJQvJ5agADZxw50K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Chemicals](https://open.spotify.com/album/5GV6Kt8uRRdL6ZhLSb0fEL) | 3:06 |
 | 47 | [Summer Dream](https://open.spotify.com/track/6lmFmtxcyLJv9f3rsuX6ll) | [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Summer Dream](https://open.spotify.com/album/5oe2yp38oVMqnJ7l8ECPfO) | 2:24 |
 | 48 | [In Your Arms](https://open.spotify.com/track/4QnDjbRQNCQTMYkrOUQdH3) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [In Your Arms](https://open.spotify.com/album/40BqDOx4QvxdxNxGglh7HC) | 2:31 |
-| 49 | [Drown](https://open.spotify.com/track/5a6jHrqHx5cptxUiz9Xkcr) | [L E V I N E](https://open.spotify.com/artist/5ayT62iFq2QvMNLftUTFKL), [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [Mal](https://open.spotify.com/artist/4HJs3ydE6cCbD9J9c4SxpD), [Tc\-5](https://open.spotify.com/artist/5kXoJQjiH4i9wBHGvxki2k) | [Drown](https://open.spotify.com/album/44fUkMvrwwPafXsG7y8VQm) | 2:27 |
+| 49 | [Drown](https://open.spotify.com/track/5a6jHrqHx5cptxUiz9Xkcr) | [L E V I N E](https://open.spotify.com/artist/5ayT62iFq2QvMNLftUTFKL), [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [Mal](https://open.spotify.com/artist/4DUBElQBKTaH6X02yEpQ4m), [Tc\-5](https://open.spotify.com/artist/5kXoJQjiH4i9wBHGvxki2k) | [Drown](https://open.spotify.com/album/44fUkMvrwwPafXsG7y8VQm) | 2:27 |
 | 50 | [Home](https://open.spotify.com/track/6KEtF4Qs6hMYDV5YR5bDz9) | [Nck](https://open.spotify.com/artist/5LdryxThIsGKLUu2igrw1h), [Lost Vector](https://open.spotify.com/artist/6hRUGtb1LFxerfrE1E6983), [8ER](https://open.spotify.com/artist/4fi5ltc76mW7Pnz7jIh4Gt) | [Home](https://open.spotify.com/album/3UPjkgLxkk48x2JjtBnV4V) | 2:42 |
 | 51 | [No Other Love](https://open.spotify.com/track/6tekbBbL0YC854BVqGC61a) | [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [No Other Love](https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99) | 2:10 |
 | 52 | [Unforgettable](https://open.spotify.com/track/1eGYvOvJfwKg7ua90ynBei) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Sonaba](https://open.spotify.com/artist/1gy00wREwEJmfbDNFoZk1a) | [Unforgettable](https://open.spotify.com/album/3GnpyLafsnlv250jGQ1pb9) | 3:35 |

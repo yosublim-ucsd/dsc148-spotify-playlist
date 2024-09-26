@@ -6222,7 +6222,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 265347,
       "name": "Can't Cool With Em",
       "url": "https://open.spotify.com/track/4tVzD0cG2p0pq8Ls7GoVAq"
@@ -11169,6 +11169,24 @@
     },
     {
       "album": {
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/7GW50ZHNeJkyzxEOaBQ0qy"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208021,
+      "name": "Double XL",
+      "url": "https://open.spotify.com/track/65RASvRIDzOImcTfx9vyPX"
+    },
+    {
+      "album": {
         "name": "Dracodraco",
         "url": "https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO"
       },
@@ -13758,6 +13776,24 @@
       "duration_ms": 147583,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1ce7QZQaWokujZ2E7Pjosk"
+    },
+    {
+      "album": {
+        "name": "MD003",
+        "url": "https://open.spotify.com/album/6niCfSR4atooRJaHo1RBJ9"
+      },
+      "artists": [
+        {
+          "name": "Mumdance",
+          "url": "https://open.spotify.com/artist/7AqtQ161yX7B1509Pq0F6V"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331520,
+      "name": "Feeling Feelings",
+      "url": "https://open.spotify.com/track/0pUzRJTrnzFgNJ65swNEep"
     },
     {
       "album": {
@@ -17967,6 +18003,24 @@
     },
     {
       "album": {
+        "name": "Hive",
+        "url": "https://open.spotify.com/album/1RY0wiB6x5ZOCChQ3Qlz6r"
+      },
+      "artists": [
+        {
+          "name": "Eternal Entropy",
+          "url": "https://open.spotify.com/artist/3xSMqrU40AOjt6i5vkfEes"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Hive",
+      "url": "https://open.spotify.com/track/72y2OPKwT8q0k0lXySHAkt"
+    },
+    {
+      "album": {
         "name": "Parenthesis",
         "url": "https://open.spotify.com/album/1agEynHCgqeMdMBAq97Fkb"
       },
@@ -19656,7 +19710,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 208571,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy"
@@ -22550,6 +22604,24 @@
       "duration_ms": 169769,
       "name": "Let's Go - Radio Edit",
       "url": "https://open.spotify.com/track/5U2xGiZd2Czaf2IyDrTV9y"
+    },
+    {
+      "album": {
+        "name": "Let's go now",
+        "url": "https://open.spotify.com/album/7H1MxtNCeGXFfrt7zcUudC"
+      },
+      "artists": [
+        {
+          "name": "VAKE",
+          "url": "https://open.spotify.com/artist/2FJiTdprJnV5ihPqhx7QjZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242598,
+      "name": "Let's go now",
+      "url": "https://open.spotify.com/track/5ypzyAnVcIJZ7f1rqWhBWI"
     },
     {
       "album": {
@@ -28698,7 +28770,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 198187,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
@@ -34140,7 +34212,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-26",
       "duration_ms": 130864,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0ryJ33670DhmjeScqHSyuw"

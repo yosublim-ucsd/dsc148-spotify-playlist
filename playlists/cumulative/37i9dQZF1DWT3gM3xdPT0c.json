@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN"
+      },
+      "artists": [
+        {
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf"
+    },
+    {
+      "album": {
         "name": "Calden",
         "url": "https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs"
       },
@@ -1982,6 +2000,24 @@
       "duration_ms": 125500,
       "name": "Fino a Novembre",
       "url": "https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh"
+      },
+      "artists": [
+        {
+          "name": "Sly Hickman",
+          "url": "https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132600,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/4REsGOqIOvzi9PygRFVEru"
     },
     {
       "album": {
@@ -5414,6 +5450,24 @@
       "duration_ms": 155638,
       "name": "The Harvest's Hand",
       "url": "https://open.spotify.com/track/3Jty4TPeUMF2WJLJ8SzpSx"
+    },
+    {
+      "album": {
+        "name": "The hill",
+        "url": "https://open.spotify.com/album/6TdwuzAt2hHhI7x7HBHdwb"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120584,
+      "name": "The hill",
+      "url": "https://open.spotify.com/track/0vDsuuCVQv84kG0TNOf2w3"
     },
     {
       "album": {

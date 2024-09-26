@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-724 songs - 1 day 6 hr 49 min
+726 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
 | [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2023-04-21 | 2024-04-23 |
-| [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2023-04-21 |  |
+| [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2023-04-21 | 2024-09-26 |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2023-04-21 | 2024-06-11 |
 | [Alexandria](https://open.spotify.com/track/6VBcvDRVk9dPAVkA9Katq8) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Alexandria](https://open.spotify.com/album/40l2y3r9iYUVkxTrA5yYU1) | 2:38 | 2023-04-21 | 2023-06-03 |
@@ -85,7 +85,7 @@
 | [Black eyed dog](https://open.spotify.com/track/2DENCfhn50slvRKvF9pqcI) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Black eyed dog](https://open.spotify.com/album/5hUgi7lXgzbk27XorSx4zk) | 3:02 | 2022-07-15 | 2022-09-17 |
 | [Blissfully](https://open.spotify.com/track/7htKUpIce6DxgjJhOd4xoX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Blissfully](https://open.spotify.com/album/4sFH3eqtmKVo0HVlyA8hnm) | 3:16 | 2023-12-15 |  |
 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 | 2023-09-29 |  |
-| [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 |  |
+| [Blue Bird](https://open.spotify.com/track/2QHSfJCTIE3xjA1zTPy5ka) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Blue Bird](https://open.spotify.com/album/5SXq73X3KJcrUIUU1t0JEa) | 2:44 | 2023-06-02 | 2024-09-26 |
 | [Blue Bossa](https://open.spotify.com/track/2l9Qw5fzdAjUTlq3jGhuPt) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Jazz Standards for Acoustic Guitar vol 1](https://open.spotify.com/album/3re1thxefHKaK6gQPn9SIC) | 1:44 | 2022-10-07 | 2023-04-22 |
 | [Blue Something](https://open.spotify.com/track/0UmR5k7YxioGuU6V0XVPbZ) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Blue Something](https://open.spotify.com/album/5pnWzZFzYCFVcfDjx66JaC) | 3:04 | 2023-04-21 | 2023-10-18 |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-21 |  |
@@ -245,6 +245,7 @@
 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 | 2023-03-31 | 2023-04-22 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 | 2023-08-26 |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 |  |
+| [Flutuar](https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Flutuar](https://open.spotify.com/album/38GesdrKsOotrRglt30vK5) | 3:04 | 2024-09-25 |  |
 | [Fontana Di Trevi](https://open.spotify.com/track/6fr60p2j0uzUyYZfxKFIk5) | [Stella Weber](https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu) | [Fontana Di Trevi](https://open.spotify.com/album/3twbRNFI3PS5vjrnmno8g1) | 2:08 | 2023-04-21 |  |
 | [Footsteps In Palermo](https://open.spotify.com/track/2fQ3bSiaQNeSn7ZoCHGfNJ) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Footsteps In Palermo](https://open.spotify.com/album/2tFW9cguDkRu3OXR4Zbc3V) | 3:15 | 2022-07-15 | 2023-02-25 |
 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 | 2023-04-21 |  |
@@ -372,7 +373,7 @@
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-24 |  |
 | [Lingering Bloom](https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Lingering Bloom](https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR) | 1:44 | 2023-05-12 | 2023-08-26 |
 | [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2023-04-21 |  |
-| [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 | 2023-04-21 |  |
+| [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 | 2023-04-21 | 2024-09-26 |
 | [Live Forever](https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Live Forever](https://open.spotify.com/album/49dxWodL0FhB1Uzg9iUETV) | 2:43 | 2023-04-21 | 2023-05-13 |
 | [Lobo, Buarque: Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 | 2023-04-21 | 2023-05-13 |
@@ -534,6 +535,7 @@
 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 | 2024-06-15 |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2022-07-15 | 2023-03-11 |
+| [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 | 2024-09-25 |  |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-04-22 |
 | [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 |  |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-04-21 |  |
@@ -544,7 +546,7 @@
 | [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 |  |
 | [Searching](https://open.spotify.com/track/2Th9eX05sSxseR88r9fQnE) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Searching](https://open.spotify.com/album/3uRBe6voWCE80tm3tC65TY) | 1:37 | 2023-03-31 | 2023-04-22 |
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-21 |  |
-| [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2023-04-21 | 2024-05-27 |
+| [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2023-04-21 |  |
 | [Self\-talk](https://open.spotify.com/track/5aGOxtKzoxfNEV3Vzrtzvy) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Self\-talk](https://open.spotify.com/album/6fMzokF9CPlpgFtnW5ZYBQ) | 1:56 | 2024-08-13 |  |
 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 | 2022-10-07 | 2023-04-22 |
 | [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |

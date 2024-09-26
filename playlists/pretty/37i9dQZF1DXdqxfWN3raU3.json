@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Sen Senra en portada.",
-  "num_followers": 255060,
+  "num_followers": 255052,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "TESTIGOS",
-        "url": "https://open.spotify.com/album/0BUC1JOEm1kk8nYOpHfKOp"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "TESTIGOS",
-      "url": "https://open.spotify.com/track/4IWTNhnNmYMEXE48DclSnG"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "TESTIGOS",
+        "url": "https://open.spotify.com/album/0BUC1JOEm1kk8nYOpHfKOp"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "TESTIGOS",
+      "url": "https://open.spotify.com/track/4IWTNhnNmYMEXE48DclSnG"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "No digas nada",
-        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "No digas nada",
-      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 167707,
       "name": "alexademie",
       "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Dej\u00e9 de Amarte",
+        "url": "https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Dej\u00e9 de Amarte",
+      "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Dej\u00e9 de Amarte",
-        "url": "https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Dej\u00e9 de Amarte",
-      "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "FYAH",
-        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "FYAH",
-      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 181463,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "FYAH",
+        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "FYAH",
+      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1447,26 +1447,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Puntos Claves",
-        "url": "https://open.spotify.com/album/40iuoENRDnoVBkn14w2sUg"
+        "name": "SIN PERDER, NUNK CUENTA",
+        "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
       "artists": [
         {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        },
-        {
-          "name": "Federico Iv\u00e1n",
-          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Puntos Claves",
-      "url": "https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON"
+      "duration_ms": 131200,
+      "name": "SIN PERDER, NUNK CUENTA",
+      "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1491,18 +1483,26 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "SIN PERDER, NUNK CUENTA",
-        "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
+        "name": "Puntos Claves",
+        "url": "https://open.spotify.com/album/40iuoENRDnoVBkn14w2sUg"
       },
       "artists": [
         {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        },
+        {
+          "name": "Federico Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
         }
       ],
-      "duration_ms": 131200,
-      "name": "SIN PERDER, NUNK CUENTA",
-      "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+      "duration_ms": 137142,
+      "name": "Puntos Claves",
+      "url": "https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "KD",
         "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 159146,
       "name": "KD",
       "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "LA PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/4kpXc2TtBaQZaRGxKH6lOu"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 163252,
-      "name": "LA PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "no me dejes ir",
         "url": "https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 215348,
       "name": "Honest (feat. C. Tangana)",
       "url": "https://open.spotify.com/track/3FiX402udtjX777EHZUAbU"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "LA PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/4kpXc2TtBaQZaRGxKH6lOu"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 163252,
+      "name": "LA PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc"
     },
     {
       "added_at": "2024-09-20 06:00:00",

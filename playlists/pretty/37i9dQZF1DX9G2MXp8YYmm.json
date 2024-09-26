@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: Mert \u00c7odur",
-  "num_followers": 133580,
+  "num_followers": 133611,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Olmu\u015fum Leyla",
-        "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 172154,
-      "name": "Olmu\u015fum Leyla",
-      "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "An\u0131lara Dalar\u0131z",
         "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 150681,
       "name": "An\u0131lara Dalar\u0131z",
       "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Olmu\u015fum Leyla",
+        "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 172154,
+      "name": "Olmu\u015fum Leyla",
+      "url": "https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Z\u00fcmr\u00fcd\u00fcankam",
-        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
-      },
-      "artists": [
-        {
-          "name": "Merve \u00d6zbey",
-          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Z\u00fcmr\u00fcd\u00fcankam",
-      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Uslanmaz",
         "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 145500,
       "name": "Uslanmaz",
       "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Z\u00fcmr\u00fcd\u00fcankam",
+        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Z\u00fcmr\u00fcd\u00fcankam",
+      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Kuantum 51",
-        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 225430,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Ne Gere\u011fi Var",
         "url": "https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 131047,
       "name": "Ne Gere\u011fi Var",
       "url": "https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Kuantum 51",
+        "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 225430,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -783,6 +783,22 @@
       "duration_ms": 143219,
       "name": "Ayya\u015f",
       "url": "https://open.spotify.com/track/4dJDEGzchh0apaO0CbDV2Z"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Bana Sorma",
+        "url": "https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh"
+      },
+      "artists": [
+        {
+          "name": "\u0130kilem",
+          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
+        }
+      ],
+      "duration_ms": 254743,
+      "name": "Bana Sorma",
+      "url": "https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 152434,
       "name": "Yar\u0131 Deli",
       "url": "https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "Bana Sorma",
-        "url": "https://open.spotify.com/album/5lZnbBTH9sDDt2dprum2Mh"
-      },
-      "artists": [
-        {
-          "name": "\u0130kilem",
-          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
-        }
-      ],
-      "duration_ms": 254743,
-      "name": "Bana Sorma",
-      "url": "https://open.spotify.com/track/3POiAfxKkpd0UudOnDW3JF"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
-        "url": "https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
-      "url": "https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Kara Konular",
         "url": "https://open.spotify.com/album/6S9ZTHvSM57YOuMna1ejSX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 240181,
       "name": "T\u00fckeniyor \u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
+        "url": "https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
+      "url": "https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Girdap",
-        "url": "https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "Girdap",
-      "url": "https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Bo\u015funa Nefes T\u00fcketme",
         "url": "https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 162808,
       "name": "Bo\u015funa Nefes T\u00fcketme",
       "url": "https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Girdap",
+        "url": "https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "Girdap",
+      "url": "https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Kafam \u0130yi Esiyor",
-        "url": "https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi"
+        "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
+        "url": "https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx"
       },
       "artists": [
         {
-          "name": "Bora Duran",
-          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
         }
       ],
-      "duration_ms": 166772,
-      "name": "Kafam \u0130yi Esiyor",
-      "url": "https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp"
+      "duration_ms": 194624,
+      "name": "G\u00fcle G\u00fcle Anlatt\u0131m Seni",
+      "url": "https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV"
     },
     {
       "added_at": "2024-09-12 21:00:00",

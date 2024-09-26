@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,818 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,838 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [story about you](https://open.spotify.com/track/2XxJ3ATExZmjEmxHqj1F53) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [story about you](https://open.spotify.com/album/54c5sAtiOXpwzOxWWrPgnx) | 2:56 |
 | 2 | [Horizon](https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Nujabes PRAY Reflections](https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM) | 4:35 |
 | 3 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 |
-| 4 | [roundabout](https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [roundabout](https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT) | 2:12 |
+| 4 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 |
 | 5 | [Lavender](https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Lavender](https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk) | 2:43 |
 | 6 | [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 |
 | 7 | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
 | 100 | [Holding On](https://open.spotify.com/track/15doBKN23wpwkySjDBcIIM) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/6td5NmPNpZG6xpk0btQQb2) | 2:26 |
 
-Snapshot ID: `Zuo6oQAAAAB8SSVQERUF9H2BrDFxIXR1`
+Snapshot ID: `ZvO0iAAAAACYBAHapGoIaopqrDRSg4Gl`

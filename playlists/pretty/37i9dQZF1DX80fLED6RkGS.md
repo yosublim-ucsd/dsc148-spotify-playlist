@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Joefes
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,527 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,533 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AMNESIA](https://open.spotify.com/track/041wy0S6SixlgqgOVe95na) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [AMNESIA](https://open.spotify.com/album/5Mtv1pGRGUIEf7HNSoGZS1) | 3:16 |
 | 2 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadagliz](https://open.spotify.com/artist/09anIildhJurE3DtSp8WLn) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 |
 | 3 | [KINARE](https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [mtap3li](https://open.spotify.com/artist/5u7wv4T187JbZSulLdVMYJ) | [KINARE](https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4) | 2:34 |
-| 4 | [Gido](https://open.spotify.com/track/7ugJ1E1TbPb3OOwbOypa9A) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Gido](https://open.spotify.com/album/4z0sIvGqu6rFPpuW8ankGw) | 4:27 |
+| 4 | [Gido](https://open.spotify.com/track/7ugJ1E1TbPb3OOwbOypa9A) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Thao](https://open.spotify.com/artist/4KL9hLRxEQi3RgKmqLTFeo) | [Gido](https://open.spotify.com/album/4z0sIvGqu6rFPpuW8ankGw) | 4:27 |
 | 5 | [Nishikilie](https://open.spotify.com/track/6bCeiV2GWc0fDdmnq0gyUq) | [MAD STUDIOS](https://open.spotify.com/artist/3welbUcqozo17QNdR2bixZ), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [King Rizz](https://open.spotify.com/artist/2IUCxGSdBmNaEzkwflFefU), [Sahtivah](https://open.spotify.com/artist/3hlaeuKpWcSKJI7ZkbO2nA) | [Nishikilie](https://open.spotify.com/album/0g9Mi3NjW6M1CYh9Dzhp7r) | 3:35 |
 | 6 | [Pretty Girls Twerk](https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Pretty Girls Twerk](https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO) | 2:19 |
 | 7 | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [BUBBLY BUBBLY \(na niki\)](https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh) | 2:46 |

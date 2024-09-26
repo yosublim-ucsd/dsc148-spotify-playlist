@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,421 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,453 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 |
 | 2 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 |
-| 3 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/0tQzTbOpoBKj3Y35csIzkf) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |
+| 3 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 |
 | 4 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 5 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
 | 6 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 |

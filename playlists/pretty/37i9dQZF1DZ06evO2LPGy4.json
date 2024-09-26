@@ -1,12 +1,12 @@
 {
-  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 439711,
+  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
+  "num_followers": 439773,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvCvgAAAAAAwGRkweW+ZAz+NFzTE/75/",
+  "snapshot_id": "ZvIBAAAAAAAViw9N9q8fEk9pFCSQIoBW",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Tal Como Eres",
+        "url": "https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa"
       },
       "artists": [
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 131853,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
+      "duration_ms": 230802,
+      "name": "Tal Como Eres",
+      "url": "https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tal Como Eres",
-        "url": "https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa"
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 230802,
-      "name": "Tal Como Eres",
-      "url": "https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg"
+      "duration_ms": 131853,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
-  "num_followers": 42901,
+  "num_followers": 42925,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Numero zero ep",
-        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+        "name": "Sedicinoni",
+        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
       "artists": [
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
         },
         {
-          "name": "Biggie Paul",
-          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
         },
         {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
         }
       ],
-      "duration_ms": 160574,
-      "name": "Lasciami solo",
-      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
+      "duration_ms": 176470,
+      "name": "Quadrato (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -871,6 +871,30 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Numero zero ep",
+        "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Biggie Paul",
+          "url": "https://open.spotify.com/artist/1OyAhAPFH8Z4bIJewzy3mE"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 160574,
+      "name": "Lasciami solo",
+      "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Sedicinoni",
-        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
-      },
-      "artists": [
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Quadrato (feat. Massimo Pericolo)",
-      "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Magico (RMX)",
         "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
       },
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
       "artists": [
         {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Neffa E I Messaggeri Della Dopa - Remastered 2021",
         "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 311960,
       "name": "Aspettando Il Sole - Remastered 2021",
       "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "CAPITAN PRESENTE",
-        "url": "https://open.spotify.com/album/0c8OB9DN5l6b7uw6eNMtMd"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 120746,
-      "name": "CAPITAN PRESENTE",
-      "url": "https://open.spotify.com/track/1HUfGuLTRF56qn8EZHQ6j0"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 201818,
       "name": "Portami lontano",
       "url": "https://open.spotify.com/track/1iWumdzVHTdebdSLqhIh02"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "CAPITAN PRESENTE",
+        "url": "https://open.spotify.com/album/0c8OB9DN5l6b7uw6eNMtMd"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 120746,
+      "name": "CAPITAN PRESENTE",
+      "url": "https://open.spotify.com/track/1HUfGuLTRF56qn8EZHQ6j0"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Chico Pisco",
-        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "L'Incognita",
-      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 251187,
       "name": "Lo straniero",
       "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Chico Pisco",
+        "url": "https://open.spotify.com/album/1jrbZu9ir8N5jydnX9hURa"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "L'Incognita",
+      "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1563,6 +1563,30 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Sedicinoni",
+        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
+      },
+      "artists": [
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 211930,
+      "name": "Funema (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Di vizi di forma virt\u00f9",
         "url": "https://open.spotify.com/album/1nL50vpMlnJ4cjKzufjslp"
       },
@@ -1599,30 +1623,6 @@
       "duration_ms": 176470,
       "name": "Neurodeliri 2024",
       "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Sedicinoni",
-        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
-      },
-      "artists": [
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 211930,
-      "name": "Funema (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Rosso Fuoco",
-        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "Brava Gente",
-          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Rosso Fuoco",
-      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -1843,6 +1819,66 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Rosso Fuoco",
+        "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Rosso Fuoco",
+      "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+      },
+      "artists": [
+        {
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Prima che sfaso",
         "url": "https://open.spotify.com/album/4gFaHLGVGSvGMuezPz6BlS"
       },
@@ -1867,42 +1903,6 @@
       "duration_ms": 151409,
       "name": "Prima che sfaso",
       "url": "https://open.spotify.com/track/591GgFJ87VKpYRnsdKtNn4"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
-      },
-      "artists": [
-        {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Manchi solo tu",
-        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Gruff",
-          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Manchi solo tu",
-      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1975,6 +1959,42 @@
       "duration_ms": 185893,
       "name": "Sapori e sostanza",
       "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Manchi solo tu",
+        "url": "https://open.spotify.com/album/4CxE3NYwqmUVXec7Ve35SZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Gruff",
+          "url": "https://open.spotify.com/artist/6CaMYv7NbgNHh8npP6rzdi"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Manchi solo tu",
+      "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -2007,26 +2027,6 @@
       "duration_ms": 280000,
       "name": "Svegliarsi a Roma",
       "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "John princekin 2",
-        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
-      },
-      "artists": [
-        {
-          "name": "XVI Religion",
-          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
-        }
-      ],
-      "duration_ms": 357262,
-      "name": "Una svastica sul sole",
-      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "John princekin 2",
+        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
+      },
+      "artists": [
+        {
+          "name": "XVI Religion",
+          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
+        }
+      ],
+      "duration_ms": 357262,
+      "name": "Una svastica sul sole",
+      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -2663,26 +2663,6 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
-        "name": "Zaffiro",
-        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Zaffiro",
-      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
         "name": "Un giardino",
         "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
       },
@@ -2699,6 +2679,26 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
+        "name": "Zaffiro",
+        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Zaffiro",
+      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
     },
     {
       "added_at": "2024-09-12 22:01:00",
@@ -2767,6 +2767,22 @@
     {
       "added_at": "2024-09-12 22:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "added_at": "2024-09-12 22:01:00",
+      "album": {
         "name": "Milano Monster",
         "url": "https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20"
       },
@@ -2783,22 +2799,6 @@
       "duration_ms": 185522,
       "name": "Milano Monster",
       "url": "https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe"
-    },
-    {
-      "added_at": "2024-09-12 22:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2024-09-12 22:01:00",

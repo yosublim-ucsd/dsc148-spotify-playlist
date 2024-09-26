@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "PERLA",
+        "url": "https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        }
+      ],
+      "date_added": "2024-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142168,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD"
+    },
+    {
+      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs"
       },
