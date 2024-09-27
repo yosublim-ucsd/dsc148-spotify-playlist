@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: VOLA, Anders Friden
 
-173 songs - 15 hr 42 min
+174 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Connected](https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [All Connected](https://open.spotify.com/album/4x1JU4RdcDd1GLyrXXUoid) | 9:03 | 2024-09-08 |  |
 | [All of a Sudden, You're Gone](https://open.spotify.com/track/4PgWfDa2qogMzEqwOzzq5q) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [All of a Sudden, You're Gone](https://open.spotify.com/album/5VbUia8LpeD0U3kayUNBT4) | 7:12 | 2022-05-20 |  |
 | [All the Rage](https://open.spotify.com/track/3zpcjUIikRrHP3uz6E2tNf) | [Neal Morse](https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq) | [All the Rage](https://open.spotify.com/album/05RRKpehX1NxHo2ncDSEtm) | 5:34 | 2024-09-19 |  |
+| [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-19 |  |
 | [Alpha Howl](https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Alpha Howl](https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU) | 3:54 | 2022-05-20 | 2024-09-07 |
 | [Am I Right](https://open.spotify.com/track/7n32ylRI401lWA9M8GjQ0L) | [James Labrie](https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n) | [Am I Right](https://open.spotify.com/album/0FMv7NXQ1QnQNBHUoePAOV) | 5:52 | 2022-05-20 |  |
 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 | 2022-05-20 | 2024-09-07 |

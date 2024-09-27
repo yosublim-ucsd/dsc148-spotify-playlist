@@ -4,7 +4,7 @@
 
 > New music from Future, Lil Tecca and GloRilla.
 
-2,163 songs - 4 day 16 hr 15 min
+2,164 songs - 4 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2013,6 +2013,7 @@
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-01-28 | 2022-02-12 |
 | [Viral Moment](https://open.spotify.com/track/2vuIvaMhGOFI6f1G1sTMye) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Viral Moment](https://open.spotify.com/album/111wy5iF0AxDYV7gU4BlLr) | 3:12 | 2020-05-01 | 2020-05-15 |
 | [Virgil Discount](https://open.spotify.com/track/5jiJXFYMQpBfPr4N1Z46oI) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [Virgil Discount](https://open.spotify.com/album/6JHNpgAAcUMfwCDfgFgKpk) | 2:18 | 2020-01-10 | 2020-01-17 |
+| [Vivrant Thing](https://open.spotify.com/track/31KK3pcPclmIt087tPuwMr) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Violator: The Album](https://open.spotify.com/album/0SMuCLCvkgY9pcoJPVwJwn) | 3:10 | 2024-09-26 |  |
 | [Voice of the Heroes](https://open.spotify.com/track/7eO7rOwH5qVD3UWpO97qTI) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Voice of the Heroes](https://open.spotify.com/album/51ZY11T6ocVgYj7BkgmXv3) | 3:29 | 2021-06-02 | 2021-06-26 |
 | [Vossi Bop](https://open.spotify.com/track/44ZJ4hLD5onikKsVLQaILr) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Vossi Bop](https://open.spotify.com/album/1feZ7dUgDquoQRddxlI5BH) | 3:16 | 2019-05-26\* | 2019-06-15 |
 | [Vroom Vroom](https://open.spotify.com/track/4adrh1YMaPAhtqalhG8hIH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Trap Manny](https://open.spotify.com/artist/0SNzlwOGBLhCMZPN2ZKzna) | [Vroom Vroom](https://open.spotify.com/album/00qyYZFYwkyK3StN7wjpLt) | 2:37 | 2020-09-04 | 2020-09-18 |

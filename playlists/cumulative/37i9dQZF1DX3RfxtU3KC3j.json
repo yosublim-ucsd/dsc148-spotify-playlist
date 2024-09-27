@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Pinhani",
+  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Dolu Kadehi Ters Tut",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211264,
       "name": "Ahu G\u00f6zl\u00fcm",
       "url": "https://open.spotify.com/track/5XKA8HR1B7XDDGKzgwRqII"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Biliyorsun",
+        "url": "https://open.spotify.com/album/1vstdK2thDKrgToZO3IBOb"
+      },
+      "artists": [
+        {
+          "name": "Redd",
+          "url": "https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229071,
+      "name": "Biliyorsun",
+      "url": "https://open.spotify.com/track/5qdtL7xVn7V7AoxhMjM1R2"
+    },
+    {
+      "album": {
         "name": "Bunca Y\u0131l (Dedub Sessions)",
         "url": "https://open.spotify.com/album/6oEMdYmN0PQXVlr058Jdp5"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 234958,
       "name": "Deniza\u015f\u0131r\u0131",
       "url": "https://open.spotify.com/track/5XXcl5Fvjoa37WFuzlr3rx"
@@ -392,6 +410,42 @@
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
+    },
+    {
+      "album": {
+        "name": "Duramam Anla Beni",
+        "url": "https://open.spotify.com/album/6KmFM3n7Y6WxDpniarW9Ww"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159654,
+      "name": "Duramam Anla Beni",
+      "url": "https://open.spotify.com/track/0uZhzclEZVtHiQvocnInSa"
+    },
+    {
+      "album": {
+        "name": "Durdurulmaz",
+        "url": "https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh"
+      },
+      "artists": [
+        {
+          "name": "Belki Biraz",
+          "url": "https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Durdurulmaz",
+      "url": "https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8"
     },
     {
       "album": {
@@ -496,7 +550,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 269416,
       "name": "Evdekiler",
       "url": "https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO"
@@ -868,6 +922,24 @@
       "duration_ms": 260083,
       "name": "\u0130nziva",
       "url": "https://open.spotify.com/track/6xdWnfLHKxhJQYaZn21I21"
+    },
+    {
+      "album": {
+        "name": "\u0130sterdim",
+        "url": "https://open.spotify.com/album/3aS3RbXZLL1z31PbHWdAx4"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f6rt",
+          "url": "https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247480,
+      "name": "\u0130sterdim",
+      "url": "https://open.spotify.com/track/4PAevN9C1nzkWcmXLNWb37"
     },
     {
       "album": {
@@ -1366,7 +1438,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 187328,
       "name": "Sar\u0131lm\u0131\u015fs\u0131n Kendine",
       "url": "https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z"
@@ -1572,6 +1644,24 @@
       "duration_ms": 203999,
       "name": "S\u00f6yle Sevgilim",
       "url": "https://open.spotify.com/track/0f590ou0JkmPoMR5cdVu6C"
+    },
+    {
+      "album": {
+        "name": "S\u00fcr\u00fcn\u00fcr Giderim",
+        "url": "https://open.spotify.com/album/4q7pRZ8bJRt87VfFm73IFU"
+      },
+      "artists": [
+        {
+          "name": "Ba\u011fz\u0131lar\u0131",
+          "url": "https://open.spotify.com/artist/2WEI5FlFf3Zc5rOKTTLOJe"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "S\u00fcr\u00fcn\u00fcr Giderim",
+      "url": "https://open.spotify.com/track/7KBWzny1zTW6qdUa3UNUgS"
     },
     {
       "album": {
@@ -1785,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Yan Yana",
+        "url": "https://open.spotify.com/album/2tnTRemM6fjtrXBTaJ3oW9"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Yan Yana",
+      "url": "https://open.spotify.com/track/0ZVotcIlHLgZnDEWRiaYT1"
+    },
+    {
+      "album": {
         "name": "Yan\u0131nda Uyansam",
         "url": "https://open.spotify.com/album/7N2Q13DoGzlFKDtCkjRB7g"
       },
@@ -1872,7 +1980,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 183913,
       "name": "Yaz \u015eark\u0131s\u0131",
       "url": "https://open.spotify.com/track/1oXMrxAVnXhqTpqOXU8hC0"
@@ -2038,7 +2146,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 181554,
       "name": "\u00d6lene Dek",
       "url": "https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv"

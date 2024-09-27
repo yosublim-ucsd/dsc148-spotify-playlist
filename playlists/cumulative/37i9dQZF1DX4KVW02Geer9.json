@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 162767,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b"
@@ -1811,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
+    },
+    {
+      "album": {
         "name": "No Rulebook",
         "url": "https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL"
       },
@@ -2077,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/7vG8PwEHf0uwf6ImQttrKn"
+      },
+      "artists": [
+        {
+          "name": "Ryozo Band",
+          "url": "https://open.spotify.com/artist/0SAQKUQfA2JpZZwvO1rG0I"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276578,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/38dx4drapaEa5PL5KR8cpS"
+    },
+    {
+      "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00"
       },
@@ -2267,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Speak In The Dark",
+        "url": "https://open.spotify.com/album/0b13zZwIhnVC4ODUZh5ilo"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Speak In The Dark",
+      "url": "https://open.spotify.com/track/37pcSLdJ9GW4E0LN7B998Z"
+    },
+    {
+      "album": {
         "name": "Streets Is Calling (feat. Moonchild Sanelly & M.anifest)",
         "url": "https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL"
       },
@@ -2286,7 +2344,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 152854,
       "name": "Streets is Calling (feat. M.anifest & Moonchild Sanelly) - Single Edit",
       "url": "https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF"
@@ -2413,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Tranxit",
+        "url": "https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339933,
+      "name": "Tranxit",
+      "url": "https://open.spotify.com/track/3J27GbmvtUh7fVmVFTH0oN"
+    },
+    {
+      "album": {
         "name": "GJRS 20th",
         "url": "https://open.spotify.com/album/7mVaflonFonc6bo48dtmUt"
       },
@@ -2428,7 +2508,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 378103,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/1vfTXDECfv8nJKJN87DGZX"
@@ -2534,6 +2614,28 @@
       "duration_ms": 432493,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98"
+    },
+    {
+      "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
       "album": {
@@ -2652,7 +2754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"

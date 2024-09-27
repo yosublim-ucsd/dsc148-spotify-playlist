@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,965 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,042 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 53 | [Candy](https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Daylight Express](https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN) | 2:25 |
 | 54 | [Squeaky's Blues](https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A), [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Oscar Peterson Trio Plus One](https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp) | 3:28 |
 | 55 | [Organ Grinder](https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Woody III](https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7) | 5:31 |
-| 56 | [A Night In Tunisia \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw) | 9:20 |
-| 57 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
+| 56 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
+| 57 | [A Night In Tunisia \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw) | 9:20 |
 | 58 | [All Or Nothing At All \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 5:36 |
 | 59 | [Ande \- Digitally Remastered](https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith](https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY) | 6:41 |
 | 60 | [Witchcraft \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 8:29 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 63 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
 | 64 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |
 | 65 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
-| 66 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 |
-| 67 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
+| 66 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
+| 67 | [Well You Needn't](https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Volume 2 \(Vol\. 2\)](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 5:22 |
 | 68 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 69 | [You're Getting to Be a Habit with Me](https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7) | [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Wonder Why](https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp) | 6:52 |
 | 70 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |

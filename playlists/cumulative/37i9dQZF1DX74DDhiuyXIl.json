@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "\u5168\u90fd\u770b\u5f97\u898b",
+        "url": "https://open.spotify.com/album/6BHeE3wo3YI2lwUtPFEJju"
+      },
+      "artists": [
+        {
+          "name": "R-chord",
+          "url": "https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208548,
+      "name": "\u5168\u90fd\u770b\u5f97\u898b",
+      "url": "https://open.spotify.com/track/1OdKuGhQLcixp5LqqFQXU8"
+    },
+    {
+      "album": {
         "name": "\u517d",
         "url": "https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW"
       },
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211420,
       "name": "\u56e0\u70ba\u662f\u4f60 - \u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7"
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 249620,
       "name": "\u5728\u7231\u91cc\u6ca1\u6709\u6e05\u9192",
       "url": "https://open.spotify.com/track/2LnXAFPadnofJ6xUcbxe9E"
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 209247,
       "name": "\u59a5\u534f",
       "url": "https://open.spotify.com/track/0FduRtdtCZwAlQdmEjcEiU"
@@ -4256,6 +4274,24 @@
       "duration_ms": 278921,
       "name": "\u5e78\u798f\u8fd8\u597d - Chinese",
       "url": "https://open.spotify.com/track/5c3dkrfYLdmTIY3ZQxVYbO"
+    },
+    {
+      "album": {
+        "name": "\u5f26\u4e0a\u751f\u82b1",
+        "url": "https://open.spotify.com/album/1gtTAGedjEJbJX9Gzjcn23"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u9704\u96f2",
+          "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292765,
+      "name": "\u5f26\u4e0a\u751f\u82b1",
+      "url": "https://open.spotify.com/track/2vNZ6cI6U6Yl3DC6YvJvNV"
     },
     {
       "album": {
@@ -4681,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u5728\u7b49\u5f85",
+        "url": "https://open.spotify.com/album/5wij2CitZuPtVEjQvlVB2a"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200217,
+      "name": "\u611b\u5728\u7b49\u5f85",
+      "url": "https://open.spotify.com/track/2tbzND7MpXykGR93KhEbYx"
+    },
+    {
+      "album": {
         "name": "\u947d\u77f3\u4e4b\u5fc3",
         "url": "https://open.spotify.com/album/4V3BujU9IA6TEuQXV39nis"
       },
@@ -5047,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u554f",
+        "url": "https://open.spotify.com/album/53D3VAm1qLTPnfov8zR5ov"
+      },
+      "artists": [
+        {
+          "name": "Steve Chou",
+          "url": "https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249850,
+      "name": "\u6211\u554f",
+      "url": "https://open.spotify.com/track/4YIRqytwjxkIJaIR41Gw88"
+    },
+    {
+      "album": {
         "name": "\u6211\u5922\u5bd0\u4ee5\u6c42\u966a\u59b3\u5230\u6700\u5f8c",
         "url": "https://open.spotify.com/album/3VIwyrmnj8eE1fp86QOEyn"
       },
@@ -5076,7 +5148,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 272632,
       "name": "\u6211\u597d\u60f3\u73fe\u5728\u5c31\u628a\u4f60\u5fd8\u4e86",
       "url": "https://open.spotify.com/track/4EUzq5ULVZEmA5Bo1Zt2km"
@@ -5978,7 +6050,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 271823,
       "name": "\u660e\u5929\u6211\u5728\u4f60\u8eab\u908a (\u96fb\u5f71\u300a\u5371\u6a5f\u822a\u7dda\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq"
@@ -8049,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "\u8a72\u8d70\u5c31\u8d70",
+        "url": "https://open.spotify.com/album/3hcLTj2HACwY0NWDAdddWm"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255480,
+      "name": "\u8a72\u8d70\u5c31\u8d70",
+      "url": "https://open.spotify.com/track/0Uaspk45noTdnJ3LUFOtjD"
+    },
+    {
+      "album": {
         "name": "\u8a8d\u611b",
         "url": "https://open.spotify.com/album/0fvwfM52fLbB0XLtXJT8Hf"
       },
@@ -8226,7 +8316,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 261066,
       "name": "\u8d70\u5fc3\u7684\u6b4c",
       "url": "https://open.spotify.com/track/435ZECJJlGHUzKbOhLbBDW"
@@ -9040,7 +9130,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 292907,
       "name": "\u9752\u6625\u8981\u7528\u5e7e\u884c\u8a69\u4f86\u5beb (\u96fb\u8996\u5287\u300a\u984f\u5fc3\u8a18\u300b\u63a8\u5ee3\u66f2)",
       "url": "https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP"

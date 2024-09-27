@@ -2,7 +2,7 @@
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
 145 songs - 6 hr 22 min
 

@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 295039,
       "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
       "url": "https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO"
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Hoang Vu",
+        "url": "https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e1i Ch\u00e2u",
+          "url": "https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373761,
+      "name": "Hai Vi Sao Lac",
+      "url": "https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2"
+    },
+    {
+      "album": {
         "name": "Hoa S\u1ee9 Nh\u00e0 N\u00e0ng",
         "url": "https://open.spotify.com/album/5yqR0lOWsbgXwzRAyIPXVv"
       },
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 265356,
       "name": "Hoa Su Nha Nang",
       "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 351107,
       "name": "Li\u00ean kh\u00fac m\u1ed9t ng\u01b0\u1eddi \u0111i",
       "url": "https://open.spotify.com/track/7BWg96oxD6NXPapc9YPfv1"

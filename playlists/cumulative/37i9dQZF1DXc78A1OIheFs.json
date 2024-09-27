@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: BENEE",
+  "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 201700,
       "name": "Ain't Just Dreaming",
       "url": "https://open.spotify.com/track/5Oj6jg9NrV8dYlXDNB6Uu5"
+    },
+    {
+      "album": {
+        "name": "AKLGirls",
+        "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
+      },
+      "artists": [
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259625,
+      "name": "AKLGirls",
+      "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
     },
     {
       "album": {
@@ -955,6 +973,42 @@
     },
     {
       "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/6mKaHSnyautSaaiYsFKEpc"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167911,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/3RoWTD2S5NNKlIP6gd6ipV"
+    },
+    {
+      "album": {
+        "name": "Follow - Edit",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/18zkpvInzvgLrQ7QxqSD7m"
       },
@@ -1693,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221884,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY"
+    },
+    {
+      "album": {
         "name": "Losing",
         "url": "https://open.spotify.com/album/7aR7IeEPn91t2yWXsN6XiW"
       },
@@ -1802,6 +1874,24 @@
       "duration_ms": 188456,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ"
+    },
+    {
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/06yILDavdcbbvqqELnMOYX"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195914,
+      "name": "Love No Other",
+      "url": "https://open.spotify.com/track/6YO8Co43WvQ3ziqqfvdBmc"
     },
     {
       "album": {
@@ -2214,6 +2304,24 @@
       "duration_ms": 179360,
       "name": "Oh Hi",
       "url": "https://open.spotify.com/track/6s4moU8cfNSqwJaKdQ6HSn"
+    },
+    {
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "album": {
@@ -2721,6 +2829,28 @@
     },
     {
       "album": {
+        "name": "Idols & Vices (Vol. 1)",
+        "url": "https://open.spotify.com/album/3ZRStuZuROwZNNpkEYAjDy"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Taylor Graves",
+          "url": "https://open.spotify.com/artist/4bGuGkRbnGtihUtYz0MN3n"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Stay Strong",
+      "url": "https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD"
+    },
+    {
+      "album": {
         "name": "Want You Back",
         "url": "https://open.spotify.com/album/1umHmNKwp7GZlMz7aQrRhX"
       },
@@ -3154,6 +3284,24 @@
       "duration_ms": 136000,
       "name": "Waiho I te Toipoto",
       "url": "https://open.spotify.com/track/6mJIPmsIYoTtaKH3fL7Ccb"
+    },
+    {
+      "album": {
+        "name": "On The Line",
+        "url": "https://open.spotify.com/album/4i9ArJAurWT1h0b2qEfC2P"
+      },
+      "artists": [
+        {
+          "name": "Wet Denim",
+          "url": "https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Want You Here",
+      "url": "https://open.spotify.com/track/3VFR3r7wW9Fcc8Bqt7Zbpa"
     },
     {
       "album": {

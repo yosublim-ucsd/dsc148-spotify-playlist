@@ -1952,6 +1952,24 @@
     {
       "album": {
         "name": "Why Did We Say Forever",
+        "url": "https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs"
+      },
+      "artists": [
+        {
+          "name": "Someone Else's Rain",
+          "url": "https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "Why Did We Say Forever",
+      "url": "https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6"
+    },
+    {
+      "album": {
+        "name": "Why Did We Say Forever",
         "url": "https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07"
       },
       "artists": [
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 190702,
       "name": "Why Did We Say Forever",
       "url": "https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY"

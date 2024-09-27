@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: NIMSAY",
+  "description": "Il meglio dell'R&B italiano. Cover: Bianelle",
   "name": "anima R&B",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 132941,
       "name": "5 minuti",
       "url": "https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S"
+    },
+    {
+      "album": {
+        "name": "6%",
+        "url": "https://open.spotify.com/album/6X1zydcBY3rnisOJ0B9JVF"
+      },
+      "artists": [
+        {
+          "name": "LUCE",
+          "url": "https://open.spotify.com/artist/2HEF24Jhvzl9XQiFQJNLqn"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "6%",
+      "url": "https://open.spotify.com/track/5MRI3BGhqnb00pRLiVPGS6"
     },
     {
       "album": {
@@ -670,6 +688,24 @@
       "duration_ms": 150544,
       "name": "Aria",
       "url": "https://open.spotify.com/track/4aEY4G8jePkzQL3r0KNgsq"
+    },
+    {
+      "album": {
+        "name": "ARIA",
+        "url": "https://open.spotify.com/album/5gFfTGPKf8AfnAba31Drhj"
+      },
+      "artists": [
+        {
+          "name": "Ludia Venus",
+          "url": "https://open.spotify.com/artist/7zYug21enFuajJ8DS6tp6r"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186982,
+      "name": "ARIA",
+      "url": "https://open.spotify.com/track/423yAZqzAQvHCidKPiBhkE"
     },
     {
       "album": {
@@ -2778,7 +2814,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 181844,
       "name": "Demone",
       "url": "https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8"
@@ -3440,6 +3476,32 @@
       "duration_ms": 147214,
       "name": "FACE",
       "url": "https://open.spotify.com/track/4F2kVTCr769etEgD8uvmeh"
+    },
+    {
+      "album": {
+        "name": "FAI L'UOMO (feat. Mondo Marcio)",
+        "url": "https://open.spotify.com/album/3RnfH34u4stBu0eYKCFGMd"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Yazee",
+          "url": "https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164911,
+      "name": "FAI L'UOMO (feat. Mondo Marcio)",
+      "url": "https://open.spotify.com/track/5TjFfUhKdmUVGUfKUq4FIs"
     },
     {
       "album": {
@@ -4878,7 +4940,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 236307,
       "name": "Iliade",
       "url": "https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6"
@@ -5744,7 +5806,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 184335,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/0bdxj3vPcLLJogNUw4pDhp"
@@ -6728,7 +6790,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 182000,
       "name": "mezzanotte A24",
       "url": "https://open.spotify.com/track/2wuvprsp3TSM3XE7r4R4Hk"
@@ -7152,7 +7214,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 214766,
       "name": "Nel Vortice",
       "url": "https://open.spotify.com/track/3Gy88h0xErGucDUTBOyV31"
@@ -7422,6 +7484,24 @@
       "duration_ms": 167000,
       "name": "Noia",
       "url": "https://open.spotify.com/track/2IPh5TOBaceM7zN0tgyfIi"
+    },
+    {
+      "album": {
+        "name": "Non c'\u00e8 mai un per sempre",
+        "url": "https://open.spotify.com/album/4W9KCdnhl9CZiiWOjWm4QC"
+      },
+      "artists": [
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/2eLx8jWFI7STB9AUrpQnpm"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Non c'\u00e8 mai un per sempre",
+      "url": "https://open.spotify.com/track/1SVRjIVG0yb7AEBW7TV149"
     },
     {
       "album": {
@@ -7925,6 +8005,24 @@
     },
     {
       "album": {
+        "name": "Nuova Forma",
+        "url": "https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199365,
+      "name": "Nuova Forma",
+      "url": "https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH"
+    },
+    {
+      "album": {
         "name": "Nuvola",
         "url": "https://open.spotify.com/album/3dx4TZdU1MwdBPs3FTRrzS"
       },
@@ -8114,7 +8212,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 123830,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
@@ -8553,6 +8651,24 @@
     },
     {
       "album": {
+        "name": "Per Me Sei...",
+        "url": "https://open.spotify.com/album/0jOh1KV4HkNY8gJg5k59bz"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171951,
+      "name": "Per Me Sei...",
+      "url": "https://open.spotify.com/track/1Fw0XBUTmJX0c3Knq6YmnM"
+    },
+    {
+      "album": {
         "name": "Perdermi",
         "url": "https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1"
       },
@@ -8586,6 +8702,24 @@
       "duration_ms": 176003,
       "name": "Perdo Tempo",
       "url": "https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM"
+    },
+    {
+      "album": {
+        "name": "Perdonarci",
+        "url": "https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb"
+      },
+      "artists": [
+        {
+          "name": "Bianelle",
+          "url": "https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Perdonarci",
+      "url": "https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I"
     },
     {
       "album": {
@@ -10064,7 +10198,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 159000,
       "name": "Semplicemente (Nun Fa Accuss\u00ec)",
       "url": "https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR"
@@ -10818,7 +10952,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166601,
       "name": "SPUNTA BLU",
       "url": "https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4"
@@ -11448,6 +11582,28 @@
       "duration_ms": 155948,
       "name": "Threeway",
       "url": "https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS"
+    },
+    {
+      "album": {
+        "name": "TOP GYAL",
+        "url": "https://open.spotify.com/album/1mymmgR4MoWJ4pmTZKFEO5"
+      },
+      "artists": [
+        {
+          "name": "Gojardi",
+          "url": "https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk"
+        },
+        {
+          "name": "Benrucito",
+          "url": "https://open.spotify.com/artist/5vBDtof4eJRulrgOisBuqn"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "TOP GYAL",
+      "url": "https://open.spotify.com/track/5DKYhoSd9ORUFLIlc7yi04"
     },
     {
       "album": {
@@ -12388,7 +12544,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166680,
       "name": "VIVO!",
       "url": "https://open.spotify.com/track/2NX0FgRvkxumI1oUasjDNg"

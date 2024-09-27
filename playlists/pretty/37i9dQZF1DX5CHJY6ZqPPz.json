@@ -1,13 +1,109 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 208350,
+  "num_followers": 208568,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoy6QgAAAADW0Gmd/wkd4AZpSbyUB7ZO",
+  "snapshot_id": "ZvYaAQAAAAAFN6kyNw2rMUbgvaBsZuxw",
   "tracks": [
+    {
+      "added_at": "2024-09-27 02:35:45",
+      "album": {
+        "name": "We Go - English Version",
+        "url": "https://open.spotify.com/album/6HmUGM55FYKtA0jm3lgyFW"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 189315,
+      "name": "We Go - English Version",
+      "url": "https://open.spotify.com/track/20kWpXaYo8igmrdwwy8OSE"
+    },
+    {
+      "added_at": "2024-09-27 02:35:45",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 227677,
+      "name": "Supernova - Grimes Remix",
+      "url": "https://open.spotify.com/track/21HriDvqeoSKkZxbM5mVTw"
+    },
+    {
+      "added_at": "2024-09-27 02:35:45",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 247641,
+      "name": "Armageddon - Flava D Remix",
+      "url": "https://open.spotify.com/track/6ZSUXDASDxfude4QKF7fqp"
+    },
+    {
+      "added_at": "2024-09-27 02:35:45",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Armageddon - 2Spade Remix",
+      "url": "https://open.spotify.com/track/6yeafctTvo9al34RfVpT3e"
+    },
+    {
+      "added_at": "2024-09-27 02:35:45",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Armageddon - Mount XLR Remix",
+      "url": "https://open.spotify.com/track/4z58YfbLph7Z7l7DhkdctO"
+    },
     {
       "added_at": "2024-07-02 15:00:00",
       "album": {

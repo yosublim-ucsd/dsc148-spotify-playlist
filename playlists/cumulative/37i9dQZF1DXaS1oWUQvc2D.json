@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Close To You (Meera (NO) Remix)",
+        "url": "https://open.spotify.com/album/2JiDYxoDS7uopAESaih6Ov"
+      },
+      "artists": [
+        {
+          "name": "Samer Soltan",
+          "url": "https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX"
+        },
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505061,
+      "name": "Close To You - Meera (NO) Remix",
+      "url": "https://open.spotify.com/track/5FMGzGnrdaXUgLmo91orI1"
+    },
+    {
+      "album": {
         "name": "Common Ground",
         "url": "https://open.spotify.com/album/30WBFpJoG7wWyG071eRR4Q"
       },
@@ -366,6 +388,28 @@
       "duration_ms": 412729,
       "name": "Danger Street - TSOS Percussion Dub Remix",
       "url": "https://open.spotify.com/track/70YuSpqQmIg4XUzyjgJBkN"
+    },
+    {
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/3rTKkjdIhMUv1Gms7iiUeD"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Datpalmtree",
+          "url": "https://open.spotify.com/artist/4Rz21TFr6ZV5hE9pQfL00w"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446832,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/673hfv0HETHpwH3eAjR45O"
     },
     {
       "album": {
@@ -674,7 +718,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 475124,
       "name": "Huma Kusu - Melodic mix",
       "url": "https://open.spotify.com/track/5gaAbVnyetQmPvCrhmiYFo"
@@ -900,7 +944,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 385578,
       "name": "Lavadeira",
       "url": "https://open.spotify.com/track/6PBzTJG3i5rXEf1rvkhH14"
@@ -1201,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Rebel Moon: Songs of the Rebellion (Inspired by the Netflix Films)",
+        "url": "https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Djimon Hounsou",
+          "url": "https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353786,
+      "name": "Ode to Ancestors",
+      "url": "https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho"
+    },
+    {
+      "album": {
         "name": "One Man",
         "url": "https://open.spotify.com/album/3wjmJ6YkEwyTeTEUjKPRwX"
       },
@@ -1296,7 +1362,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
@@ -1615,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Tabasamu",
+        "url": "https://open.spotify.com/album/37Soooxn0Nnc2x2uRD0XDg"
+      },
+      "artists": [
+        {
+          "name": "Wilson Timba",
+          "url": "https://open.spotify.com/artist/4Ungk4rl9eaSggQIjhoxfH"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578000,
+      "name": "Tabasamu",
+      "url": "https://open.spotify.com/track/4mOkqM5oI8yy7XU5Hqwxuu"
+    },
+    {
+      "album": {
         "name": "Talkin' Drums",
         "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
       },
@@ -1804,7 +1892,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 371501,
       "name": "U Be Mine",
       "url": "https://open.spotify.com/track/61Fnb0tQStoCN4pmgOmSC4"

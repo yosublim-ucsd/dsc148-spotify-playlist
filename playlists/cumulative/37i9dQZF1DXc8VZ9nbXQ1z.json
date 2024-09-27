@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "ATMOS WAV I",
+        "url": "https://open.spotify.com/album/3VCSK74Ik0jGwmoclAfPRw"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "ATMOS WAV I",
+      "url": "https://open.spotify.com/track/4BVCaWBwdqQwa32OWzgi18"
+    },
+    {
+      "album": {
         "name": "Au Dede (Karyendasoul Remix)",
         "url": "https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi"
       },
@@ -1166,6 +1188,28 @@
       "duration_ms": 285517,
       "name": "Better",
       "url": "https://open.spotify.com/track/1YocXsMVwXfU97DohXUwR7"
+    },
+    {
+      "album": {
+        "name": "BILKUEY",
+        "url": "https://open.spotify.com/album/6o2bhjejLaZjO19M7uNC58"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "Nyamal Nyang",
+          "url": "https://open.spotify.com/artist/2nUvkwwkStnsjzkFNt1Yi9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425546,
+      "name": "BILKUEY",
+      "url": "https://open.spotify.com/track/2R6rrdIpHaXyacQ9Qmdwla"
     },
     {
       "album": {

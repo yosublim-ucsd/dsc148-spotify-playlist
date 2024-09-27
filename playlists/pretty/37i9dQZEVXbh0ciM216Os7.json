@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABJTDruaVJhLoygtu3SE8gu",
+  "snapshot_id": "AAAAAAAAAAC6WTPssqPVJmPy+Up0hpU+",
   "tracks": [
     {
       "added_at": "2024-09-20 04:00:00",
@@ -119,30 +119,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Big Body Bes",
-          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Minnesota Fats",
-      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/4eS73Hg94492QQ2aOS8QVe"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 274708,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/0FlJ0wxfgVZpZV15JKnRyK"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Big Body Bes",
+          "url": "https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Minnesota Fats",
+      "url": "https://open.spotify.com/track/1diTANBQIhHwNORci1og1n"
     },
     {
       "added_at": "2024-09-20 04:00:00",

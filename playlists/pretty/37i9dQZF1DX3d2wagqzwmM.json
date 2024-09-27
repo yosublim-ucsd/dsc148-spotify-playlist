@@ -1,15 +1,15 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 545953,
+  "num_followers": 546189,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAACniAwEYrJDPX44PI4xISVw",
+  "snapshot_id": "ZvXZYAAAAAABypW7S+YMg2DYlE6pB1Xr",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Follow The Light",
         "url": "https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Con Le Mani Al Cielo (feat. M\u00a5SS KETA)",
         "url": "https://open.spotify.com/album/4kLVrjJuBYE0ppqDusg3fm"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4Z7pfEOx6is8AIM2EVM3HL"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Dance All Night",
         "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
@@ -69,7 +69,51 @@
       "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/372Lqn7x6v8dgr7FlRt1jw"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/3swDfCpjVhQv2QIINxZXQI"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/1ChOyl3SuWRyWPQsqvEQJj"
@@ -85,47 +129,7 @@
       "url": "https://open.spotify.com/track/0cnSoVmeUWyNwUzbbYjbeI"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Day In Day Out",
-        "url": "https://open.spotify.com/album/4se3kTCYGDoCQiiaQRlt86"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Lady Leshurr",
-          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Day In Day Out",
-      "url": "https://open.spotify.com/track/73I2irWOxmbD8oyIeHbdmi"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Axel F",
         "url": "https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6"
@@ -145,7 +149,7 @@
       "url": "https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
@@ -165,7 +169,7 @@
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Raving",
         "url": "https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf"
@@ -185,7 +189,7 @@
       "url": "https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Fall Down",
         "url": "https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO"
@@ -205,27 +209,31 @@
       "url": "https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ritmo De La Noche (Vamos A La Playa)",
-        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
+        "name": "DIZZY",
+        "url": "https://open.spotify.com/album/0OKLtHtRMgVCYilRq4Rmny"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 171555,
-      "name": "Ritmo De La Noche (Vamos A La Playa)",
-      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
+      "duration_ms": 197391,
+      "name": "DIZZY",
+      "url": "https://open.spotify.com/track/4tad4xhOPGpdn75AR2AutJ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Welcome To The Weekend",
         "url": "https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9"
@@ -241,7 +249,7 @@
       "url": "https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
@@ -269,7 +277,63 @@
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Ritmo De La Noche (Vamos A La Playa)",
+        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Ritmo De La Noche (Vamos A La Playa)",
+      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Dieser Harte",
+        "url": "https://open.spotify.com/album/5XW0KjUlqspisaK6xZQq2h"
+      },
+      "artists": [
+        {
+          "name": "T A N E",
+          "url": "https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn"
+        },
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        }
+      ],
+      "duration_ms": 133764,
+      "name": "Dieser Harte",
+      "url": "https://open.spotify.com/track/6RqM6F2jq0nfaItdzIkpb6"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Song 2",
         "url": "https://open.spotify.com/album/4azfA0LZ09hbdlsH3BYwKF"
@@ -293,51 +357,7 @@
       "url": "https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Rock My Body (with SASH!) [W&W x R3HAB VIP Remix]",
-        "url": "https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Rock My Body (with Sash!) - W&W x R3HAB VIP Remix",
-      "url": "https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Meet Her At The Love Parade",
         "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
@@ -369,7 +389,67 @@
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Rock My Body (with SASH!) [W&W x R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Rock My Body (with Sash!) - W&W x R3HAB VIP Remix",
+      "url": "https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Viking's Call",
+        "url": "https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "duration_ms": 221531,
+      "name": "Viking's Call",
+      "url": "https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Open Sesame (Abracadabra) [feat. Leila K]",
         "url": "https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5"
@@ -389,7 +469,7 @@
       "url": "https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "All Around The World (La La La La La)",
         "url": "https://open.spotify.com/album/0Y8Eqjhf8X11esnBPRXpp7"
@@ -405,23 +485,7 @@
       "url": "https://open.spotify.com/track/6m4wKDh7iIqfgKRbrIPbz9"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Viking's Call",
-        "url": "https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu"
-      },
-      "artists": [
-        {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        }
-      ],
-      "duration_ms": 221531,
-      "name": "Viking's Call",
-      "url": "https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Destination Infinity (feat. Datura)",
         "url": "https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId"
@@ -441,7 +505,7 @@
       "url": "https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Deep In Your Love (Dimitri Vegas & Like Mike, Ben Nicky & Dr Phunk Remix)",
         "url": "https://open.spotify.com/album/2xWaZ911TiVgqY3Fu5IUfh"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/1CZVSkJAmXYKnWrQOcfnLi"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "ZENLESS",
         "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
@@ -501,7 +565,7 @@
       "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Open Your Eyes",
         "url": "https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK"
@@ -517,7 +581,7 @@
       "url": "https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Dance Therapy",
         "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
@@ -533,7 +597,7 @@
       "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "MONEY ON THE DASH - Armin van Buuren Remix",
         "url": "https://open.spotify.com/album/6iX8QGLkFvYsU48BkOStVP"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/4JikZDJOw5YICLoqTWn9pX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
@@ -577,7 +641,7 @@
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Biochemical",
         "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
@@ -597,7 +661,7 @@
       "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
@@ -621,47 +685,7 @@
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Rock Da House",
-        "url": "https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        }
-      ],
-      "duration_ms": 147967,
-      "name": "Rock Da House",
-      "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
-        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 219172,
-      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
-      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Run Free (Countdown)",
         "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
@@ -681,7 +705,47 @@
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Rock Da House",
+        "url": "https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "Rock Da House",
+      "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "This Is What It Feels Like (Armin van Buuren 2023 Remix)",
+        "url": "https://open.spotify.com/album/1PYA8Uh3CwoUSuXtMrHhBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 219172,
+      "name": "This Is What It Feels Like - Armin van Buuren 2023 Remix",
+      "url": "https://open.spotify.com/track/2PnJd0B9YdOPvo96av2xJK"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Control Your Body (Hardwell Edit)",
         "url": "https://open.spotify.com/album/1b9ghhDdxSBNCFnb8f1ccf"
@@ -705,7 +769,7 @@
       "url": "https://open.spotify.com/track/3P5lcXWneuYWRtRFreb4Mv"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Gonna Dance with Somebody",
         "url": "https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
@@ -753,7 +817,7 @@
       "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
@@ -777,27 +841,7 @@
       "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Love Takes Over",
-        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Love Takes Over",
-      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Insurgence",
         "url": "https://open.spotify.com/album/0Xpuaz86KmUDJGGwEHvMI6"
@@ -817,7 +861,27 @@
       "url": "https://open.spotify.com/track/23Aj3x8ZkrVs0gzNnz7qgU"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Love Takes Over",
+        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Love Takes Over",
+      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3cNKaccRDkhRatReoslOI0"
@@ -837,7 +901,7 @@
       "url": "https://open.spotify.com/track/1P2X1qOXTAUk11bfMXDL7h"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Meet Her (Ti\u00ebsto vs. Da Hool)",
         "url": "https://open.spotify.com/album/3FkgnEt5ecJiAGlFvPNZQT"
@@ -857,7 +921,7 @@
       "url": "https://open.spotify.com/track/2ObP6OLXWzrmdVvgIFjjc2"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "We Can't Stop",
         "url": "https://open.spotify.com/album/27LVMe5wMsHddairHoCux2"
@@ -881,7 +945,7 @@
       "url": "https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
@@ -901,7 +965,7 @@
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/3ocRwxucX3212g29vOg7je"
@@ -917,7 +981,7 @@
       "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Dance To The Beat (Pitchin')",
         "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
@@ -941,27 +1005,7 @@
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Adrenalina (Minha Gasolina)",
-        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "Adrenalina (Minha Gasolina)",
-      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "F#CK THE DJ",
         "url": "https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC"
@@ -977,7 +1021,31 @@
       "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Day In Day Out",
+        "url": "https://open.spotify.com/album/4se3kTCYGDoCQiiaQRlt86"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Day In Day Out",
+      "url": "https://open.spotify.com/track/73I2irWOxmbD8oyIeHbdmi"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq"
@@ -997,7 +1065,27 @@
       "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
@@ -1021,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Pyramid Rave / Feel The Energy",
         "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
@@ -1041,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Pull Me In",
         "url": "https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP"
@@ -1061,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Pump Up The Jam",
         "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
@@ -1081,55 +1169,7 @@
       "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Party With The Cops (feat. Haley Maze)",
-        "url": "https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        },
-        {
-          "name": "Haley Maze",
-          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Party With The Cops (feat. Haley Maze)",
-      "url": "https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
@@ -1153,7 +1193,55 @@
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Party With The Cops (feat. Haley Maze)",
+        "url": "https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Party With The Cops (feat. Haley Maze)",
+      "url": "https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Komodo",
         "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
@@ -1177,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Samba De Janeiro",
         "url": "https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M"
@@ -1201,7 +1289,7 @@
       "url": "https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Front To Back",
         "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
@@ -1221,7 +1309,7 @@
       "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Judgement Day",
         "url": "https://open.spotify.com/album/2i8Lfne8ZaZxEtp11MCTrc"
@@ -1241,7 +1329,7 @@
       "url": "https://open.spotify.com/track/3xW9EidN1zXYV7rPAYUNXd"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Cantus",
         "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
@@ -1257,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
@@ -1273,7 +1361,7 @@
       "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk"
@@ -1293,23 +1381,7 @@
       "url": "https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "JUMP AND RAVE",
-        "url": "https://open.spotify.com/album/6gO207P5ORSgyFxwoO2Foq"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        }
-      ],
-      "duration_ms": 138214,
-      "name": "JUMP AND RAVE",
-      "url": "https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Beautiful Life (Faustix RMX)",
         "url": "https://open.spotify.com/album/621d4r3IhIOtDRJZLEtKWh"
@@ -1329,7 +1401,7 @@
       "url": "https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo"
@@ -1345,7 +1417,23 @@
       "url": "https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "JUMP AND RAVE",
+        "url": "https://open.spotify.com/album/6gO207P5ORSgyFxwoO2Foq"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 138214,
+      "name": "JUMP AND RAVE",
+      "url": "https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Computers Take Over The World (Remixes)",
         "url": "https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J"
@@ -1365,7 +1453,7 @@
       "url": "https://open.spotify.com/track/1YvZAl9rv455hj64qOZmj5"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Tranceformation",
         "url": "https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL"
@@ -1381,7 +1469,7 @@
       "url": "https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/0MbZtjKTw7xjIFhyEWnW3l"
@@ -1405,7 +1493,7 @@
       "url": "https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Bass Down Low",
         "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
@@ -1421,7 +1509,7 @@
       "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
@@ -1437,7 +1525,7 @@
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Cannonball - Will Sparks Remix",
         "url": "https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8"
@@ -1461,7 +1549,7 @@
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Traffic Lights",
         "url": "https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB"
@@ -1481,79 +1569,7 @@
       "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tamara",
-        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
-      },
-      "artists": [
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 206068,
-      "name": "Tamara",
-      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Flight 643 (KAAZE Remix)",
-        "url": "https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 159777,
-      "name": "Flight 643 - KAAZE Remix",
-      "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Techno Syndrome (Mortal Kombat)",
-        "url": "https://open.spotify.com/album/3MxO966dKkJKwiAtymwjm7"
-      },
-      "artists": [
-        {
-          "name": "D-Devils",
-          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Techno Syndrome (Mortal Kombat)",
-      "url": "https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "You Like It Rough (feat. Lee McKing)",
-        "url": "https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Lee McKing",
-          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
-        }
-      ],
-      "duration_ms": 156338,
-      "name": "You Like It Rough (feat. Lee McKing)",
-      "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy"
@@ -1573,80 +1589,76 @@
       "url": "https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Bad Cop",
-        "url": "https://open.spotify.com/album/7wgqGkRiaGOuFue6eM03tj"
+        "name": "Tamara",
+        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
       },
       "artists": [
         {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
         }
       ],
-      "duration_ms": 140575,
-      "name": "Bad Cop",
-      "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+      "duration_ms": 206068,
+      "name": "Tamara",
+      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp"
+        "name": "Flight 643 (KAAZE Remix)",
+        "url": "https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV"
       },
       "artists": [
         {
-          "name": "NGD Project",
-          "url": "https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         },
         {
-          "name": "Steeper",
-          "url": "https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab"
+      "duration_ms": 159777,
+      "name": "Flight 643 - KAAZE Remix",
+      "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Lost In The Music",
-        "url": "https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr"
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "url": "https://open.spotify.com/album/3MxO966dKkJKwiAtymwjm7"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
         }
       ],
-      "duration_ms": 179045,
-      "name": "Lost In The Music",
-      "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
+      "duration_ms": 202421,
+      "name": "Techno Syndrome (Mortal Kombat)",
+      "url": "https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/3h5fxBPJ7aZHYvKpxYiR2Y"
+        "name": "You Like It Rough (feat. Lee McKing)",
+        "url": "https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         },
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Lee McKing",
+          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
         }
       ],
-      "duration_ms": 187111,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/0TqBVW2OXLf6UaNmBZtARL"
+      "duration_ms": 156338,
+      "name": "You Like It Rough (feat. Lee McKing)",
+      "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"
     }
   ],
   "unique_name": "Big Room Dance",

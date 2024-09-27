@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 75848,
+  "num_followers": 75879,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "Fade To Black",
         "url": "https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 226937,
       "name": "Fade To Black",
       "url": "https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+        "name": "Xtreme Audio (Official Thunderdome 2023 Anthem)",
+        "url": "https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG"
       },
       "artists": [
         {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
         }
       ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+      "duration_ms": 231063,
+      "name": "Xtreme Audio - Official Thunderdome 2023 Anthem",
+      "url": "https://open.spotify.com/track/6dSWJAPcVBn8TPrKqla5LA"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
         "name": "The Deadly Fist",
         "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 194710,
       "name": "The Deadly Fist",
       "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
-        "name": "Xtreme Audio (Official Thunderdome 2023 Anthem)",
-        "url": "https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 231063,
-      "name": "Xtreme Audio - Official Thunderdome 2023 Anthem",
-      "url": "https://open.spotify.com/track/6dSWJAPcVBn8TPrKqla5LA"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
-        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 273729,
-      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
-      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "Meteor",
         "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 159600,
       "name": "Shark Attack",
       "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Syndicate Of Noise (Official SYNDICATE 2023 Anthem)",
+        "url": "https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 273729,
+      "name": "Syndicate Of Noise - Official SYNDICATE 2023 Anthem",
+      "url": "https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1035,42 +1035,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/0MnAzPohStGYOnAODeo205"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 202575,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "DANCEFLOOR SLAYER",
         "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
@@ -1091,6 +1055,22 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 202575,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0MnAzPohStGYOnAODeo205"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT"
+        }
+      ],
+      "duration_ms": 170461,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
+        "name": "Mutilate",
+        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
       "artists": [
         {
-          "name": "D-Frek",
-          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
         },
         {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
+          "name": "Amduscias",
+          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
+      "duration_ms": 230281,
+      "name": "Mutilate",
+      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Mutilate",
-        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
       },
       "artists": [
         {
-          "name": "Chapter V",
-          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+          "name": "D-Frek",
+          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
         },
         {
-          "name": "Amduscias",
-          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 230281,
-      "name": "Mutilate",
-      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+      "duration_ms": 187200,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
     },
     {
       "added_at": "2024-09-17 15:11:11",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-09-17 15:11:11",
       "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
-    },
-    {
-      "added_at": "2024-09-17 15:11:11",
-      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+    },
+    {
+      "added_at": "2024-09-17 15:11:11",
+      "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2024-09-17 15:11:11",

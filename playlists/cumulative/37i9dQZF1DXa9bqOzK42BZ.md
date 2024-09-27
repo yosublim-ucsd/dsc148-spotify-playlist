@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk?si=8smsGpcTQlWkUKrlffqF6Q">BELLA KOMBO</a>
 
-195 songs - 17 hr 9 min
+196 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2023-11-24 |  |
 | [Nipungue Mimi](https://open.spotify.com/track/4PMRuU6q0VBJsg86Sv3ArS) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Nipungue Mimi](https://open.spotify.com/album/7u4jXn0KVbC1BHn9frdkcd) | 3:48 | 2024-04-19 |  |
 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 | 2023-08-25 |  |
+| [Nishike Mkono Bwana](https://open.spotify.com/track/7f16UXvpb37sQMzZs31Gnc) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nishike Mkono Bwana](https://open.spotify.com/album/2voS8bqTJ6NPmMvtUJqGtk) | 5:56 | 2024-09-27 |  |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2023-11-24 |  |
 | [Nitume](https://open.spotify.com/track/3cL9yo7yNtcwnxmEihEhy7) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Jaguar](https://open.spotify.com/artist/0cenougOfkeia2aXkKWAUy) | [Nitume](https://open.spotify.com/album/4w353odvJymxTjPYThWZNt) | 3:08 | 2024-03-01 |  |
 | [Nitumie](https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 3:56 | 2022-06-24 | 2024-04-19 |

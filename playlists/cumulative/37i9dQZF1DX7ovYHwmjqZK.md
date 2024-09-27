@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-153 songs - 9 hr 6 min
+154 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2021-11-26 |  |
 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 | 2021-11-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2021-11-26 |  |
+| [Estrela](https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Estrela](https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI) | 4:06 | 2024-09-27 |  |
 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 | 2021-11-26 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 4:08 | 2022-10-14 | 2023-04-01 |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2021-11-26 |  |
@@ -128,7 +129,7 @@
 | [Se Acontecer](https://open.spotify.com/track/7komzDHdZsnmHDuPiTVddq) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/1mY5MaseCDkFKEW8jmEiZk) | 5:10 | 2023-11-24 | 2024-04-19 |
 | [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 | 2024-08-24 |
 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 | 2021-11-26 |  |
-| [Sos](https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fim,](https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah) | 3:19 | 2024-08-23 |  |
+| [Sos](https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fim,](https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah) | 3:19 | 2024-08-23 | 2024-09-27 |
 | [Só Agora](https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Só Agora](https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ) | 2:32 | 2021-11-26 | 2024-05-11 |
 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 | 2021-11-26 |  |
 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 | 2024-08-09 |  |

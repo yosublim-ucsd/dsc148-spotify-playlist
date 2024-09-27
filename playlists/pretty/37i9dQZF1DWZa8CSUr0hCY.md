@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,782 likes - 150 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,808 likes - 150 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 9 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 |
 | 10 | [Laidback](https://open.spotify.com/track/4m9jblUj3gs3FWIScji4tZ) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [Laidback](https://open.spotify.com/album/1hOZLvVtxrusTKNBoiPCXi) | 2:02 |
 | 11 | [Bulls Eye](https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Bulls Eye](https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s) | 1:46 |
-| 12 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 |
+| 12 | [Who Cares](https://open.spotify.com/track/0DGCK0k88zbCVoA6e3FZfz) | [Aquarius Era](https://open.spotify.com/artist/1St457AtizgBhsmu1NR25n) | [Who Cares](https://open.spotify.com/album/34Yb87vUXRN0QaBejbzyVq) | 2:16 |
 | 13 | [Sunwalker](https://open.spotify.com/track/3PQEhclz2qMuapq7d7pkYc) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunwalker](https://open.spotify.com/album/38uhMobQa9paPmT58lrHnl) | 2:21 |
 | 14 | [Restless Night](https://open.spotify.com/track/58TbLVBuMAXqMRoKqN4hhD) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Restless Night](https://open.spotify.com/album/5XJV7JO1c2vTsimSb0bzIW) | 2:30 |
 | 15 | [Car Ride](https://open.spotify.com/track/6WJjp4tweyEM415TtdFsqx) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Car Ride](https://open.spotify.com/album/793wFdKEFWdOyYLgtX3OL5) | 2:15 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 146 | [loading](https://open.spotify.com/track/03AAJOztWCV58AMEvtOc3i) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [loading](https://open.spotify.com/album/2OFtlJQHnYPvMzJJxbi59F) | 2:15 |
 | 147 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 |
 | 148 | [We're Back](https://open.spotify.com/track/2u52q3y5ijACgPYHSHpu6P) | [Bluedoom](https://open.spotify.com/artist/1gFvHTW6FSJiw4FQ355I4K), [Santana Cid](https://open.spotify.com/artist/32pgXj1tADfTxzx1aVGnQf) | [We're Back](https://open.spotify.com/album/1Zz8BsY5CRc9d1MrUENM2W) | 1:38 |
-| 149 | [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 |
+| 149 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 |
 | 150 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 |
 
-Snapshot ID: `ZtDvYAAAAACuU4h6cEFChz6t7wrr9UwH`
+Snapshot ID: `ZvXZYAAAAACDvKHaWQUBbVIDKivJaUIO`

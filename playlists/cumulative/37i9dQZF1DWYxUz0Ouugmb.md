@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jasmine Nadya
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Satine Zaneta
 
 230 songs - 14 hr 49 min
 

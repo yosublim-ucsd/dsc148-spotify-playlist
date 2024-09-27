@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,836 likes - 211 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,845 likes - 211 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

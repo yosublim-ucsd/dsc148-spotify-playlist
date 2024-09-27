@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 497071,
+  "num_followers": 497165,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAAC95vNAQyWd4UaweIKNsucM",
+  "snapshot_id": "ZvNSgAAAAAAw89NGarAUEwqusN+wzVaz",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "eXplosion",
-        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "FMIF",
+          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
         }
       ],
-      "duration_ms": 240000,
-      "name": "eXplosion",
-      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
+      "duration_ms": 234506,
+      "name": "I Gotta Feeling - FMIF Remix; Edit",
+      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+        "name": "eXplosion",
+        "url": "https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "FMIF",
-          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 234506,
-      "name": "I Gotta Feeling - FMIF Remix; Edit",
-      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
+      "duration_ms": 240000,
+      "name": "eXplosion",
+      "url": "https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j"
     },
     {
       "added_at": null,

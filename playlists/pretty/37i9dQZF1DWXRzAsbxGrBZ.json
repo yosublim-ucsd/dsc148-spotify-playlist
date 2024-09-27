@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 66861,
+  "num_followers": 66946,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Good Vibes Only E.P",
-        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
-      },
-      "artists": [
-        {
-          "name": "Nastic Groove",
-          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
-        }
-      ],
-      "duration_ms": 353701,
-      "name": "You've Been Missing Me",
-      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
         "url": "https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 3850792,
       "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
       "url": "https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Good Vibes Only E.P",
+        "url": "https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN"
+      },
+      "artists": [
+        {
+          "name": "Nastic Groove",
+          "url": "https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56"
+        }
+      ],
+      "duration_ms": 353701,
+      "name": "You've Been Missing Me",
+      "url": "https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Reputation",
-        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
-      },
-      "artists": [
-        {
-          "name": "Sculptured Music",
-          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
-        },
-        {
-          "name": "Ziyon",
-          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
-        }
-      ],
-      "duration_ms": 330730,
-      "name": "Another Day (feat. Ziyon)",
-      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Ziyon",
+          "url": "https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy"
+        }
+      ],
+      "duration_ms": 330730,
+      "name": "Another Day (feat. Ziyon)",
+      "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
     },
     {
       "added_at": "2024-08-02 00:28:01",

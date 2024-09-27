@@ -2,7 +2,7 @@
 
 ### [This Is The 1975](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1X6Ic8)
 
-> This is The 1975\. The essential tracks, all in one playlist.
+> This is The 1975\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 54 songs - 3 hr 35 min
 

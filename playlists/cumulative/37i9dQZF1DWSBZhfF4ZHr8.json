@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : SOR4",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Amir",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "En \u00e9quipe",
+        "url": "https://open.spotify.com/album/5zIcjorc0ObGwvSoUl7p4a"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206973,
+      "name": "En \u00e9quipe (feat. Vacra)",
+      "url": "https://open.spotify.com/track/0cP0V18rkyNvIjoVc5wY3N"
+    },
+    {
+      "album": {
         "name": "Enchanti\u00e9e",
         "url": "https://open.spotify.com/album/5xLMLmXJbLG9sJl9ZD8k4S"
       },
@@ -468,10 +490,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 163711,
       "name": "Fille du Sud (Lambada)",
       "url": "https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc"
+    },
+    {
+      "album": {
+        "name": "Finalement",
+        "url": "https://open.spotify.com/album/7hLQmNDbh9eSbBpjrqV1Gq"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166787,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/0ZSWlkAkmp2fQsRfikrBox"
     },
     {
       "album": {
@@ -818,10 +858,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 134013,
       "name": "Lady Melody",
       "url": "https://open.spotify.com/track/2IHOFiaAcZWnhdTEaPzGMt"
+    },
+    {
+      "album": {
+        "name": "Last in Line (2024 Edit)",
+        "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
+      },
+      "artists": [
+        {
+          "name": "Josiane",
+          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Last in Line - 2024 Edit",
+      "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
     },
     {
       "album": {
@@ -948,7 +1006,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 222560,
       "name": "Les Larmes ne coulent pas",
       "url": "https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B"
@@ -970,7 +1028,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
@@ -1028,6 +1086,24 @@
       "duration_ms": 186868,
       "name": "Mon coeur s'emballe",
       "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
+    },
+    {
+      "album": {
+        "name": "Mon regard",
+        "url": "https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL"
+      },
+      "artists": [
+        {
+          "name": "Margot Abate",
+          "url": "https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139681,
+      "name": "Mon regard",
+      "url": "https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d"
     },
     {
       "album": {
@@ -1158,7 +1234,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155773,
       "name": "Papa dis-moi",
       "url": "https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS"
@@ -1354,6 +1430,24 @@
       "duration_ms": 190840,
       "name": "R\u00e9sister (What about Peace?)",
       "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
+    },
+    {
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Nogam",
+          "url": "https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn"
     },
     {
       "album": {

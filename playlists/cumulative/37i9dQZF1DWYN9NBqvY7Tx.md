@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-588 songs - 1 day 6 hr 35 min
+589 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [DARKSIDE](https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Wars In A Wonderland](https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ) | 2:48 | 2022-05-06 | 2023-03-25 |
 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 | 2024-06-24 | 2024-07-05 |
 | [Daydream](https://open.spotify.com/track/5b8TXX2rT4BmF16oaP8aSX) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Daydream](https://open.spotify.com/album/1jRziziJ06m9TjKGlrvKou) | 2:34 | 2022-05-06 | 2022-07-29 |
+| [DEADWEIGHT](https://open.spotify.com/track/6IPDsLsGrJ9cFmQF54QUWS) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [ROYBOY](https://open.spotify.com/artist/2EYpoEcPaewrXHX819yiX5) | [DEADWEIGHT](https://open.spotify.com/album/5vyDKDwOhXfll369nVdc76) | 3:03 | 2024-09-27 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-07-05 | 2024-07-27 |
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2023-07-18 |  |
 | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Datura](https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN) | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId) | 2:22 | 2023-11-22 | 2024-06-25 |
@@ -559,7 +560,7 @@
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2022-07-14 | 2023-08-12 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-05-20 | 2023-07-19 |
 | [Watch Me Now](https://open.spotify.com/track/6TNYnPaDeANzSX2nkyiifC) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk) | [Cinematic Songs \(Vol\. 6\)](https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v) | 2:16 | 2022-05-06 | 2022-07-29 |
-| [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 |  |
+| [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 | 2024-09-27 |
 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 | 2023-01-13 | 2023-02-15 |
 | [We Won't Be Alone](https://open.spotify.com/track/3AayefDdUFxivRs79bX7kV) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [We Won't Be Alone](https://open.spotify.com/album/70My3uuhRpziiFJl9x6qtw) | 3:54 | 2022-05-06 | 2024-06-25 |
 | [Weightless](https://open.spotify.com/track/3Bi5Rw7VoxyfXPBDGQKObV) | [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Weightless](https://open.spotify.com/album/6c1PWydtwqfuIibdJj8qT6) | 2:58 | 2022-05-06 | 2022-07-29 |

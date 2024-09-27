@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-255 songs - 11 hr 12 min
+256 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Rivulets of Thought](https://open.spotify.com/track/78UoefxQxRLSYrMV8Z5HwJ) | [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Rivulets of Thought](https://open.spotify.com/album/6pYoqZX6E1HzpmR9qDEPxM) | 2:27 | 2022-10-25 | 2024-04-19 |
 | [Rubangura](https://open.spotify.com/track/6QLJmuzbLwPChIK7nNFQKs) | [mellan.](https://open.spotify.com/artist/7kLB19gMrkKiS5OOPRiRLt) | [Rubangura](https://open.spotify.com/album/4mPOaCCL6NPrm2Br2KGWDW) | 1:15 | 2022-08-30 |  |
 | [Say It](https://open.spotify.com/track/49BgdeY01jr63KF3cEttCe) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Say It](https://open.spotify.com/album/1jfsFps55xV3G7VZiGUHU2) | 3:27 | 2020-10-20\* | 2022-08-31 |
-| [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 | 2024-08-29 |  |
+| [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 | 2024-08-29 | 2024-09-27 |
 | [Scootaloo](https://open.spotify.com/track/6pPdSiA17dUM773DCRFhUx) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sheep Rotation](https://open.spotify.com/album/6bFbqW19wGg6rdrrMkHowW) | 2:27 | 2020-10-20\* | 2022-08-31 |
 | [scribbles](https://open.spotify.com/track/4hUpTnXcCjpHdtw9mB1RRL) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [scribbles](https://open.spotify.com/album/2Vo1xrp2aY30iGCZNl0hE1) | 2:01 | 2022-08-30 |  |
 | [Shaped by the Sea](https://open.spotify.com/track/3Nlgde2GCvK7phTY6RhOSq) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Shaped by the Sea](https://open.spotify.com/album/7LDdAZlXFG37V5biHmu5vP) | 2:33 | 2022-08-30 |  |
@@ -255,6 +255,7 @@
 | [Where You Go](https://open.spotify.com/track/4TotXVQO9iHg81IuuF7aYr) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/0EGdftFXLTMWBg6eJyAOvL) | 2:19 | 2022-10-25 | 2023-11-10 |
 | [Where You Go](https://open.spotify.com/track/5rzjeEpMk0A91LqZ86Z0tC) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/14FVU8jYXHQnA8N2qlJSOQ) | 2:19 | 2022-09-08 |  |
 | [Where You Go](https://open.spotify.com/track/6RnHmBfrzz0RD1roPOq9yu) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [Where You Go](https://open.spotify.com/album/1zTGJiHnVzPupsvDXKV60S) | 2:19 | 2023-11-05 | 2024-04-19 |
+| [Who Cares](https://open.spotify.com/track/0DGCK0k88zbCVoA6e3FZfz) | [Aquarius Era](https://open.spotify.com/artist/1St457AtizgBhsmu1NR25n) | [Who Cares](https://open.spotify.com/album/34Yb87vUXRN0QaBejbzyVq) | 2:16 | 2024-09-26 |  |
 | [Woman](https://open.spotify.com/track/397Fgk4f6ULuDgVkwSNeAH) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [But I Do / Woman](https://open.spotify.com/album/70s7nzdFcztvr8d7Z53Eln) | 3:28 | 2020-10-20\* | 2022-08-31 |
 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 | 2024-08-29 |  |
 | [Words Remain](https://open.spotify.com/track/2aFCXdFtYxGlNEvgXRbctK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [The World Within](https://open.spotify.com/album/17gN0MsG9WxvEfRNHeKm8F) | 3:27 | 2020-10-20\* | 2022-07-29 |

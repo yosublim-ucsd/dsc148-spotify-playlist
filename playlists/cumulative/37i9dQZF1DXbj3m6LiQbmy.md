@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 STE in cover ✨
 
-362 songs - 21 hr 11 min
+366 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 | 2022-04-01 | 2023-01-25 |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-06-12 | 2022-06-27 |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2022-04-01 | 2023-01-25 |
+| [Dancing On This](https://open.spotify.com/track/1MR4lVHyfVH5jYT52hVydD) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Dancing on this](https://open.spotify.com/album/3mD2YvH6vj65ECzVKMUQuU) | 3:56 | 2024-09-26 |  |
 | [Delirio Italiano](https://open.spotify.com/track/5kir7rtYilOrOBCVIMMKRf) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Delirio Italiano](https://open.spotify.com/album/3t7vWxTyGnnkGTF5cI1Mw7) | 3:52 | 2021-11-19 | 2022-04-02 |
 | [Demone](https://open.spotify.com/track/3H3qKnJ2ZT6S5JLV6rd8jy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Demone](https://open.spotify.com/album/2TbL35XOKzslkdFLhbM7aW) | 3:13 | 2021-11-19 | 2022-07-29 |
 | [Deputy Of Love feat\. Fonda Rae](https://open.spotify.com/track/1XH8Tk9F84g0x1XDsqwKWt) | [Don Armando's Second Avenue Rhumba Band](https://open.spotify.com/artist/6nXqNJsvC73X3kBpBwRfPD) | [Ze 30 \- Ze Records Story 1979\-2009](https://open.spotify.com/album/2HswEoyYxlHy27W8zSo7TJ) | 5:28 | 2022-04-01 | 2022-05-18 |
@@ -142,6 +143,7 @@
 | [Hands On Me](https://open.spotify.com/track/5HZgrygoh8tjdHqyLROobo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Hands On Me](https://open.spotify.com/album/6UQ1Z4VPXaJtKM8EqzBGKs) | 2:41 | 2023-12-07 | 2024-02-13 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-02-10 | 2023-01-25 |
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-04-01 | 2023-01-25 |
+| [HIT PER LA FASHION WEEK](https://open.spotify.com/track/7AKTP1crrIeXWgeR1u1Yft) | [Serafini](https://open.spotify.com/artist/5LXqsXLmJUdOtYsPg7VIVQ) | [HIT PER LA FASHION WEEK](https://open.spotify.com/album/1ljmpgng7xmdsdspXSftDW) | 2:42 | 2024-09-26 |  |
 | [Ho pianto in discoteca](https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K) | [Sem&Stènn](https://open.spotify.com/artist/4urS4ezvKDRW6o0XQeRve5), [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Ho pianto in discoteca](https://open.spotify.com/album/24JZfKM6ETpX1RkL4eiR7m) | 2:51 | 2021-11-19 |  |
 | [Honey \- Original mix](https://open.spotify.com/track/5AGGlWNS6to8ccEt4goFd8) | [Fivequestionmarks](https://open.spotify.com/artist/2LuGWCQe0znzHPriNsi2bg), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b) | [Zucchero](https://open.spotify.com/album/2cXFVGdObf28i68Sl6GMPs) | 3:53 | 2022-07-07 | 2024-01-09 |
 | [How Do U Feel](https://open.spotify.com/track/1LjJjkKtr7N7zGGfyBl3M1) | [HU](https://open.spotify.com/artist/3j2O9djceEokL0sthXZwDn) | [How Do U Feel](https://open.spotify.com/album/71NytofTYW4F5hBuDLMPY7) | 2:34 | 2024-01-08 |  |
@@ -320,6 +322,7 @@
 | [Taboo \(Playgirls from caracas remix\)](https://open.spotify.com/track/3LDU3r1QEk5EFtVy0Hv2fC) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [Playgirl](https://open.spotify.com/artist/518AwkiwZBQLJW1Zhrip13) | [Taboo](https://open.spotify.com/album/60zPoLbLRdyvTOifnlQuNu) | 3:30 | 2022-06-26 | 2022-07-26 |
 | [Tanti auguri](https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella Carrà](https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC) | 3:46 | 2023-01-24 | 2023-06-06 |
 | [Tanti auguri](https://open.spotify.com/track/46vuDoOH9wmr0CDpomHdR4) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella \(1978\)](https://open.spotify.com/album/5LHjd1x4xdCt1SO5rJeypj) | 3:47 | 2023-06-05 | 2023-06-09 |
+| [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/track/2VjH2Bck5o4fO39OJunEyt) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/album/4nJXwof60PD6iaVpnQRqxR) | 2:59 | 2024-09-26 |  |
 | [Te e Me](https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Te e Me](https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ) | 2:40 | 2024-02-12 |  |
 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 | 2022-06-26 | 2023-06-09 |
 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 | 2021-11-19 | 2023-06-06 |
@@ -339,6 +342,7 @@
 | [Tropicanal](https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7) | 4:20 | 2023-02-28 | 2023-06-09 |
 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 | 2021-11-19 | 2023-02-25 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2021-11-19 | 2023-06-06 |
+| [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 | 2024-09-26 |  |
 | [ultimanotte](https://open.spotify.com/track/1FEwhXtB28yOzfH0UrHoWb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [ultimanotte](https://open.spotify.com/album/7ANd7y44U4BzpO6gBEz0kz) | 3:07 | 2024-07-18 |  |
 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 | 2023-06-08 |  |
 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 | 2022-06-26 | 2023-02-28 |

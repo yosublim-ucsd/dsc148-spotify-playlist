@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-388 songs - 23 hr 40 min
+389 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Batalla Perdida](https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 | 2022-07-19 | 2022-09-03 |
 | [Batalla Perdida](https://open.spotify.com/track/4n4B4od4kBybQiPcn4L0Fe) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/290BICFZcn01p5w6UfZFnS) | 3:30 | 2022-03-04 | 2022-07-28 |
 | [Bebo](https://open.spotify.com/track/7HsebNHZDGj8UhWIrZaMx6) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:55 | 2022-09-02 | 2022-09-10 |
-| [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2022-03-04 |  |
+| [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2022-03-04 | 2024-09-27 |
 | [Besos a Escondidas](https://open.spotify.com/track/2Xhlix5Adgb9GOavFElFcq) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Besos a Escondidas](https://open.spotify.com/album/346eT9YtGMHvvv2yTM6YqB) | 4:03 | 2022-03-04 | 2022-09-03 |
 | [Bluetooth](https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bluetooth](https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj) | 2:40 | 2022-12-04 | 2023-03-02 |
 | [Boomerang](https://open.spotify.com/track/0ill3qz7eiLAswHanCCoeJ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:07 | 2022-09-02 | 2022-09-10 |
@@ -119,6 +119,7 @@
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV) | 4:30 | 2022-07-19 | 2023-02-25 |
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/1dN6LzonVuFgQ90x4Ttrse) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/2lqcFHVGcnVbR0SvqSICSv) | 4:30 | 2022-03-04 | 2022-07-29 |
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-03-04 | 2022-09-03 |
+| [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-09-27 |  |
 | [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 | 2024-05-25 |
 | [El Consejito](https://open.spotify.com/track/7wcATwSV0G8gTTRHEK7hDq) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [Bachata Sweet](https://open.spotify.com/artist/4nr2jZUbQ2cbgxsjJzcmLh) | [El Consejito](https://open.spotify.com/album/7ti61VMmLGJZb9GSwNj4Io) | 3:47 | 2024-09-20 |  |
 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 | 2024-01-13 |

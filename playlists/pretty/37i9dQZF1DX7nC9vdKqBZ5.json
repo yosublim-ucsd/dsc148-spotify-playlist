@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512842,
+  "num_followers": 1512836,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 236000,
       "name": "Boca Com Boca",
       "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Milk Box",
         "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
-      },
-      "artists": [
-        {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
-        }
-      ],
-      "duration_ms": 136716,
-      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Maia Sessions",
         "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 137960,
       "name": "Cigana (Maia Sessions)",
       "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
+      },
+      "artists": [
+        {
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+        }
+      ],
+      "duration_ms": 136716,
+      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Interestelar",
-        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Sutileza",
         "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Interestelar",
+        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Eu N\u00e3o Falo Te Amo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "J\u00fapiter (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 136208,
-      "name": "J\u00fapiter - Ao Vivo",
-      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "J\u00fapiter (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 136208,
+      "name": "J\u00fapiter - Ao Vivo",
+      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
       },
       "artists": [
         {
@@ -1452,9 +1452,9 @@
           "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
     },
     {
       "added_at": "2024-08-02 18:37:00",

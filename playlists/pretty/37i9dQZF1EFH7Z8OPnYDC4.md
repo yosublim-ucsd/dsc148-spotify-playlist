@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 329 songs - 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 329 songs - 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,8 +302,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 292 | [An Old Man \(From "Two by Two"\)](https://open.spotify.com/track/76VLkCuG7iQHwJT1JwkXBO) | [MARTIN CHARNIN](https://open.spotify.com/artist/719ecBJXBS9CW9kumYz5Tn) | [Behind the Curtain \- Broadway Composers & Lyricists Sing Their Songs](https://open.spotify.com/album/0YXUWVX1yF2VP8H0llWQTS) | 2:33 |
 | 293 | [Atlantic Blues \(Lido Lady\)](https://open.spotify.com/track/0AEK5mXxEovfOcaw1fSiUT) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John McGlinn](https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK) | [Rodgers & Hart: Songs from the Shows](https://open.spotify.com/album/6FryivWKDolkOwJz81KoBY) | 4:17 |
 | 294 | [Bottoms Up](https://open.spotify.com/track/4YSt1z0TsYC45igIjC1UXu) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 2:06 |
-| 295 | [In The Gateway Of The Temple Of Minerva](https://open.spotify.com/track/4KVj5KAJTKiJcbAnXq6hc5) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 1:34 |
-| 296 | [On a Desert Island with Thee](https://open.spotify.com/track/3Fqnt0l35nwtPBWnnbqb1R) | [Chester Stratton](https://open.spotify.com/artist/2wxcvoEFUZyHorfExNwrv6) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:12 |
+| 295 | [On a Desert Island with Thee](https://open.spotify.com/track/3Fqnt0l35nwtPBWnnbqb1R) | [Chester Stratton](https://open.spotify.com/artist/2wxcvoEFUZyHorfExNwrv6) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:12 |
+| 296 | [In The Gateway Of The Temple Of Minerva](https://open.spotify.com/track/4KVj5KAJTKiJcbAnXq6hc5) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 1:34 |
 | 297 | [Here's A Hand](https://open.spotify.com/track/2g50wolJ6e6sFzgOvPap6r) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 2:37 |
 | 298 | [Overture and Te Deum](https://open.spotify.com/track/0RwaNAIKTa1V7d80RH6rfO) | [Rex Ensemble](https://open.spotify.com/artist/4A3wKJIOncJzfzCMhPDO1H), [Rex Orchestra](https://open.spotify.com/artist/7oyZXIQ3CwMolY0FKLwHNT), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 1:25 |
 | 299 | [La La La](https://open.spotify.com/track/4hZs3nT8pN8CoRiPYMO1Pi) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [No Strings](https://open.spotify.com/album/30prZO76cJclKxuxnvAvjY) | 2:25 |
@@ -338,4 +338,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 328 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 329 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbdH3AAAAAA5zhevWGrBXkLQdKa8hv7f`
+Snapshot ID: `AbdNVAAAAAAznjoY3ms4Ofn6fh0ZHYs4`

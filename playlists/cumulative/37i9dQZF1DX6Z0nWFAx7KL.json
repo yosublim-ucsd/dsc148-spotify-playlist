@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "As It Was (Chill Edit)",
+        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "As It Was - Chill Edit",
+      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
+    },
+    {
+      "album": {
         "name": "Ask (Edit)",
         "url": "https://open.spotify.com/album/3qFyrdHmIw3AabNAqImxSi"
       },
@@ -3857,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/1k74aKzj6dtKT0s4TAKyh7"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169007,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0ei50p0SSBAYwNszmq0WNv"
+    },
+    {
+      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW"
       },
@@ -4282,7 +4326,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 156375,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
@@ -4768,7 +4812,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178064,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2mCDr3iGivDH7rGBVIgkUf"

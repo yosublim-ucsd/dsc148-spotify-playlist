@@ -1,15 +1,83 @@
 {
-  "description": "African dance party music from the continent to Paris. Photo : Lil Jay Bingerack",
-  "num_followers": 97459,
+  "description": "African dance party music from the continent to Paris. Photo : Black K",
+  "num_followers": 97510,
   "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAADb/lN7Ql/XYWLM3HjyrEI2",
+  "snapshot_id": "ZvXZYAAAAAAwP/iqRhz1XEGBdE8e9Ce8",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "REMINISCENCE",
+        "url": "https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        }
+      ],
+      "duration_ms": 142452,
+      "name": "BIAMA 2 BLACK K",
+      "url": "https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Vibration Universelle",
+        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Tout laisse",
+      "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Maman match\u00f4tch\u00f4",
+        "url": "https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV"
+      },
+      "artists": [
+        {
+          "name": "Peroo",
+          "url": "https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "duration_ms": 216816,
+      "name": "Maman match\u00f4tch\u00f4",
+      "url": "https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Ambiance",
+        "url": "https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj"
+      },
+      "artists": [
+        {
+          "name": "TEAM D\u00c9CAL\u00c9",
+          "url": "https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Ambiance",
+      "url": "https://open.spotify.com/track/74EJEB08idbiA53t61V9pU"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "M\u00e9dicament de femme",
         "url": "https://open.spotify.com/album/03Eh386Ud0cyoZ4VkBmUUg"
@@ -25,62 +93,10 @@
       "url": "https://open.spotify.com/track/2jMbnufZZ6Ttu6ts4KdBaU"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Vibration Universelle",
-        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 196148,
-      "name": "D\u00e9marrage",
-      "url": "https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Dos de chat",
-        "url": "https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf"
-      },
-      "artists": [
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        }
-      ],
-      "duration_ms": 199341,
-      "name": "Dos de chat",
-      "url": "https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Fimbu",
-        "url": "https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R"
+        "name": "Manger la vie",
+        "url": "https://open.spotify.com/album/3BNjYbqQZAE8XlVyrE0hhm"
       },
       "artists": [
         {
@@ -88,31 +104,79 @@
           "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
         },
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+          "name": "Team 2 poy",
+          "url": "https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox"
         },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        }
+      ],
+      "duration_ms": 157852,
+      "name": "Manger la vie",
+      "url": "https://open.spotify.com/track/6qn92Gi1AjfrCNdquj4zJn"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "M\u00f4g\u00f4 Fariman",
+        "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "M\u00f4g\u00f4 Fariman",
+      "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/4sr8d7oYgvGytEOtyT4RgK"
+      },
+      "artists": [
         {
           "name": "Ste Milano",
           "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        },
-        {
-          "name": "Tam Sir",
-          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
-        },
-        {
-          "name": "3xdavs",
-          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
         }
       ],
-      "duration_ms": 177632,
-      "name": "Fimbu",
-      "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
+      "duration_ms": 202501,
+      "name": "Merci",
+      "url": "https://open.spotify.com/track/6Rg1VzMCXGvRfvQe2VLYaG"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "M\u00f4k\u00f4d\u00f4",
-        "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
+        "name": "1 cui",
+        "url": "https://open.spotify.com/album/2HGs32nJYb3JstUqO0n7It"
+      },
+      "artists": [
+        {
+          "name": "NOVA BINKS",
+          "url": "https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1hEcm27zsI2iN9G9LS9dwO"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "duration_ms": 149370,
+      "name": "1 cui",
+      "url": "https://open.spotify.com/track/2BY9PGyqjKspnG164zJlan"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "C'est dos\u00e9",
+        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
       },
       "artists": [
         {
@@ -120,59 +184,15 @@
           "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
         }
       ],
-      "duration_ms": 218824,
-      "name": "M\u00f4k\u00f4d\u00f4",
-      "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
+      "duration_ms": 206666,
+      "name": "C'est dos\u00e9",
+      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "C'Gat\u00e9",
-        "url": "https://open.spotify.com/album/4W9Muvhr4Ju9BzyEzqtx2j"
-      },
-      "artists": [
-        {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
-        },
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        },
-        {
-          "name": "Toto le Banzou",
-          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
-        },
-        {
-          "name": "Arii",
-          "url": "https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N"
-        }
-      ],
-      "duration_ms": 181540,
-      "name": "C'Gat\u00e9",
-      "url": "https://open.spotify.com/track/277fdzfakixEtX2Cerfuaa"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Calculatrice",
-        "url": "https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8"
-      },
-      "artists": [
-        {
-          "name": "Ovie Kan",
-          "url": "https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd"
-        }
-      ],
-      "duration_ms": 225628,
-      "name": "Calculatrice",
-      "url": "https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "WA WA D\u00c9 D\u00c9",
-        "url": "https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e"
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot"
       },
       "artists": [
         {
@@ -180,12 +200,12 @@
           "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
         }
       ],
-      "duration_ms": 164050,
-      "name": "WA WA D\u00c9 D\u00c9",
-      "url": "https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I"
+      "duration_ms": 180798,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Coup du marteau",
         "url": "https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3"
@@ -221,55 +241,107 @@
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Biakamou",
-        "url": "https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7"
+        "name": "Vibration Universelle",
+        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
       },
       "artists": [
         {
-          "name": "Ayanne",
-          "url": "https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl"
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Biakamou",
-      "url": "https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH"
+      "duration_ms": 196148,
+      "name": "D\u00e9marrage",
+      "url": "https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Ambiance",
-        "url": "https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj"
+        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
+        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
       },
       "artists": [
         {
-          "name": "TEAM D\u00c9CAL\u00c9",
-          "url": "https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3"
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
         }
       ],
-      "duration_ms": 182709,
-      "name": "Ambiance",
-      "url": "https://open.spotify.com/track/74EJEB08idbiA53t61V9pU"
+      "duration_ms": 150453,
+      "name": "Dosabado",
+      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "M\u00f4g\u00f4 Fariman",
-        "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
       },
       "artists": [
         {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
         }
       ],
-      "duration_ms": 258000,
-      "name": "M\u00f4g\u00f4 Fariman",
-      "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "O'cho",
+        "url": "https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM"
+      },
+      "artists": [
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "duration_ms": 195134,
+      "name": "O'cho",
+      "url": "https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Dos de chat",
+        "url": "https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "duration_ms": 199341,
+      "name": "Dos de chat",
+      "url": "https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "R\u00e9veilles toi",
+        "url": "https://open.spotify.com/album/6fWiUekVUcszo2DiSBdwqr"
+      },
+      "artists": [
+        {
+          "name": "Rocky Gold",
+          "url": "https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "R\u00e9veilles toi",
+      "url": "https://open.spotify.com/track/03DoyyfEZu5MeN97YZtzaF"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Remontada",
         "url": "https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ"
@@ -289,91 +361,7 @@
       "url": "https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
-        "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "Dosabado",
-      "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Rein",
-        "url": "https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E"
-      },
-      "artists": [
-        {
-          "name": "Obam's",
-          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Rein",
-      "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "C'est dos\u00e9",
-        "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
-      },
-      "artists": [
-        {
-          "name": "Serge Beynaud",
-          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "C'est dos\u00e9",
-      "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Maman match\u00f4tch\u00f4",
-        "url": "https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV"
-      },
-      "artists": [
-        {
-          "name": "Peroo",
-          "url": "https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4"
-        },
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        }
-      ],
-      "duration_ms": 216816,
-      "name": "Maman match\u00f4tch\u00f4",
-      "url": "https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Merci",
-        "url": "https://open.spotify.com/album/4sr8d7oYgvGytEOtyT4RgK"
-      },
-      "artists": [
-        {
-          "name": "Ste Milano",
-          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Merci",
-      "url": "https://open.spotify.com/track/6Rg1VzMCXGvRfvQe2VLYaG"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Danse comme nicapol",
         "url": "https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy"
@@ -389,47 +377,7 @@
       "url": "https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Vibration Universelle",
-        "url": "https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Tout laisse",
-      "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "1 cui",
-        "url": "https://open.spotify.com/album/2HGs32nJYb3JstUqO0n7It"
-      },
-      "artists": [
-        {
-          "name": "NOVA BINKS",
-          "url": "https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl"
-        },
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1hEcm27zsI2iN9G9LS9dwO"
-        },
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        }
-      ],
-      "duration_ms": 149370,
-      "name": "1 cui",
-      "url": "https://open.spotify.com/track/2BY9PGyqjKspnG164zJlan"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Dibango Dibanga",
         "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
@@ -445,23 +393,147 @@
       "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "O'cho",
-        "url": "https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM"
+        "name": "Mon combat",
+        "url": "https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv"
       },
       "artists": [
         {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
         }
       ],
-      "duration_ms": 195134,
-      "name": "O'cho",
-      "url": "https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW"
+      "duration_ms": 212688,
+      "name": "Mon combat",
+      "url": "https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Tchayeh",
+        "url": "https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Tchayeh",
+      "url": "https://open.spotify.com/track/6DXBVqs3KRJtdp4XxJxLRk"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "1 \u00e0 1",
+        "url": "https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "1 \u00e0 1",
+      "url": "https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Best Of DJ Arafat",
+        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
+      },
+      "artists": [
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "duration_ms": 276900,
+      "name": "Jonathan",
+      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Tchoutchou Kpangor",
+        "url": "https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Tchoutchou Kpangor",
+      "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Fimbu",
+        "url": "https://open.spotify.com/album/2jyl8R6S0zxmO240mNhG4R"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Fimbu",
+      "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "En Kabato",
+        "url": "https://open.spotify.com/album/1MWOC8Oh4iqVv7oOhR7I8N"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "La Team de Poy",
+          "url": "https://open.spotify.com/artist/1YdkFYfSU2CMKyTxmS9cDd"
+        },
+        {
+          "name": "AB LE SUPERMAN",
+          "url": "https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ"
+        }
+      ],
+      "duration_ms": 168447,
+      "name": "En Kabato",
+      "url": "https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Abidjan Paris",
         "url": "https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2"
@@ -497,98 +569,10 @@
       "url": "https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "1 \u00e0 1",
-        "url": "https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "1 \u00e0 1",
-      "url": "https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tchoutchou Kpangor",
-        "url": "https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Tchoutchou Kpangor",
-      "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "La Pression",
-        "url": "https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot"
-      },
-      "artists": [
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        }
-      ],
-      "duration_ms": 180798,
-      "name": "La Pression",
-      "url": "https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Mon combat",
-        "url": "https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv"
-      },
-      "artists": [
-        {
-          "name": "Renard Barakissa",
-          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
-        },
-        {
-          "name": "Kadirov Mania",
-          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
-        }
-      ],
-      "duration_ms": 212688,
-      "name": "Mon combat",
-      "url": "https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "\u00c9chauffement (Remix)",
-        "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
-      },
-      "artists": [
-        {
-          "name": "Dayo Lamar",
-          "url": "https://open.spotify.com/artist/05bfMROifJpylezJUnm10j"
-        },
-        {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
-        }
-      ],
-      "duration_ms": 128615,
-      "name": "\u00c9chauffement - Remix",
-      "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tchayeh",
-        "url": "https://open.spotify.com/album/15ILd1c6laBM0aiS7s1lHF"
+        "name": "M\u00f4k\u00f4d\u00f4",
+        "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
       },
       "artists": [
         {
@@ -596,104 +580,12 @@
           "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Tchayeh",
-      "url": "https://open.spotify.com/track/6DXBVqs3KRJtdp4XxJxLRk"
+      "duration_ms": 218824,
+      "name": "M\u00f4k\u00f4d\u00f4",
+      "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Best Of DJ Arafat",
-        "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
-      },
-      "artists": [
-        {
-          "name": "DJ Arafat",
-          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
-        }
-      ],
-      "duration_ms": 276900,
-      "name": "Jonathan",
-      "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "PUISSANCE 10",
-        "url": "https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Arc de triomphe",
-      "url": "https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "En Kabato",
-        "url": "https://open.spotify.com/album/1MWOC8Oh4iqVv7oOhR7I8N"
-      },
-      "artists": [
-        {
-          "name": "Black K",
-          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
-        },
-        {
-          "name": "La Team de Poy",
-          "url": "https://open.spotify.com/artist/1YdkFYfSU2CMKyTxmS9cDd"
-        },
-        {
-          "name": "AB LE SUPERMAN",
-          "url": "https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ"
-        }
-      ],
-      "duration_ms": 168447,
-      "name": "En Kabato",
-      "url": "https://open.spotify.com/track/4xE4sAEZSVa9yfT1cszxQ1"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Kess Mouler",
-        "url": "https://open.spotify.com/album/6lV3QdEjHlAC8jUyJdnlab"
-      },
-      "artists": [
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Kess Mouler",
-      "url": "https://open.spotify.com/track/3LZGhKB0tbzjNnPixZn29b"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Bio",
-        "url": "https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5"
-      },
-      "artists": [
-        {
-          "name": "Roma Chiyaya",
-          "url": "https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0"
-        }
-      ],
-      "duration_ms": 185913,
-      "name": "Bio",
-      "url": "https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Do Do Do",
         "url": "https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT"
@@ -713,7 +605,51 @@
       "url": "https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Debout couler",
+        "url": "https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl"
+      },
+      "artists": [
+        {
+          "name": "Chouchou Salvador",
+          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Debout couler",
+      "url": "https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "C'Gat\u00e9",
+        "url": "https://open.spotify.com/album/4W9Muvhr4Ju9BzyEzqtx2j"
+      },
+      "artists": [
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Toto le Banzou",
+          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
+        },
+        {
+          "name": "Arii",
+          "url": "https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N"
+        }
+      ],
+      "duration_ms": 181540,
+      "name": "C'Gat\u00e9",
+      "url": "https://open.spotify.com/track/277fdzfakixEtX2Cerfuaa"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Were were",
         "url": "https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF"
@@ -729,36 +665,104 @@
       "url": "https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Aicha trambler",
-        "url": "https://open.spotify.com/album/4LsBrpMBybnXbu47iLv0Et"
+        "name": "WA WA D\u00c9 D\u00c9",
+        "url": "https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e"
       },
       "artists": [
         {
-          "name": "Dj domi 226",
-          "url": "https://open.spotify.com/artist/47Ye8a65ZCXhODjHJfwNYQ"
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
         }
       ],
-      "duration_ms": 177692,
-      "name": "Aicha trambler",
-      "url": "https://open.spotify.com/track/5khZ14Ne0o9PoZfbP3oQBB"
+      "duration_ms": 164050,
+      "name": "WA WA D\u00c9 D\u00c9",
+      "url": "https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Debout couler",
-        "url": "https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl"
+        "name": "Rein",
+        "url": "https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E"
       },
       "artists": [
         {
-          "name": "Chouchou Salvador",
-          "url": "https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI"
+          "name": "Obam's",
+          "url": "https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Debout couler",
-      "url": "https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ"
+      "duration_ms": 191146,
+      "name": "Rein",
+      "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "PUISSANCE 10",
+        "url": "https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Arc de triomphe",
+      "url": "https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Calculatrice",
+        "url": "https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8"
+      },
+      "artists": [
+        {
+          "name": "Ovie Kan",
+          "url": "https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd"
+        }
+      ],
+      "duration_ms": 225628,
+      "name": "Calculatrice",
+      "url": "https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Bio",
+        "url": "https://open.spotify.com/album/1wXuyllSrUv7y4Mf8Pzhv5"
+      },
+      "artists": [
+        {
+          "name": "Roma Chiyaya",
+          "url": "https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0"
+        }
+      ],
+      "duration_ms": 185913,
+      "name": "Bio",
+      "url": "https://open.spotify.com/track/6jbQLx2fqj2cAKaPig8GDA"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Biakamou",
+        "url": "https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7"
+      },
+      "artists": [
+        {
+          "name": "Ayanne",
+          "url": "https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Biakamou",
+      "url": "https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH"
     }
   ],
   "unique_name": "Coup\u00e9 D\u00e9cal\u00e9",

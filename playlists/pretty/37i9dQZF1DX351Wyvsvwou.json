@@ -1,12 +1,12 @@
 {
   "description": "The most villainous songs from the Marvel Cinematic Universe.",
-  "num_followers": 26050,
+  "num_followers": 26085,
   "original_name": "Marvel Villains",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAAKTw+BLo0NOWorJTZEk5JG",
+  "snapshot_id": "ZvW2YwAAAAB89Jo0JXbJJCFIT7gulrWa",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -71,6 +71,42 @@
       "duration_ms": 377213,
       "name": "The Conqueror",
       "url": "https://open.spotify.com/track/2nqbGSVpEkF2qnAgPVRXYB"
+    },
+    {
+      "added_at": "2024-09-26 19:30:43",
+      "album": {
+        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
+        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Debra Jo Rupp",
+          "url": "https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+        }
+      ],
+      "duration_ms": 197692,
+      "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
+      "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
     },
     {
       "added_at": "2023-02-15 14:00:00",

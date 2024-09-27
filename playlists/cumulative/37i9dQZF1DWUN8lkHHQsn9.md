@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 | 2023-03-17 |  |
+| [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc) | [$WAG \(lepi się w ch\*j\)](https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z) | 2:38 | 2023-03-17 | 2024-09-27 |
 | [2late](https://open.spotify.com/track/17Z53SXn00P5bkME5asSvF) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [2late](https://open.spotify.com/album/42SUN1zj3aM3Hhnh1STM0C) | 2:17 | 2024-04-08 | 2024-06-11 |
 | [49 Groszy](https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [49 Groszy](https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66) | 2:20 | 2023-06-20 | 2023-08-08 |
 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 | 2023-10-09 | 2023-11-14 |
@@ -199,7 +199,7 @@
 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 | 2021-06-22 | 2023-07-11 |
 | [S3X EDUCATION](https://open.spotify.com/track/4qEqxYGN7ijJoXUeafQpsY) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [S3X EDUCATION](https://open.spotify.com/album/4cAZu0wXymmnCclvt7Hf3x) | 2:56 | 2023-03-17 | 2023-07-11 |
 | [Sabotażysta](https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Sabotażysta](https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G) | 3:24 | 2023-06-20 |  |
-| [Sama słuchaj](https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl) | [Sienia](https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX) | [Sama słuchaj](https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V) | 2:53 | 2024-06-20 | 2024-09-26 |
+| [Sama słuchaj](https://open.spotify.com/track/5uiWeHUUj4KuG7uQZH9AAl) | [Sienia](https://open.spotify.com/artist/2e7TuhchY8aTY3v2qzMghX) | [Sama słuchaj](https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V) | 2:53 | 2024-06-20 |  |
 | [San Marino](https://open.spotify.com/track/0S7mUSGHPGmzHvFraY4X9B) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [San Marino](https://open.spotify.com/album/2G9kR3HTdrhZ62yI7WVsFQ) | 2:48 | 2022-06-01 | 2022-06-04 |
 | [Scarchest](https://open.spotify.com/track/32MEv5faahEWBKUKFoYLSY) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Scarchest](https://open.spotify.com/album/5uRIdLZnznQsisjxhqFZ8P) | 2:34 | 2023-08-07 | 2023-12-12 |
 | [Sen](https://open.spotify.com/track/0LEPsgHnSSUtMxNDY03GGa) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 4:40 | 2021-06-22 | 2022-06-01 |

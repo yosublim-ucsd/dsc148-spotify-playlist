@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150000,
       "name": "BOOTY",
       "url": "https://open.spotify.com/track/5pT3WI2AOZ7bYP3Hp62Glh"
@@ -5429,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "CANDY",
+        "url": "https://open.spotify.com/album/1RrNXFGmRYfr9HDQ4j4wwa"
+      },
+      "artists": [
+        {
+          "name": "Gee Dixon",
+          "url": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/6oaLjQHpKnnAhEr1UFeBTm"
+    },
+    {
+      "album": {
         "name": "Canelo",
         "url": "https://open.spotify.com/album/7mDGaAs9Lg1gIRvAnbfkA3"
       },
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145573,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/7dttZrCcRjIQInLLQcVy7b"
@@ -5700,7 +5718,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160000,
       "name": "CERTIFIED",
       "url": "https://open.spotify.com/track/0EFtToC9idjsqfK0TMgCTv"
@@ -6042,7 +6060,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 129744,
       "name": "City",
       "url": "https://open.spotify.com/track/6mHTj7Nn58OxQNuwYDIvmA"
@@ -6498,7 +6516,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 122500,
       "name": "CROLLE",
       "url": "https://open.spotify.com/track/6cpdOXtA1zQSc9urlx96Pp"
@@ -6826,7 +6844,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155200,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/0qrtE3p4oZ6aEEsmYqbxxB"
@@ -7635,6 +7653,32 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/45JiIIrnW41aiZrXvtKN8Q"
+      },
+      "artists": [
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        },
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "ROMANOS",
+          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131850,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K"
+    },
+    {
+      "album": {
         "name": "LIMITLESS",
         "url": "https://open.spotify.com/album/49xYmyQgQYmCNPQ8hq3Bv6"
       },
@@ -7890,7 +7934,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145531,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM"
@@ -9924,7 +9968,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 246141,
       "name": "FLY",
       "url": "https://open.spotify.com/track/0vW6ekq1Zkt9sk7mvsmFOK"
@@ -9986,7 +10030,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 153586,
       "name": "Foreign Car",
       "url": "https://open.spotify.com/track/0NoQ7FsKRWSIDcRqeIQXTn"
@@ -13188,7 +13232,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178723,
       "name": "HUSTLA",
       "url": "https://open.spotify.com/track/30VTtW2aVGwyINNbMua6fZ"
@@ -14490,7 +14534,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 138692,
       "name": "JAG E VAN",
       "url": "https://open.spotify.com/track/6swIyUMh44LJpjIHscChgG"
@@ -17202,7 +17246,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 156000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/59CK5mB7eBiUOSBdX0V3Ah"
@@ -18144,7 +18188,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 142671,
       "name": "MABROUK",
       "url": "https://open.spotify.com/track/096qS8ho2bEVbHjwMzsrA6"
@@ -18162,7 +18206,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 144300,
       "name": "Made Nigga",
       "url": "https://open.spotify.com/track/0iRJcsr0WyHqhJSWN9aMru"
@@ -18228,7 +18272,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 124511,
       "name": "MAJMOON",
       "url": "https://open.spotify.com/track/5xQpRSKQinxyZWhVvOjP4o"
@@ -19984,7 +20028,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170797,
       "name": "MITT LIV (HABIBA)",
       "url": "https://open.spotify.com/track/7LOPRyw7hNIsu8eXT2QM2t"
@@ -21420,7 +21464,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170872,
       "name": "Oh oh",
       "url": "https://open.spotify.com/track/6DngtRlaqwA8diV0p4EysM"
@@ -21888,7 +21932,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 134885,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/1n7QjDjOEMJ2FvRYKnlFPA"
@@ -22246,7 +22290,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 114418,
       "name": "Papi Chulo",
       "url": "https://open.spotify.com/track/7HVcGoN0lpUv8idsyeP8ml"
@@ -22636,7 +22680,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 194642,
       "name": "Pengar p\u00e5 mitt schema",
       "url": "https://open.spotify.com/track/5GY9xzo9vrQSoXqTQTznAf"
@@ -22844,7 +22888,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 131739,
       "name": "Polarna",
       "url": "https://open.spotify.com/track/15TUsRp2ZVoKwehqyp8HfI"
@@ -23340,6 +23384,24 @@
       "duration_ms": 133636,
       "name": "Propeller",
       "url": "https://open.spotify.com/track/4vPqkcOlDttVYbovaQKMt1"
+    },
+    {
+      "album": {
+        "name": "PSG",
+        "url": "https://open.spotify.com/album/3DqTOXqAYA9sjSjpdQ7aHw"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/00R2eVdkti9OZboefW2f4i"
     },
     {
       "album": {
@@ -24131,6 +24193,28 @@
     },
     {
       "album": {
+        "name": "Rush B",
+        "url": "https://open.spotify.com/album/3d1AiQVDQdwSKUoRApdb6K"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        },
+        {
+          "name": "Sweyway",
+          "url": "https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "Rush B",
+      "url": "https://open.spotify.com/track/3StabSGNHakgNDpUewAu1W"
+    },
+    {
+      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
@@ -24262,7 +24346,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 135777,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/4pyDLSK0uGCf7TAdGRb43N"
@@ -24832,7 +24916,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 146920,
       "name": "Sex Bomb",
       "url": "https://open.spotify.com/track/4IFouZr6hep9cHuk3Gw3lI"
@@ -25842,7 +25926,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 167912,
       "name": "Sol Idag",
       "url": "https://open.spotify.com/track/0hhcmBHytwcWB76XZmsohb"
@@ -25980,10 +26064,28 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 163750,
       "name": "Som oss",
       "url": "https://open.spotify.com/track/3dtH2Zip9yEyXe57AwdBcF"
+    },
+    {
+      "album": {
+        "name": "SOM OSS",
+        "url": "https://open.spotify.com/album/6qJKrwSYsjyk8vzlXYtjz0"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "SOM OSS",
+      "url": "https://open.spotify.com/track/2MOj51vwsIaMR5pkUp1o6c"
     },
     {
       "album": {
@@ -26772,7 +26874,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 126614,
       "name": "SUAVEMENTE II",
       "url": "https://open.spotify.com/track/7eDGUFwYWtoEZe78uHdYVP"
@@ -27078,7 +27180,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155076,
       "name": "SVITEN",
       "url": "https://open.spotify.com/track/01hKARIp286ZDzQiawMha2"
@@ -27118,7 +27220,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 167413,
       "name": "Sv\u00e5ra",
       "url": "https://open.spotify.com/track/0f3GXUjYR7D2dQ7QJTdQzi"
@@ -27354,7 +27456,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 126762,
       "name": "S\u00e4g mig",
       "url": "https://open.spotify.com/track/2mxYgtqahQOW5uEuI1QP05"
@@ -28558,7 +28660,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 142319,
       "name": "TOO LATE",
       "url": "https://open.spotify.com/track/4ZTKCWNNyz6z4FYWwsoWrs"
@@ -28664,7 +28766,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 199565,
       "name": "Toppisar i n\u00e4ven",
       "url": "https://open.spotify.com/track/5pfdTD19cacU3LuE3tYUWq"
@@ -29228,6 +29330,28 @@
       "duration_ms": 140869,
       "name": "True Story Vol.1",
       "url": "https://open.spotify.com/track/6QX9xKuuvNkKZRhgRmJarr"
+    },
+    {
+      "album": {
+        "name": "TRUST ISSUES",
+        "url": "https://open.spotify.com/album/0qNAYC6fxhowCmds4BXqdh"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154964,
+      "name": "TRUST ISSUES",
+      "url": "https://open.spotify.com/track/5hjwsWJrIE21lDZfN8ZkNv"
     },
     {
       "album": {
@@ -31592,6 +31716,24 @@
       "duration_ms": 144723,
       "name": "YA MOULA (SLOWED)",
       "url": "https://open.spotify.com/track/0dWVAQoRtVc5XBy7qOrOk3"
+    },
+    {
+      "album": {
+        "name": "YA ZINA (GUAPA)",
+        "url": "https://open.spotify.com/album/1eOtwP7tRr793JXfrvo7Ge"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130571,
+      "name": "YA ZINA (GUAPA)",
+      "url": "https://open.spotify.com/track/2P1TVmmeDXGjcP5CX8lSKA"
     },
     {
       "album": {

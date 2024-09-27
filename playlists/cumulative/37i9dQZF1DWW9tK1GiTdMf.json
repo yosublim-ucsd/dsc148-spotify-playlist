@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: blink-182",
+  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: Ottobre",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "anche te//come me",
+        "url": "https://open.spotify.com/album/4gVpM8xkfIrJhGVLTeASBO"
+      },
+      "artists": [
+        {
+          "name": "Jaroslav",
+          "url": "https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125161,
+      "name": "anche te//come me",
+      "url": "https://open.spotify.com/track/5bL4EJTKUrbE7dGUA1yOXz"
+    },
+    {
+      "album": {
         "name": "ANCORA UNA VOLTA",
         "url": "https://open.spotify.com/album/6P9EiegBiiI8J4mlsfpNQn"
       },
@@ -1604,6 +1622,24 @@
       "duration_ms": 156610,
       "name": "Angelo Custode",
       "url": "https://open.spotify.com/track/4ArazHVoCAt3FP5GqV2dWd"
+    },
+    {
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/5uBEgtnON3mPiRzTaytXQa"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156617,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/6FlqnN8TCxJcxKV7ICdrxQ"
     },
     {
       "album": {
@@ -2251,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Baricentro",
+        "url": "https://open.spotify.com/album/3UPZYaTiD1poQYbnLwzoln"
+      },
+      "artists": [
+        {
+          "name": "SickTeens",
+          "url": "https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184645,
+      "name": "Baricentro",
+      "url": "https://open.spotify.com/track/6Qxl3xEPGE1fYW6oiL6ld8"
+    },
+    {
+      "album": {
         "name": "Barna",
         "url": "https://open.spotify.com/album/3RhMpDJAtwHrciiH71csMC"
       },
@@ -2456,7 +2510,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151558,
       "name": "Betty",
       "url": "https://open.spotify.com/track/7M44cUOP5mNIP2nAylun3i"
@@ -4126,6 +4180,24 @@
       "duration_ms": 192000,
       "name": "CONTROMANO",
       "url": "https://open.spotify.com/track/7HJJTFPgHyai0jmwHEayMI"
+    },
+    {
+      "album": {
+        "name": "CONTROTENDENZA",
+        "url": "https://open.spotify.com/album/1OyhhVDOnW7iPpQZiGv5sn"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162636,
+      "name": "CONTROTENDENZA",
+      "url": "https://open.spotify.com/track/5SbJsHdUcURXGerOQIAcQe"
     },
     {
       "album": {
@@ -7227,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "FLUO",
+        "url": "https://open.spotify.com/album/1M2svVl2NMAdjXUYw3wiBI"
+      },
+      "artists": [
+        {
+          "name": "Camilla PNK",
+          "url": "https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116655,
+      "name": "FLUO",
+      "url": "https://open.spotify.com/track/2HTTL7gbGfX4ykAWRZozyB"
+    },
+    {
+      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -9534,7 +9624,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 173771,
       "name": "Io, te, le stelle",
       "url": "https://open.spotify.com/track/7wd4ZzcVFRciH4qZdQIEER"
@@ -10226,7 +10316,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145959,
       "name": "La mia ragazza \u00e8 una bambola mezza morta",
       "url": "https://open.spotify.com/track/2vmuyZbr2MsBLHRz2XqSLs"
@@ -12953,6 +13043,28 @@
     },
     {
       "album": {
+        "name": "NON ERA AMORE",
+        "url": "https://open.spotify.com/album/21p5YGa8g4e7fsNFXdgvZX"
+      },
+      "artists": [
+        {
+          "name": "YAMI",
+          "url": "https://open.spotify.com/artist/2xbuMk1mfI2YFs5bSrLz1J"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169044,
+      "name": "NON ERA AMORE",
+      "url": "https://open.spotify.com/track/72OBcxbgEcS2pmMjaA5C2e"
+    },
+    {
+      "album": {
         "name": "Non fa per me",
         "url": "https://open.spotify.com/album/34W0ANfNz551RHuo1m3CcU"
       },
@@ -14746,7 +14858,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 159677,
       "name": "piercing all\u2019anima",
       "url": "https://open.spotify.com/track/10P5TUZxRYHCY9C82Zn9VF"
@@ -15476,7 +15588,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151719,
       "name": "Punk 2003",
       "url": "https://open.spotify.com/track/7c68uZTnjSJx2LR932Xqsy"
@@ -16428,7 +16540,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 176800,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/41syEhXDtHnU1T2cHESFWb"
@@ -17932,7 +18044,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 189000,
       "name": "SPARECCHIATA",
       "url": "https://open.spotify.com/track/4azAKcJamLKIqIh9xL4pp1"
@@ -18574,7 +18686,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 108795,
       "name": "STUCK",
       "url": "https://open.spotify.com/track/5DhDVgtZ3jTT9hB1y7Wlzg"
@@ -18760,7 +18872,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 156857,
       "name": "Sulla cresta dell'ombra",
       "url": "https://open.spotify.com/track/3hC8q6SN1WvHQVMAVNTXjt"

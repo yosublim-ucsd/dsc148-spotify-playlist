@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Roi 6/12, SNIK, DIFF",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 121481,
       "name": "AEGEAN",
       "url": "https://open.spotify.com/track/1JDmUtfFSqh2KQQPPQiiKK"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 165600,
       "name": "ALE",
       "url": "https://open.spotify.com/track/3z08xHO2BBjuYqoDXP6MId"
@@ -311,6 +311,36 @@
     },
     {
       "album": {
+        "name": "ATARII",
+        "url": "https://open.spotify.com/album/4LvFOsnhGS4GNxqi9zZXf0"
+      },
+      "artists": [
+        {
+          "name": "Dan Theo",
+          "url": "https://open.spotify.com/artist/0NqenrJcLDQ0mw4KLMCB3n"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "\u039d.\u039f.\u0395.",
+          "url": "https://open.spotify.com/artist/32YyBhznrvsMy7KtZRZxU5"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "ATARII",
+      "url": "https://open.spotify.com/track/55zrEhzZSjs2iqVPq9hdbU"
+    },
+    {
+      "album": {
         "name": "ATHINA",
         "url": "https://open.spotify.com/album/6R6psrXwDcQEFkXn2Ni3oG"
       },
@@ -434,6 +464,28 @@
       "duration_ms": 209647,
       "name": "BANDA",
       "url": "https://open.spotify.com/track/0qwaa6tqNgy2KmTd9bdX4h"
+    },
+    {
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/4yVfICSNv1DLEMDTNM4DxJ"
+      },
+      "artists": [
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3pL7ZTyS3nKb8UZ9QnCjBp"
     },
     {
       "album": {
@@ -938,7 +990,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 157714,
       "name": "DRIFTERS",
       "url": "https://open.spotify.com/track/24Id88lGXLgMtHL7HMUAdg"
@@ -1240,7 +1292,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 182370,
       "name": "FREE RICTA",
       "url": "https://open.spotify.com/track/7oHFRhJ7dGXWLmM8WkhYRl"
@@ -1390,6 +1442,46 @@
       "duration_ms": 117557,
       "name": "Giati",
       "url": "https://open.spotify.com/track/6jKKmTfNGuoIPB9AzynlpA"
+    },
+    {
+      "album": {
+        "name": "GR",
+        "url": "https://open.spotify.com/album/2jCqETaTAqVDcUSopYq1nh"
+      },
+      "artists": [
+        {
+          "name": "Raptim",
+          "url": "https://open.spotify.com/artist/0Oyng899R3SWuy4TvI1Cs8"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159125,
+      "name": "GR",
+      "url": "https://open.spotify.com/track/2hqjB8veuFCq0TmeNsOGzV"
+    },
+    {
+      "album": {
+        "name": "Grace Kelly",
+        "url": "https://open.spotify.com/album/6U8AYnGwm4ZiJxp9Un8Ms0"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207719,
+      "name": "Grace Kelly",
+      "url": "https://open.spotify.com/track/5tBpNcPoCTHYVVfOK2ZgAb"
     },
     {
       "album": {
@@ -1578,7 +1670,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 288000,
       "name": "I Texni Tou Dromou",
       "url": "https://open.spotify.com/track/69JGTbI1YVkAV9NXIH5s1r"
@@ -1817,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "KSENOI",
+        "url": "https://open.spotify.com/album/1n6c0kMoP8pOW9Ku3Z5bsN"
+      },
+      "artists": [
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151389,
+      "name": "KSENOI",
+      "url": "https://open.spotify.com/track/4ffmObQeHlvQd9auRDsC6P"
+    },
+    {
+      "album": {
         "name": "KSIRASIA",
         "url": "https://open.spotify.com/album/7sh9ZtpnyLT9anmYqOSxAY"
       },
@@ -1936,6 +2046,28 @@
       "duration_ms": 156831,
       "name": "LETS GO",
       "url": "https://open.spotify.com/track/7k4tyBPV7TU9lVxD4OxBw8"
+    },
+    {
+      "album": {
+        "name": "LOGIA",
+        "url": "https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "LOGIA",
+      "url": "https://open.spotify.com/track/1Yz4HZyfi8U1yxvGEghicp"
     },
     {
       "album": {
@@ -2197,6 +2329,32 @@
     },
     {
       "album": {
+        "name": "ME PARAKALAS",
+        "url": "https://open.spotify.com/album/64AcBQaDf4ZOB7KsjX0euS"
+      },
+      "artists": [
+        {
+          "name": "Ripen",
+          "url": "https://open.spotify.com/artist/3swt0iznObwokupYHCnzUd"
+        },
+        {
+          "name": "Jims",
+          "url": "https://open.spotify.com/artist/06jHkKDkgO3OnF1XTok0CM"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "ME PARAKALAS",
+      "url": "https://open.spotify.com/track/7jeuaWHvbog84yqahyAObX"
+    },
+    {
+      "album": {
         "name": "Me Tin Plati Ston Toixo",
         "url": "https://open.spotify.com/album/03BswqlxZjVMAeRGtbONiV"
       },
@@ -2264,7 +2422,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 117777,
       "name": "Menei",
       "url": "https://open.spotify.com/track/6mxWs2iE5YJwO3B3I520HJ"
@@ -2656,7 +2814,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 204105,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2lzP8ZaWG45DhmaMZ7L7q3"
@@ -2744,6 +2902,28 @@
       "duration_ms": 120009,
       "name": "Prishtina",
       "url": "https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x"
+    },
+    {
+      "album": {
+        "name": "Rabanne",
+        "url": "https://open.spotify.com/album/7JlaMMchnCJOK66a1zX0x3"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Rabanne",
+      "url": "https://open.spotify.com/track/5IEfvd0RtX7WITYPiM2cN4"
     },
     {
       "album": {
@@ -3204,7 +3384,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 213191,
       "name": "Thalassa Mou",
       "url": "https://open.spotify.com/track/0euDiCESIRjGllKuuZ6Opy"
@@ -3270,7 +3450,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 237108,
       "name": "Tou Chelmou To Chioni",
       "url": "https://open.spotify.com/track/4EwpQXSCSGOxZt3NJO4kqo"
@@ -3402,6 +3582,40 @@
       "duration_ms": 134400,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG"
+    },
+    {
+      "album": {
+        "name": "Vamos A Bailar (Remix)",
+        "url": "https://open.spotify.com/album/4TuoDCYgIOylzUJlxK9jNS"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Gozzy",
+          "url": "https://open.spotify.com/artist/3PIdqBdBfOObESExrrw6Fp"
+        },
+        {
+          "name": "Cirok97",
+          "url": "https://open.spotify.com/artist/4rhhKnWTkvqZ3KtA52Juhd"
+        },
+        {
+          "name": "Dawg",
+          "url": "https://open.spotify.com/artist/3PqoTCXKalAKIercA5CAAG"
+        },
+        {
+          "name": "Danny & Victor",
+          "url": "https://open.spotify.com/artist/0SXOBows6Eq7sxpL52e94s"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261850,
+      "name": "Vamos A Bailar - Remix",
+      "url": "https://open.spotify.com/track/0W23oRsPZUU6A2E4oiDq06"
     },
     {
       "album": {

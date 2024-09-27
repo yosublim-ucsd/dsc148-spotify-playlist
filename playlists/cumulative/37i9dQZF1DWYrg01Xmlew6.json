@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Cover: Frezza",
+  "description": "Rap napoletano e il meglio della scena campana. Cover: Vale Lambo, Artie 5ive",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 174814,
       "name": "Ancora cc\u00e0",
       "url": "https://open.spotify.com/track/0W17TDYYspigcSiChTy9ln"
+    },
+    {
+      "album": {
+        "name": "Antiproiettile",
+        "url": "https://open.spotify.com/album/27aINAwVGkZ6bdJfDgmJeo"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132371,
+      "name": "Antiproiettile",
+      "url": "https://open.spotify.com/track/4BJFcW9kap7twC9fFqItxu"
     },
     {
       "album": {
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 174600,
       "name": "Marijuana (feat. Rhove)",
       "url": "https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk"
@@ -4985,6 +5003,32 @@
     },
     {
       "album": {
+        "name": "Lamborghini a Via Marina V2",
+        "url": "https://open.spotify.com/album/3jXZ8G2pAtUuoGgiaq77cJ"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Niko Beatz",
+          "url": "https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209438,
+      "name": "Palm Angels (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/6giqG8OVQjOAcRxyr9nUBn"
+    },
+    {
+      "album": {
         "name": "Pane e miseria",
         "url": "https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS"
       },
@@ -6010,7 +6054,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170209,
       "name": "RNAR SPUORCH",
       "url": "https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM"

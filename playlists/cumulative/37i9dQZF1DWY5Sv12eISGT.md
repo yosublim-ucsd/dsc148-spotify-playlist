@@ -4,13 +4,14 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-56 songs - 2 hr 57 min
+57 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 | 2024-02-16 |  |
 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 | 2024-02-16 |  |
 | [Aparo \(With Lisa Oduor\-Noah\) \- Acoustic](https://open.spotify.com/track/3V9O5e55cXGgDT8L0Xk9bX) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Lisa Oduor Noah](https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e) | [The Change Experience](https://open.spotify.com/album/3gLCcJQngVtacSslBa39qG) | 3:51 | 2024-02-16 | 2024-05-17 |
+| [ARABAMBI \- Acoustic](https://open.spotify.com/track/3IWrciCBCWopk57MBY9lgL) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI \(Acoustic\)](https://open.spotify.com/album/4MfFAULzlha3XyidqSykLu) | 3:36 | 2024-09-26 |  |
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2024-02-16 | 2024-04-19 |
 | [Be Honest \- Acoustic](https://open.spotify.com/track/7bDCBn5W4rLCQAJiUAymCk) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lost & Found](https://open.spotify.com/album/6rr0eXdvaplCmUWqT1t1Dp) | 3:11 | 2024-02-16 |  |
 | [Born Again \- Acoustic](https://open.spotify.com/track/1fQhMICbWZaN2yAwY4rPWE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:26 | 2024-02-16 |  |
@@ -61,7 +62,7 @@
 | [Tuwe Pamoja](https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 3:12 | 2024-05-16 |  |
 | [Waweza \- Acoustic](https://open.spotify.com/track/6AfPqQJSZVsNNsNXDBq0Fq) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:28 | 2024-02-16 | 2024-06-07 |
 | [Why \- Acoustic](https://open.spotify.com/track/0kucibR8w2hmkQQrebXYoI) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/1JR49izONyolUbhNKuEWxv) | 4:25 | 2024-02-16 |  |
-| [You \- Acoustic](https://open.spotify.com/track/3slo8zKU8F9mh8hOoKb4RR) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You \(Acoustic\)](https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD) | 3:18 | 2024-02-16 |  |
+| [You \- Acoustic](https://open.spotify.com/track/3slo8zKU8F9mh8hOoKb4RR) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You \(Acoustic\)](https://open.spotify.com/album/7n8AkKWLDDIcYeQcA3J2jD) | 3:18 | 2024-02-16 | 2024-09-27 |
 | [Your Body \- Acoustic](https://open.spotify.com/track/3oFeYtCozau0mRTzDV92H7) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Acoustic\)](https://open.spotify.com/album/3XZ6nx117dwC2emyIfacwU) | 3:26 | 2024-02-16 |  |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2024-02-16 |  |
 

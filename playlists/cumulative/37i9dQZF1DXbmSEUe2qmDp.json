@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Rapha & Leo",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Lia Almeida",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "album": {
-        "name": "Adivinha - Ao Vivo",
+        "name": "Adivinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/0a5f86wa5kDp1HSlZi1FBJ"
       },
       "artists": [
@@ -636,6 +636,24 @@
       "duration_ms": 178235,
       "name": "Deixa Eu Sofrer De Boa",
       "url": "https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/6FYb9qWuebuLrFC1uBJwKf"
+      },
+      "artists": [
+        {
+          "name": "Kaik & Alessandro",
+          "url": "https://open.spotify.com/artist/17sMphO0GKc9mhyTvi0CSz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166287,
+      "name": "Depois do Seu Ch\u00e1",
+      "url": "https://open.spotify.com/track/1ns9ot3aQ1IMb34j50tc99"
     },
     {
       "album": {
@@ -1313,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "\u00c9 Melhor Terminar",
+        "url": "https://open.spotify.com/album/5E7iilM3EROsuJaq9luMeR"
+      },
+      "artists": [
+        {
+          "name": "Rafael Garcez",
+          "url": "https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159606,
+      "name": "Melhor Terminar",
+      "url": "https://open.spotify.com/track/5l0dxtmRP6WScVzWf8iWoK"
+    },
+    {
+      "album": {
         "name": "menina durona",
         "url": "https://open.spotify.com/album/1PIQ7UHVnuXa0nYzxraT09"
       },
@@ -1575,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Carta Cantada (Ao Vivo / Vol.02)",
+        "url": "https://open.spotify.com/album/55WY3gDFGhIvaoIrf1oEVf"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Luan",
+          "url": "https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171408,
+      "name": "Numa Beijada S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GsIQ2AQ3yCkEuDH7cSX6V"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Prometi (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Rzr4LTFJzDZv37ZaQs3B8"
       },
@@ -1586,7 +1644,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 143751,
       "name": "N\u00e3o Prometi - Ao Vivo",
       "url": "https://open.spotify.com/track/0XTJllfB214MgvmVp8LoDm"
@@ -1644,7 +1702,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 146595,
       "name": "O Cavalo Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/5hr4ymkcRUjity5OZGPBDD"
@@ -1768,7 +1826,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 129448,
       "name": "Pega Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd"
@@ -1834,6 +1892,24 @@
       "duration_ms": 176927,
       "name": "Pinta o Cabelo de Preto - Ao Vivo",
       "url": "https://open.spotify.com/track/6TNzZlazTQW7FakRpxDe0N"
+    },
+    {
+      "album": {
+        "name": "Diamante - Ao Vivo",
+        "url": "https://open.spotify.com/album/0B7vRvo3zHaLJf9ZT9tOQH"
+      },
+      "artists": [
+        {
+          "name": "Gabi Suarez",
+          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165397,
+      "name": "Piolho de Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wTMPXrbfv17RkDv8dBz6q"
     },
     {
       "album": {
@@ -1971,6 +2047,50 @@
     },
     {
       "album": {
+        "name": "Simples Assim 2 (Ao Vivo / EP2)",
+        "url": "https://open.spotify.com/album/1A6fzpL93HxUjkShBWq1Oq"
+      },
+      "artists": [
+        {
+          "name": "Theo & Luan",
+          "url": "https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154258,
+      "name": "Proporcional - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AKMvNOTMHoqiL08yt92d4"
+    },
+    {
+      "album": {
+        "name": "P\u00f5e Ela no Grupo",
+        "url": "https://open.spotify.com/album/5SI41ud6XRbasI61Wyw6bK"
+      },
+      "artists": [
+        {
+          "name": "Tulio & Gabriel",
+          "url": "https://open.spotify.com/artist/3j9kuRHjMoU3ixvvnUwW3i"
+        },
+        {
+          "name": "Netto & Henrique",
+          "url": "https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149357,
+      "name": "P\u00f5e Ela no Grupo",
+      "url": "https://open.spotify.com/track/5Z1s8rvAfsvOQHLrjxyeVy"
+    },
+    {
+      "album": {
         "name": "P\u00fablico (Ao Vivo)",
         "url": "https://open.spotify.com/album/727C5Kq5DwQCKGFWsddWSN"
       },
@@ -2022,6 +2142,28 @@
       "duration_ms": 173962,
       "name": "Que Se Dane o Mundo",
       "url": "https://open.spotify.com/track/6u9PQcl9LvNB1FvcKBT0jq"
+    },
+    {
+      "album": {
+        "name": "Quer Largar",
+        "url": "https://open.spotify.com/album/6slVe3jfiWDexWlRzr6ktN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Prado",
+          "url": "https://open.spotify.com/artist/1c1oxdeyIkX3LHB00FqEEj"
+        },
+        {
+          "name": "Mauro & Matheus",
+          "url": "https://open.spotify.com/artist/7kRbP7yUYOFNA8F1U4OTN3"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Quer Largar",
+      "url": "https://open.spotify.com/track/5IAzIHR8BLPHXMVDridYwC"
     },
     {
       "album": {
@@ -2084,7 +2226,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 146564,
       "name": "Roxo Novo",
       "url": "https://open.spotify.com/track/6dV91iaRfborYMJ4fIHGzW"
@@ -2181,6 +2323,28 @@
     },
     {
       "album": {
+        "name": "Saudade Relativa (Live)",
+        "url": "https://open.spotify.com/album/1Yyms5MVdAovVfMiVdp9A2"
+      },
+      "artists": [
+        {
+          "name": "Guto Ferreira",
+          "url": "https://open.spotify.com/artist/6Kc6ZoYipesoUruoqxadUI"
+        },
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135810,
+      "name": "Saudade Relativa - Live",
+      "url": "https://open.spotify.com/track/5CTJpwToX8yQ69hQ5NHspP"
+    },
+    {
+      "album": {
         "name": "Se Tocar Bruno e Marrone (Solta a Voz e Vem Com N\u00f3is, Ao Vivo)",
         "url": "https://open.spotify.com/album/3zpeO4z561mDNaEpN7ZO2d"
       },
@@ -2192,7 +2356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 179937,
       "name": "Se Tocar Bruno e Marrone - Solta a Voz e Vem Com N\u00f3is, Ao Vivo",
       "url": "https://open.spotify.com/track/7FpLr2e3ygHl30w2vJslqW"
@@ -2296,6 +2460,24 @@
       "duration_ms": 156240,
       "name": "Sofredor - Ao Vivo",
       "url": "https://open.spotify.com/track/77RvRNsebxFyEAujg1I0FP"
+    },
+    {
+      "album": {
+        "name": "Lia Almeida (Ac\u00fastico em Goi\u00e2nia) - Ao Vivo",
+        "url": "https://open.spotify.com/album/2j5xxbWnGpDBBc643MCKEA"
+      },
+      "artists": [
+        {
+          "name": "Lia Almeida",
+          "url": "https://open.spotify.com/artist/16ylY6k93Jpm6FZde0uVB8"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199861,
+      "name": "Solterei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2giSZ3SuJ0qNHdEPzYVgAU"
     },
     {
       "album": {

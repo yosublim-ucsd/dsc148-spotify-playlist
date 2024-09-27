@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Amor de folclore",
+        "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
+      },
+      "artists": [
+        {
+          "name": "Bau\u00ea",
+          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150897,
+      "name": "Amor de folclore",
+      "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
+    },
+    {
+      "album": {
         "name": "Aonde Eu Sou Cria",
         "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 164571,
       "name": "Belo Horizonte 30 Graus A Noite",
       "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
@@ -5543,6 +5561,36 @@
     },
     {
       "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/22PoPcuY1njLQFo1PnfhT6"
+      },
+      "artists": [
+        {
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162964,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/2lWUEgcKASO2jlL8Fq2JJj"
+    },
+    {
+      "album": {
         "name": "KEN ELAS QUER",
         "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
       },
@@ -6832,7 +6880,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 183333,
       "name": "Mexe e Desce",
       "url": "https://open.spotify.com/track/7G69O16eHGeCqrEwMcxED2"
@@ -8450,7 +8498,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150602,
       "name": "PEGA PEGA",
       "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
@@ -9179,6 +9227,32 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3ximo Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Hustle",
+          "url": "https://open.spotify.com/artist/5sEZlkCGB1nGk1nUfvnHbK"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LSG",
+          "url": "https://open.spotify.com/artist/6o6NZhTeBLatr9cW2CoKoX"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192379,
+      "name": "Pr\u00f3ximo Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl"
       },
@@ -9454,6 +9528,28 @@
       "duration_ms": 180651,
       "name": "Refil de Whisky",
       "url": "https://open.spotify.com/track/1oIHYi7EM3FJxGORXQffb8"
+    },
+    {
+      "album": {
+        "name": "Remessa Estrangeira (Remix)",
+        "url": "https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr"
+      },
+      "artists": [
+        {
+          "name": "2HEAVY BEATS",
+          "url": "https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117125,
+      "name": "Remessa Estrangeira - Remix",
+      "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
     },
     {
       "album": {
@@ -10751,6 +10847,36 @@
     },
     {
       "album": {
+        "name": "Lutas & Gl\u00f3rias",
+        "url": "https://open.spotify.com/album/485P61YLgB9U6EGXRoU8h1"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "kvns",
+          "url": "https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Signo",
+      "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
+    },
+    {
+      "album": {
         "name": "Sorrisin de Puto",
         "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
       },
@@ -10814,7 +10940,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140506,
       "name": "Suco de Fruta",
       "url": "https://open.spotify.com/track/47vNIixENMn2RxcNrGwOlo"
@@ -11934,7 +12060,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 161323,
       "name": "West Coast Capital",
       "url": "https://open.spotify.com/track/2RbvKJvzq8QglRPTKOy95Z"

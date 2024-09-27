@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "National Geographic Soundscapes: National Parks USA",
+        "url": "https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN"
+      },
+      "artists": [
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44958,
+      "name": "Afternoon Sounds in Everglades National Park",
+      "url": "https://open.spotify.com/track/4z63h0szwUTS5Fxqd1nhdy"
+    },
+    {
+      "album": {
         "name": "Music from Earth Moods (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
       },

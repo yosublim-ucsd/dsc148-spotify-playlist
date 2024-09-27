@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 213333,
       "name": "Believe (Reinier Zonneveld & Zeltak 2024 Remix)",
       "url": "https://open.spotify.com/track/0JvU6uZaK2SzYActrkZQKn"
@@ -2628,6 +2628,28 @@
       "duration_ms": 308813,
       "name": "Free Woman",
       "url": "https://open.spotify.com/track/5GvQguudhdHThYfrv74gVL"
+    },
+    {
+      "album": {
+        "name": "Magma EP",
+        "url": "https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ"
+      },
+      "artists": [
+        {
+          "name": "Dubfire",
+          "url": "https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI"
+        },
+        {
+          "name": "Flug",
+          "url": "https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387491,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf"
     },
     {
       "album": {

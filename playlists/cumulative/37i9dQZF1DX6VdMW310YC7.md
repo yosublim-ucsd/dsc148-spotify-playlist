@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,683 songs - 4 day 19 hr 19 min
+1,684 songs - 4 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Early Summer](https://open.spotify.com/track/4HkWtJ0xN3bHxxXUEdTTGT) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:43 | 2020-05-18 | 2021-03-06 |
 | [Easy \- Mild Minds Remix](https://open.spotify.com/track/2VpJB1vzL9ZadZ3gF8GQBv) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [Easy \(Mild Minds Remix\)](https://open.spotify.com/album/1wPZA3sgmTciBOhylvZNmv) | 5:56 | 2020-11-20 | 2022-05-03 |
 | [Easy On My Love](https://open.spotify.com/track/42vz4Q29BTq6MH4HFDtsi1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Easy On My Love](https://open.spotify.com/album/3FL3JphfQUd1U0TCmToEnU) | 3:04 | 2020-05-18 | 2020-07-03 |
+| [Echo](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb) | [Echo](https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj) | 2:26 | 2024-09-20 |  |
 | [ECHO \(LET GO\)](https://open.spotify.com/track/5wRrFp0QbRIMfWrdUdanE7) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [IZII](https://open.spotify.com/artist/161mym5juYaMTRpbcVqmFf) | [ECHO \(LET GO\)](https://open.spotify.com/album/6cokunXDFVhfjAQaaPTewC) | 4:05 | 2020-05-22 | 2020-07-03 |
 | [Egypt](https://open.spotify.com/track/6fXMWTckEitvM78hW5PilD) | [Diamans](https://open.spotify.com/artist/76tvOhyl5wZuIAvNNzm8Se) | [Egypt](https://open.spotify.com/album/4RGqIg01HZeuerR3ABzMcV) | 3:51 | 2020-03-20 | 2021-07-28 |
 | [Elements](https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 6:15 | 2024-04-05 | 2024-04-19 |
@@ -574,7 +575,7 @@
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2020-07-18 | 2020-10-09 |
 | [Glad I Found You \(feat\. George FitzGerald\) \- Club Mix](https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You \(feat\. George FitzGerald\) \- Club Mix](https://open.spotify.com/album/1HxflBDbLpn0KNKGehQZ6Y) | 5:24 | 2024-05-10 |  |
 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 | 2024-02-16 |  |
-| [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 | 2024-04-19 |  |
+| [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 | 2024-04-19 | 2024-09-27 |
 | [Gliding](https://open.spotify.com/track/6pQlrYdRh9ok8RH2KjERCR) | [Man with Roses](https://open.spotify.com/artist/0BBbzYKSv3a8JcZKmQ1sEK) | [Shadows](https://open.spotify.com/album/1HnPer7GKwHxaGYendApBx) | 3:37 | 2020-11-13 | 2021-03-06 |
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-05-20 | 2022-12-29 |
 | [Glossy1s](https://open.spotify.com/track/3zS3IoZ1KZwmEpqv1Twskx) | [LAN Party](https://open.spotify.com/artist/36wyiTjdoqXLqKzPi1aWho) | [Glossy1s](https://open.spotify.com/album/3HqeCYKjmUdNNrQRdRvnbT) | 2:51 | 2020-07-18 | 2020-10-09 |

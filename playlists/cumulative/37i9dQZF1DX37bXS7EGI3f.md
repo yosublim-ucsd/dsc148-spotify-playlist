@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-626 songs - 2 day 0 hr 1 min
+627 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Living Room](https://open.spotify.com/track/4siB4DG9qAUrACMcIJOhGF) | [David Maxim Micic](https://open.spotify.com/artist/0wQa1N4q3HmLwxqkpVcYhs) | [Who Bit the Moon](https://open.spotify.com/album/4XlMNDp7GSFGF56dw5CJG5) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [Load Your Cannons](https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ) | [Saint Deamon](https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG) | [Load Your Cannons](https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j) | 3:30 | 2023-03-24 | 2023-04-21 |
 | [Loki](https://open.spotify.com/track/5p1QCPjzj78AugCNUMsxCi) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Loki](https://open.spotify.com/album/3f3Qg35UJ1vXOU8CJcreMj) | 3:56 | 2020-11-29\* | 2021-02-26 |
-| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 |  |
+| [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 | 2022-05-27 | 2024-09-27 |
 | [Lonely Tears in Chinatown](https://open.spotify.com/track/3poXKPjtgJdt9Y1WbTsZOv) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Lonely Tears in Chinatown](https://open.spotify.com/album/41wAvfdHHgyW20L37DcYQr) | 3:40 | 2021-10-16 | 2021-11-20 |
 | [Louder Than Hell](https://open.spotify.com/track/4y8jRLVaKNEPx1Ri1uAhaN) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Louder Than Hell](https://open.spotify.com/album/5gtMaHTNhK0VBgFyP8i1uZ) | 4:26 | 2020-11-29\* | 2021-06-04 |
 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 | 2021-12-11 |  |
@@ -432,6 +432,7 @@
 | [Relentless Fury](https://open.spotify.com/track/1RGDlueHxiU2hXPdiS83ZE) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Relentless Fury](https://open.spotify.com/album/2h2y2irPxrElMVXwL5a2Xm) | 5:36 | 2021-06-04 | 2022-01-22 |
 | [Renegades \- A Lost Generation](https://open.spotify.com/track/3kC8vMBjFOaJNga7OATlHt) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Renegades \- A Lost Generation](https://open.spotify.com/album/5r1cRfBEU73bqr84ml7yqH) | 4:32 | 2020-11-29\* | 2021-05-21 |
 | [Resurrection by Erection \- Rerecorded Version](https://open.spotify.com/track/1Tcn7HQSCQzyzzUhonDuag) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Best of the Blessed \(Deluxe Version\)](https://open.spotify.com/album/4NXUfOL0Y0GFCyIivAhJUu) | 4:02 | 2020-11-29\* | 2021-09-25 |
+| [Retrospectator](https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 2:57 | 2024-09-20 |  |
 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 | 2022-01-21 | 2023-04-14 |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 | 2022-07-30 |
 | [Rip & Tear](https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P) | [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Doom \(Original Game Soundtrack\)](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) | 4:17 | 2022-07-13 | 2022-07-30 |

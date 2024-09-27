@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Jessé Alcantara
 
-429 songs - 22 hr 4 min
+430 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Jesus Tá Vendo Seu Corre](https://open.spotify.com/track/2XHjZrVsjb6DKLigH3JGKP) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Jesus Tá Vendo Seu Corre](https://open.spotify.com/album/4F5IPg8ZXKtBQ6lySq2q5X) | 2:20 | 2022-03-22 | 2022-03-26 |
 | [Joquebede](https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [Joquebede](https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb) | 2:49 | 2022-04-15 | 2024-04-19 |
 | [Josué](https://open.spotify.com/track/2iRkqHy6UISks72qUAwqL7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Josué](https://open.spotify.com/album/4alndyUSzhaSpXTllj2BEw) | 2:57 | 2024-04-26 | 2024-09-07 |
+| [João 16:33](https://open.spotify.com/track/3Da9B1a75oSL23u8UqS4nE) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [João 16:33](https://open.spotify.com/album/2Oipu9q43QiXD7RwCiGN6s) | 2:37 | 2024-09-27 |  |
 | [Juízo Final](https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Juízo Final](https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf) | 2:29 | 2023-02-25 | 2024-03-02 |
 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 | 2022-03-25 | 2024-06-01 |
 | [Kaboom \(feat\. Felipe Vilela & Thiagão\)](https://open.spotify.com/track/6RXvJRbUPnfgLHXtGJnUZB) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Kaboom](https://open.spotify.com/album/0uZGLgKXyJ5KntLEHDtzAs) | 5:05 | 2022-03-22 | 2022-08-20 |
@@ -257,7 +258,7 @@
 | [Natal pro Rio](https://open.spotify.com/track/0ELZOeWnt0G3TJkpOqHv40) | [Lxlrod](https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A), [GT](https://open.spotify.com/artist/1XR3lAp7FDsp1bgnREtkOH), [Dzin G](https://open.spotify.com/artist/0CxVZjFyduHWEE7ELjS2H6) | [É o Rod no Beat](https://open.spotify.com/album/7MwpwYRDWOHryy1h04Ud2Z) | 2:37 | 2023-06-02 | 2023-06-24 |
 | [Nemo](https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [Nemo](https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i) | 1:55 | 2024-04-05 | 2024-06-29 |
 | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID) | 3:45 | 2022-03-22 | 2022-08-20 |
-| [Never Alone](https://open.spotify.com/track/152L1Bme6S8X23yma4Hpmy) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [Ratim Improvável](https://open.spotify.com/artist/5aLxjEyIMuXJBWTw0JJELZ) | [Never Alone](https://open.spotify.com/album/5m9IAKnYtsNdfqBRcEPf3h) | 3:56 | 2024-08-16 |  |
+| [Never Alone](https://open.spotify.com/track/152L1Bme6S8X23yma4Hpmy) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [Ratim Improvável](https://open.spotify.com/artist/5aLxjEyIMuXJBWTw0JJELZ) | [Never Alone](https://open.spotify.com/album/5m9IAKnYtsNdfqBRcEPf3h) | 3:56 | 2024-08-16 | 2024-09-27 |
 | [Ninguém Falou Que Ia Ser Fácil, Pt.2](https://open.spotify.com/track/7fKFhXOQ6xRitjMXkXJ7y6) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Ninguém Falou Que Ia Ser Fácil, Pt.2](https://open.spotify.com/album/10q6xhQ0hTnLz9q7PsVOvd) | 3:09 | 2023-06-16 | 2023-07-08 |
 | [Ninguém Me Entende](https://open.spotify.com/track/0tvZuMM9m91THeT5mB6tZZ) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ninguém Me Entende](https://open.spotify.com/album/0H6cZpz9voCS4SpneRvu3f) | 3:18 | 2023-03-03 | 2023-10-07 |
 | [Noite Toda](https://open.spotify.com/track/62FFvJ3xOjcR2QQ1gVQ8Jb) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Noite Toda](https://open.spotify.com/album/7CogwA3gebU5MrYn4axZ7o) | 2:21 | 2023-09-15 | 2023-10-07 |

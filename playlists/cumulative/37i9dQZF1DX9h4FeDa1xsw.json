@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 139354,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R"
@@ -168,6 +168,28 @@
       "duration_ms": 167000,
       "name": "Comment on s'aime ?",
       "url": "https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL"
+    },
+    {
+      "album": {
+        "name": "Hypersensible",
+        "url": "https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW"
+      },
+      "artists": [
+        {
+          "name": "Gringe",
+          "url": "https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt"
+        },
+        {
+          "name": "Saan",
+          "url": "https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195374,
+      "name": "Corde Sensible",
+      "url": "https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB"
     },
     {
       "album": {
@@ -525,6 +547,24 @@
     },
     {
       "album": {
+        "name": "MAUDIT",
+        "url": "https://open.spotify.com/album/4WbHWg8qFWBN7m4wYbCVHt"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209753,
+      "name": "MAUDIT",
+      "url": "https://open.spotify.com/track/460uCEB54eEUyCtoApYO8b"
+    },
+    {
+      "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
       },
@@ -536,7 +576,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170413,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
@@ -749,6 +789,24 @@
     },
     {
       "album": {
+        "name": "S'en aller",
+        "url": "https://open.spotify.com/album/0V5N9ypMeiQUoTz2yg5kQt"
+      },
+      "artists": [
+        {
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "S'en aller",
+      "url": "https://open.spotify.com/track/36FqO4FQbE4rB7AKMIWjoq"
+    },
+    {
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/1oClw21WLAxwKEaYLa7XE7"
       },
@@ -760,7 +818,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 231540,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/5tXSuBrfIYLTJPLGa0pKhi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Daniil Trifonov.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,605 likes - 66 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,650 likes - 66 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

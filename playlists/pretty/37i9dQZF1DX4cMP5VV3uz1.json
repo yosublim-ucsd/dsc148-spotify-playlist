@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 158674,
+  "num_followers": 158733,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Armed & Dangerous",
         "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 234586,
       "name": "Armed & Dangerous",
       "url": "https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Yoyo Bop",
-        "url": "https://open.spotify.com/album/4rzQ6jiV2sFzWMzahgAU3t"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Yoyo Bop",
-      "url": "https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "So Different",
-        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+        "name": "Yoyo Bop",
+        "url": "https://open.spotify.com/album/4rzQ6jiV2sFzWMzahgAU3t"
       },
       "artists": [
         {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "TOYZZ",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
         }
       ],
-      "duration_ms": 180000,
-      "name": "So Different",
-      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
+      "duration_ms": 224914,
+      "name": "Yoyo Bop",
+      "url": "https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 178466,
       "name": "Killamanjaro",
       "url": "https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Hardcore Riddim",
-        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        }
-      ],
-      "duration_ms": 249228,
-      "name": "Hardcore Riddim",
-      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Ain't No Way 2024 (Badger Remix)",
         "url": "https://open.spotify.com/album/7D26m4Gg8kwDu7Le40GwuG"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 210000,
       "name": "Ain't No Way 2024 - Badger Remix",
       "url": "https://open.spotify.com/track/53Li5rh0X1lDALehdJEPqa"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Hardcore Riddim",
+        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        }
+      ],
+      "duration_ms": 249228,
+      "name": "Hardcore Riddim",
+      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
       },
@@ -1435,42 +1451,6 @@
       "duration_ms": 125000,
       "name": "BARRIN' ALOT (FREESTYLE)",
       "url": "https://open.spotify.com/track/7HpTKnBG6kCKYxjjyTmolW"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "POW",
-        "url": "https://open.spotify.com/album/1y2JrNJFsvZmSoE3BjrjYZ"
-      },
-      "artists": [
-        {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 274650,
-      "name": "POW",
-      "url": "https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1531,6 +1511,26 @@
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "POW",
+        "url": "https://open.spotify.com/album/1y2JrNJFsvZmSoE3BjrjYZ"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 274650,
+      "name": "POW",
+      "url": "https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn"
     },
     {
       "added_at": "2024-09-19 23:00:00",

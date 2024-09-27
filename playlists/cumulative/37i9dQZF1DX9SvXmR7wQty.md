@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Choses Sauvages
 
-2,832 songs - 6 day 6 hr 41 min
+2,833 songs - 6 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 | 2022-07-09 |
 | [7 Uzi](https://open.spotify.com/track/22BMdsJm95FJGyiK5XzdIj) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Keusty](https://open.spotify.com/artist/4cmRb0sfE6QnlINaOtn35M), [Shotas](https://open.spotify.com/artist/626MEj1uIFt7eZMSroO01a), [Kodes](https://open.spotify.com/artist/3fnfvu19t4JYyEkRldXsO5), [2zé](https://open.spotify.com/artist/1NBrJG76XnhbuMEBxxXX7r), [Chicaille Argenté](https://open.spotify.com/artist/22VOejB8RaATr9yhodu6U3) | [7 Uzi](https://open.spotify.com/album/1oKrha0O4QQUW5xFw92sQL) | 4:24 | 2022-03-11 | 2022-03-18 |
-| [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 | 2024-08-23 |  |
+| [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 | 2024-08-23 | 2024-09-27 |
 | [8 ans de salaire](https://open.spotify.com/track/1AGy61Df105nt3MyWnhbL7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [8 ans de salaire](https://open.spotify.com/album/0AD00MJCMlCDRM6exosReC) | 2:59 | 2022-12-16 | 2023-01-14 |
 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 | 2023-01-27 | 2023-02-18 |
 | [90's Kids](https://open.spotify.com/track/2C9M2GYggI0cLSwj78nH08) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [90's Kids](https://open.spotify.com/album/4Pt8TazPUHTsJ53mMxczBO) | 3:30 | 2023-09-01 | 2023-09-09 |
@@ -1736,6 +1736,7 @@
 | [Mon sang](https://open.spotify.com/track/4x6YcJgEFXLZiCYkaexWYA) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Prince Limonade](https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M) | 2:19 | 2022-10-14 | 2022-10-29 |
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 | 2024-08-08 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
+| [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2024-09-20 |  |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |
 | [MONEY MAKER](https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE) | 2:32 | 2023-12-08 | 2024-01-03 |

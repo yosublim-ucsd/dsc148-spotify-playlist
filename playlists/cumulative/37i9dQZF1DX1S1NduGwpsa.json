@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: RAYE",
+  "description": "The best jazz new releases. Cover: Lady Gaga",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1520,6 +1520,32 @@
       "duration_ms": 272323,
       "name": "Brand New Life (feat. Mumu Fresh)",
       "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+    },
+    {
+      "album": {
+        "name": "Brightlight",
+        "url": "https://open.spotify.com/album/2DzL99zIgTZEyc4w78sJZS"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208552,
+      "name": "Brightlight",
+      "url": "https://open.spotify.com/track/6bbrT0pWJJXgyDnQQN0064"
     },
     {
       "album": {
@@ -3118,6 +3144,24 @@
       "duration_ms": 188240,
       "name": "Drive My Car",
       "url": "https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/4NSDfQZFfOcEXd844BfSjl"
+      },
+      "artists": [
+        {
+          "name": "Kimberose",
+          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Du rose ou rien",
+      "url": "https://open.spotify.com/track/7stEmmDdoPmMFPeutgMmS1"
     },
     {
       "album": {
@@ -6125,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Kickin' Your Ass",
+        "url": "https://open.spotify.com/album/78YdDTPyoliWBvJ0mqcPWX"
+      },
+      "artists": [
+        {
+          "name": "Ludivine Issambourg",
+          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Kickin' Your Ass",
+      "url": "https://open.spotify.com/track/1qJcz6jKktqsLMZNuertZf"
+    },
+    {
+      "album": {
         "name": "Kids Are",
         "url": "https://open.spotify.com/album/6AaxzyieUG8t057Bjl5wNx"
       },
@@ -6494,7 +6556,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
@@ -7808,7 +7870,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 329093,
       "name": "Navegar - Live",
       "url": "https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm"
@@ -7957,6 +8019,28 @@
     },
     {
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
+    },
+    {
+      "album": {
         "name": "No, No, No Pt. 2",
         "url": "https://open.spotify.com/album/2giHV2PIregp4L6fJdwR85"
       },
@@ -8034,7 +8118,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 186572,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6GyIAOPiPEXO7gZ2ageJp4"
@@ -8946,7 +9030,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 158156,
       "name": "Pluie",
       "url": "https://open.spotify.com/track/2DyPdqW5gT8aqgO0PgQOi9"
@@ -9300,7 +9384,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 280853,
       "name": "Roni's Swing",
       "url": "https://open.spotify.com/track/7o1D6of9CprXWZEYJlyneL"
@@ -9336,7 +9420,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 313946,
       "name": "Run To It (The CP Song)",
       "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
@@ -10331,6 +10415,32 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/6aM6XpnBNC4kXwOykJyTN5"
+      },
+      "artists": [
+        {
+          "name": "The Amazing Keystone Big Band",
+          "url": "https://open.spotify.com/artist/6OdDyngYkD04qqTs5aGFGd"
+        },
+        {
+          "name": "Fred Nardin",
+          "url": "https://open.spotify.com/artist/1tcpuJCw1ozAVXnwYh5wqz"
+        },
+        {
+          "name": "Charlotte Wassy",
+          "url": "https://open.spotify.com/artist/1y673UzYvMQavJmV6zXLz4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411013,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/1dUeRLYl72p4G3pfE4c8Qc"
+    },
+    {
+      "album": {
         "name": "Sun Dog",
         "url": "https://open.spotify.com/album/459ZdoFvmNocJirrglhTRC"
       },
@@ -10739,6 +10849,24 @@
     },
     {
       "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184497,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
+    },
+    {
+      "album": {
         "name": "The Antidote Is in the Poison",
         "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
       },
@@ -10974,7 +11102,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 197586,
       "name": "The Mojo",
       "url": "https://open.spotify.com/track/43ZH66bpYjA7xWQgryH0KQ"
@@ -12130,6 +12258,28 @@
       "duration_ms": 214593,
       "name": "Wait A While",
       "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
+    },
+    {
+      "album": {
+        "name": "Walk In The Sun",
+        "url": "https://open.spotify.com/album/0srnsYI5Fa7wiB6efttfPI"
+      },
+      "artists": [
+        {
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
+        },
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193395,
+      "name": "Walk In The Sun",
+      "url": "https://open.spotify.com/track/29PUWKH8SVvm0mgV2f5eub"
     },
     {
       "album": {

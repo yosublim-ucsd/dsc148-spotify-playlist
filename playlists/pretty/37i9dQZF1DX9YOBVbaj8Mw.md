@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,511 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,510 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 40 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
 | 41 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
 | 42 | [Etna](https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 4:20 |
-| 43 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
-| 44 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 43 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
+| 44 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
 | 45 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
 | 46 | [Friend or Foe?](https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [ID.Entity](https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX) | 7:28 |
 | 47 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/4i3SeVJzijSclCmmp4UDt8) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [BOKKA HITS 10](https://open.spotify.com/album/4lpEIOhjPlV3ACNCQahbne) | 4:10 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 77 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
-| 80 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
-| 81 | [Hi 5](https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa) | [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Rafał Sarnecki](https://open.spotify.com/artist/6luxZusOpIlFO6Ogz06RIY), [Paweł Dobrowolski](https://open.spotify.com/artist/5rg9nFblCIBIEGOFztbmyx) | [Flying Lion](https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR) | 6:04 |
+| 80 | [Hi 5](https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa) | [Andrzej Święs](https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC), [Rafał Sarnecki](https://open.spotify.com/artist/6luxZusOpIlFO6Ogz06RIY), [Paweł Dobrowolski](https://open.spotify.com/artist/5rg9nFblCIBIEGOFztbmyx) | [Flying Lion](https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR) | 6:04 |
+| 81 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 | 82 | [De Joe](https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae) | [Zbigniew Jakubek](https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV), [Marek Raduli](https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e), [Michał Grott](https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu), [Michał Dąbrówka](https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr) | [De Joe](https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt) | 8:01 |
 | 83 | [Serce Otwarte Na Pół](https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX) | [Michał Aftyka Quintet](https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT) | [Frukstrakt](https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn) | 3:31 |
 | 84 | [Tiritaka](https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq) | [Kazimierz Jonkisz Quintet](https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22) | [TiriTaka \(Polish Jazz, Vol\. 62\)](https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf) | 6:09 |

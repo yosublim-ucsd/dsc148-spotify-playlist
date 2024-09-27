@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Yammi & Mbosso",
+  "description": "What is your love language? Say it in Swahili.  Cover: Platform",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1264,6 +1264,24 @@
       "duration_ms": 181133,
       "name": "I Do",
       "url": "https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199143,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE"
     },
     {
       "album": {
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 217500,
       "name": "Raha (feat. Zuchu)",
       "url": "https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL"

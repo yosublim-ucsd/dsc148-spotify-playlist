@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,464 songs - 2 day 7 hr 9 min
+1,465 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,7 +1305,7 @@
 | [The Gun](https://open.spotify.com/track/2x8GXjKZNlbLsmySLYQVzD) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Gun](https://open.spotify.com/album/1N7P0kebtRpS3Xh0yYZgKG) | 2:43 | 2023-11-17 |  |
 | [The Happiest Moment](https://open.spotify.com/track/2uwFWhi2oU2A7n65Xrn62x) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [The Happiest Moment](https://open.spotify.com/album/0quBUC8YzuD4EEGvnjrSC0) | 2:30 | 2024-07-25 |  |
 | [The Happy Flow](https://open.spotify.com/track/6XBmqJ167JBNv57YWx0Wjt) | [Vibey.Director](https://open.spotify.com/artist/4HzjF96HnZVu9nw7dbrpkd) | [The Happy Flow](https://open.spotify.com/album/60h0v07nUcNEW568pY7qKi) | 1:53 | 2022-09-02 | 2023-09-05 |
-| [The Library](https://open.spotify.com/track/6qLniilItIKCDvfjLK6AfC) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [The Library](https://open.spotify.com/album/26pw5E8NYLWHX3V6gjUY0i) | 2:24 | 2023-04-20 |  |
+| [The Library](https://open.spotify.com/track/6qLniilItIKCDvfjLK6AfC) | [Karma Malkoha](https://open.spotify.com/artist/1wcKzZJIxrrqjPVulFgWHo) | [The Library](https://open.spotify.com/album/26pw5E8NYLWHX3V6gjUY0i) | 2:24 | 2023-04-20 | 2024-09-27 |
 | [The Lost Tapes](https://open.spotify.com/track/5iArlp8oxxLZrVtg4EIEfI) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [The Lost Tapes](https://open.spotify.com/album/7vKH3FSTOeST6BdCNorsdy) | 1:24 | 2022-01-27 | 2022-10-15 |
 | [The Med](https://open.spotify.com/track/4VF59BuLMgBFg3FQF6ledx) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [The Med](https://open.spotify.com/album/4MxgexE1L8Ve0BbPtHIoQX) | 1:57 | 2022-07-01 | 2022-12-10 |
 | [the moment we knew](https://open.spotify.com/track/5aY7IoXvyXqCGAnjgWivlu) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [the moment we knew](https://open.spotify.com/album/4RbXsJ7x7b3JSJiaJbGxPz) | 1:47 | 2022-10-28 | 2023-09-29 |
@@ -1461,6 +1461,7 @@
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2022-01-27 | 2022-06-10 |
 | [Yahooee](https://open.spotify.com/track/1Ou9wBe9oTjj4Seohu0Vvf) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Yahooee](https://open.spotify.com/album/5z9Clk4g8ToC3tuU0yPQ13) | 2:18 | 2023-10-20 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2022-01-27 | 2023-05-20 |
+| [yessir](https://open.spotify.com/track/11NYe41SBy23zohFN71kWG) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [yessir](https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7) | 2:12 | 2024-09-13 |  |
 | [Yo and The Juice](https://open.spotify.com/track/4xcBTUhwupLCL1dxCrWGmY) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Sur La Seine](https://open.spotify.com/album/5VhQNBTrxSqbS0uhba4sk0) | 3:23 | 2022-12-23 | 2024-07-09 |
 | [You Give](https://open.spotify.com/track/1dNO5R0eXY9e2gVkv1f431) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [You Give](https://open.spotify.com/album/77MdrPhfFgrUfxFV7ECnqK) | 3:03 | 2022-01-27 | 2022-09-03 |
 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 | 2022-08-12 |  |

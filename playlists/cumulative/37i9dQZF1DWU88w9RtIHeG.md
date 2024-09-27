@@ -4,12 +4,20 @@
 
 > Listen to the soundtracks of Cinderella at 2AM\. \(새벽 2시의 신데렐라의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by Ha Hyun Sang\. \(하현상이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-19 songs - 1 hr 11 min
+27 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Boyfriend](https://open.spotify.com/track/7dk7jxKBun1JQ2pPPBxDYl) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Cinderella at 2AM OST Part 4](https://open.spotify.com/album/6gmq8wZ2p5mFkg8DRyvZcE) | 3:22 | 2024-09-25 |  |
 | [Boyfriend \(Inst.\)](https://open.spotify.com/track/2xtDH5U5GqVjwZcXpGi6oE) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Cinderella at 2AM OST Part 4](https://open.spotify.com/album/6gmq8wZ2p5mFkg8DRyvZcE) | 3:22 | 2024-09-25 |  |
+| [Ep.1 \- Cinderella's Magic Is Broken](https://open.spotify.com/track/2Qgtd5BnMwSM09B27UrXXW) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:06 | 2024-09-25 |  |
+| [Ep.1 \- My Freedom](https://open.spotify.com/track/2eDuvdp3dybMcXIEeiaD25) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:19 | 2024-09-25 |  |
+| [Ep.2 \- I Still Like You A Lot](https://open.spotify.com/track/7aJ3seNC3s8Yn3z2CW0uDQ) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:40 | 2024-09-25 |  |
+| [Ep.4 \- No One but YOU](https://open.spotify.com/track/67pN5Tfc5XyUrJqOt8C04Y) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:25 | 2024-09-25 |  |
+| [Ep.5 \- I Can't Meet Anyone Else](https://open.spotify.com/track/5DeeqZbT6WBjwxcT6IAbFg) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:29 | 2024-09-25 |  |
+| [Ep.6 \- Pat Pat](https://open.spotify.com/track/3aaWELyKSUBfZCkSp713H6) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:17 | 2024-09-25 |  |
+| [Ep.7 \- Your Birthday](https://open.spotify.com/track/6i1ZnQtbnbbJ6LT425MUz5) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:13 | 2024-09-25 |  |
+| [Ep.8 \- Thank You For...](https://open.spotify.com/track/6yL4hGKfQBSIh3zjldE6yH) | [Cinderella at 2AM](https://open.spotify.com/artist/4rZjj6RZbJwASI3OGsOrzw) | [Cinderella at 2AM Audio Liners](https://open.spotify.com/album/7dKqCd88ZLS2CM6JCJR4SL) | 0:17 | 2024-09-25 |  |
 | [Everybody's Gotta Learn Sometime](https://open.spotify.com/track/4oYfMQ6NDGHq0GcbICqsDw) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Everybody's Gotta Learn Sometime](https://open.spotify.com/album/0KcwfeonyS5W48wnjXNbeo) | 5:54 | 2024-09-25 |  |
 | [Hey Laura](https://open.spotify.com/track/3VFr9JYb6ppsl4yxwerUXq) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:19 | 2024-09-25 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb) | 4:19 | 2024-09-25 |  |

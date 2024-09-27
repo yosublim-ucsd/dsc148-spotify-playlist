@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Yaraki",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Delicatoni",
   "name": "Caleido",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178102,
       "name": "argilla",
       "url": "https://open.spotify.com/track/2V15mNaBXDbWi3Lj3bSUWk"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 175555,
       "name": "Che vita",
       "url": "https://open.spotify.com/track/0EEJskrhHqM9InxMvv7dLd"
@@ -938,6 +938,24 @@
       "duration_ms": 152722,
       "name": "crush",
       "url": "https://open.spotify.com/track/0evHbtc2spfyNIODfG7Cxa"
+    },
+    {
+      "album": {
+        "name": "Dammi un perch\u00e9",
+        "url": "https://open.spotify.com/album/6ypZdrLqtfnINz49ezWfEM"
+      },
+      "artists": [
+        {
+          "name": "Najma",
+          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205645,
+      "name": "Dammi un perch\u00e9",
+      "url": "https://open.spotify.com/track/5T7g4rPIZdEwkTyNGEwmda"
     },
     {
       "album": {
@@ -1379,6 +1397,32 @@
     },
     {
       "album": {
+        "name": "Ghiaccio (feat. chiello)",
+        "url": "https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "B-CROMA",
+          "url": "https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215969,
+      "name": "Ghiaccio (feat. chiello)",
+      "url": "https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA"
+    },
+    {
+      "album": {
         "name": "pok\u00e9 melodrama",
         "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
       },
@@ -1470,7 +1514,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 165600,
       "name": "GUAGLIONA (feat. Lil Jolie)",
       "url": "https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j"
@@ -1656,7 +1700,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 129600,
       "name": "Imperdonabile",
       "url": "https://open.spotify.com/track/3jd0rNu8g7J7j2CWON0YPm"
@@ -1718,6 +1762,24 @@
       "duration_ms": 150537,
       "name": "Karnevale di Rio",
       "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
+    },
+    {
+      "album": {
+        "name": "kids never sleep",
+        "url": "https://open.spotify.com/album/3Hux8afYu6wKMBFx1ZgHh0"
+      },
+      "artists": [
+        {
+          "name": "cmqmartina",
+          "url": "https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195490,
+      "name": "kids never sleep",
+      "url": "https://open.spotify.com/track/1W13VTyEXLviqjj2bMDJDd"
     },
     {
       "album": {
@@ -1844,7 +1906,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166071,
       "name": "Leggera",
       "url": "https://open.spotify.com/track/2U1jRNDyOLw4V5agzt1lpZ"
@@ -2208,7 +2270,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 172568,
       "name": "Marevivo",
       "url": "https://open.spotify.com/track/6aVHwOlI30qpMfUyIRw4Gz"
@@ -2284,7 +2346,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 146415,
       "name": "Mezzo Amore",
       "url": "https://open.spotify.com/track/12IBHgQmBdIv0fXREEeURt"
@@ -2414,7 +2476,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 130909,
       "name": "Ne faccio un dramma",
       "url": "https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ"
@@ -2777,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Passo dopo Passo",
+        "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Passo dopo Passo",
+      "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
+    },
+    {
+      "album": {
         "name": "PAURA DEL BUIO",
         "url": "https://open.spotify.com/album/0x33SblZ1SqWpJgiEJapFJ"
       },
@@ -2843,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Perdonarci",
+        "url": "https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb"
+      },
+      "artists": [
+        {
+          "name": "Bianelle",
+          "url": "https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Perdonarci",
+      "url": "https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I"
+    },
+    {
+      "album": {
         "name": "PERDONIAMOCI LO STESSO",
         "url": "https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08"
       },
@@ -2854,7 +2952,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 191423,
       "name": "PERDONIAMOCI LO STESSO",
       "url": "https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF"
@@ -3118,7 +3216,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170322,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh"
@@ -3212,7 +3310,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160178,
       "name": "Scema",
       "url": "https://open.spotify.com/track/04vILNWDAjKZ2qb3lONcCB"
@@ -3270,6 +3368,24 @@
       "duration_ms": 159000,
       "name": "Semplicemente (Nun Fa Accuss\u00ec)",
       "url": "https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR"
+    },
+    {
+      "album": {
+        "name": "Sensazioni \u3186",
+        "url": "https://open.spotify.com/album/0MatjTN53CGvIVuvGn9Kg3"
+      },
+      "artists": [
+        {
+          "name": "DARRN",
+          "url": "https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237630,
+      "name": "Sensazioni \u3186",
+      "url": "https://open.spotify.com/track/6kITcT8VjCMTy7mpWFT6fn"
     },
     {
       "album": {
@@ -3342,7 +3458,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160941,
       "name": "soli soli",
       "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
@@ -3498,7 +3614,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 137470,
       "name": "Stanza 107",
       "url": "https://open.spotify.com/track/3p3y4h9Sth0Bh27u9g97lm"
@@ -3646,7 +3762,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 206909,
       "name": "Tonica",
       "url": "https://open.spotify.com/track/7qyFfd7nS0r6Zz3Sv2VcR1"
@@ -3686,6 +3802,24 @@
       "duration_ms": 199537,
       "name": "tutta vera",
       "url": "https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU"
+    },
+    {
+      "album": {
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/2Q6eaneFdjej7ZwXsrPbqE"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Tutto nero",
+      "url": "https://open.spotify.com/track/0bhinJ1XUgkZ8PCwQXRBIV"
     },
     {
       "album": {
@@ -3754,7 +3888,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 137596,
       "name": "VITAMINE",
       "url": "https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP"

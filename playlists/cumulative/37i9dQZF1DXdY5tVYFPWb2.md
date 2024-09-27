@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-863 songs - 2 day 8 hr 52 min
+864 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | [フライディ・チャイナタウン \- English Version](https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [フライディ・チャイナタウン \(English Version\)](https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF) | 3:31 | 2022-10-25 | 2023-11-11 |
 | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/track/2jHerS92LBYqbDKN4gavtT) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [脇田もなり](https://open.spotify.com/artist/4W2lk9BJKRloR8dk16Y5PX) | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/album/2OZNZQRpyITfcN0mKLkhik) | 3:29 | 2023-05-09 | 2023-06-18 |
 | [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 | 2022-11-27 |
-| [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 |  |
+| [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 | 2024-09-27 |
 | [ブルーハワイ](https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [ブルーハワイ](https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb) | 3:46 | 2022-12-13 | 2023-06-07 |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 |  |
 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 | 2022-11-08 | 2023-04-12 |
@@ -707,6 +707,7 @@
 | [ミスター・サマー](https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J) | [Dally Work’s](https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa) | [ミスター・サマー](https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE) | 4:00 | 2023-06-20 | 2023-07-13 |
 | [ムーンライトアドバイス](https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [Music Restaurant Royal Host](https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3) | 3:09 | 2022-09-20 | 2022-12-14 |
 | [メトロにゆられて](https://open.spotify.com/track/5OXo1Hk2igFcVdSyWotlzS) | [wyolica](https://open.spotify.com/artist/3QA8WrxreeOmS96ZFvK79n) | [メトロにゆられて](https://open.spotify.com/album/4vWGGPdKj3KhWo4WTUj8sR) | 5:18 | 2024-09-04 | 2024-09-18 |
+| [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 | 2024-09-25 |  |
 | [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 | 2022-09-06 | 2023-03-08 |
 | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/track/59MOghNeV6K16bCxsRsaTY) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [蒔田彩珠](https://open.spotify.com/artist/4XORR0FPl43HuS4ZMgSrjg), [髙石あかり](https://open.spotify.com/artist/7C8Jhm5iqg2Wjwte4neNrT) | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/album/5cnBdECOvU0mv7sXn7snG3) | 3:49 | 2023-09-14 | 2023-11-11 |
 | [モナリザの涙](https://open.spotify.com/track/3M4oUMwKZTewN85bBzZoOM) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [モナリザの涙](https://open.spotify.com/album/42gLMIxChPhg6mriBI9Qtf) | 4:55 | 2022-07-12 | 2022-07-16 |

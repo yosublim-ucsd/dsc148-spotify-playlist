@@ -1,12 +1,12 @@
 {
-  "description": "This is Arctic Monkeys. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1675429,
+  "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
+  "num_followers": 1675638,
   "original_name": "This Is Arctic Monkeys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAABmb3WM3BS+47+KH6iaABk3",
+  "snapshot_id": "ZvNSgAAAAAAcWwqwM5rl0cXy9A8vdW81",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Worst Nightmare",
-        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Teddy Picker",
-      "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
+      "duration_ms": 191040,
+      "name": "Stop The World I Wanna Get Off With You",
+      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why'd You Only Call Me When You're High?",
-        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Stop The World I Wanna Get Off With You",
-      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
+      "duration_ms": 165000,
+      "name": "Teddy Picker",
+      "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
     },
     {
       "added_at": null,

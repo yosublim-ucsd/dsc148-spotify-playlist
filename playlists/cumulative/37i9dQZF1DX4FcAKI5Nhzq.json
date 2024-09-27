@@ -11081,6 +11081,24 @@
     },
     {
       "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -15126,6 +15144,24 @@
       "duration_ms": 207506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"
+    },
+    {
+      "album": {
+        "name": "Retro Romance",
+        "url": "https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Retro Romance",
+      "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-803 songs - 1 day 19 hr 5 min
+806 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1ZO8cGweEhcK4mu1nbEg8m) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 | 2022-05-06 |  |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-27 |  |
+| [before you have to go](https://open.spotify.com/track/06PcWUR0xbw6hHN3GVZoCw) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [before you have to go](https://open.spotify.com/album/2qJtqPuyor6BxolS7VclbN) | 3:10 | 2024-09-27 |  |
 | [Beside You](https://open.spotify.com/track/0LQtf5wLfmhOxcOcRRgWgY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Beside You](https://open.spotify.com/album/2ICO1fY83UlRUCzUHjFIIf) | 3:05 | 2023-08-04 |  |
 | [Best Bad News](https://open.spotify.com/track/7yQmb20fEbWamV36vs2pPL) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/02KwGACJtzQlRRgTpNYBL7) | 3:52 | 2022-06-17 |  |
 | [Best Friend](https://open.spotify.com/track/61KP2LeOc3xFonfrEezl13) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:58 | 2019-11-08 | 2020-04-06 |
@@ -123,6 +124,7 @@
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2020-10-16 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-31 |  |
 | [Casual](https://open.spotify.com/track/2Sz0dtmOCTxbHbnlK0S2eK) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Casual / Middle Name](https://open.spotify.com/album/6UTnGeYgeZX3B13Gsz2OUO) | 3:04 | 2019-09-06 | 2021-05-12 |
+| [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-27 |  |
 | [Champagne Affection](https://open.spotify.com/track/5reUpAmA1f62EVf5jRHbwP) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Champagne Affection](https://open.spotify.com/album/4b4UT70OLamcHX91Om0F4O) | 3:48 | 2019-12-02 | 2021-05-12 |
 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 | 2021-06-05 |  |
 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3), [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL), [Tim Finn](https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 | 2021-12-08 |  |
@@ -227,6 +229,7 @@
 | [FLIGHT PATH](https://open.spotify.com/track/2uWImLJDHfQXzCOMzGCEOY) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FLIGHT PATH](https://open.spotify.com/album/6e3xCLDiPcEutcXnjzaNkh) | 2:45 | 2019-12-20 | 2021-05-12 |
 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 | 2019-10-25 |  |
 | [Flying So Far](https://open.spotify.com/track/6N5y3lqSOZdKXhnpb8SNoQ) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Flying So Far](https://open.spotify.com/album/3iTg2cXyH6ZiiGHSqgduc4) | 2:52 | 2019-11-25 | 2021-05-12 |
+| [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \- Edit](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 | 2024-09-27 |  |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 |  |
 | [Fools](https://open.spotify.com/track/029JPfM163NTS6fA0Pldws) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Nights Like This](https://open.spotify.com/album/7xyaGyDfDSP6h05f7vM7oq) | 3:44 | 2019-08-27\* | 2020-02-12 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-08 |  |

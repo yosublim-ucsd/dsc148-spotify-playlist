@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-25",
-  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
+  "description": "This Is Bob Dylan. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Bob Dylan",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 123613,
       "name": "Big River - Take 1",
       "url": "https://open.spotify.com/track/0CS4pwHml8LCSdVJ1gIKU3"
@@ -1724,6 +1724,28 @@
       "duration_ms": 256800,
       "name": "Simple Twist of Fate",
       "url": "https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen"
+    },
+    {
+      "album": {
+        "name": "The 1974 Live Recordings Sampler",
+        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261799,
+      "name": "Something There Is About You - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+      "url": "https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf"
     },
     {
       "album": {

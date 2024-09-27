@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-172 songs - 9 hr 6 min
+173 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Allá por Capivará / De Oreja a Oreja / Puerta de los Cerros](https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic) | [Maxi Bravo Arde Chamame](https://open.spotify.com/artist/5AbgxJSizZTrjThFK9k4yS), [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Allá por Capivará / De Oreja a Oreja / Puerta de los Cerros](https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6) | 5:13 | 2021-11-19 |  |
 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 | 2021-11-19 |  |
 | [Amanecer Campero](https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef) | [Me Dicen el Rey](https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8) | 2:46 | 2021-11-19 |  |
+| [Amiga](https://open.spotify.com/track/52Q0BDu0NZiYJZMMyLIC83) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [Catherine Vergnes](https://open.spotify.com/artist/3dqxFNqXEaIA3janjTRoHW) | [Amiga](https://open.spotify.com/album/0nx5toRgIwKxJ6yoEqqovS) | 3:22 | 2024-09-26 |  |
 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 | 2021-11-19 | 2022-07-29 |
 | [Asi Se Baila El Chamame](https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:05 | 2021-11-19 |  |
 | [Asi, Como Mi Gente](https://open.spotify.com/track/2yybit8zXj60xJM13hBpgL) | [Como Mi Gente](https://open.spotify.com/artist/1Z2tnCkidMo8OzPxBtlLbf) | [Miguel Ángel Romero Presenta: Como Mi Gente, una Pasión por el Chamamé \(Vol\. 1\)](https://open.spotify.com/album/3aeraO34vjYSGGZb8W1bYJ) | 3:00 | 2021-11-19 | 2022-07-25 |
@@ -47,7 +48,7 @@
 | [Creciendo el Gualeguay](https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc) | [Los Tatas del Chamamé](https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw) | [A Puro Sapucay](https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ) | 2:49 | 2021-11-19 |  |
 | [Cómo Marea / Besitos \- En Vivo, Teatro Provincial J.C.Saravia \- Salta](https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 2\)](https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto) | 4:20 | 2022-02-11 | 2024-08-16 |
 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 | 2021-11-19 |  |
-| [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 |  |
+| [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 | 2024-09-27 |
 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 | 2021-11-19 |  |
 | [El Gallo Negro](https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:03 | 2021-11-19 |  |
 | [El Gateao](https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [Hilvanando Recuerdos](https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS) | 2:39 | 2021-11-19 |  |

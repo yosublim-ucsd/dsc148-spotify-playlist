@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/3tYn2LxCIv2Ua1swrN6qNe"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/3IcTWtg1wQ7S72ddgkyZHq"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3BlK4IApUM1DGluMPaq5rN"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 131964,
       "name": "\u05d0\u05d5\u05e4\u05e8\u05ea \u05e1\u05d1\u05d5\u05df",
       "url": "https://open.spotify.com/track/5cKv2ibQr5YHwMNImOSxqm"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 228000,
       "name": "\u05d4\u05de\u05d7\u05dc\u05d4 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2"
@@ -1250,6 +1268,28 @@
       "duration_ms": 191183,
       "name": "\u05d4\u05e1\u05d5\u05d3 \u05e9\u05dc\u05d9 \u05de\u05de\u05da (\u05d9\u05e9\u05e8\u05d0\u05dc \u05de\u05d9\u05d5\u05d6\u05d9\u05e7)",
       "url": "https://open.spotify.com/track/6x9vvVtySmtQRh16pqd8f7"
+    },
+    {
+      "album": {
+        "name": "\u05d5\u05d0\u05d6 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d4\u05e9\u05d1\u05ea",
+        "url": "https://open.spotify.com/album/0OpioKDmfVBbj3z4PLHGbn"
+      },
+      "artists": [
+        {
+          "name": "Elia Rosilio",
+          "url": "https://open.spotify.com/artist/0fdJoov5KY8fDtgufXKCi3"
+        },
+        {
+          "name": "Mooki",
+          "url": "https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170937,
+      "name": "\u05d5\u05d0\u05d6 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d4\u05e9\u05d1\u05ea (\u05e2\u05dd \u05de\u05d5\u05e7\u05d9)",
+      "url": "https://open.spotify.com/track/2TVQU1SAdjMYqGUTxRmXg5"
     },
     {
       "album": {
@@ -1637,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05e6\u05e8\u05d9\u05db\u05d4 \u05d0\u05e8\u05de\u05d5\u05df",
+        "url": "https://open.spotify.com/album/4aQLxgfh3CILAQI1ppiEpD"
+      },
+      "artists": [
+        {
+          "name": "\u05e2\u05d8\u05e8\u05d4 \u05d0\u05d5\u05e8\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206567,
+      "name": "\u05dc\u05d0 \u05e6\u05e8\u05d9\u05db\u05d4 \u05d0\u05e8\u05de\u05d5\u05df",
+      "url": "https://open.spotify.com/track/7LUXcugqNbrfIiGtbnsCET"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05e8\u05d0\u05d9\u05ea\u05d9 \u05d0\u05ea \u05d6\u05d4 \u05d1\u05d0",
         "url": "https://open.spotify.com/album/1ghtrFUbk1sQbi7SPyw8EQ"
       },
@@ -1945,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d7\u05db\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0X9VqbFzEwFileNLRTO8vo"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189521,
+      "name": "\u05de\u05d7\u05db\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1Ppoa84gzdj9fEYfDPAozY"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d8\u05e8\u05d4",
         "url": "https://open.spotify.com/album/4DdVwNbxko19Fhzy8xpM5o"
       },
@@ -2159,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "\u05e0\u05d9\u05e6\u05d7\u05d5\u05e0\u05d5\u05ea \u05e7\u05d8\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Goshen",
+          "url": "https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "\u05e0\u05d9\u05e6\u05d7\u05d5\u05e0\u05d5\u05ea \u05e7\u05d8\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/66LQkHS38PqBwy97zJZuGY"
+    },
+    {
+      "album": {
         "name": "\u05e0\u05e1",
         "url": "https://open.spotify.com/album/51FhEWNKJRRxTvNl3IWTlh"
       },
@@ -2174,7 +2268,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 198496,
       "name": "\u05e0\u05e1",
       "url": "https://open.spotify.com/track/1QPIWLLdudRB8mVHRvhFzy"
@@ -2192,7 +2286,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 206000,
       "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
@@ -2210,7 +2304,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 135230,
       "name": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3",
       "url": "https://open.spotify.com/track/7jevGyHj54ThsFRu5wL4zB"
@@ -2381,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "\u05e0\u05d9\u05e6\u05d7\u05d5\u05e0\u05d5\u05ea \u05e7\u05d8\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3HkLSBUqzUdr7S3Aqu6bS3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Goshen",
+          "url": "https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u05e4\u05e6\u05d5\u05e2",
+      "url": "https://open.spotify.com/track/54cnTAWl7hZQx5AmgV2Wq8"
+    },
+    {
+      "album": {
         "name": "\u05e4\u05e8\u05d7 \u05e7\u05d9\u05e8",
         "url": "https://open.spotify.com/album/5NhGYR440Cc61XycuCJ6R1"
       },
@@ -2522,7 +2634,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 199370,
       "name": "\u05e7\u05d5\u05e4\u05e1\u05d0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/7d9p0sK6NeGyJvl1w9VPRG"
@@ -2562,6 +2674,24 @@
       "duration_ms": 173130,
       "name": "\u05e8\u05e2\u05d9\u05d3\u05ea \u05d0\u05d3\u05de\u05d4",
       "url": "https://open.spotify.com/track/3rV5bpPxR4J2zKwFEv2FaY"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05e7 \u05d4\u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "\u05e8\u05e7 \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1KMT5j1608afIjko14UBNP"
     },
     {
       "album": {
@@ -2634,7 +2764,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 263796,
       "name": "\u05e9\u05dc\u05d0 \u05e0\u05d9\u05e4\u05d5\u05dc \u05dc\u05de\u05e2\u05dc\u05d4",
       "url": "https://open.spotify.com/track/0QKhfnb2gWnaGWV2SXB73Y"
@@ -2746,7 +2876,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 210000,
       "name": "\u05e9\u05ea\u05d9 \u05d3\u05e7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5biGNnJVviP03UmEHjNbkn"

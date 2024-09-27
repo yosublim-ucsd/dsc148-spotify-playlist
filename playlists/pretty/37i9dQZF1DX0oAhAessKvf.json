@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 121682,
+  "num_followers": 121713,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "OG Black y Master Joe",
+          "url": "https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Metimos Las Patas",
+      "url": "https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "Sandunguero II",
         "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 208600,
       "name": "Sentirte",
       "url": "https://open.spotify.com/track/0c9Qg1tEoKWF1eJ2MNyNGH"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "OG Black y Master Joe",
-          "url": "https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Metimos Las Patas",
-      "url": "https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst"
     },
     {
       "added_at": "2024-03-25 13:06:06",

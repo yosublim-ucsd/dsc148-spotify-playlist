@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,985 songs - 4 day 16 hr 24 min
+1,987 songs - 4 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Dirty Blonde](https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Dirty Blonde](https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb) | 3:27 | 2023-11-17 | 2024-01-06 |
 | [Dirty Secret](https://open.spotify.com/track/7BnnEny1hfJYK8bkq45R0D) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Dirty Secret](https://open.spotify.com/album/3wj6rlwOQtvaRdvF60Y12B) | 2:19 | 2023-04-07 | 2023-04-15 |
 | [Disco 2000](https://open.spotify.com/track/1EdQjkmMIXbpYWj3vqzmtR) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Disco 2000](https://open.spotify.com/album/7BORydkMuk1YBPPdA0HNjc) | 6:35 | 2022-06-24 | 2022-07-02 |
+| [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 | 2024-09-26 |  |
 | [Disco Dust](https://open.spotify.com/track/391u2Mm3OU2Zvtzyq4P49K) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Disco Dust](https://open.spotify.com/album/04S9BWpCriZrVU3KLP1sDl) | 2:51 | 2023-08-04 | 2023-08-12 |
 | [Disrespectful](https://open.spotify.com/track/7zi5AdmQviB6RZC4R5E636) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD), [Vlare](https://open.spotify.com/artist/6cabDXBxbt8PVEKMeiQN79) | [Disrespectful](https://open.spotify.com/album/37XLyM63QO6RrjgId7Hh7O) | 2:52 | 2023-08-11 | 2023-08-26 |
 | [Diss U](https://open.spotify.com/track/3Km7BsY6N4qSZpxZCCjHy5) | [GUTT](https://open.spotify.com/artist/4SCZWcdNUt1PuECmVBWG28) | [Diss U](https://open.spotify.com/album/6Y0LnRCe0jqiwJDnKCajpu) | 3:00 | 2023-05-12 | 2023-05-20 |
@@ -858,6 +859,7 @@
 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 | 2024-05-01 | 2024-05-21 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2022-11-11 | 2022-11-19 |
 | [In Your Mind](https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [In Your Mind](https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU) | 2:34 | 2023-09-22 | 2023-09-30 |
+| [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-26 |  |
 | [Incanto](https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Incanto](https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp) | 3:06 | 2024-06-21 | 2024-07-13 |
 | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/track/3a4iD8kXESNUQ69DKT75OS) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Scorccio](https://open.spotify.com/artist/7uTD4BLn80TuHxNeIAspJc) | [Inferno \(feat\. Scorccio\)](https://open.spotify.com/album/0RwubAqdP2AmfEdVE5jfQ8) | 2:39 | 2023-05-12 | 2023-05-20 |
 | [Informer](https://open.spotify.com/track/6sLhiDvFtcMjsB29hQ5yLE) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [Informer](https://open.spotify.com/album/4gDKsS87beuPQiCIRVgrlv) | 3:05 | 2022-11-19 | 2022-11-29 |

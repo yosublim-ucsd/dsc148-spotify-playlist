@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32636,
+  "num_followers": 32641,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
-      },
-      "artists": [
-        {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "M Swet\u00e9'l Dans\u00e9",
-      "url": "https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 309907,
       "name": "Ralanti",
       "url": "https://open.spotify.com/track/6HIJ13H03bmXvezAonGZbu"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "No Dead End",
+        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+      },
+      "artists": [
+        {
+          "name": "Zenglen",
+          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "M Swet\u00e9'l Dans\u00e9",
+      "url": "https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 372484,
-      "name": "Incroyable",
-      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Quoi qu'il advienne (QQA)",
         "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 303725,
       "name": "Rete La",
       "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 372484,
+      "name": "Incroyable",
+      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
-      },
-      "artists": [
-        {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
-        }
-      ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 271712,
       "name": "Cheri Benyen M'",
       "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2024-08-16 06:26:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,316 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,374 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 14 | [I Got What It Takes](https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I Got What It Takes](https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU) | 3:42 |
 | 15 | [All Your Love \- Mono](https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:35 |
 | 16 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
-| 17 | [I'm a Man \- 2015 Remaster](https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Having a Rave Up with The Yardbirds \(2015 Remaster\)](https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno) | 2:39 |
-| 18 | [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 |
+| 17 | [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 |
+| 18 | [I'm a Man \- 2015 Remaster](https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Having a Rave Up with The Yardbirds \(2015 Remaster\)](https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno) | 2:39 |
 | 19 | [Frosty \- Single Version](https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 3:05 |
 | 20 | [Can't Wait to See My Baby's Face](https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 4:58 |
 | 21 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
@@ -107,9 +107,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 97 | [Let Me Love You Baby](https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:03 |
 | 98 | [Why Don't You Write Back to Me](https://open.spotify.com/track/3twEpu6BbsrVnn941gMBR4) | [The Muleskinners](https://open.spotify.com/artist/39rvSxWDfec4IFpnsF3YMo) | [Knockout R&B](https://open.spotify.com/album/1KORQ02DZiosXe7jbdqxb1) | 2:10 |
 | 99 | [Feeli' Good](https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Abc of the Blues, Vol\. 36](https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg) | 2:58 |
-| 100 | [Chicago Calling](https://open.spotify.com/track/4nGyEoNS2Lx9iPStDcwMRt) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:19 |
-| 101 | [I'm Checkin' Up](https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP) | [Tender Slim](https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:58 |
-| 102 | [Drifting Cloud](https://open.spotify.com/track/6MdE6X7xZAXXoXT9zY2eq1) | [Drifting Charles](https://open.spotify.com/artist/4kSYeEinu0WrEnL76FFzm3) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:54 |
+| 100 | [Drifting Cloud](https://open.spotify.com/track/6MdE6X7xZAXXoXT9zY2eq1) | [Drifting Charles](https://open.spotify.com/artist/4kSYeEinu0WrEnL76FFzm3) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:54 |
+| 101 | [Chicago Calling](https://open.spotify.com/track/4nGyEoNS2Lx9iPStDcwMRt) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:19 |
+| 102 | [I'm Checkin' Up](https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP) | [Tender Slim](https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:58 |
 | 103 | [When Girls Do It](https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:52 |
 | 104 | [Down Town](https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 3:01 |
 | 105 | [Rocky Mountain Way](https://open.spotify.com/track/79hKqXCyqIUXhdTFEs4ePo) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 5:14 |

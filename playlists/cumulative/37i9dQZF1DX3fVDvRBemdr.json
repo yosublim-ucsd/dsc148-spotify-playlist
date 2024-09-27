@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Mart Hoogkamer",
+  "description": "De nieuwste Hollandse hits. Cover: Django Wagner",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "album": {
@@ -135,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Het Voor Het Zeggen Had",
+        "url": "https://open.spotify.com/album/0vUehj2RvCF1waYKWbghpx"
+      },
+      "artists": [
+        {
+          "name": "Marco Kanters",
+          "url": "https://open.spotify.com/artist/2VF4qPKEmzjjssI2razMNt"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177304,
+      "name": "Als Ik Het Voor Het Zeggen Had",
+      "url": "https://open.spotify.com/track/5DuPgCgQJPgEEtkYLcBcDp"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/4Qec40S0raFaGWTY30j8pl"
       },
@@ -240,6 +280,28 @@
       "duration_ms": 162892,
       "name": "Blijf Nog Even Open",
       "url": "https://open.spotify.com/track/6SCRUa7JgPJsipP9HaWUKF"
+    },
+    {
+      "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
     },
     {
       "album": {
@@ -624,6 +686,24 @@
       "duration_ms": 146514,
       "name": "Het Lijkt Hier Wel Ibiza",
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+    },
+    {
+      "album": {
+        "name": "Hoe Heet Je",
+        "url": "https://open.spotify.com/album/1WpqIFIywitTybloFfBw8C"
+      },
+      "artists": [
+        {
+          "name": "Sam Vanvelthoven",
+          "url": "https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178950,
+      "name": "Hoe Heet Je",
+      "url": "https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi"
     },
     {
       "album": {
@@ -1040,6 +1120,32 @@
       "duration_ms": 216263,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/4gLQhuSCTiIMeR9nIKXEg0"
+    },
+    {
+      "album": {
+        "name": "Kameraden",
+        "url": "https://open.spotify.com/album/14FyazPIwBSqIIqxxrjSz2"
+      },
+      "artists": [
+        {
+          "name": "Ancora",
+          "url": "https://open.spotify.com/artist/6XNz9WBY0eqg95kZxbHnJZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Jan Keizer",
+          "url": "https://open.spotify.com/artist/1pADHrgtnPgv0TO0j8V8S6"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169455,
+      "name": "Kameraden",
+      "url": "https://open.spotify.com/track/4HU1ixk3hDB51dSqzMsDFT"
     },
     {
       "album": {

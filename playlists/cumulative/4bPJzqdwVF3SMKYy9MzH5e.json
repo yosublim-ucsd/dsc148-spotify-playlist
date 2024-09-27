@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "album": {
         "name": "Mirror Might Steal Your Charm",
         "url": "https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz"
       },
@@ -4486,6 +4504,24 @@
       "duration_ms": 214520,
       "name": "Blood // Water",
       "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
+    },
+    {
+      "album": {
+        "name": "BLOOD ON MY HANDS",
+        "url": "https://open.spotify.com/album/0IwDvYT2fvlVJDX1suaLQi"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "BLOOD ON MY HANDS",
+      "url": "https://open.spotify.com/track/5JXcoOrZVS1GPjUKEdl0xM"
     },
     {
       "album": {

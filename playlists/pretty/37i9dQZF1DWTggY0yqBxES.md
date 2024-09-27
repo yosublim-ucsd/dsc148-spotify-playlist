@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,283 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,370 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Wiz \(feat\. Vayda & SadBoi\)](https://open.spotify.com/track/3KntGJUglEx3TM4ZCeyCYT) | [Popstar Benny](https://open.spotify.com/artist/5PZD35H2aDtmF0GpBN4dTu), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wiz \(feat\. Vayda & SadBoi\)](https://open.spotify.com/album/4EJiGP8d3LadxE7kRLU5l6) | 1:59 |
 | 100 | [All Summer](https://open.spotify.com/track/2mcbW11ImeWAg2VbqI426Z) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [TYO 808](https://open.spotify.com/album/6qT4CoP1NXZobvnam3Fyzm) | 2:36 |
 
-Snapshot ID: `Zu2aOgAAAAD2j8kSYxLzOlgyixsNuQsb`
+Snapshot ID: `Zu2aOgAAAADNsYnzHirFsDTqG/7SX/V1`

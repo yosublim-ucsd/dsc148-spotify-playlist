@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,804 songs - 1 day 13 hr 9 min
+1,805 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Calmness \- Cello Version](https://open.spotify.com/track/0ciB5W1l6QG9jNwD5n8UJy) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calmness](https://open.spotify.com/album/69Tzmwn08RnnDb4USQx8BI) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Campfire](https://open.spotify.com/track/55OTwZtL5U2HAXLW86UvOJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Candlelight Moment](https://open.spotify.com/track/3i7FowRAW6yxHbSaLbE0Er) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:01 | 2023-12-23 |  |
+| [Candlelight Reflection](https://open.spotify.com/track/50YDbitAZS6VVCbWo6jJaR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Candlelight Reflection](https://open.spotify.com/album/5a3yHjPYp20crxN6i8lU06) | 1:00 | 2024-09-26 |  |
 | [Candles](https://open.spotify.com/track/2YFNDBmx785ZpzBtmtWvmw) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:28 | 2022-01-20 |  |
 | [Candles In The Field Arr\. For Cello And Harp](https://open.spotify.com/track/5QaOEgtco40WNXmhXTXdVc) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Above](https://open.spotify.com/album/4RJtJ6A1hf8l2zVxDzNcRQ) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Canyon](https://open.spotify.com/track/1MJz3X5117Bt9Vpe1fW0zr) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Canyon](https://open.spotify.com/album/7AXpy6zqj7FwP6TgKQ2DB4) | 1:00 | 2024-04-03 |  |

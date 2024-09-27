@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5O7F4MV99gG4bJvuPKCCbT"
+      },
+      "artists": [
+        {
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "4 AM",
+      "url": "https://open.spotify.com/track/3IKhzC08BuwN0YVpMdZFHe"
+    },
+    {
+      "album": {
         "name": "A Little Thing Called Love",
         "url": "https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q"
       },
@@ -511,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343800,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs"
       },
@@ -548,6 +584,28 @@
       "duration_ms": 219244,
       "name": "Find Your Way - Acoustic",
       "url": "https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy"
+    },
+    {
+      "album": {
+        "name": "SOFT STEPS",
+        "url": "https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "hihi",
+          "url": "https://open.spotify.com/artist/13KQydMRX3mIb9SN5whvYF"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0"
     },
     {
       "album": {
@@ -660,7 +718,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 198620,
       "name": "Hivyo",
       "url": "https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz"
@@ -824,7 +882,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 192000,
       "name": "LIONESS",
       "url": "https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A"
@@ -1340,7 +1398,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 240182,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3T6SSkt8wFNAbRXr059GEL"
@@ -1580,6 +1638,24 @@
       "duration_ms": 110576,
       "name": "Something Is You",
       "url": "https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O"
+    },
+    {
+      "album": {
+        "name": "Songea",
+        "url": "https://open.spotify.com/album/1NszeKpCZuw1DSBBWQAPi0"
+      },
+      "artists": [
+        {
+          "name": "Israel Onyach",
+          "url": "https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206717,
+      "name": "Songea",
+      "url": "https://open.spotify.com/track/1hTWAB6y3eshiUXXDEMiZH"
     },
     {
       "album": {
@@ -1994,7 +2070,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 169375,
       "name": "You're Gone",
       "url": "https://open.spotify.com/track/7AU8HVGvd3Jua9oLVSUgE1"

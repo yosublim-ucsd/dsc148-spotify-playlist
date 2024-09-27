@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,888 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,892 likes - 120 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [累累](https://open.spotify.com/track/5u7nTFYOiowljp5UGphYTR) | [YILE LIN 林以樂](https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ) | [素顏的樣子](https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4) | 4:21 |
 | 100 | [你失聯我失憶](https://open.spotify.com/track/1cNiRRSEbpIqMWdOJT4o6x) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [你失聯我失憶](https://open.spotify.com/album/1IZS6WYtT5m0EALM3cOsDH) | 3:17 |
 | 101 | [就當我們從來沒有愛過](https://open.spotify.com/track/1M3FTkgXk7RQ9sX5Eh49JG) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [就當我們從來沒有愛過](https://open.spotify.com/album/07otyZ8fQMvZ5vZCHbu5mz) | 2:57 |
-| 102 | [在北极写信给你](https://open.spotify.com/track/30qSgNKxXPKEaMozkfQylu) | [YuZi](https://open.spotify.com/artist/3nidv77ujBu7pTQOyFcImH) | [在北极写信给你](https://open.spotify.com/album/0iqN4qLXCdWZeXTw7eRmud) | 3:54 |
+| 102 | [在北极写信给你](https://open.spotify.com/track/30qSgNKxXPKEaMozkfQylu) | [YuZi](https://open.spotify.com/artist/7IwX6b1kdlcOxOa8NpsCwo) | [在北极写信给你](https://open.spotify.com/album/0iqN4qLXCdWZeXTw7eRmud) | 3:54 |
 | 103 | [小雲](https://open.spotify.com/track/4brouIzP6svW260R6gGk53) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [小雲](https://open.spotify.com/album/61EyaB5OtGuL7L1yQEXBHH) | 3:33 |
 | 104 | [黑洞](https://open.spotify.com/track/7sWMk8eW2Eu1wzcoaZu6As) | [吳是閎](https://open.spotify.com/artist/1gjgosK4xDv4S0zGOgcKhH) | [黑洞](https://open.spotify.com/album/0g9fRU7wD5drH3k6hKofrQ) | 3:59 |
 | 105 | [我快樂嗎](https://open.spotify.com/track/2RsJqOLTyk2iGpchwb8xIQ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [我快樂嗎](https://open.spotify.com/album/4GCphKqkTtAiIl23y8zhZm) | 3:45 |

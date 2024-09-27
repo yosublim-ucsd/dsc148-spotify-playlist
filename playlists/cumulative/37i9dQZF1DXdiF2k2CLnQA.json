@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 216287,
       "name": "A Banger A Day Keeps The Doctor Away",
       "url": "https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 218600,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 566413,
       "name": "An Ocean Of Strange Islands",
       "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Fimbulvinter",
+        "url": "https://open.spotify.com/album/2EXvdgRZQyHmwlE3v2vjxd"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346056,
+      "name": "Fimbulvinter",
+      "url": "https://open.spotify.com/track/2KdMJs4m5Q0UeJHNQ05sv9"
+    },
+    {
+      "album": {
         "name": "Fire & Ore",
         "url": "https://open.spotify.com/album/7IDyJDMxw4cA2ELxpwKhHV"
       },
@@ -934,6 +952,24 @@
       "duration_ms": 234440,
       "name": "Fire & Ore",
       "url": "https://open.spotify.com/track/48xpPhCtkauqitPNiDzLb4"
+    },
+    {
+      "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/28hLStD389vh57mwsDykXg"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285354,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw"
     },
     {
       "album": {
@@ -1031,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
         "name": "Heavy Metal Viking",
         "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
       },
@@ -1042,7 +1096,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 231356,
       "name": "Heavy Metal Viking",
       "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
@@ -1082,6 +1136,28 @@
       "duration_ms": 179976,
       "name": "Heroes Are Calling",
       "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
+    },
+    {
+      "album": {
+        "name": "High On You (feat. Nikki Sixx)",
+        "url": "https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        },
+        {
+          "name": "Nikki Sixx",
+          "url": "https://open.spotify.com/artist/39K8vRrNVg2aPafD0kRuhe"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229481,
+      "name": "High On You (feat. Nikki Sixx)",
+      "url": "https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89"
     },
     {
       "album": {
@@ -1190,7 +1266,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 184716,
       "name": "Hurry Hurry",
       "url": "https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d"
@@ -1920,7 +1996,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 183500,
       "name": "San Antonio",
       "url": "https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY"
@@ -2086,7 +2162,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
@@ -2162,6 +2238,24 @@
       "duration_ms": 370464,
       "name": "The Black",
       "url": "https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj"
+    },
+    {
+      "album": {
+        "name": "SHOCK TO THE SYSTEM (PART ONE)",
+        "url": "https://open.spotify.com/album/3Phx7bXkyoGS0O39giHiXS"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240725,
+      "name": "THE DAM",
+      "url": "https://open.spotify.com/track/4zD1UlSWZ1YvG9pJmjVXZ8"
     },
     {
       "album": {
@@ -2540,6 +2634,42 @@
       "duration_ms": 139588,
       "name": "When Are You Coming My Way",
       "url": "https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc"
+    },
+    {
+      "album": {
+        "name": "Who You Gonna Call? (Solence)",
+        "url": "https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Who You Gonna Call? (Solence)",
+      "url": "https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210687,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24"
     },
     {
       "album": {

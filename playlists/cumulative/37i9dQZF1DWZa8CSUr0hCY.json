@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145862,
       "name": "School Of Rytmus",
       "url": "https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9"
@@ -4724,6 +4724,24 @@
       "duration_ms": 139306,
       "name": "Where You Go",
       "url": "https://open.spotify.com/track/6RnHmBfrzz0RD1roPOq9yu"
+    },
+    {
+      "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/34Yb87vUXRN0QaBejbzyVq"
+      },
+      "artists": [
+        {
+          "name": "Aquarius Era",
+          "url": "https://open.spotify.com/artist/1St457AtizgBhsmu1NR25n"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/0DGCK0k88zbCVoA6e3FZfz"
     },
     {
       "album": {

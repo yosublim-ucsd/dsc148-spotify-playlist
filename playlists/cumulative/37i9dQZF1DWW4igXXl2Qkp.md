@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6GSZ8C4Dyu5VsGz16jAgPC">FCG Heem</a>
 
-1,420 songs - 2 day 13 hr 29 min
+1,422 songs - 2 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [6 Ft](https://open.spotify.com/track/0kwtcexUeuGMmduCFp6x8H) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [6 Ft](https://open.spotify.com/album/4ZcfQUAWisqbHcOL7wfYf6) | 1:43 | 2022-10-26 | 2022-12-01 |
 | [60 Miles](https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG) | [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [60 Miles](https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj) | 2:06 | 2023-10-25 | 2023-11-09 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-23 | 2022-12-01 |
-| [6ix Times 2Day](https://open.spotify.com/track/4NR10W5klrqKk6kBCOv2G3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [6ix Times 2Day](https://open.spotify.com/album/14ME3oiJae6Isr01HEBNJH) | 2:47 | 2024-09-18 |  |
+| [6ix Times 2Day](https://open.spotify.com/track/4NR10W5klrqKk6kBCOv2G3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [6ix Times 2Day](https://open.spotify.com/album/14ME3oiJae6Isr01HEBNJH) | 2:47 | 2024-09-18 | 2024-09-27 |
 | [7.62 Freestyle](https://open.spotify.com/track/1glbpSELpG9GREMmXmb53g) | [S3nsi Molly](https://open.spotify.com/artist/1BllYKfrGfZPGfUnL5MoSL), [Lil Brook](https://open.spotify.com/artist/7oQIYJ8rEMijvcPy8Ln7ww) | [7.62 Freestyle](https://open.spotify.com/album/4Ky21UDvOMJiV20cbCDosU) | 1:39 | 2022-10-05 | 2022-12-01 |
 | [71 Custer](https://open.spotify.com/track/2m6S4yJ3iU1FyD6Z0c0Sl7) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Iroquois Pliskin](https://open.spotify.com/album/36I612bxgcJB9dFOytHoKH) | 3:24 | 2022-03-30 | 2022-05-05 |
 | [8 days a week](https://open.spotify.com/track/0KowL4rI8ttFazFhC6TvmI) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [8 days a week](https://open.spotify.com/album/2qFr6n3kd8ySfxB3eDG5GZ) | 1:39 | 2022-06-30 | 2022-08-12 |
@@ -574,7 +574,7 @@
 | [Highs & Lows](https://open.spotify.com/track/6JojBzIBCp1PIaSQYWPVg3) | [Jesse Boone](https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO) | [Highs & Lows](https://open.spotify.com/album/3uzQuAgBSmkx2Ub5G6BbZy) | 2:54 | 2022-03-16 | 2022-04-14 |
 | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/track/0Wrv39ILUw7X6cNB6xFupo) | [DEADonMARRS](https://open.spotify.com/artist/7KqeHFHeQRFLil6s7U63dc), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HILLS \(feat\. Dro Kenji\)](https://open.spotify.com/album/26JetE1EMkSBOXffLyDejQ) | 3:03 | 2024-06-28 | 2024-07-04 |
 | [Him](https://open.spotify.com/track/1s6PsH37YYMli0jsKSrUm8) | [Playboy Fresh](https://open.spotify.com/artist/38ehnnDky8g3OFQjo7YLjA) | [Him](https://open.spotify.com/album/7cJ13WTsRq7DfO1Jew2e5C) | 3:11 | 2023-08-24 | 2023-09-14 |
-| [Himalayan Salt](https://open.spotify.com/track/2hVl8NQPC2YqTlcTP5BCZn) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [droppedmilk](https://open.spotify.com/artist/6uigNrFuftOdvRs9boXTwT) | [Himalayan Salt](https://open.spotify.com/album/4PwWtlzoEKwdOoctoPlbOj) | 1:33 | 2024-09-18 |  |
+| [Himalayan Salt](https://open.spotify.com/track/2hVl8NQPC2YqTlcTP5BCZn) | [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx), [droppedmilk](https://open.spotify.com/artist/6uigNrFuftOdvRs9boXTwT) | [Himalayan Salt](https://open.spotify.com/album/4PwWtlzoEKwdOoctoPlbOj) | 1:33 | 2024-09-18 | 2024-09-27 |
 | [Hit My Cup](https://open.spotify.com/track/5M2Y4A2VH3cqO60dUbt2TW) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [Hit My Cup](https://open.spotify.com/album/2hsNGSCaN95O4IOtQBc0vC) | 2:09 | 2022-01-26 | 2022-02-04 |
 | [Hit My Line](https://open.spotify.com/track/33jUEyYnZyyCImlOXdgaZ9) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Hit My Line](https://open.spotify.com/album/2oYmC8LoQ9A0ajDxs0ziED) | 2:25 | 2024-06-05 | 2024-07-11 |
 | [HNL](https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [HNL](https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx) | 2:22 | 2023-07-12 | 2023-10-05 |
@@ -919,6 +919,7 @@
 | [Nothin' Bout Me](https://open.spotify.com/track/6YEieB26LDm0gxKZSnIgus) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [Nothin' Bout Me](https://open.spotify.com/album/1SwcWcDfjEHPA8Ye5PbIgI) | 2:38 | 2023-04-26 | 2023-06-29 |
 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 | 2024-05-01 | 2024-06-13 |
 | [Nothing Was the Same](https://open.spotify.com/track/4x27xtKAIipi3X1XVE8rmX) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [RealRed](https://open.spotify.com/artist/2wZlc7Sh9Ph86QKAAPvkTW) | [Nothing Was the Same](https://open.spotify.com/album/1xD3ct5VieeVb7gbBdHKfu) | 2:31 | 2022-03-02 | 2022-03-31 |
+| [NOVEMBER 30TH](https://open.spotify.com/track/5BmlZGUu8Jq5tjZagXO3ff) | [Geechy](https://open.spotify.com/artist/5fmeR9y2YakPD9lb6bfIHW) | [ALWAYS REMEMBER GEECHY](https://open.spotify.com/album/5sH14ARnIaW9TADkEbDMNi) | 3:38 | 2024-09-26 |  |
 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 | 2024-01-10 | 2024-04-04 |
 | [Oil Painting](https://open.spotify.com/track/2IDAvw4IY2lxIJ60MBShLK) | [Rah\-C](https://open.spotify.com/artist/4t2k4LH9tsNUc4j4aYF5HP) | [Oil Painting](https://open.spotify.com/album/6rC01sZURDQAM2gk90ORpl) | 2:18 | 2024-07-03 |  |
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-02-17 |
@@ -1241,6 +1242,7 @@
 | [The Passion](https://open.spotify.com/track/3OWt4SagGhsTLniZcY5YKF) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [The Passion](https://open.spotify.com/album/06hPzuha2LmNJ3weTpAygz) | 2:17 | 2022-09-21 | 2022-10-27 |
 | [The Plot](https://open.spotify.com/track/0BbzHOeVYGpj3PTJWTaG8q) | [Myazwe](https://open.spotify.com/artist/0zUSWiCBPSkpp5QvUeF26V) | [How’ve You Been?’](https://open.spotify.com/album/7EDkcq2c4SmHSSHxhfSDJn) | 2:57 | 2023-04-12 | 2023-06-15 |
 | [The Rules Pt\. 2](https://open.spotify.com/track/4wy48jOtMCKeSlPT9UhFx6) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Rules Pt\. 2](https://open.spotify.com/album/7FdtjWOoQCVn12Eim4JMmO) | 2:31 | 2024-04-24 | 2024-05-02 |
+| [The Viper](https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP) | 2:30 | 2024-09-26 |  |
 | [THE WAIT](https://open.spotify.com/track/27NEAQXGMixupJd69PbtCB) | [Cilo](https://open.spotify.com/artist/7sMhc8nqY80C2cfkbDuPxA) | [THE WAIT](https://open.spotify.com/album/3M5ATQZKahC4lrF1Gcj90d) | 2:34 | 2024-07-24 |  |
 | [The Way She Move](https://open.spotify.com/track/2QMcMpOQTnmvpvi9AkWD1Z) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [The Way She Move](https://open.spotify.com/album/7zuMby38F1tC9DpUZ31vmf) | 2:09 | 2024-08-09 | 2024-08-29 |
 | [The Wolf Is In The Peacoat](https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [The Wolf Is In The Peacoat](https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV) | 3:16 | 2022-03-10 | 2022-04-07 |

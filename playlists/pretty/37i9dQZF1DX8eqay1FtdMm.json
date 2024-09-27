@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Jang Hye Jin(\uc7a5\ud61c\uc9c4)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378309,
+  "num_followers": 378284,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-09-18 09:23:05",
       "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2024-09-18 09:23:05",
+      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
-    },
-    {
-      "added_at": "2024-09-18 09:23:05",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2024-09-18 09:23:05",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-18 09:23:05",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
-      },
-      "artists": [
-        {
-          "name": "Cho Jang Hyuck",
-          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
-        }
-      ],
-      "duration_ms": 266292,
-      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
-    },
-    {
-      "added_at": "2024-09-18 09:23:05",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2024-09-18 09:23:05",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+      },
+      "artists": [
+        {
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+        }
+      ],
+      "duration_ms": 266292,
+      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
     },
     {
       "added_at": "2024-09-18 09:23:05",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-18 09:23:05",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
-      },
-      "artists": [
-        {
-          "name": "L (INFINITE)",
-          "url": "https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "What's Not To Love",
-      "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
-    },
-    {
-      "added_at": "2024-09-18 09:23:05",
-      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 218621,
       "name": "Deeply",
       "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "added_at": "2024-09-18 09:23:05",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
+      },
+      "artists": [
+        {
+          "name": "L (INFINITE)",
+          "url": "https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "What's Not To Love",
+      "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
     },
     {
       "added_at": "2024-09-18 09:23:05",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-18 09:23:05",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2024-09-18 09:23:05",
-      "album": {
         "name": "Red Moon: Beyond The Light",
         "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+    },
+    {
+      "added_at": "2024-09-18 09:23:05",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2024-09-18 09:23:05",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-09-18 09:23:05",
       "album": {
-        "name": "Trip: Tape #01",
-        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
+        "name": "Oh My Venus (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo"
       },
       "artists": [
         {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Holding hands or walking together.",
-      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+      "duration_ms": 241640,
+      "name": "Looking For Love (Man Ver.)",
+      "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
     }
   ],
   "unique_name": "v o K a l",

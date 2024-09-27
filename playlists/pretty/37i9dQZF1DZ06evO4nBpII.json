@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1068427,
+  "num_followers": 1068674,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAABselpF69IOuf9lf/3FTdsn",
+  "snapshot_id": "ZvNSgAAAAADxAQPaI+Y7ZfbJ4kjGkNzE",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Macy's Day Parade",
+      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Macy's Day Parade",
-      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - 20th Anniversary - On Holiday",
-        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+        "name": "\u00a1UNO!",
+        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 503138,
-      "name": "Holiday/Blvd. of Broken Dreams - Demo",
-      "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
+      "duration_ms": 303293,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1UNO!",
-        "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 90226,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot - 20th Anniversary - On Holiday",
+        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 503138,
+      "name": "Holiday/Blvd. of Broken Dreams - Demo",
+      "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - 20th Anniversary - On Holiday",
-        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 125986,
-      "name": "Favorite Son",
-      "url": "https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 135293,
       "name": "Geek Stink Breath",
       "url": "https://open.spotify.com/track/4mI4HF4OVBg3tl2IWzSaoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot - 20th Anniversary - On Holiday",
+        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 125986,
+      "name": "Favorite Son",
+      "url": "https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS"
     },
     {
       "added_at": null,

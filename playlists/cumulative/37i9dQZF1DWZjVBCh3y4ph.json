@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
+  "description": "Les hits zouk du moment. Photo : Jahyanai",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 187500,
       "name": "Cadence",
       "url": "https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj"
@@ -342,6 +342,24 @@
       "duration_ms": 157411,
       "name": "Call me",
       "url": "https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca"
+    },
+    {
+      "album": {
+        "name": "Incomprise",
+        "url": "https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur"
+      },
+      "artists": [
+        {
+          "name": "Ina Lina",
+          "url": "https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179937,
+      "name": "Ce que tu veux de nous - Baby boo",
+      "url": "https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln"
     },
     {
       "album": {
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180206,
       "name": "Des Mots - Des maux",
       "url": "https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC"
@@ -1937,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "Ou f\u00e8m vakabon",
+      "url": "https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq"
+    },
+    {
+      "album": {
         "name": "Oublie Dehors",
         "url": "https://open.spotify.com/album/1TjnjOYLLuDMYHNtgbhaVg"
       },
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 167561,
       "name": "Patch\u00e9 Pata",
       "url": "https://open.spotify.com/track/2fHdAwgVFYMqRs0Gul1jji"
@@ -2330,6 +2366,24 @@
       "duration_ms": 180009,
       "name": "Projecteurs",
       "url": "https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE"
+    },
+    {
+      "album": {
+        "name": "RDMV",
+        "url": "https://open.spotify.com/album/2pJJ5RSEmFb7rl0Q9KzmA5"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145568,
+      "name": "RDMV",
+      "url": "https://open.spotify.com/track/4QVsBN1976xZ9SKg87Y0g7"
     },
     {
       "album": {

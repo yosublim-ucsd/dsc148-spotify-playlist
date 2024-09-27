@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Duplat y Manuel Medrano",
-  "num_followers": 63448,
+  "num_followers": 63455,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0x1AAAAAAeCq+TZmMbCSAzuN6Ts8hv",
+  "snapshot_id": "ZvYH7AAAAACkO/5/D7CN0hrX+nLMoa2p",
   "tracks": [
     {
       "added_at": "2024-08-30 04:59:00",
@@ -75,6 +75,26 @@
       "duration_ms": 214000,
       "name": "Los Domingos",
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "added_at": "2024-09-27 01:18:36",
+      "album": {
+        "name": "Pasaporte",
+        "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "duration_ms": 266787,
+      "name": "Pasaporte",
+      "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -351,22 +371,6 @@
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "MIS PLANTAS MUERTAS",
-        "url": "https://open.spotify.com/album/480v7YXnoev8J08UBgA1vs"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Jadad",
-          "url": "https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "PEN\u00c9LOPE",
-      "url": "https://open.spotify.com/track/3wetETkA76tOFOeUujaq1N"
     },
     {
       "added_at": "2024-08-30 04:59:00",

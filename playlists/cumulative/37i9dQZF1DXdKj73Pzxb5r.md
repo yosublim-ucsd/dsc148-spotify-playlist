@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Peonies
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Bedchamber
 
-188 songs - 12 hr 9 min
+190 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Rufus](https://open.spotify.com/track/4K1ZDFZFRXEA0t97xTrPUC) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Rufus/Odyssey](https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb) | 4:44 | 2024-07-11 | 2024-09-06 |
 | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/track/5UKYIox4ovOf0mWjqDXJU0) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rahara](https://open.spotify.com/artist/48RPzUPIqKTqfx3LE2VthB) | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/album/0CDj4xAP2fHJe6YTVqg6tu) | 3:45 | 2024-06-27 |  |
 | [Salah](https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP) | [Domestique Club](https://open.spotify.com/artist/2MsAZb3nzWesXFJ0NwVNcN) | [Salah](https://open.spotify.com/album/1tyGKn3ddpRAcTYwP2t1nA) | 5:03 | 2024-06-27 | 2024-07-19 |
+| [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-09-26 |  |
 | [Sang Air](https://open.spotify.com/track/5y4Kgbn16NbHqd5hsWIqsa) | [Dialog Dini Hari](https://open.spotify.com/artist/4gJg421y4bUEvBAMwND149), [Khita](https://open.spotify.com/artist/2mMf1BdJ0cc6IW2n4YiAEM) | [Sang Air](https://open.spotify.com/album/0eapVoaliAzU6N8g1r4kHn) | 3:58 | 2024-06-27 | 2024-08-02 |
 | [Secercah](https://open.spotify.com/track/2lJ8p5Khj22dEtcYQzkf23) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Secercah](https://open.spotify.com/album/0FmqdVa9xGnCAeW5Xly5DS) | 4:03 | 2024-09-20 |  |
 | [Segalanya Bermula](https://open.spotify.com/track/3pJYW5zdKh6PZWQ7OOWhi6) | [Kabar Burung](https://open.spotify.com/artist/6Uo4ELuiXfJZVy7QKPjf8m) | [Gita Masa Lalu](https://open.spotify.com/album/7aHKjuQbnWXZagPo9TNIUE) | 3:06 | 2024-06-27 | 2024-09-06 |
@@ -175,6 +176,7 @@
 | [Teduh](https://open.spotify.com/track/0j1N2ILdZQkyUZvYH8HCNr) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Teduh](https://open.spotify.com/album/6VvSI1VgsP7RfUS2LuLQhs) | 3:51 | 2024-07-25 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-06-27 |  |
+| [The Bigfoot Trademark Logo](https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [The Bigfoot Trademark Logo](https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn) | 2:52 | 2024-09-26 |  |
 | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ) | [Serdadu Sam](https://open.spotify.com/artist/5C4HI7BDqAXMAKhMEGuTFe) | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/album/5xKO46V57iXZ6rlxXaHmiq) | 4:26 | 2024-06-27 | 2024-08-02 |
 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 | 2024-07-04 | 2024-08-17 |
 | [Till We're Together Again](https://open.spotify.com/track/2Dzg1wL6lYAXcJrXIQLvAA) | [Javier Parisi](https://open.spotify.com/artist/79zGNMGG2AU1xjzdaVfZKW), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De), [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe), [Vega Antares](https://open.spotify.com/artist/3V2FnFodLNcHCTMDs2r7Y6) | [Till We're Together Again](https://open.spotify.com/album/50EUXjsdPEaVH2Rci4DeKc) | 3:20 | 2024-08-16 |  |

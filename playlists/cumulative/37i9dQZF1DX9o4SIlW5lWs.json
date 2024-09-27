@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "20 LABIOS",
+        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205176,
+      "name": "20 Labios",
+      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
+    },
+    {
+      "album": {
         "name": "A Chillar a Otra Parte",
         "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 158570,
       "name": "COMO TE LLAMAS",
       "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
@@ -1446,6 +1464,24 @@
       "duration_ms": 171930,
       "name": "Coraz\u00f3n Blindado",
       "url": "https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Madera",
+        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Coraz\u00f3n De Madera",
+      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
     },
     {
       "album": {
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 161214,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
@@ -2726,6 +2762,28 @@
       "duration_ms": 144160,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/1hP5LmFzOEKXI2l1UsQK7w"
+    },
+    {
+      "album": {
+        "name": "Enganchados Cumbias Atenas (En Vivo)",
+        "url": "https://open.spotify.com/album/5pImx4Ni9Ivperb2jDcVpl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432014,
+      "name": "Enganchados Cumbias Atenas - En Vivo",
+      "url": "https://open.spotify.com/track/5GbVXvPHGw02iSj63h0wfU"
     },
     {
       "album": {
@@ -4013,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "Llamala",
+        "url": "https://open.spotify.com/album/7m2kxXM0SycHuj5dIP5aRY"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185669,
+      "name": "Llamala",
+      "url": "https://open.spotify.com/track/3GziopS69lAXBnCD2qJkeb"
+    },
+    {
+      "album": {
         "name": "Grupo Play - Ahora juega en primera",
         "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
       },
@@ -4024,7 +4104,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
@@ -4420,6 +4500,24 @@
       "duration_ms": 381330,
       "name": "Me Gusta Todo de Ti - En Vivo",
       "url": "https://open.spotify.com/track/7rwO1WEEN7hJjqbO3HAtok"
+    },
+    {
+      "album": {
+        "name": "Me Hizo Un Favor",
+        "url": "https://open.spotify.com/album/0MMlL2xVzzfPRMdabLcm6S"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Me Hizo Un Favor",
+      "url": "https://open.spotify.com/track/6C7iyH1qFSNmMhCMNzyiJz"
     },
     {
       "album": {
@@ -4822,7 +4920,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160500,
       "name": "Muero X dec\u00edrtelo",
       "url": "https://open.spotify.com/track/5YP2eun7Fp0W9vVe0VCoyM"
@@ -5468,7 +5566,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 188368,
       "name": "Noche de Estrellas",
       "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
@@ -6303,6 +6401,32 @@
     },
     {
       "album": {
+        "name": "El Stylo (Diego Rios) - Session #48 (Sin Miedo: Lado S)",
+        "url": "https://open.spotify.com/album/5cWL3BIWwYB3Os0Rq5q2oG"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "El Stylo",
+          "url": "https://open.spotify.com/artist/3ZsohZm3TsffH1MmUNrK8G"
+        },
+        {
+          "name": "Diego R\u00edos",
+          "url": "https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201969,
+      "name": "Quiero ser tu amor",
+      "url": "https://open.spotify.com/track/6Pz5FUFTNTDMFnzF61xzIg"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
@@ -6462,7 +6586,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
@@ -7856,6 +7980,28 @@
       "duration_ms": 201000,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/312WnZTBmcnwjuwrcQqVDZ"
+    },
+    {
+      "album": {
+        "name": "Tu Infeliz",
+        "url": "https://open.spotify.com/album/5KD1dlXT0ublBVLCPesmT5"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174331,
+      "name": "Tu Infeliz",
+      "url": "https://open.spotify.com/track/0uU3EuEd8L2FvrPygGpZvb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 295930,
+  "num_followers": 295927,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Sonic Highways",
-        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Something from Nothing",
-      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 150685,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 215035,
       "name": "Oh No!!!",
       "url": "https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Rescued",
-        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258648,
-      "name": "Rescued",
-      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Red Button",
-        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
-      },
-      "artists": [
-        {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 191543,
       "name": "Ain't Hard To Tell",
       "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Red Button",
+        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Antenna",
-        "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
-      },
-      "artists": [
-        {
-          "name": "Cave In",
-          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
-        }
-      ],
-      "duration_ms": 248426,
-      "name": "Stained Silver",
-      "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 212980,
       "name": "Bruise The Sore",
       "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Antenna",
+        "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
+      },
+      "artists": [
+        {
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+        }
+      ],
+      "duration_ms": 248426,
+      "name": "Stained Silver",
+      "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Best Mistake",
-        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
-      },
-      "artists": [
-        {
-          "name": "GUNNAR",
-          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "duality",
         "url": "https://open.spotify.com/album/0YpkjYPstGWDkffW3SL9mQ"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 186474,
       "name": "over now",
       "url": "https://open.spotify.com/track/7fBre9lJfuG40HU2NLoCt8"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Best Mistake",
+        "url": "https://open.spotify.com/album/4fwRrnCLidomYVB8O5qNVu"
+      },
+      "artists": [
+        {
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/28xq4spFVerqM5bDxVFgH4"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "hi mute",
-        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
-      },
-      "artists": [
-        {
-          "name": "Stock Manager",
-          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
-        }
-      ],
-      "duration_ms": 164376,
-      "name": "hi mute",
-      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Voodoo Science",
         "url": "https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 189000,
       "name": "Voodoo Science",
       "url": "https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "hi mute",
+        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
+      },
+      "artists": [
+        {
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
+        }
+      ],
+      "duration_ms": 164376,
+      "name": "hi mute",
+      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Two Tone Marionette",
-        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
-      },
-      "artists": [
-        {
-          "name": "NVM",
-          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
-        }
-      ],
-      "duration_ms": 281103,
-      "name": "Two Tone Marionette",
-      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 224073,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5a64Hp9Cihvn7EYvyUGEjl"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Two Tone Marionette",
+        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
+      },
+      "artists": [
+        {
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
+        }
+      ],
+      "duration_ms": 281103,
+      "name": "Two Tone Marionette",
+      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Take As Prescribed",
-        "url": "https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww"
+        "name": "Static King",
+        "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
       },
       "artists": [
         {
-          "name": "Capsule 9",
-          "url": "https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO"
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
         }
       ],
-      "duration_ms": 167230,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
+      "duration_ms": 217600,
+      "name": "Static King",
+      "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
     }
   ],
   "unique_name": "Anger Management",

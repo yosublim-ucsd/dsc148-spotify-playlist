@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 40067,
+  "num_followers": 40103,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Seeder",
-        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Seeder",
-      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Don't Stahp (Edit)",
         "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 228750,
       "name": "Don't Stahp - Edit",
       "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Seeder",
+        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Seeder",
+      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Elements Pt1",
-        "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 363915,
-      "name": "Rinser",
-      "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Break Down EP",
         "url": "https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK"
       },
@@ -1743,22 +1727,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "On The Ground - EP",
-        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
-      },
-      "artists": [
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1771,6 +1739,38 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Elements Pt1",
+        "url": "https://open.spotify.com/album/6dtAJqkWVV8cosqNCy0DVv"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 363915,
+      "name": "Rinser",
+      "url": "https://open.spotify.com/track/4dCOSO2tc0sPtCMqSfbqEE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "On The Ground - EP",
+        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
+      },
+      "artists": [
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
     }
   ],
   "unique_name": "Minimal Tech",

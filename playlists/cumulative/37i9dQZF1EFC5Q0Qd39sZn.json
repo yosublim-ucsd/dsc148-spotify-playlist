@@ -9236,6 +9236,24 @@
     {
       "album": {
         "name": "One In A Million",
+        "url": "https://open.spotify.com/album/5VT7ND2Rq0MhfqxkAzBNz3"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270933,
+      "name": "The One I Gave My Heart To",
+      "url": "https://open.spotify.com/track/1TmzjefIVfAR86yFarHYBO"
+    },
+    {
+      "album": {
+        "name": "One In A Million",
         "url": "https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG"
       },
       "artists": [
@@ -9246,7 +9264,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 270933,
       "name": "The One I Gave My Heart To",
       "url": "https://open.spotify.com/track/5otUV0LUycAHXqGVz8bZY0"
@@ -10464,6 +10482,24 @@
       "duration_ms": 257440,
       "name": "When I See You Smile",
       "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
+    },
+    {
+      "album": {
+        "name": "Best of the Essential Years: David Garrick",
+        "url": "https://open.spotify.com/album/00dt9K2OkC0UtDDjaYhnh4"
+      },
+      "artists": [
+        {
+          "name": "David Garrick",
+          "url": "https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "When I'm Back On My Feet Again",
+      "url": "https://open.spotify.com/track/34vXa9Op7Rqxq7csiMZ66u"
     },
     {
       "album": {

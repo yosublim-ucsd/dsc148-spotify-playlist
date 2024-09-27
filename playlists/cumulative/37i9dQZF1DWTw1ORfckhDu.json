@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Turisti.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa AHTI.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 244981,
       "name": "Aakkosmurha - Pt. 2",
       "url": "https://open.spotify.com/track/30K7zpQJVg2beOCWJsS2Tw"
@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Edes takas",
+        "url": "https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK"
+      },
+      "artists": [
+        {
+          "name": "El Migu",
+          "url": "https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Edes takas",
+      "url": "https://open.spotify.com/track/6NuWVmm8npIuW5lVmPYDo7"
+    },
+    {
+      "album": {
         "name": "Ei",
         "url": "https://open.spotify.com/album/79g3koHBH2ByMyU4TSRjfG"
       },
@@ -1906,6 +1924,24 @@
       "duration_ms": 152702,
       "name": "Ei!",
       "url": "https://open.spotify.com/track/3HpnuengHvZaMsBU5Yw7AP"
+    },
+    {
+      "album": {
+        "name": "EIFFEL TYPE SHIT",
+        "url": "https://open.spotify.com/album/4OVMplPBhInUQbXuD8EeJ9"
+      },
+      "artists": [
+        {
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136901,
+      "name": "EIFFEL TYPE SHIT",
+      "url": "https://open.spotify.com/track/6WkrR2jgnfiARbUyOb7rF8"
     },
     {
       "album": {
@@ -3820,7 +3856,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 215709,
       "name": "Isot saappaat",
       "url": "https://open.spotify.com/track/5J8DmSw5JymYidrAmchG1F"
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 153000,
       "name": "JORMA",
       "url": "https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV"
@@ -4932,7 +4968,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 184166,
       "name": "Ket\u00e4\u00e4 ei kiinnosta kunnes kaikkii",
       "url": "https://open.spotify.com/track/6iz379jaNRSgrYg62I3l8E"
@@ -5961,6 +5997,28 @@
     },
     {
       "album": {
+        "name": "Lasikatot helisee",
+        "url": "https://open.spotify.com/album/1cB3iwl2bqW5peyVIlSykT"
+      },
+      "artists": [
+        {
+          "name": "Tiia Karoliina",
+          "url": "https://open.spotify.com/artist/5MlYwzIBfYGOboVOo0fwny"
+        },
+        {
+          "name": "Helena Routa",
+          "url": "https://open.spotify.com/artist/3B3F0NOprzhFFbGB2M4TQN"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lasikatot helisee",
+      "url": "https://open.spotify.com/track/3a1V6TwWIPLJsCI8kERq0J"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/5D0pdqxE2fgm2KDKkOPMju"
       },
@@ -6002,6 +6060,24 @@
       "duration_ms": 120943,
       "name": "Lattiast kattoon (feat. Kube)",
       "url": "https://open.spotify.com/track/0baRHyknQv1ui5GlHVLGvO"
+    },
+    {
+      "album": {
+        "name": "LE LE LE",
+        "url": "https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "LE LE LE",
+      "url": "https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo"
     },
     {
       "album": {
@@ -6835,6 +6911,28 @@
     },
     {
       "album": {
+        "name": "Makaveli",
+        "url": "https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33"
+      },
+      "artists": [
+        {
+          "name": "Shakkii",
+          "url": "https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156505,
+      "name": "Makaveli",
+      "url": "https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3"
+    },
+    {
+      "album": {
         "name": "MAKSELEE",
         "url": "https://open.spotify.com/album/4ONmxvtuMD8lozv9pd8C2N"
       },
@@ -7300,7 +7398,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 183721,
       "name": "Mi Amore (feat. Ege Zulu)",
       "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
@@ -8888,7 +8986,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151000,
       "name": "Pakumies",
       "url": "https://open.spotify.com/track/5cCNHGzNVKx2xAF5wtgCVk"
@@ -11132,10 +11230,32 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 136772,
       "name": "Sun Luo",
       "url": "https://open.spotify.com/track/2ngArWKUJEsR8fHqNOBoFJ"
+    },
+    {
+      "album": {
+        "name": "AHTI",
+        "url": "https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174016,
+      "name": "Sun luokse",
+      "url": "https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz"
     },
     {
       "album": {
@@ -14016,6 +14136,28 @@
       "duration_ms": 106666,
       "name": "\u201cLeip\u00e4\u201d",
       "url": "https://open.spotify.com/track/2gxiSlbY5NrLlnp9xVU7Mx"
+    },
+    {
+      "album": {
+        "name": "NOTORIUS",
+        "url": "https://open.spotify.com/album/6Db6D3qhAq6FdtcpN9XKy8"
+      },
+      "artists": [
+        {
+          "name": "NOTO",
+          "url": "https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u2060Kaunotar ja Kulkuri (feat. KIKI)",
+      "url": "https://open.spotify.com/track/1wgxN8TeKxMHx9MCCIVDbA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu"

@@ -2,7 +2,7 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Nala Sinephro
+> The best from Britain's vibrant scene\. Cover: Ezra Collective
 
 640 songs - 1 day 21 hr 15 min
 
@@ -46,7 +46,7 @@
 | [Another Love Story](https://open.spotify.com/track/46pUsxCf2s89NtD5zRpuMO) | [Kente Kwame](https://open.spotify.com/artist/43KOkaOqR25klAPKFGROw4), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [Short Songs About Love](https://open.spotify.com/album/7icjvZEtJp6oWLJnZKk99z) | 1:06 | 2024-03-08 | 2024-03-12 |
 | [Apho](https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 2:58 | 2023-05-05 | 2024-06-15 |
 | [April](https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [April](https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR) | 4:18 | 2021-12-17 | 2022-12-24 |
-| [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 | 2024-08-22 |  |
+| [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 | 2024-08-22 | 2024-09-27 |
 | [As You Are](https://open.spotify.com/track/4rCM8A21DZdVKhAYZHGTI8) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [Robyn](https://open.spotify.com/album/6oS2nHFKjnGoctJBziOa9r) | 2:03 | 2021-12-17 | 2022-05-20 |
 | [Ascent](https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Ascent](https://open.spotify.com/album/6cnOKQregeePTvoeH2ahO0) | 4:40 | 2022-02-25 | 2023-09-22 |
 | [At Least a Double Fold](https://open.spotify.com/track/5MXEtN3vIrRzZHjnR9FAkM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [At Least a Double Fold](https://open.spotify.com/album/7KvPRMY4Ds9Q4M0sl4vlZR) | 3:27 | 2022-02-11 | 2022-07-18 |
@@ -267,7 +267,7 @@
 | [In Power](https://open.spotify.com/track/6K2dFLVk9J3RDOUAVJmc7v) | [Isobella Burnham](https://open.spotify.com/artist/7sVgTKCe6c20wdvFWZqBad) | [Dancin' Garuda](https://open.spotify.com/album/2BzlSev6fEW0bHCXvdAFNQ) | 7:20 | 2022-04-08 | 2023-03-09 |
 | [In The Breaks](https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In The Breaks](https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm) | 4:49 | 2024-08-02 | 2024-09-19 |
 | [In The Fire](https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [In The Fire](https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE) | 3:57 | 2024-04-18 | 2024-08-25 |
-| [In The Garden](https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [In The Garden](https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp) | 4:40 | 2024-07-18 | 2024-09-15 |
+| [In The Garden](https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [In The Garden](https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp) | 4:40 | 2024-07-18 |  |
 | [ina crueler](https://open.spotify.com/track/435lsRWOBWySRYcJ03DX4X) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 3:34 | 2023-09-28 | 2024-02-05 |
 | [Ina Crueler](https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Ina Crueler](https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc) | 3:34 | 2022-11-11 | 2022-12-28 |
 | [India](https://open.spotify.com/track/3v9EdwOJoKeMQsqiQpb8pH) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [India](https://open.spotify.com/album/5Vw736E5xvnzP9NfVIWLu5) | 4:18 | 2021-12-17 | 2022-07-22 |

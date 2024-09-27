@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Pop V\u00e9ronique in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Post Nebbia in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/5uBEgtnON3mPiRzTaytXQa"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156617,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/6FlqnN8TCxJcxKV7ICdrxQ"
+    },
+    {
+      "album": {
         "name": "Fammi Male",
         "url": "https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 204672,
       "name": "Ballo del Morto",
       "url": "https://open.spotify.com/track/1g0q2p3ybj9bdXdd3Qwsr9"
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 186624,
       "name": "Dio Perdona Rigan\u00f2",
       "url": "https://open.spotify.com/track/32PGvTgE2XnnOEA7q5iBSH"
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140660,
       "name": "Do One (feat. Fast Animals and Slow Kids)",
       "url": "https://open.spotify.com/track/7o7iT3iPEcF4d4hKCu2Qyt"
@@ -5513,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Eric - Che fai?",
+        "url": "https://open.spotify.com/album/6uR39BP9ceR0TrCYHgGk8c"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180904,
+      "name": "Eric - Che fai?",
+      "url": "https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ"
+    },
+    {
+      "album": {
         "name": "Erkeysette",
         "url": "https://open.spotify.com/album/4UzkJ6UTSfSw1vdY0d1lHo"
       },
@@ -5832,7 +5868,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219466,
       "name": "Exploring A Drawer",
       "url": "https://open.spotify.com/track/7iPJwIkcvpFo6nnjBlm26S"
@@ -5930,6 +5966,24 @@
       "duration_ms": 216610,
       "name": "Fading into Day",
       "url": "https://open.spotify.com/track/27IYZNTtmNT7aZExGrJCzv"
+    },
+    {
+      "album": {
+        "name": "Falling under",
+        "url": "https://open.spotify.com/album/3YSqvii3cOHJV024ylv0O6"
+      },
+      "artists": [
+        {
+          "name": "Vanarin",
+          "url": "https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165277,
+      "name": "Falling under",
+      "url": "https://open.spotify.com/track/0wiTdQwKlof1MfonOohkyb"
     },
     {
       "album": {
@@ -7161,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "Antenne (feat. Crookers)",
+        "url": "https://open.spotify.com/album/4MiELIzDhy1Wkg3P8ctCE3"
+      },
+      "artists": [
+        {
+          "name": "Gato Tomato",
+          "url": "https://open.spotify.com/artist/2V61JPB2PMJ22uXbvGA0QR"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "Giochiamo a palla (feat. Crookers)",
+      "url": "https://open.spotify.com/track/2azEsUbYKpYhGjkHiYTysb"
+    },
+    {
+      "album": {
         "name": "Quanti Me Ne Dai",
         "url": "https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr"
       },
@@ -7872,7 +7948,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 186900,
       "name": "Holymates",
       "url": "https://open.spotify.com/track/0xAsmOF7QbZLjEamTQnWU3"
@@ -8424,7 +8500,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219053,
       "name": "Il nome del capitano",
       "url": "https://open.spotify.com/track/2zLzetUzpCSXPTBiMP1Exf"
@@ -8886,7 +8962,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 148116,
       "name": "Italiapaura",
       "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
@@ -9725,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "LA SIGNORA DEI BACI",
+        "url": "https://open.spotify.com/album/4jzO6ZLB4nIFxpFz4iVRSk"
+      },
+      "artists": [
+        {
+          "name": "SAMUEL COSTA",
+          "url": "https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82914,
+      "name": "LA SIGNORA DEI BACI",
+      "url": "https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs"
+    },
+    {
+      "album": {
         "name": "La sola concreta realt\u00e0",
         "url": "https://open.spotify.com/album/4ikitSU0lmSZNpN7egaUOX"
       },
@@ -10028,7 +10122,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 284305,
       "name": "Letargo",
       "url": "https://open.spotify.com/track/23JXspX6QqfrBKDBZMdTua"
@@ -10140,6 +10234,24 @@
       "duration_ms": 153300,
       "name": "Limited Edition",
       "url": "https://open.spotify.com/track/7KE9p9duEcRef8ZVhoxu9N"
+    },
+    {
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/3Yu7enNdQlUarWAjDFpenL"
+      },
+      "artists": [
+        {
+          "name": "Mondaze",
+          "url": "https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/60xlXuIzPgnP925vn29EXU"
     },
     {
       "album": {
@@ -13459,6 +13571,42 @@
     },
     {
       "album": {
+        "name": "Passo dopo Passo",
+        "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Passo dopo Passo",
+      "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
+    },
+    {
+      "album": {
+        "name": "Pastafrolla",
+        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Pastafrolla",
+      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
+    },
+    {
+      "album": {
         "name": "PASTIGLIE BLU",
         "url": "https://open.spotify.com/album/5cOBAiQSaaepDET6bWlM6k"
       },
@@ -13586,6 +13734,24 @@
       "duration_ms": 377967,
       "name": "Pem Pem (Io sono Elettra e faccio)",
       "url": "https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH"
+    },
+    {
+      "album": {
+        "name": "Penetration",
+        "url": "https://open.spotify.com/album/4l72zkQShk34uHPvNMTnnI"
+      },
+      "artists": [
+        {
+          "name": "Baseball Gregg",
+          "url": "https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178979,
+      "name": "Penetration",
+      "url": "https://open.spotify.com/track/7bR9gqiArXWDKX0VRC2quB"
     },
     {
       "album": {
@@ -16583,6 +16749,24 @@
     },
     {
       "album": {
+        "name": "Space of a Breath",
+        "url": "https://open.spotify.com/album/4PI5hrWQlWCK2Tgm6G5oyt"
+      },
+      "artists": [
+        {
+          "name": "Monte Mai",
+          "url": "https://open.spotify.com/artist/08vx62TptvD5VvAymkBx1i"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274940,
+      "name": "Space of a Breath",
+      "url": "https://open.spotify.com/track/1261nBZJFz775zDtvONm2P"
+    },
+    {
+      "album": {
         "name": "Speak Loud",
         "url": "https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny"
       },
@@ -17815,6 +17999,24 @@
     },
     {
       "album": {
+        "name": "Crumpled Canvas",
+        "url": "https://open.spotify.com/album/0SZ3XpGsAZrIEANCmFqBVE"
+      },
+      "artists": [
+        {
+          "name": "Francesca Bono",
+          "url": "https://open.spotify.com/artist/2OBpc3wk6fNWzoJrUeq23M"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "The Trick",
+      "url": "https://open.spotify.com/track/3K6njCk89hVhF0F4S7yLHw"
+    },
+    {
+      "album": {
         "name": "The Ugliest",
         "url": "https://open.spotify.com/album/1NSGC4IIDcW5R0fVWcy7z8"
       },
@@ -18634,6 +18836,24 @@
       "duration_ms": 212090,
       "name": "Tutto sbagliato",
       "url": "https://open.spotify.com/track/7b6n3ZxFrrX1e3l7AqaHia"
+    },
+    {
+      "album": {
+        "name": "Tuttoscorre",
+        "url": "https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Tuttoscorre",
+      "url": "https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA"
     },
     {
       "album": {

@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0nx5toRgIwKxJ6yoEqqovS"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        },
+        {
+          "name": "Catherine Vergnes",
+          "url": "https://open.spotify.com/artist/3dqxFNqXEaIA3janjTRoHW"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202122,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/52Q0BDu0NZiYJZMMyLIC83"
+    },
+    {
+      "album": {
         "name": "Lluvia, Campo Y Chamam\u00e9",
         "url": "https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180499,
       "name": "Devu\u00e9lveme el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"

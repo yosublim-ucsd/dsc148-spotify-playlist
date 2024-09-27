@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Shawty
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: BLOK3
 
 73 songs - 3 hr 36 min
 

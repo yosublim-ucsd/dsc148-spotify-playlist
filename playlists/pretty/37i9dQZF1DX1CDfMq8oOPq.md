@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > calma malvadeza 👀 😰
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,371 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,423 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 37 | [Flores](https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8) | [TROPA](https://open.spotify.com/artist/1nlGQts3gmftixL86sQVq8), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [NABRU](https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [TROPA](https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS) | 3:02 |
 | 38 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 | 39 | [Perfil \#89 \- Sapiência](https://open.spotify.com/track/5a1cIb0jtkhrNTLxQ8Hu2z) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Perfil \#89 \- Sapiência](https://open.spotify.com/album/0WSNvJv1ZQqqwa8CISl1tQ) | 3:52 |
-| 40 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
-| 41 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 |
+| 40 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 |
+| 41 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
 | 42 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 43 | [Na Rua](https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:07 |
 | 44 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |

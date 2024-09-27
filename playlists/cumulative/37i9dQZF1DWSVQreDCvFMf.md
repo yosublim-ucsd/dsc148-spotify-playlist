@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Janine
 
-163 songs - 10 hr 23 min
+164 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-07-02 | 2024-07-19 |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 | 2024-09-07 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-24 |  |
-| [Back Home To You](https://open.spotify.com/track/7HintleCrmra9Ag5rnMYXJ) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Back Home To You](https://open.spotify.com/album/4BQVamFj786ljykHSBrzog) | 3:43 | 2024-07-12 |  |
+| [Back Home To You](https://open.spotify.com/track/7HintleCrmra9Ag5rnMYXJ) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Back Home To You](https://open.spotify.com/album/4BQVamFj786ljykHSBrzog) | 3:43 | 2024-07-12 | 2024-09-27 |
 | [Baggages](https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Baggages](https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7) | 3:16 | 2024-07-17 |  |
 | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/track/2KuTrG1x4SYCeZh1FMDCGu) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Bakit Hindi Ka Crush Ng Crush Mo](https://open.spotify.com/album/7pvBl5IBQ2XaGccv4P9a09) | 5:37 | 2024-08-16 |  |
 | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/track/6JDitV6kw2qY4RSYiFDNG2) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs), [Zel Bautista](https://open.spotify.com/artist/2ezIzAs7jVe4YXTXtdMirw) | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt) | 4:22 | 2024-07-12 |  |
@@ -32,6 +32,7 @@
 | [Bituin](https://open.spotify.com/track/5hvqC3Xiz3Ll2yZtaBPnvi) | [Letters From June](https://open.spotify.com/artist/0S19WmQWKCpBiKIbDJOmeC) | [Bituin](https://open.spotify.com/album/5L9nPMD38a9DkRzyfIFOtT) | 4:47 | 2024-09-25 |  |
 | [Bulaklak Sa Buwan](https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Bulaklak Sa Buwan](https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9) | 4:55 | 2024-08-16 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-12 |  |
+| [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 |  |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-07-02 | 2024-07-19 |
 | [Comets \(with Petra Sihombing\)](https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Comets \(with Petra Sihombing\)](https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC) | 3:55 | 2024-08-30 |  |
 | [Crisostomo](https://open.spotify.com/track/47hcQlmzCIEoWIk3W3PggN) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Crisostomo](https://open.spotify.com/album/4OY0wYFGnYZMWRkFyZEV22) | 3:48 | 2024-07-02 | 2024-07-09 |
@@ -118,7 +119,7 @@
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-19 |  |
 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-07-02 | 2024-07-19 |
 | [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-06 |  |
-| [pati ng ulan](https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pati ng ulan](https://open.spotify.com/album/338bWmo7P3asnye9ba4D7I) | 2:41 | 2024-07-19 |  |
+| [pati ng ulan](https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [pati ng ulan](https://open.spotify.com/album/338bWmo7P3asnye9ba4D7I) | 2:41 | 2024-07-19 | 2024-09-27 |
 | [Paumanhin](https://open.spotify.com/track/3tSRjmIZdw0d8S36aJDsEu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:51 | 2024-07-02 | 2024-07-19 |
 | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-07-02 | 2024-08-15 |
 | [Pinaglaban](https://open.spotify.com/track/4Kt8WjjUi3ot5GBAPFDB3X) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Pinaglaban](https://open.spotify.com/album/2RRER38RGdbWCmb5JWGnu4) | 3:11 | 2024-07-26 |  |
@@ -143,7 +144,7 @@
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-07-02 | 2024-08-03 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-08-30 |  |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-07-02 | 2024-08-31 |
-| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 |  |
+| [sirens](https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [sirens](https://open.spotify.com/album/69pqIOvEK67NoO48XGErG9) | 3:20 | 2024-07-12 | 2024-09-27 |
 | [Sisig](https://open.spotify.com/track/27yg8NUSbUr0KBMB9JyNOV) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Sisig](https://open.spotify.com/album/7IIl5vFvQSUsMmoZcvo8WB) | 3:58 | 2024-08-23 |  |
 | [Slow Dancing](https://open.spotify.com/track/2t956sQxFUWupGyN4hvKu6) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Slow Dancing](https://open.spotify.com/album/5GKO400SBwZ65elrPo0sNc) | 3:40 | 2024-07-02 | 2024-08-10 |
 | [Sori](https://open.spotify.com/track/38E7l3JhG2FDLc05HzF5bq) | [Paolo Santos](https://open.spotify.com/artist/33kC1w8s5cXEi1zyJZuqSI) | [Sori](https://open.spotify.com/album/1wiC2nEgJOw7RCT0v5G22i) | 4:46 | 2024-07-02 | 2024-09-25 |

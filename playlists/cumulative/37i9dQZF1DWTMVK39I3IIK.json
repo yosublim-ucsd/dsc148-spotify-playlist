@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:2IwoU1JvxmNCdD1i69FmKr\">Marcus.wav</a>",
+  "description": "de skarpeste nye knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:4gepV1NXit1T15YxX0Bv27\">Bette</a>",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 172079,
       "name": "Berlin (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
+    },
+    {
+      "album": {
+        "name": "Bl\u00f8d",
+        "url": "https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141653,
+      "name": "Bl\u00f8d",
+      "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
     },
     {
       "album": {
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 230125,
       "name": "Lyden Af Livet",
       "url": "https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ"
@@ -1479,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Sang Til Min Mor",
+        "url": "https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172885,
+      "name": "Sang Til Min Mor",
+      "url": "https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8"
+    },
+    {
+      "album": {
         "name": "Elsk Mig",
         "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
       },
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 203218,
       "name": "Til Mit Hjerte Stopper (feat. Kundo)",
       "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 ### [Nobody Wants This Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX2KTIOxdCy0E)
 
-> Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, coming soon to Netflix.
+> Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,915 likes - 33 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,483 likes - 33 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 32 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 |
 | 33 | [Fly](https://open.spotify.com/track/1gJqICniCRvc2JWGnMYxsD) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Fly](https://open.spotify.com/album/6n8mLwrO1XoeSv1Nh6GrsO) | 3:26 |
 
-Snapshot ID: `ZvMVyAAAAAB1V+j7pVNg2+UqE1vRlQXZ`
+Snapshot ID: `ZvWvKgAAAADSLstjag6Yvu9zrDIp8RZB`

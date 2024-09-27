@@ -2,7 +2,7 @@
 
 ### [Nobody Wants This Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX2KTIOxdCy0E)
 
-> Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, coming soon to Netflix.
+> Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
 64 songs - 3 hr 44 min
 

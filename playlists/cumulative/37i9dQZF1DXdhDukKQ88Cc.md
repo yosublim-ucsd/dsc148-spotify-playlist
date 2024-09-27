@@ -4,7 +4,7 @@
 
 > den største dk rap lige nu 🌊🌊
 
-228 songs - 9 hr 51 min
+233 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 | 2023-11-10 | 2024-09-13 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 | 2024-02-08 | 2024-04-19 |
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-06-20 |  |
+| [AFIA](https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFIA](https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1) | 2:28 | 2024-09-27 |  |
 | [Aldrig Alene](https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [Aldrig Alene](https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X) | 2:36 | 2024-05-30 |  |
 | [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 | 2024-08-08 | 2024-09-13 |
 | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ) | [TV 2 Play](https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO) | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ) | 2:42 | 2023-11-10 | 2024-04-26 |
@@ -101,6 +102,7 @@
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-04-25 | 2024-05-14 |
 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 | 2023-12-08 | 2024-02-23 |
 | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/track/1k2LysiDCZflmHiA6DepMn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Glem Det \(feat\. Jamaika\)](https://open.spotify.com/album/0C9uppyvWZfeJLng1b9KhZ) | 2:49 | 2024-01-04 | 2024-09-13 |
+| [Glem Nu](https://open.spotify.com/track/7vWbMVQqpqvP20o6eQMSvo) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Glem Nu](https://open.spotify.com/album/23cZsSmIkjeqU3pdqCxGeM) | 2:46 | 2024-09-27 |  |
 | [GO](https://open.spotify.com/track/3ZhAJ9vOYKeaeo8m2OtKlh) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [GO](https://open.spotify.com/album/445LOHJRfwq4dR3f77oWBF) | 2:34 | 2024-05-30 |  |
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
 | [Grim Verden](https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Grim Verden](https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv) | 3:45 | 2024-04-18 | 2024-04-26 |
@@ -123,6 +125,7 @@
 | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/track/4FXxjGxNBIPmDnOU1VFq8x) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Abcitoo](https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN) | [I LIKE 2 MOVE IT \(feat\. ABCITOO\)](https://open.spotify.com/album/19VwYofnlTp22my1SUbVeR) | 2:39 | 2023-09-21 | 2024-05-14 |
 | [Igen \(feat\. MAS\)](https://open.spotify.com/track/5iyWULPnXcozdzi9ODfVkL) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Igen \(feat\. MAS\)](https://open.spotify.com/album/37RNYLyXQb5MM4bAfwizDh) | 2:22 | 2023-11-16 | 2023-12-14 |
 | [IK FAKE LÆNGERE](https://open.spotify.com/track/0Q9d8VHYuO7SpKsOJg57z5) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8) | [IK FAKE LÆNGERE](https://open.spotify.com/album/6qqYkOgMSSAZd8AGO7J7ZI) | 2:38 | 2023-12-08 | 2024-01-17 |
+| [Ik Tænk](https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Ik Tænk](https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr) | 2:33 | 2024-09-27 |  |
 | [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-21 | 2024-04-26 |
 | [Indre Stemme](https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8) | [Indre Stemme](https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues) | 2:42 | 2024-04-09 |  |
 | [Indtil Solen Kom \(Feat\. Branco\)](https://open.spotify.com/track/1kYSGphNRoOpYoe3x63qsd) | [Sinds](https://open.spotify.com/artist/5LQSZR4648SuVALNNyHx3G), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Indtil Solen Kom \(Feat\. Branco\)](https://open.spotify.com/album/6jd21AriSyqHTX9fpyr1qr) | 2:25 | 2024-08-29 |  |
@@ -193,6 +196,7 @@
 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-03 |  |
 | [SkyLL](https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:56 | 2024-09-19 |  |
 | [SNAK/MILANO](https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [SNAK/MILANO](https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV) | 3:02 | 2024-04-18 | 2024-04-26 |
+| [SOBER](https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [SOBER](https://open.spotify.com/album/5lUNsYLIZX9QDIFnxmcGxv) | 2:47 | 2024-09-27 |  |
 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 | 2024-04-26 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
 | [Sprite & Vodka \(feat\. Gilli & KESI\)](https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:15 | 2024-03-21 |  |
@@ -207,6 +211,7 @@
 | [Tak For Sidst](https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Tak For Sidst](https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi) | 2:34 | 2023-09-21 | 2024-04-05 |
 | [Tar Dig Med](https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Tar Dig Med](https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc) | 2:00 | 2023-09-21 | 2023-12-14 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
+| [TING](https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [TING](https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p) | 3:26 | 2024-09-27 |  |
 | [TMAX](https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [TMAX](https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 |  |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |

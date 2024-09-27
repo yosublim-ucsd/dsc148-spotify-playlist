@@ -4,7 +4,7 @@
 
 > Las mejores canciones de la reina del pop argentino.
 
-77 songs - 4 hr 4 min
+78 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,13 +32,14 @@
 | [Del Otro Lado](https://open.spotify.com/track/6sCYoCVELqQe95GDybxWcc) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:38 | 2023-03-13 |  |
 | [Disciplina](https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Disciplina](https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl) | 2:37 | 2023-03-13 | 2023-04-21 |
 | [Disciplina](https://open.spotify.com/track/5VmevlHJrUiQZ29JzpfZB5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:37 | 2023-04-20 |  |
-| [Disparos](https://open.spotify.com/track/1MXjqEXbTecoUcpJplUWuY) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [El Amor en Mi Vida](https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg) | 3:28 | 2023-03-13 |  |
+| [Disparos](https://open.spotify.com/track/1MXjqEXbTecoUcpJplUWuY) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [El Amor en Mi Vida](https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg) | 3:28 | 2023-03-13 | 2024-09-27 |
 | [Diva](https://open.spotify.com/track/4NdrK1Dpit0l6BT35h6Cmd) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:06 | 2023-04-20 |  |
 | [Diva](https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Diva](https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0) | 3:06 | 2023-03-13 | 2023-09-01 |
 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 | 2023-03-13 |  |
 | [Ego](https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:51 | 2023-03-13 |  |
 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 | 2023-03-13 |  |
 | [Esperanza Mía](https://open.spotify.com/track/5FP7ESctJY9UmtGQP46rWN) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 3:42 | 2023-03-13 | 2024-09-06 |
+| [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-09-27 |  |
 | [Fascinada](https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Fascinada](https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld) | 2:43 | 2023-03-13 |  |
 | [Histeria](https://open.spotify.com/track/0DLV3QLNMCmMrTbMUwN9M7) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 3:32 | 2023-03-13 |  |
 | [Incondicional](https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:32 | 2023-04-20 |  |

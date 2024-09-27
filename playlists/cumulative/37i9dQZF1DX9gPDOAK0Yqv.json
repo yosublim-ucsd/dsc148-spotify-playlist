@@ -407,6 +407,36 @@
     },
     {
       "album": {
+        "name": "Allein Allein - Argy Remix",
+        "url": "https://open.spotify.com/album/6z6fsd7y0187ywroZkTQd9"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "INNERVERSE",
+          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "FREY",
+          "url": "https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Allein Allein - Argy Remix",
+      "url": "https://open.spotify.com/track/2m7bnADEeTn2qmgJr07Oon"
+    },
+    {
+      "album": {
         "name": "The Theory EP",
         "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
       },
@@ -1098,7 +1128,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
@@ -2969,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/6q5svHlasvR7X9xfj911kL"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232671,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/1DRWVug99sP9SfkqZDQySd"
+    },
+    {
+      "album": {
         "name": "Euphoria | Tanz der Planeten",
         "url": "https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3"
       },
@@ -4300,6 +4348,28 @@
       "duration_ms": 354638,
       "name": "Head Over - Diode Eins & David Hasert Remix",
       "url": "https://open.spotify.com/track/4ow8LhtX2K6h54ZgGBIgJ4"
+    },
+    {
+      "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/2updjCHOE9KFhZgiZKD6P2"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/0Bf9IX8gZR56GhldKbiCn1"
     },
     {
       "album": {
@@ -6678,7 +6748,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 224640,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
@@ -6766,6 +6836,32 @@
       "duration_ms": 172000,
       "name": "More Coke!!",
       "url": "https://open.spotify.com/track/3IQ4kBI1VBRa4YoGtW8mGU"
+    },
+    {
+      "album": {
+        "name": "Morenita - Marco Generani Remix",
+        "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Marco Generani",
+          "url": "https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147844,
+      "name": "Morenita - Marco Generani Remix",
+      "url": "https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo"
     },
     {
       "album": {
@@ -6954,7 +7050,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 481907,
       "name": "My Cosmos Is Mine - ANNA Remix",
       "url": "https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T"
@@ -7104,7 +7200,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 249998,
       "name": "Never Say Never - Colyn Remix",
       "url": "https://open.spotify.com/track/3OMkjlhiBfQcBtPVA3AkaF"
@@ -8215,6 +8311,32 @@
     },
     {
       "album": {
+        "name": "Promised Land (Innellea Remix)",
+        "url": "https://open.spotify.com/album/54wJZluSHOKa9X5JWTuB0m"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275760,
+      "name": "Promised Land - Innellea Remix",
+      "url": "https://open.spotify.com/track/5Bm80brVErgdRSw5sEuyg4"
+    },
+    {
+      "album": {
         "name": "Proper Time",
         "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
       },
@@ -9170,6 +9292,28 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3v7h7jJuXXdurYFcPEgpuL"
+      },
+      "artists": [
+        {
+          "name": "Rouzbeh Delavari",
+          "url": "https://open.spotify.com/artist/4s9CNrFcTo0pkIPgqZip63"
+        },
+        {
+          "name": "\u00d6zg\u00fcr Can",
+          "url": "https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377288,
+      "name": "Seen",
+      "url": "https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj"
     },
     {
       "album": {
@@ -10880,7 +11024,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 263162,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
@@ -11254,7 +11398,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"

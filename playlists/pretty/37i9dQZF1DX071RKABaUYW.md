@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: JD\. REID
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,929 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,928 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 85 | [JOYRIDE](https://open.spotify.com/track/13kjJQW6XzMQqOgb2j1sBr) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [JOYRIDE](https://open.spotify.com/album/4szI3mnv9vjwoNtZi3zZWu) | 3:43 |
 | 86 | [grips](https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [grips](https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX) | 2:58 |
 
-Snapshot ID: `ZtTxPAAAAAAS2z35HIl4kn8336So4FY0`
+Snapshot ID: `ZtTxPAAAAADtSLeRxYhWA57Kw7K4FUTv`

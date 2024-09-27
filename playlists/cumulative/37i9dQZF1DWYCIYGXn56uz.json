@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Tananai",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Olly, Angelina Mango",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 123750,
       "name": "Bambola",
       "url": "https://open.spotify.com/track/7itnFCUvnNgQmmiULPAlUl"
@@ -3841,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "hyperlacrime",
+        "url": "https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "hyperlacrime",
+      "url": "https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA"
+    },
+    {
+      "album": {
         "name": "I colori dell'alba",
         "url": "https://open.spotify.com/album/4czY6mzx9up6r6QWHjDvKO"
       },
@@ -3935,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Il giro del mondo",
+        "url": "https://open.spotify.com/album/785yPAjIMllBgkHVZY2RHL"
+      },
+      "artists": [
+        {
+          "name": "CRI",
+          "url": "https://open.spotify.com/artist/4wLzfx1VRUqZGBh2SDmgY0"
+        },
+        {
+          "name": "heysimo",
+          "url": "https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Il giro del mondo",
+      "url": "https://open.spotify.com/track/678KOuf8YZG7aYhb0cQuF9"
+    },
+    {
+      "album": {
         "name": "Il meglio di me (feat. Nashley)",
         "url": "https://open.spotify.com/album/0a1OtqBBLzHf6h1qagBFKq"
       },
@@ -4026,7 +4066,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 152904,
       "name": "Il Tempo Cura",
       "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
@@ -4690,6 +4730,24 @@
       "duration_ms": 142400,
       "name": "LIBERATEMI",
       "url": "https://open.spotify.com/track/1vKqI6G0dSqURi5vxdz09k"
+    },
+    {
+      "album": {
+        "name": "LINGERIE",
+        "url": "https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143124,
+      "name": "LINGERIE",
+      "url": "https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz"
     },
     {
       "album": {
@@ -6721,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "Persi per niente",
+        "url": "https://open.spotify.com/album/0XK1pERvepV7TQCT2e9UBy"
+      },
+      "artists": [
+        {
+          "name": "Dennis",
+          "url": "https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174401,
+      "name": "Persi per niente",
+      "url": "https://open.spotify.com/track/7Cb4kwCTNKG0myTbARa6if"
+    },
+    {
+      "album": {
         "name": "PETARDI",
         "url": "https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod"
       },
@@ -7535,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "Salire",
+        "url": "https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189285,
+      "name": "Salire",
+      "url": "https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2"
+    },
+    {
+      "album": {
         "name": "Sangue e Aria",
         "url": "https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55"
       },
@@ -7662,6 +7756,28 @@
       "duration_ms": 208893,
       "name": "Se poi domani",
       "url": "https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13"
+    },
+    {
+      "album": {
+        "name": "se ti amo in teoria",
+        "url": "https://open.spotify.com/album/2LSUToMiSvYhdKfZPEzhsQ"
+      },
+      "artists": [
+        {
+          "name": "GEREMIA",
+          "url": "https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu"
+        },
+        {
+          "name": "MVRZA",
+          "url": "https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "se ti amo in teoria",
+      "url": "https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa"
     },
     {
       "album": {
@@ -9572,6 +9688,28 @@
       "duration_ms": 143224,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/54wc6ODYOxQu1ctjPpzuVp"
+    },
+    {
+      "album": {
+        "name": "Wemmino",
+        "url": "https://open.spotify.com/album/0fcHdWn9kmHhsDukLp3vSu"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Wemmino",
+      "url": "https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=FT41P0ZTTbavn79ogA0qmA\">Loatinover Pounds</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT?si=LURnSwVZThO6B8Ahitusmw\">Dee Koala</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 202590,
       "name": "BANDITOS",
       "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
@@ -2676,6 +2676,40 @@
       "duration_ms": 182005,
       "name": "Burlesque",
       "url": "https://open.spotify.com/track/1XjXdjZMUZkhMxV2YohsfW"
+    },
+    {
+      "album": {
+        "name": "Buss Buss",
+        "url": "https://open.spotify.com/album/1BogiJVTrCMW2QuyTrDFVV"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        },
+        {
+          "name": "Orish",
+          "url": "https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Buss Buss",
+      "url": "https://open.spotify.com/track/6FJZxAQTD24b87dh1AVCKu"
     },
     {
       "album": {
@@ -5701,6 +5735,32 @@
     },
     {
       "album": {
+        "name": "Get This Bag (feat. Shouldbeyuang)",
+        "url": "https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH"
+      },
+      "artists": [
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        },
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Shouldbeyuang",
+          "url": "https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172943,
+      "name": "Get This Bag (feat. Shouldbeyuang)",
+      "url": "https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8"
+    },
+    {
+      "album": {
         "name": "Get To The Money",
         "url": "https://open.spotify.com/album/3mwBtQwXnL7IeHsbrzWfsr"
       },
@@ -6522,7 +6582,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166800,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/6M7Ykx8vvb9FJORBG6o9ik"
@@ -9611,6 +9671,24 @@
     },
     {
       "album": {
+        "name": "Medi Yase Khayelitsha",
+        "url": "https://open.spotify.com/album/4st2x36mIjgIpW2Pj8lST9"
+      },
+      "artists": [
+        {
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "Medi Yase Khayelitsha",
+      "url": "https://open.spotify.com/track/1a2CqIsoPrWTEpz2tJqJic"
+    },
+    {
+      "album": {
         "name": "Menzi Ngubane",
         "url": "https://open.spotify.com/album/1SqxmLAIWyVm6KEBLoXnjb"
       },
@@ -10258,7 +10336,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 228346,
       "name": "Mud",
       "url": "https://open.spotify.com/track/2pnpyVc48sLowcV0UPIEco"
@@ -12126,6 +12204,36 @@
       "duration_ms": 212210,
       "name": "Purple Palm Trees",
       "url": "https://open.spotify.com/track/5mVlqgCFNNOeXsRuMltdNQ"
+    },
+    {
+      "album": {
+        "name": "Pushing All Day",
+        "url": "https://open.spotify.com/album/4SFgy5moP4oKLrzBeOppXs"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "The Ginger Mac",
+          "url": "https://open.spotify.com/artist/37ERtvxLIRWOELaLwc8GNn"
+        },
+        {
+          "name": "Wichi1080",
+          "url": "https://open.spotify.com/artist/1dKOUfFVu6AGIvokF6GaSN"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Pushing All Day",
+      "url": "https://open.spotify.com/track/5otu2xQqVrNSWjCWuQZPv0"
     },
     {
       "album": {
@@ -14054,6 +14162,28 @@
       "duration_ms": 202105,
       "name": "SOME MORE (feat. BENJAMIN)",
       "url": "https://open.spotify.com/track/70HN8JZRe0KGQ3QAv8NU3v"
+    },
+    {
+      "album": {
+        "name": "Something Special (feat. Marcus Harvey)",
+        "url": "https://open.spotify.com/album/39Mds84KeF5i1zuUQfQvkt"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Something Special (feat. Marcus Harvey)",
+      "url": "https://open.spotify.com/track/34zAWBabuhc593VUuQMStN"
     },
     {
       "album": {
@@ -17061,6 +17191,28 @@
     },
     {
       "album": {
+        "name": "W.G.T.B.H",
+        "url": "https://open.spotify.com/album/7rRbm4KRBmMqWdkjuqb1T4"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "W.G.T.B.H",
+      "url": "https://open.spotify.com/track/0j9vntEfH5NNetX7i4hfyj"
+    },
+    {
+      "album": {
         "name": "The Backstory EP",
         "url": "https://open.spotify.com/album/1m2hkbaBvGBG0WmWL4W9S4"
       },
@@ -18168,6 +18320,28 @@
       "duration_ms": 280618,
       "name": "You Want Some More",
       "url": "https://open.spotify.com/track/2xisxcPRXmznS4u2fN9alJ"
+    },
+    {
+      "album": {
+        "name": "Young & independent",
+        "url": "https://open.spotify.com/album/7FpQPIpQGdkGzVfdCJDZtO"
+      },
+      "artists": [
+        {
+          "name": "Tpk Trapmash",
+          "url": "https://open.spotify.com/artist/7J1SW2erBONuxFoBXKsedk"
+        },
+        {
+          "name": "Djy Mloshka",
+          "url": "https://open.spotify.com/artist/4xrCR9bCyURC0ScbK9r2Ns"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300434,
+      "name": "Young & independent",
+      "url": "https://open.spotify.com/track/5c4uI3nEgrupRmefslZXgJ"
     },
     {
       "album": {

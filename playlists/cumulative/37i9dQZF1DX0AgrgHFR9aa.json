@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Heykel",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : PLK",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 185033,
       "name": "3 lettres",
       "url": "https://open.spotify.com/track/18AgQ8ntZmrEe7ENxrAnhP"
@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/3nQRRS5h0T38vTbdeKuadh"
+      },
+      "artists": [
+        {
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+        },
+        {
+          "name": "Just Music Beats",
+          "url": "https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Chef tribal",
+      "url": "https://open.spotify.com/track/3O02qkF8L7v3o4yzuw1iNU"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -318,6 +340,32 @@
       "duration_ms": 302104,
       "name": "Coup de fil - Cuts DJ dinokun",
       "url": "https://open.spotify.com/track/6Hfj5r6deGumzx6oHfNuvK"
+    },
+    {
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": ".H.K",
+          "url": "https://open.spotify.com/artist/61qvcZWDAT1yvsw4bEVowX"
+        },
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298666,
+      "name": "FAST LIFE & FAMILLE",
+      "url": "https://open.spotify.com/track/3Ird3tXm20WmN24qZPxNpZ"
     },
     {
       "album": {
@@ -527,6 +575,24 @@
     },
     {
       "album": {
+        "name": "La boh\u00e8me.",
+        "url": "https://open.spotify.com/album/0hZ8uiGV5qrmB9Hgi9CT5J"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00eff",
+          "url": "https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113170,
+      "name": "La boh\u00e8me.",
+      "url": "https://open.spotify.com/track/7geNM6tT1HZ6yvSOP0tsnM"
+    },
+    {
+      "album": {
         "name": "La Cour des Miracles",
         "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
@@ -714,7 +780,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 259579,
       "name": "Les vivants qui s'enterrent",
       "url": "https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8"
@@ -801,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Pistol Pit",
+        "url": "https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE"
+      },
+      "artists": [
+        {
+          "name": "Mr Kayz",
+          "url": "https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs"
+        },
+        {
+          "name": "Just Music Beats",
+          "url": "https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156970,
+      "name": "Pistol Pit",
+      "url": "https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng"
+    },
+    {
+      "album": {
         "name": "Plaine des Asphod\u00e8les",
         "url": "https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB"
       },
@@ -870,7 +958,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 124750,
       "name": "POUR LA VIE",
       "url": "https://open.spotify.com/track/7c4OslPXXI2rnTka11mz4T"
@@ -928,7 +1016,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 133066,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/38Ey8Cb60zEnsfl7IIvsOZ"
@@ -1106,10 +1194,28 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 222000,
       "name": "UNIVERS SONS",
       "url": "https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV"
+    },
+    {
+      "album": {
+        "name": "Vatos #4",
+        "url": "https://open.spotify.com/album/2oZgVKMzMz90NmFqrqPBXC"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Miklo",
+          "url": "https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Vatos #4",
+      "url": "https://open.spotify.com/track/69SruWGqKCEBDoopXYcYIL"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Ayax y Prok",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 204000,
       "name": "Brigantes",
       "url": "https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 161632,
       "name": "CaleFactor",
       "url": "https://open.spotify.com/track/02JoRcMLZIE2ZRCwGXnpfm"
@@ -1596,6 +1596,36 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "album": {
+        "name": "California 6.1",
+        "url": "https://open.spotify.com/album/6Y76TVII8MBk2I3TTIIxlw"
+      },
+      "artists": [
+        {
+          "name": "El Bugg",
+          "url": "https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Ess",
+          "url": "https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198343,
+      "name": "California 6.1",
+      "url": "https://open.spotify.com/track/6OrVZFT2M9dT9RLZ6ak7bd"
     },
     {
       "album": {
@@ -2107,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Creo",
+        "url": "https://open.spotify.com/album/3EPaXcjCEl19yqyqCi1Te0"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223977,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/2d7DpsLgBTDU3IjgOd288f"
+    },
+    {
+      "album": {
         "name": "Cruella",
         "url": "https://open.spotify.com/album/19OJpsDjVjovHPg31QMRXT"
       },
@@ -2228,6 +2280,40 @@
       "duration_ms": 194991,
       "name": "De Los M\u00edos",
       "url": "https://open.spotify.com/track/6642UGRd8Ts5NoXTGGomwx"
+    },
+    {
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/2NfDtkUGy5MCVhpWlvQvT9"
+      },
+      "artists": [
+        {
+          "name": "Dirty Porko",
+          "url": "https://open.spotify.com/artist/4JjXXU4m428s8xODTaVuNV"
+        },
+        {
+          "name": "Samuel SLZR",
+          "url": "https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx"
+        },
+        {
+          "name": "El Jhota",
+          "url": "https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Kilobeats",
+          "url": "https://open.spotify.com/artist/2MAZnpbricVGzvEo7ObLWj"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252300,
+      "name": "De Verdad",
+      "url": "https://open.spotify.com/track/35bx5Ne163HZrnSq16o6Yf"
     },
     {
       "album": {
@@ -3034,7 +3120,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 241507,
       "name": "Extrarradio",
       "url": "https://open.spotify.com/track/06BxQZX22lQE3p6iOVzDV1"
@@ -3718,7 +3804,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 208388,
       "name": "Indomables",
       "url": "https://open.spotify.com/track/7dUFOjcebtySPPj7tJKUdn"
@@ -3802,6 +3888,32 @@
       "duration_ms": 193165,
       "name": "Ja Morant",
       "url": "https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB"
+    },
+    {
+      "album": {
+        "name": "SHOWTIME",
+        "url": "https://open.spotify.com/album/5Zp2IHPFco7Aeg4jlLQeWs"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Kid Frankie",
+          "url": "https://open.spotify.com/artist/5ckUquAW7M95vY15jEW1zQ"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Jokic",
+      "url": "https://open.spotify.com/track/5h7nQEwGns2pF1FmuFKgpo"
     },
     {
       "album": {
@@ -6553,6 +6665,28 @@
     },
     {
       "album": {
+        "name": "Pizzas para Donatello",
+        "url": "https://open.spotify.com/album/4U40lOMDh83jl4ffsijgif"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179020,
+      "name": "Pizzas para Donatello",
+      "url": "https://open.spotify.com/track/5TKysG3A69b5WkGG5pzun7"
+    },
+    {
+      "album": {
         "name": "Luna llena",
         "url": "https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu"
       },
@@ -6992,7 +7126,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 189055,
       "name": "RUMBO FIJO",
       "url": "https://open.spotify.com/track/6JPGgqIeR3ik9PCXcXvDBX"
@@ -7238,7 +7372,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 164765,
       "name": "Selma y Patty",
       "url": "https://open.spotify.com/track/7t9kQbsiFPWdHILBnTcuCL"
@@ -8000,6 +8134,32 @@
       "duration_ms": 158863,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/1tP1RLd5jdBAIaeWpiJm1P"
+    },
+    {
+      "album": {
+        "name": "UNA SEMANA INCRE\u00cdBLE",
+        "url": "https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202319,
+      "name": "TANTO POR HACER",
+      "url": "https://open.spotify.com/track/7013pu5Eiovg2QLxpdliQY"
     },
     {
       "album": {

@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "ch\u1eafc anh kh\u00f4ng",
+        "url": "https://open.spotify.com/album/3BzDZC8neYMabFz7IlHIg2"
+      },
+      "artists": [
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179803,
+      "name": "ch\u1eafc anh kh\u00f4ng",
+      "url": "https://open.spotify.com/track/5Q9QzbTFnjLRzsBPsX6VJY"
+    },
+    {
+      "album": {
         "name": "CH\u1eaeC L\u00c0 SAY \u00d2I",
         "url": "https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 220000,
       "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
@@ -554,7 +576,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 186151,
       "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX"
@@ -820,7 +842,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
@@ -850,6 +872,32 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "album": {
+        "name": "Full Topping",
+        "url": "https://open.spotify.com/album/63c8AmULeZChFUxk7Dzu1q"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        },
+        {
+          "name": "hooligan.",
+          "url": "https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx"
+        },
+        {
+          "name": "\u0110\u1eadu T\u1ea5t \u0110\u1ea1t",
+          "url": "https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Full Topping",
+      "url": "https://open.spotify.com/track/1EsRw73jhu3MXExOpm0PtC"
     },
     {
       "album": {
@@ -1004,7 +1052,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 239041,
       "name": "GPS",
       "url": "https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw"
@@ -1178,7 +1226,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219212,
       "name": "H\u01b0\u1edbng D\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj"
@@ -1284,7 +1332,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 218086,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6MbHcqR7IBGUR8cUE9aLS4"
@@ -1368,7 +1416,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211898,
       "name": "Kh\u00f3c C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/4xBQLlSh6dQrluFORd8muc"
@@ -1484,7 +1532,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk"
@@ -1542,7 +1590,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 218978,
       "name": "M\u00ea",
       "url": "https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL"
@@ -1766,7 +1814,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 212000,
       "name": "PHONG (feat. TGSN & Tyronee)",
       "url": "https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV"
@@ -1792,7 +1840,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 190779,
       "name": "R\u00f3t Ti\u1ebfp",
       "url": "https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6"
@@ -1850,7 +1898,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 227618,
       "name": "STAY FOR A WHILE",
       "url": "https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA"
@@ -1930,7 +1978,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 190894,
       "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00eam",
       "url": "https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk"
@@ -2010,7 +2058,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 201507,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
@@ -2032,6 +2080,24 @@
       "duration_ms": 224390,
       "name": "T\u00e1i ch\u1ebf con tim",
       "url": "https://open.spotify.com/track/6QrP2m1rhyT1EuPNvX7iWC"
+    },
+    {
+      "album": {
+        "name": "T\u1ea3n M\u1ea1n T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/4rp86Sga3TRDW6Qo97EIBJ"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "T\u1ea3n M\u1ea1n T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/62yTZeJXRqVrglTQTgTDHE"
     },
     {
       "album": {
@@ -2130,7 +2196,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
@@ -2174,6 +2240,24 @@
       "duration_ms": 222068,
       "name": "vaicaunoicokhiennguoithaydoi - Acoustic",
       "url": "https://open.spotify.com/track/0xi7bCx9m2rgPbCN6Xhlel"
+    },
+    {
+      "album": {
+        "name": "V\u00f2ng Xo\u00e1y",
+        "url": "https://open.spotify.com/album/0Nf0dxeN63IH3MDaSnAv28"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "V\u00f2ng Xo\u00e1y",
+      "url": "https://open.spotify.com/track/6zlwx9y1Oe6en3IFCrkB45"
     },
     {
       "album": {
@@ -2304,7 +2388,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 182149,
       "name": "\u0110\u1ebfn \u0110\u00f3n Em \u0110i Ch\u01a1i \u0110i Anh",
       "url": "https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp"
@@ -2344,7 +2428,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 169714,
       "name": "\u0110\u1eddi Ca S\u0129",
       "url": "https://open.spotify.com/track/5LOqHXJ6PA85rVU2E1OTAM"
@@ -2362,7 +2446,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 205360,
       "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
       "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"

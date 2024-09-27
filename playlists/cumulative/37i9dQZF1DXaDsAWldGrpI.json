@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+        "url": "https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237488,
+      "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
+      "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
+    },
+    {
+      "album": {
         "name": "Spotify Live (Live From Austin, TX)",
         "url": "https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 341133,
       "name": "Rum - Live",
       "url": "https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v"

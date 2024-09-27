@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Jasmine Nadya",
-  "num_followers": 38046,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Satine Zaneta",
+  "num_followers": 38048,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuxYkAAAAAAn+LLupRAj6gXnaVjXcf51",
+  "snapshot_id": "ZvWzSAAAAABfaDMBmQQzyxg96Vv1MjaA",
   "tracks": [
+    {
+      "added_at": "2024-09-19 17:00:00",
+      "album": {
+        "name": "Selamanya",
+        "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
+      },
+      "artists": [
+        {
+          "name": "Satine Zaneta",
+          "url": "https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j"
+        }
+      ],
+      "duration_ms": 235038,
+      "name": "Selamanya",
+      "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
+    },
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
@@ -267,22 +283,6 @@
       "duration_ms": 233959,
       "name": "Raja dan Ratu",
       "url": "https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Selamanya",
-        "url": "https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c"
-      },
-      "artists": [
-        {
-          "name": "Satine Zaneta",
-          "url": "https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j"
-        }
-      ],
-      "duration_ms": 235038,
-      "name": "Selamanya",
-      "url": "https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx"
     },
     {
       "added_at": "2024-09-19 17:00:00",

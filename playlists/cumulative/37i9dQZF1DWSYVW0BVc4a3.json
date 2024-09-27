@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/37qEBYJEhwnBgG9fC8Omwz"
+      },
+      "artists": [
+        {
+          "name": "Genius Of Time",
+          "url": "https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280121,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4Xl9qi7Z0KTU6aVWkNGETU"
+    },
+    {
+      "album": {
         "name": "Cloudy (Kelbin Remix)",
         "url": "https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa"
       },
@@ -5750,6 +5768,28 @@
       "duration_ms": 185196,
       "name": "Feels Like (GUZ Remix)",
       "url": "https://open.spotify.com/track/4nMSzrs2RLffXjOvYwk5bs"
+    },
+    {
+      "album": {
+        "name": "Feels Like A Jungle",
+        "url": "https://open.spotify.com/album/7AYMTPuRqo9ZFGUqvheGlZ"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "Feels Like A Jungle, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZsNy3IuJ9K0fWrdUhWBft"
     },
     {
       "album": {
@@ -15951,6 +15991,28 @@
     },
     {
       "album": {
+        "name": "Seen",
+        "url": "https://open.spotify.com/album/3v7h7jJuXXdurYFcPEgpuL"
+      },
+      "artists": [
+        {
+          "name": "Rouzbeh Delavari",
+          "url": "https://open.spotify.com/artist/4s9CNrFcTo0pkIPgqZip63"
+        },
+        {
+          "name": "\u00d6zg\u00fcr Can",
+          "url": "https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377288,
+      "name": "Seen",
+      "url": "https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj"
+    },
+    {
+      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -21510,6 +21572,24 @@
       "duration_ms": 615320,
       "name": "Within You - K\u00f6lsch Mix",
       "url": "https://open.spotify.com/track/7KivlOvEJx1P3PpGkwxkGU"
+    },
+    {
+      "album": {
+        "name": "Woke",
+        "url": "https://open.spotify.com/album/7nqBBlTqsM4Mk2DkUg5URg"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226841,
+      "name": "Woke",
+      "url": "https://open.spotify.com/track/4q6MSFVLOp1j0CJlHZ56QJ"
     },
     {
       "album": {

@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180597,
       "name": "BOM BOM",
       "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
@@ -4308,6 +4308,28 @@
       "duration_ms": 171990,
       "name": "Falsa Cinderela",
       "url": "https://open.spotify.com/track/4KCR3YcAV2hwdnTDrRQKQo"
+    },
+    {
+      "album": {
+        "name": "Falta",
+        "url": "https://open.spotify.com/album/2IfhQVVGAwd0qndVoS5X6V"
+      },
+      "artists": [
+        {
+          "name": "Lucas Davis",
+          "url": "https://open.spotify.com/artist/6vO6Yhs4AFnGERI23LmHC5"
+        },
+        {
+          "name": "Ghost Wayne",
+          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Falta",
+      "url": "https://open.spotify.com/track/0mrwjSTuSaj5rSKEKrd1AV"
     },
     {
       "album": {
@@ -7182,7 +7204,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
@@ -12270,6 +12292,64 @@
       "duration_ms": 199322,
       "name": "Vem S\u00f3",
       "url": "https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU"
+    },
+    {
+      "album": {
+        "name": "Versos & Poesias #6: Tempestade",
+        "url": "https://open.spotify.com/album/0td3CflgP5l4MWeQqNYGvv"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Tuty WAV3S",
+          "url": "https://open.spotify.com/artist/6qYD3IE3CiWChPZSBWdtrh"
+        },
+        {
+          "name": "Aycire",
+          "url": "https://open.spotify.com/artist/7orxrJSoOnNrb96ZN1T3cg"
+        },
+        {
+          "name": "Aurio Roberto",
+          "url": "https://open.spotify.com/artist/1uy0s3JCAbiQs6Lriyac9M"
+        },
+        {
+          "name": "Ciri",
+          "url": "https://open.spotify.com/artist/0q6rGrv1f7h8BkZgV4IXY8"
+        },
+        {
+          "name": "Mief",
+          "url": "https://open.spotify.com/artist/2b1uu2tcXJL77DgsRCHBn2"
+        },
+        {
+          "name": "Damiana",
+          "url": "https://open.spotify.com/artist/24S9KFl6KKWPPBH3GRdYc2"
+        },
+        {
+          "name": "Johnny B.O.B",
+          "url": "https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        },
+        {
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472421,
+      "name": "Versos & Poesias #6: Tempestade",
+      "url": "https://open.spotify.com/track/5Khii1zkAIH9VwMOc4tfHW"
     },
     {
       "album": {

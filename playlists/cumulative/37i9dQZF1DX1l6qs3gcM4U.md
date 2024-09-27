@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Badoxa
 
-416 songs - 1 day 0 hr 33 min
+417 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 | 2021-12-10 | 2022-12-08 |
 | [Clima](https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Clima](https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX) | 4:03 | 2022-05-13 |  |
 | [Cofres do Céu](https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Cofres do Céu](https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm) | 3:18 | 2022-07-07 | 2022-08-19 |
+| [Com Quem Será](https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Com Quem Será](https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL) | 4:28 | 2024-09-26 |  |
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-20 | 2024-07-02 |
@@ -209,7 +210,7 @@
 | [Maz um Bez](https://open.spotify.com/track/3i51mGFIPlxIMr8XfNMZkT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Flavia](https://open.spotify.com/artist/0As0WODg9QYtHKWGb1eMNR) | [Maz um Bez](https://open.spotify.com/album/2txbkYlDryHQ8EXwwD35It) | 3:40 | 2022-06-16 | 2022-06-29 |
 | [Me Agarra So' No Uhm!](https://open.spotify.com/track/5nUSHjOlAyF6a6AaEuq6k5) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Mais Kizomba Hits](https://open.spotify.com/album/5SVQJF5cnfUR2qlAnFmslB) | 3:40 | 2022-03-25 | 2022-04-18 |
 | [Me Dão Na Cara](https://open.spotify.com/track/1lvAa1i6csI91Qu8I6pRjp) | [Yudi Fox](https://open.spotify.com/artist/3nv6fTNnQNbSDGxU9f9oSG), [Jenny Brown](https://open.spotify.com/artist/7d7gQ2vrrYzj2lgmGtvGtY) | [O Outro Lado](https://open.spotify.com/album/7DQMiAp7BZiJQaMYTnMeY6) | 3:28 | 2021-12-10 | 2022-07-25 |
-| [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 | 2021-12-10 |  |
+| [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 | 2021-12-10 | 2024-09-27 |
 | [Me Toca](https://open.spotify.com/track/3bdyv9dFP9rUVtdGnFd3Sf) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Memórias](https://open.spotify.com/album/4RVec4jzbNChSwlwWiZUUb) | 4:15 | 2022-02-14 | 2022-08-05 |
 | [Medo](https://open.spotify.com/track/0bkEoIUJf76pkTNopXcw81) | [NZ GANG](https://open.spotify.com/artist/1o38mG2THcoYNgnrNYRKyu) | [Medo](https://open.spotify.com/album/71opZXt6QorbZzUl3hHxnx) | 4:00 | 2022-01-27 | 2022-02-01 |
 | [Melhor De Mim](https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59) | [Lupambo Produções](https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK) | [Melhor De Mim](https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ) | 3:42 | 2022-01-14 | 2022-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,004 likes - 77 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,138 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 76 | [Cattleya](https://open.spotify.com/track/1gExtbTEcsglnYonUNMFZ2) | [Luiz Vanzato](https://open.spotify.com/artist/609UElRnkV16cUufArj69H) | [Anhum](https://open.spotify.com/album/3blj7LYtddWJM0EPmRzOND) | 3:58 |
 | 77 | [Songs in the Trees](https://open.spotify.com/track/54HxJXNaQV4u3nAo0Opg58) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [In Two Minds](https://open.spotify.com/album/0lOZdbwV2CkgUiOQsuEE5Z) | 5:44 |
 
-Snapshot ID: `ZscuMQAAAAD+h39v1Un9tWuwbC6XN9rH`
+Snapshot ID: `ZscuMQAAAAATjMYYWveoMavRHDPTe72c`

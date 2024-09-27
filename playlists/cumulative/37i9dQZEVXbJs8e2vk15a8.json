@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 233987,
       "name": "1847. Chile. Himno Nacional Chileno. National Anthems of Chile. Patriotic Song",
       "url": "https://open.spotify.com/track/175MdDpe1gyifn5JaqTeDn"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 144014,
       "name": "Amiga Ya Mat\u00f3",
       "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140013,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
@@ -5368,7 +5368,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 131650,
       "name": "BEIA (Jere Klein)",
       "url": "https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ"
@@ -5616,7 +5616,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Bentley",
       "url": "https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE"
@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 199813,
       "name": "Canci\u00f3n Del Brindis",
       "url": "https://open.spotify.com/track/4cGBIUVgiXK4YuytQOgoMc"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155826,
       "name": "Chile Lindo",
       "url": "https://open.spotify.com/track/3oetVnpZe5yZnnA64Rg29i"
@@ -8176,7 +8176,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 134778,
       "name": "CHINGON",
       "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
@@ -9143,6 +9143,24 @@
     },
     {
       "album": {
+        "name": "Con Sonido",
+        "url": "https://open.spotify.com/album/6N0h2TLNkHIVWSPz7R4GE9"
+      },
+      "artists": [
+        {
+          "name": "BuIin 47",
+          "url": "https://open.spotify.com/artist/6zgDuo2J94ufFU4JXypym9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116562,
+      "name": "Con Sonido",
+      "url": "https://open.spotify.com/track/3ghZyFCMNnplnJ7gbuXgqF"
+    },
+    {
+      "album": {
         "name": "Bocelli (Remastered)",
         "url": "https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3"
       },
@@ -9304,7 +9322,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Conselho - Ao Vivo",
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
@@ -11358,7 +11376,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 144392,
       "name": "Desde Que No Estas Presente",
       "url": "https://open.spotify.com/track/5sLvjHRNPrT6E0psHlU9Dz"
@@ -12916,7 +12934,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155504,
       "name": "El Corralero",
       "url": "https://open.spotify.com/track/52tgq6yRlu3XkakvYxSfmz"
@@ -13096,7 +13114,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 135546,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
@@ -14536,6 +14554,44 @@
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
+    },
+    {
+      "album": {
+        "name": "Los 4F: El Origen",
+        "url": "https://open.spotify.com/album/3sODZXVEX8CNdsxypAfBPO"
+      },
+      "artists": [
+        {
+          "name": "LOS 4F",
+          "url": "https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Nikxz",
+          "url": "https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236296,
+      "name": "ESO NO ES DE GANGSTER",
+      "url": "https://open.spotify.com/track/19ssnnZjVaD4F8u6naBQJM"
     },
     {
       "album": {
@@ -19044,7 +19100,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-23",
+      "date_removed": null,
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
@@ -21190,7 +21246,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 127540,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/2JlL3yaP7lRShXUkuoEKza"
@@ -21402,7 +21458,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 154746,
       "name": "La Guaracha del Fay Fay",
       "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
@@ -21700,7 +21756,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 246213,
       "name": "La Pirilacha",
       "url": "https://open.spotify.com/track/2UoM29qp2BROa3wGaiHxXz"
@@ -21736,7 +21792,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 284081,
       "name": "La Pirilacha - Version Picante",
       "url": "https://open.spotify.com/track/1TftmBZi2akApAsy5KFvHc"
@@ -23590,7 +23646,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 111960,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
@@ -25578,7 +25634,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 236066,
       "name": "Me Gusta el Vino",
       "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
@@ -34767,6 +34823,28 @@
     },
     {
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
+    },
+    {
+      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -35352,7 +35430,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 256426,
       "name": "Rapa Nui Mi Amor",
       "url": "https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF"
@@ -36521,6 +36599,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
         "name": "SALGO A KAZARTE",
         "url": "https://open.spotify.com/album/63ARBw2XCjARqh69buOqsX"
       },
@@ -36956,7 +37052,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -37182,7 +37278,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -37788,7 +37884,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -42582,7 +42678,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

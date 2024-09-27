@@ -4,12 +4,13 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-575 songs - 1 day 1 hr 10 min
+576 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...What About Now?](https://open.spotify.com/track/61fvdEDiVyH4I8cZROIOUx) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Josh Reflex](https://open.spotify.com/artist/00VzYlg9s04mj3d8oOth4P) | [...What About Now?](https://open.spotify.com/album/0qgDGLGt3fn9H8sFRJSTlz) | 2:56 | 2024-07-30 |  |
 | [A Beautiful Day](https://open.spotify.com/track/65q5Ei9B7MOxzqhyQYB0b5) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [A Beautiful Day](https://open.spotify.com/album/0hh39BDESfC79aQgECpasi) | 2:14 | 2023-09-22 | 2024-07-05 |
+| [A Few Good Reasons](https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD) | [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [A Few Good Reasons](https://open.spotify.com/album/2BKJWFJU0VgmXrGDLwHyGG) | 2:28 | 2024-09-26 |  |
 | [A Million Suns](https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm) | [A Million Suns](https://open.spotify.com/album/5PRpzouBKGp7Lmulcycf8C) | 2:44 | 2024-07-08 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/4rBBgGAgZjq0YjXvQzg4Sh) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [A Sky Full of Stars](https://open.spotify.com/album/4obAVOq1QC1x1LUAYqjaNc) | 3:29 | 2024-05-11 | 2024-07-13 |
 | [afterglow](https://open.spotify.com/track/1NVTZFS9vAIBXDwxgcpkpP) | [elsaaa](https://open.spotify.com/artist/0l9ymNLUakebec39MWLAuE) | [afterglow](https://open.spotify.com/album/3BAIQJ314MKCfhyjHI64Di) | 2:37 | 2024-04-21 | 2024-07-05 |

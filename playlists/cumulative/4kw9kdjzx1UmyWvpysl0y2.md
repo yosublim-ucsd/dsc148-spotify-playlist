@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-824 songs - 1 day 22 hr 59 min
+825 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 | 2023-09-26 |
 | [Electric](https://open.spotify.com/track/28GNhpM0YCDZcsvK5N0kSh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Raymond Revel](https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts), [Marcus McGarity](https://open.spotify.com/artist/5aWpxrOUPNG6JcpqGB7GTB) | [Electric](https://open.spotify.com/album/7l23aPgNZeWypuV57vLRo6) | 2:09 | 2023-10-12 | 2024-01-26 |
+| [Elevator](https://open.spotify.com/track/4CnJwDkC8qFVCD2Br9a33f) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Ayda Rose](https://open.spotify.com/artist/2nBYwEuuxEIZWKMBAXp2LJ) | [Elevator](https://open.spotify.com/album/3KKyiwupkICfxC8vzwgsnY) | 2:43 | 2024-09-26 |  |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Embers](https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [The Secret Language of Trees](https://open.spotify.com/album/6EzTA98y6TGi3o2b3zJkdP) | 5:10 | 2023-07-10 | 2023-12-14 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
@@ -526,7 +527,7 @@
 | [Only the Good Die Young](https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [SpaceMan Zack](https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK) | [Genesis](https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL) | 2:56 | 2024-04-05 | 2024-06-28 |
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
-| [Open Spaces \- VIP](https://open.spotify.com/track/2uw8ZLH75sPysaON5hjXbd) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces \(VIP\)](https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU) | 3:20 | 2024-07-05 |  |
+| [Open Spaces \- VIP](https://open.spotify.com/track/2uw8ZLH75sPysaON5hjXbd) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces \(VIP\)](https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU) | 3:20 | 2024-07-05 | 2024-09-27 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Other Side \- Factor B's In Loving Memory Remix](https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g) | [Other Side \(Factor B's In Loving Memory Remix\)](https://open.spotify.com/album/3ABRbWCzvO0vaHLWflNJpE) | 7:56 | 2022-12-08 | 2023-03-09 |
 | [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 | 2024-07-18 |

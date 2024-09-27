@@ -1,15 +1,15 @@
 {
-  "description": "What is your love language? Say it in Swahili.  Cover: Yammi & Mbosso",
-  "num_followers": 25490,
+  "description": "What is your love language? Say it in Swahili.  Cover: Platform",
+  "num_followers": 25507,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu0+ZgAAAABPSQshlunzlB+VmZCOmhgN",
+  "snapshot_id": "ZvX1RAAAAADP3tZVZmDesYxN6LZen3QB",
   "tracks": [
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Utaniua",
         "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "duration_ms": 199143,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Baridi",
         "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Nitadumu Nae",
         "url": "https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02"
@@ -77,27 +93,7 @@
       "url": "https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Queen of the East",
-        "url": "https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN"
-      },
-      "artists": [
-        {
-          "name": "Nadia Mukami",
-          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
-        },
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Kipepeo",
-      "url": "https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -117,23 +113,7 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Cherie",
-        "url": "https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY"
-      },
-      "artists": [
-        {
-          "name": "Bahati",
-          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Cherie",
-      "url": "https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
         "url": "https://open.spotify.com/album/52cracIwbALowujVVS3onE"
@@ -157,55 +137,7 @@
       "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "You Better Go",
-        "url": "https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "You Better Go",
-      "url": "https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Ololo",
-        "url": "https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 241448,
-      "name": "Ololo",
-      "url": "https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "THE MOTIONS",
-        "url": "https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq"
-      },
-      "artists": [
-        {
-          "name": "Charisma",
-          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "WIVU",
-      "url": "https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Yule (Remix)",
         "url": "https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e"
@@ -225,27 +157,7 @@
       "url": "https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Kipofu (feat. Alikiba)",
-        "url": "https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6"
-      },
-      "artists": [
-        {
-          "name": "Chege",
-          "url": "https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB"
-        },
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 235289,
-      "name": "Kipofu (feat. Alikiba)",
-      "url": "https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Lonely (feat. Nandy)",
         "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
@@ -265,7 +177,111 @@
       "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
     },
     {
-      "added_at": "2024-09-20 09:20:38",
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Queen of the East",
+        "url": "https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN"
+      },
+      "artists": [
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Kipepeo",
+      "url": "https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/54PSZbN5VAD9a6nA7KxJyY"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "You Better Go",
+        "url": "https://open.spotify.com/album/6uVWT5KW2uov5KNYHpM4Mj"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "You Better Go",
+      "url": "https://open.spotify.com/track/0kZoAZDJMIz1nObifhVNWC"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Ololo",
+        "url": "https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 241448,
+      "name": "Ololo",
+      "url": "https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "THE MOTIONS",
+        "url": "https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "WIVU",
+      "url": "https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Kipofu (feat. Alikiba)",
+        "url": "https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6"
+      },
+      "artists": [
+        {
+          "name": "Chege",
+          "url": "https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 235289,
+      "name": "Kipofu (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Nimekoma",
         "url": "https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Rafiki",
         "url": "https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/18tAdLw8uME5BDHtEtipBd"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4n1FawMqnngqLyF9KslSPh"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "The Black Queen",
         "url": "https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Pambe Tu",
         "url": "https://open.spotify.com/album/3By27Rll9J132bK0qKxObI"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/5LQbgAhs2SLyZwzSZhGjYs"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Nibusu (feat. Yammi & Mbosso)",
         "url": "https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Tina",
         "url": "https://open.spotify.com/album/0PenAHs174BfKImPfisGti"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "2025",
         "url": "https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4X2KerKCdtjZbhVHNYIGty"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/4eXsImZyEfPFOp5SC2uW8A"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Mar Gaya",
         "url": "https://open.spotify.com/album/6T4f3NNgFGBCaH3FNTGYgM"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/05Wz87UDG1UaWf9DnlbZLb"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Zoba",
         "url": "https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Nibusu (feat. Yammi)",
         "url": "https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Water & Wine",
         "url": "https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Unanifaa",
         "url": "https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Nisiulizwe",
         "url": "https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Furukuta",
         "url": "https://open.spotify.com/album/6SUXON4yFtTdklgXQxOk4t"
@@ -577,10 +593,10 @@
       "url": "https://open.spotify.com/track/5sgsXrwCGhGXaFP7KhbwrI"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
-        "name": "Nitaubeba",
-        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
+        "name": "Na Nusu",
+        "url": "https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd"
       },
       "artists": [
         {
@@ -588,12 +604,12 @@
           "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Nitaubeba",
-      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
+      "duration_ms": 263999,
+      "name": "Na Nusu",
+      "url": "https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Romeo (feat. Zuchu)",
         "url": "https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "I Am the President",
         "url": "https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor"
@@ -629,43 +645,7 @@
       "url": "https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Je T Aime",
-        "url": "https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj"
-      },
-      "artists": [
-        {
-          "name": "Beka Flavour",
-          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
-        }
-      ],
-      "duration_ms": 256644,
-      "name": "Je T Aime",
-      "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Raha (feat. Zuchu)",
-        "url": "https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Raha (feat. Zuchu)",
-      "url": "https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -681,23 +661,23 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
-        "name": "Na Nusu",
-        "url": "https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd"
+        "name": "Je T Aime",
+        "url": "https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
         }
       ],
-      "duration_ms": 263999,
-      "name": "Na Nusu",
-      "url": "https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV"
+      "duration_ms": 256644,
+      "name": "Je T Aime",
+      "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -717,7 +697,23 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Nitaubeba",
+        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Nitaubeba",
+      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Number one",
         "url": "https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/7fotVPs9r5uBiCmpzidB76"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/275GPFzAqqi5hEZWTvdmPU"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Mi Nawe",
         "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Zawadi (feat. Dadiposlim)",
         "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Dharau",
         "url": "https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy"
@@ -817,7 +813,87 @@
       "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
     },
     {
-      "added_at": "2024-09-20 09:17:35",
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Double Treble",
+        "url": "https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "duration_ms": 253764,
+      "name": "Cham Thum (Atoti)",
+      "url": "https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Katerina",
+        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
+      },
+      "artists": [
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 275487,
+      "name": "Katerina",
+      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "Inauma",
+        "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 203414,
+      "name": "Inauma",
+      "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
+    },
+    {
+      "added_at": "2024-09-26 23:59:00",
       "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
@@ -835,86 +911,6 @@
       "duration_ms": 181978,
       "name": "Jeraha",
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Khan",
-        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 177878,
-      "name": "Huyu Hapa",
-      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Katerina",
-        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
-      },
-      "artists": [
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 275487,
-      "name": "Katerina",
-      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Double Treble",
-        "url": "https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ"
-      },
-      "artists": [
-        {
-          "name": "Watendawili",
-          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
-        }
-      ],
-      "duration_ms": 253764,
-      "name": "Cham Thum (Atoti)",
-      "url": "https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ"
-    },
-    {
-      "added_at": "2024-09-20 09:17:35",
-      "album": {
-        "name": "Inauma",
-        "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
-      },
-      "artists": [
-        {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
-        }
-      ],
-      "duration_ms": 203414,
-      "name": "Inauma",
-      "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     }
   ],
   "unique_name": "Swahili Love ",

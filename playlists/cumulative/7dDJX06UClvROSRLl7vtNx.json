@@ -57,6 +57,32 @@
     },
     {
       "album": {
+        "name": "A Few Good Reasons",
+        "url": "https://open.spotify.com/album/2BKJWFJU0VgmXrGDLwHyGG"
+      },
+      "artists": [
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "live to love",
+          "url": "https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "A Few Good Reasons",
+      "url": "https://open.spotify.com/track/1xw94rUJSDcxkuQHlE4jPD"
+    },
+    {
+      "album": {
         "name": "A Million Suns",
         "url": "https://open.spotify.com/album/5PRpzouBKGp7Lmulcycf8C"
       },

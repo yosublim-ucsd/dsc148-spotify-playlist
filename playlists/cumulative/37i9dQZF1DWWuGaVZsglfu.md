@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Bernadya
+> The best tracks from the world of music\. Cover: Kaleb J
 
 139 songs - 8 hr 0 min
 

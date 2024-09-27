@@ -17336,24 +17336,6 @@
     {
       "album": {
         "name": "HENN (SANDELA)",
-        "url": "https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR"
-      },
-      "artists": [
-        {
-          "name": "Bazsi",
-          "url": "https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4"
-        }
-      ],
-      "date_added": "2024-03-15",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
-      "duration_ms": 177526,
-      "name": "HENN (SANDELA)",
-      "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
-    },
-    {
-      "album": {
-        "name": "HENN (SANDELA)",
         "url": "https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps"
       },
       "artists": [
@@ -17520,7 +17502,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 168200,
       "name": "high school",
       "url": "https://open.spotify.com/track/24f9sUr9sVrY2aJKVURXOJ"
@@ -20098,7 +20080,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160000,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a"
@@ -20916,6 +20898,28 @@
       "duration_ms": 119272,
       "name": "je to be\u017en\u00e9",
       "url": "https://open.spotify.com/track/5Uy66iMhTDvprJBW6bDZtF"
+    },
+    {
+      "album": {
+        "name": "jeden life nesta\u010d\u00ed",
+        "url": "https://open.spotify.com/album/12enBdOTzZgmkn0VXlrpvo"
+      },
+      "artists": [
+        {
+          "name": "SARA NOFF",
+          "url": "https://open.spotify.com/artist/6AwdWKprr1dAF2xmTCutDi"
+        },
+        {
+          "name": "Danny Headson",
+          "url": "https://open.spotify.com/artist/0uzl3QyTyTL4yiYhPY4cno"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122827,
+      "name": "jeden life nesta\u010d\u00ed",
+      "url": "https://open.spotify.com/track/0ajzbVymmWq025EXSs5SlT"
     },
     {
       "album": {
@@ -25452,7 +25456,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -27924,7 +27928,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 150993,
       "name": "Mr.Magic",
       "url": "https://open.spotify.com/track/6T40DjoRtC7a7lPRhnkHHf"
@@ -28152,7 +28156,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 185456,
       "name": "Murdergram Deux (feat. Eminem)",
       "url": "https://open.spotify.com/track/4Fhph8yWRNFeIoI7iXQL4W"
@@ -34476,7 +34480,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 239386,
       "name": "praying to the sky",
       "url": "https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3"
@@ -36950,6 +36954,24 @@
       "duration_ms": 173592,
       "name": "Samo mi se spava",
       "url": "https://open.spotify.com/track/7wLxoyWoClSUAlKGjaefQn"
+    },
+    {
+      "album": {
+        "name": "SANDELA",
+        "url": "https://open.spotify.com/album/1cTrT1grHhUdGnZOMYg1TR"
+      },
+      "artists": [
+        {
+          "name": "HENN",
+          "url": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177526,
+      "name": "SANDELA",
+      "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"
     },
     {
       "album": {
@@ -42986,7 +43008,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 133893,
       "name": "the way i see things",
       "url": "https://open.spotify.com/track/2Ku34RwdypCEfVJyxQIfyI"
@@ -47744,7 +47766,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 106173,
       "name": "wutiwant - SLOWD",
       "url": "https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW"

@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Buzón de Quejas</a>
+> Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Buzón de Quejas</a>
 
 51 songs - 2 day 12 hr 52 min
 

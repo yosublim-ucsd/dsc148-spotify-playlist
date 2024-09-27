@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,352 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,420 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 8 | [Hukam Karo](https://open.spotify.com/track/6F39pz9HMJVJFanrvOE2Ld) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Throwback](https://open.spotify.com/album/2BeZAJihScWoZzjKK63Dq9) | 2:17 |
 | 9 | [Raja Rani](https://open.spotify.com/track/7MddugzwprJeR1zy4jSlcD) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Raja Rani](https://open.spotify.com/album/6nU0q2jRcAcwDR6wJiezEb) | 2:08 |
 | 10 | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/track/1MznXUfKywMbhpRYziwU8j) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Goldboy](https://open.spotify.com/artist/3xXcmm9Re8N2sC15Ab5boo), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Haule Haule \(From "Tabaah"\)](https://open.spotify.com/album/09xIiHka6nQG9NjEqMdoWn) | 3:35 |
-| 11 | [Khyaal Kahto](https://open.spotify.com/track/4S5qsjhVeeX1MpcXpphWLG) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masters](https://open.spotify.com/artist/3R8saokYuKIfkvB5ibb3Ok) | [Khyaal Kahto](https://open.spotify.com/album/56kS9057ztIq21ionlG2qa) | 2:53 |
+| 11 | [Khyaal Kahto](https://open.spotify.com/track/4S5qsjhVeeX1MpcXpphWLG) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Khyaal Kahto](https://open.spotify.com/album/56kS9057ztIq21ionlG2qa) | 2:53 |
 | 12 | [Hasse](https://open.spotify.com/track/3IIYoXpH47gR0nqJxJyxQr) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [MAJESTIC](https://open.spotify.com/album/4lZ9HpPoT0IvoMRkVH76FQ) | 2:11 |
 | 13 | [Smile](https://open.spotify.com/track/5Ps4AK1YretB4UL1SBxJDw) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [New Beginnings](https://open.spotify.com/album/260NmiRF3k1XNWqV4qCjIY) | 2:50 |
 | 14 | [Khat](https://open.spotify.com/track/5bEzjIHl3yG5fyQ7BSobyI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Shukrana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zQmmjfL0y72hde3GHUGYp) | 2:53 |

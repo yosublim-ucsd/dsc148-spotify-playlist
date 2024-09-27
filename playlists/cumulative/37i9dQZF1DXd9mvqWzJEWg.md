@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle?si=0kCnq67uQEWGzM28AruwvQ">Mr\. Thela</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4TL8qvr7XAFz333BtR3FyO?si=6VBxWpLpTfOdCjsWkb1Txw">D\[NOWHERE\]J</a>
 
-203 songs - 18 hr 9 min
+204 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Donderweer](https://open.spotify.com/track/1EQSZd81gflUdDJmlMdXiY) | [Gqom Kids](https://open.spotify.com/artist/0RV1WS9M92YN0qEACphYec) | [The Art of 3, Vol\. 2](https://open.spotify.com/album/3MuUXRaKq2iB4zfkXraHUH) | 3:36 | 2024-04-25 |  |
 | [Durban Gqom](https://open.spotify.com/track/0o6nJ5i3nFtqEnRGx5kHDk) | [Stingray](https://open.spotify.com/artist/7FVXXP3lzthrIXUZKi0lPG) | [iSxwayiso Ses'bili](https://open.spotify.com/album/0O7yGfHEvv0WryqrUptj4x) | 5:14 | 2024-08-02 |  |
 | [E\-Wallet](https://open.spotify.com/track/7sVmYrSWOesRwonaTcsZ6u) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [E\-Wallet](https://open.spotify.com/album/6eZg6Qdgq93kjkRpYJkw5f) | 5:39 | 2023-08-24 |  |
-| [Easy Easy](https://open.spotify.com/track/6O204o4Ojj74CJOVRjbU00) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [G\_Star](https://open.spotify.com/artist/2id4IQA32X5qeaPDgaZ7v2) | [Beast Mode EP](https://open.spotify.com/album/3FhSGQv2CT1ki1IiqMjPx4) | 5:38 | 2023-08-24 |  |
+| [Easy Easy](https://open.spotify.com/track/6O204o4Ojj74CJOVRjbU00) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [G\_Star](https://open.spotify.com/artist/2id4IQA32X5qeaPDgaZ7v2) | [Beast Mode EP](https://open.spotify.com/album/3FhSGQv2CT1ki1IiqMjPx4) | 5:38 | 2023-08-24 | 2024-09-27 |
 | [EGM](https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [EGM](https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6) | 7:44 | 2024-01-11 |  |
 | [Elevate](https://open.spotify.com/track/24TbpmQWrUYjSnLMWaEhbv) | [Nangu Simjay](https://open.spotify.com/artist/2Wa3qKIqHyxQXqkXBX1My6), [Sva The Dominator](https://open.spotify.com/artist/4JWpvSHnttQ6VNcreD7ZWN) | [Elevate](https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk) | 5:57 | 2022-07-28 | 2023-08-25 |
 | [eRoundini](https://open.spotify.com/track/5EAiMT0YjRE8OeALSRtYEC) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Siboniso Shozi](https://open.spotify.com/artist/0yRWLoXtyD7ydwpDkIizlT) | [Amaketanga](https://open.spotify.com/album/6nrUhUWLwowLQvJKDeuCx0) | 4:35 | 2023-05-25 | 2024-01-26 |
@@ -90,6 +90,7 @@
 | [iSthin' iStory 2.0](https://open.spotify.com/track/0VGuFGnnAreOKhk7LOMSUu) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [iSthin' iStory 2.0](https://open.spotify.com/album/432ipGgv1T6zBkiXMGK80O) | 5:34 | 2023-08-17 |  |
 | [iStolo se gqom](https://open.spotify.com/track/6XScWDTmRpfd2Gi1stm1hR) | [Darktonic](https://open.spotify.com/artist/4hEG951PLvU4QhhufyvRNS) | [The time is now](https://open.spotify.com/album/5CRTcjD9F5GJKTISjzjY2I) | 5:07 | 2023-05-25 | 2024-01-26 |
 | [iWalk Ye Phara \(feat\. Moonchild Sanelly, K.O & Zulu Mkhathini\)](https://open.spotify.com/track/75sTLVjlWPUTobrRE6rWLz) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Raybel](https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Zulu Mkhathini](https://open.spotify.com/artist/2RpDiqMd85E6oDYUtqQNBx) | [iWalk Ye Phara \(feat\. Moonchild Sanelly, K.O & Zulu Mkhathini\)](https://open.spotify.com/album/0MqyL6Tu4ddKBNl8WXHNZM) | 4:07 | 2018-09-24 | 2022-11-08 |
+| [IYAPHILA](https://open.spotify.com/track/2zYFfFtjYGTn1XnxvLlyOD) | [D\[NOWHERE\]J](https://open.spotify.com/artist/4TL8qvr7XAFz333BtR3FyO) | [IYAPHILA](https://open.spotify.com/album/49jHqzhwh1r98AQYsWjshd) | 3:46 | 2024-09-26 |  |
 | [Izigqibo Zakho 2.0](https://open.spotify.com/track/1Bailok9p8aLTZdcIM2hIv) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/6MPpktX34Rx5MFNQyGaAXP) | [Love and Light](https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt) | 5:41 | 2022-08-04 | 2023-08-25 |
 | [Izinyoni \(feat\. Volka\) \- Remix](https://open.spotify.com/track/52jzhJz6T5807upSLFbUCr) | [The Billionaires](https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Volka](https://open.spotify.com/artist/1eIw3ZU7tHCcyJjmjxH4jJ) | [Izinyoni \(feat\. Volka\) \- Remix](https://open.spotify.com/album/1HZu3JjmobsdZ6PUtran4T) | 5:37 | 2024-05-10 |  |
 | [Khanda Lami](https://open.spotify.com/track/1kIpnU1LvsnezhSw8VKCo0) | [Sva The Dominator](https://open.spotify.com/artist/4JWpvSHnttQ6VNcreD7ZWN), [Msindo](https://open.spotify.com/artist/5W0mzMPoSojM4rhgFIZWfe), [Heartless Boyz MusiQ](https://open.spotify.com/artist/7EkdsEjcZkxf5MyvDlIXjf), [Charles Lokish](https://open.spotify.com/artist/3SEeWjKtf70ByQpCMThZSn) | [Flight Mode](https://open.spotify.com/album/0HZIQpGpPRdbEqy2mRU75Q) | 5:51 | 2023-08-24 |  |

@@ -109,6 +109,28 @@
     },
     {
       "album": {
+        "name": "369",
+        "url": "https://open.spotify.com/album/1AtGcx4Ow3Jsz1NCJfH4j0"
+      },
+      "artists": [
+        {
+          "name": "Anderson Noise",
+          "url": "https://open.spotify.com/artist/2me4xwYD90Z6cyk21AZX8i"
+        },
+        {
+          "name": "7777",
+          "url": "https://open.spotify.com/artist/4ocIVNYude1DQtmdc92r3O"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331744,
+      "name": "333",
+      "url": "https://open.spotify.com/track/7fi9imqx8N9ONqDnuZX83S"
+    },
+    {
+      "album": {
         "name": "5th Symphony",
         "url": "https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI"
       },
@@ -890,6 +912,24 @@
       "duration_ms": 219840,
       "name": "Begging For Healing",
       "url": "https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2WYyVhWlTNxhjhOdl2DEq1"
+      },
+      "artists": [
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185628,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6k7jFZVd514FE8EjMIcosg"
     },
     {
       "album": {
@@ -2232,7 +2272,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 161102,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/6QmnodClYxy484Dx7rxD7v"
@@ -2446,6 +2486,58 @@
       "duration_ms": 260316,
       "name": "Ego (\u00c9 Tudo ou Nada)",
       "url": "https://open.spotify.com/track/23LtaikJSjRaam9a2oDi5m"
+    },
+    {
+      "album": {
+        "name": "Elbows (feat. Troz\u00e9)",
+        "url": "https://open.spotify.com/album/65ebxZ9lVdUnhWT94Okw7K"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Troze",
+          "url": "https://open.spotify.com/artist/55P3gPnko8eY36IyUHC5gF"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Elbows (feat. Troz\u00e9)",
+      "url": "https://open.spotify.com/track/3p0z5sooMDJyprzbm9JD3N"
+    },
+    {
+      "album": {
+        "name": "Emori\u00f4",
+        "url": "https://open.spotify.com/album/0NAtv3Kn14VSm45eoZP3Iu"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "J\u00e9ssica Gaspar",
+          "url": "https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Emori\u00f4",
+      "url": "https://open.spotify.com/track/5HNtxw94hQ7sQdKkiZKTLv"
     },
     {
       "album": {
@@ -3712,6 +3804,28 @@
     {
       "album": {
         "name": "High",
+        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
+    },
+    {
+      "album": {
+        "name": "High",
         "url": "https://open.spotify.com/album/1CGFJS9BRBNfX1Blh138d3"
       },
       "artists": [
@@ -3792,7 +3906,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 207360,
       "name": "Hit the Ground - Edit",
       "url": "https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X"
@@ -5207,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Echoes of a Decade",
+        "url": "https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157617,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq"
+    },
+    {
+      "album": {
         "name": "Make It Loud",
         "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
       },
@@ -5618,7 +5750,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178000,
       "name": "Move",
       "url": "https://open.spotify.com/track/6xu05m8tuyZ4EjgNH7WCio"
@@ -7845,6 +7977,24 @@
     },
     {
       "album": {
+        "name": "Soul Sake",
+        "url": "https://open.spotify.com/album/7K1Hz8ofzoU299BTviikOs"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157031,
+      "name": "Soul Sake",
+      "url": "https://open.spotify.com/track/0a6zRpiTZZThCVbFPIRasC"
+    },
+    {
+      "album": {
         "name": "Sounds Of The Underground",
         "url": "https://open.spotify.com/album/6MdmxZIhUVUt7vPxhuFLRs"
       },
@@ -9228,7 +9378,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 160629,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3g7QrkxytGxHue8BQE2zK2"
@@ -9306,6 +9456,32 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "album": {
+        "name": "Weapon of Mass Destruction",
+        "url": "https://open.spotify.com/album/4xFbQBsWbV0NXCc0wKt4uK"
+      },
+      "artists": [
+        {
+          "name": "Morphy",
+          "url": "https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213304,
+      "name": "Weapon of Mass Destruction",
+      "url": "https://open.spotify.com/track/62jhF9WyEgxKoqKe26dGdg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
 
-87 songs - 4 hr 20 min
+88 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Baby Is Born](https://open.spotify.com/track/2nFmDGWDKWHvylfXJQokX0) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 2:03 | 2023-12-15 |  |
 | [A Chicken More Like You](https://open.spotify.com/track/3F5MBcdicCIupmlwD0c2wd) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [A Small Light \(Original Score\)](https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5) | 1:21 | 2023-12-15 | 2024-05-25 |
 | [A New Generation](https://open.spotify.com/track/0DcsIiTE6l7PqI4DVA1oCe) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Jane \(Original National Geographic Motion Picture Soundtrack\)](https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW) | 4:11 | 2023-12-15 |  |
+| [Afternoon Sounds in Everglades National Park](https://open.spotify.com/track/4z63h0szwUTS5Fxqd1nhdy) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 0:44 | 2024-09-26 |  |
 | [Beach Living](https://open.spotify.com/track/2BlWGB7wM2dSiQ9JUjJMND) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:16 | 2023-12-15 |  |
 | [Boys Wanna Be Her](https://open.spotify.com/track/7eMjl8fLykfgpxrNr0KyqJ) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Boys Wanna Be Her](https://open.spotify.com/album/6Ct0Mywt5YZMLr41yLNsDh) | 3:55 | 2024-03-01 | 2024-03-28 |
 | [Bulls Built Different](https://open.spotify.com/track/6i59Uwwlsu8dwippavNLOx) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 1:42 | 2023-12-15 |  |

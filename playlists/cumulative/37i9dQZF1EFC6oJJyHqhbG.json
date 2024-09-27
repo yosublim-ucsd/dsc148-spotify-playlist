@@ -1378,10 +1378,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 193250,
       "name": "Lonely For You",
       "url": "https://open.spotify.com/track/75jmDMBlocqSB5JgtUudHO"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7mVGJiqFH2liTZJxAyHsMF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Lonely for You (feat. Bonnie McKee)",
+      "url": "https://open.spotify.com/track/71gqwDyzphH33FzZLuIGLq"
     },
     {
       "album": {

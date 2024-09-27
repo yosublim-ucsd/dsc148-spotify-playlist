@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Chaque seconde\" de Pierre Garnier en duo avec M. Pokora est le Grand Hit de la semaine.",
+  "description": "\"Si seulement...\" de Kendji Girac est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 148866,
       "name": "JVQTSM",
       "url": "https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j"
@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "15h22",
+        "url": "https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Duthu",
+          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Les jours qui restent",
+      "url": "https://open.spotify.com/track/5a7xABOf6HTMIlNoQmaKIR"
+    },
+    {
+      "album": {
         "name": "Les longueurs (Edit)",
         "url": "https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 230351,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh"
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 189588,
       "name": "Maintenant",
       "url": "https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6"
@@ -3282,6 +3300,24 @@
       "duration_ms": 200200,
       "name": "Tout ce que l'on dit mais qu'on ne fait pas",
       "url": "https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU"
+    },
+    {
+      "album": {
+        "name": "Tout pour moi",
+        "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Tout pour moi",
+      "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
     },
     {
       "album": {

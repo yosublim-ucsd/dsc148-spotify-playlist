@@ -1709,7 +1709,7 @@
         },
         {
           "name": "Emanero",
-          "url": "https://open.spotify.com/artist/7LJCRpVGQi5ttBb8WEa1RE"
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
         },
         {
           "name": "Nico Valdi",
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
@@ -4965,6 +4965,36 @@
     },
     {
       "album": {
+        "name": "Las 5",
+        "url": "https://open.spotify.com/album/47h4ZaYwptWYx7jRYlKhJJ"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179259,
+      "name": "Las 5",
+      "url": "https://open.spotify.com/track/5nEO6PobKd23QyUfL7THw9"
+    },
+    {
+      "album": {
         "name": "Las Esferas del Dragon",
         "url": "https://open.spotify.com/album/0dtYzI0VqlpfIXE2qb4YPt"
       },
@@ -5774,7 +5804,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -6584,6 +6614,24 @@
       "duration_ms": 211836,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7BltBqVFgT2EcuFecG0lzp"
+    },
+    {
+      "album": {
+        "name": "Nada Quedara",
+        "url": "https://open.spotify.com/album/3ms0YFvr13VbUctRJ6sJQD"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190507,
+      "name": "Nada Quedara",
+      "url": "https://open.spotify.com/track/3IP8UhkdSYXiFBQHEEUAvC"
     },
     {
       "album": {
@@ -9585,6 +9633,36 @@
     },
     {
       "album": {
+        "name": "So\u00f1ador Eterno",
+        "url": "https://open.spotify.com/album/3LsyEI1clQEIGqMjezW3px"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+        },
+        {
+          "name": "Maxi y La Champions Liga",
+          "url": "https://open.spotify.com/artist/6eFCmeWnt7lHM1NYbXCZoC"
+        },
+        {
+          "name": "Toma 2",
+          "url": "https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177710,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3zNKOVI1wWhfrgv6pPXAgy"
+    },
+    {
+      "album": {
         "name": "Su\u00e9ltate",
         "url": "https://open.spotify.com/album/2Xa3EYA1aGTzxtaku5Wjr9"
       },
@@ -11244,7 +11322,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 156893,
       "name": "Verano 2024",
       "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"

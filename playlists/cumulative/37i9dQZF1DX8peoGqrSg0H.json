@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2825,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (Don't Say)",
+        "url": "https://open.spotify.com/album/57seMNBhjL2nAZjDX1Euko"
+      },
+      "artists": [
+        {
+          "name": "RedSpin",
+          "url": "https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176860,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (Don't Say)",
+      "url": "https://open.spotify.com/track/1zkLmmX5ykuubJ87Li4Lk1"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 (End.)",
         "url": "https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 186470,
       "name": "\u0e02\u0e35\u0e49\u0e40\u0e01\u0e35\u0e22\u0e08\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e48\u0e30 (Done Looking)",
       "url": "https://open.spotify.com/track/25CkWacg2tHqwFGk3hYRd1"
@@ -4233,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32 (Let Me Try Again)",
+        "url": "https://open.spotify.com/album/5rJUY4kiAfnL5ppIZjOk5S"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e09\u0e31\u0e19\u0e04\u0e19\u0e40\u0e01\u0e48\u0e32 (Let Me Try Again)",
+      "url": "https://open.spotify.com/track/695OTeJR2N7eaOCN9mdCou"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e09\u0e32\u0e1b\u0e40\u0e18\u0e2d (Curse)",
         "url": "https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP"
       },
@@ -4526,6 +4562,24 @@
       "duration_ms": 197948,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7"
+    },
+    {
+      "album": {
+        "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
+        "url": "https://open.spotify.com/album/2PgfddpUmMlUjF8J5UUvD1"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214617,
+      "name": "\u0e0b\u0e31\u0e14\u0e2a\u0e31\u0e01\u0e17\u0e35 (Knock Out!)",
+      "url": "https://open.spotify.com/track/6AkV52ZIcHEVNxJUGpHVL3"
     },
     {
       "album": {
@@ -6338,6 +6392,24 @@
       "duration_ms": 285584,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e25\u0e32 (jasmine)",
+        "url": "https://open.spotify.com/album/1pOKF7lYqJeNdpe5AcQH7s"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222519,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e25\u0e32 (jasmine)",
+      "url": "https://open.spotify.com/track/42kVAXHScwppQdPPGsygb2"
     },
     {
       "album": {
@@ -9918,7 +9990,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 179200,
       "name": "\u0e42\u0e2e\u0e48\u0e07! (SUGOI)",
       "url": "https://open.spotify.com/track/2XjzXB9tMakPdN0u5PWzy1"
@@ -10300,7 +10372,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 202153,
       "name": "\u0e44\u0e21\u0e48\u0e1e\u0e39\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e40\u0e2b\u0e23\u0e2d (Say Something)",
       "url": "https://open.spotify.com/track/0Xy2kapJcAPzwyRzrtxHi1"
@@ -10416,7 +10488,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 172500,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/5avoDIqACMBIPebBXBQCFK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,965 songs - 4 day 9 hr 40 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,967 songs - 4 day 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1973,5 +1973,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1963 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 |
 | 1964 | [Heroine \- Cryogenic feat\. Unlocked The Uptempo Edit](https://open.spotify.com/track/2KkNsekL5ayUqYtkivLdNu) | [Dutch Disorder](https://open.spotify.com/artist/134MabV7tKukLyF9Xagk8A), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Heroine \(Cryogenic feat\. Unlocked The Uptempo Edit\)](https://open.spotify.com/album/3ijrDYLRymot6AU6Qxlg5R) | 2:34 |
 | 1965 | [VAPO NO SETOR](https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1) | [DJ ANXVAR](https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ), [MC LONE](https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj) | [VAPO NO SETOR](https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse) | 1:07 |
+| 1966 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
+| 1967 | [BLOOD ON MY HANDS](https://open.spotify.com/track/5JXcoOrZVS1GPjUKEdl0xM) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [BLOOD ON MY HANDS](https://open.spotify.com/album/0IwDvYT2fvlVJDX1suaLQi) | 3:18 |
 
-Snapshot ID: `AAADVYo23ocUdoXOQt0T9fOpihk4vw9l`
+Snapshot ID: `AAADV9kArHJIs9gHc51+FfF0iDY6f49+`

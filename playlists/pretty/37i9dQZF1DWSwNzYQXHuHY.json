@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9846,
+  "num_followers": 9848,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
-      },
-      "artists": [
-        {
-          "name": "KEN",
-          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love me Again",
-      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
         "name": "Losing Sleep Over You",
         "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 181266,
       "name": "Losing Sleep Over You",
       "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
+        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love me Again",
+      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
     },
     {
       "added_at": "2024-09-13 09:14:48",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-13 09:14:48",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 7)",
-        "url": "https://open.spotify.com/album/7nHakKPqirVerK9QHackK7"
-      },
-      "artists": [
-        {
-          "name": "summer",
-          "url": "https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Color me",
-      "url": "https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY"
-    },
-    {
-      "added_at": "2024-09-13 09:14:48",
-      "album": {
         "name": "Friends to lovers",
         "url": "https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 241544,
       "name": "Friends to lovers",
       "url": "https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4"
+    },
+    {
+      "added_at": "2024-09-13 09:14:48",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/7nHakKPqirVerK9QHackK7"
+      },
+      "artists": [
+        {
+          "name": "summer",
+          "url": "https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Color me",
+      "url": "https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY"
     },
     {
       "added_at": "2024-09-13 09:14:48",

@@ -2,7 +2,7 @@
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
+> This is El Potro De Sinaloa\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 98 songs - 6 hr 21 min
 

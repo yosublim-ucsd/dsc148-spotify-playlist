@@ -1,35 +1,15 @@
 {
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=FT41P0ZTTbavn79ogA0qmA\">Loatinover Pounds</a>",
-  "num_followers": 90614,
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT?si=LURnSwVZThO6B8Ahitusmw\">Dee Koala</a>",
+  "num_followers": 90659,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu2VBwAAAACZlhuJFzrAUMjghxIzj6jo",
+  "snapshot_id": "ZvXncAAAAAAFnG4jHUUnzwRzfV03yjZW",
   "tracks": [
     {
-      "added_at": "2024-09-20 15:30:15",
-      "album": {
-        "name": "Pray 4 Pitori",
-        "url": "https://open.spotify.com/album/6ixv7oc58aBXFYoTDBKCa9"
-      },
-      "artists": [
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
-        },
-        {
-          "name": "Una Rams",
-          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
-        }
-      ],
-      "duration_ms": 248477,
-      "name": "Pray 4 Me",
-      "url": "https://open.spotify.com/track/7oH2WeHDDiCC4guHrhjYMJ"
-    },
-    {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "20th: Days Before Maud",
         "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
@@ -53,7 +33,63 @@
       "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Medi Yase Khayelitsha",
+        "url": "https://open.spotify.com/album/4st2x36mIjgIpW2Pj8lST9"
+      },
+      "artists": [
+        {
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Medi Yase Khayelitsha",
+      "url": "https://open.spotify.com/track/1a2CqIsoPrWTEpz2tJqJic"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Pray 4 Pitori",
+        "url": "https://open.spotify.com/album/6ixv7oc58aBXFYoTDBKCa9"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "duration_ms": 248477,
+      "name": "Pray 4 Me",
+      "url": "https://open.spotify.com/track/7oH2WeHDDiCC4guHrhjYMJ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Abekho",
+        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Abekho",
+      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "2 Headed Goat (feat. Maglera Doe Boy)",
         "url": "https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "iJuzi",
         "url": "https://open.spotify.com/album/62zKSggkO5KkMhfK2LJOin"
@@ -113,31 +149,31 @@
       "url": "https://open.spotify.com/track/4lbYw9AXbdGZUoO8VAFJi2"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Don't Call Me",
-        "url": "https://open.spotify.com/album/2XtmdiXsql8tvSMoZElXoH"
+        "name": "Get This Bag (feat. Shouldbeyuang)",
+        "url": "https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH"
       },
       "artists": [
         {
-          "name": "Money Badoo",
-          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
         },
         {
-          "name": "gTbeats",
-          "url": "https://open.spotify.com/artist/6pKCnodzo7zobRLSs2glZ0"
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
         },
         {
-          "name": "The Wood\u017a",
-          "url": "https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1"
+          "name": "Shouldbeyuang",
+          "url": "https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4"
         }
       ],
-      "duration_ms": 185894,
-      "name": "Don't Call Me",
-      "url": "https://open.spotify.com/track/6Xf3pd0dJdCMcAckqiy6RJ"
+      "duration_ms": 172943,
+      "name": "Get This Bag (feat. Shouldbeyuang)",
+      "url": "https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Took Me For A Nai",
         "url": "https://open.spotify.com/album/6vc3D35aDIr4sZFicZ00gf"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/6TffFYos6mnj9Os1nTac4m"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Church On Sundayz",
         "url": "https://open.spotify.com/album/2AChy56MPKTPXlhdjpYfaR"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/7miQTf9PQBTj9enXXp3dk3"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Mfana kaMakhulu",
         "url": "https://open.spotify.com/album/4HshJlejrlM0iS7vft5wA1"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/0BC3WoUwKRdzcsSQOsY4kr"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4t4AqORfYDyMwZVGDO0Z8V"
@@ -225,27 +261,39 @@
       "url": "https://open.spotify.com/track/6Pye5o65HC4VwzfHF2hI3L"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Abekho",
-        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
+        "name": "Buss Buss",
+        "url": "https://open.spotify.com/album/1BogiJVTrCMW2QuyTrDFVV"
       },
       "artists": [
         {
-          "name": "Sonwabile",
-          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        },
+        {
+          "name": "Orish",
+          "url": "https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Abekho",
-      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
+      "duration_ms": 170293,
+      "name": "Buss Buss",
+      "url": "https://open.spotify.com/track/6FJZxAQTD24b87dh1AVCKu"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Honne - Remix",
         "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
@@ -269,7 +317,7 @@
       "url": "https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
@@ -285,7 +333,7 @@
       "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Perspective: BLACK",
         "url": "https://open.spotify.com/album/12D5keYs0QO1oSQ49JskBh"
@@ -317,39 +365,27 @@
       "url": "https://open.spotify.com/track/2Dl1LskvQrLItLhBj4RphX"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/6rLGhiSDi2NozXz6L01kjp"
+        "name": "Something Special (feat. Marcus Harvey)",
+        "url": "https://open.spotify.com/album/39Mds84KeF5i1zuUQfQvkt"
       },
       "artists": [
         {
-          "name": "ZRi.",
-          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
         },
         {
-          "name": "LaCabra",
-          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
-        },
-        {
-          "name": "Blue Pappi",
-          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
-        },
-        {
-          "name": "Scarface Panda",
-          "url": "https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ"
-        },
-        {
-          "name": "Qwellers",
-          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
         }
       ],
-      "duration_ms": 228346,
-      "name": "Mud",
-      "url": "https://open.spotify.com/track/2pnpyVc48sLowcV0UPIEco"
+      "duration_ms": 222500,
+      "name": "Something Special (feat. Marcus Harvey)",
+      "url": "https://open.spotify.com/track/34zAWBabuhc593VUuQMStN"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Eish",
         "url": "https://open.spotify.com/album/395QfuTBVHG13QKLkPZLlK"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/4uDG6e9NZP60RFWh86IBMK"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "ONLY THE BRAVE",
         "url": "https://open.spotify.com/album/0VIKRgqgvDdXNNfbGhUfnp"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/1RBaJ70iuXwK6Wyu457Q3t"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "TOYOTA",
         "url": "https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1"
@@ -421,7 +457,27 @@
       "url": "https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "W.G.T.B.H",
+        "url": "https://open.spotify.com/album/7rRbm4KRBmMqWdkjuqb1T4"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        }
+      ],
+      "duration_ms": 150743,
+      "name": "W.G.T.B.H",
+      "url": "https://open.spotify.com/track/0j9vntEfH5NNetX7i4hfyj"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Elokishin",
         "url": "https://open.spotify.com/album/295NPYTrhoh6HNd9X8rBiT"
@@ -441,7 +497,7 @@
       "url": "https://open.spotify.com/track/3l2sFobwAtdTmU5oosq8Ie"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Misscomplicationship (Yolophonik Remix)",
         "url": "https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq"
@@ -465,7 +521,27 @@
       "url": "https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Young & independent",
+        "url": "https://open.spotify.com/album/7FpQPIpQGdkGzVfdCJDZtO"
+      },
+      "artists": [
+        {
+          "name": "Tpk Trapmash",
+          "url": "https://open.spotify.com/artist/7J1SW2erBONuxFoBXKsedk"
+        },
+        {
+          "name": "Djy Mloshka",
+          "url": "https://open.spotify.com/artist/4xrCR9bCyURC0ScbK9r2Ns"
+        }
+      ],
+      "duration_ms": 300434,
+      "name": "Young & independent",
+      "url": "https://open.spotify.com/track/5c4uI3nEgrupRmefslZXgJ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Cheque",
         "url": "https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr"
@@ -481,7 +557,7 @@
       "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Wanita",
         "url": "https://open.spotify.com/album/6HBJLpS8hJyAxhv5gx0b83"
@@ -497,7 +573,7 @@
       "url": "https://open.spotify.com/track/6awKlZneJTsXjwABSl1L4W"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Classified: Music from the Original Series",
         "url": "https://open.spotify.com/album/0bgRR2yxWDSXtKIdpBbO1W"
@@ -517,7 +593,59 @@
       "url": "https://open.spotify.com/track/0wIv2LA8kJJt4KqDflnZGu"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Pushing All Day",
+        "url": "https://open.spotify.com/album/4SFgy5moP4oKLrzBeOppXs"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "The Ginger Mac",
+          "url": "https://open.spotify.com/artist/37ERtvxLIRWOELaLwc8GNn"
+        },
+        {
+          "name": "Wichi1080",
+          "url": "https://open.spotify.com/artist/1dKOUfFVu6AGIvokF6GaSN"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "Pushing All Day",
+      "url": "https://open.spotify.com/track/5otu2xQqVrNSWjCWuQZPv0"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "Don't Call Me",
+        "url": "https://open.spotify.com/album/2XtmdiXsql8tvSMoZElXoH"
+      },
+      "artists": [
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "gTbeats",
+          "url": "https://open.spotify.com/artist/6pKCnodzo7zobRLSs2glZ0"
+        },
+        {
+          "name": "The Wood\u017a",
+          "url": "https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1"
+        }
+      ],
+      "duration_ms": 185894,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/6Xf3pd0dJdCMcAckqiy6RJ"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Ingozi Freestyle",
         "url": "https://open.spotify.com/album/1SD4Faks1fL7QQ5j3QuvTd"
@@ -533,7 +661,7 @@
       "url": "https://open.spotify.com/track/6j7OCM9b1OXonvozfrZG5k"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "alright",
         "url": "https://open.spotify.com/album/3lUsPF1vPsEJywzxIEqnXg"
@@ -549,7 +677,7 @@
       "url": "https://open.spotify.com/track/6RdtukXOMMxjjIsMkZUWln"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Wild Body",
         "url": "https://open.spotify.com/album/6MSEnqICwqESrr8upSVFzs"
@@ -565,27 +693,7 @@
       "url": "https://open.spotify.com/track/5hTHAvoNATg5Lf7IJNliPu"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
-      "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/2SBKjSsAL0cdHAtd28DwFR"
-      },
-      "artists": [
-        {
-          "name": "Swisha T",
-          "url": "https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/6M7Ykx8vvb9FJORBG6o9ik"
-    },
-    {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Dan Up",
         "url": "https://open.spotify.com/album/1ExBjhwsN4pYAi9GmcVqf0"
@@ -605,7 +713,7 @@
       "url": "https://open.spotify.com/track/2JmwtW8RzEtvRLImKEyOQX"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Year 24",
         "url": "https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3"
@@ -625,7 +733,7 @@
       "url": "https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Ushukela (feat. Blue Pappi, Sastii & Lowfeye)",
         "url": "https://open.spotify.com/album/00OXfVXB9T8ZqbOriTEzdj"
@@ -657,7 +765,7 @@
       "url": "https://open.spotify.com/track/623xoswmJONiZIXblBTIVz"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Fool Me Once",
         "url": "https://open.spotify.com/album/4gGU03u8caW7e173y55ti4"
@@ -673,7 +781,7 @@
       "url": "https://open.spotify.com/track/7cQxeDA9TrT2cH3g8QTGOZ"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/23tYWTZcsWLW4nscXJBxWo"
@@ -697,7 +805,7 @@
       "url": "https://open.spotify.com/track/2O0rVlBMPoqudJ4UUCHCWx"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "SHINE O' CLOCK",
         "url": "https://open.spotify.com/album/3UslL0HVp28oOC3fFn7oQw"
@@ -713,7 +821,7 @@
       "url": "https://open.spotify.com/track/4CrXE9L2e9lfdMp7amBON4"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Kutsa",
         "url": "https://open.spotify.com/album/11ktlA1YvImtKaFzT4hPNh"
@@ -729,7 +837,7 @@
       "url": "https://open.spotify.com/track/23PRC1Q2VFbIx6sCOCgLQu"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Stacks Only (feat. CaseKlowzed)",
         "url": "https://open.spotify.com/album/1RRvqmy9wBsEKeduWATEXq"
@@ -749,27 +857,7 @@
       "url": "https://open.spotify.com/track/5bvdPVsxDxOpghYSi5DdWH"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
-      "album": {
-        "name": "BANDITOS",
-        "url": "https://open.spotify.com/album/5xiqrVDSfipSAwShfSfVEK"
-      },
-      "artists": [
-        {
-          "name": "Ason",
-          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
-        },
-        {
-          "name": "Frank Casino",
-          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
-        }
-      ],
-      "duration_ms": 202590,
-      "name": "BANDITOS",
-      "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
-    },
-    {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Slat Los",
         "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
@@ -793,7 +881,7 @@
       "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "31 Y?EARS AHEAD OF TIME",
         "url": "https://open.spotify.com/album/1NrWh6KoTILbEIyqI2cyBp"
@@ -813,7 +901,7 @@
       "url": "https://open.spotify.com/track/14A1Dnr74QeLfCs0B1QdYd"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "That One",
         "url": "https://open.spotify.com/album/1bPZxC6rdltRUSqTZOg950"
@@ -833,7 +921,7 @@
       "url": "https://open.spotify.com/track/3flwdJy9C7xiOreVvmTnno"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9"
@@ -865,7 +953,7 @@
       "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "BROKE",
         "url": "https://open.spotify.com/album/7cl1SBT5UfCAlxIqbjGhm6"
@@ -881,7 +969,7 @@
       "url": "https://open.spotify.com/track/7ttN8WgLAZ3BSvZUaqBoJW"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "ASSUMPTIONS",
         "url": "https://open.spotify.com/album/4nMwIUlOAHwqIDVaMgMv1C"
@@ -901,7 +989,7 @@
       "url": "https://open.spotify.com/track/5LbwNe7yhEb341wLcvCnh6"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "UMSINDO (feat. Kiddo CSA)",
         "url": "https://open.spotify.com/album/3Hb6LoSOegreWvghXlqjJh"
@@ -921,7 +1009,7 @@
       "url": "https://open.spotify.com/track/0QZ1cjR64cdpXEYFG1iHXX"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "VATELA",
         "url": "https://open.spotify.com/album/0IkItZca2QJEMgX2FAXxoe"
@@ -953,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7wUN20FK96Fu3nbvbUPVKl"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/1mfotTCSRTniu8r6l0IvOM"
@@ -977,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3V3hlZ0gWcYSGCwMW6EDOs"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Long Life",
         "url": "https://open.spotify.com/album/1NPn1i2VwhRgrAwu9FfS0j"
@@ -1001,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3WDmVEJaryu8LHeCQTGV0x"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "ngisebhishi",
         "url": "https://open.spotify.com/album/1ge9EVVEj81VnPR29XETRb"
@@ -1017,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0VC17bHNBtsoMd0krLHnJf"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Emzini Wezinsizwa (feat. Dando)",
         "url": "https://open.spotify.com/album/0ZB3LAf8dkfRQQlKzxXjRj"
@@ -1037,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3x4WItLeZCoZYwftp806S9"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Gasketi",
         "url": "https://open.spotify.com/album/3E2FwOLIquNbg06pI8uM8c"
@@ -1057,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0ATPofixRXmj7mzq3q08Qv"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "pull up",
         "url": "https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I"
@@ -1073,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "What's The Qoh! (feat. Okmalumkoolkat)",
         "url": "https://open.spotify.com/album/6rDPbjzJpxOlFufLrgdSLL"
@@ -1097,7 +1185,7 @@
       "url": "https://open.spotify.com/track/2HG4fG4OyRLVnNMMvw4X9e"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Tell - A - Friend",
         "url": "https://open.spotify.com/album/1VWs9zCwd2bc5Wjxmkwddi"
@@ -1113,7 +1201,7 @@
       "url": "https://open.spotify.com/track/27zfVARnin6yqIicq7C2cA"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Home (Yard Edition)",
         "url": "https://open.spotify.com/album/135PbNHsRKY5U4GS0gBvmM"
@@ -1133,7 +1221,7 @@
       "url": "https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "RED FLAG",
         "url": "https://open.spotify.com/album/6rVgedMkzPm7e8oCtgKYNJ"
@@ -1149,7 +1237,7 @@
       "url": "https://open.spotify.com/track/71Wnaxqwazv4KuSSY4tFxY"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "HARDER",
         "url": "https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H"
@@ -1173,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/3BMqo5cBcQ49eJh1b7zWoA"
@@ -1193,7 +1281,7 @@
       "url": "https://open.spotify.com/track/74tEosyCxNM64SenyBN06f"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Why Can't You",
         "url": "https://open.spotify.com/album/0NOZYyqGsyAkm0pT5ggrnW"
@@ -1213,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2XiosvOSaJoJW42HLgArTV"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Destiny's Child",
         "url": "https://open.spotify.com/album/4V9ZBpD5gkk5dBaMNSb67M"
@@ -1229,7 +1317,7 @@
       "url": "https://open.spotify.com/track/0oKtquFwfWFOBCZVKeDq9h"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
@@ -1253,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4XuI5vJYWazWdUe6dec2Zf"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Imvelaphi",
         "url": "https://open.spotify.com/album/6Ey7WJyXa1YlzPw4DOV8lo"
@@ -1273,7 +1361,7 @@
       "url": "https://open.spotify.com/track/0DXtoLvvPkIQu9CirJN4UE"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "SEAMS.",
         "url": "https://open.spotify.com/album/7nH0y4NPxC4EX8ZHFfjxwN"
@@ -1289,7 +1377,7 @@
       "url": "https://open.spotify.com/track/4knUyn0BwHlm3gJkoK5rVV"
     },
     {
-      "added_at": "2024-09-13 13:08:00",
+      "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Uyabona Nawe Mos",
         "url": "https://open.spotify.com/album/3PZZyIQEYsauTJFlvld1RE"

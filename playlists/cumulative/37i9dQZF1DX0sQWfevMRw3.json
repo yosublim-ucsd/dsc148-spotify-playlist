@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 115000,
       "name": "34:an",
       "url": "https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 195241,
       "name": "Ack & Ve",
       "url": "https://open.spotify.com/track/2SuiLdrioZx12G7lwCLRbX"
@@ -656,6 +656,24 @@
       "duration_ms": 102375,
       "name": "ALDRIG LIGGA MED DIG NYKTER - Greta Tuborg Remix",
       "url": "https://open.spotify.com/track/4PCZTI7623Eznt21rcGeiF"
+    },
+    {
+      "album": {
+        "name": "Aldrig ses igen",
+        "url": "https://open.spotify.com/album/2H0qYAH8cFmoP3Cx3yGrVD"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118746,
+      "name": "Aldrig ses igen",
+      "url": "https://open.spotify.com/track/1WuXYKoVIur6D1Ev6kuV2p"
     },
     {
       "album": {
@@ -2179,6 +2197,32 @@
     },
     {
       "album": {
+        "name": "Boten Anna",
+        "url": "https://open.spotify.com/album/4RD4pXQ5olk7LK21QP1Avi"
+      },
+      "artists": [
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        },
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
+        },
+        {
+          "name": "Hubbe",
+          "url": "https://open.spotify.com/artist/2BSpar5fkultsfTEgtRBpP"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171751,
+      "name": "Boten Anna",
+      "url": "https://open.spotify.com/track/0Lxvi9uGDr4zXVA7dhUaDg"
+    },
+    {
+      "album": {
         "name": "Botten upp",
         "url": "https://open.spotify.com/album/46SEWnxkQqmvq6QLXlb9Hp"
       },
@@ -2712,6 +2756,32 @@
       "duration_ms": 144094,
       "name": "B\u00d6TT E G\u00d6TT",
       "url": "https://open.spotify.com/track/7JKDUMOyRktTGUndccWsVJ"
+    },
+    {
+      "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/03axE89BHvjEpvmwat6eBD"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Dr\u00e4ngarna",
+          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146627,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/0K6BX1pMDHRIvqiYHawdMT"
     },
     {
       "album": {
@@ -3344,7 +3414,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 176480,
       "name": "Dansa i neon (N!NE Remix)",
       "url": "https://open.spotify.com/track/08JMkiJUfrHbd0cKM63Vjd"
@@ -3877,6 +3947,32 @@
     },
     {
       "album": {
+        "name": "DISCO DISCO DISCO",
+        "url": "https://open.spotify.com/album/5Thr5ZPBin75AVqjxO41OA"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        },
+        {
+          "name": "LUREBUS",
+          "url": "https://open.spotify.com/artist/0wiMDZudqaqFP5O5FQEPWy"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106956,
+      "name": "DISCO DISCO DISCO",
+      "url": "https://open.spotify.com/track/61EMXh6vqiSsDI2WIJCC6u"
+    },
+    {
+      "album": {
         "name": "DISKOTEKA",
         "url": "https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ"
       },
@@ -4319,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "DR\u00c4NK DEN",
+        "url": "https://open.spotify.com/album/18WGEvBmphNmp9ncQ08S5M"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194971,
+      "name": "DR\u00c4NK DEN",
+      "url": "https://open.spotify.com/track/73XyQNqhhxNuGS8pYlMRJO"
+    },
+    {
+      "album": {
         "name": "DU G\u00d6R MIG FUCKED UP",
         "url": "https://open.spotify.com/album/6WgOfMVUSG5vtUOGeycK6E"
       },
@@ -4604,7 +4718,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140160,
       "name": "DUM I HUVET",
       "url": "https://open.spotify.com/track/2JjQCaKmPM0oNkZdftKV8m"
@@ -5202,7 +5316,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 147375,
       "name": "En birra har aldrig",
       "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
@@ -5402,7 +5516,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 165230,
       "name": "En kv\u00e4ll i juni",
       "url": "https://open.spotify.com/track/60fffK6XCHdFBjOv8TFJiW"
@@ -5828,6 +5942,32 @@
       "duration_ms": 152337,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/7shSbYJhivRtPuhMArzy9N"
+    },
+    {
+      "album": {
+        "name": "EY\u00b4BRO",
+        "url": "https://open.spotify.com/album/2KhCQkQlJC3QGNE4BtxuY8"
+      },
+      "artists": [
+        {
+          "name": "Fucktoyz",
+          "url": "https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "Ralle",
+          "url": "https://open.spotify.com/artist/5X5YCrQ9pJok8k5njxqWT1"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171704,
+      "name": "EY\u00b4BRO",
+      "url": "https://open.spotify.com/track/61W632n3aTmLzNcO3BbkbU"
     },
     {
       "album": {
@@ -19276,7 +19416,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140475,
       "name": "SKITER I DIN DALAH\u00c4ST - LNDBRG x Svardh Remix",
       "url": "https://open.spotify.com/track/3D3GxH1lxyqHNvRXlqAuS4"
@@ -20430,6 +20570,32 @@
       "duration_ms": 168853,
       "name": "Stad i ljus (feat. Oscar Zia)",
       "url": "https://open.spotify.com/track/1k5qjbZeQXh2BSkvnQs44q"
+    },
+    {
+      "album": {
+        "name": "STAD I LJUS (Dunk Edit)",
+        "url": "https://open.spotify.com/album/5JWgI8DwzvcRc7WVcwTuwp"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "Kattastrof",
+          "url": "https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109310,
+      "name": "STAD I LJUS - Dunk Edit",
+      "url": "https://open.spotify.com/track/5IhdyQn8q7cYPWcDh0rVqy"
     },
     {
       "album": {
@@ -23504,6 +23670,36 @@
       "duration_ms": 158225,
       "name": "Vad h\u00e4nde ig\u00e5r?",
       "url": "https://open.spotify.com/track/7gtYaxoIaxJDNfops51TUo"
+    },
+    {
+      "album": {
+        "name": "Vad h\u00e4nder",
+        "url": "https://open.spotify.com/album/59yim80yYwSAThwSWXcytO"
+      },
+      "artists": [
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Mike Emilio",
+          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        },
+        {
+          "name": "Drittsekk",
+          "url": "https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Vad h\u00e4nder",
+      "url": "https://open.spotify.com/track/4IfaE8xNI5pBXg1tovOujM"
     },
     {
       "album": {

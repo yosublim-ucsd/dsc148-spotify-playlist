@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is AC/DC. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This is AC/DC. The essential tracks, all in one playlist.",
   "name": "This Is AC/DC",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 251373,
       "name": "Can I Sit Next to You Girl",
       "url": "https://open.spotify.com/track/75uv44LGpyL0DhyLli3aXh"
@@ -1118,6 +1118,24 @@
       "duration_ms": 333800,
       "name": "Whole Lotta Rosie",
       "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Wild Reputation",
+      "url": "https://open.spotify.com/track/1ZyQEn0iceHj0Lbt6I6Op3"
     },
     {
       "album": {

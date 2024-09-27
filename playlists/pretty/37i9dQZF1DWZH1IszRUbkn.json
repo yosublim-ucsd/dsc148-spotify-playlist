@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 872,
+  "num_followers": 875,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,42 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Mercedes Lambre",
+          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
+        },
+        {
+          "name": "Lodovica Comello",
+          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
+        },
+        {
+          "name": "Candelaria Molfese",
+          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
+        },
+        {
+          "name": "Facundo Gamband\u00e9",
+          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
+        },
+        {
+          "name": "Jorge Blanco",
+          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
+        },
+        {
+          "name": "Nick Garnier",
+          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
+        },
+        {
+          "name": "Rodrigo Velilla",
+          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
         }
       ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
+      "duration_ms": 177346,
+      "name": "Juntos Somos Mas",
+      "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -735,6 +759,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 50651,
+      "name": "Osos de Paseo",
+      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Un Mundo De Canciones",
         "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
@@ -751,58 +791,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
       "artists": [
         {
-          "name": "Mercedes Lambre",
-          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
-        },
-        {
-          "name": "Lodovica Comello",
-          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
-        },
-        {
-          "name": "Candelaria Molfese",
-          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
-        },
-        {
-          "name": "Facundo Gamband\u00e9",
-          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
-        },
-        {
-          "name": "Jorge Blanco",
-          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
-        },
-        {
-          "name": "Nick Garnier",
-          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
-        },
-        {
-          "name": "Rodrigo Velilla",
-          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
         }
       ],
-      "duration_ms": 177346,
-      "name": "Juntos Somos Mas",
-      "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "La fiesta de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 97044,
-      "name": "Cocinar",
-      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "\u00a1Fantastico!",
-        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
+        "name": "Vacaciones tope guay",
+        "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
       },
       "artists": [
         {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Los Numeros",
-      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
+      "duration_ms": 209253,
+      "name": "Vacaciones tope guay",
+      "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -871,18 +871,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones tope guay",
-        "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
         }
       ],
-      "duration_ms": 209253,
-      "name": "Vacaciones tope guay",
-      "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
+      "duration_ms": 122680,
+      "name": "Manos Divertidas",
+      "url": "https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 72489,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
+      "duration_ms": 97044,
+      "name": "Cocinar",
+      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -935,18 +935,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
       },
       "artists": [
         {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+          "name": "Daniela",
+          "url": "https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82"
+        },
+        {
+          "name": "Los Pollitos",
+          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
         }
       ],
-      "duration_ms": 122680,
-      "name": "Manos Divertidas",
-      "url": "https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC"
+      "duration_ms": 181840,
+      "name": "Susanita",
+      "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

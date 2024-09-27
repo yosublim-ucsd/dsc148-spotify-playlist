@@ -2,9 +2,9 @@
 
 ### [Hardstyle Adrenaline! 2024](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Updated weekly \| Hardstyle \| Cover: The Purge
+> Updated weekly \| Hardstyle \| Cover: Brennan Heart
 
-1,104 songs - 2 day 11 hr 28 min
+1,106 songs - 2 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Best You Had](https://open.spotify.com/track/2amhiUtf9coX3HMV3Fo8gf) | [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Best You Had](https://open.spotify.com/album/6SOmgsXsxNAbT9eqjBGNT1) | 3:31 | 2024-01-18 | 2024-02-02 |
 | [Better](https://open.spotify.com/track/0tD9D9fWYvELiWwmQSFlRy) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Better](https://open.spotify.com/album/6RRHmdUHYC0dL6Z15WbXgg) | 3:29 | 2023-10-12 | 2024-01-12 |
 | [Better As Friends \- Serzo & Zombic Remix / Open Beatz Anthem 2023](https://open.spotify.com/track/5J2r10Tdr53qJxyffBNSOQ) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [HOURS](https://open.spotify.com/artist/3mSK6i2fFglCG4ZspL0GnQ), [Gigo'n'Migo](https://open.spotify.com/artist/2JHMPs8tw6MXokIWec65LG), [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Better As Friends \(Serzo & Zombic Remix / Open Beatz Anthem 2023\)](https://open.spotify.com/album/1kjlPT8ZivrbNKhKu2N5kQ) | 2:43 | 2023-08-17 | 2023-09-16 |
+| [Better Day](https://open.spotify.com/track/6L4JBOh5qgAwFMnOI14eI2) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Save Euphoric](https://open.spotify.com/album/2tJLDFvKYcQbvRzQmvh0NW) | 3:47 | 2024-09-26 |  |
 | [Better Days](https://open.spotify.com/track/1SUnipJp9KrH96akpJJy39) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Better Days](https://open.spotify.com/album/4Bm0Ks7xotQtRymSCHM8SO) | 3:32 | 2023-06-18 | 2023-06-26 |
 | [Better Now](https://open.spotify.com/track/7gq0vpnkvKExckP2NsEksd) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Better Now](https://open.spotify.com/album/4uIkOoNWJ5g4s8opsDXMKN) | 3:03 | 2024-01-18 | 2024-03-08 |
 | [BEUK D’R IN](https://open.spotify.com/track/6cmEnw1xI9c4bmsm43fsKk) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [BEUK D’R IN](https://open.spotify.com/album/2qZv9BX5KsakUEFgRGGSiT) | 2:45 | 2023-10-12 | 2024-02-16 |
@@ -269,6 +270,7 @@
 | [elevate our mind](https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [elevate our mind](https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo) | 3:16 | 2024-05-24 | 2024-06-21 |
 | [Elysium](https://open.spotify.com/track/6nyagZS2y0Q60bhFvCFsar) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [Elysium](https://open.spotify.com/album/2GOzAZNCu2LWGJgDaUQmpb) | 2:43 | 2023-04-13 | 2023-07-28 |
 | [Embrace The Chaos](https://open.spotify.com/track/3ktFfyBRmVpSpYnYgCtaSL) | [Digital Mindz](https://open.spotify.com/artist/6BPReCUBYOimAPOqJqQXLW) | [Embrace The Chaos](https://open.spotify.com/album/3qZ6KyQPUDpu03sOz3TQ4s) | 3:17 | 2024-06-07 | 2024-07-27 |
+| [Embrace The Dark](https://open.spotify.com/track/4DIfkWuuB3dUgjs5s8Q6YD) | [Ghost Stories](https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Embrace The Dark](https://open.spotify.com/album/0mCCdl2Kf0MMhx6cK8hTjn) | 3:36 | 2024-09-26 |  |
 | [Embrace Your Sins \- Official Ravechurch 2023 Anthem](https://open.spotify.com/track/2H5Ailem5pejRvutkaoRT5) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [MC Synergy](https://open.spotify.com/artist/1FLdd3d0lSuFCmD2RSC2pH) | [Embrace Your Sins \(Official Ravechurch 2023 Anthem\)](https://open.spotify.com/album/3b20QtBNxzyouBUToq2VlT) | 4:10 | 2023-08-31 | 2023-12-02 |
 | [Enchanté \- Tungevaag Remix](https://open.spotify.com/track/2g2ImCRTlsi6SsQiIuZWpO) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Enchanté \(Tungevaag Remix\)](https://open.spotify.com/album/1tR2Tfbf1MfbnAqYyMleoA) | 2:56 | 2022-12-08 | 2023-02-24 |
 | [End Of Time](https://open.spotify.com/track/0Zae2NHJb4SqqqnaFyFkmP) | [Break of Dawn](https://open.spotify.com/artist/6BcNg67AxzaaVnin8tqG6d), [Mark Eva](https://open.spotify.com/artist/4WdmBpeOI8EKByo2X3R9IO) | [End Of Time](https://open.spotify.com/album/56x9tz0pCNH3YjFUMuhp7P) | 3:24 | 2023-11-02 | 2024-03-23 |

@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/1z8DHPkC5NsjelOzhc8waY"
+      },
+      "artists": [
+        {
+          "name": "La Condena De Ca\u00edn",
+          "url": "https://open.spotify.com/artist/1OMNBOBGMShIpnkFZRFVnU"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170032,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/2QQhgCsxNMDKw6lUqzZJo5"
+    },
+    {
+      "album": {
         "name": "Radio Insomnio",
         "url": "https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 245024,
       "name": "El Favor",
       "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"

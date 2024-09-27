@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW?si=4ijqsDRgTdCb8WO1xgpkWw">Halo Yagami</a>
 
-596 songs - 1 day 18 hr 40 min
+597 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Uthando](https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Uthando](https://open.spotify.com/album/0zcnTVjwUga3vpjrCGB0ei) | 4:10 | 2022-09-01 | 2022-09-10 |
 | [Uthando Aluboni](https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ) | [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc), [Charlotte Lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP) | [Uthando Aluboni](https://open.spotify.com/album/1GYtvOSYmQ2nUcWRg0zzsH) | 4:53 | 2023-07-14 | 2023-10-30 |
 | [Uthando Lunye](https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uthando Lunye](https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr) | 4:13 | 2023-04-27 | 2023-08-18 |
+| [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/40RlEnkG5w3RmLrFBZlZ2b) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 | 2024-09-26 |  |
 | [Uwena](https://open.spotify.com/track/4jMGsxKzQkCweqvkodJlPA) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn), [Claudio](https://open.spotify.com/artist/1WwJrA5E5rKNpTWCSlzRWC) | [Uwena](https://open.spotify.com/album/5IbTxyepjq9s9P6Pdc3NRG) | 4:22 | 2024-07-25 | 2024-08-30 |
 | [Uyadlala](https://open.spotify.com/track/3s35eJ95LxZV70WRqHxnHk) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Fezisa](https://open.spotify.com/album/4gSrxkjuXCt0nBtHhDN4uI) | 3:35 | 2022-10-13 | 2022-10-21 |
 | [Uyajola](https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA) | [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Uyajola](https://open.spotify.com/album/3Wga1LdphDEovcP1O499PH) | 3:12 | 2022-02-10 | 2022-07-01 |
@@ -594,7 +595,7 @@
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
 | [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 | 2024-01-11 | 2024-07-12 |
 | [You Complete Me](https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [You Complete Me](https://open.spotify.com/album/59uox6bthXBgB0sXHMuDSw) | 2:26 | 2024-03-28 | 2024-05-24 |
-| [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 |  |
+| [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 | 2024-09-27 |
 | [You're Special \- Ralf Gum Radio Edit](https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [You're Special](https://open.spotify.com/album/1GUG1uN3ohEAJqL1H9VYE5) | 3:25 | 2023-06-22 | 2023-07-21 |
 | [Your Figure](https://open.spotify.com/track/1Cjs5h9o9cE81TSzF8E2EX) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu), [Leo B](https://open.spotify.com/artist/2q8GwVCQ8APjhA0tbwFPay), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Your Figure](https://open.spotify.com/album/0p8Zz7jxyH5tx8GK5wiagJ) | 3:12 | 2023-07-07 | 2023-08-25 |
 | [Zalabantu](https://open.spotify.com/track/3FCn8KMTSUkcxG7WGiu49r) | [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Zalabantu](https://open.spotify.com/album/7c1cpXqDVvvqdRHeefOiLH) | 4:00 | 2022-11-17 | 2022-12-02 |

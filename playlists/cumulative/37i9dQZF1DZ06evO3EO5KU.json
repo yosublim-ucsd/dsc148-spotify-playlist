@@ -1532,6 +1532,24 @@
     {
       "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/4KlUAwn0cVf09M33LKUu1q"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
       },
       "artists": [
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 195125,
       "name": "Seg\u00fan Tus Labios",
       "url": "https://open.spotify.com/track/5LMCPoGrzsNudgLId7LCum"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg?si=Qx3KtNzhRbmTS3S3en4wlw\">Lee McKrazy</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY?si=ulA3Bl9ZTJCO2232z1lDfw\">CeekaRSA</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -664,6 +664,48 @@
       "duration_ms": 380368,
       "name": "Abanye Abantwana",
       "url": "https://open.spotify.com/track/2fMkKYUP9g8Lafn7p8ruvA"
+    },
+    {
+      "album": {
+        "name": "Abo Mie Sista",
+        "url": "https://open.spotify.com/album/0FTJSGqqcda40PlCQkgj6s"
+      },
+      "artists": [
+        {
+          "name": "Amu Classic",
+          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
+        },
+        {
+          "name": "Kappie",
+          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
+        },
+        {
+          "name": "Djy Vino",
+          "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "DJ Sicky",
+          "url": "https://open.spotify.com/artist/7tUGaH6Ba1CczzxvQfVXD1"
+        },
+        {
+          "name": "Hevdmxster",
+          "url": "https://open.spotify.com/artist/35ZmRc7ZGUINXyArDXKo3m"
+        },
+        {
+          "name": "Slavvy_k",
+          "url": "https://open.spotify.com/artist/4VchWQLtzNNxkb66opNnrg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414789,
+      "name": "Abo Mie Sista",
+      "url": "https://open.spotify.com/track/0eSZtWHMMduSMijpCOYoPf"
     },
     {
       "album": {
@@ -4626,7 +4668,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 429026,
       "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
       "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
@@ -19289,6 +19331,40 @@
     },
     {
       "album": {
+        "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
+        "url": "https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl"
+      },
+      "artists": [
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "DJ Exit",
+          "url": "https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339928,
+      "name": "Molo (feat. LeeMcKrazy, Matute Boy & DJ Exit)",
+      "url": "https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8"
+    },
+    {
+      "album": {
         "name": "Molweni",
         "url": "https://open.spotify.com/album/6ABnDx6AoyKPJDqj2vWxaz"
       },
@@ -23188,7 +23264,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 408014,
       "name": "Pholisa",
       "url": "https://open.spotify.com/track/2nYDr6EASJj7UcjiEmlvj0"
@@ -25079,6 +25155,40 @@
     },
     {
       "album": {
+        "name": "Shawara (feat. Exclusive Baddies & Sly)",
+        "url": "https://open.spotify.com/album/6LheuBb3UxPfyQyt3y7j9L"
+      },
+      "artists": [
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Tsitso",
+          "url": "https://open.spotify.com/artist/4MZhnfnkOfPS0orwLqyP2L"
+        },
+        {
+          "name": "Exclusive Baddies",
+          "url": "https://open.spotify.com/artist/1JjD4bRpOPspuwhYrg7GfU"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307964,
+      "name": "Shawara (feat. Exclusive Baddies & Sly)",
+      "url": "https://open.spotify.com/track/4ObkC5ynTjoqdNvBYnUjso"
+    },
+    {
+      "album": {
         "name": "Piano Land V3 - 4 Radio",
         "url": "https://open.spotify.com/album/3h6VuMjvHH71OwP7ZtEcls"
       },
@@ -25750,6 +25860,40 @@
       "duration_ms": 418532,
       "name": "Sing My Son (Cula)",
       "url": "https://open.spotify.com/track/6Jrk953d3ekyds0pGkK3aW"
+    },
+    {
+      "album": {
+        "name": "Sis Brenda (feat. Madumane & Xduppy)",
+        "url": "https://open.spotify.com/album/7pXwiqpEDrkkm8382dWIPo"
+      },
+      "artists": [
+        {
+          "name": "SjavasDaDeejay",
+          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422148,
+      "name": "Sis Brenda (feat. Madumane & Xduppy)",
+      "url": "https://open.spotify.com/track/3t5IFwdmnpAb1KeytqRz7W"
     },
     {
       "album": {
@@ -27114,7 +27258,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 312901,
       "name": "Stayela (feat. Mr JazziQ & Officixl RSA)",
       "url": "https://open.spotify.com/track/7vcQ2FkECVAv6IGEcPlT1I"
@@ -31166,7 +31310,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 379321,
       "name": "Umfula (feat. Tiiger & Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/353IW0VdnShrBHv2YUyBL1"
@@ -32356,7 +32500,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 280868,
       "name": "uThukela (feat. Harry Cane & Eemoh)",
       "url": "https://open.spotify.com/track/1IvL0gAbxxgBd6E7BCJHg1"
@@ -34896,6 +35040,32 @@
       "duration_ms": 424817,
       "name": "Zanzibar (feat. Msaki, Kabza De Small & Da Muziqal Chef)",
       "url": "https://open.spotify.com/track/5aaLWQQEJmknVRAzMwHcWj"
+    },
+    {
+      "album": {
+        "name": "Zase England",
+        "url": "https://open.spotify.com/album/0OHfuUetiYcNdGQTMPl3NQ"
+      },
+      "artists": [
+        {
+          "name": "Blacko SA",
+          "url": "https://open.spotify.com/artist/1apU1xLioEcDVmYQmmbXD8"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369815,
+      "name": "Zase England",
+      "url": "https://open.spotify.com/track/7of6lpTmDwVshVQ7kcQxYo"
     },
     {
       "album": {

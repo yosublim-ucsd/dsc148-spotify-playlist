@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Cover: Brunori Sas",
+  "description": "Ceneri e Chiello sulla cover della playlist con il meglio dell\u2019indie italiano! ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150000,
       "name": "Colleghi borghesi",
       "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
@@ -629,6 +629,32 @@
     },
     {
       "album": {
+        "name": "Ghiaccio (feat. chiello)",
+        "url": "https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "B-CROMA",
+          "url": "https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215969,
+      "name": "Ghiaccio (feat. chiello)",
+      "url": "https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL"
       },
@@ -767,6 +793,24 @@
     },
     {
       "album": {
+        "name": "La Citt\u00e0 Addosso",
+        "url": "https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206006,
+      "name": "La Citt\u00e0 Addosso",
+      "url": "https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo"
+    },
+    {
+      "album": {
         "name": "La ghigliottina",
         "url": "https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at"
       },
@@ -782,6 +826,24 @@
       "duration_ms": 222750,
       "name": "La ghigliottina",
       "url": "https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp"
+    },
+    {
+      "album": {
+        "name": "LA SIGNORA DEI BACI",
+        "url": "https://open.spotify.com/album/4jzO6ZLB4nIFxpFz4iVRSk"
+      },
+      "artists": [
+        {
+          "name": "SAMUEL COSTA",
+          "url": "https://open.spotify.com/artist/1DE8FISOdzyiTkQuYahig2"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82914,
+      "name": "LA SIGNORA DEI BACI",
+      "url": "https://open.spotify.com/track/2bL4gstmJxmxWQw0MRUUrs"
     },
     {
       "album": {
@@ -1187,6 +1249,42 @@
     },
     {
       "album": {
+        "name": "Passo dopo Passo",
+        "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Passo dopo Passo",
+      "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
+    },
+    {
+      "album": {
+        "name": "Pastafrolla",
+        "url": "https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Pastafrolla",
+      "url": "https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4"
+    },
+    {
+      "album": {
         "name": "ROCCASECCA",
         "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
@@ -1216,7 +1314,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 185562,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh"
@@ -1274,7 +1372,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 192846,
       "name": "Piramidi",
       "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
@@ -1336,6 +1434,28 @@
       "duration_ms": 309447,
       "name": "Quasi a casa",
       "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
+    },
+    {
+      "album": {
+        "name": "Rey Mysterio",
+        "url": "https://open.spotify.com/album/2QxPncmtj8rwUvT28k5KEo"
+      },
+      "artists": [
+        {
+          "name": "Lil Busso",
+          "url": "https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051"
+        },
+        {
+          "name": "PAOLO SANTO",
+          "url": "https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Rey Mysterio",
+      "url": "https://open.spotify.com/track/0jFXK09KbehR0Ycc09fgWU"
     },
     {
       "album": {
@@ -1688,6 +1808,24 @@
       "duration_ms": 211783,
       "name": "Tutto Qui",
       "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
+    },
+    {
+      "album": {
+        "name": "Tuttoscorre",
+        "url": "https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Tuttoscorre",
+      "url": "https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA"
     },
     {
       "album": {

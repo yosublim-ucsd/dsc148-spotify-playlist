@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 11880,
+  "num_followers": 11882,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAAB15fsd9vAHOff0aaSBzXte",
+  "snapshot_id": "ZvNSgAAAAAD8rf+TgzT0KT69ouSWCfYq",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 339440,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
+      "duration_ms": 226146,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
       "artists": [
         {
@@ -764,25 +764,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 226146,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
+      "duration_ms": 339440,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0pmi8Y9gF1QHtuEwQfuzsp"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 313106,
       "name": "Words of Life",
       "url": "https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 284320,
-      "name": "Just Like Somebody Else",
-      "url": "https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP"
+      "duration_ms": 179466,
+      "name": "What I Was Made For",
+      "url": "https://open.spotify.com/track/2zM8D2BY8MjK7DJqjN139T"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

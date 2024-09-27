@@ -24810,7 +24810,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 144000,
       "name": "The Library",
       "url": "https://open.spotify.com/track/6qLniilItIKCDvfjLK6AfC"
@@ -27772,6 +27772,24 @@
       "duration_ms": 116194,
       "name": "yeppurs",
       "url": "https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL"
+    },
+    {
+      "album": {
+        "name": "yessir",
+        "url": "https://open.spotify.com/album/7veQs0lvhiRabih5eXsSp7"
+      },
+      "artists": [
+        {
+          "name": "hoodeeny",
+          "url": "https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132757,
+      "name": "yessir",
+      "url": "https://open.spotify.com/track/11NYe41SBy23zohFN71kWG"
     },
     {
       "album": {

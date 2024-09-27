@@ -5309,6 +5309,24 @@
     },
     {
       "album": {
+        "name": "Candlelight Reflection",
+        "url": "https://open.spotify.com/album/5a3yHjPYp20crxN6i8lU06"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60241,
+      "name": "Candlelight Reflection",
+      "url": "https://open.spotify.com/track/50YDbitAZS6VVCbWo6jJaR"
+    },
+    {
+      "album": {
         "name": "Healing Times",
         "url": "https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7"
       },

@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Joven Predicador",
+        "url": "https://open.spotify.com/album/0ofAxBLpYuJwGGjSAbsgpn"
+      },
+      "artists": [
+        {
+          "name": "Somos la Herencia",
+          "url": "https://open.spotify.com/artist/1mWijI1eIZb1xywhwB1qeX"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Cenar de Pie",
+      "url": "https://open.spotify.com/track/64PaZIsuNZpvjJcezzwbJY"
+    },
+    {
+      "album": {
         "name": "Cierra la puerta",
         "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
       },
@@ -453,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Confundido",
+        "url": "https://open.spotify.com/album/48hmKpJfY7oDXr0xsAQkpd"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o Xanad\u00fa",
+          "url": "https://open.spotify.com/artist/0EEtOnJrRGSEFHKAGJ7wPn"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127804,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/2bLVe53Ko7B7HoNxAES9Wh"
+    },
+    {
+      "album": {
         "name": "Cortes",
         "url": "https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv"
       },
@@ -486,7 +522,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 139791,
       "name": "Cruz Invertida ft. Rojuu",
       "url": "https://open.spotify.com/track/4MzZhicdTzuhnY9fSDhMeL"
@@ -576,7 +612,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155250,
       "name": "Demasiada Mujer",
       "url": "https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7"
@@ -1219,6 +1255,42 @@
     },
     {
       "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+    },
+    {
+      "album": {
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+    },
+    {
+      "album": {
         "name": "La matanza de Texas",
         "url": "https://open.spotify.com/album/1HOwpCbsknfSwH6ZBFM6WR"
       },
@@ -1502,6 +1574,24 @@
       "duration_ms": 181638,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
+    },
+    {
+      "album": {
+        "name": "Matanza En El Hotel",
+        "url": "https://open.spotify.com/album/1YF13pp5PJhnCklk32Ycb7"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Matanza En El Hotel",
+      "url": "https://open.spotify.com/track/5KEZKJjqy5ZTnjgXlUyrAl"
     },
     {
       "album": {
@@ -2325,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Romance Extremo",
+        "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144179,
+      "name": "Romance Extremo",
+      "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
+    },
+    {
+      "album": {
         "name": "Rosquilla de canela",
         "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
       },
@@ -2538,7 +2646,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
@@ -2556,7 +2664,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 177149,
       "name": "SUMMER NOSTALGIA",
       "url": "https://open.spotify.com/track/1MlLMl7vrGvoR7LOHdqdv0"
@@ -2646,7 +2754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 270137,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
@@ -2852,7 +2960,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211623,
       "name": "Un viento de amnesia",
       "url": "https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd"

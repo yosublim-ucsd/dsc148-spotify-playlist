@@ -4,7 +4,7 @@
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-172 songs - 8 hr 20 min
+173 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [So Far So Great \- Theme Song to Sonny with a Chance](https://open.spotify.com/track/6bggFlWw1UcfiYepg8B3KH) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again](https://open.spotify.com/album/01yg4gm9pFOJbwQKj46ZYK) | 2:14 | 2024-05-22 |  |
 | [Somebody](https://open.spotify.com/track/0KXvGydCYbBgHUlqrDbz3N) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:28 | 2024-05-22 |  |
 | [Someday](https://open.spotify.com/track/2d1AiZExnhYoauaSWkB1Fm) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:03 | 2024-05-22 |  |
+| [Someone to Love](https://open.spotify.com/track/72qoGgyiAXxCNUoUN5nJMF) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Someone to Love](https://open.spotify.com/album/7eZrFLQtsndLhNxVxRPeMY) | 2:49 | 2024-09-26 |  |
 | [Something About the Sunshine](https://open.spotify.com/track/0Jcnr8HUGQdaOiSkqpdEKX) | [Anna Margaret](https://open.spotify.com/artist/5ywxtrr3mhjBezbQAsGiFW), [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK) | [StarStruck](https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx) | 3:06 | 2024-05-22 |  |
 | [Space Between](https://open.spotify.com/track/3N1V03yrqyNPo5A4Fu2Wd7) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:26 | 2024-05-22 |  |
 | [Stand](https://open.spotify.com/track/1CF5oUdUrWSGddOr1PBoqs) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Trevor Tordjman](https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:43 | 2024-05-22 |  |

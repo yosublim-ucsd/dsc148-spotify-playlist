@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-714 songs - 1 day 9 hr 48 min
+715 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Lúcido](https://open.spotify.com/track/7bXXiyO5hF7wpFDIyxxtxX) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Lúcido](https://open.spotify.com/album/2Kkfd3zaKndUr6SjN41mi5) | 2:37 | 2023-02-17 | 2023-09-02 |
 | [Madrugada](https://open.spotify.com/track/23xzRN6CzXK9kLavPuyda4) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Madrugada](https://open.spotify.com/album/2n1GrnF6o6VRgnGh6VuOqu) | 3:08 | 2023-03-03 | 2023-07-01 |
 | [Mafioso](https://open.spotify.com/track/22XOIijyGcMvNoJ3a2lTH5) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Yuri Primo](https://open.spotify.com/artist/0h05nT9ApNry2PENabj4sl), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [Mafioso](https://open.spotify.com/album/1OCG0tloxa1bQpJaKV7Pi2) | 2:45 | 2024-07-19 |  |
+| [Mais Brabo que Vovô](https://open.spotify.com/track/283UhiQEQGVg9Q7Hv2tI5F) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d) | [Mais Brabo que Vovô](https://open.spotify.com/album/2ohYYWJ4FOXiQ2HvPELS9I) | 3:48 | 2024-09-27 |  |
 | [Mais Uma Noite](https://open.spotify.com/track/3yMUlCIgKMeIJD7x1OoL5B) | [Feezi](https://open.spotify.com/artist/5HHSYz57p3QybcKI4R1JQ2), [Kinn no Beat](https://open.spotify.com/artist/5VIm0axHffBeCmjS1ng14B) | [Mais Uma Noite](https://open.spotify.com/album/0dGS3pP8WH9cOICwj008cT) | 1:47 | 2023-09-15 | 2023-11-11 |
 | [Malokeragem 2](https://open.spotify.com/track/0AnmjiG5ulFJom8Y8RBpf3) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 4:48 | 2023-12-15 | 2024-08-10 |
 | [Maloqueiro Chique](https://open.spotify.com/track/2ha9jcZa86JGKa0wDkKD5o) | [Nonatto Mc](https://open.spotify.com/artist/64cd3mGH1pkbQRAPLCnbds), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Maloqueiro Chique](https://open.spotify.com/album/2weV2FJUSQDN36NqdxPFKD) | 2:59 | 2024-03-22 | 2024-04-06 |

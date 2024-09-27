@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,729 likes - 78 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,730 likes - 78 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 19 | [Przy Tobie to...](https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:44 |
 | 20 | [Nic nie widać po mnie](https://open.spotify.com/track/4G1uPf5JXf7Hw2O9K77AUF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 1:57 |
 | 21 | [SILVERMAN](https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [BABYGIRL](https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q) | 2:39 |
-| 22 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 |
+| 22 | [What do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [What do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 |
 | 23 | [s k o c z w s z u w a r y](https://open.spotify.com/track/3apAH6ywhMzKvCTgvbGsQJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [s k o c z w s z u w a r y](https://open.spotify.com/album/6GhyEb20ArqlWDu2jvP5bm) | 2:52 |
 | 24 | [Lawa](https://open.spotify.com/track/5ISbU3pNa6EHXGSj7qek7g) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Arek Kopera](https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt) | [Czas się bać! \(Akt I\)](https://open.spotify.com/album/1fZkcFSuwDEe8cTjwkvLqT) | 3:06 |
 | 25 | [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 |

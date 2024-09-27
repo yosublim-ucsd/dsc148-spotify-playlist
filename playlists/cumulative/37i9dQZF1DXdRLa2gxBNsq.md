@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-188 songs - 9 hr 49 min
+190 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 | 2023-12-08 | 2024-08-17 |
 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 | 2024-02-08 | 2024-05-10 |
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 | 2024-04-19 |
+| [Cien Colores](https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik) | [La Inquisición](https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ) | [Cien Colores](https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L) | 2:50 | 2024-09-26 |  |
 | [Contra el Mar](https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz) | [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Contra el Mar](https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK) | 3:19 | 2024-07-12 | 2024-07-30 |
 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 | 2024-04-18 |  |
 | [Corazón ardiendo](https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corazón ardiendo](https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97) | 3:01 | 2024-06-20 |  |
@@ -55,7 +56,7 @@
 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 | 2023-12-08 |  |
 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 | 2024-05-09 | 2024-08-17 |
 | [Drogadicción](https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Drogadicción](https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq) | 2:16 | 2024-06-20 |  |
-| [El Caso del Hombre Serio y Formal](https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [El Caso del Hombre Serio y Formal](https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq) | 3:10 | 2024-08-29 |  |
+| [El Caso del Hombre Serio y Formal](https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [El Caso del Hombre Serio y Formal](https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq) | 3:10 | 2024-08-29 | 2024-09-27 |
 | [El Dolor](https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [El Dolor](https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM) | 4:00 | 2024-07-12 | 2024-08-17 |
 | [El Espiritu del Oi!](https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [N.S.A\. La Santa Familia](https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF) | 5:13 | 2023-12-08 |  |
 | [El Futuro No Espera \(Versión 2024\)](https://open.spotify.com/track/5yUkQEHXeihHaEqwc5nkOY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [El Futuro No Espera \(Versión 2024\)](https://open.spotify.com/album/15v8wPgDNyMPspiG5P9Xhk) | 4:22 | 2024-06-20 | 2024-07-13 |
@@ -112,11 +113,12 @@
 | [La Locura](https://open.spotify.com/track/53jDA8Iv4igfu0mPm75Rmf) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace Falta...?](https://open.spotify.com/album/36inCQFaYW4STvviECaxUR) | 3:53 | 2023-12-08 | 2024-04-19 |
 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 | 2024-04-18 |  |
 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 | 2023-12-08 |  |
-| [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 | 2024-06-20 |  |
+| [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 | 2024-06-20 | 2024-09-27 |
 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 | 2023-12-08 | 2024-04-19 |
 | [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 | 2024-05-09 |  |
 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 | 2023-12-08 |  |
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
+| [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 | 2024-09-26 |  |
 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 |  |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
 | [Mañanitas Tristes](https://open.spotify.com/track/2mqNssH1HbTbZZ3tlUxUq2) | [Belcro](https://open.spotify.com/artist/4tmbWd3f0koaAlvyWhCHih) | [Mañanitas Tristes](https://open.spotify.com/album/2oSYLsiA8RivZIifOF0PSe) | 1:53 | 2024-07-12 | 2024-07-30 |

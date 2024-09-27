@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Marie\-Flore
+> Le meilleur de la chanson française actuelle\. Photo : Zaho de Sagazan
 
-71 songs - 3 hr 58 min
+75 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,12 @@
 | [Insolation](https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Insolation](https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp) | 2:54 | 2024-06-27 |  |
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 | 2024-09-20 |
 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 | 2024-06-27 |  |
-| [Jardin d'hiver](https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Jardin d'hiver](https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR) | 2:58 | 2024-06-27 |  |
+| [Jardin d'hiver](https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Jardin d'hiver](https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR) | 2:58 | 2024-06-27 | 2024-09-27 |
 | [Je dis merci](https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2) | [Barbagallo](https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz) | [Garde\-fou](https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD) | 3:36 | 2024-08-22 |  |
 | [Je n'oublierai pas](https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR) | [Pierre Grizzli](https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3) | [Je n'oublierai pas](https://open.spotify.com/album/0gON1xyluuxSY9alXQtxGm) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Je suis là](https://open.spotify.com/track/6O8BhlrvuHPJnGqUnolQN7) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Je suis là](https://open.spotify.com/album/70prraH3gvosWj2dIRhWgR) | 4:17 | 2024-09-05 |  |
 | [Je voudrais tomber amoureux](https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Je voudrais tomber amoureux](https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0) | 4:43 | 2024-07-25 |  |
+| [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \- Nouvelle édition](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 | 2024-09-26 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 |  |
 | [La route de Vénus](https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La route de Vénus](https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7) | 3:10 | 2024-06-27 |  |
@@ -48,10 +49,12 @@
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 |  |
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
-| [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 |  |
+| [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 |  |
+| [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 |  |
 | [Ma mère](https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma mère](https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
+| [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 |  |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 |  |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 |  |
 | [N'importe quoi](https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [N'importe quoi](https://open.spotify.com/album/6wl99feAZHWDAHZkgQMnnw) | 2:56 | 2024-06-27 | 2024-07-19 |
@@ -59,10 +62,10 @@
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-06-27 |  |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 |  |
-| [Prologue](https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Prologue](https://open.spotify.com/album/6aV27BzyHxEBrh4uDIQkQm) | 3:34 | 2024-06-27 |  |
+| [Prologue](https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Prologue](https://open.spotify.com/album/6aV27BzyHxEBrh4uDIQkQm) | 3:34 | 2024-06-27 | 2024-09-27 |
 | [Quelques centimes](https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Quelques centimes](https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg) | 3:57 | 2024-09-19 |  |
 | [Quitter la ville](https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Quitter la ville](https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms) | 4:05 | 2024-06-27 | 2024-07-27 |
-| [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-27 |  |
+| [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-27 | 2024-09-27 |
 | [Rien à voir](https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP), [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Rien à voir](https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA) | 3:03 | 2024-06-27 |  |
 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 | 2024-09-19 |  |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 |  |
@@ -73,11 +76,12 @@
 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-27 |  |
 | [Seul](https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Seul](https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r) | 3:01 | 2024-06-27 |  |
 | [Sous mon bob](https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Sous mon bob](https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ) | 2:42 | 2024-06-27 |  |
-| [Souveraines](https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:13 | 2024-06-27 |  |
+| [Souveraines](https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:13 | 2024-06-27 | 2024-09-27 |
 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 | 2024-06-27 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 |  |
 | [Tu parles trop](https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Rêver](https://open.spotify.com/album/5I3TWGhKoXOMmHodyMH2YV) | 2:49 | 2024-06-27 |  |
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 |  |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 |  |
+| [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-09-26 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

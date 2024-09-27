@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:  張蔓姿 Gigi Cheung
+> 感受超級女聲力量。Cover: 陳明憙 Jocelyn Chan
 
-373 songs - 22 hr 22 min
+378 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Topic Killa](https://open.spotify.com/track/1qQLgV33JgUeQmiUAqVTSr) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [Topic Killa](https://open.spotify.com/album/1F3qeB3z7DGp0N99YX0y5M) | 2:58 | 2024-06-27 |  |
 | [TXT OR CALL](https://open.spotify.com/track/2KTPd1X17SzSJbyjfJW0Sx) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [TXT OR CALL](https://open.spotify.com/album/4WztQlLQZA7tBAyAaSVvRT) | 3:06 | 2024-06-27 |  |
 | [Vanish Mode](https://open.spotify.com/track/0cfUsP81Dh0lERwoxpP5pp) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Vanish Mode](https://open.spotify.com/album/4swc89sddgQGk4i07ihKpy) | 3:10 | 2024-06-27 |  |
+| [What am I looking for](https://open.spotify.com/track/6ecNEsORgS6X2mGm1K8uJI) | [YOONA 張運兒](https://open.spotify.com/artist/1sXZBdqrqdbSbuCmGjcUlE) | [What am I looking for](https://open.spotify.com/album/01qizqxGyyn3fZ2AuOYuCC) | 3:22 | 2024-09-26 |  |
 | [What You Get](https://open.spotify.com/track/44PGzR19q2lueHkZGar6mm) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [What You Get](https://open.spotify.com/album/2VRaFTFydFnj6K1MPFezFd) | 4:08 | 2024-06-27 |  |
 | [Why You](https://open.spotify.com/track/6I5pK5EWlBChGfU3irrc0O) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 3:35 | 2024-06-27 |  |
 | [XOXO](https://open.spotify.com/track/0lPDGagRD1jCoRDVElX002) | [鍾舒祺](https://open.spotify.com/artist/7D3ifs7oGF0VJ3o8axspUu) | [XOXO](https://open.spotify.com/album/2aMutS8BUTZDJoUcI858DX) | 3:34 | 2024-06-27 |  |
@@ -171,6 +172,7 @@
 | [公主抱](https://open.spotify.com/track/1x2wm1D5mqJ50xjCwnJTeU) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [公主抱](https://open.spotify.com/album/0txui9bU12kPbv0q43EKxO) | 3:10 | 2024-06-27 |  |
 | [公審法院](https://open.spotify.com/track/6ckM8jlHCubm0ad3DOz8hS) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG), [Chloe Wong 黃筠兒](https://open.spotify.com/artist/2JLMtU26DC66HgEAq6TQY8), [Kilby Chan 超酸](https://open.spotify.com/artist/7MqXSsZ53ZvfcplaVcP43C) | [公審法院](https://open.spotify.com/album/66j7GnlvlEecqqpAKFHmny) | 3:38 | 2024-08-15 |  |
 | [六度相隔理論](https://open.spotify.com/track/5xPanuB9wjmTaZslFji92G) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [六度相隔理論](https://open.spotify.com/album/3wxU6Q9INasmx6GYVpZ8Lv) | 3:55 | 2024-06-27 |  |
+| [其實你是我這人物的監製](https://open.spotify.com/track/5n5nazOFuKDzHtEVrWJ7iG) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [其實你是我這人物的監製](https://open.spotify.com/album/2FxbO9j3v7V6kxJmSakRLy) | 4:21 | 2024-09-26 |  |
 | [再見有時](https://open.spotify.com/track/4u5nTCAJFJQMfLRpvHOObF) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [再見有時](https://open.spotify.com/album/7kp4JhNciF6fVBUXF3Wh3b) | 3:56 | 2024-06-27 |  |
 | [分手100天](https://open.spotify.com/track/1Gff3RIM10I4eVgKQ8tfGa) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [分手100天](https://open.spotify.com/album/65lSGYexBOmExNTUaPwEBX) | 4:02 | 2024-06-27 |  |
 | [分手後的自癒療程](https://open.spotify.com/track/5migr53jftKZm6eAyBTjqi) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [分手後的自癒療程](https://open.spotify.com/album/0AcylKZ5eG2mu4Ca3CIT27) | 4:20 | 2024-06-27 |  |
@@ -247,6 +249,7 @@
 | [慢性分手](https://open.spotify.com/track/3CR0lzI5XzJXy942UeaGv9) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [慢性分手](https://open.spotify.com/album/2uvuD4evHsHgkYWOOkCedL) | 4:21 | 2024-06-27 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2024-06-27 |  |
 | [成婚破浪](https://open.spotify.com/track/0MqmRAV1rtLLuyAw25n9rQ) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [成婚破浪](https://open.spotify.com/album/26K8cWCjru0ulNGmnV7jIV) | 4:03 | 2024-06-27 |  |
+| [成長的證據 \- 劇集《玫瑰的故事》主題曲](https://open.spotify.com/track/2ixEwN2sRU9MLvnFzAFc67) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [成長的證據 \(劇集《玫瑰的故事》主題曲\)](https://open.spotify.com/album/4nk6MpUz4CQ7pkEvuv9Bzk) | 4:12 | 2024-09-26 |  |
 | [我一個人怎麼都不算孤獨](https://open.spotify.com/track/5Bbc9OauTpGmf69Eez9Ni3) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [我一個人怎麼都不算孤獨](https://open.spotify.com/album/5UlIL6mMsMHTeRJiBDCtda) | 3:45 | 2024-06-27 |  |
 | [我不回去](https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我不回去](https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k) | 4:07 | 2024-06-27 |  |
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 |  |
@@ -297,6 +300,7 @@
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-06-27 |  |
+| [比赤裸更赤裸](https://open.spotify.com/track/5zRjOfsVdMw3enQKULyYhU) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [比赤裸更赤裸](https://open.spotify.com/album/1YwUfzM65ngow33fMnQAwq) | 4:24 | 2024-09-26 |  |
 | [水性．揚花](https://open.spotify.com/track/2xOJevEW5XGSdqNe3A9jGg) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [水性揚花](https://open.spotify.com/album/6elCEI3I5Iuwia6E80wcFU) | 4:08 | 2024-06-27 |  |
 | [沉沒成本](https://open.spotify.com/track/6h4Ms3RFZZiVNf64n1Oh79) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/59TofyRHvflzaS9JW2pDjD) | 4:07 | 2024-06-27 |  |
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-06-27 |  |
@@ -314,6 +318,7 @@
 | [無窮盡](https://open.spotify.com/track/70wJlV40JiB5eqWbxxqRvE) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [無窮盡](https://open.spotify.com/album/7ymagvuqyzfVFbaqIksYao) | 3:35 | 2024-06-27 |  |
 | [無能 為力](https://open.spotify.com/track/33GjUsP4FAkk8sHcHJiN2e) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無能 為力](https://open.spotify.com/album/5xfczPThgUv5RpvPZwhGzD) | 3:13 | 2024-06-27 |  |
 | [焦慮型依戀](https://open.spotify.com/track/1P3Tlw0AgrMSW3LlIjidxd) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [焦慮型依戀](https://open.spotify.com/album/0fUtOlileN8mI2HKZqHAZN) | 3:37 | 2024-06-27 |  |
+| [煙草](https://open.spotify.com/track/0BKtrm5b1wvbDDs5IumsJs) | [譚杏藍](https://open.spotify.com/artist/7bpjzYP4ylb6iAHOWOJTmO) | [煙草](https://open.spotify.com/album/45rCoEI3PQE6SgMgaTados) | 4:20 | 2024-09-26 |  |
 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 | 2024-06-27 |  |
 | [現在](https://open.spotify.com/track/4CTVrNDMw4XSHOcJfrJEAA) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [現在](https://open.spotify.com/album/0YNkXpH1oD9NE2aWKyKzrX) | 3:48 | 2024-06-27 |  |
 | [甜蜜在十點五十九分前](https://open.spotify.com/track/3cbv2A9wr4n5100gxnHmUO) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [甜蜜在十點五十九分前](https://open.spotify.com/album/17Qb9AM8uSoKcvIWyOffGb) | 2:29 | 2024-06-27 |  |

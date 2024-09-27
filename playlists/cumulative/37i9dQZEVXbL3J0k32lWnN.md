@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,695 songs - 3 day 16 hr 1 min
+1,696 songs - 3 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 | 2023-04-26 |
 | [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/2c94vIXsZfItT8dQqxpmv3) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Allerhelst Vil Vi Elskes](https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP) | 2:50 | 2024-04-13 | 2024-09-07 |
 | [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Føles Godt](https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX) | 2:50 | 2023-04-21 | 2024-04-14 |
-| [Først & Fremmest](https://open.spotify.com/track/12stdvIkmElRYsdsNwhiEi) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:51 | 2024-09-21 |  |
+| [Først & Fremmest](https://open.spotify.com/track/12stdvIkmElRYsdsNwhiEi) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:51 | 2024-09-21 | 2024-09-27 |
 | [Første Dag](https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Første Dag](https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo) | 3:13 | 2023-10-27 | 2024-08-30 |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
 | [Gangen](https://open.spotify.com/track/1b4EXBzooRSOuQFGJaZOe8) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Hvis Du Tør At Drømme](https://open.spotify.com/album/5Hra4hU5wEPdkGhrG6dfKO) | 3:13 | 2024-02-10 | 2024-02-12 |
@@ -648,6 +648,7 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 | 2023-04-20 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-03-04 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-05 |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [Hej](https://open.spotify.com/track/4hfF0F3yN5imcuVStGXO44) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hej](https://open.spotify.com/album/7Fu7xonyElEJCRc8RyVs5S) | 2:15 | 2024-07-27 | 2024-09-26 |
 | [Hele Dagen](https://open.spotify.com/track/6V4uTyQqs8tq21qbMUYrWA) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 2:57 | 2023-05-13 | 2023-06-11 |
 | [Hele Danmark Op At Stå \(feat\. Herrelandsholdet\) \- VM\-sang 2018](https://open.spotify.com/track/0DdYhNAQsDuzWplOzoDUm5) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Hele Danmark Op At Stå \(feat\. Herrelandsholdet\) \[VM\-sang 2018\]](https://open.spotify.com/album/5cqjRl59U8cV6pWyMJ0i5T) | 3:10 | 2021-06-14 | 2021-07-10 |

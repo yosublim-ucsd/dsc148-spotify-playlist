@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: IN2STELLAR",
+  "description": "A new world of alternative electronic music. \nCover: CC:Disco",
   "name": "Portal",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 240326,
       "name": "1987",
       "url": "https://open.spotify.com/track/6iPOnUOwnKGMdhj1zxj6of"
@@ -4507,6 +4507,28 @@
     },
     {
       "album": {
+        "name": "Face Melter",
+        "url": "https://open.spotify.com/album/1WsmEpjFVCMT3Fc49ZCKyL"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257928,
+      "name": "Face Melter",
+      "url": "https://open.spotify.com/track/2IL6jnAhMa6VaTKX5QIJmG"
+    },
+    {
+      "album": {
         "name": "Fades",
         "url": "https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT"
       },
@@ -5485,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/5FuZ6Tuk0OsSclr2SfWmG3"
+      },
+      "artists": [
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301739,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/5AH1XUFsf1wMgbzY3u9OKp"
+    },
+    {
+      "album": {
         "name": "Spawm",
         "url": "https://open.spotify.com/album/3VLlSRW1L9TKxMcFkLekBz"
       },
@@ -5572,7 +5612,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 171428,
       "name": "Got Me",
       "url": "https://open.spotify.com/track/3WlzgbIe3JbTxs1gWa7Ybv"
@@ -6498,7 +6538,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 115541,
       "name": "I Like This One - Domba Remix",
       "url": "https://open.spotify.com/track/3pAtfCDEER2v32knzID7DI"
@@ -7998,7 +8038,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 387123,
       "name": "Love Divide - Bubble Love Remix",
       "url": "https://open.spotify.com/track/77xrEjHvl3b8MEiUU5aMSn"
@@ -8851,6 +8891,46 @@
     },
     {
       "album": {
+        "name": "My Forever (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/1xvKZrXhgF6s4frK5Qb6r5"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244839,
+      "name": "My Forever (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/3yWtcvy5j3kbWW2TnI4jie"
+    },
+    {
+      "album": {
+        "name": "Natural Selections",
+        "url": "https://open.spotify.com/album/4ExREa2kscTfW72WQSWHmn"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280347,
+      "name": "My Selecta",
+      "url": "https://open.spotify.com/track/16jQDWYUCyzqH2ZUxC44o5"
+    },
+    {
+      "album": {
         "name": "Get Back To Me",
         "url": "https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW"
       },
@@ -8989,6 +9069,28 @@
     },
     {
       "album": {
+        "name": "Neptunes",
+        "url": "https://open.spotify.com/album/6yBhQtwTwB9WNpBOvbjRiP"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330580,
+      "name": "Neptunes",
+      "url": "https://open.spotify.com/track/2Xrbukz6tXgmSS0K7l7kYV"
+    },
+    {
+      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/5zhtSm1uVoHLOpP6W24RGj"
       },
@@ -9004,6 +9106,24 @@
       "duration_ms": 556800,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/2L3qV9xndXXYfIxUB0OJT4"
+    },
+    {
+      "album": {
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/5ZMJtkHcPv2NUNxyjQLfCb"
+      },
+      "artists": [
+        {
+          "name": "Oots",
+          "url": "https://open.spotify.com/artist/3JO3KocIZryOFTLKFmRV8X"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271654,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/3DmD9XNSsQQpG3BIC4Ozbg"
     },
     {
       "album": {
@@ -9170,7 +9290,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
@@ -9326,6 +9446,24 @@
       "duration_ms": 318827,
       "name": "okay o.k. ok",
       "url": "https://open.spotify.com/track/0Jt2ewAbUBWbpWqD2TfRN2"
+    },
+    {
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "album": {
@@ -10250,7 +10388,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 188444,
       "name": "Pyrophobia",
       "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
@@ -10366,6 +10504,24 @@
       "duration_ms": 294432,
       "name": "Rave I Didn't Know Was The Last",
       "url": "https://open.spotify.com/track/1ONlGaH3zEgoU9UU7GGTs1"
+    },
+    {
+      "album": {
+        "name": "Raving Lunatic",
+        "url": "https://open.spotify.com/album/1dvcNt0BDVL9nDDWSzTFxR"
+      },
+      "artists": [
+        {
+          "name": "Furious Frank",
+          "url": "https://open.spotify.com/artist/00MTkgmKzIAaseVdO9L5KV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376346,
+      "name": "Raving Lunatic",
+      "url": "https://open.spotify.com/track/6BKdI34pLES1vjKmX9qpww"
     },
     {
       "album": {
@@ -10756,6 +10912,32 @@
       "duration_ms": 333134,
       "name": "Rosso Profondo",
       "url": "https://open.spotify.com/track/6M9VBE2zlGQa3cT6VNzgeB"
+    },
+    {
+      "album": {
+        "name": "Rudeboy",
+        "url": "https://open.spotify.com/album/0DSnEF4eTc6EMFxYNFUTLC"
+      },
+      "artists": [
+        {
+          "name": "FOURA",
+          "url": "https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4"
+        },
+        {
+          "name": "Subten",
+          "url": "https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n"
+        },
+        {
+          "name": "GHS",
+          "url": "https://open.spotify.com/artist/3UerwmTjoGDNu0wTivMAdh"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "Rudeboy",
+      "url": "https://open.spotify.com/track/4gdPgAnnoElI6vyB28IrPn"
     },
     {
       "album": {
@@ -12086,6 +12268,24 @@
       "duration_ms": 126311,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/5VVAxypWN32ntmotudWks2"
+    },
+    {
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
     },
     {
       "album": {
@@ -14390,6 +14590,24 @@
       "duration_ms": 369640,
       "name": "Yep",
       "url": "https://open.spotify.com/track/6jjETvirTF2hSHTaIFfP4l"
+    },
+    {
+      "album": {
+        "name": "Yes Papi (Miami Daddy Theme)",
+        "url": "https://open.spotify.com/album/5po05oJjCPxBE4QLqXT2nG"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303083,
+      "name": "Yes Papi (Miami Daddy Theme)",
+      "url": "https://open.spotify.com/track/1nmfRCIRphcnPEnYfhXmNs"
     },
     {
       "album": {

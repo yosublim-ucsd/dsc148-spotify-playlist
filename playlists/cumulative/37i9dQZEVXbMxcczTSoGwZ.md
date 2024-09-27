@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,177 songs - 4 day 19 hr 40 min
+2,178 songs - 4 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Heaven \(feat\. Fabe\)](https://open.spotify.com/track/7xI0ofxULkeCPPOS83kskj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Paha Barbi](https://open.spotify.com/album/5ocAtVmcHBox3i2WoxoACL) | 3:10 | 2022-11-05 | 2022-11-13 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-03 |
 | [Heavy](https://open.spotify.com/track/1hNq0VwF1aVJbp4YqJKVm7) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Heavy](https://open.spotify.com/album/4OXISxSjwftsvWsEWpZuBW) | 3:24 | 2023-08-07 | 2023-09-03 |
+| [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [Hei mummo](https://open.spotify.com/track/1gWJ4zaBSkyICr7wTEygS9) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 3:18 | 2021-12-07 | 2023-12-30 |
 | [Hei rakas](https://open.spotify.com/track/2XaewhXngZd2Zi4ijFIkK0) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:31 | 2021-03-27\* | 2023-09-27 |
 | [Hei äijä](https://open.spotify.com/track/1XLmlUQFh2bZdhpxU1X2NL) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Hei äijä](https://open.spotify.com/album/4xhelDpR5zhABaXZVNWXfg) | 2:45 | 2023-09-09 | 2023-09-12 |
@@ -1835,7 +1836,7 @@
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-02-27 | 2023-07-16 |
 | [Tatuoitu](https://open.spotify.com/track/1xTPrhEKfbJaGGs2VIMDd3) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Tatuoitu](https://open.spotify.com/album/3rZrIwpoC5xMtm6XzUwov2) | 3:18 | 2021-08-22 | 2022-01-01 |
 | [Taulut \(feat\. Costi\)](https://open.spotify.com/track/150cifhtXjdhDdr07scSVG) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Taulut \(feat\. Costi\)](https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F) | 3:17 | 2023-09-09 | 2024-09-08 |
-| [Taulut \(feat\. Costi\)](https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Kehykset](https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR) | 3:17 | 2024-09-07 |  |
+| [Taulut \(feat\. Costi\)](https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Kehykset](https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR) | 3:17 | 2024-09-07 | 2024-09-27 |
 | [Taustapeili](https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Taustapeili](https://open.spotify.com/album/588S0BacJGFA4PIZvjWinP) | 3:03 | 2024-06-01 | 2024-08-11 |
 | [Tee tilaa \(feat\. Bizi\)](https://open.spotify.com/track/4fXhnO3anWToiLW3mykdnv) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Tee tilaa / Huonoi uutisii](https://open.spotify.com/album/497vlFHQbauKnZXCbqttud) | 2:27 | 2022-12-10 | 2022-12-21 |
 | [Teeskennellään](https://open.spotify.com/track/1Q1S0iW0vVwRdHrHi7wa94) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Teeskennellään](https://open.spotify.com/album/6d6x8MLbN9cD2LcyahdX2d) | 2:55 | 2023-01-21 | 2023-02-26 |

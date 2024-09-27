@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151640,
+      "name": "Pedro Antrax",
+      "url": "https://open.spotify.com/track/3tnNw3TIZGjaj4vyAUUytO"
+    },
+    {
+      "album": {
+        "name": "Fiesta En El Cielo Vol 1",
         "url": "https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU"
       },
       "artists": [
@@ -628,7 +646,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151640,
       "name": "Pedro Antrax",
       "url": "https://open.spotify.com/track/63AK5B4lVesCPOpoHTJXOe"

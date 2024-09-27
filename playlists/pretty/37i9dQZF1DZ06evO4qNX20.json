@@ -1,12 +1,12 @@
 {
-  "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 310121,
+  "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
+  "num_followers": 310189,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAADV947r7y3fSIJpb1oj1bWx",
+  "snapshot_id": "ZvNSgAAAAABAMdkf1O7FhkqnNmzAZzx4",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 270535,
-      "name": "Prajedes F\u00e9lix",
-      "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
+      "duration_ms": 279486,
+      "name": "Eladio F\u00e9lix",
+      "url": "https://open.spotify.com/track/4a2GA2x6dwdI8jy2YaWZ3j"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 279486,
-      "name": "Eladio F\u00e9lix",
-      "url": "https://open.spotify.com/track/4a2GA2x6dwdI8jy2YaWZ3j"
+      "duration_ms": 270535,
+      "name": "Prajedes F\u00e9lix",
+      "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
     },
     {
       "added_at": null,

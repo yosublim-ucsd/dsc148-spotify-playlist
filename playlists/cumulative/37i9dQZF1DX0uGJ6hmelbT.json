@@ -609,6 +609,44 @@
     },
     {
       "album": {
+        "name": "La Iguana Y El Perezoso Los Nuevos Canticuentos",
+        "url": "https://open.spotify.com/album/6PMCGvQT99iZIHKGnDx68O"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        },
+        {
+          "name": "Distrito Especial",
+          "url": "https://open.spotify.com/artist/2nV0WCZHU0dQpzRersbuo7"
+        },
+        {
+          "name": "Antonia Gordillo",
+          "url": "https://open.spotify.com/artist/7hJkbhMXSJWwHDTty456Hy"
+        },
+        {
+          "name": "Coro De R\u00edogrande",
+          "url": "https://open.spotify.com/artist/2bw5NcOaV5CDY2R2Hh8iHA"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170058,
+      "name": "La Iguana Y El Perezoso - Los Nuevos Canticuentos",
+      "url": "https://open.spotify.com/track/0q5sPEgIOKXkwnncAb14UH"
+    },
+    {
+      "album": {
         "name": "La Iguanita",
         "url": "https://open.spotify.com/album/1N5AwdX9GSUiY0kirFAN3h"
       },
@@ -1116,7 +1154,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 134729,
       "name": "Ruge",
       "url": "https://open.spotify.com/track/4wsbghfTyK45ZbrnYSIJCG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Samura\u00ef",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: shego",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -2014,6 +2014,24 @@
       "duration_ms": 197052,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
+    },
+    {
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
     },
     {
       "album": {

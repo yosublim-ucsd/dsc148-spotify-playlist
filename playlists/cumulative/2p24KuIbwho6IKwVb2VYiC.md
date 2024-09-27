@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Chris Lake &amp; Disclosure
 
-234 songs - 12 hr 19 min
+235 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,8 +117,9 @@
 | [It's Saturday](https://open.spotify.com/track/7yQ7aCZgciyCJprT8sp4og) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83), [Dj Youcef](https://open.spotify.com/artist/7dhDLHILqhHlgn0hPn8rOZ), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [It's Saturday](https://open.spotify.com/album/461Qyoq9JX5Qkpm7NT228I) | 3:44 | 2024-04-29 |  |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-10-27 | 2024-05-13 |
 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 | 2024-09-24 |  |
+| [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-26 |  |
 | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/album/4B2oAJbm46T1XOnHqzLSY4) | 3:05 | 2023-11-24 |  |
-| [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 2:51 | 2023-10-27 |  |
+| [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 2:51 | 2023-10-27 | 2024-09-27 |
 | [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 | 2023-10-27 |  |
 | [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 | 2024-07-06 |  |
 | [Light Up](https://open.spotify.com/track/6oNKYD0W4Kz5VUdQr0VA3L) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [PEAK](https://open.spotify.com/artist/5aZS5mYElPO6PvcIotNGfq), [Revay](https://open.spotify.com/artist/0qe0hilrHveQQyTOf6v9E7) | [Light Up](https://open.spotify.com/album/1J8nT1LbpVlEn1QketnLhg) | 2:04 | 2024-09-20 |  |

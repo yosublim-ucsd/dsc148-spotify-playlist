@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Gibbs, Opa\u0142",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1140,6 +1140,32 @@
       "duration_ms": 139288,
       "name": "BIG BIG GIRL",
       "url": "https://open.spotify.com/track/05AMRlm1cjHSKGPkDdTsw2"
+    },
+    {
+      "album": {
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/2UOHwmfjtMrgrElYoXUHZH"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/5fkn4kMTS1k0NeUxl1ucZq"
     },
     {
       "album": {
@@ -2508,7 +2534,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180000,
       "name": "Deszcz Pieni\u0119dzy",
       "url": "https://open.spotify.com/track/1qzlyUhA8eGdgK0JoFrEaY"
@@ -2588,7 +2614,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 226588,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/5AHdB0g8EGyHsgz8ExWaGS"
@@ -2754,7 +2780,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 175071,
       "name": "Dzikie Psy",
       "url": "https://open.spotify.com/track/5AV5G7Huo5Fy780NmDCKrR"
@@ -4807,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "love song sad",
+        "url": "https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "love song sad",
+      "url": "https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp"
+    },
+    {
+      "album": {
         "name": "LOWS\u0104 (TikTok Version)",
         "url": "https://open.spotify.com/album/2byJXWgL1wA6JUuj4RFHcC"
       },
@@ -4882,6 +4926,40 @@
       "duration_ms": 162833,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
+    },
+    {
+      "album": {
+        "name": "LUSTRO",
+        "url": "https://open.spotify.com/album/2TU3F8wxrwVvAGRj8G3q5w"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        },
+        {
+          "name": "Newlight$",
+          "url": "https://open.spotify.com/artist/27pJHguCyUUPoR9YzNx6I1"
+        },
+        {
+          "name": "Le\u015bny",
+          "url": "https://open.spotify.com/artist/2MRSNbEPY2YKzkgDag5fzg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186574,
+      "name": "LUSTRO",
+      "url": "https://open.spotify.com/track/3QMFcynCngiSlDy519PSmT"
     },
     {
       "album": {
@@ -6291,6 +6369,32 @@
     },
     {
       "album": {
+        "name": "NIE GADAM Z NIKIM DZISIAJ",
+        "url": "https://open.spotify.com/album/3kwE8T0wgn1VtOtKDYKmHT"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Duszyn",
+          "url": "https://open.spotify.com/artist/3bIbtISPrty7XmHAzJiylQ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "NIE GADAM Z NIKIM DZISIAJ",
+      "url": "https://open.spotify.com/track/2JUKqemt4PUdgQQHdeRZks"
+    },
+    {
+      "album": {
         "name": "nie jestem romantyczny",
         "url": "https://open.spotify.com/album/0YOOJVUTl08owfwGLe7lHQ"
       },
@@ -7376,7 +7480,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180117,
       "name": "PINIATA",
       "url": "https://open.spotify.com/track/7roRtHirffvOkaZ2YbOTa7"

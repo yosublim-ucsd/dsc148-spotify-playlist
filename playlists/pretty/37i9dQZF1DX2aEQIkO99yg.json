@@ -1,13 +1,29 @@
 {
   "description": "El 29 de Septiembre celebramos a la reina. #DiaDeShakira",
-  "num_followers": 192601,
+  "num_followers": 192686,
   "original_name": "D\u00eda de Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zux2pwAAAAD1oeZ9WBhfpS31Hg5CsjOF",
+  "snapshot_id": "ZvXy+gAAAADg831o/LKWqR9PNVngFExv",
   "tracks": [
+    {
+      "added_at": "2024-09-26 23:49:14",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
     {
       "added_at": "2024-09-19 19:08:23",
       "album": {
@@ -735,22 +751,6 @@
       "duration_ms": 183693,
       "name": "Loca (feat. El Cata)",
       "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
-    },
-    {
-      "added_at": "2024-09-19 19:08:23",
-      "album": {
-        "name": "El Amor En Los Tiempos del Colera (Love In The Time Of Cholera)",
-        "url": "https://open.spotify.com/album/601GnL577wk53WSOyeh1de"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "Hay Amores",
-      "url": "https://open.spotify.com/track/28YADFbCauCA7ethhvCFwW"
     },
     {
       "added_at": "2024-09-19 19:08:23",

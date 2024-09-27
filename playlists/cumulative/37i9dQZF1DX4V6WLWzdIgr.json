@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Sugeng Dalu",
+        "url": "https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542863,
+      "name": "Sugeng Dalu",
+      "url": "https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc"
+    },
+    {
+      "album": {
         "name": "Tak Ikhlasno",
         "url": "https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT"
       },

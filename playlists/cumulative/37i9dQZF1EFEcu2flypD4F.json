@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3c de Titani (Titanium)",
+        "url": "https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0"
+      },
+      "artists": [
+        {
+          "name": "Edurne",
+          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "S\u00f3c de Titani - Titanium",
+      "url": "https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a"
+    },
+    {
+      "album": {
         "name": "Tears Fall",
         "url": "https://open.spotify.com/album/0Vb2554uYYq0vMABjZPWY6"
       },

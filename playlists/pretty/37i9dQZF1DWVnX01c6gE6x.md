@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Podcasters México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Buzón de Quejas</a>
+> Creadores que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Buzón de Quejas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,927 likes - 10 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,928 likes - 10 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 9 | [Capítulo 25: Policías](https://open.spotify.com/episode/6LCNTrvFPVUGDGuSXPNKFr) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:17:50 |
 | 10 | [23\. L’Oréal: la polémica historia de la mujer más rica del mundo](https://open.spotify.com/episode/0nMQmRIzqGr1DkgfWIMOEY) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:00:13 |
 
-Snapshot ID: `ZtdRvwAAAABFJNxtAo9QerxJzSfZtSxr`
+Snapshot ID: `ZvXCuQAAAABupJxAvPITDhebSmOAzQCB`

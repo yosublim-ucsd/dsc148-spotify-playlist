@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: HWASA (\ud654\uc0ac)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: HYO (\b\ud6a8\uc5f0)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 210817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
@@ -6267,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "Retro Romance",
+        "url": "https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Retro Romance",
+      "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"
+    },
+    {
+      "album": {
         "name": "RISE UP (English & Korean ver.)",
         "url": "https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8"
       },
@@ -7114,7 +7132,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"

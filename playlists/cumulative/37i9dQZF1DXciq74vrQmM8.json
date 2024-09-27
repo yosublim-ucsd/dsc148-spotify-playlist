@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Cody Frost",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Mimi Barks",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "A Monster",
+        "url": "https://open.spotify.com/album/2QTSXFxSSzrFSjFcC3gojS"
+      },
+      "artists": [
+        {
+          "name": "Crae Wolf",
+          "url": "https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "A Monster",
+      "url": "https://open.spotify.com/track/4j7gECl8irlbn7SESj0dre"
+    },
+    {
+      "album": {
         "name": "A Track In Orbit",
         "url": "https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 198549,
       "name": "ABOMINATION",
       "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151077,
       "name": "CARE LESS",
       "url": "https://open.spotify.com/track/6gesspbSZNLLCtLNI1dojX"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 132053,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 187234,
       "name": "crying",
       "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
@@ -4444,6 +4462,28 @@
       "duration_ms": 176833,
       "name": "dog days",
       "url": "https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1"
+    },
+    {
+      "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm"
+      },
+      "artists": [
+        {
+          "name": "Meryl Streek",
+          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
+        },
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE"
     },
     {
       "album": {
@@ -6709,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Good Liar",
+        "url": "https://open.spotify.com/album/16HBANpgUfU8grGu6zpNt4"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156489,
+      "name": "Good Liar",
+      "url": "https://open.spotify.com/track/5w6wKKvBIRlXehML8uga1O"
+    },
+    {
+      "album": {
         "name": "GOOD MOOD (feat. grandson)",
         "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
       },
@@ -8918,7 +8976,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
@@ -9142,6 +9200,24 @@
       "duration_ms": 188187,
       "name": "JUNKIE",
       "url": "https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J"
+    },
+    {
+      "album": {
+        "name": "Just A Number",
+        "url": "https://open.spotify.com/album/0LRP0OLbUgNtlrTTTy31HZ"
+      },
+      "artists": [
+        {
+          "name": "Raven Numan",
+          "url": "https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269825,
+      "name": "Just A Number",
+      "url": "https://open.spotify.com/track/3xc0mpwNvcp1rU2Y77Ff1T"
     },
     {
       "album": {
@@ -9920,7 +9996,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 251939,
       "name": "liMOusIne (feat. AURORA)",
       "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
@@ -11041,6 +11117,24 @@
     },
     {
       "album": {
+        "name": "THIS IS DOOM TRAP",
+        "url": "https://open.spotify.com/album/79x1f4d4wjnrUdiamMInqq"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139750,
+      "name": "MIRTAZAPINE",
+      "url": "https://open.spotify.com/track/76WeLoMGu8GYPBLijXVWht"
+    },
+    {
+      "album": {
         "name": "Misfit",
         "url": "https://open.spotify.com/album/67szcbtvGILfdqgbg6MpNc"
       },
@@ -11372,6 +11466,24 @@
       "duration_ms": 146762,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/2HYay9cjoX0v5mgOaQFufh"
+    },
+    {
+      "album": {
+        "name": "mr. mole",
+        "url": "https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "mr. mole",
+      "url": "https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ"
     },
     {
       "album": {
@@ -13291,6 +13403,28 @@
     },
     {
       "album": {
+        "name": "Quicker Than Death",
+        "url": "https://open.spotify.com/album/6wh2sEPVXd9JCRpZDXDpm7"
+      },
+      "artists": [
+        {
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
+        },
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Quicker Than Death",
+      "url": "https://open.spotify.com/track/07WabqSXNibyOSbvteeg70"
+    },
+    {
+      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4pj0upnE34RrH2kPicwPGS"
       },
@@ -14690,7 +14824,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 163282,
       "name": "snakelike (the stars collide)",
       "url": "https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU"
@@ -15590,7 +15724,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 138384,
       "name": "that b*tch don't even kno my name...",
       "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
@@ -16984,7 +17118,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 203007,
       "name": "VULTURES.",
       "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
@@ -17672,6 +17806,24 @@
       "duration_ms": 169262,
       "name": "Wokeup!",
       "url": "https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY"
+    },
+    {
+      "album": {
+        "name": "wolf",
+        "url": "https://open.spotify.com/album/7HV4qfyHfqgorREDvpF2tT"
+      },
+      "artists": [
+        {
+          "name": "Laurel Smith",
+          "url": "https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189904,
+      "name": "wolf",
+      "url": "https://open.spotify.com/track/2ZnNZzwNIMsQ8j8jdNKdgc"
     },
     {
       "album": {

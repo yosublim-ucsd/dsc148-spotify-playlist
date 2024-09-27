@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : Oscar Emch
+> 🍯🍯🍯\. Photo : Sonny Rave
 
-211 songs - 10 hr 25 min
+212 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [04:00](https://open.spotify.com/track/32LB7dP3aOmpNTESVZM0HP) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Abîmée](https://open.spotify.com/album/4gG8sBViv3SGYLSttTVCqd) | 1:38 | 2023-11-30 | 2024-01-26 |
 | [2 SANS TOI](https://open.spotify.com/track/0UxendkYDaSG6uMbfMn6y8) | [Othélie](https://open.spotify.com/artist/7e0NJkHuckuwmgxKi4aQ7S) | [2 SANS TOI](https://open.spotify.com/album/5yb1RF0iX0msFqQrV6mJvL) | 2:32 | 2024-04-04 | 2024-05-03 |
 | [21 questions](https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW) | [Zahra!](https://open.spotify.com/artist/3V2sID96mN3WFBcv7qu6gl) | [21 questions](https://open.spotify.com/album/7JREGYNPEKkXKHM2oBHCtb) | 3:10 | 2024-08-08 |  |
-| [A quoi on joue ?](https://open.spotify.com/track/1ypcBViKKuS0UjHphXw6JK) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [A quoi on joue ?](https://open.spotify.com/album/0hICOSl2tqgLqvR8p1fLeL) | 2:53 | 2024-08-29 |  |
+| [A quoi on joue ?](https://open.spotify.com/track/1ypcBViKKuS0UjHphXw6JK) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [A quoi on joue ?](https://open.spotify.com/album/0hICOSl2tqgLqvR8p1fLeL) | 2:53 | 2024-08-29 | 2024-09-27 |
 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 | 2023-09-28 | 2024-05-24 |
 | [ALL NIGHT](https://open.spotify.com/track/6XuGjia8QCdV8G4PCxZNMV) | [thaHomey](https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j), [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [ALL NIGHT](https://open.spotify.com/album/6AH5ng5DGy5bvEdIpohvyC) | 2:50 | 2024-09-19 |  |
 | [American Lover](https://open.spotify.com/track/5rPQtmG7DPQa3lRYAPc6B9) | [Aszul](https://open.spotify.com/artist/2IQSsvzilwzPzSDybnqAII) | [American Lover](https://open.spotify.com/album/3rmvnJO1F6ehtVPFoFTI6k) | 1:51 | 2024-02-08 | 2024-03-08 |
@@ -170,6 +170,7 @@
 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 | 2023-10-12 | 2023-12-08 |
 | [Rouge satin](https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Rouge satin](https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT) | 3:45 | 2024-02-22 | 2024-04-05 |
 | [RUN OUTRO](https://open.spotify.com/track/7hlxoJXexx3IgQUQI7HmH8) | [Cloé Mailly](https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG) | [8991](https://open.spotify.com/album/0aK1d3sxwKMDGD7PA3tm7u) | 3:31 | 2024-07-25 |  |
+| [Règles du Game](https://open.spotify.com/track/0mitC7wQ4uDagan8O6seV2) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Règles du Game](https://open.spotify.com/album/3eq1n37bzBnGEnkh4kBOQb) | 2:56 | 2024-09-26 |  |
 | [Sacrifices](https://open.spotify.com/track/1t2cHwdbx0lmmYsfdUS0MF) | [Walk in Paris](https://open.spotify.com/artist/7iogfxoFBRb7fwoxDIFJoG), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Sacrifices](https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l) | 3:13 | 2023-09-28 | 2023-11-17 |
 | [Saison](https://open.spotify.com/track/4zi8smCuFzqipfbyLczdnY) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj), [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 2:56 | 2023-09-28 | 2023-11-10 |
 | [Sans dire au revoir](https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Sans dire au revoir](https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS) | 3:43 | 2023-11-16 | 2023-12-30 |

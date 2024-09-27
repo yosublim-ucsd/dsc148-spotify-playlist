@@ -1,13 +1,45 @@
 {
   "description": "Future K-Pop hits! Cover: KANGDANIEL",
-  "num_followers": 814173,
+  "num_followers": 814185,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvEuEAAAAABc/dJBK/nrC9wZK3iw4GsL",
+  "snapshot_id": "ZvYa6AAAAAC7RRqxuIPkIBgvvYeIqIE9",
   "tracks": [
+    {
+      "added_at": "2024-09-26 13:01:07",
+      "album": {
+        "name": "Retro Romance",
+        "url": "https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "Retro Romance",
+      "url": "https://open.spotify.com/track/0V7Hp8ZnDlaYasJoNtcExF"
+    },
+    {
+      "added_at": "2024-09-27 02:39:36",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
     {
       "added_at": "2024-09-23 09:00:00",
       "album": {

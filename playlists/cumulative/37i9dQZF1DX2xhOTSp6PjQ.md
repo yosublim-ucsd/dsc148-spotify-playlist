@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=cNNTUa\_2SVyYFveCYBEF6Q">Phuzekhemisi</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV?si=PP8\-ehKbRIG\-k1KFiqccmg">Mshinwemali</a>
 
-207 songs - 16 hr 35 min
+208 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Msholozi](https://open.spotify.com/track/2IkkJ4hwWJ3mCMlsqIRX5W) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9) | 4:48 | 2018-11-04 | 2022-09-26 |
 | [Msholozi](https://open.spotify.com/track/7i9OftJwfxt4R20jDRnLqi) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:48 | 2018-11-04 | 2023-05-09 |
 | [My Dululu](https://open.spotify.com/track/2pdid5w8VxdgMmYlp7r17z) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi yazo](https://open.spotify.com/artist/4iKk928O7ApC51cf4q2mpO) | [My Dululu](https://open.spotify.com/album/6xIXv9IaFF5tPXwWCukLZ7) | 4:55 | 2024-09-20 |  |
+| [Ncono Siyeke](https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ncono Siyeke](https://open.spotify.com/album/5CYakL1xQm6XjQ8Zjb5p9T) | 4:59 | 2024-09-26 |  |
 | [NDIBUYEL'EMJOLWENI](https://open.spotify.com/track/3HBrBn7eORjfsNzTWqrU9n) | [Amabhinca Smonyo no Mhlengi](https://open.spotify.com/artist/3gZXfUHrXbFP06VZAtpJ5i) | [NDIBUYEL'EMJOLWENI](https://open.spotify.com/album/7yAtqUe2YOeVVkaLKz57cO) | 4:32 | 2023-01-30 |  |
 | [Ngafa](https://open.spotify.com/track/2lRGb3QNqaKX6I9OUI9zPi) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Greatest Moments Of](https://open.spotify.com/album/7j6pm8LrgP1BUfkc1UEu6H) | 6:00 | 2018-09-25 | 2022-07-29 |
 | [Ngafa](https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Greatest Moments Of](https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj) | 6:00 | 2018-09-25 | 2024-03-29 |
@@ -199,7 +200,7 @@
 | [Uyangithanda](https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:12 | 2023-06-15 | 2024-06-14 |
 | [UYINSIZWA KOBANI](https://open.spotify.com/track/6hFRRT8YKi9PaNfXH1H36E) | [AMA AK47](https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2) | [SILWA NEMPILO](https://open.spotify.com/album/3BrkIp0jI17rm6iFMz0lHL) | 11:59 | 2024-04-22 | 2024-07-13 |
 | [Uzotholani](https://open.spotify.com/track/0tt0nhI3rwCuybdJc5xdKE) | [Mpukane](https://open.spotify.com/artist/5JweUmj452OSBQBNuctVrR) | [Uzotholani](https://open.spotify.com/album/0cGrYXjvnwBVMBoTSikJlB) | 4:12 | 2018-09-25 | 2023-02-01 |
-| [Voicemail](https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Voicemail](https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS) | 4:38 | 2023-01-30 |  |
+| [Voicemail](https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Voicemail](https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS) | 4:38 | 2023-01-30 | 2024-09-27 |
 | [Wamuhle \(feat\. Shwi Nomtekhala\)](https://open.spotify.com/track/3Mn0yb2hJuU3AcH66apMei) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Emakhaya](https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU) | 3:59 | 2019-06-24 | 2023-02-01 |
 | [Wangenz' umuntu ebantwini](https://open.spotify.com/track/4r8jrUuyjYybyiUrLKNeDy) | [Mahostela 97](https://open.spotify.com/artist/1MSTGFMPxpZD05uY1EnD5w) | [Wangenz' umuntu ebantwini](https://open.spotify.com/album/14J3X3w8x3V8lDMscIweP1) | 5:06 | 2023-09-29 |  |
 | [Wangisiza Baba](https://open.spotify.com/track/5NS3OiNTauGUA5S3jsJHwL) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Greatest Moments Of](https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj) | 5:38 | 2018-09-25 | 2023-03-11 |

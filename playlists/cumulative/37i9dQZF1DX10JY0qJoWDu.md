@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-130 songs - 5 hr 57 min
+131 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Santa Baby](https://open.spotify.com/track/016NunpM8jiU0bjSvxi9yF) | [Miss Piggy](https://open.spotify.com/artist/0r1QrxNtH4pRKXyiCJwZUn) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:51 | 2021-12-03 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:52 | 2022-12-16 |  |
 | [Santa Claus is Comin' to Town](https://open.spotify.com/track/2AWqIjJYNlOHtU71tTaPAT) | [Love Händel](https://open.spotify.com/artist/1dDpevEQhtnOqfQce5TrEl) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 1:43 | 2021-12-03 | 2022-12-17 |
+| [Santa Claus Is Comin' To Town](https://open.spotify.com/track/1KP19oAWtADtOCZOEXzcj9) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [All Wrapped Up](https://open.spotify.com/album/0jms0aTwjtZggEoxXLz0Jz) | 2:27 | 2024-09-26 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5Uh79do7x63JsFZT75KGW1) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Donald Duck](https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:43 | 2021-12-03 |  |
 | [Santa Never Sleeps](https://open.spotify.com/track/3e4yzleWWrq00WsnRrxml0) | [Anthony Parnther](https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx) | [Diary of a Wimpy Kid Christmas: Cabin Fever \(Original Soundtrack\)](https://open.spotify.com/album/72NEYxSD50cLeJGy9XhaJt) | 2:40 | 2023-12-08 |  |
 | [Santa You're Alright](https://open.spotify.com/track/4ulvNL6uOQPAT4HwYpKDby) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Dashing Through the Snow \(Original Soundtrack\)](https://open.spotify.com/album/21yMUgO7F4MrEsEbDb7avs) | 2:49 | 2023-11-17 |  |

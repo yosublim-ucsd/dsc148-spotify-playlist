@@ -1,6 +1,6 @@
 {
   "description": "Co-curated with Dave for the Santan Cup 2024 \u26bd",
-  "num_followers": 984344,
+  "num_followers": 984326,
   "original_name": "Who We Be",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2024-09-25 17:00:00",
       "album": {
+        "name": "Quit While You're Ahead",
+        "url": "https://open.spotify.com/album/19cREfJobUHwoeB0dVKJvT"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "duration_ms": 177177,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/3Ob31WKYn5Dk0dN9wZJKVr"
+    },
+    {
+      "added_at": "2024-09-25 17:00:00",
+      "album": {
         "name": "YO",
         "url": "https://open.spotify.com/album/3r1nWyM1kvgkl6ePN58pzR"
       },
@@ -43,6 +59,22 @@
       "duration_ms": 152112,
       "name": "YO",
       "url": "https://open.spotify.com/track/3x6x1N8AXvmmlrTAlqAR83"
+    },
+    {
+      "added_at": "2024-09-25 17:00:00",
+      "album": {
+        "name": "Puppies",
+        "url": "https://open.spotify.com/album/4XIIDKqlE05ITdEDeT7F4q"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 161367,
+      "name": "Puppies",
+      "url": "https://open.spotify.com/track/3UNKXRqUOzfBIk6oXvs7YW"
     },
     {
       "added_at": "2024-09-25 17:00:00",
@@ -683,6 +715,22 @@
       "duration_ms": 172972,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/0vsFfDnswdjpK4MV4TLBFo"
+    },
+    {
+      "added_at": "2024-09-25 17:00:00",
+      "album": {
+        "name": "Flippin Chickens",
+        "url": "https://open.spotify.com/album/6rjIqhLEgy8jdKDhxgyQjt"
+      },
+      "artists": [
+        {
+          "name": "Aystar",
+          "url": "https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "Flippin Chickens",
+      "url": "https://open.spotify.com/track/09CPL6LwEBc7FjRong59D2"
     },
     {
       "added_at": "2024-09-25 17:00:00",

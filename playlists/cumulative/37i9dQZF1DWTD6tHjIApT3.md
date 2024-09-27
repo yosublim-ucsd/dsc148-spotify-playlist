@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: eill
 
-2,664 songs - 7 day 2 hr 57 min
+2,665 songs - 7 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [forgotten sun](https://open.spotify.com/track/5Pfl9hACV0IRLyptZ6Gvtx) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [forgotten sun](https://open.spotify.com/album/61EQYgQ6zz88eozjlsegGQ) | 4:11 | 2022-06-02 | 2022-07-14 |
 | [Fragile](https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Fragile](https://open.spotify.com/album/06rg3ryCKSOb090icMKs26) | 3:50 | 2023-10-17 | 2023-11-01 |
 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 | 2023-09-19 | 2023-09-27 |
-| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-03-19 |  |
+| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-03-19 | 2024-09-27 |
 | [Free Free Free](https://open.spotify.com/track/0cGlG9r39bvpKz9VU8IQao) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/7lmMXFuKXhwQQB8QDno8mc) | [Free Free Free](https://open.spotify.com/album/3tTuUhsbHbu5XAwkhz82Yc) | 4:14 | 2022-07-28 | 2022-09-02 |
 | [Free Free Free \- feat.幾田りら](https://open.spotify.com/track/1yoIBbCENxL0dSkkhy88iB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Free Free Free \(feat.幾田りら\)](https://open.spotify.com/album/7nKNFCbybw9WLy5P4wGm4w) | 4:14 | 2022-07-26 | 2022-07-29 |
 | [Free Your Mind](https://open.spotify.com/track/7on614rI7Zqe4xsDmWrz6P) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Free Your Mind](https://open.spotify.com/album/218pMuuW13GItlOyN25ZdT) | 3:51 | 2022-09-06 | 2022-09-15 |
@@ -590,6 +590,7 @@
 | [I think I like you](https://open.spotify.com/track/6BKXFIaRSatVeyqtaMmaJl) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [I think I like you](https://open.spotify.com/album/52PFimJPWcCvwn493rRgDv) | 4:05 | 2022-05-31 | 2022-07-13 |
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-01 | 2023-08-16 |
 | [I want to be loved like "Sakuranbo"](https://open.spotify.com/track/1wYhLZQ6UaYh287OmZjNEj) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [I want to be loved like "Sakuranbo"](https://open.spotify.com/album/2FtZL6TkQ0a51twIavqPMJ) | 3:29 | 2023-06-27 | 2023-07-05 |
+| [I want tomorrow to come](https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [I want tomorrow to come](https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ) | 4:13 | 2024-09-25 |  |
 | [I was a girl \(長屋晴子より\)](https://open.spotify.com/track/4x3FzV0yt5wgQOypc2TUm4) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 4:21 | 2023-09-12 | 2023-09-20 |
 | [I wish](https://open.spotify.com/track/7lhCMNcxl4cESmwsXQT5LK) | [Misako Uno](https://open.spotify.com/artist/7GZ4sfSqYerIzoy01IiBBI) | [I wish](https://open.spotify.com/album/4rkp4NwmGk3rD7RFEiQp1f) | 3:25 | 2024-02-13 | 2024-02-21 |
 | [I'll be](https://open.spotify.com/track/3hnmW0g0SkxYc1IvUnUebL) | [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 5:15 | 2023-10-24 | 2023-11-29 |

@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-188 songs - 12 hr 54 min
+189 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [80s Mercedes \(Live from SXSW 2016\)](https://open.spotify.com/track/6iYIdaolmbPVqKPxcspOIs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Spotify Sessions](https://open.spotify.com/album/4uQJWohk7ZtN5yCIbWqIYm) | 3:48 | 2021-07-22 | 2024-05-05 |
 | [A Boy Named Sue \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 4:22 | 2024-05-04 |  |
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 | 2024-04-19 |
+| [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7) | 3:57 | 2024-09-26 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 | 2024-05-05 |
 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 | 2021-07-22 |  |
 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 | 2023-11-10 | 2024-04-19 |
@@ -139,7 +140,7 @@
 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 | 2024-05-04 |  |
 | [Round Here \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Round Here \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/0D83bO5GmEHbFkmVVWPhYV) | 4:04 | 2022-08-26 | 2024-05-05 |
 | [RSVP \- Live](https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP \(Live\)](https://open.spotify.com/album/0pPmk9j6atfenNZO8ZTMwI) | 2:52 | 2022-12-02 | 2024-05-05 |
-| [Rum \- Live](https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 5:41 | 2021-07-22 |  |
+| [Rum \- Live](https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 5:41 | 2021-07-22 | 2024-09-27 |
 | [Save It for a Rainy Day \(with Old Dominion\) \- Live](https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:15 | 2021-07-22 |  |
 | [She Thinks My Tractor's Sexy \- Live](https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 6:02 | 2021-07-22 | 2024-05-05 |
 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 | 2024-05-04 |  |

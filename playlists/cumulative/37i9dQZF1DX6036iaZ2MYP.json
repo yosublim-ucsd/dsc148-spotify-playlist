@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Ya Levis",
+  "description": "Tracks popping off in the Afro scene. Cover: Oxlade",
   "name": "Afro Station",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
@@ -546,6 +546,24 @@
       "duration_ms": 393628,
       "name": "Are You",
       "url": "https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE"
+    },
+    {
+      "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
     },
     {
       "album": {
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 148292,
       "name": "D.S.L (feat. Merveille)",
       "url": "https://open.spotify.com/track/6ZJ1i1Jjb4AmmW8BHHzgft"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
@@ -3033,6 +3051,28 @@
     },
     {
       "album": {
+        "name": "SUMMER",
+        "url": "https://open.spotify.com/album/651oHJ0RhcjPfJQY1hjsz8"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        },
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143934,
+      "name": "Elles demandent",
+      "url": "https://open.spotify.com/track/3V2IuZQ2ZVvsrsrUVjhHDb"
+    },
+    {
+      "album": {
         "name": "En tas",
         "url": "https://open.spotify.com/album/4kH0PIZSyDbUC4Iyj5ZcoT"
       },
@@ -3352,7 +3392,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 189946,
       "name": "Faut Laisser",
       "url": "https://open.spotify.com/track/68KFMTkExnHFRodyHqnOEv"
@@ -3656,7 +3696,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 140242,
       "name": "Foutaise",
       "url": "https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59"
@@ -3853,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Ghetto (Pain Music 2)",
+        "url": "https://open.spotify.com/album/6kO5hdmhyytPYE2woYk3qT"
+      },
+      "artists": [
+        {
+          "name": "Megaski",
+          "url": "https://open.spotify.com/artist/4YWaklpWrE7GOkmXuMKI6i"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187485,
+      "name": "Ghetto (Pain Music 2)",
+      "url": "https://open.spotify.com/track/0wGkQV89pQwr3FrJeUQZoA"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/03V7PgLCjOMQ9RwiFyzb3u"
       },
@@ -3926,7 +3984,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150927,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
@@ -3988,6 +4046,24 @@
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
+        "name": "Guyane",
+        "url": "https://open.spotify.com/album/4CiKFYs06ltHEWoPKefa5w"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118938,
+      "name": "Guyane",
+      "url": "https://open.spotify.com/track/1VcPh4XVRiJoeqZ1B0Il8p"
     },
     {
       "album": {
@@ -4358,6 +4434,24 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "album": {
+        "name": "IN MY BED",
+        "url": "https://open.spotify.com/album/3FgnEyop6crJ7ZJ4n82txz"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "IN MY BED",
+      "url": "https://open.spotify.com/track/0T89DfrygjPoXr6ReujDHj"
     },
     {
       "album": {
@@ -5999,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV"
       },
@@ -6665,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
+    },
+    {
+      "album": {
         "name": "Nazo Bouler (feat. Wilsko)",
         "url": "https://open.spotify.com/album/7mzMeJ91moBKQB2XY3PQxP"
       },
@@ -6856,6 +6986,24 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "album": {
+        "name": "No Games",
+        "url": "https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169843,
+      "name": "No Games",
+      "url": "https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF"
     },
     {
       "album": {
@@ -7892,7 +8040,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 139285,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj"
@@ -8088,6 +8236,28 @@
       "duration_ms": 149387,
       "name": "RDV",
       "url": "https://open.spotify.com/track/5bHQArgWUfUkpVgUeebG2V"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/0TlDonsXoYzoCo5k9Pbmqb"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/1US0oKwSXE69V7eX5221DE"
     },
     {
       "album": {
@@ -9380,7 +9550,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 176469,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm"
@@ -10580,7 +10750,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 133846,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"

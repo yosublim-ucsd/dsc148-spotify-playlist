@@ -1,13 +1,45 @@
 {
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Peonies",
-  "num_followers": 26690,
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Bedchamber",
+  "num_followers": 26733,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzPbwAAAADsI6XoJisPK2b5n8uXj5Y7",
+  "snapshot_id": "ZvWiAQAAAACHLWYSAd79vLO8bPYgSbV9",
   "tracks": [
+    {
+      "added_at": "2024-09-26 18:03:45",
+      "album": {
+        "name": "The Bigfoot Trademark Logo",
+        "url": "https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "duration_ms": 172228,
+      "name": "The Bigfoot Trademark Logo",
+      "url": "https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E"
+    },
+    {
+      "added_at": "2024-09-26 18:03:45",
+      "album": {
+        "name": "Sampai Kita Jadi Tua",
+        "url": "https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p"
+      },
+      "artists": [
+        {
+          "name": "Atlesta",
+          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Sampai Kita Jadi Tua",
+      "url": "https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj"
+    },
     {
       "added_at": "2024-09-20 01:27:10",
       "album": {

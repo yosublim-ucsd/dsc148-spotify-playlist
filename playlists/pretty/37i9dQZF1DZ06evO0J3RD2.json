@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 7417,
+  "num_followers": 7423,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvIBAAAAAACxmMpr1xCdwYvnlkt99gX7",
+  "snapshot_id": "ZvNSgAAAAACHiU5eKEuRD1+yXXGUTbJP",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+      "duration_ms": 226360,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 226360,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "added_at": null,

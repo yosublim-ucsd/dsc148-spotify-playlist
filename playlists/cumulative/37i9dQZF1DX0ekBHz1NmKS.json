@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Adrian",
+        "url": "https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217765,
+      "name": "Adrian",
+      "url": "https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY"
+    },
+    {
+      "album": {
         "name": "Aff\u00e4ren (feat. Dolce)",
         "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 200857,
       "name": "Alltid f\u00f6r alltid",
       "url": "https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ"
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 207000,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/20q5yfZdrfj0jk1jlDOhwk"
@@ -5671,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Stay Young",
+        "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Hart",
+          "url": "https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195954,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
+    },
+    {
+      "album": {
         "name": "Don't Tell Me What To Do",
         "url": "https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ"
       },
@@ -6045,6 +6081,24 @@
     },
     {
       "album": {
+        "name": "Du borde s\u00e4ga f\u00f6rl\u00e5t",
+        "url": "https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "Du borde s\u00e4ga f\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY"
+    },
+    {
+      "album": {
         "name": "Du f\u00e5r allt",
         "url": "https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE"
       },
@@ -6096,6 +6150,24 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "album": {
+        "name": "du g\u00e5r bland molnen",
+        "url": "https://open.spotify.com/album/57BPInDglQuie8TUEiG09e"
+      },
+      "artists": [
+        {
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180196,
+      "name": "du g\u00e5r bland molnen",
+      "url": "https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f"
     },
     {
       "album": {
@@ -7135,6 +7207,36 @@
     },
     {
       "album": {
+        "name": "English Breakfast",
+        "url": "https://open.spotify.com/album/2S3RPmanXuYqjYpb6G0Q7w"
+      },
+      "artists": [
+        {
+          "name": "Pontus de Wolfe",
+          "url": "https://open.spotify.com/artist/5RhQ6wy07FohOQqxQfhrWZ"
+        },
+        {
+          "name": "The Color Red",
+          "url": "https://open.spotify.com/artist/4LXdRj60Ct4waBTsz8idCO"
+        },
+        {
+          "name": "Johanna Frostling",
+          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
+        },
+        {
+          "name": "Jacob Douglas",
+          "url": "https://open.spotify.com/artist/2kUZsGlC2wBonxMqut4xD0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171125,
+      "name": "English Breakfast (feat. Johanna Frostling & Jacob Douglas)",
+      "url": "https://open.spotify.com/track/1eLvJFfEmie1iMZcMbBx2X"
+    },
+    {
+      "album": {
         "name": "Enkelt",
         "url": "https://open.spotify.com/album/6tFRtumq3UMaFUG15PWPUv"
       },
@@ -8096,7 +8198,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 154374,
       "name": "Finns ingen annan",
       "url": "https://open.spotify.com/track/0yvWJfmhC1ubBHoYhjn1id"
@@ -9359,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "Ge inte upp p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Ge inte upp p\u00e5 mig",
+      "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "album": {
         "name": "Ge mig ett tecken",
         "url": "https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza"
       },
@@ -9374,6 +9494,24 @@
       "duration_ms": 174000,
       "name": "Ge mig ett tecken",
       "url": "https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn"
+    },
+    {
+      "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/28hLStD389vh57mwsDykXg"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285354,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw"
     },
     {
       "album": {
@@ -11252,7 +11390,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 181428,
       "name": "Home",
       "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
@@ -17510,7 +17648,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 213133,
       "name": "Molnen",
       "url": "https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv"
@@ -20039,6 +20177,24 @@
     },
     {
       "album": {
+        "name": "Persienner",
+        "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Persienner",
+      "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
+    },
+    {
+      "album": {
         "name": "PERUVIAN LILIES",
         "url": "https://open.spotify.com/album/6p4GPJRujHUq7QQ7kg7dWv"
       },
@@ -20176,7 +20332,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
@@ -21494,7 +21650,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 193600,
       "name": "Sakerna som kan ta slut",
       "url": "https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0"
@@ -22516,7 +22672,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 151739,
       "name": "Sjunger om dig",
       "url": "https://open.spotify.com/track/1p1o0IUQ6mzcs0olE68Xdz"
@@ -25342,7 +25498,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 224001,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upeKzdRUu3WD7BuTQL36B"
@@ -29746,6 +29902,28 @@
       "duration_ms": 143414,
       "name": "Zlatan Ibrahimovi\u0107",
       "url": "https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV"
+    },
+    {
+      "album": {
+        "name": "Zoey",
+        "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
+      },
+      "artists": [
+        {
+          "name": "Josef Slunge",
+          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
+        },
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183054,
+      "name": "Zoey",
+      "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
     },
     {
       "album": {

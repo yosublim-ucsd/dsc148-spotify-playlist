@@ -1,31 +1,99 @@
 {
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Marie-Flore",
-  "num_followers": 174159,
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Zaho de Sagazan",
+  "num_followers": 174167,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAACHNRfjErJNt/kq9yUfVz5C",
+  "snapshot_id": "ZvXZYAAAAAAcge/Sg2N0u7Qph2SCCTvt",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Quelques centimes",
-        "url": "https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg"
+        "name": "\u00d4 travers",
+        "url": "https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9"
       },
       "artists": [
         {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
         }
       ],
-      "duration_ms": 237933,
-      "name": "Quelques centimes",
-      "url": "https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2"
+      "duration_ms": 161912,
+      "name": "\u00d4 travers",
+      "url": "https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Garde-fou",
+        "url": "https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD"
+      },
+      "artists": [
+        {
+          "name": "Barbagallo",
+          "url": "https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Je dis merci",
+      "url": "https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "OCEANO NOXX - Nouvelle \u00e9dition",
+        "url": "https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1"
+      },
+      "artists": [
+        {
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "La louve",
+      "url": "https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Apr\u00e8s l'amour (Session Th\u00e9\u00e2tre de l'Atelier)",
+        "url": "https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 249467,
+      "name": "Apr\u00e8s l'amour - Session Th\u00e9\u00e2tre de l'Atelier",
+      "url": "https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "G\u00f6ttingen",
+        "url": "https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS"
+      },
+      "artists": [
+        {
+          "name": "Arthur Teboul",
+          "url": "https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6"
+        },
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "G\u00f6ttingen",
+      "url": "https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Tout pour moi",
         "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
@@ -41,23 +109,155 @@
       "url": "https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Je voudrais tomber amoureux",
-        "url": "https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0"
+        "name": "Le Grand Sommeil",
+        "url": "https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Radu",
-          "url": "https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX"
+          "name": "Xavier Polycarpe",
+          "url": "https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP"
+        },
+        {
+          "name": "Aur\u00e9lie Saada",
+          "url": "https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh"
         }
       ],
-      "duration_ms": 283509,
-      "name": "Je voudrais tomber amoureux",
-      "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
+      "duration_ms": 184040,
+      "name": "Le Grand Sommeil",
+      "url": "https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "ils en savent quoi ?",
+        "url": "https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "ils en savent quoi ?",
+      "url": "https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Vivant",
+        "url": "https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "duration_ms": 182721,
+      "name": "Vivant",
+      "url": "https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Marcher droit",
+        "url": "https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Marcher droit",
+      "url": "https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Le c\u0153ur qui bat - Bande originale du film",
+        "url": "https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Delerm",
+          "url": "https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Le c\u0153ur qui bat",
+      "url": "https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Quelques centimes",
+        "url": "https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "Quelques centimes",
+      "url": "https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Sous mon bob",
+        "url": "https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 162016,
+      "name": "Sous mon bob",
+      "url": "https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Les astres",
+        "url": "https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg"
+      },
+      "artists": [
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        }
+      ],
+      "duration_ms": 240064,
+      "name": "Les astres",
+      "url": "https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Ce qui nous lie",
         "url": "https://open.spotify.com/album/5YHJckjmhPlW6RiVDHminK"
@@ -109,131 +309,87 @@
       "url": "https://open.spotify.com/track/3QIZPNupFHSvcOPx0Q41XM"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Le Grand Sommeil",
-        "url": "https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR"
+        "name": "Je voudrais tomber amoureux",
+        "url": "https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0"
       },
       "artists": [
         {
-          "name": "Xavier Polycarpe",
-          "url": "https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP"
-        },
-        {
-          "name": "Aur\u00e9lie Saada",
-          "url": "https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh"
+          "name": "F\u00e9lix Radu",
+          "url": "https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Le Grand Sommeil",
-      "url": "https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh"
+      "duration_ms": 283509,
+      "name": "Je voudrais tomber amoureux",
+      "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Nu",
-        "url": "https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi"
+        "name": "La Romance",
+        "url": "https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK"
       },
       "artists": [
         {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
         }
       ],
-      "duration_ms": 146210,
-      "name": "Nu",
-      "url": "https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0"
+      "duration_ms": 196974,
+      "name": "La Romance",
+      "url": "https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "G\u00f6ttingen",
-        "url": "https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS"
+        "name": "R\u00eaver",
+        "url": "https://open.spotify.com/album/5I3TWGhKoXOMmHodyMH2YV"
       },
       "artists": [
         {
-          "name": "Arthur Teboul",
-          "url": "https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6"
-        },
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
         }
       ],
-      "duration_ms": 189186,
-      "name": "G\u00f6ttingen",
-      "url": "https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E"
+      "duration_ms": 169400,
+      "name": "Tu parles trop",
+      "url": "https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Rome (Version acoustique)",
-        "url": "https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu"
+        "name": "r\u00e9parer",
+        "url": "https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu"
       },
       "artists": [
         {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
         }
       ],
-      "duration_ms": 167520,
-      "name": "Rome - Version acoustique",
-      "url": "https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP"
+      "duration_ms": 156138,
+      "name": "fou",
+      "url": "https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Jardin d'hiver",
-        "url": "https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR"
+        "name": "Mon \u00e9paule",
+        "url": "https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b"
       },
       "artists": [
         {
-          "name": "Waxx",
-          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
-        },
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI"
+      "duration_ms": 163453,
+      "name": "Mon \u00e9paule",
+      "url": "https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Vivant",
-        "url": "https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX"
-      },
-      "artists": [
-        {
-          "name": "Malik Djoudi",
-          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
-        }
-      ],
-      "duration_ms": 182721,
-      "name": "Vivant",
-      "url": "https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "OCEANO NOX",
-        "url": "https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl"
-      },
-      "artists": [
-        {
-          "name": "Clara Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
-        }
-      ],
-      "duration_ms": 193370,
-      "name": "Souveraines",
-      "url": "https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Piano Voix",
         "url": "https://open.spotify.com/album/1gqh4vUbdIetgdpWqnaq67"
@@ -253,135 +409,39 @@
       "url": "https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "ils en savent quoi ?",
-        "url": "https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO"
+        "name": "Rome (Version acoustique)",
+        "url": "https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu"
       },
       "artists": [
         {
-          "name": "jenna",
-          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
         }
       ],
-      "duration_ms": 198000,
-      "name": "ils en savent quoi ?",
-      "url": "https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D"
+      "duration_ms": 167520,
+      "name": "Rome - Version acoustique",
+      "url": "https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Apr\u00e8s l'amour (Session Th\u00e9\u00e2tre de l'Atelier)",
-        "url": "https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ"
+        "name": "contrebande 02. le disque de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG"
       },
       "artists": [
         {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
         }
       ],
-      "duration_ms": 249467,
-      "name": "Apr\u00e8s l'amour - Session Th\u00e9\u00e2tre de l'Atelier",
-      "url": "https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP"
+      "duration_ms": 190426,
+      "name": "sapon",
+      "url": "https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Sous mon bob",
-        "url": "https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 162016,
-      "name": "Sous mon bob",
-      "url": "https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "La Romance",
-        "url": "https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK"
-      },
-      "artists": [
-        {
-          "name": "Ronnie",
-          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
-        }
-      ],
-      "duration_ms": 196974,
-      "name": "La Romance",
-      "url": "https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r"
-      },
-      "artists": [
-        {
-          "name": "Voyou",
-          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Mon \u00e9paule",
-        "url": "https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b"
-      },
-      "artists": [
-        {
-          "name": "Clou",
-          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "Mon \u00e9paule",
-      "url": "https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Le c\u0153ur qui bat - Bande originale du film",
-        "url": "https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz"
-      },
-      "artists": [
-        {
-          "name": "Vincent Delerm",
-          "url": "https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "Le c\u0153ur qui bat",
-      "url": "https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "R\u00eaver",
-        "url": "https://open.spotify.com/album/5I3TWGhKoXOMmHodyMH2YV"
-      },
-      "artists": [
-        {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Tu parles trop",
-      "url": "https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Exister",
         "url": "https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8"
@@ -397,39 +457,39 @@
       "url": "https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "r\u00e9parer",
-        "url": "https://open.spotify.com/album/5gJhca2FaL4ruf9nKSpMIu"
+        "name": "Je suis l\u00e0",
+        "url": "https://open.spotify.com/album/70prraH3gvosWj2dIRhWgR"
       },
       "artists": [
         {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+          "name": "Louis Chedid",
+          "url": "https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn"
         }
       ],
-      "duration_ms": 156138,
-      "name": "fou",
-      "url": "https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp"
+      "duration_ms": 257200,
+      "name": "Je suis l\u00e0",
+      "url": "https://open.spotify.com/track/6O8BhlrvuHPJnGqUnolQN7"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+        "name": "Les rois du d\u00e9sespoir",
+        "url": "https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s"
       },
       "artists": [
         {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
         }
       ],
-      "duration_ms": 170590,
-      "name": "Les gar\u00e7ons",
-      "url": "https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ"
+      "duration_ms": 168493,
+      "name": "Les rois du d\u00e9sespoir",
+      "url": "https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Se dire au revoir (feat. Voyou)",
         "url": "https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH"
@@ -449,55 +509,87 @@
       "url": "https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Je suis l\u00e0",
-        "url": "https://open.spotify.com/album/70prraH3gvosWj2dIRhWgR"
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4"
       },
       "artists": [
         {
-          "name": "Louis Chedid",
-          "url": "https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn"
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
         }
       ],
-      "duration_ms": 257200,
-      "name": "Je suis l\u00e0",
-      "url": "https://open.spotify.com/track/6O8BhlrvuHPJnGqUnolQN7"
+      "duration_ms": 217819,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Les rois du d\u00e9sespoir",
-        "url": "https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s"
+        "name": "La souterraine",
+        "url": "https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv"
       },
       "artists": [
         {
-          "name": "Clara Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+          "name": "Emily Loizeau",
+          "url": "https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Les rois du d\u00e9sespoir",
-      "url": "https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp"
+      "duration_ms": 269968,
+      "name": "La souterraine",
+      "url": "https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "contrebande 02. le disque de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG"
+        "name": "\u00c0 l'\u00e9vidence",
+        "url": "https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn"
       },
       "artists": [
         {
-          "name": "Flavien Berger",
-          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
         }
       ],
-      "duration_ms": 190426,
-      "name": "sapon",
-      "url": "https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso"
+      "duration_ms": 165333,
+      "name": "\u00c0 l'\u00e9vidence",
+      "url": "https://open.spotify.com/track/159HSchugulB4yPCx1SaI1"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 146210,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Tout de suite",
+        "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Empreinte",
+      "url": "https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Le sais-tu \u00bf (feat. Marguerite Thiam)",
         "url": "https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC"
@@ -517,7 +609,7 @@
       "url": "https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Perdre la t\u00eate",
         "url": "https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ"
@@ -533,135 +625,7 @@
       "url": "https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "J'sais pas",
-        "url": "https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh"
-      },
-      "artists": [
-        {
-          "name": "Thomas Caruso Aragona",
-          "url": "https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09"
-        }
-      ],
-      "duration_ms": 211150,
-      "name": "J'sais pas",
-      "url": "https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "\u00c0 l'\u00e9vidence",
-        "url": "https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn"
-      },
-      "artists": [
-        {
-          "name": "Clou",
-          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "\u00c0 l'\u00e9vidence",
-      "url": "https://open.spotify.com/track/159HSchugulB4yPCx1SaI1"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/3FVjnRqcREOvX0BO2AsBB4"
-      },
-      "artists": [
-        {
-          "name": "Da Silva",
-          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
-        }
-      ],
-      "duration_ms": 217819,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "La souterraine",
-        "url": "https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv"
-      },
-      "artists": [
-        {
-          "name": "Emily Loizeau",
-          "url": "https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09"
-        }
-      ],
-      "duration_ms": 269968,
-      "name": "La souterraine",
-      "url": "https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "S\u00e9maphore",
-        "url": "https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY"
-      },
-      "artists": [
-        {
-          "name": "Herv\u00e9",
-          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "S\u00e9maphore",
-      "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/6aV27BzyHxEBrh4uDIQkQm"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Duthu",
-          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
-        }
-      ],
-      "duration_ms": 214039,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Tout de suite",
-        "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Empreinte",
-      "url": "https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Insolation",
         "url": "https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp"
@@ -677,7 +641,7 @@
       "url": "https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Mode d'emploi",
         "url": "https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN"
@@ -693,7 +657,23 @@
       "url": "https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "S\u00e9maphore",
+        "url": "https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9",
+          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "S\u00e9maphore",
+      "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Bande annonce",
         "url": "https://open.spotify.com/album/3madmQA8hvMj3qZ18ud76H"
@@ -709,7 +689,7 @@
       "url": "https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "La R\u00e9plique",
         "url": "https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Le Lapin",
         "url": "https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8"
@@ -741,23 +721,23 @@
       "url": "https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "Hauteurs",
-        "url": "https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq"
+        "name": "J'sais pas",
+        "url": "https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh"
       },
       "artists": [
         {
-          "name": "Blondino",
-          "url": "https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8"
+          "name": "Thomas Caruso Aragona",
+          "url": "https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09"
         }
       ],
-      "duration_ms": 200720,
-      "name": "Hauteurs",
-      "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
+      "duration_ms": 211150,
+      "name": "J'sais pas",
+      "url": "https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "FVL",
         "url": "https://open.spotify.com/album/05BrGpbesMwG2ObSrejFQQ"
@@ -773,59 +753,23 @@
       "url": "https://open.spotify.com/track/6Z07cvmuFdFHTcT7wtIVVu"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
-        "name": "SAKTI",
-        "url": "https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a"
+        "name": "Hauteurs",
+        "url": "https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq"
       },
       "artists": [
         {
-          "name": "Liv Oddman",
-          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+          "name": "Blondino",
+          "url": "https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8"
         }
       ],
-      "duration_ms": 194640,
-      "name": "SAKTI",
-      "url": "https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub"
+      "duration_ms": 200720,
+      "name": "Hauteurs",
+      "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Garde-fou",
-        "url": "https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD"
-      },
-      "artists": [
-        {
-          "name": "Barbagallo",
-          "url": "https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Je dis merci",
-      "url": "https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Seabed Eden (French version)",
-        "url": "https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 244528,
-      "name": "Seabed Eden - French version",
-      "url": "https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "Rien \u00e0 voir",
         "url": "https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA"
@@ -845,7 +789,43 @@
       "url": "https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "Seabed Eden (French version)",
+        "url": "https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 244528,
+      "name": "Seabed Eden - French version",
+      "url": "https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
+      "album": {
+        "name": "SAKTI",
+        "url": "https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a"
+      },
+      "artists": [
+        {
+          "name": "Liv Oddman",
+          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "SAKTI",
+      "url": "https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub"
+    },
+    {
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "La route de V\u00e9nus",
         "url": "https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7"
@@ -861,7 +841,7 @@
       "url": "https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-26 22:00:00",
       "album": {
         "name": "The Lake",
         "url": "https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ"

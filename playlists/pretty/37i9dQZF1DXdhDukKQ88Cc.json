@@ -1,15 +1,31 @@
 {
   "description": "den st\u00f8rste dk rap lige nu \ud83c\udf0a\ud83c\udf0a",
-  "num_followers": 187197,
+  "num_followers": 187217,
   "original_name": "100 DK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zuye4AAAAAB8zGDJKFvZUmp7LzFpXWkF",
+  "snapshot_id": "ZvX1gAAAAAA1bn9+/KhX4ZSZs8vPD0ct",
   "tracks": [
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "AFIA",
+        "url": "https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "AFIA",
+      "url": "https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "DIN D***",
         "url": "https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX"
@@ -25,179 +41,7 @@
       "url": "https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "SkyLL",
-        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        }
-      ],
-      "duration_ms": 176337,
-      "name": "SkyLL",
-      "url": "https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "4 LIFE",
-        "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "4 LIFE",
-      "url": "https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Barn Af Byen Freestyle",
-        "url": "https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh"
-      },
-      "artists": [
-        {
-          "name": "Anton Westerlin",
-          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Barn Af Byen Freestyle",
-      "url": "https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "KENNY",
-        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 161241,
-      "name": "Reposado",
-      "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "H V D O L",
-        "url": "https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 219023,
-      "name": "H V D O L",
-      "url": "https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "TUR",
-        "url": "https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY"
-      },
-      "artists": [
-        {
-          "name": "Larry",
-          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
-        }
-      ],
-      "duration_ms": 133101,
-      "name": "TUR",
-      "url": "https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "FOMO 88.8 FM",
-        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 116227,
-      "name": "To Gange",
-      "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Signaler",
-        "url": "https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e"
-      },
-      "artists": [
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        },
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
-        }
-      ],
-      "duration_ms": 150285,
-      "name": "Signaler",
-      "url": "https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
-      "album": {
-        "name": "Kogende (feat. Noah Carter)",
-        "url": "https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r"
-      },
-      "artists": [
-        {
-          "name": "Kimbo",
-          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
-        },
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 130917,
-      "name": "Kogende (feat. Noah Carter)",
-      "url": "https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE"
-    },
-    {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -217,7 +61,211 @@
       "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "4 LIFE",
+        "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "4 LIFE",
+      "url": "https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "TING",
+        "url": "https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "TING",
+      "url": "https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "Barn Af Byen Freestyle",
+        "url": "https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Barn Af Byen Freestyle",
+      "url": "https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "KENNY",
+        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 161241,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "H V D O L",
+        "url": "https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 219023,
+      "name": "H V D O L",
+      "url": "https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "TUR",
+        "url": "https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY"
+      },
+      "artists": [
+        {
+          "name": "Larry",
+          "url": "https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh"
+        }
+      ],
+      "duration_ms": 133101,
+      "name": "TUR",
+      "url": "https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "FOMO 88.8 FM",
+        "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 116227,
+      "name": "To Gange",
+      "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "Signaler",
+        "url": "https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "duration_ms": 150285,
+      "name": "Signaler",
+      "url": "https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "Kogende (feat. Noah Carter)",
+        "url": "https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r"
+      },
+      "artists": [
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 130917,
+      "name": "Kogende (feat. Noah Carter)",
+      "url": "https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "Glem Nu",
+        "url": "https://open.spotify.com/album/23cZsSmIkjeqU3pdqCxGeM"
+      },
+      "artists": [
+        {
+          "name": "Faza",
+          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Glem Nu",
+      "url": "https://open.spotify.com/track/7vWbMVQqpqvP20o6eQMSvo"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "SkyLL",
+        "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "duration_ms": 176337,
+      "name": "SkyLL",
+      "url": "https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
@@ -257,7 +305,23 @@
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5lUNsYLIZX9QDIFnxmcGxv"
+      },
+      "artists": [
+        {
+          "name": "NODE",
+          "url": "https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg"
+        }
+      ],
+      "duration_ms": 167959,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Pr\u00e6sident",
         "url": "https://open.spotify.com/album/5dM1hfCHPDlvvnYTE5iF66"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/6edMFU0G49Lhr1QKhAjXcm"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -293,7 +357,23 @@
       "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
+      "album": {
+        "name": "Ik T\u00e6nk",
+        "url": "https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "duration_ms": 153907,
+      "name": "Ik T\u00e6nk",
+      "url": "https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw"
+    },
+    {
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Du Min",
         "url": "https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS"
@@ -309,7 +389,7 @@
       "url": "https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Chanel Freestyle",
         "url": "https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz"
@@ -365,7 +445,7 @@
       "url": "https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "For Livet",
         "url": "https://open.spotify.com/album/42x2AI6qbiBJYx89oOZMJg"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/5viIhkqgleyQyxIqPIMvYe"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -401,7 +481,7 @@
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "BABA BUSINESS 3",
         "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
@@ -417,7 +497,7 @@
       "url": "https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA"
@@ -433,7 +513,7 @@
       "url": "https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -453,7 +533,7 @@
       "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "007",
         "url": "https://open.spotify.com/album/1QltDJCPYys8wTwNOFxTvo"
@@ -469,7 +549,7 @@
       "url": "https://open.spotify.com/track/00EfuUUB0p9I4Ilq72WmYT"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "DJ\u00c6VLER (feat. Branco)",
         "url": "https://open.spotify.com/album/1IFxOx0LMpGzKX5rNpPBqs"
@@ -489,7 +569,7 @@
       "url": "https://open.spotify.com/track/6Sp9amnEFMskwgObFDpZK4"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Bellingham Freestyle",
         "url": "https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7"
@@ -509,7 +589,7 @@
       "url": "https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "OCHO",
         "url": "https://open.spotify.com/album/6qNTf2SSU5LesB8d8w63if"
@@ -525,7 +605,7 @@
       "url": "https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Vakuum",
         "url": "https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts"
@@ -545,7 +625,7 @@
       "url": "https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/67k5Zv2U62mSFwsonVlyOU"
@@ -561,7 +641,7 @@
       "url": "https://open.spotify.com/track/5e9U7xJdDxmlBgvmBufHxr"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
         "url": "https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl"
@@ -585,7 +665,7 @@
       "url": "https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "LIGE HER (feat. Merro8)",
         "url": "https://open.spotify.com/album/3gf6BCBVuV6u14xoG6xGIJ"
@@ -605,7 +685,7 @@
       "url": "https://open.spotify.com/track/2XxScNmAUrcOcl2BSwmI8U"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Indtil Solen Kom (Feat. Branco)",
         "url": "https://open.spotify.com/album/6jd21AriSyqHTX9fpyr1qr"
@@ -625,7 +705,7 @@
       "url": "https://open.spotify.com/track/1kYSGphNRoOpYoe3x63qsd"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "KITTY (feat. Tessa)",
         "url": "https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt"
@@ -645,7 +725,7 @@
       "url": "https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Coconut Dreams",
         "url": "https://open.spotify.com/album/3RmzF1NpJTdGoBcHHg9WYF"
@@ -665,7 +745,7 @@
       "url": "https://open.spotify.com/track/6s5fTvO1t80qZ61xjeCv9m"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Eneste (feat. KESI)",
         "url": "https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB"
@@ -685,7 +765,7 @@
       "url": "https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Balaclava",
         "url": "https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE"
@@ -701,7 +781,7 @@
       "url": "https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/0ibuiCtHWmTftzZpTZAxtD"
@@ -721,7 +801,7 @@
       "url": "https://open.spotify.com/track/0bZcMRbdHEu7mJfx3233xN"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Energien",
         "url": "https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV"
@@ -737,7 +817,7 @@
       "url": "https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Aldrig Alene",
         "url": "https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X"
@@ -753,7 +833,7 @@
       "url": "https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/445LOHJRfwq4dR3f77oWBF"
@@ -769,7 +849,7 @@
       "url": "https://open.spotify.com/track/3ZhAJ9vOYKeaeo8m2OtKlh"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "VEND OM",
         "url": "https://open.spotify.com/album/27ztKpAJgGgqF7db7syLIs"
@@ -785,7 +865,7 @@
       "url": "https://open.spotify.com/track/3v18HYLfMVttHbUEfOwbMb"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "KOM HERHEN",
         "url": "https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS"
@@ -801,7 +881,7 @@
       "url": "https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Fungerer",
         "url": "https://open.spotify.com/album/4qSZPlNs2Jh7eib2Geb7AR"
@@ -817,7 +897,7 @@
       "url": "https://open.spotify.com/track/35pRKsTd60JHRRl1GH2W5i"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Helt Sikker",
         "url": "https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg"
@@ -833,7 +913,7 @@
       "url": "https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "BABA BUSINESS 3",
         "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
@@ -857,7 +937,7 @@
       "url": "https://open.spotify.com/track/18pY9lRsEigm9yDWpfp56z"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "OCHO",
         "url": "https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl"
@@ -873,7 +953,7 @@
       "url": "https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Indre Stemme",
         "url": "https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues"
@@ -893,7 +973,7 @@
       "url": "https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Et Par Timer",
         "url": "https://open.spotify.com/album/57KyTFA1EXOs6ZDL0CrA5W"
@@ -909,7 +989,7 @@
       "url": "https://open.spotify.com/track/1eEc7r9BeHoiE9XYjLRoSx"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -933,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ"
@@ -949,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "AFRO DANSKER II",
         "url": "https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW"
@@ -965,7 +1045,7 @@
       "url": "https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "En dag giver alt nok mening\u2026 (DELUXE)",
         "url": "https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM"
@@ -985,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Intet Nyt (feat. Gilli)",
         "url": "https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n"
@@ -1005,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Distance (feat. Jamaika)",
         "url": "https://open.spotify.com/album/6KibBUnazaBaPjId1jSfAR"
@@ -1025,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5AzSKwoLyIZUQOngfgZie4"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Stemmer",
         "url": "https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P"
@@ -1041,7 +1121,7 @@
       "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
@@ -1061,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Skrue L\u00f8s",
         "url": "https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm"
@@ -1077,7 +1157,7 @@
       "url": "https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -1097,7 +1177,7 @@
       "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "FEAR NOBODY",
         "url": "https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN"
@@ -1113,7 +1193,7 @@
       "url": "https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "BENZ",
         "url": "https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq"
@@ -1129,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "winwin",
         "url": "https://open.spotify.com/album/7j8TjCjwYdrv8x1YBdxbcU"
@@ -1145,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
     },
     {
-      "added_at": "2024-09-19 22:00:00",
+      "added_at": "2024-09-27 00:00:00",
       "album": {
         "name": "Vi Har Den",
         "url": "https://open.spotify.com/album/5bX6c44hmKpf0RCuKYBTK4"

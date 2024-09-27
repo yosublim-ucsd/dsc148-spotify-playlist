@@ -107,22 +107,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "<Dall>",
-        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
-      },
-      "artists": [
-        {
-          "name": "ARTMS",
-          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "<Dall>",
+        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "1/6",
-        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "1/6",
-      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "First Winter",
         "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 240853,
       "name": "First Winter",
       "url": "https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "1/6",
+      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
-      },
-      "artists": [
-        {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 197240,
       "name": "Self Camera",
       "url": "https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
+      },
+      "artists": [
+        {
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Love Note!",
-        "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Love Note!",
-      "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Temperature of Love",
         "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
       },
@@ -1687,6 +1671,26 @@
       "duration_ms": 226440,
       "name": "Love Counseling",
       "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "play ground",
+        "url": "https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle"
+      },
+      "artists": [
+        {
+          "name": "Swing",
+          "url": "https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W"
+        },
+        {
+          "name": "Nene",
+          "url": "https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K"
+        }
+      ],
+      "duration_ms": 206583,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 124236,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 171130,
       "name": "Flerte",
       "url": "https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn"
@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 195348,
       "name": "misteriosa (xulinho)",
       "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
@@ -8346,6 +8346,24 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "album": {
+        "name": "Notifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7I2tjoEMssBPwcmcQFDuJX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177161,
+      "name": "Notifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3ot87RehrieMlYEzKMDFPb"
     },
     {
       "album": {
@@ -10577,6 +10595,36 @@
     },
     {
       "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        },
+        {
+          "name": "Bira Mattos",
+          "url": "https://open.spotify.com/artist/5Q3DpdfQXlWvuZVDGzaSNj"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "REDIAL",
+      "url": "https://open.spotify.com/track/3P5WJUZWiCRZgFRzZ5oUPo"
+    },
+    {
+      "album": {
         "name": "Rei de Gelo",
         "url": "https://open.spotify.com/album/1SiPQYbYRAgwGFjBVXtEHQ"
       },
@@ -11024,6 +11072,24 @@
       "duration_ms": 182971,
       "name": "Safira",
       "url": "https://open.spotify.com/track/3ZDWRJfZRNB89lpHB3NLpL"
+    },
+    {
+      "album": {
+        "name": "SAGAZ",
+        "url": "https://open.spotify.com/album/7HxFMZ1LIC8pVnNsxuK5Lk"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "SAGAZ",
+      "url": "https://open.spotify.com/track/7HdVfJcRVGDKihM7dylkjV"
     },
     {
       "album": {

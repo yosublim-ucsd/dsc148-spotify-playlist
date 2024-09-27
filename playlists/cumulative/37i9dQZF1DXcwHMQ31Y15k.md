@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
 
-384 songs - 1 day 7 hr 40 min
+385 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 | 2022-12-08 | 2023-08-11 |
 | [Blawur](https://open.spotify.com/track/3YSehtdz9NKV766UnWNFti) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Blawur](https://open.spotify.com/album/6EBNCFSMhyUhxnDwTDlmtP) | 5:37 | 2023-08-24 | 2023-11-11 |
 | [Blebah](https://open.spotify.com/track/1YgWnOEOOzlEo5rYNnyE9f) | [Arif Subagiyo](https://open.spotify.com/artist/07BZitp6GMMSE4KKvNoMm4) | [Blebah](https://open.spotify.com/album/78zVwb5sjnUDpJH2drCKqh) | 4:59 | 2024-02-29 | 2024-08-09 |
-| [Blenjani Janji](https://open.spotify.com/track/1qBommWBVcrPr0HeHnvHCM) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Kinur](https://open.spotify.com/artist/5jsXGIvDZoeaS3Ctj11zma) | [Blenjani Janji](https://open.spotify.com/album/0WSJcpYqpg35o1aGBapxzL) | 4:07 | 2024-05-16 |  |
+| [Blenjani Janji](https://open.spotify.com/track/1qBommWBVcrPr0HeHnvHCM) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Kinur](https://open.spotify.com/artist/5jsXGIvDZoeaS3Ctj11zma) | [Blenjani Janji](https://open.spotify.com/album/0WSJcpYqpg35o1aGBapxzL) | 4:07 | 2024-05-16 | 2024-09-27 |
 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 | 2023-09-07 | 2023-10-13 |
 | [Bojomu Sesok Tak Silihe](https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [Bojomu Sesok Tak Silihe](https://open.spotify.com/album/30q6Vd8qMesm9HTe7ZwBMp) | 7:19 | 2023-07-06 | 2023-12-09 |
 | [BOSOHO MOTO](https://open.spotify.com/track/44gR5bYDZyNutUyMZyaYJz) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz), [Zizi Ilma](https://open.spotify.com/artist/4hZENBJpOZOk5YYgb4do5g) | [BOSOHO MOTO](https://open.spotify.com/album/3jIpkJv0DIwJzBvDfimf9B) | 6:20 | 2024-08-09 |  |
@@ -321,7 +321,7 @@
 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 | 2022-05-26 | 2023-05-08 |
 | [Satru 2](https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/3PTPnXKrRbEtMIDuqTQd4c) | 4:48 | 2023-05-04 | 2023-12-09 |
 | [satru 2](https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [satru 2](https://open.spotify.com/album/575vP6DZdLtJiMBTPMo5Hq) | 4:45 | 2022-07-01 | 2023-08-11 |
-| [Sauro Utangmu](https://open.spotify.com/track/6f706XSdV2nXC12MH3Q3UI) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu](https://open.spotify.com/album/3timUfmLKHoJOVufGh4Vpk) | 3:33 | 2024-05-02 |  |
+| [Sauro Utangmu](https://open.spotify.com/track/6f706XSdV2nXC12MH3Q3UI) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu](https://open.spotify.com/album/3timUfmLKHoJOVufGh4Vpk) | 3:33 | 2024-05-02 | 2024-09-27 |
 | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/album/1mI60JNFsKxSiC2E9IGD7V) | 1:08 | 2024-03-08 | 2024-06-14 |
 | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ) | 3:34 | 2024-08-29 |  |
 | [Sekuat Atiku](https://open.spotify.com/track/0Fb8DFh95IctjwyPU25eZo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sekuat Atiku](https://open.spotify.com/album/1RNdZCb01OGZ6m9mYpuoNn) | 4:42 | 2022-05-26 | 2022-06-10 |
@@ -342,6 +342,7 @@
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |
 | [Sinyal Tresno](https://open.spotify.com/track/1a3eBx0pLNJ0bfI2NMm59p) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Sinyal Tresno](https://open.spotify.com/album/1CXnJCfzX2TxG76pAJrjvO) | 4:50 | 2023-02-09 | 2023-08-11 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 | 2023-08-11 |
+| [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 | 2024-09-26 |  |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5fhDqPVoKj7eSkpRiCVyw8) | [Bella Nova](https://open.spotify.com/artist/5FMLSzS6VgQZ5j9qsIhqv0) | [Tak Lalekne Kowe](https://open.spotify.com/album/7zwWjfvz7dD1kOGLSmMf9h) | 5:32 | 2024-02-23 | 2024-06-14 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2022-05-26 | 2022-08-19 |
 | [Tak Lali\-Lali Salahmu](https://open.spotify.com/track/6tpwxUUE8KjFeHT1pjqRjw) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Tak Lali\-Lali Salahmu](https://open.spotify.com/album/4XDvNZmu4lZ0fzx1e75RF9) | 5:53 | 2022-05-26 | 2023-02-10 |

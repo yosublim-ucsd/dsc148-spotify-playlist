@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: KAS:ST
 
-417 songs - 1 day 7 hr 33 min
+418 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Beatdown](https://open.spotify.com/track/1ra9xYHfVxYda7zst0gx4p) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/3MiPqFITYPDyQobtvfd9Zg) | 3:33 | 2023-09-22 | 2023-12-22 |
 | [Beatdown](https://open.spotify.com/track/6humcoL6i1JzB76rYIoKTD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/4Jq6PVpRTuwmCvj4vV0ZTn) | 3:33 | 2023-01-20 | 2023-10-02 |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-04-15 | 2023-01-21 |
-| [Believe \(Reinier Zonneveld & Zeltak 2024 Remix\)](https://open.spotify.com/track/0JvU6uZaK2SzYActrkZQKn) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Believe \(Reinier Zonneveld & Zeltak 2024 Remix\)](https://open.spotify.com/album/0Aqz7E0YgII5FdZuoHyLt2) | 3:33 | 2024-03-06 |  |
+| [Believe \(Reinier Zonneveld & Zeltak 2024 Remix\)](https://open.spotify.com/track/0JvU6uZaK2SzYActrkZQKn) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Believe \(Reinier Zonneveld & Zeltak 2024 Remix\)](https://open.spotify.com/album/0Aqz7E0YgII5FdZuoHyLt2) | 3:33 | 2024-03-06 | 2024-09-27 |
 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 | 2022-04-15 | 2022-07-29 |
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2022-07-14 | 2022-11-11 |
 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 | 2022-10-13 | 2023-11-14 |
@@ -143,6 +143,7 @@
 | [Formulate](https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Formulate](https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I) | 3:04 | 2024-02-02 | 2024-09-07 |
 | [Freaks at Night](https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Freaks at Night](https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7) | 3:34 | 2024-06-28 |  |
 | [Free Woman](https://open.spotify.com/track/5GvQguudhdHThYfrv74gVL) | [Carla Schmitt](https://open.spotify.com/artist/5D2zC4SgQwYoBcbFOrFiUe) | [Fragments](https://open.spotify.com/album/79yNnDzbaHcclG3a3ywVyW) | 5:08 | 2024-06-28 |  |
+| [Friction](https://open.spotify.com/track/6lWjP9oojE3u4P3Acpkesf) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [Magma EP](https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ) | 6:27 | 2024-09-26 |  |
 | [Full of Beats](https://open.spotify.com/track/55QgQtU2Cq3khoiAnYj2Dk) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Full of Beats](https://open.spotify.com/album/46nXRJbB9KA7opynjfMj83) | 5:46 | 2022-04-15 | 2023-01-21 |
 | [FVKVRVND](https://open.spotify.com/track/2YVizOAT1yNq7Say1AhrJR) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FVKVRVND](https://open.spotify.com/album/3iihqMrOyJ3qC5XMBJQ4MT) | 4:28 | 2024-07-26 |  |
 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 | 2022-05-26 | 2023-03-15 |

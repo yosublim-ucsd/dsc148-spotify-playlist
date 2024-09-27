@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,077 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,089 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 36 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 37 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 |
 | 38 | [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 |
-| 39 | [Souvenir, Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:11 |
+| 39 | [Souvenir, Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:10 |
 | 40 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 41 | [si tú no estás aquí](https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [si tú no estás aquí](https://open.spotify.com/album/07Lar6NcLhksUUtjjzDZZT) | 3:38 |
 | 42 | [Nadie Lo Diría](https://open.spotify.com/track/0b9xK6eoCf7BWpoUimY0r4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Nadie Lo Diría](https://open.spotify.com/album/2Qa5RlEmohnGEoloswYbYW) | 3:40 |

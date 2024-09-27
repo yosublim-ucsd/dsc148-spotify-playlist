@@ -2,9 +2,9 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Kim Loaiza, FARIANA, Ptazeta, Bellakath y Yami Safdie en portada
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Chacal Más Caro en portada
 
-621 songs - 1 day 6 hr 37 min
+622 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [3ple X \- Radio Edit](https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [3ple X \(Radio Edit\)](https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd) | 3:31 | 2023-10-27 | 2024-04-27 |
 | [4 Trokas 4 Gatas](https://open.spotify.com/track/40KeL9UhPRO8ccgZWcWDFB) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [4 Trokas 4 Gatas](https://open.spotify.com/album/4kLqVgeAPfgD76m0GuwcK4) | 2:53 | 2024-07-26 | 2024-09-07 |
 | [45 GRADOS](https://open.spotify.com/track/1sdlre29q76d9PqJNE63nQ) | [Fer Boy](https://open.spotify.com/artist/1njEAB1C4clEQp3Qy0DzKs), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [45 GRADOS](https://open.spotify.com/album/3Rrng36wX7sHHYemRlNoap) | 3:25 | 2023-07-07 | 2024-01-27 |
-| [5 Babys](https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 4:26 | 2024-09-13 |  |
+| [5 Babys](https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 4:26 | 2024-09-13 | 2024-09-27 |
 | [A Escondidas](https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq) | [Cala Vera](https://open.spotify.com/artist/3eSEdtHL36adsA9SDrvVuF) | [A Escondidas](https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL) | 3:41 | 2022-02-01 | 2022-08-04 |
 | [A la pared](https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [El Bellako](https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq) | 3:09 | 2023-06-30 | 2024-03-02 |
 | [Adicta](https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [Adicta](https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv) | 2:04 | 2022-03-02 | 2022-07-30 |
@@ -85,6 +85,7 @@
 | [Calladita](https://open.spotify.com/track/1GWGfak4Mjusp4NxzmfDs4) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Chapa JM](https://open.spotify.com/artist/71O7eskHUfLrBvFUOockZ4) | [Calladita](https://open.spotify.com/album/2d1Etw0XvlWwOKNhzfNx5n) | 3:30 | 2023-07-28 | 2024-02-17 |
 | [Calle](https://open.spotify.com/track/4cNeMVW3XTFIT5GciTanz7) | [Ryan Vuitton](https://open.spotify.com/artist/1JPYoxwwyaxzIKvEm7lHVm), [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [Manni Martinez](https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Calle](https://open.spotify.com/album/2cDBVi3YVK3XIURShVLFDb) | 3:28 | 2022-12-21 | 2023-06-24 |
 | [Calle pero Elegante](https://open.spotify.com/track/6aofSgbaXPW7vxxYs6vHB6) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Jace Kimura](https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO) | [Calle pero Elegante](https://open.spotify.com/album/4HbAFBuOTirqALcQzPIJL7) | 3:17 | 2023-03-17 | 2023-07-29 |
+| [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 | 2024-09-27 |  |
 | [canciondeamor.mp3](https://open.spotify.com/track/3SyRbMSovxjQ2jBFxhIytQ) | [0xLxxl](https://open.spotify.com/artist/5vL7m9m6LyEb71j1fZlZVW), [BITO](https://open.spotify.com/artist/5BWRkXcJTDM8ToDDL5p2Bg) | [canciondeamor.mp3](https://open.spotify.com/album/7pr0F8f3ssNDu0cbkf0PEt) | 2:48 | 2023-03-31 | 2023-04-09 |
 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 | 2023-02-17 | 2024-06-08 |
 | [Cancún](https://open.spotify.com/track/12ofPzOuKs8atT0bv53IZU) | [Tony Egan](https://open.spotify.com/artist/74udaBfuUTtwJQC2kofEXm) | [Cancún](https://open.spotify.com/album/4xWikX9ovoAUYiIG7vtFAA) | 2:56 | 2023-04-07 | 2023-07-29 |

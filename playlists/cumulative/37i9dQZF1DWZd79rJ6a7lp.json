@@ -6169,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
+    },
+    {
+      "album": {
         "name": "Eenzame stilte (Ambient version)",
         "url": "https://open.spotify.com/album/0tPYMZZWlYoevwpJUX79be"
       },
@@ -10148,7 +10166,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 190000,
       "name": "Inner Strength and Courage",
       "url": "https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A"
@@ -22422,7 +22440,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178652,
       "name": "\u00da\u00f0I",
       "url": "https://open.spotify.com/track/3m8XZRHnycaVI6hA1CDuBC"

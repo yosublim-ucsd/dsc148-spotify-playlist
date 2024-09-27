@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Emma'a",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Leslie x Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 168373,
       "name": "Baby-Boo",
       "url": "https://open.spotify.com/track/7BvFWK1cVXehPjiTL3NKgP"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "COMEBACK",
+        "url": "https://open.spotify.com/album/5mkCNcEcx4IAHmM1VzWj37"
+      },
+      "artists": [
+        {
+          "name": "Soid",
+          "url": "https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86445,
+      "name": "COMEBACK",
+      "url": "https://open.spotify.com/track/1WNnU2CpNXCHZl2k27Kv8I"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5"
       },
@@ -1514,6 +1532,32 @@
       "duration_ms": 285870,
       "name": "Dans La Chambre / Money",
       "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
+    },
+    {
+      "album": {
+        "name": "Dans les veines",
+        "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Leslie",
+          "url": "https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Dans les veines",
+      "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
     },
     {
       "album": {
@@ -2500,6 +2544,24 @@
       "duration_ms": 158352,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
+    },
+    {
+      "album": {
+        "name": "HONEY GYAL",
+        "url": "https://open.spotify.com/album/2lDgH803WV1A2ZtiAc6piQ"
+      },
+      "artists": [
+        {
+          "name": "Kayson",
+          "url": "https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "HONEY GYAL",
+      "url": "https://open.spotify.com/track/2NujDJs4LGSx2cWOQ4lrwA"
     },
     {
       "album": {
@@ -3756,7 +3818,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 161467,
       "name": "Mamacita (feat. Melina Sdk)",
       "url": "https://open.spotify.com/track/2EosOcNlfEsz6bCQJ3qNK1"
@@ -3969,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "MOLO",
+        "url": "https://open.spotify.com/album/4Y7hNNGLEtovVJ3tdX6S6y"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "MOLO",
+      "url": "https://open.spotify.com/track/3lKFQQJJ5hG89zUiNjRFYi"
+    },
+    {
+      "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
@@ -4168,6 +4248,28 @@
       "duration_ms": 195000,
       "name": "Nefertiti",
       "url": "https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR"
+    },
+    {
+      "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/1OmdtMW2FIqrtMqy8ryfnw"
+      },
+      "artists": [
+        {
+          "name": "Squidji",
+          "url": "https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok"
+        },
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164326,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6tHxflNONnyE2AgVdOnimc"
     },
     {
       "album": {
@@ -5610,7 +5712,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 171281,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
@@ -5740,7 +5842,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 243026,
       "name": "SOLD OUT !",
       "url": "https://open.spotify.com/track/5xxfiqrm3wj6h8GYS3Hwkb"
@@ -5878,7 +5980,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 171130,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/18LJA309PjDoViodm94Us1"

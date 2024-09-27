@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Oscar Anton
 
-531 songs - 1 day 5 hr 1 min
+532 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [My Oh My](https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lipstick Stains](https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC) | 2:56 | 2022-10-13 | 2022-11-25 |
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 | 2022-11-11 |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
-| [Méditerranée](https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Méditerranée](https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN) | 3:33 | 2024-06-13 |  |
+| [Méditerranée](https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Méditerranée](https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN) | 3:33 | 2024-06-13 | 2024-09-27 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 | 2024-01-11 | 2024-02-02 |
 | [Ne t'en fais pas](https://open.spotify.com/track/3WOrCrgJX1Wz09tBRODBP4) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Ne t'en fais pas](https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ) | 3:13 | 2024-02-01 | 2024-07-05 |
@@ -473,6 +473,7 @@
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-22 | 2023-01-20 |
 | [The Sun is Up](https://open.spotify.com/track/5L3nOOVZV7V8PeVkAfYYbt) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [The Sun is Up](https://open.spotify.com/album/4Sb4TbNIv5awQHlzK3RJg7) | 3:55 | 2023-06-15 | 2023-09-15 |
 | [The Wedding Song](https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq) | [Magon](https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0) | [The Wedding Song](https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN) | 2:53 | 2024-05-16 |  |
+| [Tiger Teeth \- Feat Just Jack](https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Tiger Teeth \- Feat Just Jack](https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT) | 3:00 | 2024-09-26 |  |
 | [Tired](https://open.spotify.com/track/2uRnFJyQ3OGk9Z1WzrPU9c) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Tired](https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD) | 3:32 | 2022-06-09 | 2022-12-02 |
 | [Titanic](https://open.spotify.com/track/6jDjpymppH9NCctpXhqY5Q) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Titanic](https://open.spotify.com/album/2WBuGbz4Yow819X0fddhCy) | 3:10 | 2022-04-14 | 2022-09-30 |
 | [TNT](https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [TNT](https://open.spotify.com/album/4bohO6l0T6xz7mksz4Ix7A) | 1:59 | 2022-12-15 | 2023-05-05 |

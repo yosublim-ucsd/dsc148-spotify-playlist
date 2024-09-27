@@ -4,7 +4,7 @@
 
 > The most villainous songs from the Marvel Cinematic Universe.
 
-44 songs - 2 hr 11 min
+45 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Shadows of Loki \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/3tm7mUuLLuIVsAt9hVREzD) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 2:25 | 2023-02-15 |  |
 | [Space Turbulence](https://open.spotify.com/track/67wje3DOqQy5kYbiXXzMoh) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 2:57 | 2023-02-15 |  |
 | [That's Her](https://open.spotify.com/track/1zqgJ1qsOsPTyyxCtBHSPU) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Score\)](https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj) | 0:52 | 2024-08-02 |  |
+| [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 | 2024-09-26 |  |
 | [The Conqueror](https://open.spotify.com/track/2nqbGSVpEkF2qnAgPVRXYB) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man and The Wasp: Quantumania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/523LVgy2uFE1nD4BgTV57I) | 6:17 | 2023-02-15 |  |
 | [The Destroyer](https://open.spotify.com/track/5tbjzMMiVjSfyzpXR3plhq) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Thor](https://open.spotify.com/album/6rGh1F77U9kZuXsjuCOEDw) | 2:57 | 2023-02-15 |  |
 | [The Destroyer](https://open.spotify.com/track/1eXDRxMJZ0ZaBk15TILd58) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 1:27 | 2023-02-15 |  |

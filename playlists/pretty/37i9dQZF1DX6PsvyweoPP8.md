@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,138 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,170 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Flores em Balneário](https://open.spotify.com/track/1RPSO8eSnGmTb8ukA4xKP5) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Flores em Balneário](https://open.spotify.com/album/4xDK1CoI9S3C7r7A7yadJC) | 2:26 |
 | 75 | [Desce na Onda pra Mim](https://open.spotify.com/track/72RQSTPOid12RS0zHdy91E) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Desce na Onda pra Mim](https://open.spotify.com/album/2zZ9sdTTGzyNTFiYwy2KNW) | 2:59 |
 
-Snapshot ID: `ZuzlbAAAAAAe50+CqWP6PLMgJPE5CN+i`
+Snapshot ID: `ZuzlbAAAAADdCohhLJJajfpEIFyhxj/h`

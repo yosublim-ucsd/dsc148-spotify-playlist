@@ -1525,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "La course folle",
+        "url": "https://open.spotify.com/album/430BmnKTO6rNX9SdODCoIe"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        },
+        {
+          "name": "Ana\u00efs Demoustier",
+          "url": "https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "L'avventura",
+      "url": "https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi"
+    },
+    {
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -2918,7 +2940,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 240837,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/2Ic3Obe9brvYs5e65Bl2Nc"

@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Annie\-Dog
+> New tunes from Ireland for your discovery\. Cover: NewDad
 
-226 songs - 12 hr 15 min
+228 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [intertwined](https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [intertwined](https://open.spotify.com/album/15gKDc6hSPIZ9Yx0AyzdeY) | 3:11 | 2024-02-02 | 2024-05-24 |
 | [it's alright](https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg) | [InBetween Honey](https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v) | [it's alright](https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh) | 2:29 | 2024-07-25 |  |
 | [It's Shaped You](https://open.spotify.com/track/3eImZvsLE6i54TDCMeXEpN) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [It's Shaped You](https://open.spotify.com/album/5mb0SOJTYjnveSqovBZJjB) | 3:01 | 2024-09-05 |  |
+| [Keep Looking](https://open.spotify.com/track/3DVdBwzs9pweiis3V31ZVP) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Keep Looking](https://open.spotify.com/album/4c2LG7NPPQpqchFwMbdfPN) | 3:08 | 2024-09-26 |  |
 | [Keep Up](https://open.spotify.com/track/1iKE8ZTRJEW0lr8eus0KFS) | [HANNAHBELLA](https://open.spotify.com/artist/0HY4L6Y3gywUaQ3FnM22yU) | [Keep Up](https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788) | 3:03 | 2024-07-04 |  |
 | [Kerosene](https://open.spotify.com/track/3TFPiUHCrjOFflFVtC4qJs) | [SAL](https://open.spotify.com/artist/7Bvp3oED3xilWSLnFBW369) | [Kerosene](https://open.spotify.com/album/4kwLx8Nn42e8XsrFN2Hdi3) | 4:29 | 2024-02-02 | 2024-04-05 |
 | [Landmine!](https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [WHAT WAS THE QUESTION](https://open.spotify.com/album/2fKkKKLxeXHlKknCUckPJN) | 3:16 | 2024-05-02 |  |
@@ -152,7 +153,7 @@
 | [Outside](https://open.spotify.com/track/0I2xts4kga2ulOC3yM0roB) | [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt), [SYGH](https://open.spotify.com/artist/5uVm4NbxKsMNTQF3KXGzPN) | [Outside](https://open.spotify.com/album/5DU1INumD6DSbYL4odHEkG) | 2:54 | 2024-02-02 | 2024-06-07 |
 | [panic](https://open.spotify.com/track/3wYgPXjKRJ1oGes3K1PxOF) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [panic](https://open.spotify.com/album/6R1QcK9EYyIpEi4gWLjYKZ) | 3:06 | 2024-06-20 |  |
 | [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-05 | 2024-05-10 |
-| [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 |  |
+| [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 | 2024-09-27 |
 | [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 |  |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
@@ -172,7 +173,7 @@
 | [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 | 2024-04-05 |
 | [Shadow](https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shadow EP](https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV) | 2:47 | 2024-03-08 | 2024-05-17 |
 | [Shattered Glass](https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Strawberry Scented](https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX) | 5:37 | 2024-04-11 | 2024-05-17 |
-| [She Stays West](https://open.spotify.com/track/4iTlYXo5hFlZHfLfUvBne9) | [Chris Wong](https://open.spotify.com/artist/2D8z8s14OCbvuskrCEhSif) | [She Stays West](https://open.spotify.com/album/7jLhYP19n2Otr0jALno1t1) | 3:52 | 2024-04-25 |  |
+| [She Stays West](https://open.spotify.com/track/4iTlYXo5hFlZHfLfUvBne9) | [Chris Wong](https://open.spotify.com/artist/2D8z8s14OCbvuskrCEhSif) | [She Stays West](https://open.spotify.com/album/7jLhYP19n2Otr0jALno1t1) | 3:52 | 2024-04-25 | 2024-09-27 |
 | [Shot In The Dark](https://open.spotify.com/track/0pK7Np2Rx6dYaNioN1i6np) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Shot In The Dark](https://open.spotify.com/album/67tb6jF9KTKzLlhc0HDk32) | 2:59 | 2024-02-02 | 2024-03-29 |
 | [situation blues](https://open.spotify.com/track/0M8fNSuSDNC9m0opdAs1xW) | [Jehnova](https://open.spotify.com/artist/1R8b9K6QEpHdV5c88fuH1n) | [IOU 5](https://open.spotify.com/album/3Y9QcveOO76ttyWBogog8D) | 3:07 | 2024-02-02 | 2024-05-24 |
 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-02-02 | 2024-05-24 |
@@ -208,6 +209,7 @@
 | [Travel Size](https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv) | [Rachael Lavelle](https://open.spotify.com/artist/6fB2D85hn56JzRBTlCG0nw) | [Travel Size](https://open.spotify.com/album/2GU2ufSlyZx18xc6Ri3X5Y) | 3:30 | 2024-02-02 | 2024-02-23 |
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 | 2024-07-19 |
+| [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 | 2024-09-26 |  |
 | [Under The Orange Sky](https://open.spotify.com/track/3aIzeW6ECynd5TB5q7wP7A) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Under The Orange Sky](https://open.spotify.com/album/3ocwxAiQgwQlACZlHgATVL) | 3:19 | 2024-09-12 |  |
 | [Validation](https://open.spotify.com/track/4XSbfpmunsGUYQefSBzHqq) | [Finn O'Hara](https://open.spotify.com/artist/4K4FJiiM5DFOOlfTvI1Sey) | [Validation](https://open.spotify.com/album/6XgHey6rk28GVvJKDpftuN) | 3:29 | 2024-06-13 |  |
 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-05-02 |  |

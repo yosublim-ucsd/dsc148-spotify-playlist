@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Jasmine Nadya",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: C\u00e9cil Yang",
   "name": "Ke Seberang",
   "tracks": [
+    {
+      "album": {
+        "name": "321 I'm Callin'",
+        "url": "https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cil Yang",
+          "url": "https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168113,
+      "name": "321 I'm Callin'",
+      "url": "https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi"
+    },
     {
       "album": {
         "name": "4ever (We Could Be)",
@@ -52,7 +70,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 250530,
       "name": "[STILL ON] REPEAT",
       "url": "https://open.spotify.com/track/6ZPBJ8uWEAiit8PcVk4uOS"
@@ -70,10 +88,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155327,
       "name": "After All",
       "url": "https://open.spotify.com/track/0wSdGTI9Uc8zKNSyzoyIzV"
+    },
+    {
+      "album": {
+        "name": "m. album tiga",
+        "url": "https://open.spotify.com/album/4NZUlGR0ON7wZDmczN2vqH"
+      },
+      "artists": [
+        {
+          "name": "BAP.",
+          "url": "https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305226,
+      "name": "angee song",
+      "url": "https://open.spotify.com/track/23nDdaGHCXniwDuK1Te0cr"
     },
     {
       "album": {
@@ -276,7 +312,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 294613,
       "name": "bruxism or, why i'm afraid of earthquakes",
       "url": "https://open.spotify.com/track/4UDkUxRu5l9BsMXeBPfF9I"
@@ -348,7 +384,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 231000,
       "name": "can't seem to make a change.",
       "url": "https://open.spotify.com/track/4Zo6BiLQNZP5G5dqjG6QAY"
@@ -406,7 +442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 164783,
       "name": "Casper",
       "url": "https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s"
@@ -464,7 +500,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 193105,
       "name": "coming home",
       "url": "https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni"
@@ -537,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3TyrEQXO4XM1K7mwTq2Vjw"
+      },
+      "artists": [
+        {
+          "name": "Shania Yan",
+          "url": "https://open.spotify.com/artist/1bycmYZBIFs1GndFBYtlSX"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268461,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/1VtO0KNA5dhSp3Tp4ufQq9"
+    },
+    {
+      "album": {
         "name": "Lesson",
         "url": "https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9"
       },
@@ -584,7 +638,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 293744,
       "name": "Do Right Baby!",
       "url": "https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY"
@@ -628,7 +682,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 338044,
       "name": "Don't Let It Slip Away",
       "url": "https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv"
@@ -700,7 +754,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 252244,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78"
@@ -758,7 +812,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 206400,
       "name": "Fallin\u2019 (feat. Assia Keva)",
       "url": "https://open.spotify.com/track/1NaC5MbdtiGR3ot2EDHF6v"
@@ -874,7 +928,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 427954,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u"
@@ -928,7 +982,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 244576,
       "name": "Fool For Love",
       "url": "https://open.spotify.com/track/3kMy9MiFrorFFPGnWuOsdV"
@@ -1102,7 +1156,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 182027,
       "name": "Gotchu",
       "url": "https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym"
@@ -1369,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/5tBLeD4BAL4fjrxCF0w7If"
+      },
+      "artists": [
+        {
+          "name": "Helma Namira",
+          "url": "https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259216,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/2O10SZui7vue7ZyfWWjfcR"
+    },
+    {
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/2tsNcReLshp2lOODqJmYje"
       },
@@ -1478,7 +1550,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 222000,
       "name": "Just A Matter Of Time",
       "url": "https://open.spotify.com/track/6lKxwOcrkrj5qzWFBdytwt"
@@ -1550,7 +1622,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 207589,
       "name": "Lean on a Friend",
       "url": "https://open.spotify.com/track/02ilB5DYOmrAauOgORODcY"
@@ -1698,7 +1770,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 180769,
       "name": "Louder",
       "url": "https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs"
@@ -1879,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Midnight and Gold",
+        "url": "https://open.spotify.com/album/6SAihKFiXuTAeogJTUqIPI"
+      },
+      "artists": [
+        {
+          "name": "RIMALDI",
+          "url": "https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Midnight and Gold",
+      "url": "https://open.spotify.com/track/3Ynk6NortYpA8KHYCtDgQB"
+    },
+    {
+      "album": {
         "name": "My Heaven",
         "url": "https://open.spotify.com/album/1lMeaxiRHXDAS0FN9lWcOB"
       },
@@ -1890,7 +1980,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 222222,
       "name": "My Heaven",
       "url": "https://open.spotify.com/track/2ufbxjFk8tNQLYqslJCxsl"
@@ -1960,7 +2050,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 283700,
       "name": "Never Been This Hot",
       "url": "https://open.spotify.com/track/4DzVpfD3qGRMNR620OpxnQ"
@@ -2018,7 +2108,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170679,
       "name": "Oh! All My Love (From \"Alpha Girls\")",
       "url": "https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi"
@@ -2036,7 +2126,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 340000,
       "name": "On It",
       "url": "https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj"
@@ -2080,7 +2170,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 139245,
       "name": "PAPER",
       "url": "https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M"
@@ -2356,7 +2446,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 103165,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
@@ -2392,7 +2482,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 138007,
       "name": "See The Light Light",
       "url": "https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV"
@@ -2554,7 +2644,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 210972,
       "name": "Sunday Song",
       "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
@@ -2691,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN AGE",
+        "url": "https://open.spotify.com/album/6t3KgJK2GFnbVgNIk9vwat"
+      },
+      "artists": [
+        {
+          "name": "KATHMANDU",
+          "url": "https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262608,
+      "name": "TAKE YOU HOME",
+      "url": "https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo"
+    },
+    {
+      "album": {
         "name": "Teenage Years",
         "url": "https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY"
       },
@@ -2706,6 +2814,24 @@
       "duration_ms": 250680,
       "name": "Teenage Years",
       "url": "https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX"
+    },
+    {
+      "album": {
+        "name": "The Bigfoot Trademark Logo",
+        "url": "https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172228,
+      "name": "The Bigfoot Trademark Logo",
+      "url": "https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E"
     },
     {
       "album": {
@@ -2847,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/7t2BiD6aTuWb677C2tLm93"
+      },
+      "artists": [
+        {
+          "name": "Soul Of Decay",
+          "url": "https://open.spotify.com/artist/3OXI7ZdQqQyR9UmB8wExHA"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264583,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/77Cm7H3RvqXE9kXvuXjXUA"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
       },
@@ -2876,7 +3020,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 225789,
       "name": "Twisted Neurons",
       "url": "https://open.spotify.com/track/5BZT0JzMP5Otk3tw6jFYcB"
@@ -2928,6 +3072,24 @@
       "duration_ms": 175714,
       "name": "Want Me Back",
       "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
+    },
+    {
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/36vdskrDeCy3mUbPFzNVI6"
+      },
+      "artists": [
+        {
+          "name": "Pathetic Son",
+          "url": "https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268656,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/4jLR1GRsmUmvfAUO1wCGIr"
     },
     {
       "album": {
@@ -3000,7 +3162,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 193548,
       "name": "wish",
       "url": "https://open.spotify.com/track/6b1vX7JCmPs0PJ9SiCUrfi"
@@ -3022,7 +3184,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 182000,
       "name": "With You",
       "url": "https://open.spotify.com/track/5iqGjegieFX6k8mi8KmPu9"

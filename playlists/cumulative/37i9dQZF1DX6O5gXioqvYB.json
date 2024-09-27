@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Missey",
+  "description": "La nuova scena indie italiana! Cover: Rondine",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 174677,
       "name": "a prendermi",
       "url": "https://open.spotify.com/track/0kUWwQBuzwjUjI2BLyQFdQ"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145320,
       "name": "Acqua Naturale",
       "url": "https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
@@ -186,6 +186,24 @@
       "duration_ms": 167628,
       "name": "Amore fai presto!",
       "url": "https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i"
+    },
+    {
+      "album": {
+        "name": "Anche i Cowboy Piangono",
+        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174300,
+      "name": "Anche i Cowboy Piangono",
+      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
     },
     {
       "album": {
@@ -308,10 +326,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170400,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN"
+    },
+    {
+      "album": {
+        "name": "Canterino",
+        "url": "https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "Canterino",
+      "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
     },
     {
       "album": {
@@ -326,7 +362,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 174743,
       "name": "Canzoni alla radio",
       "url": "https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B"
@@ -362,7 +398,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 174120,
       "name": "Cartine",
       "url": "https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ"
@@ -420,7 +456,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166000,
       "name": "Coca Malib\u00f9",
       "url": "https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn"
@@ -463,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Come Stai?",
+        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154552,
+      "name": "Come Stai?",
+      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
+    },
+    {
+      "album": {
         "name": "Come un cane",
         "url": "https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl"
       },
@@ -474,7 +528,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211330,
       "name": "Come un cane",
       "url": "https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o"
@@ -586,7 +640,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178773,
       "name": "Disordine",
       "url": "https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV"
@@ -698,7 +752,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 222171,
       "name": "FANTASMA",
       "url": "https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG"
@@ -756,7 +810,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 223557,
       "name": "Federico",
       "url": "https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2"
@@ -832,7 +886,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 159452,
       "name": "foglio di carta",
       "url": "https://open.spotify.com/track/3vgbh5EKi4JeX8hi8jnyjN"
@@ -929,6 +983,24 @@
     },
     {
       "album": {
+        "name": "GRANDINE",
+        "url": "https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ"
+      },
+      "artists": [
+        {
+          "name": "Solisumarte",
+          "url": "https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "GRANDINE",
+      "url": "https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB"
+    },
+    {
+      "album": {
         "name": "GRIGIO PANTONE",
         "url": "https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d"
       },
@@ -940,7 +1012,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 141704,
       "name": "GRIGIO PANTONE",
       "url": "https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y"
@@ -980,7 +1052,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 152117,
       "name": "I mostri sotto al letto",
       "url": "https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP"
@@ -998,7 +1070,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150447,
       "name": "Indiementicata",
       "url": "https://open.spotify.com/track/5hUm1XjNijoRYw7VoSM6i0"
@@ -1074,7 +1146,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 156800,
       "name": "LA WAVE",
       "url": "https://open.spotify.com/track/3wJafG2l23mr3raepszTVz"
@@ -1092,7 +1164,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 216000,
       "name": "LASCIAMI QUI",
       "url": "https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX"
@@ -1132,7 +1204,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145320,
       "name": "LO FAR\u00d2 DOMANI",
       "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
@@ -1258,7 +1330,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150259,
       "name": "Mai",
       "url": "https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2"
@@ -1298,7 +1370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 155481,
       "name": "MALE, MALISSIMO",
       "url": "https://open.spotify.com/track/3kQ9aTQdGmHrxi7KwW3Shi"
@@ -1316,7 +1388,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166015,
       "name": "MANGO E PAPAYA",
       "url": "https://open.spotify.com/track/5u5aDmTlNkqWaSqiLRIwtM"
@@ -1566,7 +1638,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 206099,
       "name": "Niente di speciale",
       "url": "https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy"
@@ -1746,10 +1818,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 167899,
       "name": "Ogni mezz'ora",
       "url": "https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO"
+    },
+    {
+      "album": {
+        "name": "Ondeggiando",
+        "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154046,
+      "name": "Ondeggiando",
+      "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
     },
     {
       "album": {
@@ -1804,10 +1894,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 162099,
       "name": "Papapa",
       "url": "https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN"
+    },
+    {
+      "album": {
+        "name": "Passo dopo Passo",
+        "url": "https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Passo dopo Passo",
+      "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
     },
     {
       "album": {
@@ -1912,7 +2020,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 211461,
       "name": "Polpastrelli",
       "url": "https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK"
@@ -2006,7 +2114,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 169874,
       "name": "Questa notte resta",
       "url": "https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG"
@@ -2046,6 +2154,24 @@
       "duration_ms": 180606,
       "name": "Ragazza del \u201899",
       "url": "https://open.spotify.com/track/76uaJQ5isjG1PV998e5ulQ"
+    },
+    {
+      "album": {
+        "name": "Rigacuore",
+        "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
+      },
+      "artists": [
+        {
+          "name": "CRETA",
+          "url": "https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Rigacuore",
+      "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
     },
     {
       "album": {
@@ -2198,7 +2324,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 152166,
       "name": "Se voglio salvarmi la vita",
       "url": "https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq"
@@ -2336,7 +2462,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 181692,
       "name": "Spezzabuio",
       "url": "https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp"
@@ -2354,7 +2480,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 145937,
       "name": "Sto grande carro",
       "url": "https://open.spotify.com/track/3tJCSVef5sXu6gic1VnAJF"
@@ -2430,7 +2556,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170937,
       "name": "SURF",
       "url": "https://open.spotify.com/track/4SWcY5POd5yyGBcP9uPzYp"
@@ -2488,6 +2614,24 @@
       "duration_ms": 188141,
       "name": "torno a casa presto",
       "url": "https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK"
+    },
+    {
+      "album": {
+        "name": "Tutta La Notte",
+        "url": "https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg"
+      },
+      "artists": [
+        {
+          "name": "Ophelia Lia",
+          "url": "https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Tutta La Notte",
+      "url": "https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV"
     },
     {
       "album": {
@@ -2592,7 +2736,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 190320,
       "name": "Un Po' Mi Pento",
       "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
@@ -2704,7 +2848,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 169466,
       "name": "yo-yo",
       "url": "https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI"

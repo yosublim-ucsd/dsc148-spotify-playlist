@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Z\u00e9lie",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Olympe Chabert",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 208733,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG"
@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "H24",
+        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216939,
+      "name": "H24",
+      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
+    },
+    {
+      "album": {
         "name": "Nuits bleues",
         "url": "https://open.spotify.com/album/6qh5Kq92rJISNj2DpKpOpU"
       },
@@ -1949,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "H\u00e9ro\u00efne",
+        "url": "https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On"
+      },
+      "artists": [
+        {
+          "name": "Tessa B",
+          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "La f\u00eate",
+      "url": "https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h"
+    },
+    {
+      "album": {
         "name": "La vie est longue",
         "url": "https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3"
       },
@@ -2000,7 +2036,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 200240,
       "name": "Le bonheur et la tristesse",
       "url": "https://open.spotify.com/track/2YUJ40ggS5vW61ZufiCOK8"
@@ -2524,7 +2560,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 169893,
       "name": "Morose",
       "url": "https://open.spotify.com/track/6h9sz00y2BxWK7luVV5moD"
@@ -2896,6 +2932,24 @@
       "duration_ms": 317513,
       "name": "PERDUE",
       "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
+    },
+    {
+      "album": {
+        "name": "Les Extraordinaires Histoires d'Amour de St Graal",
+        "url": "https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/6yM7BqM060fqEvVN6ukugK"
     },
     {
       "album": {
@@ -3622,7 +3676,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 188451,
       "name": "Stop",
       "url": "https://open.spotify.com/track/1FHYc87SB04yU4D07Ar9eD"
@@ -3764,6 +3818,24 @@
       "duration_ms": 165986,
       "name": "TOUT PERDU",
       "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"
+    },
+    {
+      "album": {
+        "name": "Haut les coeurs",
+        "url": "https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN"
+      },
+      "artists": [
+        {
+          "name": "Olympe Chabert",
+          "url": "https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Toute seule",
+      "url": "https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut"
     },
     {
       "album": {

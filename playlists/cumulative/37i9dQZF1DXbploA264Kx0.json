@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: GJ (\u8523\u5353\u5609)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko (\u67ef\u667a\u68e0)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 208500,
       "name": "frozen in time",
       "url": "https://open.spotify.com/track/1DEaum9DNltFAEzvkzUmQy"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 205945,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 217427,
       "name": "If I Tell Lies",
       "url": "https://open.spotify.com/track/6JUheBvRFEtkq2ENhCaaZB"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 228914,
       "name": "One More",
       "url": "https://open.spotify.com/track/1POXmbYNyr8cWmXHMNOnOh"
@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 259838,
       "name": "Real World",
       "url": "https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy"
@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 130714,
       "name": "the road of death",
       "url": "https://open.spotify.com/track/67HiU3Fmjk108dmyQcrNwj"
@@ -3440,6 +3440,24 @@
       "duration_ms": 196452,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt"
+    },
+    {
+      "album": {
+        "name": "This is My World",
+        "url": "https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282706,
+      "name": "This is My World",
+      "url": "https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz"
     },
     {
       "album": {
@@ -3600,6 +3618,24 @@
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "album": {
+        "name": "Undercover Plan",
+        "url": "https://open.spotify.com/album/0LA1xWNFeUUnMMB4Op9GJ0"
+      },
+      "artists": [
+        {
+          "name": "Yokkorio",
+          "url": "https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Undercover Plan",
+      "url": "https://open.spotify.com/track/53ww1Gn8vUtB7tjIJHhiGC"
     },
     {
       "album": {

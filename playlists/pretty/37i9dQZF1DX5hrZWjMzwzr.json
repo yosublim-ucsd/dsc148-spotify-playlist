@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10228,
+  "num_followers": 10225,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "MOWA W\u0118\u017bY",
+        "url": "https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "RONDO",
+      "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "NIE MA CI\u0118",
         "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 171932,
       "name": "NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "MOWA W\u0118\u017bY",
-        "url": "https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74"
-      },
-      "artists": [
-        {
-          "name": "Asster",
-          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "RONDO",
-      "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -599,30 +599,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Uzi",
-        "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
-      },
-      "artists": [
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 175518,
-      "name": "Uzi",
-      "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Lustro",
         "url": "https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 162833,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Uzi",
+        "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 175518,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "E- PUSIA",
+        "url": "https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV"
+      },
+      "artists": [
+        {
+          "name": "r\u00f3w babicze",
+          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
+        }
+      ],
+      "duration_ms": 166038,
+      "name": "W GOR\u0104CEJ WODZIE COMPANY",
+      "url": "https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Inny \u015awiat",
         "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 145401,
       "name": "Inny \u015awiat",
       "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "E- PUSIA",
-        "url": "https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV"
-      },
-      "artists": [
-        {
-          "name": "r\u00f3w babicze",
-          "url": "https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1"
-        }
-      ],
-      "duration_ms": 166038,
-      "name": "W GOR\u0104CEJ WODZIE COMPANY",
-      "url": "https://open.spotify.com/track/1UYPQ2AlncsTIRbIAZqZvV"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Mjonszu",
-          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
-        }
-      ],
-      "duration_ms": 155954,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Czarne czy Czerwone",
         "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 213000,
       "name": "Czarne czy Czerwone",
       "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/1r3ovt9tODhKNzKcmNipyX"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "duration_ms": 155954,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/4II2mvGJcwuiXJe4CvLUIe"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "nigdy wi\u0119cej 2022",
-        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "nigdy wi\u0119cej 2022",
-      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "R\u00d3\u017bA WIATR\u00d3W",
         "url": "https://open.spotify.com/album/708SuoMyf1hZYpjl78BKuJ"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 173271,
       "name": "ZENIT",
       "url": "https://open.spotify.com/track/7lTvt1RIudZHsISZqAQGmq"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "nigdy wi\u0119cej 2022",
+        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "nigdy wi\u0119cej 2022",
+      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "HHULTRAS",
+        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "duration_ms": 167034,
+      "name": "HHULTRAS",
+      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mam Ci\u0119",
         "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 141500,
       "name": "Mam Ci\u0119",
       "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "HHULTRAS",
-        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        }
-      ],
-      "duration_ms": 167034,
-      "name": "HHULTRAS",
-      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
     },
     {
       "added_at": "2024-02-27 08:21:33",

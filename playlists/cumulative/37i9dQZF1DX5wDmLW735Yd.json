@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Culture Shock, Totally Enormous Extinct Dinosaurs ",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Emily Makis, Deadline",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3810,6 +3810,28 @@
     {
       "album": {
         "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/67wXaY5OVLFxGjlC4Slcny"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5alIcLcwC6vq1GGnb69Nlx"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
@@ -4032,7 +4054,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170000,
       "name": "Drowning Mind",
       "url": "https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM"
@@ -5210,6 +5232,28 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
+    },
+    {
+      "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/0qvymU2CdCgfwbb8uvMDsc"
+      },
+      "artists": [
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/42Xuto4o2yY23efxwcW0Ut"
     },
     {
       "album": {
@@ -6891,6 +6935,32 @@
     },
     {
       "album": {
+        "name": "I Love The Way (feat. LEVi & Toddla T)",
+        "url": "https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162207,
+      "name": "I Love The Way (feat. LEVi & Toddla T)",
+      "url": "https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7"
+    },
+    {
+      "album": {
         "name": "I LUV DNB",
         "url": "https://open.spotify.com/album/1IQqGvT3YkUp7U2jvrFBnb"
       },
@@ -8502,7 +8572,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 150862,
       "name": "London",
       "url": "https://open.spotify.com/track/1SzRnWcF5Irpio5qANh49N"
@@ -9858,7 +9928,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 153735,
       "name": "Never Seen Never Heard",
       "url": "https://open.spotify.com/track/3A7VS6MzbpVI2bYtNVTNlM"
@@ -11308,7 +11378,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 201600,
       "name": "Raggamuffin",
       "url": "https://open.spotify.com/track/2BgaXr2yrSxwhMqNhsGiDf"
@@ -14680,6 +14750,28 @@
       "duration_ms": 147586,
       "name": "Today, Tomorrow and Forever",
       "url": "https://open.spotify.com/track/25tArZza3TeM5GH86ewaHD"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/37XUUenOnh5SpcXlVuqC9Q"
+      },
+      "artists": [
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4RdjnLIlcPYtYCWhSj9neK"
     },
     {
       "album": {

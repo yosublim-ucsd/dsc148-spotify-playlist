@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 331034,
       "name": "BLACK",
       "url": "https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH"
@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "eat, sleep, slay, \ud83d\udd01",
+        "url": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "eat, sleep, slay, \ud83d\udd01",
+      "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
+    },
+    {
+      "album": {
         "name": "Eiskalt (Short Mix)",
         "url": "https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f"
       },
@@ -956,6 +974,28 @@
       "duration_ms": 224825,
       "name": "Fake Like That",
       "url": "https://open.spotify.com/track/1us1kcmAd3FUPJuMtEA57G"
+    },
+    {
+      "album": {
+        "name": "Fall Down",
+        "url": "https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO"
+      },
+      "artists": [
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        },
+        {
+          "name": "MOTVS",
+          "url": "https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172004,
+      "name": "Fall Down",
+      "url": "https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj"
     },
     {
       "album": {
@@ -1094,7 +1134,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 369140,
       "name": "Frei",
       "url": "https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG"
@@ -1142,6 +1182,28 @@
       "duration_ms": 347200,
       "name": "Fuck Ya",
       "url": "https://open.spotify.com/track/5yFyrWjO4wCJVNqzLCtpmy"
+    },
+    {
+      "album": {
+        "name": "Fuera",
+        "url": "https://open.spotify.com/album/5HfSoyBymCAg7kjSDv4WEm"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186771,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/7wAsvYuM7hcrVt2n6lgfo7"
     },
     {
       "album": {
@@ -2720,7 +2782,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 404474,
       "name": "Surpressed",
       "url": "https://open.spotify.com/track/20xymtXyIesn1RnCdV4u39"

@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-411 songs - 22 hr 5 min
+412 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [At Night](https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz), [Baron Von Trax](https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT) | [At Night EP](https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA) | 3:58 | 2024-05-24 |  |
 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 | 2022-05-10 | 2023-09-12 |
 | [Baby](https://open.spotify.com/track/5NNOhlMKhGFODsPv2O4Nuq) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Baby](https://open.spotify.com/album/4JYfU6NeDueGC1ZXKQO6Vs) | 2:43 | 2024-05-24 | 2024-08-03 |
-| [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 | 2024-08-02 |  |
+| [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 | 2024-08-02 | 2024-09-27 |
 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 | 2022-05-10 | 2023-09-12 |
 | [Bad Vibe](https://open.spotify.com/track/70eehEqNug7oAhozjhG21t) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bad Vibe](https://open.spotify.com/album/0gLjyIohhJ5LxXPRJhIOtq) | 3:34 | 2021-07-09 | 2022-05-11 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-06-14 |  |
@@ -332,6 +332,7 @@
 | [Something Real](https://open.spotify.com/track/4NKNCbsOkg6vvc2EqUMAfR) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Something Real](https://open.spotify.com/album/5OROEoB8xdt3WKR3vZ0SIX) | 4:05 | 2024-08-22 |  |
 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 | 2024-06-21 |  |
 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 | 2021-07-09 | 2022-05-11 |
+| [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 | 2024-09-19 |  |
 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 | 2022-05-10 | 2024-06-14 |
 | [Standstill \(feat\. Jess Ball\)](https://open.spotify.com/track/5dyYa091JBePwcdzn2vEtQ) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Standstill \(feat\. Jess Ball\)](https://open.spotify.com/album/2Sh6eBlwGXynpB4ujPIQf1) | 2:39 | 2024-05-24 | 2024-07-02 |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-06-20 | 2024-05-17 |

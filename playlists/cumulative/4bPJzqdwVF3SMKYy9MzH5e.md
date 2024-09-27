@@ -4,7 +4,7 @@
 
 > 
 
-1,976 songs - 4 day 10 hr 23 min
+1,978 songs - 4 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [8](https://open.spotify.com/track/6X29iaaazwho3ab7GNue5r) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:53 | 2021-08-05 |  |
 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 | 2021-11-14 |  |
 | [999](https://open.spotify.com/track/7H3bV5VsjmGfXdZHRqxH89) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [999](https://open.spotify.com/album/4vx1O1NVgcbvROjsiAdzfL) | 1:52 | 2023-01-03 |  |
+| [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 | 2024-09-26 |  |
 | [:\(](https://open.spotify.com/track/6yRlrjqjHhG9qDMROg03bW) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 2:05 | 2022-07-05 |  |
 | [</3makeitworse.Mp166<3](https://open.spotify.com/track/6bgee2UykHPh01e9tzmgLt) | [Slur S1nt6n6](https://open.spotify.com/artist/4sON5Fk1puHg1G5oMpTaAN) | [</3makeitworse.Mp166<3](https://open.spotify.com/album/2qqqVp5LkPtozHKFOwcoz3) | 1:54 | 2021-08-05 |  |
 | [<demons>](https://open.spotify.com/track/4YhG0wYSsxcpe3RGeXgj9v) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 1:57 | 2022-02-18 |  |
@@ -246,6 +247,7 @@
 | [Blammed](https://open.spotify.com/track/6fQwWJB5JBqIahSAaKYeUf) | [Funkin' Sound Team](https://open.spotify.com/artist/4fqDivs0BnIje4XZ10cF2d), [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Friday Night Funkin', Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/0FUY1iMeo3mzcbdsEZOIfV) | 1:48 | 2021-08-05 |  |
 | [Bleeding Reflection](https://open.spotify.com/track/5RHzC6BJTI497fOLa4m5MS) | [Nfract](https://open.spotify.com/artist/7s9xvGsMjmPZmBYa6iEJTm) | [Bleeding Reflection](https://open.spotify.com/album/0tdFhAfTUJXmlqEir5BVA1) | 6:52 | 2022-02-04 |  |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2021-08-05 |  |
+| [BLOOD ON MY HANDS](https://open.spotify.com/track/5JXcoOrZVS1GPjUKEdl0xM) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [BLOOD ON MY HANDS](https://open.spotify.com/album/0IwDvYT2fvlVJDX1suaLQi) | 3:18 | 2024-09-26 |  |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2022-04-03 |  |
 | [bloodline](https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:36 | 2021-08-05 |  |
 | [BLOODMONEY](https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:02 | 2021-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Unearthing trailblazers. Cover: Axel Brizzy",
+  "description": "Unearthing trailblazers. Cover: Amir Hasan",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1294,6 +1294,24 @@
       "duration_ms": 152268,
       "name": "Tenang Tanya Tuhan",
       "url": "https://open.spotify.com/track/64Bp8rRO9uG1nV9834IJwL"
+    },
+    {
+      "album": {
+        "name": "Test",
+        "url": "https://open.spotify.com/album/4cFcmuZqpUYkroiPVQtSfa"
+      },
+      "artists": [
+        {
+          "name": "Amir Hasan",
+          "url": "https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148716,
+      "name": "Test",
+      "url": "https://open.spotify.com/track/6AfRavwy4mVaixO29wfyco"
     },
     {
       "album": {

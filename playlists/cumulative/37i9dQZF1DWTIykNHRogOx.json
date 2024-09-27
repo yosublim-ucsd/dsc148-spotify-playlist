@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Marie-Flore",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Zaho de Sagazan",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 178933,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI"
@@ -536,6 +536,24 @@
       "duration_ms": 283509,
       "name": "Je voudrais tomber amoureux",
       "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
+    },
+    {
+      "album": {
+        "name": "OCEANO NOXX - Nouvelle \u00e9dition",
+        "url": "https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1"
+      },
+      "artists": [
+        {
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "La louve",
+      "url": "https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD"
     },
     {
       "album": {
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Les astres",
+        "url": "https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg"
+      },
+      "artists": [
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240064,
+      "name": "Les astres",
+      "url": "https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
       },
@@ -800,7 +836,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 170590,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ"
@@ -862,6 +898,24 @@
       "duration_ms": 195746,
       "name": "Manquer \u00e0 quelqu'un quelque part",
       "url": "https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs"
+    },
+    {
+      "album": {
+        "name": "Marcher droit",
+        "url": "https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Marcher droit",
+      "url": "https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM"
     },
     {
       "album": {
@@ -1002,7 +1056,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 214039,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/6fFbN6K0m9UNG4lE8n2QdN"
@@ -1056,7 +1110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 193370,
       "name": "Souveraines",
       "url": "https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG"
@@ -1360,6 +1414,24 @@
       "duration_ms": 165333,
       "name": "\u00c0 l'\u00e9vidence",
       "url": "https://open.spotify.com/track/159HSchugulB4yPCx1SaI1"
+    },
+    {
+      "album": {
+        "name": "\u00d4 travers",
+        "url": "https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161912,
+      "name": "\u00d4 travers",
+      "url": "https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx"

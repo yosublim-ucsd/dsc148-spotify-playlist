@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 264360,
       "name": "Little Girl & The Whistlin Train",
       "url": "https://open.spotify.com/track/6flRKaS0mUxGoqdFkwTouY"
@@ -1464,6 +1464,24 @@
       "duration_ms": 232181,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
+    },
+    {
+      "album": {
+        "name": "Sinners Never Sleep",
+        "url": "https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281546,
+      "name": "No One Does It Better",
+      "url": "https://open.spotify.com/track/5hOFLQvwOjk1Dp8mNIXEU5"
     },
     {
       "album": {

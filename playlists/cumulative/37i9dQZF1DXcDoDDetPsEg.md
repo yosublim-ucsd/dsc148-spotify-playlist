@@ -4,7 +4,7 @@
 
 > Co\-curated with Dave for the Santan Cup 2024 ⚽
 
-1,291 songs - 2 day 17 hr 34 min
+1,294 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-08-25 | 2023-09-08 |
 | [Flava](https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Flava](https://open.spotify.com/album/06hReu6yFLgRUbugobxapt) | 2:33 | 2024-04-11 | 2024-05-25 |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-02-03 | 2024-03-09 |
+| [Flippin Chickens](https://open.spotify.com/track/09CPL6LwEBc7FjRong59D2) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Flippin Chickens](https://open.spotify.com/album/6rjIqhLEgy8jdKDhxgyQjt) | 2:42 | 2024-09-25 |  |
 | [Flow Switcher](https://open.spotify.com/track/2F4Vt9kHvZSFjuYud2Z29w) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Flow Switcher](https://open.spotify.com/album/0gQwzc86UP03BtfBviKHE5) | 2:28 | 2024-06-27 | 2024-07-19 |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-24 | 2023-06-17 |
 | [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-03-28 | 2024-04-26 |
@@ -454,6 +455,7 @@
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-09-01 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-15 | 2024-04-06 |
 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 | 2023-11-10 | 2023-12-14 |
+| [Going Crazy](https://open.spotify.com/track/3Ob31WKYn5Dk0dN9wZJKVr) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Quit While You're Ahead](https://open.spotify.com/album/19cREfJobUHwoeB0dVKJvT) | 2:57 | 2024-09-25 |  |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 |  |
 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 | 2022-10-13 | 2022-11-19 |
 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-09-28 | 2023-12-09 |
@@ -941,6 +943,7 @@
 | [Public Figure](https://open.spotify.com/track/0PeQk3MMmnfBMmP1EvDOP4) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Public Figure](https://open.spotify.com/album/1lyEFQfl8xQE0ylIzWHQJL) | 2:55 | 2022-09-22 | 2023-01-07 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-25 | 2023-03-09 |
 | [Pump 101](https://open.spotify.com/track/4MKOj49FQ3dlI9gqCOIjIn) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Still Brickin'](https://open.spotify.com/artist/79v8bTtrn8a0Idbv9WkddX) | [Pump 101](https://open.spotify.com/album/0ZIab9a4PhidpDukWo0MX1) | 2:32 | 2022-02-25 | 2022-05-14 |
+| [Puppies](https://open.spotify.com/track/3UNKXRqUOzfBIk6oXvs7YW) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Puppies](https://open.spotify.com/album/4XIIDKqlE05ITdEDeT7F4q) | 2:41 | 2024-09-25 |  |
 | [Pure Filth](https://open.spotify.com/track/4UpfEY1QgZUerJ2lAWUyuL) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Pure Filth](https://open.spotify.com/album/4Lyt54HRVYT9jQ2tenqatt) | 3:06 | 2022-08-12 | 2022-09-10 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-25 | 2024-06-22 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-02-25 | 2022-04-08 |

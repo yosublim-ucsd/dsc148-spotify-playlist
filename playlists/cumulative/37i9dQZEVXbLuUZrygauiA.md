@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,251 songs - 5 day 0 hr 57 min
+2,252 songs - 5 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2022-12-20 | 2023-05-06 |
 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 | 2023-02-14 | 2023-05-07 |
 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 | 2024-04-15 |  |
+| [AMOR](https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 3:35 | 2024-09-26 |  |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-03-03 | 2023-01-05 |
 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 | 2023-11-10 | 2023-11-13 |
 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 | 2023-10-06 | 2023-10-13 |
@@ -1245,7 +1246,7 @@
 | [Mi Primera Chamba](https://open.spotify.com/track/5VdMiJiobLaK7zZkN7Virq) | [Eladio chambion](https://open.spotify.com/artist/0pu2rZxTGqnfz1GB6xKKyT) | [Mi Primera Chamba](https://open.spotify.com/album/00hHsVMPA8DuPZBYiLjjqb) | 3:51 | 2023-11-03 | 2023-11-05 |
 | [Mi Primera Chamba](https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu) | [La Pirris](https://open.spotify.com/artist/0IZ3bdKJOLbrpEfREKGRM6), [Eladio chambion](https://open.spotify.com/artist/7wYBQX4u3CLKuvrUOWrNhl) | [Tears In The Ofi](https://open.spotify.com/album/3sBeQDRGs15hWUslFQguHL) | 3:51 | 2023-11-04 | 2023-11-10 |
 | [Mi Trokita Es Linda Como un Lambo](https://open.spotify.com/track/76hLepAlNHDTv7V0rASk70) | [D Garcia Music](https://open.spotify.com/artist/7rIbb6NUHwHIM6m15oFFxJ) | [Mi Trokita Es Linda Como un Lambo](https://open.spotify.com/album/4wyi26hWi49MxWIKsnAPYM) | 2:05 | 2024-01-17 | 2024-02-01 |
-| [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:00 | 2024-09-03 |  |
+| [MIATA ᕙ\(⇀‸↼‶\)ᕗ](https://open.spotify.com/track/4SNLXAPzofjZZavCrVmXIW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:00 | 2024-09-03 | 2024-09-27 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-02-10 | 2022-03-23 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-29 | 2022-06-23 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-08 | 2022-06-01 |

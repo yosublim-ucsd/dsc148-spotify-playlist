@@ -1,18 +1,38 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso",
-  "num_followers": 228028,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso & Yeison Jim\u00e9nez",
+  "num_followers": 228079,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtqMFAAAAADXZMXAkb6oviUW6WvxTY5g",
+  "snapshot_id": "ZvYI+wAAAAD5EhwhdYLr0Frtwt9kWwTs",
   "tracks": [
+    {
+      "added_at": "2024-09-27 01:23:07",
+      "album": {
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
+    },
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
-        "name": "Contentoso",
-        "url": "https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau"
+        "name": "Chismofilia",
+        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
       },
       "artists": [
         {
@@ -20,9 +40,9 @@
           "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
         }
       ],
-      "duration_ms": 165505,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823"
+      "duration_ms": 178608,
+      "name": "Chismofilia",
+      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -55,22 +75,6 @@
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
-        "name": "Chismofilia",
-        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        }
-      ],
-      "duration_ms": 178608,
-      "name": "Chismofilia",
-      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
         "name": "Tengo Ganas",
         "url": "https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg"
       },
@@ -87,6 +91,38 @@
       "duration_ms": 188400,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d"
+    },
+    {
+      "added_at": "2024-09-27 01:23:07",
+      "album": {
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/4MqG5gTORYxBHh4hwccRSQ"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 180681,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/47v4Q3tdPs89izWCpbuFpG"
+    },
+    {
+      "added_at": "2024-09-06 04:59:00",
+      "album": {
+        "name": "Contentoso",
+        "url": "https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "duration_ms": 165505,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -125,6 +161,22 @@
       "url": "https://open.spotify.com/track/0CPzztZQhgwvLy1X5acoG6"
     },
     {
+      "added_at": "2024-09-27 01:23:07",
+      "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/1O3eXSHVAoH5LTQQuHk5wX"
+      },
+      "artists": [
+        {
+          "name": "Dareska",
+          "url": "https://open.spotify.com/artist/7e5tDIzN0bIKT6BuJR012H"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/232uGqbZ9NjVZt8zZLR8kj"
+    },
+    {
       "added_at": "2024-09-06 04:59:00",
       "album": {
         "name": "Contentoso",
@@ -155,22 +207,6 @@
       "duration_ms": 175000,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/4vwSnkU49dha68do07dNXp"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "Hasta Siempre",
-        "url": "https://open.spotify.com/album/27eNAjsgjBSBp3LXTxpysl"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Hasta Siempre",
-      "url": "https://open.spotify.com/track/1UQ1jzCK5oqGU6OEkCsngb"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -235,22 +271,6 @@
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
-        "name": "El atrevimiento",
-        "url": "https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI"
-      },
-      "artists": [
-        {
-          "name": "Alan Ramirez",
-          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "El atrevimiento",
-      "url": "https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -267,22 +287,6 @@
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq"
-      },
-      "artists": [
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -903,22 +907,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2024-09-06 04:59:00",

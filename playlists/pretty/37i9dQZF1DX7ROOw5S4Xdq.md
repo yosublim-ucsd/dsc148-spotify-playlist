@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,792 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,821 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 12 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
 | 13 | [Homem Deus](https://open.spotify.com/track/5n88VFl5x0tx2FS9vbpn6D) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Deus](https://open.spotify.com/album/2ArJGEaT7hJg3nh1dqboMQ) | 4:38 |
 | 14 | [Tua Presença Vale Mais / Aviva\-nos \- Ao Vivo](https://open.spotify.com/track/3dNRehI1nc6CWCyc7kbtQD) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf) | [Tua Presença Vale Mais / Aviva\-nos \- Ao Vivo](https://open.spotify.com/album/12N3XsAj4avkCwYQGQ9Xxj) | 11:20 |
-| 15 | [Basta Ter Fé](https://open.spotify.com/track/4hKRTFHDdJmfNabzgu1Sdl) | [Only God Records](https://open.spotify.com/artist/0pMaKc5ZOJ9crimbxI3qq2), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Basta ter Fé](https://open.spotify.com/album/5LyPSV9GgGefA0cO64KORE) | 2:24 |
+| 15 | [Basta Ter Fé](https://open.spotify.com/track/4hKRTFHDdJmfNabzgu1Sdl) | [Only God Records](https://open.spotify.com/artist/0pMaKc5ZOJ9crimbxI3qq2), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [prodbymvfa](https://open.spotify.com/artist/2FJxiMBUFCPXN1ZVYHGSDa) | [Basta ter Fé](https://open.spotify.com/album/5LyPSV9GgGefA0cO64KORE) | 2:24 |
 | 16 | [Não Pare Agora](https://open.spotify.com/track/1cQD8iVIrVDk8yPIUl9Et0) | [William Sanfona](https://open.spotify.com/artist/0XzDr5yWnSIug4qnZ54QGH), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Não Pare Agora](https://open.spotify.com/album/432XQGZHk9JPVwb7j0aBPA) | 4:40 |
 | 17 | [A Vitória É Nossa](https://open.spotify.com/track/4aZg1QEy7wttKHv4fRQ6U9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Vitória É Nossa](https://open.spotify.com/album/0KUAv9wADrfuAPwf84DJrv) | 3:16 |
 | 18 | [Não Tenha Medo](https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Wesley Cruz](https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN) | [Não Tenha Medo](https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5) | 4:10 |

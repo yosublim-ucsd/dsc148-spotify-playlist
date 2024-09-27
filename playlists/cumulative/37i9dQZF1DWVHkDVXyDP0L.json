@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Bean Magazine",
+  "description": "New and local indie noise. Cover: Greta Stanley",
   "name": "Local Noise",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 200132,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N"
@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Ballad of the GOATs (feat. Kobie Dee)",
+        "url": "https://open.spotify.com/album/63LdvMDMhukY12xq1z3FQ4"
+      },
+      "artists": [
+        {
+          "name": "Briggs",
+          "url": "https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu"
+        },
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150209,
+      "name": "Ballad of the GOATs (feat. Kobie Dee)",
+      "url": "https://open.spotify.com/track/46NkDGw7sGjmsB5iZNETmn"
+    },
+    {
+      "album": {
         "name": "Best Bits",
         "url": "https://open.spotify.com/album/1xAopNlyW4Q4Cr59b5owFT"
       },
@@ -352,6 +374,24 @@
       "duration_ms": 189667,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ"
+    },
+    {
+      "album": {
+        "name": "Big Dreams",
+        "url": "https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Big Dreams",
+      "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
     },
     {
       "album": {
@@ -438,7 +478,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 237117,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
@@ -2283,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "I Feel It All At Once",
+        "url": "https://open.spotify.com/album/4qAF52zLREmgy3D2IrCzlG"
+      },
+      "artists": [
+        {
+          "name": "Semantics",
+          "url": "https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235046,
+      "name": "Last Amour",
+      "url": "https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu"
+    },
+    {
+      "album": {
         "name": "Stung!",
         "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
       },
@@ -2320,7 +2378,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 303490,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2tOTRdiIf0PX3fhMGl5y6S"
@@ -2572,7 +2630,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 218222,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2Q0ZhEGwLcjxKlfbMiXcMU"
@@ -2886,7 +2944,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 195161,
       "name": "NOSE BLEED",
       "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
@@ -2976,7 +3034,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 196000,
       "name": "On Notice",
       "url": "https://open.spotify.com/track/55RrgQiFR0C7Gjx3dzI6RT"
@@ -3012,7 +3070,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 197380,
       "name": "One Day",
       "url": "https://open.spotify.com/track/26OECDLRQBGRf4c7QDUdso"
@@ -3034,6 +3092,24 @@
       "duration_ms": 220848,
       "name": "One on One",
       "url": "https://open.spotify.com/track/06gPKlZOd0kvQmxLB4yXnW"
+    },
+    {
+      "album": {
+        "name": "Operating At A Loss",
+        "url": "https://open.spotify.com/album/3Phgx51HyP7OWFjbPCEkL6"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Operating At A Loss",
+      "url": "https://open.spotify.com/track/1OfGJzpLDSnRbcJr4EYwLf"
     },
     {
       "album": {
@@ -3145,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Happiness In A Place It Shouldn't Be",
+        "url": "https://open.spotify.com/album/7bB8437Z2UvT6SSMFBWez2"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169304,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/1wrIvEXTRaA2FWDFYhgcNW"
+    },
+    {
+      "album": {
         "name": "Surface World",
         "url": "https://open.spotify.com/album/5Fnd3Md7flbsdcJb2ejnsR"
       },
@@ -3156,7 +3250,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 166611,
       "name": "Peakin",
       "url": "https://open.spotify.com/track/60W8EMzFfSSJfquZpLy2dZ"
@@ -3254,6 +3348,24 @@
       "duration_ms": 95092,
       "name": "Please Me (feat. The Linda Lindas)",
       "url": "https://open.spotify.com/track/6HXPYn5p3zhGSW3mNyLNOk"
+    },
+    {
+      "album": {
+        "name": "Please!",
+        "url": "https://open.spotify.com/album/706u9YXN3kA7ptrncIDRpE"
+      },
+      "artists": [
+        {
+          "name": "Greatsouth",
+          "url": "https://open.spotify.com/artist/39mSHxPg5MiolYsL4lUsRU"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209249,
+      "name": "Please!",
+      "url": "https://open.spotify.com/track/3RqugeV9iW4hWpN7O7nwUl"
     },
     {
       "album": {
@@ -3531,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/3d6ZauIJ8nUxwD5gAnANUM"
+      },
+      "artists": [
+        {
+          "name": "Oscar the Wild",
+          "url": "https://open.spotify.com/artist/3GL9QGFy4v4MBilQFWeRSW"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Roll With The Punches",
+      "url": "https://open.spotify.com/track/6OEB0zCmP1sZPCmphvqbxH"
+    },
+    {
+      "album": {
         "name": "Safety Pin",
         "url": "https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C"
       },
@@ -3546,6 +3676,24 @@
       "duration_ms": 138576,
       "name": "Safety Pin",
       "url": "https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp"
+    },
+    {
+      "album": {
+        "name": "If I Get In, Where Would I Go?",
+        "url": "https://open.spotify.com/album/6wA2IXHY4Bsi6uZA2BgezN"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Saskia",
+      "url": "https://open.spotify.com/track/1UGuySsNSRb93OSO2PWy76"
     },
     {
       "album": {
@@ -3891,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Starting Again",
+        "url": "https://open.spotify.com/album/5yCin0F62IJ132GdzTcCpC"
+      },
+      "artists": [
+        {
+          "name": "The Cheaks",
+          "url": "https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225120,
+      "name": "Starting Again",
+      "url": "https://open.spotify.com/track/73CMheW41mjLXnloRZFvg3"
+    },
+    {
+      "album": {
         "name": "NARA",
         "url": "https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT"
       },
@@ -4068,7 +4234,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 203095,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/77r6GN5cz80VHAh5S3F73m"
@@ -4162,6 +4328,24 @@
       "duration_ms": 194893,
       "name": "Tell You All The Time",
       "url": "https://open.spotify.com/track/7G712DgSQCRPs4wVVwB7ZF"
+    },
+    {
+      "album": {
+        "name": "The Ants / Italia '06",
+        "url": "https://open.spotify.com/album/51dv7dIEla9QDBP9Bx7nsy"
+      },
+      "artists": [
+        {
+          "name": "Coldwave",
+          "url": "https://open.spotify.com/artist/3hg7JeEykcBkSUlZHaFT6L"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171303,
+      "name": "The Ants",
+      "url": "https://open.spotify.com/track/0HK3HtEmnidY5r13CyZf1x"
     },
     {
       "album": {
@@ -4464,10 +4648,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 210309,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0YBrYDh7YCU3CY6mex6Gx5"
+    },
+    {
+      "album": {
+        "name": "On The Line",
+        "url": "https://open.spotify.com/album/4i9ArJAurWT1h0b2qEfC2P"
+      },
+      "artists": [
+        {
+          "name": "Wet Denim",
+          "url": "https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Want You Here",
+      "url": "https://open.spotify.com/track/3VFR3r7wW9Fcc8Bqt7Zbpa"
     },
     {
       "album": {
@@ -4626,7 +4828,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-27",
       "duration_ms": 204790,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/3NPjJchxfEdDjMzJUWYL0V"

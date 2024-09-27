@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
-  "num_followers": 1915,
+  "num_followers": 1935,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -777,24 +777,20 @@
       "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sal Alright is",
-        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
+        "name": "Die Reminant",
+        "url": "https://open.spotify.com/album/18RpfMxcTHbV4Srj9qmHj5"
       },
       "artists": [
         {
-          "name": "Shameel Afrikaans Music",
-          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
-        },
-        {
-          "name": "BIGDMUZIC",
-          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
         }
       ],
-      "duration_ms": 252395,
-      "name": "Sal Alright is",
-      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
+      "duration_ms": 192078,
+      "name": "Die Reminant",
+      "url": "https://open.spotify.com/track/4o2nrEE1HvaCjC9asC6gUp"
     },
     {
       "added_at": "2024-04-05 04:23:02",
@@ -813,20 +809,24 @@
       "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
     },
     {
-      "added_at": "2024-08-15 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Die Reminant",
-        "url": "https://open.spotify.com/album/18RpfMxcTHbV4Srj9qmHj5"
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
       "artists": [
         {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
         }
       ],
-      "duration_ms": 192078,
-      "name": "Die Reminant",
-      "url": "https://open.spotify.com/track/4o2nrEE1HvaCjC9asC6gUp"
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"
     },
     {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+    },
+    {
       "added_at": "2024-09-06 06:38:30",
       "album": {
         "name": "Draadsitters",
@@ -947,22 +963,6 @@
       "duration_ms": 145815,
       "name": "Draadsitters",
       "url": "https://open.spotify.com/track/68xtHJkWSdnKz1TP59Fk3D"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Op Dai",
-        "url": "https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY"
-      },
-      "artists": [
-        {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        }
-      ],
-      "duration_ms": 206928,
-      "name": "Op Dai",
-      "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

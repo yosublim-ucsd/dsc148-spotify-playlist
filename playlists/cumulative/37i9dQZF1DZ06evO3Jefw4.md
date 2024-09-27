@@ -2,7 +2,7 @@
 
 ### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This is Katy Perry\. The essential tracks, all in one playlist.
+> This Is Katy Perry\. Los temas esenciales, todos en una lista.
 
 110 songs - 6 hr 25 min
 

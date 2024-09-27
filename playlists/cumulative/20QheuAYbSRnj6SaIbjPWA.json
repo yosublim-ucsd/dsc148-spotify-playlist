@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "The Dreams We Have As Children (Live For Teenage Cancer Trust)",
+        "url": "https://open.spotify.com/album/15MpS74sqhUZtvtXmoST5y"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher",
+          "url": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
+        }
+      ],
+      "date_added": "2024-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375840,
+      "name": "Slide Away - Live For Teenage Cancer Trust",
+      "url": "https://open.spotify.com/track/2vNwVso4GsvITfeKHdhCcv"
+    },
+    {
+      "album": {
         "name": "Lighting Matches (Deluxe)",
         "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
       },
